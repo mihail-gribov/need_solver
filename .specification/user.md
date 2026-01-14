@@ -1,248 +1,192 @@
-Отлично, тогда давай зафиксируем **строгий и полный список потребностей/признаков пользователя** именно в твоей модели:
+# User Space Specification
 
-* каждый элемент — это **ось пользовательского пространства**,
-* каждая ось представляется как **вектор (t, f)**,
-* ось может быть:
+Each element is a **user-space axis** represented as **(T, F)** vector using fuzzy4.
 
-  * желанием,
-  * запретом,
-  * контекстным фактом (аллергия, жильё, отсутствие),
-  * ограничением среды,
-* всё приводится к **одной математике**.
-
-Ниже — **канонический список** для собак, разбитый по смысловым блокам.
-Это то пространство, в котором реально будет жить `user_vector`.
+Axes can be:
+- Desires (needs)
+- Prohibitions (constraints)
+- Context facts (allergies, housing, absence)
+- Environment constraints
 
 ---
 
-# 1) Блок: здоровье, аллергии, физиология
+## 1. Health / Allergies
 
-Это **не предпочтения**, а факты пользователя → критичные оси.
+Context facts → critical axes.
 
-1. **low_shedding**
-   *Минимум линьки / шерсти в доме*
-   → связано с `shedding`
+1. **low_shedding** — minimal shedding
+   → `¬shedding`
 
-2. **hypoallergenic**
-   *Минимальная аллергенность*
-   → связано с `shedding`, `coat_type`, `dander_level` (если появится)
+2. **hypoallergenic** — minimal allergenicity
+   → `¬shedding ∧ ¬coat_smell_proneness`
 
-3. **low_smell**
-   *Минимум запаха*
-   → связано с `coat_type`, `grooming`, косвенно
+3. **low_smell** — minimal odor
+   → `¬coat_smell_proneness`
 
-4. **health_robust**
-   *Крепкое здоровье породы*
+4. **health_robust** — breed health
    → `health_robustness`
 
-5. **low_vet_costs**
-   *Низкие ожидаемые ветрасходы*
-   → `health_robustness`, `genetic_risk` (если есть)
+5. **low_vet_costs** — low expected vet expenses
+   → `health_robustness ∧ ¬genetic_risk`
 
 ---
 
-# 2) Блок: жильё и физическая среда
+## 2. Housing / Environment
 
-Контекст проживания — один из самых сильных фильтров.
+Strong filters.
 
-6. **apartment_compatible**
-   *Подходит для квартиры*
-   → `apartment_ok`, `size`, `barking`, `energy`
+6. **apartment_compatible** — suitable for apartment
+   → `apartment_compatibility ∧ ¬barking_level ∧ ¬energy_level`
 
-7. **small_space_ok**
-   *Комфортна в ограниченном пространстве*
-   → `size`, `energy`
+7. **small_space_ok** — comfortable in limited space
+   → `¬size_large ∧ ¬size_giant ∧ ¬energy_level`
 
-8. **low_barking**
-   *Редко лает*
-   → `barking`
+8. **low_barking** — rarely barks
+   → `¬barking_level`
 
-9. **urban_tolerant**
-   *Комфортна в городе*
-   → `reactivity`, `noise_tolerance` (если появится)
+9. **urban_tolerant** — comfortable in city
+   → `urban_tolerance ∧ ¬reactivity`
 
-10. **yard_independent**
-    *Не требует постоянного двора*
-    → `energy`, `exercise_need`
+10. **yard_independent** — doesn't need constant yard access
+    → `¬exercise_need`
 
 ---
 
-# 3) Блок: режим дня и отсутствие владельца
+## 3. Daily Schedule / Absence
 
-Одна из ключевых зон провалов в реальности.
+Key failure zone in reality.
 
-11. **tolerates_daily_absence**
-    *Переносит ежедневное одиночество*
-    → `alone_tolerance`, `separation_anxiety_risk`
+11. **tolerates_daily_absence** — handles daily solitude
+    → `alone_tolerance ∧ ¬separation_anxiety_risk`
 
-12. **low_separation_anxiety**
-    *Низкий риск тревоги разлуки*
-    → `separation_anxiety_risk`
+12. **low_separation_anxiety** — low separation anxiety risk
+    → `¬separation_anxiety_risk`
 
-13. **sitter_compatible**
-    *Легко остаётся с другим человеком*
+13. **sitter_compatible** — easily stays with another person
     → `sitter_compatibility`
 
-14. **travel_flexible**
-    *Подходит при командировках/отъездах*
-    → `sitter_compatibility`, `adaptability`
+14. **travel_flexible** — suitable for trips/business travel
+    → `sitter_compatibility ∧ environment_adaptability`
 
 ---
 
-# 4) Блок: семья, социальное окружение
+## 4. Family / Social Environment
 
-15. **child_friendly**
-    *Безопасна и комфортна с детьми*
+15. **child_friendly** — safe and comfortable with children
     → `child_friendly`
 
-16. **pet_friendly**
-    *Ладит с другими животными*
+16. **pet_friendly** — gets along with other animals
     → `pet_friendly`
 
-17. **stranger_friendly**
-    *Дружелюбна к незнакомым*
+17. **stranger_friendly** — friendly to strangers
     → `stranger_friendly`
 
-18. **not_overprotective**
-    *Не склонна к избыточной охране*
-    → `territoriality`, `protectiveness`
+18. **not_overprotective** — not prone to excessive guarding
+    → `¬territoriality ∧ ¬protectiveness`
 
 ---
 
-# 5) Блок: поведение и характер
+## 5. Behavior / Character
 
-Это то, что пользователь чаще всего ощущает как “подходит / не подходит”.
+What user perceives as "fits / doesn't fit".
 
-19. **low_reactivity**
-    *Спокойно реагирует на раздражители*
-    → `reactivity`
+19. **low_reactivity** — calm response to stimuli
+    → `¬reactivity`
 
-20. **emotionally_stable**
-    *Предсказуемый темперамент*
-    → `reactivity`, `stress_sensitivity`
+20. **emotionally_stable** — predictable temperament
+    → `emotional_stability`
 
-21. **affectionate**
-    *Контактная, ориентирована на человека*
+21. **affectionate** — human-oriented
     → `affection_level`
 
-22. **independent_ok**
-    *Допустима независимость*
+22. **independent_ok** — independence acceptable
     → `independence`
 
-23. **playful**
-    *Игривая*
-    → `playfulness` (если добавишь)
+23. **playful** — playful nature
+    → `playfulness`
 
 ---
 
-# 6) Блок: активность и образ жизни
+## 6. Activity / Lifestyle
 
-24. **low_energy**
-    *Невысокая потребность в активности*
-    → `energy`
+24. **low_energy** — low activity requirement
+    → `¬energy_level`
 
-25. **high_energy**
-    *Высокая активность желательна*
-    → `energy`
+25. **high_energy** — high activity desired
+    → `energy_level`
 
-(да, это две разные оси — пользователь может явно не хотеть high_energy)
-
-26. **needs_long_walks_ok**
-    *Подходит, если нужны долгие прогулки*
+26. **long_walks_ok** — okay with long walks
     → `exercise_need`
 
-27. **mental_stimulation_ok**
-    *Готов(а) к интеллектуальной нагрузке*
-    → `mental_stimulation`
+27. **mental_stimulation_ok** — ready for mental load
+    → `mental_stimulation_need`
 
 ---
 
-# 7) Блок: обучение и управление
+## 7. Training / Management
 
-Критично для соответствия “первый опыт / опытный”.
+Critical for "first-time / experienced" matching.
 
-28. **easy_to_train**
-    *Легко обучается*
+28. **easy_to_train** — easy to train
     → `trainability`
 
-29. **first_time_friendly**
-    *Подходит для первого опыта*
-    → `trainability`, `reactivity`, `independence`
+29. **first_time_friendly** — suitable for first-time owners
+    → `trainability ∧ ¬reactivity ∧ ¬owner_behavior_management_need`
 
-30. **complex_training_ok**
-    *Допустима сложная дрессировка*
-    → `trainability`, `working_drive`
+30. **complex_training_ok** — complex training acceptable
+    → `trainability ∧ working_drive`
 
-31. **behavior_management_easy**
-    *Не требует сложной коррекции поведения*
-    → `reactivity`, `behavior_management_need`
+31. **behavior_management_easy** — no complex behavior correction
+    → `¬reactivity ∧ ¬owner_behavior_management_need`
 
 ---
 
-# 8) Блок: назначение / роль
+## 8. Purpose / Role
 
-32. **companion_role**
-    *Компаньон для жизни рядом*
-    → `affection_level`, `stranger_friendly`
+32. **companion_role** — life companion
+    → `affection_level ∧ stranger_friendly`
 
-33. **guard_role**
-    *Охрана территории/дома*
-    → `territoriality`, `protectiveness`, `barking`
+33. **guard_role** — territory/home protection
+    → `territoriality ∧ protectiveness ∧ barking_level`
 
-34. **sport_work_role**
-    *Спорт / рабочие задачи*
-    → `energy`, `trainability`, `working_drive`
+34. **sport_work_role** — sports / working tasks
+    → `energy_level ∧ trainability ∧ working_drive`
 
-35. **hunting_role**
-    *Охота*
-    → `prey_drive`, `hunting_instinct` (если будет)
+35. **hunting_role** — hunting
+    → `prey_drive`
 
 ---
 
-# 9) Блок: размер и физические ограничения
+## 9. Size Constraints
 
-36. **small_size**
-    *Маленький размер*
-    → `size.small OR size.toy`
+36. **small_size** — small size required
+    → `size_toy ∨ size_small`
 
-37. **medium_size**
-    *Средний размер*
-    → `size.medium`
+37. **medium_size** — medium size preferred
+    → `size_medium`
 
-38. **large_size_ok**
-    *Крупный размер допустим*
-    → `size.large OR size.giant`
+38. **large_size_ok** — large size acceptable
+    → `size_large ∨ size_giant`
 
 ---
 
-# 10) Итоговая структура user-space
+## 10. Summary
 
-* **Всего:** ~38 осей
-* Каждая ось:
+- **Total:** ~38 axes
+- Each axis has **(T, F)** vector (fuzzy4)
+- Can be:
+  - Activated by answer
+  - Remain (0, 0) = UNKNOWN
+  - Enter conflict (T ≈ F)
 
-  * имеет `(t, f)`
-  * может быть:
-
-    * активирована ответом,
-    * остаться `(0,0)` (U),
-    * войти в противоречие (t≈f)
-
-Это **полное и достаточное пространство**, которое:
-
-* покрывает реальные жизненные сценарии,
-* не смешивает “причины” и “факты”,
-* полностью совместимо с твоей строгой моделью оптимизации.
+This is the **complete user-space basis** that:
+- Covers real-life scenarios
+- Doesn't mix causes and facts
+- Fully compatible with fuzzy4 optimization model
 
 ---
 
-## Ключевая мысль (очень важно)
+## Key Point
 
-> Это **не список вопросов** и **не список породных признаков**.
-> Это **базис пользовательского пространства**,
-> в котором любые вопросы — это просто способы поставить `(t,f)`.
-
-Если хочешь, следующим шагом могу:
-
-* дать **каноническое соответствие** “потребность → формула над породными признаками” (таблицей),
-* или показать, какие из этих осей **избыточны и могут быть выведены** из других (минимизация базиса),
-* или спроектировать **алгоритм выбора следующего вопроса** строго в терминах уменьшения ожидаемого `Loss`.
+> This is **not** a question list and **not** object feature list.
+> This is the **user-space basis** where any question is just a way to set (T, F) values.

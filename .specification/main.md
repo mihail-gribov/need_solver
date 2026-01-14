@@ -1,162 +1,132 @@
-Ниже — формулировка задачи (ТЗ) на реализацию **универсальной системы подбора объектов по результатам опроса**. Это обобщение нашего диалога (кошки/породы — частный случай).
+# Need Solver — Main Specification
+
+## Goal
+
+Build a universal system that recommends objects from a catalog based on questionnaire survey results.
+
+Examples: dog/cat breeds, car models, courses, products, etc.
+
+## System Requirements
+
+1. Collect user **needs** and **constraints**
+2. Match them against object characteristics
+3. Compute **satisfaction scores** and rank objects
+4. Select **next question adaptively** to minimize questions until stable top-N
 
 ---
 
-## Задача
+## Data Model
 
-Реализовать систему, которая по результатам диалогового/анкетного опроса пользователя подбирает наиболее подходящий объект из заранее заданного каталога объектов (например: породы кошек/собак, модели автомобилей, направления обучения, варианты товаров и т.п.).
+### 1) Object Catalog
 
-Система должна:
+Catalog O = {o_1, ..., o_n}, each object has feature vector:
 
-1. собирать у пользователя **потребности** и **ограничения**,
-2. сопоставлять их с характеристиками объектов,
-3. вычислять **оценку соответствия** и ранжировать объекты,
-4. задавать **следующий вопрос адаптивно**, чтобы минимизировать число вопросов до получения устойчивого топ-набора объектов.
+```
+X^(o) = [x_1, x_2, ..., x_d], x_i ∈ [0,1]
+```
 
----
+Feature basis requirements:
+- Covers all user needs/constraints
+- Minimal, no duplicates
+- Supports continuous [0,1] and categorical (one-hot) features
 
-## Модель данных
+### 2) User Profile
 
-### 1) Каталог объектов
+Formed during survey, consists of:
+- **Needs** R = [r_1, ..., r_K], r_k ∈ [0,1]
+- **Constraints** C = [c_1, ..., c_L], c_l ∈ [0,1]
 
-Каталог состоит из объектов (O = {o_1, ..., o_n}).
-Каждый объект описывается вектором базовых характеристик:
+Interpretation:
+- 0 = not important / no constraint
+- 1 = critical / hard requirement
 
-[
-X^{(o)} = [x_1, x_2, ..., x_d], \quad x_i \in [0,1]
-]
+### 3) Formulas (CNF with 4-valued fuzzy logic)
 
-Где (d) — размерность базиса характеристик.
+Each need/constraint is a formula over object features.
+Format: **CNF** — conjunction of disjunctions:
+- Literal: x_i or ¬x_i
+- Clause: L_1 ∨ ... ∨ L_m
+- Formula: K_1 ∧ ... ∧ K_n
 
-Требования к базису характеристик:
-
-* покрывает все потребности/ограничения пользователя,
-* по возможности минимален и не содержит прямых дубликатов,
-* допускает как непрерывные признаки ([0,1]), так и категориальные, закодированные через one-hot группы.
-
-### 2) Профиль пользователя
-
-Профиль пользователя формируется по итогам опроса и состоит из двух наборов интенсивностей:
-
-* **Потребности** (R = [r_1, ..., r_K]), (r_k \in [0,1])
-* **Ограничения** (C = [c_1, ..., c_L]), (c_l \in [0,1])
-
-Интерпретация:
-
-* 0 — не важно/нет ограничения,
-* 1 — критично/жёсткий запрет или требование.
-
-### 3) Формулы потребностей и ограничений
-
-Каждая потребность и каждое ограничение задаются формулой над базисом характеристик объектов.
-Базовый формат: **НКФ (CNF)** — конъюнкция дизъюнкций литералов:
-
-* литерал: (x_i) или (\neg x_i)
-* клауза: (L_1 \lor ... \lor L_m)
-* формула: (K_1 \land ... \land K_n)
-
-Система должна поддерживать вычисление «степени выполнения» формулы объектом на непрерывных признаках (fuzzy-оценка), например:
-
-* (\text{sat}(x_i)=x_i)
-* (\text{sat}(\neg x_i)=1-x_i)
-* (\text{sat}(\lor)=\max)
-* (\text{sat}(\land)=) взвешенное среднее по клаузам, где вес клаузы зависит от размера дизъюнкции (например, (1/m)).
+**Evaluation uses fuzzy4** (4-valued Belnap-Lukasiewicz logic):
+- Each formula evaluates to (T, F) vector
+- States: TRUE (1,0), FALSE (0,1), UNKNOWN (0,0), CONFLICT (1,1)
+- Operations: Lukasiewicz t-norm/s-norm
 
 ---
 
-## Опросник
+## Questionnaire
 
-### 1) Структура вопросов
+### Question Structure
 
-Система содержит набор вопросов (Q = {q_1, ..., q_M}).
+Each question has:
+- Text
+- Answer options
+- For each answer:
+  - Profile update rules (set/adjust r_k or c_l)
+  - Disabled questions list
+  - (optional) Branching rules
 
-Каждый вопрос имеет:
-
-* текст,
-* набор вариантов ответов,
-* для каждого ответа:
-
-  * правила обновления профиля (R) и (C) (например, установить/усилить некоторые (r_k) или (c_l)),
-  * список вопросов, которые становятся нерелевантными и должны быть отключены (disabled),
-  * (опционально) правила перехода/ветвления.
-
-Правила ответа должны быть описаны декларативно (JSON/YAML), чтобы логика опроса редактировалась без изменения кода.
+Rules are declarative (JSON) — survey logic editable without code changes.
 
 ---
 
-## Вычисление результата
+## Scoring
 
-### 1) Фильтрация по ограничениям
+### 1) Constraint Filtering
 
-Система должна уметь:
+- Hard exclusion: if c_l ≥ T_hard and sat(G_l).F > threshold
+- Soft penalty: reduce final score
 
-* жёстко отбрасывать объекты, нарушающие сильные ограничения (например, при (c_l \ge T_hard) и sat((G_l)) ниже порога),
-* либо применять штрафы (soft constraints), уменьшая итоговый скор.
+### 2) Object Score
 
-### 2) Скор соответствия объекту
+```
+Score(o) = NeedsScore(o) × ConstraintsPenalty(o)
+```
 
-Для каждого объекта вычисляется:
+Where:
+- NeedsScore = weighted average of sat(need).T with weights r_k
+- ConstraintsPenalty = penalty based on sat(constraint).F with weights c_l
 
-* удовлетворение каждой потребности (s_k(o) \in [0,1]),
-* удовлетворение каждого ограничения (h_l(o) \in [0,1]),
-* итоговый скор:
+### 3) Output
 
-[
-Score(o) = NeedsScore(o) \cdot ConstraintsPenalty(o)
-]
-
-Где (NeedsScore) — взвешенное среднее с весами (r_k), а (ConstraintsPenalty) — штраф/фильтр по ограничениям с весами (c_l).
-
-Система возвращает:
-
-* ранжированный список объектов (top-N),
-* объяснения: какие потребности закрыты/не закрыты и какие ограничения конфликтуют,
-* (опционально) дополнительные свойства объектов, которые не участвуют в логике, но отображаются пользователю как справочная информация.
+- Ranked object list (top-N)
+- Explanations: which needs satisfied/unsatisfied, which constraints violated
+- Object metadata for display
 
 ---
 
-## Адаптивный выбор следующего вопроса
+## Adaptive Question Selection
 
-Система должна выбирать следующий вопрос динамически, опираясь на текущее состояние:
+Select next question based on:
+- Current R, C values
+- Current candidate pool S ⊆ O
+- Available (not asked, not disabled) questions
 
-* известные значения (R, C),
-* текущий пул допустимых объектов (S \subseteq O),
-* ещё не заданные и не disabled вопросы.
+Goal: minimize expected |S| after answer (maximize information gain)
 
-Цель выбора вопроса: минимизировать ожидаемый размер (S) после ответа (или максимизировать information gain).
-Допускается смешанная стратегия:
-
-* в начале приоритизировать вопросы про ограничения,
-* затем уточнять потребности,
-* затем эстетика/тонкая настройка.
-
----
-
-## Результат реализации
-
-Нужно реализовать модуль(и), которые обеспечивают:
-
-1. загрузку каталога объектов и их векторных профилей;
-2. загрузку базиса потребностей/ограничений и формул;
-3. загрузку вопросов, ответов, правил обновления профиля и disable-логики;
-4. состояние сессии опроса пользователя;
-5. расчёт skoring + фильтрации + объяснений;
-6. выбор следующего вопроса;
-7. интерфейс API (например, REST/GraphQL) или библиотечный интерфейс для интеграции в UI.
+Strategy:
+1. Constraints first (hard filters)
+2. Then needs (preferences)
+3. Then refinement (aesthetics)
 
 ---
 
-## Критерии качества
+## Implementation Modules
 
-* минимизация числа вопросов до устойчивого топ-набора,
-* интерпретируемость (объяснения, почему объект в топе/почему исключён),
-* расширяемость (легко добавлять новые типы объектов и новые вопросы),
-* отделение контента (каталог/вопросы/формулы) от кода.
+1. Object catalog + feature profiles loader
+2. Needs/constraints + formulas loader
+3. Questions + update rules + disable logic loader
+4. Survey session state manager
+5. Scoring + filtering + explanation engine
+6. Adaptive question selector
+7. API interface (REST/GraphQL) or library interface
 
 ---
 
-Если хочешь, могу сразу оформить это как:
+## Quality Criteria
 
-* JSON-schema для объектов/формул/вопросов,
-* список эндпоинтов API для сервиса опроса,
-* или минимальный прототип архитектуры (модули + структуры данных).
+- Minimize questions to stable top-N
+- Interpretability (explanations for ranking/exclusion)
+- Extensibility (easy to add object types and questions)
+- Separation of content (catalog/questions/formulas) from code

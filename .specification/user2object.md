@@ -1,112 +1,173 @@
-**OR** — это логическая операция **«ИЛИ»**.
+# User to Object Mapping
 
-В контексте нашей модели она означает:
+## Logical Operations in fuzzy4
 
-> **потребность считается выполненной, если выполнено хотя бы одно из условий**
+All operations use **4-valued Belnap-Lukasiewicz logic**.
+Each value is a vector **(T, F)** where T = truth degree, F = falsity degree.
 
----
+### Canonical Values
 
-## 1) OR в классической логике (булевой)
-
-Если значения только `0 / 1`:
-
-| A | B | A OR B |
-| - | - | ------ |
-| 0 | 0 | 0      |
-| 0 | 1 | 1      |
-| 1 | 0 | 1      |
-| 1 | 1 | 1      |
-
-Пример:
-`small_size = size_toy OR size_small`
-→ собака подходит, если она **либо toy, либо small**.
+| State    | Vector  |
+|----------|---------|
+| TRUE     | (1, 0)  |
+| FALSE    | (0, 1)  |
+| UNKNOWN  | (0, 0)  |
+| CONFLICT | (1, 1)  |
 
 ---
 
-## 2) OR в нашей fuzzy-модели
-
-У нас признаки ∈ `[0,1]`, поэтому:
+## 1. NOT (Negation)
 
 ```
-OR(x1, x2, ..., xn) = max(x1, x2, ..., xn)
+¬(T, F) = (F, T)
 ```
 
-То есть:
+| x | ¬x |
+|---|-----|
+| T | F   |
+| F | T   |
+| U | U   |
+| C | C   |
 
-* берём **наиболее выполненное** условие.
-
-### Примеры
-
-* `OR(0.2, 0.7) = 0.7`
-* `OR(0.0, 0.0) = 0.0`
-* `OR(0.4, 0.4) = 0.4`
+UNKNOWN and CONFLICT are invariant under negation.
 
 ---
 
-## 3) Почему именно `max`, а не сумма
+## 2. AND (Conjunction)
 
-`max` сохраняет **строгий логический смысл**:
+Uses Lukasiewicz t-norm:
 
-* OR не должен “награждать” за выполнение сразу двух вариантов
-* достаточно **одного подходящего**
+```
+T_result = max(0, T_x + T_y - 1)
+F_result = min(1, F_x + F_y)
+```
 
-Если сделать сумму или среднее:
+| x ∧ y | T | F | U | C |
+|-------|---|---|---|---|
+| **T** | T | F | U | C |
+| **F** | F | F | F | F |
+| **U** | U | F | U | F |
+| **C** | C | F | F | C |
 
-* две частично подходящие вещи давали бы “лучше”, чем одна полностью подходящая —
-  это **уже не OR**, а другая логика.
+- FALSE is absorbing element
+- Both must confirm for truth
+- Any can falsify
 
 ---
 
-## 4) Примеры OR в наших формулах
+## 3. OR (Disjunction)
 
-### Размер
-
-```
-small_size = OR(size_toy, size_small)
-```
-
-### Допустимый размер
+Uses Lukasiewicz s-norm:
 
 ```
-large_size_ok = OR(size_large, size_giant)
+T_result = min(1, T_x + T_y)
+F_result = max(0, F_x + F_y - 1)
 ```
 
-### Семейность (упрощённый вариант)
+| x ∨ y | T | F | U | C |
+|-------|---|---|---|---|
+| **T** | T | T | T | T |
+| **F** | T | F | U | C |
+| **U** | T | U | U | T |
+| **C** | T | C | T | C |
 
-```
-family_friendly = OR(child_friendly, pet_friendly)
-```
+- TRUE is absorbing element
+- One suffices for truth
+- Both must falsify
 
 ---
 
-## 5) Связь с AND и NOT (чтобы было целостно)
-
-Мы используем стандартную триаду:
+## 4. IMPLIES (→)
 
 ```
-NOT x = 1 - x
-AND(x1, ..., xn) = min(x1, ..., xn)
-OR (x1, ..., xn) = max(x1, ..., xn)
+x → y = ¬x ∨ y
 ```
 
-Это называется **Gödel fuzzy logic** —
-она:
+| x → y | T | F | U | C |
+|-------|---|---|---|---|
+| **T** | T | F | U | C |
+| **F** | T | T | T | T |
+| **U** | T | U | U | T |
+| **C** | T | C | U | C |
 
-* проста,
-* интерпретируема,
-* идеально ложится на твой `(t,f)`-подход.
+False premise → always true.
 
 ---
 
-## 6) Интуитивно (очень коротко)
+## 5. IFF (↔, Bi-implication)
 
-* **OR** → «подойдёт, если есть *хотя бы один* подходящий вариант»
-* **AND** → «подойдёт, только если *всё* подходит»
-* **NOT** → «чем больше, тем хуже»
+```
+x ↔ y = (x → y) ∧ (y → x)
+```
+
+| x ↔ y | T | F | U | C |
+|-------|---|---|---|---|
+| **T** | T | F | U | C |
+| **F** | F | T | U | C |
+| **U** | U | U | U | U |
+| **C** | C | C | U | C |
 
 ---
 
-Если хочешь, дальше могу:
+## 6. Formula Evaluation
 
-* показать, как **OR влияет на loss-функцию** при `(t,f)`,
-* или разобрать **конкретный пример породы** и пройтись по формулам пошагово.
+### CNF Structure
+
+```
+Formula = Clause_1 ∧ Clause_2 ∧ ... ∧ Clause_n
+Clause = Literal_1 ∨ Literal_2 ∨ ... ∨ Literal_m
+Literal = x_i or ¬x_i
+```
+
+### Evaluation
+
+1. Map feature x ∈ [0,1] to (T, F):
+   - Default: `(x, 1-x)`
+   - Unknown: `(0, 0)`
+
+2. Evaluate literals:
+   - `x` → `(T, F)`
+   - `¬x` → `(F, T)`
+
+3. Evaluate clause (OR):
+   - `T = min(1, Σ T_literals)`
+   - `F = max(0, Σ F_literals - n + 1)`
+
+4. Evaluate formula (AND):
+   - `T = max(0, Σ T_clauses - n + 1)`
+   - `F = min(1, Σ F_clauses)`
+
+---
+
+## 7. Scoring
+
+Final object score uses both T and F components:
+
+```
+NeedsScore = Σ(weight_k × sat_k.T) / Σ weight_k
+ConstraintPenalty = max(weight_l × sat_l.F)
+Score = NeedsScore × (1 - ConstraintPenalty)
+```
+
+### Hard Exclusion
+
+Object excluded if:
+- `constraint_weight ≥ threshold_hard`
+- `sat(constraint).F ≥ threshold_violation`
+
+---
+
+## 8. Why fuzzy4?
+
+Advantages over standard [0,1] fuzzy logic:
+
+1. **Handles incomplete knowledge** — UNKNOWN state (0, 0)
+2. **Handles conflicting info** — CONFLICT state (1, 1)
+3. **Doesn't break on contradictions**
+4. **Monotonic and well-defined**
+5. **Matches boolean logic at boundaries**
+
+Perfect for:
+- Requirement aggregation
+- Condition composition
+- Gradual information refinement
