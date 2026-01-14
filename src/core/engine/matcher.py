@@ -1,8 +1,8 @@
 """
-Core matching engine for dog breeds recommendation.
+Core matching engine for object recommendation.
 
-Calculates match scores between user needs and breed characteristics
-using 4-valued fuzzy logic.
+Calculates match scores between user needs and object characteristics
+using 4-valued fuzzy logic (fuzzy4).
 """
 
 import json
@@ -12,27 +12,24 @@ from typing import Any
 
 from fuzzy4 import FuzzyBool
 
-SCRIPT_DIR = Path(__file__).parent
-
 
 @dataclass
 class MatchResult:
-    """Result of matching a breed against user needs."""
-    breed_id: str
+    """Result of matching an object against user needs."""
+    object_id: str
     score: float  # 0.0 to 1.0, higher = better match
-    details: dict[str, dict]  # need_id -> {user, breed, similarity}
+    details: dict[str, dict]  # need_id -> {user, object, similarity}
 
 
-class BreedMatcher:
+class Matcher:
     """
     Core matching engine.
 
     Pre-loads all data for fast matching operations.
+    Domain-agnostic: requires domain_dir with config.json.
     """
 
-    def __init__(self, domain_dir: Path | str | None = None):
-        if domain_dir is None:
-            domain_dir = SCRIPT_DIR
+    def __init__(self, domain_dir: Path | str):
         self.domain_dir = Path(domain_dir)
 
         # Load config

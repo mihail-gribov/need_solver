@@ -1,7 +1,7 @@
 """
-User profile for dog breed recommendation.
+User profile for object recommendation.
 
-Represents user as a vector in needs space using 4-valued fuzzy logic.
+Represents user as a vector in needs space using 4-valued fuzzy logic (fuzzy4).
 """
 
 import json
@@ -11,7 +11,14 @@ from typing import Any
 
 from fuzzy4 import FuzzyBool
 
-SCRIPT_DIR = Path(__file__).parent
+
+# Default answer options (can be overridden via config)
+DEFAULT_ANSWER_OPTIONS = {
+    "true": {"fuzzy_mapping": {"t": 1.0, "f": 0.0}},
+    "false": {"fuzzy_mapping": {"t": 0.0, "f": 1.0}},
+    "unknown": {"fuzzy_mapping": {"t": 0.0, "f": 0.0}},
+    "independent": {"fuzzy_mapping": None}
+}
 
 
 @dataclass
@@ -37,16 +44,17 @@ class UserProfile:
     Multiple answers to the same need are combined using fuzzy consensus.
     """
 
-    def __init__(self, domain_dir: Path | str | None = None):
-        if domain_dir is None:
-            domain_dir = SCRIPT_DIR
-        self.domain_dir = Path(domain_dir)
+    def __init__(self, domain_dir: Path | str | None = None, answer_options: dict | None = None):
+        self.domain_dir = Path(domain_dir) if domain_dir else None
 
-        # Load config
-        with open(self.domain_dir / "config.json", "r", encoding="utf-8") as f:
-            self.config = json.load(f)
-
-        self.answer_options = self.config["questions"]["answer_options"]
+        # Load config if domain_dir provided
+        if self.domain_dir and (self.domain_dir / "config.json").exists():
+            with open(self.domain_dir / "config.json", "r", encoding="utf-8") as f:
+                self.config = json.load(f)
+            self.answer_options = self.config.get("questions", {}).get("answer_options", DEFAULT_ANSWER_OPTIONS)
+        else:
+            self.config = {}
+            self.answer_options = answer_options or DEFAULT_ANSWER_OPTIONS
 
         # Current state
         self._needs: dict[str, FuzzyBool] = {}  # need_id -> combined fuzzy value
