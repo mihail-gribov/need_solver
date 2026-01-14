@@ -1,0 +1,715 @@
+{
+  "breed_id": "puggle",
+  "features": {
+    "shedding": {
+      "t": 0.4,
+      "f": 0.4,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.24,
+        "falsity": 0.24,
+        "unknown": 0.36,
+        "conflict": 0.16
+      }
+    },
+    "coat_type": {
+      "t": 0.16,
+      "f": 0.64,
+      "state": "false",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.058,
+        "falsity": 0.538,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
+    },
+    "dander_level": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "grooming": {
+      "t": 0.24,
+      "f": 0.56,
+      "state": "false",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.106,
+        "falsity": 0.426,
+        "unknown": 0.334,
+        "conflict": 0.134
+      }
+    },
+    "health_robustness": {
+      "t": 0.42,
+      "f": 0.28,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.302,
+        "falsity": 0.162,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
+    },
+    "genetic_risk": {
+      "t": 0.28,
+      "f": 0.42,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.162,
+        "falsity": 0.302,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
+    },
+    "apartment_ok": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
+    },
+    "barking": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "energy": {
+      "t": 0.48,
+      "f": 0.32,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.326,
+        "falsity": 0.166,
+        "unknown": 0.354,
+        "conflict": 0.154
+      }
+    },
+    "reactivity": {
+      "t": 0.35,
+      "f": 0.35,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.227,
+        "falsity": 0.227,
+        "unknown": 0.423,
+        "conflict": 0.122
+      }
+    },
+    "noise_tolerance": {
+      "t": 0.42,
+      "f": 0.28,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.302,
+        "falsity": 0.162,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
+    },
+    "exercise_need": {
+      "t": 0.4,
+      "f": 0.4,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.24,
+        "falsity": 0.24,
+        "unknown": 0.36,
+        "conflict": 0.16
+      }
+    },
+    "alone_tolerance": {
+      "t": 0.28,
+      "f": 0.42,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.162,
+        "falsity": 0.302,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
+    },
+    "separation_anxiety_risk": {
+      "t": 0.42,
+      "f": 0.28,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.302,
+        "falsity": 0.162,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
+    },
+    "sitter_compatibility": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "adaptability": {
+      "t": 0.56,
+      "f": 0.24,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.426,
+        "falsity": 0.106,
+        "unknown": 0.334,
+        "conflict": 0.134
+      }
+    },
+    "child_friendly": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
+    },
+    "pet_friendly": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
+    },
+    "stranger_friendly": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
+    },
+    "territoriality": {
+      "t": 0.21,
+      "f": 0.49,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.107,
+        "falsity": 0.387,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "protectiveness": {
+      "t": 0.28,
+      "f": 0.42,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.162,
+        "falsity": 0.302,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
+    },
+    "stress_sensitivity": {
+      "t": 0.35,
+      "f": 0.35,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.227,
+        "falsity": 0.227,
+        "unknown": 0.423,
+        "conflict": 0.122
+      }
+    },
+    "affection_level": {
+      "t": 0.72,
+      "f": 0.08,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.662,
+        "falsity": 0.022,
+        "unknown": 0.258,
+        "conflict": 0.058
+      }
+    },
+    "independence": {
+      "t": 0.28,
+      "f": 0.42,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.162,
+        "falsity": 0.302,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
+    },
+    "playfulness": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
+    },
+    "trainability": {
+      "t": 0.42,
+      "f": 0.28,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.302,
+        "falsity": 0.162,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
+    },
+    "working_drive": {
+      "t": 0.21,
+      "f": 0.49,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.107,
+        "falsity": 0.387,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "behavior_management_need": {
+      "t": 0.35,
+      "f": 0.35,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.227,
+        "falsity": 0.227,
+        "unknown": 0.423,
+        "conflict": 0.122
+      }
+    },
+    "mental_stimulation": {
+      "t": 0.35,
+      "f": 0.35,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.227,
+        "falsity": 0.227,
+        "unknown": 0.423,
+        "conflict": 0.122
+      }
+    },
+    "prey_drive": {
+      "t": 0.35,
+      "f": 0.35,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.227,
+        "falsity": 0.227,
+        "unknown": 0.423,
+        "conflict": 0.122
+      }
+    },
+    "hunting_instinct": {
+      "t": 0.35,
+      "f": 0.35,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.227,
+        "falsity": 0.227,
+        "unknown": 0.423,
+        "conflict": 0.122
+      }
+    }
+  },
+  "categories": {
+    "size_group": {
+      "source_param": "weight_kg",
+      "values": {
+        "size_toy": {
+          "t": 0.0,
+          "f": 0.733,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "size_small": {
+          "t": 0.5,
+          "f": 0.233,
+          "state": "true",
+          "votes_for": 2,
+          "votes_against": 1
+        },
+        "size_medium": {
+          "t": 0.233,
+          "f": 0.5,
+          "state": "false",
+          "votes_for": 1,
+          "votes_against": 2
+        },
+        "size_large": {
+          "t": 0.0,
+          "f": 0.733,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "size_giant": {
+          "t": 0.0,
+          "f": 0.733,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "size_small_or_less": {
+          "t": 0.5,
+          "f": 0.171,
+          "state": "true",
+          "derived_from": [
+            "size_toy",
+            "size_small"
+          ]
+        },
+        "size_medium_or_less": {
+          "t": 0.616,
+          "f": 0.085,
+          "state": "true",
+          "derived_from": [
+            "size_toy",
+            "size_small",
+            "size_medium"
+          ]
+        },
+        "size_large_or_more": {
+          "t": 0.0,
+          "f": 0.537,
+          "state": "false",
+          "derived_from": [
+            "size_large",
+            "size_giant"
+          ]
+        }
+      }
+    },
+    "height_group": {
+      "source_param": "height_cm",
+      "values": {
+        "height_tiny": {
+          "t": 0.0,
+          "f": 0.733,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "height_small": {
+          "t": 0.733,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 3,
+          "votes_against": 0
+        },
+        "height_medium": {
+          "t": 0.0,
+          "f": 0.733,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "height_large": {
+          "t": 0.0,
+          "f": 0.733,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "height_giant": {
+          "t": 0.0,
+          "f": 0.733,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "height_small_or_less": {
+          "t": 0.733,
+          "f": 0.0,
+          "state": "true",
+          "derived_from": [
+            "height_tiny",
+            "height_small"
+          ]
+        },
+        "height_medium_or_less": {
+          "t": 0.733,
+          "f": 0.0,
+          "state": "true",
+          "derived_from": [
+            "height_tiny",
+            "height_small",
+            "height_medium"
+          ]
+        },
+        "height_large_or_more": {
+          "t": 0.0,
+          "f": 0.537,
+          "state": "false",
+          "derived_from": [
+            "height_large",
+            "height_giant"
+          ]
+        }
+      }
+    },
+    "lifespan_group": {
+      "source_param": "lifespan_years",
+      "values": {
+        "lifespan_short": {
+          "t": 0.0,
+          "f": 0.733,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "lifespan_medium": {
+          "t": 0.0,
+          "f": 0.733,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "lifespan_long": {
+          "t": 0.733,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 3,
+          "votes_against": 0
+        },
+        "lifespan_very_long": {
+          "t": 0.0,
+          "f": 0.733,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "lifespan_medium_or_more": {
+          "t": 0.733,
+          "f": 0.0,
+          "state": "true",
+          "derived_from": [
+            "lifespan_medium",
+            "lifespan_long",
+            "lifespan_very_long"
+          ]
+        },
+        "lifespan_long_or_more": {
+          "t": 0.733,
+          "f": 0.0,
+          "state": "true",
+          "derived_from": [
+            "lifespan_long",
+            "lifespan_very_long"
+          ]
+        }
+      }
+    }
+  },
+  "parameters_raw": {
+    "weight_kg": [
+      {
+        "value": 9.1,
+        "confidence": 0.8,
+        "source": "Adopt a Pet"
+      },
+      {
+        "value": 10.4,
+        "confidence": 0.7,
+        "source": "PuppySpot"
+      },
+      {
+        "value": 9.1,
+        "confidence": 0.7,
+        "source": "BreedScout"
+      }
+    ],
+    "height_cm": [
+      {
+        "value": 35.6,
+        "confidence": 0.8,
+        "source": "Adopt a Pet"
+      },
+      {
+        "value": 33.0,
+        "confidence": 0.7,
+        "source": "PuppySpot"
+      },
+      {
+        "value": 35.6,
+        "confidence": 0.7,
+        "source": "BreedScout"
+      }
+    ],
+    "lifespan_years": [
+      {
+        "value": 12.5,
+        "confidence": 0.8,
+        "source": "Adopt a Pet"
+      },
+      {
+        "value": 12.5,
+        "confidence": 0.7,
+        "source": "PuppySpot"
+      },
+      {
+        "value": 12.5,
+        "confidence": 0.7,
+        "source": "BreedScout"
+      }
+    ]
+  },
+  "notes": "Puggles are affectionate and social dogs that thrive on human companionship. They have moderate exercise needs and are generally good with children and other pets. Regular grooming is required to manage their moderate shedding. Potential health issues include respiratory problems, obesity, and hip dysplasia. Consistent training is important to manage their energetic nature and potential stubbornness.",
+  "sources": []
+}

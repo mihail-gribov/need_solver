@@ -5,432 +5,466 @@
       "t": 0.32,
       "f": 0.48,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.0,
-        "falsity": 0.16,
-        "unknown": 0.2,
-        "conflict": 0.0
-      },
-      "value": 0.4,
-      "confidence": 0.8
+        "truth": 0.166,
+        "falsity": 0.326,
+        "unknown": 0.354,
+        "conflict": 0.154
+      }
     },
     "coat_type": {
       "t": 0.18,
       "f": 0.72,
       "state": "false",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.0,
-        "falsity": 0.54,
-        "unknown": 0.1,
-        "conflict": 0.0
-      },
-      "value": 0.2,
-      "confidence": 0.9
+        "truth": 0.05,
+        "falsity": 0.59,
+        "unknown": 0.23,
+        "conflict": 0.13
+      }
     },
     "dander_level": {
       "t": 0.35,
       "f": 0.35,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.0,
-        "falsity": 0.0,
-        "unknown": 0.3,
-        "conflict": 0.0
-      },
-      "value": 0.5,
-      "confidence": 0.7
+        "truth": 0.227,
+        "falsity": 0.227,
+        "unknown": 0.423,
+        "conflict": 0.122
+      }
     },
     "grooming": {
       "t": 0.18,
       "f": 0.72,
       "state": "false",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.0,
-        "falsity": 0.54,
-        "unknown": 0.1,
-        "conflict": 0.0
-      },
-      "value": 0.2,
-      "confidence": 0.9
+        "truth": 0.05,
+        "falsity": 0.59,
+        "unknown": 0.23,
+        "conflict": 0.13
+      }
     },
     "health_robustness": {
       "t": 0.35,
       "f": 0.35,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.0,
-        "falsity": 0.0,
-        "unknown": 0.3,
-        "conflict": 0.0
-      },
-      "value": 0.5,
-      "confidence": 0.7
+        "truth": 0.227,
+        "falsity": 0.227,
+        "unknown": 0.423,
+        "conflict": 0.122
+      }
     },
     "genetic_risk": {
       "t": 0.42,
       "f": 0.28,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.14,
-        "falsity": 0.0,
-        "unknown": 0.3,
-        "conflict": 0.0
-      },
-      "value": 0.6,
-      "confidence": 0.7
+        "truth": 0.302,
+        "falsity": 0.162,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
     },
     "apartment_ok": {
       "t": 0.42,
       "f": 0.28,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.14,
-        "falsity": 0.0,
-        "unknown": 0.3,
-        "conflict": 0.0
-      },
-      "value": 0.6,
-      "confidence": 0.7
+        "truth": 0.302,
+        "falsity": 0.162,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
     },
     "barking": {
       "t": 0.24,
       "f": 0.56,
       "state": "false",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.0,
-        "falsity": 0.32,
-        "unknown": 0.2,
-        "conflict": 0.0
-      },
-      "value": 0.3,
-      "confidence": 0.8
+        "truth": 0.106,
+        "falsity": 0.426,
+        "unknown": 0.334,
+        "conflict": 0.134
+      }
     },
     "energy": {
       "t": 0.81,
       "f": 0.09,
       "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.72,
-        "falsity": 0.0,
-        "unknown": 0.1,
-        "conflict": 0.0
-      },
-      "value": 0.9,
-      "confidence": 0.9
+        "truth": 0.737,
+        "falsity": 0.017,
+        "unknown": 0.173,
+        "conflict": 0.073
+      }
     },
     "reactivity": {
       "t": 0.49,
       "f": 0.21,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.28,
-        "falsity": 0.0,
-        "unknown": 0.3,
-        "conflict": 0.0
-      },
-      "value": 0.7,
-      "confidence": 0.7
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
     },
     "noise_tolerance": {
       "t": 0.3,
       "f": 0.3,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.0,
-        "falsity": 0.0,
-        "unknown": 0.4,
-        "conflict": 0.0
-      },
-      "value": 0.5,
-      "confidence": 0.6
+        "truth": 0.21,
+        "falsity": 0.21,
+        "unknown": 0.49,
+        "conflict": 0.09
+      }
     },
     "exercise_need": {
       "t": 0.81,
       "f": 0.09,
       "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.72,
-        "falsity": 0.0,
-        "unknown": 0.1,
-        "conflict": 0.0
-      },
-      "value": 0.9,
-      "confidence": 0.9
+        "truth": 0.737,
+        "falsity": 0.017,
+        "unknown": 0.173,
+        "conflict": 0.073
+      }
     },
     "alone_tolerance": {
       "t": 0.21,
       "f": 0.49,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.0,
-        "falsity": 0.28,
-        "unknown": 0.3,
-        "conflict": 0.0
-      },
-      "value": 0.3,
-      "confidence": 0.7
+        "truth": 0.107,
+        "falsity": 0.387,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
     },
     "separation_anxiety_risk": {
       "t": 0.49,
       "f": 0.21,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.28,
-        "falsity": 0.0,
-        "unknown": 0.3,
-        "conflict": 0.0
-      },
-      "value": 0.7,
-      "confidence": 0.7
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
     },
     "sitter_compatibility": {
       "t": 0.36,
       "f": 0.24,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.12,
-        "falsity": 0.0,
-        "unknown": 0.4,
-        "conflict": 0.0
-      },
-      "value": 0.6,
-      "confidence": 0.6
+        "truth": 0.274,
+        "falsity": 0.154,
+        "unknown": 0.486,
+        "conflict": 0.086
+      }
     },
     "adaptability": {
       "t": 0.42,
       "f": 0.28,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.14,
-        "falsity": 0.0,
-        "unknown": 0.3,
-        "conflict": 0.0
-      },
-      "value": 0.6,
-      "confidence": 0.7
+        "truth": 0.302,
+        "falsity": 0.162,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
     },
     "child_friendly": {
       "t": 0.81,
       "f": 0.09,
       "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.72,
-        "falsity": 0.0,
-        "unknown": 0.1,
-        "conflict": 0.0
-      },
-      "value": 0.9,
-      "confidence": 0.9
+        "truth": 0.737,
+        "falsity": 0.017,
+        "unknown": 0.173,
+        "conflict": 0.073
+      }
     },
     "pet_friendly": {
       "t": 0.42,
       "f": 0.28,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.14,
-        "falsity": 0.0,
-        "unknown": 0.3,
-        "conflict": 0.0
-      },
-      "value": 0.6,
-      "confidence": 0.7
+        "truth": 0.302,
+        "falsity": 0.162,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
     },
     "stranger_friendly": {
       "t": 0.35,
       "f": 0.35,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.0,
-        "falsity": 0.0,
-        "unknown": 0.3,
-        "conflict": 0.0
-      },
-      "value": 0.5,
-      "confidence": 0.7
+        "truth": 0.227,
+        "falsity": 0.227,
+        "unknown": 0.423,
+        "conflict": 0.122
+      }
     },
     "territoriality": {
       "t": 0.49,
       "f": 0.21,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.28,
-        "falsity": 0.0,
-        "unknown": 0.3,
-        "conflict": 0.0
-      },
-      "value": 0.7,
-      "confidence": 0.7
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
     },
     "protectiveness": {
       "t": 0.64,
       "f": 0.16,
       "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.48,
-        "falsity": 0.0,
-        "unknown": 0.2,
-        "conflict": 0.0
-      },
-      "value": 0.8,
-      "confidence": 0.8
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
     },
     "stress_sensitivity": {
       "t": 0.36,
       "f": 0.24,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.12,
-        "falsity": 0.0,
-        "unknown": 0.4,
-        "conflict": 0.0
-      },
-      "value": 0.6,
-      "confidence": 0.6
+        "truth": 0.274,
+        "falsity": 0.154,
+        "unknown": 0.486,
+        "conflict": 0.086
+      }
     },
     "affection_level": {
       "t": 0.81,
       "f": 0.09,
       "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.72,
-        "falsity": 0.0,
-        "unknown": 0.1,
-        "conflict": 0.0
-      },
-      "value": 0.9,
-      "confidence": 0.9
+        "truth": 0.737,
+        "falsity": 0.017,
+        "unknown": 0.173,
+        "conflict": 0.073
+      }
     },
     "independence": {
       "t": 0.28,
       "f": 0.42,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.0,
-        "falsity": 0.14,
-        "unknown": 0.3,
-        "conflict": 0.0
-      },
-      "value": 0.4,
-      "confidence": 0.7
+        "truth": 0.162,
+        "falsity": 0.302,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
     },
     "playfulness": {
       "t": 0.81,
       "f": 0.09,
       "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.72,
-        "falsity": 0.0,
-        "unknown": 0.1,
-        "conflict": 0.0
-      },
-      "value": 0.9,
-      "confidence": 0.9
+        "truth": 0.737,
+        "falsity": 0.017,
+        "unknown": 0.173,
+        "conflict": 0.073
+      }
     },
     "trainability": {
       "t": 0.64,
       "f": 0.16,
       "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.48,
-        "falsity": 0.0,
-        "unknown": 0.2,
-        "conflict": 0.0
-      },
-      "value": 0.8,
-      "confidence": 0.8
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
     },
     "working_drive": {
       "t": 0.49,
       "f": 0.21,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.28,
-        "falsity": 0.0,
-        "unknown": 0.3,
-        "conflict": 0.0
-      },
-      "value": 0.7,
-      "confidence": 0.7
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
     },
     "behavior_management_need": {
       "t": 0.42,
       "f": 0.28,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.14,
-        "falsity": 0.0,
-        "unknown": 0.3,
-        "conflict": 0.0
-      },
-      "value": 0.6,
-      "confidence": 0.7
+        "truth": 0.302,
+        "falsity": 0.162,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
     },
     "mental_stimulation": {
       "t": 0.64,
       "f": 0.16,
       "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.48,
-        "falsity": 0.0,
-        "unknown": 0.2,
-        "conflict": 0.0
-      },
-      "value": 0.8,
-      "confidence": 0.8
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
     },
     "prey_drive": {
       "t": 0.3,
       "f": 0.3,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.0,
-        "falsity": 0.0,
-        "unknown": 0.4,
-        "conflict": 0.0
-      },
-      "value": 0.5,
-      "confidence": 0.6
+        "truth": 0.21,
+        "falsity": 0.21,
+        "unknown": 0.49,
+        "conflict": 0.09
+      }
     },
     "hunting_instinct": {
       "t": 0.24,
       "f": 0.36,
       "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
       "components": {
-        "truth": 0.0,
-        "falsity": 0.12,
-        "unknown": 0.4,
-        "conflict": 0.0
-      },
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "odor_level": {
-      "t": 0.75,
-      "f": 0.15
-    },
-    "drooling": {
-      "t": 0.8,
-      "f": 0.1
-    },
-    "physical_strength": {
-      "t": 0.7,
-      "f": 0.15
-    },
-    "dominance": {
-      "t": 0.5,
-      "f": 0.3
-    },
-    "heat_tolerance": {
-      "t": 0.2,
-      "f": 0.7
-    },
-    "cold_tolerance": {
-      "t": 0.5,
-      "f": 0.3
-    },
-    "therapy_suitability": {
-      "t": 0.65,
-      "f": 0.2
+        "truth": 0.154,
+        "falsity": 0.274,
+        "unknown": 0.486,
+        "conflict": 0.086
+      }
     }
   },
   "categories": {
@@ -474,7 +508,7 @@
         },
         "size_small_or_less": {
           "t": 0.0,
-          "f": 0.6,
+          "f": 0.64,
           "state": "false",
           "derived_from": [
             "size_toy",
@@ -483,8 +517,8 @@
         },
         "size_medium_or_less": {
           "t": 0.0,
-          "f": 0.4,
-          "state": "unknown",
+          "f": 0.512,
+          "state": "false",
           "derived_from": [
             "size_toy",
             "size_small",
@@ -542,7 +576,7 @@
         },
         "height_small_or_less": {
           "t": 0.0,
-          "f": 0.6,
+          "f": 0.64,
           "state": "false",
           "derived_from": [
             "height_tiny",
@@ -551,8 +585,8 @@
         },
         "height_medium_or_less": {
           "t": 0.0,
-          "f": 0.4,
-          "state": "unknown",
+          "f": 0.512,
+          "state": "false",
           "derived_from": [
             "height_tiny",
             "height_small",
@@ -613,7 +647,7 @@
         },
         "lifespan_long_or_more": {
           "t": 0.0,
-          "f": 0.6,
+          "f": 0.64,
           "state": "false",
           "derived_from": [
             "lifespan_long",

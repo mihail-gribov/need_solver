@@ -151,6 +151,79 @@ class FeatureExtractor:
             log.error(f"Raw response: {text[:500]}...")
             raise
 
+    # Required features (31 total)
+    REQUIRED_FEATURES = [
+        # Coat & Allergens
+        "shedding", "coat_type", "dander_level", "grooming",
+        # Health
+        "health_robustness", "genetic_risk",
+        # Living Conditions
+        "apartment_ok", "barking", "energy", "reactivity", "noise_tolerance", "exercise_need",
+        # Alone Time & Adaptability
+        "alone_tolerance", "separation_anxiety_risk", "sitter_compatibility", "adaptability",
+        # Social Compatibility
+        "child_friendly", "pet_friendly", "stranger_friendly", "territoriality", "protectiveness",
+        # Temperament
+        "stress_sensitivity", "affection_level", "independence", "playfulness",
+        # Training & Work
+        "trainability", "working_drive", "behavior_management_need", "mental_stimulation",
+        # Hunting Instincts
+        "prey_drive", "hunting_instinct"
+    ]
+
+    REQUIRED_PARAMETERS = ["weight_kg", "height_cm", "lifespan_years"]
+
+    def _validate_result(self, result: dict, breed_id: str) -> None:
+        """Validate extracted result structure."""
+        # Check top-level fields
+        if "features" not in result:
+            raise ValueError("Response missing 'features' field")
+        if "parameters" not in result:
+            raise ValueError("Response missing 'parameters' field")
+
+        features = result["features"]
+        parameters = result["parameters"]
+
+        # Check features structure (each should be array of source entries)
+        missing_features = []
+        invalid_features = []
+
+        for feat_id in self.REQUIRED_FEATURES:
+            if feat_id not in features:
+                missing_features.append(feat_id)
+                continue
+
+            feat_data = features[feat_id]
+            if not isinstance(feat_data, list):
+                invalid_features.append(f"{feat_id}: expected array, got {type(feat_data).__name__}")
+                continue
+
+            # Validate each source entry
+            for i, entry in enumerate(feat_data):
+                if not isinstance(entry, dict):
+                    invalid_features.append(f"{feat_id}[{i}]: expected object, got {type(entry).__name__}")
+                    continue
+                if "value" not in entry:
+                    invalid_features.append(f"{feat_id}[{i}]: missing 'value'")
+                if "confidence" not in entry:
+                    invalid_features.append(f"{feat_id}[{i}]: missing 'confidence'")
+                if "source" not in entry:
+                    invalid_features.append(f"{feat_id}[{i}]: missing 'source'")
+
+        # Check parameters structure
+        missing_params = []
+        for param_id in self.REQUIRED_PARAMETERS:
+            if param_id not in parameters:
+                missing_params.append(param_id)
+
+        # Log warnings but don't fail on missing features (LLM may not find all data)
+        if missing_features:
+            log.warning(f"{breed_id}: missing features ({len(missing_features)}): {', '.join(missing_features[:5])}...")
+        if invalid_features:
+            log.warning(f"{breed_id}: invalid feature entries: {invalid_features[:3]}")
+        if missing_params:
+            log.warning(f"{breed_id}: missing parameters: {missing_params}")
+
     def process_breed(self, breed: dict) -> dict | None:
         """Process a single breed and return extracted features."""
         breed_id = breed["id"]
@@ -173,8 +246,7 @@ class FeatureExtractor:
             result = self.call_api(prompt)
 
             # Validate result structure
-            if "features" not in result:
-                raise ValueError("Response missing 'features' field")
+            self._validate_result(result, breed_id)
 
             # Save result
             with open(output_file, "w", encoding="utf-8") as f:

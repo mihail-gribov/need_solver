@@ -2,15 +2,25 @@
 """
 Convert extracted breed features to 4-valued fuzzy logic format.
 
-Formula for features:
+Formula for single source entry:
     t = value × confidence
     f = (1 - value) × confidence
+
+Aggregation of multiple sources uses fuzzy4 accumulation (+):
+    T_result = min(1, T1 + T2 + ...)
+    F_result = min(1, F1 + F2 + ...)
+
+This means:
+    - Multiple confirmations → T grows (approaches TRUE)
+    - Multiple refutations → F grows (approaches FALSE)
+    - Conflicting sources → both grow (approaches CONFLICT)
+    - No data → both stay 0 (UNKNOWN)
 
 Formula for numerical parameters (one-hot categories):
     For each category, collect votes from all sources:
     - If value in range → vote FOR with confidence weight
     - If value not in range → vote AGAINST with confidence weight
-    Then: t = avg(for_votes), f = avg(against_votes)
+    Then accumulate votes using fuzzy4 (+)
 
 States:
     - TRUE:    high t, low f
@@ -20,6 +30,7 @@ States:
 """
 
 import json
+import sys
 from pathlib import Path
 
 from fuzzy4 import FuzzyBool
@@ -49,24 +60,75 @@ def load_feature_spec() -> dict:
         return json.load(f)
 
 
-def convert_feature(value: float, confidence: float) -> dict:
+def convert_single_entry(value: float, confidence: float) -> FuzzyBool:
     """
-    Convert value + confidence to fuzzy (t, f) vector.
+    Convert single value + confidence to fuzzy (t, f) vector.
     """
+    if value is None:
+        return FuzzyBool(0, 0)  # UNKNOWN
+
     t = value * confidence
     f = (1 - value) * confidence
+    return FuzzyBool(t, f)
 
-    fb = FuzzyBool(t, f)
+
+def aggregate_feature_entries(entries: list[dict]) -> dict:
+    """
+    Aggregate multiple source entries into single fuzzy value.
+
+    Uses fuzzy4 accumulation (+) to combine evidence from multiple sources:
+    - Multiple confirmations → T accumulates
+    - Multiple refutations → F accumulates
+    - Conflicting sources → both T and F grow → CONFLICT state
+
+    Args:
+        entries: List of {"value": X, "confidence": Y, "source": "..."}
+
+    Returns:
+        Fuzzy result dict with t, f, state, sources
+    """
+    if not entries:
+        return {
+            "t": 0, "f": 0,
+            "state": "U",
+            "sources": []
+        }
+
+    # Filter out null values
+    valid_entries = [e for e in entries if e.get("value") is not None]
+
+    if not valid_entries:
+        return {
+            "t": 0, "f": 0,
+            "state": "U",
+            "sources": [e.get("source", "unknown") for e in entries],
+            "note": "all values null"
+        }
+
+    # Convert each entry to FuzzyBool and accumulate
+    accumulated = FuzzyBool(0, 0)  # Start with UNKNOWN
+
+    for entry in valid_entries:
+        value = entry["value"]
+        confidence = entry.get("confidence", 0.5)
+
+        # Convert to fuzzy: t = value * conf, f = (1-value) * conf
+        fb = convert_single_entry(value, confidence)
+
+        # Accumulate evidence using fuzzy4 + operator
+        accumulated = accumulated + fb
 
     return {
-        "t": round(t, 3),
-        "f": round(f, 3),
-        "state": fb.dominant_state(),
+        "t": round(accumulated.t, 3),
+        "f": round(accumulated.f, 3),
+        "state": accumulated.dominant_state(),
+        "sources": [e.get("source", "unknown") for e in valid_entries],
+        "n_sources": len(valid_entries),
         "components": {
-            "truth": round(fb.truth, 3),
-            "falsity": round(fb.falsity, 3),
-            "unknown": round(fb.unknown, 3),
-            "conflict": round(fb.conflict, 3),
+            "truth": round(accumulated.truth, 3),
+            "falsity": round(accumulated.falsity, 3),
+            "unknown": round(accumulated.unknown, 3),
+            "conflict": round(accumulated.conflict, 3),
         }
     }
 
@@ -88,7 +150,7 @@ def convert_parameter_to_categories(
     Convert numerical measurements to fuzzy one-hot categories.
 
     Args:
-        measurements: List of {"value": X, "confidence": Y, "source": "..."}
+        measurements: List of {"value": [min, max] or X, "confidence": Y, "source": "..."}
         category_group: Category definition with "values" list
 
     Returns:
@@ -99,23 +161,41 @@ def convert_parameter_to_categories(
     # Compute base categories
     for category in category_group["values"]:
         cat_id = category["id"]
-        min_val = category.get("min")
-        max_val = category.get("max")
+        cat_min = category.get("min")
+        cat_max = category.get("max")
 
         votes_for = []
         votes_against = []
 
         for m in measurements:
-            value = m["value"]
-            confidence = m["confidence"]
+            value = m.get("value")
+            confidence = m.get("confidence", 0.5)
 
-            if value_in_range(value, min_val, max_val):
-                votes_for.append(confidence)
+            if value is None:
+                continue
+
+            # Handle range values [min, max]
+            if isinstance(value, list) and len(value) == 2:
+                val_min, val_max = value
+                # Check if ranges overlap
+                range_overlaps = not (val_max < cat_min if cat_min else False) and \
+                                 not (val_min >= cat_max if cat_max else False)
+                # Use midpoint for single-value comparison
+                midpoint = (val_min + val_max) / 2
+
+                if range_overlaps or value_in_range(midpoint, cat_min, cat_max):
+                    votes_for.append(confidence)
+                else:
+                    votes_against.append(confidence)
             else:
-                votes_against.append(confidence)
+                # Single value
+                if value_in_range(value, cat_min, cat_max):
+                    votes_for.append(confidence)
+                else:
+                    votes_against.append(confidence)
 
         # Calculate t and f as average of votes
-        n = len(measurements)
+        n = len(votes_for) + len(votes_against)
         t = sum(votes_for) / n if n > 0 else 0
         f = sum(votes_against) / n if n > 0 else 0
 
@@ -168,14 +248,17 @@ def convert_breed(extracted_data: dict, spec: dict) -> dict:
         "sources": extracted_data.get("sources", []),
     }
 
-    # Convert float features
-    for feature_id, data in extracted_data["features"].items():
-        value = data["value"]
-        confidence = data["confidence"]
-
-        fuzzy = convert_feature(value, confidence)
-        fuzzy["value"] = value
-        fuzzy["confidence"] = confidence
+    # Convert float features (now arrays of source entries)
+    for feature_id, entries in extracted_data["features"].items():
+        if isinstance(entries, list):
+            # New format: array of source entries
+            fuzzy = aggregate_feature_entries(entries)
+        elif isinstance(entries, dict):
+            # Legacy format: single entry
+            fuzzy = aggregate_feature_entries([entries])
+        else:
+            # Unexpected format
+            fuzzy = {"t": 0, "f": 0, "state": "U", "error": f"unexpected type: {type(entries)}"}
 
         result["features"][feature_id] = fuzzy
 

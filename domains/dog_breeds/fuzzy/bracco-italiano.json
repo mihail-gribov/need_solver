@@ -1,0 +1,715 @@
+{
+  "breed_id": "bracco-italiano",
+  "features": {
+    "shedding": {
+      "t": 0.28,
+      "f": 0.42,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.162,
+        "falsity": 0.302,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
+    },
+    "coat_type": {
+      "t": 0.16,
+      "f": 0.64,
+      "state": "false",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.058,
+        "falsity": 0.538,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
+    },
+    "dander_level": {
+      "t": 0.3,
+      "f": 0.3,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.21,
+        "falsity": 0.21,
+        "unknown": 0.49,
+        "conflict": 0.09
+      }
+    },
+    "grooming": {
+      "t": 0.24,
+      "f": 0.56,
+      "state": "false",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.106,
+        "falsity": 0.426,
+        "unknown": 0.334,
+        "conflict": 0.134
+      }
+    },
+    "health_robustness": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "genetic_risk": {
+      "t": 0.21,
+      "f": 0.49,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.107,
+        "falsity": 0.387,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "apartment_ok": {
+      "t": 0.3,
+      "f": 0.3,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.21,
+        "falsity": 0.21,
+        "unknown": 0.49,
+        "conflict": 0.09
+      }
+    },
+    "barking": {
+      "t": 0.28,
+      "f": 0.42,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.162,
+        "falsity": 0.302,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
+    },
+    "energy": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
+    },
+    "reactivity": {
+      "t": 0.3,
+      "f": 0.3,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.21,
+        "falsity": 0.21,
+        "unknown": 0.49,
+        "conflict": 0.09
+      }
+    },
+    "noise_tolerance": {
+      "t": 0.36,
+      "f": 0.24,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.274,
+        "falsity": 0.154,
+        "unknown": 0.486,
+        "conflict": 0.086
+      }
+    },
+    "exercise_need": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
+    },
+    "alone_tolerance": {
+      "t": 0.24,
+      "f": 0.36,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.154,
+        "falsity": 0.274,
+        "unknown": 0.486,
+        "conflict": 0.086
+      }
+    },
+    "separation_anxiety_risk": {
+      "t": 0.36,
+      "f": 0.24,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.274,
+        "falsity": 0.154,
+        "unknown": 0.486,
+        "conflict": 0.086
+      }
+    },
+    "sitter_compatibility": {
+      "t": 0.42,
+      "f": 0.18,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.344,
+        "falsity": 0.104,
+        "unknown": 0.476,
+        "conflict": 0.076
+      }
+    },
+    "adaptability": {
+      "t": 0.36,
+      "f": 0.24,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.274,
+        "falsity": 0.154,
+        "unknown": 0.486,
+        "conflict": 0.086
+      }
+    },
+    "child_friendly": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
+    },
+    "pet_friendly": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "stranger_friendly": {
+      "t": 0.42,
+      "f": 0.28,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.302,
+        "falsity": 0.162,
+        "unknown": 0.418,
+        "conflict": 0.118
+      }
+    },
+    "territoriality": {
+      "t": 0.24,
+      "f": 0.36,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.154,
+        "falsity": 0.274,
+        "unknown": 0.486,
+        "conflict": 0.086
+      }
+    },
+    "protectiveness": {
+      "t": 0.3,
+      "f": 0.3,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.21,
+        "falsity": 0.21,
+        "unknown": 0.49,
+        "conflict": 0.09
+      }
+    },
+    "stress_sensitivity": {
+      "t": 0.3,
+      "f": 0.3,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.21,
+        "falsity": 0.21,
+        "unknown": 0.49,
+        "conflict": 0.09
+      }
+    },
+    "affection_level": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
+    },
+    "independence": {
+      "t": 0.24,
+      "f": 0.36,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.154,
+        "falsity": 0.274,
+        "unknown": 0.486,
+        "conflict": 0.086
+      }
+    },
+    "playfulness": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "trainability": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
+    },
+    "working_drive": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
+    },
+    "behavior_management_need": {
+      "t": 0.24,
+      "f": 0.36,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.154,
+        "falsity": 0.274,
+        "unknown": 0.486,
+        "conflict": 0.086
+      }
+    },
+    "mental_stimulation": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "prey_drive": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.538,
+        "falsity": 0.058,
+        "unknown": 0.302,
+        "conflict": 0.102
+      }
+    },
+    "hunting_instinct": {
+      "t": 0.81,
+      "f": 0.09,
+      "state": "true",
+      "sources": [
+        "unknown"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.737,
+        "falsity": 0.017,
+        "unknown": 0.173,
+        "conflict": 0.073
+      }
+    }
+  },
+  "categories": {
+    "size_group": {
+      "source_param": "weight_kg",
+      "values": {
+        "size_toy": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "size_small": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "size_medium": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "size_large": {
+          "t": 0.8,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 3,
+          "votes_against": 0
+        },
+        "size_giant": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "size_small_or_less": {
+          "t": 0.0,
+          "f": 0.64,
+          "state": "false",
+          "derived_from": [
+            "size_toy",
+            "size_small"
+          ]
+        },
+        "size_medium_or_less": {
+          "t": 0.0,
+          "f": 0.512,
+          "state": "false",
+          "derived_from": [
+            "size_toy",
+            "size_small",
+            "size_medium"
+          ]
+        },
+        "size_large_or_more": {
+          "t": 0.8,
+          "f": 0.0,
+          "state": "true",
+          "derived_from": [
+            "size_large",
+            "size_giant"
+          ]
+        }
+      }
+    },
+    "height_group": {
+      "source_param": "height_cm",
+      "values": {
+        "height_tiny": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "height_small": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "height_medium": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "height_large": {
+          "t": 0.8,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 3,
+          "votes_against": 0
+        },
+        "height_giant": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "height_small_or_less": {
+          "t": 0.0,
+          "f": 0.64,
+          "state": "false",
+          "derived_from": [
+            "height_tiny",
+            "height_small"
+          ]
+        },
+        "height_medium_or_less": {
+          "t": 0.0,
+          "f": 0.512,
+          "state": "false",
+          "derived_from": [
+            "height_tiny",
+            "height_small",
+            "height_medium"
+          ]
+        },
+        "height_large_or_more": {
+          "t": 0.8,
+          "f": 0.0,
+          "state": "true",
+          "derived_from": [
+            "height_large",
+            "height_giant"
+          ]
+        }
+      }
+    },
+    "lifespan_group": {
+      "source_param": "lifespan_years",
+      "values": {
+        "lifespan_short": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "lifespan_medium": {
+          "t": 0.233,
+          "f": 0.567,
+          "state": "false",
+          "votes_for": 1,
+          "votes_against": 2
+        },
+        "lifespan_long": {
+          "t": 0.567,
+          "f": 0.233,
+          "state": "true",
+          "votes_for": 2,
+          "votes_against": 1
+        },
+        "lifespan_very_long": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "lifespan_medium_or_more": {
+          "t": 0.668,
+          "f": 0.106,
+          "state": "true",
+          "derived_from": [
+            "lifespan_medium",
+            "lifespan_long",
+            "lifespan_very_long"
+          ]
+        },
+        "lifespan_long_or_more": {
+          "t": 0.567,
+          "f": 0.186,
+          "state": "true",
+          "derived_from": [
+            "lifespan_long",
+            "lifespan_very_long"
+          ]
+        }
+      }
+    }
+  },
+  "parameters_raw": {
+    "weight_kg": [
+      {
+        "value": 32.5,
+        "confidence": 0.9,
+        "source": "AKC"
+      },
+      {
+        "value": 32.5,
+        "confidence": 0.8,
+        "source": "Purina UK"
+      },
+      {
+        "value": 32.5,
+        "confidence": 0.7,
+        "source": "Hill's Pet"
+      }
+    ],
+    "height_cm": [
+      {
+        "value": 62.5,
+        "confidence": 0.9,
+        "source": "AKC"
+      },
+      {
+        "value": 61,
+        "confidence": 0.8,
+        "source": "Purina UK"
+      },
+      {
+        "value": 61,
+        "confidence": 0.7,
+        "source": "Hill's Pet"
+      }
+    ],
+    "lifespan_years": [
+      {
+        "value": 12,
+        "confidence": 0.9,
+        "source": "AKC"
+      },
+      {
+        "value": 12.5,
+        "confidence": 0.8,
+        "source": "Purina UK"
+      },
+      {
+        "value": 11,
+        "confidence": 0.7,
+        "source": "Hill's Pet"
+      }
+    ]
+  },
+  "notes": "The Bracco Italiano is a versatile hunting breed known for its affectionate nature and high energy levels. They require regular exercise and mental stimulation to maintain their well-being. While generally healthy, they can be prone to certain genetic conditions such as hip dysplasia and ear infections. Early socialization and consistent training are recommended to ensure they adapt well to various environments and companions.",
+  "sources": []
+}

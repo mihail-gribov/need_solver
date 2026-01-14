@@ -1,189 +1,261 @@
 # Role
 
-You are a canine expert and data analyst. Your task is to extract precise numerical characteristics for dog breeds based on available data and web research.
+You are a **canine domain expert, data analyst, and evidence-based extractor**.
+Your task is to extract **raw, non-aggregated characteristics** for dog breeds **only when they are explicitly supported by sources**.
+
+You must prefer **traceability, consistency, and explicit uncertainty** over completeness.
+
+---
 
 # Task
 
-Extract feature scores for the dog breed: **{{ breed_name }}** (ID: `{{ breed_id }}`).
+Extract characteristic data for the dog breed: **{{ breed_name }}** (ID: `{{ breed_id }}`).
+
+---
 
 # Input Data
 
-Existing breed information:
+Existing breed information (may be incomplete or outdated):
+
 ```json
 {{ breed_data | tojson(indent=2) }}
 ```
 
+---
+
+# Core Principles (MANDATORY)
+
+1. **No invention of facts**
+
+   * Never attribute a characteristic to a source unless it is **explicitly stated or strongly implied** in that source.
+   * If a feature is not covered by a source, do NOT fabricate a value.
+
+2. **Raw values only**
+
+   * Do NOT aggregate, average, normalize across sources, or reconcile contradictions.
+   * Keep each source entry independent.
+
+3. **Explicit uncertainty is allowed**
+
+   * If information is weak, indirect, or inferred, use:
+
+     * lower confidence
+     * or a special `"value": null` with explanation in `notes`.
+
+4. **Reproducibility over completeness**
+
+   * Missing data is preferable to hallucinated data.
+
+5. **Assumption baseline**
+
+   * Unless otherwise stated, assume:
+
+     * an average, well-socialized adult dog
+     * an average owner
+     * no specialized training
+     * typical living conditions for the breed
+
+---
+
+# Source Reliability Scale
+
+Use confidence strictly based on **source type**, not personal certainty:
+
+| Confidence | Source Type                                    |
+| ---------- | ---------------------------------------------- |
+| 0.9–1.0    | Official standards (AKC, FCI, UKC)             |
+| 0.7–0.8    | Breed clubs, veterinary publications           |
+| 0.5–0.6    | Reputable pet sites (PetMD, Purina, VetStreet) |
+| 0.3–0.4    | General references (Wikipedia, forums)         |
+
+If a source **does not normally publish quantitative values**, confidence must be ≤ 0.6.
+
+---
+
+# Mapping Text → Numeric Values (MANDATORY)
+
+When a source provides **categorical or textual descriptions**, map them using the following default projection **unless the source defines a scale explicitly**:
+
+| Textual Description | Numeric Value |
+| ------------------- | ------------- |
+| very low            | 0.1           |
+| low                 | 0.3           |
+| medium              | 0.5           |
+| high                | 0.7           |
+| very high           | 0.9           |
+
+If mapping is used, the source field MUST reflect this, e.g.:
+
+```json
+"source": "PetMD (textual description mapped)"
+```
+
+---
+
+# Consistency Rules (SOFT CONSTRAINTS)
+
+Ensure internal plausibility. If sources conflict, keep both values but note it.
+
+Typical correlations:
+
+* High `energy` ⇒ medium/high `exercise_need`
+* High `independence` ⇒ higher `alone_tolerance`
+* High `genetic_risk` ⇒ lower `health_robustness`
+* High `protectiveness` often correlates with `territoriality`
+
+Do NOT force consistency — only flag it in `notes` if violated.
+
+---
+
 # Features to Extract
 
-For each feature, collect **multiple values from different sources**. Each source entry contains:
-1. **value** (0.0 to 1.0): The characteristic score from this source
-2. **confidence** (0.0 to 1.0): How reliable this source is
-   - 0.9-1.0 = Official standards (AKC, UKC, FCI)
-   - 0.7-0.8 = Veterinary sources, breed clubs
-   - 0.5-0.6 = Reputable pet sites (PetMD, Purina)
-   - 0.3-0.4 = General sites (Wikipedia, forums)
-3. **source**: Name of the source (e.g., "AKC", "PetMD", "Purina")
+Each feature is an **array of independent source entries**:
+
+```json
+{
+  "value": 0.0–1.0 | null,
+  "confidence": 0.0–1.0,
+  "source": "Source name (+ notes if mapped or inferred)"
+}
+```
+
+All **31 features are required**, but may contain `null` values when data is missing.
+
+---
 
 ## Coat & Allergens
 
-| Feature ID | Description | Scale |
-|------------|-------------|-------|
-| `shedding` | Amount of hair shedding | 0=none, 1=heavy |
-| `coat_type` | Coat maintenance complexity | 0=simple/short, 1=complex/long |
-| `dander_level` | Amount of dander produced (allergen) | 0=hypoallergenic, 1=high allergen |
-| `grooming` | Required grooming effort | 0=minimal, 1=extensive |
+| Feature ID     | Description                 | Scale                    |
+| -------------- | --------------------------- | ------------------------ |
+| `shedding`     | Hair shedding level         | 0=none, 1=heavy          |
+| `coat_type`    | Coat maintenance complexity | 0=simple, 1=complex      |
+| `dander_level` | Allergen/dander production  | 0=hypoallergenic, 1=high |
+| `grooming`     | Grooming effort             | 0=minimal, 1=extensive   |
+
+---
 
 ## Health
 
-| Feature ID | Description | Scale |
-|------------|-------------|-------|
-| `health_robustness` | Overall breed health/genetic stability | 0=many issues, 1=very robust |
-| `genetic_risk` | Risk of genetic health issues | 0=low risk, 1=high risk |
+| Feature ID          | Description              |
+| ------------------- | ------------------------ |
+| `health_robustness` | General health stability |
+| `genetic_risk`      | Risk of inherited issues |
+
+---
 
 ## Living Conditions
 
-| Feature ID | Description | Scale |
-|------------|-------------|-------|
-| `apartment_ok` | Apartment suitability | 0=not suitable, 1=ideal |
-| `barking` | Barking frequency | 0=silent, 1=very vocal |
-| `energy` | Overall energy level | 0=very low, 1=very high |
-| `reactivity` | Reaction intensity to stimuli | 0=calm, 1=highly reactive |
-| `noise_tolerance` | Tolerance to urban noise/sounds | 0=sensitive, 1=tolerant |
-| `exercise_need` | Required daily exercise | 0=minimal, 1=extensive |
+| Feature ID        |
+| ----------------- |
+| `apartment_ok`    |
+| `barking`         |
+| `energy`          |
+| `reactivity`      |
+| `noise_tolerance` |
+| `exercise_need`   |
+
+---
 
 ## Alone Time & Adaptability
 
-| Feature ID | Description | Scale |
-|------------|-------------|-------|
-| `alone_tolerance` | Ability to stay alone | 0=cannot be alone, 1=independent |
-| `separation_anxiety_risk` | Risk of separation anxiety | 0=low risk, 1=high risk |
-| `sitter_compatibility` | Ease of staying with other people | 0=difficult, 1=easy |
-| `adaptability` | Ability to adapt to changes | 0=rigid, 1=very adaptable |
+| Feature ID                |
+| ------------------------- |
+| `alone_tolerance`         |
+| `separation_anxiety_risk` |
+| `sitter_compatibility`    |
+| `adaptability`            |
+
+---
 
 ## Social Compatibility
 
-| Feature ID | Description | Scale |
-|------------|-------------|-------|
-| `child_friendly` | Safety and comfort with children | 0=not recommended, 1=excellent |
-| `pet_friendly` | Compatibility with other pets | 0=poor, 1=excellent |
-| `stranger_friendly` | Friendliness toward strangers | 0=wary, 1=very friendly |
-| `territoriality` | Territorial behavior intensity | 0=none, 1=highly territorial |
-| `protectiveness` | Protective instinct level | 0=none, 1=highly protective |
+| Feature ID          |
+| ------------------- |
+| `child_friendly`    |
+| `pet_friendly`      |
+| `stranger_friendly` |
+| `territoriality`    |
+| `protectiveness`    |
+
+---
 
 ## Temperament
 
-| Feature ID | Description | Scale |
-|------------|-------------|-------|
-| `stress_sensitivity` | Sensitivity to stressful situations | 0=resilient, 1=very sensitive |
-| `affection_level` | Human orientation and affection | 0=aloof, 1=very affectionate |
-| `independence` | Level of independence from owner | 0=very dependent, 1=very independent |
-| `playfulness` | Playfulness and game drive | 0=low, 1=very playful |
+| Feature ID           |
+| -------------------- |
+| `stress_sensitivity` |
+| `affection_level`    |
+| `independence`       |
+| `playfulness`        |
+
+---
 
 ## Training & Work
 
-| Feature ID | Description | Scale |
-|------------|-------------|-------|
-| `trainability` | Ease of training | 0=stubborn, 1=very trainable |
-| `working_drive` | Drive for work and tasks | 0=none, 1=very high |
-| `behavior_management_need` | Need for behavior correction | 0=easy, 1=needs work |
-| `mental_stimulation` | Need for mental challenges | 0=low, 1=high |
+| Feature ID                 |
+| -------------------------- |
+| `trainability`             |
+| `working_drive`            |
+| `behavior_management_need` |
+| `mental_stimulation`       |
+
+---
 
 ## Hunting Instincts
 
-| Feature ID | Description | Scale |
-|------------|-------------|-------|
-| `prey_drive` | Hunting/prey chase instinct | 0=none, 1=very strong |
-| `hunting_instinct` | Hunting behavior tendency | 0=none, 1=very strong |
+| Feature ID         |
+| ------------------ |
+| `prey_drive`       |
+| `hunting_instinct` |
 
-## Numerical Parameters
+---
 
-For each parameter, collect **ranges from different sources**:
+# Numerical Parameters
 
-| Parameter | Unit | Description |
-|-----------|------|-------------|
-| `weight_kg` | kg | Adult weight range |
-| `height_cm` | cm | Height at withers range |
-| `lifespan_years` | years | Expected lifespan range |
+For each parameter, collect **ranges** from independent sources:
 
-For each source, provide:
-- **value**: array `[min, max]` with the range
-- **confidence**: source reliability (0.9+ for AKC/FCI/UKC, 0.7-0.8 for breed clubs, 0.5-0.6 for general sites)
-- **source**: name of the source
+```json
+{
+  "value": [min, max],
+  "confidence": 0.0–1.0,
+  "source": "Source name"
+}
+```
 
-# Output Format
+Parameters:
 
-Return ONLY valid JSON with exactly these 31 features and 3 parameters. **All values must be arrays with multiple source entries**.
+* `weight_kg`
+* `height_cm`
+* `lifespan_years`
+
+---
+
+# Output Format (STRICT)
+
+Return **ONLY valid JSON** with the following structure:
 
 ```json
 {
   "breed_id": "{{ breed_id }}",
   "features": {
-    "shedding": [
-      {"value": 0.8, "confidence": 0.9, "source": "AKC"},
-      {"value": 0.7, "confidence": 0.7, "source": "PetMD"}
-    ],
-    "coat_type": [
-      {"value": 0.3, "confidence": 0.9, "source": "AKC"},
-      {"value": 0.4, "confidence": 0.6, "source": "Purina"}
-    ],
-    "dander_level": [...],
-    "grooming": [...],
-    "health_robustness": [...],
-    "genetic_risk": [...],
-    "apartment_ok": [...],
-    "barking": [...],
-    "energy": [...],
-    "reactivity": [...],
-    "noise_tolerance": [...],
-    "exercise_need": [...],
-    "alone_tolerance": [...],
-    "separation_anxiety_risk": [...],
-    "sitter_compatibility": [...],
-    "adaptability": [...],
-    "child_friendly": [...],
-    "pet_friendly": [...],
-    "stranger_friendly": [...],
-    "territoriality": [...],
-    "protectiveness": [...],
-    "stress_sensitivity": [...],
-    "affection_level": [...],
-    "independence": [...],
-    "playfulness": [...],
-    "trainability": [...],
-    "working_drive": [...],
-    "behavior_management_need": [...],
-    "mental_stimulation": [...],
-    "prey_drive": [...],
-    "hunting_instinct": [...]
+    "...31 feature keys...": [ { "value": ..., "confidence": ..., "source": ... } ]
   },
   "parameters": {
-    "weight_kg": [
-      {"value": [25, 32], "confidence": 0.9, "source": "AKC"},
-      {"value": [27, 34], "confidence": 0.7, "source": "Purina"},
-      {"value": [25, 30], "confidence": 0.5, "source": "Wikipedia"}
-    ],
-    "height_cm": [
-      {"value": [55, 61], "confidence": 0.9, "source": "AKC"},
-      {"value": [53, 60], "confidence": 0.6, "source": "PetMD"}
-    ],
-    "lifespan_years": [
-      {"value": [10, 12], "confidence": 0.9, "source": "AKC"},
-      {"value": [11, 13], "confidence": 0.7, "source": "Purina"}
-    ]
+    "weight_kg": [ ... ],
+    "height_cm": [ ... ],
+    "lifespan_years": [ ... ]
   },
-  "notes": "Brief notes about data quality or breed variations"
+  "notes": "Brief explanation of uncertainties, conflicts, missing sources, or consistency issues"
 }
 ```
 
-# Guidelines
+---
 
-1. **Use web search** to find values from multiple sources
-2. **Collect at least 2-3 source values per feature** when available
-3. **Do NOT aggregate values** - keep raw values from each source separately
-4. **Confidence reflects source reliability**, not your certainty:
-   - 0.9-1.0: AKC, UKC, FCI official standards
-   - 0.7-0.8: Veterinary sources, breed clubs, specialized databases
-   - 0.5-0.6: Reputable pet sites (PetMD, Purina, VetStreet)
-   - 0.3-0.4: General sites (Wikipedia, pet forums)
-5. **All 31 features are required** - include at least one source per feature
-6. **Return ONLY the JSON**, no additional text
+# Quality Checklist (SELF-VERIFY BEFORE OUTPUT)
+
+* No feature attributed to a source that does not mention it
+* No aggregation or averaging
+* All mappings are explicitly marked
+* At least one entry per feature (null allowed)
+* Confidence reflects source type
+* Output is strict JSON, no extra text
