@@ -1,0 +1,1641 @@
+{
+  "description": "Unified breed list with multilingual names",
+  "count": 181,
+  "breeds": [
+    {
+      "id": "labrador-retriever",
+      "name_en": "Labrador Retriever",
+      "name_ru": "Лабрадор-ретривер",
+      "aliases_en": [
+        "Lab"
+      ],
+      "aliases_ru": [
+        "Лабрадор",
+        "Лаб"
+      ]
+    },
+    {
+      "id": "golden-retriever",
+      "name_en": "Golden Retriever",
+      "name_ru": "Золотистый ретривер",
+      "aliases_en": [
+        "Golden"
+      ],
+      "aliases_ru": [
+        "Голден",
+        "Голден ретривер"
+      ]
+    },
+    {
+      "id": "german-shepherd-dog",
+      "name_en": "German Shepherd Dog",
+      "name_ru": "Немецкая овчарка",
+      "aliases_en": [
+        "German Shepherd",
+        "Alsatian",
+        "GSD"
+      ],
+      "aliases_ru": [
+        "Овчарка",
+        "Немец",
+        "Немецкая",
+        "Герм. овчарка"
+      ]
+    },
+    {
+      "id": "french-bulldog",
+      "name_en": "French Bulldog",
+      "name_ru": "Французский бульдог",
+      "aliases_en": [
+        "Frenchie"
+      ],
+      "aliases_ru": [
+        "Френч",
+        "Френч бульдог"
+      ]
+    },
+    {
+      "id": "poodle",
+      "name_en": "Poodle",
+      "name_ru": "Пудель",
+      "aliases_en": [
+        "Standard Poodle",
+        "Miniature Poodle",
+        "Toy Poodle"
+      ],
+      "aliases_ru": [
+        "Стандартный пудель",
+        "Миниатюрный пудель",
+        "Той-пудель"
+      ]
+    },
+    {
+      "id": "dachshund",
+      "name_en": "Dachshund",
+      "name_ru": "Такса",
+      "aliases_en": [
+        "Doxie",
+        "Sausage Dog"
+      ],
+      "aliases_ru": [
+        "Сосиска",
+        "Дакси",
+        "Таксочка"
+      ]
+    },
+    {
+      "id": "beagle",
+      "name_en": "Beagle",
+      "name_ru": "Бигль",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "rottweiler",
+      "name_en": "Rottweiler",
+      "name_ru": "Ротвейлер",
+      "aliases_en": [
+        "Rottie"
+      ],
+      "aliases_ru": [
+        "Рот",
+        "Ротик"
+      ]
+    },
+    {
+      "id": "bulldog",
+      "name_en": "Bulldog",
+      "name_ru": "Английский бульдог",
+      "aliases_en": [
+        "English Bulldog",
+        "British Bulldog"
+      ],
+      "aliases_ru": [
+        "Бульдог",
+        "Британский бульдог"
+      ]
+    },
+    {
+      "id": "german-shorthaired-pointer",
+      "name_en": "German Shorthaired Pointer",
+      "name_ru": "Немецкая короткошёрстная легавая",
+      "aliases_en": [
+        "GSP"
+      ],
+      "aliases_ru": [
+        "Курцхаар",
+        "ГСП"
+      ]
+    },
+    {
+      "id": "yorkshire-terrier",
+      "name_en": "Yorkshire Terrier",
+      "name_ru": "Йоркширский терьер",
+      "aliases_en": [
+        "Yorkie"
+      ],
+      "aliases_ru": [
+        "Йорк",
+        "Йоркшир"
+      ]
+    },
+    {
+      "id": "australian-shepherd",
+      "name_en": "Australian Shepherd",
+      "name_ru": "Австралийская овчарка",
+      "aliases_en": [
+        "Aussie"
+      ],
+      "aliases_ru": [
+        "Аусси",
+        "Австралийка"
+      ]
+    },
+    {
+      "id": "cavalier-king-charles-spaniel",
+      "name_en": "Cavalier King Charles Spaniel",
+      "name_ru": "Кавалер-король чарльз-спаниель",
+      "aliases_en": [
+        "Cavalier"
+      ],
+      "aliases_ru": [
+        "Кавалер"
+      ]
+    },
+    {
+      "id": "cane-corso",
+      "name_en": "Cane Corso",
+      "name_ru": "Кане-корсо",
+      "aliases_en": [
+        "Italian Mastiff"
+      ],
+      "aliases_ru": [
+        "Итальянский мастиф",
+        "Корсо"
+      ]
+    },
+    {
+      "id": "pembroke-welsh-corgi",
+      "name_en": "Pembroke Welsh Corgi",
+      "name_ru": "Вельш-корги пемброк",
+      "aliases_en": [
+        "Pembroke Corgi"
+      ],
+      "aliases_ru": [
+        "Пемброк",
+        "Корги-пемброк"
+      ]
+    },
+    {
+      "id": "doberman-pinscher",
+      "name_en": "Doberman Pinscher",
+      "name_ru": "Доберман",
+      "aliases_en": [
+        "Doberman",
+        "Dobermann"
+      ],
+      "aliases_ru": [
+        "Доберман-пинчер",
+        "Добер"
+      ]
+    },
+    {
+      "id": "boxer",
+      "name_en": "Boxer",
+      "name_ru": "Боксер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "miniature-schnauzer",
+      "name_en": "Miniature Schnauzer",
+      "name_ru": "Миниатюрный шнауцер",
+      "aliases_en": [
+        "Mini Schnauzer"
+      ],
+      "aliases_ru": [
+        "Мини-шнауцер"
+      ]
+    },
+    {
+      "id": "bernese-mountain-dog",
+      "name_en": "Bernese Mountain Dog",
+      "name_ru": "Бернский зенненхунд",
+      "aliases_en": [
+        "Berner"
+      ],
+      "aliases_ru": [
+        "Бернер"
+      ]
+    },
+    {
+      "id": "shih-tzu",
+      "name_en": "Shih Tzu",
+      "name_ru": "Ши-тцу",
+      "aliases_en": [
+        "Chrysanthemum Dog"
+      ],
+      "aliases_ru": [
+        "Собака-хризантема"
+      ]
+    },
+    {
+      "id": "great-dane",
+      "name_en": "Great Dane",
+      "name_ru": "Немецкий дог",
+      "aliases_en": [
+        "German Mastiff"
+      ],
+      "aliases_ru": [
+        "Дог",
+        "Немецкий мастиф"
+      ]
+    },
+    {
+      "id": "pomeranian",
+      "name_en": "Pomeranian",
+      "name_ru": "Померанский шпиц",
+      "aliases_en": [
+        "Pom"
+      ],
+      "aliases_ru": [
+        "Пом",
+        "Шпиц"
+      ]
+    },
+    {
+      "id": "boston-terrier",
+      "name_en": "Boston Terrier",
+      "name_ru": "Бостон-терьер",
+      "aliases_en": [
+        "Boston"
+      ],
+      "aliases_ru": [
+        "Бостон"
+      ]
+    },
+    {
+      "id": "miniature-american-shepherd",
+      "name_en": "Miniature American Shepherd",
+      "name_ru": "Миниатюрная американская овчарка",
+      "aliases_en": [
+        "Mini Aussie",
+        "MAS"
+      ],
+      "aliases_ru": [
+        "Мини аусси",
+        "МАС"
+      ]
+    },
+    {
+      "id": "havanese",
+      "name_en": "Havanese",
+      "name_ru": "Гаванский бишон",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "siberian-husky",
+      "name_en": "Siberian Husky",
+      "name_ru": "Сибирский хаски",
+      "aliases_en": [
+        "Husky"
+      ],
+      "aliases_ru": [
+        "Хаски"
+      ]
+    },
+    {
+      "id": "chihuahua",
+      "name_en": "Chihuahua",
+      "name_ru": "Чихуахуа",
+      "aliases_en": [
+        "Chi"
+      ],
+      "aliases_ru": [
+        "Чи"
+      ]
+    },
+    {
+      "id": "english-springer-spaniel",
+      "name_en": "English Springer Spaniel",
+      "name_ru": "Английский спрингер-спаниель",
+      "aliases_en": [
+        "Springer Spaniel"
+      ],
+      "aliases_ru": [
+        "Спрингер"
+      ]
+    },
+    {
+      "id": "shetland-sheepdog",
+      "name_en": "Shetland Sheepdog",
+      "name_ru": "Шетландская овчарка",
+      "aliases_en": [
+        "Sheltie"
+      ],
+      "aliases_ru": [
+        "Шелти"
+      ]
+    },
+    {
+      "id": "border-collie",
+      "name_en": "Border Collie",
+      "name_ru": "Бордер-колли",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "brittany",
+      "name_en": "Brittany",
+      "name_ru": "Бретонский спаниель",
+      "aliases_en": [
+        "Brittany Spaniel"
+      ],
+      "aliases_ru": [
+        "Бретань",
+        "Бретон"
+      ]
+    },
+    {
+      "id": "cocker-spaniel-american",
+      "name_en": "Cocker Spaniel (American)",
+      "name_ru": "Американский кокер-спаниель",
+      "aliases_en": [
+        "American Cocker Spaniel"
+      ],
+      "aliases_ru": [
+        "Кокер",
+        "Американский кокер"
+      ]
+    },
+    {
+      "id": "english-cocker-spaniel",
+      "name_en": "English Cocker Spaniel",
+      "name_ru": "Английский кокер-спаниель",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "basset-hound",
+      "name_en": "Basset Hound",
+      "name_ru": "Бассет-хаунд",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "vizsla",
+      "name_en": "Vizsla",
+      "name_ru": "Венгерская выжла",
+      "aliases_en": [
+        "Hungarian Vizsla",
+        "Magyar Vizsla"
+      ],
+      "aliases_ru": [
+        "Выжла"
+      ]
+    },
+    {
+      "id": "maltese",
+      "name_en": "Maltese",
+      "name_ru": "Мальтийская болонка",
+      "aliases_en": [
+        "Maltese Dog"
+      ],
+      "aliases_ru": [
+        "Мальтез",
+        "Болонка"
+      ]
+    },
+    {
+      "id": "pug",
+      "name_en": "Pug",
+      "name_ru": "Мопс",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "collie-rough",
+      "name_en": "Collie (Rough)",
+      "name_ru": "Колли (длинношёрстный)",
+      "aliases_en": [
+        "Rough Collie",
+        "Collie"
+      ],
+      "aliases_ru": [
+        "Длинношёрстный колли",
+        "Колли"
+      ]
+    },
+    {
+      "id": "mastiff",
+      "name_en": "Mastiff",
+      "name_ru": "Английский мастиф",
+      "aliases_en": [
+        "English Mastiff"
+      ],
+      "aliases_ru": [
+        "Мастиф"
+      ]
+    },
+    {
+      "id": "west-highland-white-terrier",
+      "name_en": "West Highland White Terrier",
+      "name_ru": "Вест-хайленд-уайт-терьер",
+      "aliases_en": [
+        "Westie"
+      ],
+      "aliases_ru": [
+        "Вести"
+      ]
+    },
+    {
+      "id": "shiba-inu",
+      "name_en": "Shiba Inu",
+      "name_ru": "Сиба-ину",
+      "aliases_en": [
+        "Shiba"
+      ],
+      "aliases_ru": [
+        "Сиба"
+      ]
+    },
+    {
+      "id": "rhodesian-ridgeback",
+      "name_en": "Rhodesian Ridgeback",
+      "name_ru": "Родезийский риджбек",
+      "aliases_en": [],
+      "aliases_ru": [
+        "Риджбек"
+      ]
+    },
+    {
+      "id": "papillon",
+      "name_en": "Papillon",
+      "name_ru": "Папильон",
+      "aliases_en": [
+        "Continental Toy Spaniel"
+      ],
+      "aliases_ru": [
+        "Континентальный той-спаниель"
+      ]
+    },
+    {
+      "id": "portuguese-water-dog",
+      "name_en": "Portuguese Water Dog",
+      "name_ru": "Португальская водяная собака",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "bichon-frise",
+      "name_en": "Bichon Frise",
+      "name_ru": "Бишон фризе",
+      "aliases_en": [
+        "Bichon"
+      ],
+      "aliases_ru": [
+        "Бишон"
+      ]
+    },
+    {
+      "id": "newfoundland",
+      "name_en": "Newfoundland",
+      "name_ru": "Ньюфаундленд",
+      "aliases_en": [],
+      "aliases_ru": [
+        "Ньюф"
+      ]
+    },
+    {
+      "id": "dalmatian",
+      "name_en": "Dalmatian",
+      "name_ru": "Далматин",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "australian-cattle-dog",
+      "name_en": "Australian Cattle Dog",
+      "name_ru": "Австралийская пастушья собака",
+      "aliases_en": [
+        "Blue Heeler",
+        "Queensland Heeler"
+      ],
+      "aliases_ru": [
+        "Блу хилер",
+        "Квинсленд хилер"
+      ]
+    },
+    {
+      "id": "whippet",
+      "name_en": "Whippet",
+      "name_ru": "Уиппет",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "wirehaired-pointing-griffon",
+      "name_en": "Wirehaired Pointing Griffon",
+      "name_ru": "Жёсткошерстный пойнтер-гриффон",
+      "aliases_en": [
+        "Korthals Griffon"
+      ],
+      "aliases_ru": [
+        "Гриффон Корталса"
+      ]
+    },
+    {
+      "id": "chesapeake-bay-retriever",
+      "name_en": "Chesapeake Bay Retriever",
+      "name_ru": "Чесапик-бей-ретривер",
+      "aliases_en": [
+        "Chessie"
+      ],
+      "aliases_ru": [
+        "Чесапик"
+      ]
+    },
+    {
+      "id": "samoyed",
+      "name_en": "Samoyed",
+      "name_ru": "Самоед",
+      "aliases_en": [],
+      "aliases_ru": [
+        "Самоедская собака"
+      ]
+    },
+    {
+      "id": "scottish-terrier",
+      "name_en": "Scottish Terrier",
+      "name_ru": "Шотландский терьер",
+      "aliases_en": [
+        "Scottie"
+      ],
+      "aliases_ru": [
+        "Скотти"
+      ]
+    },
+    {
+      "id": "weimaraner",
+      "name_en": "Weimaraner",
+      "name_ru": "Веймаранер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "italian-greyhound",
+      "name_en": "Italian Greyhound",
+      "name_ru": "Итальянская борзая",
+      "aliases_en": [],
+      "aliases_ru": [
+        "Левретка"
+      ]
+    },
+    {
+      "id": "giant-schnauzer",
+      "name_en": "Giant Schnauzer",
+      "name_ru": "Ризеншнауцер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "bloodhound",
+      "name_en": "Bloodhound",
+      "name_ru": "Бладхаунд",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "akita",
+      "name_en": "Akita",
+      "name_ru": "Акита-ину",
+      "aliases_en": [
+        "American Akita",
+        "Akita Inu"
+      ],
+      "aliases_ru": [
+        "Американская акита",
+        "Акита"
+      ]
+    },
+    {
+      "id": "cardigan-welsh-corgi",
+      "name_en": "Cardigan Welsh Corgi",
+      "name_ru": "Вельш-корги кардиган",
+      "aliases_en": [
+        "Cardigan Corgi"
+      ],
+      "aliases_ru": [
+        "Корги-кардиган",
+        "Кардиган"
+      ]
+    },
+    {
+      "id": "german-wirehaired-pointer",
+      "name_en": "German Wirehaired Pointer",
+      "name_ru": "Немецкая жёсткошерстная легавая",
+      "aliases_en": [
+        "GWP"
+      ],
+      "aliases_ru": [
+        "Дратхаар",
+        "ГЖП"
+      ]
+    },
+    {
+      "id": "saint-bernard",
+      "name_en": "Saint Bernard",
+      "name_ru": "Сенбернар",
+      "aliases_en": [
+        "St. Bernard"
+      ],
+      "aliases_ru": [
+        "Св. Бернар"
+      ]
+    },
+    {
+      "id": "staffordshire-bull-terrier",
+      "name_en": "Staffordshire Bull Terrier",
+      "name_ru": "Стаффордширский бультерьер",
+      "aliases_en": [
+        "Staffy",
+        "Staffie"
+      ],
+      "aliases_ru": [
+        "Стаффи",
+        "Стафф"
+      ]
+    },
+    {
+      "id": "airedale-terrier",
+      "name_en": "Airedale Terrier",
+      "name_ru": "Эрдельтерьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "boykin-spaniel",
+      "name_en": "Boykin Spaniel",
+      "name_ru": "Бойкин-спаниель",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "russell-terrier",
+      "name_en": "Russell Terrier",
+      "name_ru": "Рассел-терьер",
+      "aliases_en": [
+        "Jack Russell Terrier",
+        "JRT"
+      ],
+      "aliases_ru": [
+        "Джек-рассел терьер",
+        "Джек-рассел",
+        "ДжРТ"
+      ]
+    },
+    {
+      "id": "bullmastiff",
+      "name_en": "Bullmastiff",
+      "name_ru": "Бульмастиф",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "chinese-crested",
+      "name_en": "Chinese Crested",
+      "name_ru": "Китайская хохлатая собака",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "nova-scotia-duck-tolling-retriever",
+      "name_en": "Nova Scotia Duck Tolling Retriever",
+      "name_ru": "Новошотландский ретривер",
+      "aliases_en": [
+        "Toller"
+      ],
+      "aliases_ru": [
+        "Толлер"
+      ]
+    },
+    {
+      "id": "biewer-terrier",
+      "name_en": "Biewer Terrier",
+      "name_ru": "Бивер-терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "cairn-terrier",
+      "name_en": "Cairn Terrier",
+      "name_ru": "Керн-терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "bull-terrier",
+      "name_en": "Bull Terrier",
+      "name_ru": "Бультерьер",
+      "aliases_en": [
+        "English Bull Terrier"
+      ],
+      "aliases_ru": [
+        "Английский бультерьер"
+      ]
+    },
+    {
+      "id": "miniature-pinscher",
+      "name_en": "Miniature Pinscher",
+      "name_ru": "Миниатюрный пинчер",
+      "aliases_en": [
+        "Min Pin"
+      ],
+      "aliases_ru": [
+        "Мини-пинчер"
+      ]
+    },
+    {
+      "id": "great-pyrenees",
+      "name_en": "Great Pyrenees",
+      "name_ru": "Пиренейская горная собака",
+      "aliases_en": [
+        "Pyrenean Mountain Dog"
+      ],
+      "aliases_ru": [
+        "Пиренейский мастиф"
+      ]
+    },
+    {
+      "id": "soft-coated-wheaten-terrier",
+      "name_en": "Soft Coated Wheaten Terrier",
+      "name_ru": "Ирландский мягкошерстный пшеничный терьер",
+      "aliases_en": [],
+      "aliases_ru": [
+        "Пшеничный терьер"
+      ]
+    },
+    {
+      "id": "irish-wolfhound",
+      "name_en": "Irish Wolfhound",
+      "name_ru": "Ирландский волкодав",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "american-staffordshire-terrier",
+      "name_en": "American Staffordshire Terrier",
+      "name_ru": "Американский стаффордширский терьер",
+      "aliases_en": [
+        "AmStaff"
+      ],
+      "aliases_ru": [
+        "Амстафф"
+      ]
+    },
+    {
+      "id": "american-eskimo-dog",
+      "name_en": "American Eskimo Dog",
+      "name_ru": "Американская эскимосская собака",
+      "aliases_en": [
+        "Eskie"
+      ],
+      "aliases_ru": [
+        "Эски"
+      ]
+    },
+    {
+      "id": "alaskan-malamute",
+      "name_en": "Alaskan Malamute",
+      "name_ru": "Аляскинский маламут",
+      "aliases_en": [
+        "Malamute"
+      ],
+      "aliases_ru": [
+        "Маламут"
+      ]
+    },
+    {
+      "id": "american-bulldog",
+      "name_en": "American Bulldog",
+      "name_ru": "Американский бульдог",
+      "aliases_en": [
+        "Ambull"
+      ],
+      "aliases_ru": [
+        "Амбул"
+      ]
+    },
+    {
+      "id": "american-bully",
+      "name_en": "American Bully",
+      "name_ru": "Американский булли",
+      "aliases_en": [
+        "Bully"
+      ],
+      "aliases_ru": [
+        "Булли"
+      ]
+    },
+    {
+      "id": "american-pit-bull-terrier",
+      "name_en": "American Pit Bull Terrier",
+      "name_ru": "Американский питбультерьер",
+      "aliases_en": [
+        "APBT",
+        "Pit Bull"
+      ],
+      "aliases_ru": [
+        "АПБТ",
+        "Питбуль"
+      ]
+    },
+    {
+      "id": "basenji",
+      "name_en": "Basenji",
+      "name_ru": "Басенджи",
+      "aliases_en": [
+        "African Barkless Dog"
+      ],
+      "aliases_ru": [
+        "Африканская бестолковая собака"
+      ]
+    },
+    {
+      "id": "bedlington-terrier",
+      "name_en": "Bedlington Terrier",
+      "name_ru": "Бедлингтон-терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "belgian-malinois",
+      "name_en": "Belgian Malinois",
+      "name_ru": "Бельгийская овчарка (Малинуа)",
+      "aliases_en": [
+        "Malinois",
+        "Belgian Shepherd (Malinois)"
+      ],
+      "aliases_ru": [
+        "Малинуа",
+        "Бельгийская овчарка"
+      ]
+    },
+    {
+      "id": "belgian-tervuren",
+      "name_en": "Belgian Tervuren",
+      "name_ru": "Бельгийская овчарка (Тервюрен)",
+      "aliases_en": [
+        "Belgian Shepherd (Tervuren)"
+      ],
+      "aliases_ru": [
+        "Тервюрен",
+        "Бельгийская овчарка"
+      ]
+    },
+    {
+      "id": "belgian-sheepdog",
+      "name_en": "Belgian Sheepdog",
+      "name_ru": "Бельгийская овчарка (Грюнендаль)",
+      "aliases_en": [
+        "Groenendael",
+        "Belgian Shepherd (Groenendael)"
+      ],
+      "aliases_ru": [
+        "Грюнендаль",
+        "Бельгийская овчарка"
+      ]
+    },
+    {
+      "id": "belgian-laekenois",
+      "name_en": "Belgian Laekenois",
+      "name_ru": "Бельгийская овчарка (Лакенуа)",
+      "aliases_en": [
+        "Belgian Shepherd (Laekenois)"
+      ],
+      "aliases_ru": [
+        "Лакенуа",
+        "Бельгийская овчарка"
+      ]
+    },
+    {
+      "id": "border-terrier",
+      "name_en": "Border Terrier",
+      "name_ru": "Бордер-терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "borzoi",
+      "name_en": "Borzoi",
+      "name_ru": "Борзая",
+      "aliases_en": [
+        "Russian Wolfhound"
+      ],
+      "aliases_ru": [
+        "Русская псовая борзая",
+        "Русская борзая"
+      ]
+    },
+    {
+      "id": "bracco-italiano",
+      "name_en": "Bracco Italiano",
+      "name_ru": "Бракко итальяно",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "briard",
+      "name_en": "Briard",
+      "name_ru": "Бриар",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "canaan-dog",
+      "name_en": "Canaan Dog",
+      "name_ru": "Кананская собака",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "chow-chow",
+      "name_en": "Chow Chow",
+      "name_ru": "Чау-чау",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "clumber-spaniel",
+      "name_en": "Clumber Spaniel",
+      "name_ru": "Кламбер-спаниель",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "dogo-argentino",
+      "name_en": "Dogo Argentino",
+      "name_ru": "Аргентинский дог",
+      "aliases_en": [
+        "Argentine Mastiff"
+      ],
+      "aliases_ru": [
+        "Аргентинский мастиф"
+      ]
+    },
+    {
+      "id": "dogue-de-bordeaux",
+      "name_en": "Dogue de Bordeaux",
+      "name_ru": "Бордоский дог",
+      "aliases_en": [
+        "French Mastiff"
+      ],
+      "aliases_ru": [
+        "Французский мастиф"
+      ]
+    },
+    {
+      "id": "english-setter",
+      "name_en": "English Setter",
+      "name_ru": "Английский сеттер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "gordon-setter",
+      "name_en": "Gordon Setter",
+      "name_ru": "Гордон-сеттер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "irish-setter",
+      "name_en": "Irish Setter",
+      "name_ru": "Ирландский сеттер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "finnish-spitz",
+      "name_en": "Finnish Spitz",
+      "name_ru": "Финский шпиц",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "keeshond",
+      "name_en": "Keeshond",
+      "name_ru": "Кеесхонд",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "kooikerhondje",
+      "name_en": "Nederlandse Kooikerhondje",
+      "name_ru": "Нидерландский коикерхондье",
+      "aliases_en": [
+        "Kooikerhondje"
+      ],
+      "aliases_ru": [
+        "Коикерхондье"
+      ]
+    },
+    {
+      "id": "lagotto-romagnolo",
+      "name_en": "Lagotto Romagnolo",
+      "name_ru": "Лаготто романьоло",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "leonberger",
+      "name_en": "Leonberger",
+      "name_ru": "Леонбергер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "lhasa-apso",
+      "name_en": "Lhasa Apso",
+      "name_ru": "Лхаса апсо",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "lowchen",
+      "name_en": "Löwchen",
+      "name_ru": "Левхен",
+      "aliases_en": [
+        "Lowchen",
+        "Little Lion Dog"
+      ],
+      "aliases_ru": [
+        "Лёвхен",
+        "Маленькая львиная собачка"
+      ]
+    },
+    {
+      "id": "neapolitan-mastiff",
+      "name_en": "Neapolitan Mastiff",
+      "name_ru": "Неаполитанский мастиф",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "norwegian-elkhound",
+      "name_en": "Norwegian Elkhound",
+      "name_ru": "Норвежский элкхаунд",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "old-english-sheepdog",
+      "name_en": "Old English Sheepdog",
+      "name_ru": "Английская овчарка (Бобтейл)",
+      "aliases_en": [],
+      "aliases_ru": [
+        "Бобтейл"
+      ]
+    },
+    {
+      "id": "pharaoh-hound",
+      "name_en": "Pharaoh Hound",
+      "name_ru": "Фараонова собака",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "pekingese",
+      "name_en": "Pekingese",
+      "name_ru": "Пекинес",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "polish-lowland-sheepdog",
+      "name_en": "Polish Lowland Sheepdog",
+      "name_ru": "Польская подгалянская овчарка",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "puli",
+      "name_en": "Puli",
+      "name_ru": "Пули",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "pumi",
+      "name_en": "Pumi",
+      "name_ru": "Пуми",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "rat-terrier",
+      "name_en": "Rat Terrier",
+      "name_ru": "Рэт-терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "redbone-coonhound",
+      "name_en": "Redbone Coonhound",
+      "name_ru": "Редбоун кунхаунд",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "saluki",
+      "name_en": "Saluki",
+      "name_ru": "Салюки",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "schipperke",
+      "name_en": "Schipperke",
+      "name_ru": "Схипперке",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "scottish-deerhound",
+      "name_en": "Scottish Deerhound",
+      "name_ru": "Шотландский дирхаунд",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "sealyham-terrier",
+      "name_en": "Sealyham Terrier",
+      "name_ru": "Силихем-терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "shar-pei",
+      "name_en": "Chinese Shar-Pei",
+      "name_ru": "Шарпей",
+      "aliases_en": [
+        "Shar-Pei"
+      ],
+      "aliases_ru": []
+    },
+    {
+      "id": "silky-terrier",
+      "name_en": "Silky Terrier",
+      "name_ru": "Силки-терьер",
+      "aliases_en": [
+        "Australian Silky Terrier"
+      ],
+      "aliases_ru": [
+        "Австралийский шелковистый терьер"
+      ]
+    },
+    {
+      "id": "skye-terrier",
+      "name_en": "Skye Terrier",
+      "name_ru": "Скай-терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "sloughi",
+      "name_en": "Sloughi",
+      "name_ru": "Слюги",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "smooth-fox-terrier",
+      "name_en": "Smooth Fox Terrier",
+      "name_ru": "Гладкошерстный фокстерьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "wire-fox-terrier",
+      "name_en": "Wire Fox Terrier",
+      "name_ru": "Жёсткошерстный фокстерьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "spanish-water-dog",
+      "name_en": "Spanish Water Dog",
+      "name_ru": "Испанская водяная собака",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "spinone-italiano",
+      "name_en": "Spinone Italiano",
+      "name_ru": "Итальянский спиноне",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "standard-schnauzer",
+      "name_en": "Standard Schnauzer",
+      "name_ru": "Стандартный шнауцер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "swedish-vallhund",
+      "name_en": "Swedish Vallhund",
+      "name_ru": "Шведский вальхунд",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "tibetan-mastiff",
+      "name_en": "Tibetan Mastiff",
+      "name_ru": "Тибетский мастиф",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "tibetan-terrier",
+      "name_en": "Tibetan Terrier",
+      "name_ru": "Тибетский терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "toy-fox-terrier",
+      "name_en": "Toy Fox Terrier",
+      "name_ru": "Той-фокстерьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "treeing-walker-coonhound",
+      "name_en": "Treeing Walker Coonhound",
+      "name_ru": "Триинг-уокер кунхаунд",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "welsh-springer-spaniel",
+      "name_en": "Welsh Springer Spaniel",
+      "name_ru": "Валлийский спрингер-спаниель",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "welsh-terrier",
+      "name_en": "Welsh Terrier",
+      "name_ru": "Валлийский терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "xoloitzcuintli",
+      "name_en": "Xoloitzcuintli",
+      "name_ru": "Ксолоитцкуинтли",
+      "aliases_en": [
+        "Mexican Hairless Dog",
+        "Xolo"
+      ],
+      "aliases_ru": [
+        "Мексиканская голая собака",
+        "Ксоло"
+      ]
+    },
+    {
+      "id": "greyhound",
+      "name_en": "Greyhound",
+      "name_ru": "Грейхаунд",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "afghan-hound",
+      "name_en": "Afghan Hound",
+      "name_ru": "Афганская борзая",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "irish-terrier",
+      "name_en": "Irish Terrier",
+      "name_ru": "Ирландский терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "lakeland-terrier",
+      "name_en": "Lakeland Terrier",
+      "name_ru": "Лейкленд-терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "norfolk-terrier",
+      "name_en": "Norfolk Terrier",
+      "name_ru": "Норфолк-терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "norwich-terrier",
+      "name_en": "Norwich Terrier",
+      "name_ru": "Норвич-терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "manchester-terrier",
+      "name_en": "Manchester Terrier",
+      "name_ru": "Манчестер-терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "american-water-spaniel",
+      "name_en": "American Water Spaniel",
+      "name_ru": "Американский водяной спаниель",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "irish-water-spaniel",
+      "name_en": "Irish Water Spaniel",
+      "name_ru": "Ирландский водяной спаниель",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "flat-coated-retriever",
+      "name_en": "Flat-Coated Retriever",
+      "name_ru": "Ретривер с плоской шерстью",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "curly-coated-retriever",
+      "name_en": "Curly-Coated Retriever",
+      "name_ru": "Кудрявый ретривер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "pointer",
+      "name_en": "Pointer",
+      "name_ru": "Пойнтер",
+      "aliases_en": [
+        "English Pointer"
+      ],
+      "aliases_ru": [
+        "Английский пойнтер"
+      ]
+    },
+    {
+      "id": "wirehaired-vizsla",
+      "name_en": "Wirehaired Vizsla",
+      "name_ru": "Жёсткошерстная выжла",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "greater-swiss-mountain-dog",
+      "name_en": "Greater Swiss Mountain Dog",
+      "name_ru": "Большой швейцарский зенненхунд",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "barbet",
+      "name_en": "Barbet",
+      "name_ru": "Барбе",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "eurasier",
+      "name_en": "Eurasier",
+      "name_ru": "Евразиер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "icelandic-sheepdog",
+      "name_en": "Icelandic Sheepdog",
+      "name_ru": "Исландская собака",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "beauceron",
+      "name_en": "Beauceron",
+      "name_ru": "Босерон",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "kangal-shepherd-dog",
+      "name_en": "Kangal Shepherd Dog",
+      "name_ru": "Кангал",
+      "aliases_en": [
+        "Kangal",
+        "Turkish Kangal"
+      ],
+      "aliases_ru": [
+        "Турецкий кангал"
+      ]
+    },
+    {
+      "id": "anatolian-shepherd-dog",
+      "name_en": "Anatolian Shepherd Dog",
+      "name_ru": "Анатолийская овчарка",
+      "aliases_en": [
+        "Anatolian"
+      ],
+      "aliases_ru": [
+        "Анатолийская собака"
+      ]
+    },
+    {
+      "id": "maremma-sheepdog",
+      "name_en": "Maremma Sheepdog",
+      "name_ru": "Мареммо-абруцкая овчарка",
+      "aliases_en": [
+        "Maremmano-Abruzzese Sheepdog"
+      ],
+      "aliases_ru": []
+    },
+    {
+      "id": "kuvasz",
+      "name_en": "Kuvasz",
+      "name_ru": "Кувас",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "komondor",
+      "name_en": "Komondor",
+      "name_ru": "Комондор",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "pyrenean-shepherd",
+      "name_en": "Pyrenean Shepherd",
+      "name_ru": "Пиренейская овчарка",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "american-foxhound",
+      "name_en": "American Foxhound",
+      "name_ru": "Американская фоксхаунд",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "english-foxhound",
+      "name_en": "English Foxhound",
+      "name_ru": "Английский фоксхаунд",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "black-and-tan-coonhound",
+      "name_en": "Black and Tan Coonhound",
+      "name_ru": "Чёрно-подпалый кунхаунд",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "bluetick-coonhound",
+      "name_en": "Bluetick Coonhound",
+      "name_ru": "Блютик-кунхаунд",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "american-hairless-terrier",
+      "name_en": "American Hairless Terrier",
+      "name_ru": "Американский голый терьер",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "coton-de-tulear",
+      "name_en": "Coton de Tulear",
+      "name_ru": "Котон-де-тулеар",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "japanese-spitz",
+      "name_en": "Japanese Spitz",
+      "name_ru": "Японский шпиц",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "japanese-chin",
+      "name_en": "Japanese Chin",
+      "name_ru": "Японский хин",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "goldendoodle",
+      "name_en": "Goldendoodle",
+      "name_ru": "Голдендудль",
+      "aliases_en": [
+        "Groodle"
+      ],
+      "aliases_ru": [
+        "Груудль"
+      ]
+    },
+    {
+      "id": "labradoodle",
+      "name_en": "Labradoodle",
+      "name_ru": "Лабрадудль",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "cockapoo",
+      "name_en": "Cockapoo",
+      "name_ru": "Кокапу",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "cavapoo",
+      "name_en": "Cavapoo",
+      "name_ru": "Кавапу",
+      "aliases_en": [
+        "Cavoodle"
+      ],
+      "aliases_ru": [
+        "Кавудль"
+      ]
+    },
+    {
+      "id": "maltipoo",
+      "name_en": "Maltipoo",
+      "name_ru": "Мальтипу",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "puggle",
+      "name_en": "Puggle",
+      "name_ru": "Паггл",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "pomsky",
+      "name_en": "Pomsky",
+      "name_ru": "Помски",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "schnoodle",
+      "name_en": "Schnoodle",
+      "name_ru": "Шнудль",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "yorkipoo",
+      "name_en": "Yorkipoo",
+      "name_ru": "Йоркипу",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "bernedoodle",
+      "name_en": "Bernedoodle",
+      "name_ru": "Бернедудль",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "sheepadoodle",
+      "name_en": "Sheepadoodle",
+      "name_ru": "Шипадудль",
+      "aliases_en": [],
+      "aliases_ru": []
+    },
+    {
+      "id": "aussiedoodle",
+      "name_en": "Aussiedoodle",
+      "name_ru": "Ауссидудль",
+      "aliases_en": [],
+      "aliases_ru": []
+    }
+  ]
+}

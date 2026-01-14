@@ -1,0 +1,159 @@
+{
+  "id": "biewer-terrier",
+  "name": "Biewer Terrier",
+  "name_rus": "Бивер терьер",
+  "full_description": "<p>The Biewer Terrier is a charming and elegant toy breed that originated in Germany in the 1980s. Developed by breeders Werner and Gertrude Biewer, this breed emerged when two Yorkshire Terriers carrying a recessive piebald gene produced tricolor puppies. Captivated by their unique appearance, the Biewers dedicated themselves to refining and establishing the breed, which was officially recognized by the American Kennel Club (AKC) in 2021.</p>\n<p>Physically, the Biewer Terrier is a small, fine to medium-boned dog, standing between 7 to 11 inches tall and weighing 4 to 8 pounds. Its long, flowing, silky coat is straight and without an undercoat, parting down the middle and hanging evenly on both sides. The breed's distinctive tricolor pattern includes combinations of blue/black, gold/tan, and white, with specific color distributions on the head and body. The tail is set high, carried over the back in a teacup handle fashion, and adorned with a long, luxurious plume.</p>\n<p>Temperamentally, Biewer Terriers are intelligent, loyal, and devoted companions. They exhibit a fun-loving, childlike attitude, making them suitable for families and individuals alike. Their friendly disposition extends to other animals, and they are known for their sociable nature. While they can be mischievous at times, they are generally obedient and eager to please.</p>\n<p>Originally bred as companion animals, Biewer Terriers have no specific working abilities. Their primary purpose has always been to provide companionship, and they excel in this role due to their affectionate and playful nature. In modern times, their popularity has grown, especially after gaining recognition from major kennel clubs. They are cherished for their unique appearance and delightful personalities, making them a favored choice among toy breed enthusiasts.</p>\n<p>Notable characteristics of the Biewer Terrier include their distinctive tricolor coat, elegant appearance, and friendly demeanor. Their long, silky hair requires regular grooming to maintain its beauty and health. Despite their small size, they possess a confident and graceful movement, reflecting their spirited nature.</p>",
+  "full_description_rus": "<p>Бивер терьер — очаровательная и элегантная декоративная порода, появившаяся в Германии в 1980-х годах. Заводчики Вернер и Гертруда Бивер вывели эту породу, когда у двух йоркширских терьеров с рецессивным геном пегости родились трехцветные щенки. Восхищенные их уникальной внешностью, супруги Бивер посвятили себя совершенствованию и установлению породы, которая была официально признана Американским клубом собаководства (AKC) в 2021 году.</p>\n<p>Физически бивер терьер — это небольшая собака с тонким или средним костяком, ростом от 18 до 28 см и весом от 1,8 до 3,6 кг. Ее длинная, шелковистая шерсть прямая и не имеет подшерстка, разделяется пробором посередине и равномерно свисает по обеим сторонам. Отличительный трехцветный окрас включает сочетания черного, золотистого и белого цветов, с определенным распределением цветов на голове и теле. Хвост высоко посажен, несется над спиной в форме ручки чашки и украшен длинным, роскошным плюмажем.</p>\n<p>По темпераменту бивер терьеры — умные, преданные и преданные компаньоны. Они проявляют игривое, детское поведение, что делает их подходящими для семей и отдельных людей. Их дружелюбный характер распространяется на других животных, и они известны своей общительностью. Хотя иногда они могут быть озорными, в целом они послушны и стремятся угодить.</p>\n<p>Изначально выведенные как компаньоны, бивер терьеры не имеют специфических рабочих способностей. Их основное предназначение всегда заключалось в обеспечении компании, и они превосходно справляются с этой ролью благодаря своей привязанности и игривому характеру. В современное время их популярность выросла, особенно после признания крупными кинологическими клубами. Они ценятся за свою уникальную внешность и приятные личности, что делает их любимым выбором среди любителей декоративных пород.</p>\n<p>Заметные характеристики бивер терьера включают их отличительный трехцветный окрас, элегантный внешний вид и дружелюбный нрав. Их длинная, шелковистая шерсть требует регулярного ухода для поддержания ее красоты и здоровья. Несмотря на небольшой размер, они обладают уверенной и грациозной походкой, отражающей их энергичный характер.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "4-8 pounds",
+    "height": "7-11 inches",
+    "coat": "long, silky, straight, tricolor",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "regular brushing; professional grooming recommended",
+    "lifespan": "12-16 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "1,8–3,6 кг",
+    "рост": "18–28 см",
+    "шерсть": "длинная, шелковистая, прямая, трехцветная",
+    "активность": "умеренная",
+    "обучаемость": "умеренная",
+    "уход": "регулярное расчесывание; рекомендуется профессиональный груминг",
+    "продолжительность жизни": "12–16 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Affectionate and loyal",
+      "Playful and energetic",
+      "Sociable with other animals",
+      "Intelligent and trainable",
+      "Confident and graceful"
+    ],
+    "summary": "Biewer Terriers are affectionate, playful, and sociable dogs that form strong bonds with their families and get along well with other animals.",
+    "with_children": "Generally good with children, they appreciate gentle handling and can be playful companions for older kids.",
+    "with_family": "They are loyal and devoted, often forming close attachments to family members and enjoying interactive play.",
+    "with_other_pets": "Friendly towards other animals, they usually coexist peacefully with other pets in the household.",
+    "with_strangers": "They tend to be friendly and approachable, often welcoming strangers with curiosity and warmth."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Бивер терьеры — ласковые, игривые и общительные собаки, которые формируют крепкие связи со своими семьями и хорошо ладят с другими животными.",
+    "с семьёй": "Они преданы и привязаны, часто устанавливают тесные отношения с членами семьи и наслаждаются совместными играми.",
+    "с детьми": "Обычно хорошо относятся к детям, ценят бережное обращение и могут быть игривыми компаньонами для старших детей.",
+    "с другими животными": "Дружелюбны к другим животным, обычно мирно сосуществуют с другими питомцами в доме.",
+    "с незнакомцами": "Склонны быть дружелюбными и приветливыми, часто встречают незнакомцев с любопытством и теплотой.",
+    "особые черты": [
+      "Ласковые и преданные",
+      "Игривые и энергичные",
+      "Общительные с другими животными",
+      "Умные и обучаемые",
+      "Уверенные и грациозные"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Tracheal collapse",
+      "Bladder stones",
+      "Patellar luxation",
+      "Liver shunts (portosystemic shunts)",
+      "Hypoglycemia"
+    ],
+    "prevention_tips": [
+      "Use a harness instead of a collar to prevent tracheal damage",
+      "Provide a balanced diet to reduce the risk of bladder stones",
+      "Maintain a healthy weight to minimize joint stress",
+      "Regular veterinary check-ups to monitor liver health",
+      "Feed small, frequent meals to prevent hypoglycemia"
+    ],
+    "summary": "Biewer Terriers are generally healthy but may be prone to certain conditions common in small breeds.",
+    "vet_checkups": "Regular annual check-ups; more frequent visits if health issues arise"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Бивер терьеры в целом здоровы, но могут быть склонны к некоторым заболеваниям, характерным для мелких пород.",
+    "распространённые проблемы": [
+      "Коллапс трахеи",
+      "Мочевые камни",
+      "Вывих коленной чашечки",
+      "Печёночные шунты (портосистемные шунты)",
+      "Гипогликемия"
+    ],
+    "советы по профилактике": [
+      "Используйте шлейку вместо ошейника, чтобы предотвратить повреждение трахеи",
+      "Обеспечьте сбалансированное питание для снижения риска образования мочевых камней",
+      "Поддерживайте здоровый вес, чтобы минимизировать нагрузку на суставы",
+      "Регулярные ветеринарные осмотры для мониторинга состояния печени",
+      "Кормите небольшими, частыми порциями, чтобы предотвратить гипогликемию"
+    ],
+    "рекомендуемые осмотры": "Регулярные ежегодные осмотры; более частые визиты при возникновении проблем со здоровьем"
+  },
+  "care": {
+    "behavior": "They thrive on companionship and interactive play; regular mental stimulation and socialization are important.",
+    "description": "Biewer Terriers require attentive care, including regular grooming, balanced nutrition, and routine health monitoring to ensure their well-being.",
+    "grooming": "Daily brushing to prevent tangles; professional grooming every 4-6 weeks is advisable.",
+    "health": "Monitor for signs of common health issues; maintain a healthy weight and provide preventive care as recommended by a veterinarian.",
+    "nutrition": "Feed high-quality, age-appropriate dog food; small, frequent meals are beneficial for maintaining stable blood sugar levels."
+  },
+  "care_rus": {
+    "поведение и характер": "Они процветают в компании и интерактивных играх; регулярная умственная стимуляция и социализация важны.",
+    "краткое описание ухода": "Бивер терьеры требуют внимательного ухода, включая регулярный груминг, сбалансированное питание и рутинный мониторинг здоровья для обеспечения их благополучия.",
+    "груминг и уход": "Ежедневное расчесывание для предотвращения спутывания; профессиональный груминг каждые 4–6 недель рекомендуется.",
+    "здоровье и профилактика": "Следите за признаками распространенных проблем со здоровьем; поддерживайте здоровый вес и обеспечивайте профилактический уход, рекомендованный ветеринаром.",
+    "питание и активность": "Кормите высококачественным, соответствующим возрасту кормом; небольшие, частые приемы пищи полезны для поддержания стабильного уровня сахара в крови."
+  },
+  "faq": [
+    {
+      "question": "Are Biewer Terriers hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Biewer Terriers have a low-shedding coat that may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Biewer Terrier need?",
+      "answer": "They require moderate exercise, such as daily walks and playtime, to stay healthy and happy."
+    },
+    {
+      "question": "Do Biewer Terriers get along with other pets?",
+      "answer": "Yes, they are generally friendly and can coexist well with other pets when properly socialized."
+    },
+    {
+      "question": "What is the lifespan of a Biewer Terrier?",
+      "answer": "Biewer Terriers typically live between 12 to 16 years with proper care."
+    },
+    {
+      "question": "Are Biewer Terriers easy to train?",
+      "answer": "They are intelligent and can be trained effectively with consistent, positive reinforcement methods."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли бивер терьеры гипоаллергенными?",
+      "ответ": "Хотя ни одна собака не является полностью гипоаллергенной, бивер терьеры имеют мало линяющую шерсть, которая может быть подходящей для некоторых людей, страдающих аллергией."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется бивер терьеру?",
+      "ответ": "Им требуется умеренная физическая нагрузка, такая как ежедневные прогулки и игры, чтобы оставаться здоровыми и счастливыми."
+    },
+    {
+      "вопрос": "Ладят ли бивер терьеры с другими питомцами?",
+      "ответ": "Да, они обычно дружелюбны и могут хорошо сосуществовать с другими питомцами при правильной социализации."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни бивер терьера?",
+      "ответ": "Бивер терьеры обычно живут от 12 до 16 лет при надлежащем уходе."
+    },
+    {
+      "вопрос": "Легко ли обучать бивер терьеров?",
+      "ответ": "Они умны и могут быть эффективно обучены с помощью последовательных методов положительного подкрепления."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/biewer-terrier",
+    "https://www.westminsterkennelclub.org/breed/biewer-terrier/",
+    "https://en.wikipedia.org/wiki/Biewer_Terrier",
+    "https://www.ukcdogs.com/biewer-terrier",
+    "https://biewerterrierclubofamerica.org/biewer-terrier-standard/",
+    "https://www.pedigree.ru/porody/biver",
+    "https://ru.wikipedia.org/wiki/Бивер-йоркширский_терьер",
+    "https://www.cesar.ru/porody/biver-jorkshirskij-terer/"
+  ]
+}

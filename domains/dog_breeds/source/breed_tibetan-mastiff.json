@@ -1,0 +1,81 @@
+{
+  "id": "tibetan-mastiff",
+  "name": "Tibetan Mastiff",
+  "full_description": "<p>The Tibetan Mastiff, known as Do-Khyi in its native land, is an ancient breed originating from the Himalayan region. Historically, these formidable dogs served as guardians for Tibetan villages, nomadic encampments, and monasteries, protecting inhabitants and livestock from predators and intruders. Their lineage dates back to antiquity, with some accounts suggesting they are the progenitors of many modern large working breeds. Physically, the Tibetan Mastiff is a large, powerfully built dog with a noble and dignified appearance. Males typically stand between 26 to 29 inches at the shoulder, while females are slightly smaller. Their weight ranges from 70 to 150 pounds, with males being heavier. They possess a broad head, deep-set almond-shaped eyes, and a well-feathered tail that curls over the back. Their dense double coat, which can be black, brown, gray, or gold, provides insulation against harsh climates. Temperamentally, Tibetan Mastiffs are known for their independence, intelligence, and strong-willed nature. They are deeply loyal to their families but can be aloof and wary of strangers, making them excellent guardians. Their protective instincts are deeply ingrained, and they are known to be territorial. Originally bred to guard livestock and property, they excelled in deterring predators and intruders. In modern times, while they still serve as guardians, they have also become companion animals for those who appreciate their unique characteristics. Notable traits include their deep, resonant bark, which serves as a deterrent to potential threats, and their seasonal shedding, which requires regular grooming.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "70-150 pounds",
+    "height": "24-29 inches",
+    "coat": "dense double coat; colors include black, brown, gray, or gold",
+    "activity": "moderate",
+    "trainability": "moderate; requires consistent, firm training",
+    "grooming": "regular brushing; increased during seasonal shedding",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "Tibetan Mastiffs are independent, intelligent, and protective dogs, known for their loyalty to family and wariness of strangers.",
+    "with_family": "Deeply loyal and affectionate, forming strong bonds with family members.",
+    "with_children": "Generally gentle with children but due to their size, supervision is recommended.",
+    "with_other_pets": "Can coexist with other pets if properly socialized from a young age.",
+    "with_strangers": "Aloof and wary, often displaying protective behaviors.",
+    "special_traits": [
+      "Strong territorial instincts",
+      "Deep, resonant bark",
+      "Independent decision-making",
+      "High intelligence",
+      "Requires early socialization"
+    ]
+  },
+  "health": {
+    "summary": "Generally healthy but prone to certain genetic conditions; regular veterinary care is essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Hypothyroidism",
+      "Progressive retinal atrophy",
+      "Canine inherited demyelinating neuropathy"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Balanced diet",
+      "Routine health screenings",
+      "Early detection of eye issues"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health concerns."
+  },
+  "care": {
+    "description": "Tibetan Mastiffs require dedicated care, including regular exercise, grooming, and consistent training to ensure their well-being.",
+    "behavior": "Early socialization and firm, consistent training are crucial to manage their independent nature.",
+    "health": "Regular veterinary check-ups and a balanced diet are essential to prevent common health issues.",
+    "grooming": "Weekly brushing, increasing during seasonal shedding periods.",
+    "nutrition": "High-quality diet appropriate for large breeds; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Tibetan Mastiffs suitable for first-time dog owners?",
+      "answer": "Due to their independent and strong-willed nature, they are better suited for experienced owners."
+    },
+    {
+      "question": "Do Tibetan Mastiffs get along with other dogs?",
+      "answer": "With proper socialization, they can coexist with other dogs but may display dominance."
+    },
+    {
+      "question": "How much exercise does a Tibetan Mastiff need?",
+      "answer": "Moderate daily exercise is sufficient; they are not overly active dogs."
+    },
+    {
+      "question": "Are Tibetan Mastiffs good with children?",
+      "answer": "They are generally gentle but require supervision due to their large size."
+    },
+    {
+      "question": "Do Tibetan Mastiffs bark a lot?",
+      "answer": "They have a deep bark and may vocalize, especially at night or when alerting to perceived threats."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/tibetan-mastiff",
+    "https://www.fci.be/en/nomenclature/DO-KHYI-230.html",
+    "https://www.tibetanmastiff.org/breed-standard.html",
+    "https://vcahospitals.com/know-your-pet/tibetan-mastiff",
+    "https://www.akc.org/expert-advice/dog-breeds/tibetan-mastiff-history-ancient-guardian-monasteries/"
+  ]
+}

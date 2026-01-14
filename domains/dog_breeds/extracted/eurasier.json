@@ -1,0 +1,183 @@
+{
+  "breed_id": "eurasier",
+  "features": {
+    "shedding": {
+      "value": 0.7,
+      "confidence": 0.9
+    },
+    "coat_type": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "dander_level": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "grooming": {
+      "value": 0.7,
+      "confidence": 0.9
+    },
+    "health_robustness": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "genetic_risk": {
+      "value": 0.3,
+      "confidence": 0.8
+    },
+    "apartment_ok": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "barking": {
+      "value": 0.3,
+      "confidence": 0.9
+    },
+    "energy": {
+      "value": 0.5,
+      "confidence": 0.9
+    },
+    "reactivity": {
+      "value": 0.4,
+      "confidence": 0.8
+    },
+    "noise_tolerance": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "exercise_need": {
+      "value": 0.5,
+      "confidence": 0.9
+    },
+    "alone_tolerance": {
+      "value": 0.4,
+      "confidence": 0.8
+    },
+    "separation_anxiety_risk": {
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "sitter_compatibility": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "adaptability": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "child_friendly": {
+      "value": 0.9,
+      "confidence": 0.9
+    },
+    "pet_friendly": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "stranger_friendly": {
+      "value": 0.4,
+      "confidence": 0.9
+    },
+    "territoriality": {
+      "value": 0.5,
+      "confidence": 0.8
+    },
+    "protectiveness": {
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "stress_sensitivity": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "affection_level": {
+      "value": 0.9,
+      "confidence": 0.9
+    },
+    "independence": {
+      "value": 0.4,
+      "confidence": 0.8
+    },
+    "playfulness": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "trainability": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "working_drive": {
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "behavior_management_need": {
+      "value": 0.3,
+      "confidence": 0.8
+    },
+    "mental_stimulation": {
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "prey_drive": {
+      "value": 0.2,
+      "confidence": 0.9
+    },
+    "hunting_instinct": {
+      "value": 0.2,
+      "confidence": 0.9
+    }
+  },
+  "parameters": {
+    "weight_kg": [
+      {
+        "value": 27.5,
+        "confidence": 0.9,
+        "source": "Canadian Kennel Club"
+      },
+      {
+        "value": 27.5,
+        "confidence": 0.8,
+        "source": "Wikipedia"
+      },
+      {
+        "value": 27.5,
+        "confidence": 0.7,
+        "source": "PetMD"
+      }
+    ],
+    "height_cm": [
+      {
+        "value": 54,
+        "confidence": 0.9,
+        "source": "Canadian Kennel Club"
+      },
+      {
+        "value": 54,
+        "confidence": 0.8,
+        "source": "Wikipedia"
+      },
+      {
+        "value": 54,
+        "confidence": 0.7,
+        "source": "PetMD"
+      }
+    ],
+    "lifespan_years": [
+      {
+        "value": 14,
+        "confidence": 0.8,
+        "source": "PetMD"
+      },
+      {
+        "value": 14,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      },
+      {
+        "value": 14,
+        "confidence": 0.6,
+        "source": "Paws 'N' Pups"
+      }
+    ]
+  },
+  "notes": "Eurasiers are affectionate and loyal family companions with moderate exercise needs. They require regular grooming due to their thick double coat and are generally healthy, though some hereditary conditions may occur."
+}

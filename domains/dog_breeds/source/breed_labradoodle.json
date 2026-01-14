@@ -1,0 +1,83 @@
+{
+  "id": "labradoodle",
+  "name": "Labradoodle",
+  "full_description": "<p>The Labradoodle is a hybrid dog breed resulting from the cross between a Labrador Retriever and a Poodle, either Standard or Miniature. The term 'Labradoodle' was first used in 1955 but gained prominence in 1988 when Australian breeder Wally Conron introduced the crossbreed to the Royal Guide Dog Association of Australia. Conron aimed to combine the low-shedding coat of the Poodle with the gentle temperament and trainability of the Labrador Retriever to create a guide dog suitable for individuals with allergies. The first successful Labradoodle, named Sultan, exhibited the desired traits and served as a guide dog for a woman in Hawaii for ten years. Physically, Labradoodles display a range of appearances due to their hybrid nature. Their coats can be curly, wavy, or straight, with textures varying from wiry to soft. Common coat colors include chocolate, café, parchment, cream, gold, apricot, red, black, silver, chalk, lavender, and blueish gray. Labradoodles come in three size categories: Miniature (14–16 inches tall, 15–25 pounds), Medium (17–20 inches tall, 30–45 pounds), and Standard (21–24 inches tall, 50–65 pounds). Temperamentally, Labradoodles are known for their friendly and energetic nature. They are generally good with families and children, often displaying an affinity for water and strong swimming abilities inherited from their parent breeds. Their intelligence and eagerness to please make them highly trainable, though early socialization and consistent training are essential to manage their exuberance. Originally bred as guide dogs, Labradoodles have expanded their roles to include therapy and assistance work due to their adaptable and gentle disposition. They have also become popular family pets worldwide. Notable characteristics of Labradoodles include their potential hypoallergenic coats, which can be beneficial for allergy sufferers, and their versatility in various working roles. However, it's important to note that, as a hybrid breed, Labradoodles can inherit a range of traits from their parent breeds, leading to variability in appearance and temperament.</p>",
+  "parameters": {
+    "size": "Miniature, Medium, Standard",
+    "weight": "15–25 lbs (Miniature), 30–45 lbs (Medium), 50–65 lbs (Standard)",
+    "height": "14–16 inches (Miniature), 17–20 inches (Medium), 21–24 inches (Standard)",
+    "coat": "Curly, wavy, or straight; textures range from wiry to soft",
+    "activity": "High",
+    "trainability": "High",
+    "grooming": "Regular brushing; professional grooming may be required",
+    "lifespan": "12–15 years"
+  },
+  "behavior": {
+    "summary": "Labradoodles are friendly, energetic, and intelligent dogs, making them excellent companions for active families.",
+    "with_family": "They are affectionate and thrive on human interaction, often forming strong bonds with family members.",
+    "with_children": "Generally good with children, Labradoodles are playful and patient, making them suitable for families with kids.",
+    "with_other_pets": "They usually get along well with other pets, especially when socialized from a young age.",
+    "with_strangers": "Labradoodles are typically friendly towards strangers, though early socialization helps ensure well-rounded behavior.",
+    "special_traits": [
+      "High intelligence",
+      "Energetic and playful",
+      "Affectionate nature",
+      "Strong swimming ability",
+      "Potential hypoallergenic coat"
+    ]
+  },
+  "health": {
+    "summary": "Labradoodles are generally healthy but can inherit health issues common to their parent breeds.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Cataracts",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide regular exercise",
+      "Routine ear cleaning",
+      "Genetic testing of breeding pairs"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Labradoodles require regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "behavior": "Early socialization and consistent training are essential to manage their energy and intelligence.",
+    "health": "Regular veterinary care and preventive measures help address potential health issues.",
+    "grooming": "Regular brushing and professional grooming help maintain their coat and prevent matting.",
+    "nutrition": "A balanced diet appropriate for their size and activity level supports overall health."
+  },
+  "faq": [
+    {
+      "question": "Are Labradoodles hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Labradoodles often have low-shedding coats that may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Labradoodle need?",
+      "answer": "Labradoodles require at least 60–90 minutes of daily exercise to stay healthy and prevent boredom."
+    },
+    {
+      "question": "Do Labradoodles get along with other pets?",
+      "answer": "Yes, with proper socialization, Labradoodles typically get along well with other pets."
+    },
+    {
+      "question": "What is the lifespan of a Labradoodle?",
+      "answer": "Labradoodles generally live between 12 to 15 years."
+    },
+    {
+      "question": "Are Labradoodles easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable with consistent, positive reinforcement methods."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Labradoodle",
+    "https://www.petmd.com/dog/breeds/labradoodle",
+    "https://www.dogster.com/lifestyle/labradoodle-pros-cons",
+    "https://www.dogfoodadvisor.com/breeds/labradoodle/",
+    "https://www.barkbusters.com/breed-of-the-month/labradoodle"
+  ]
+}

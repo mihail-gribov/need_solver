@@ -1,0 +1,84 @@
+{
+  "need_id": "low_vet_costs",
+  "formula": "health_robustness & ~genetic_risk",
+  "formula_reasoning": "Breeds with high overall health robustness and low genetic risk are less likely to develop chronic or hereditary diseases, reducing expected veterinary expenses over the dog's life.",
+  "questions": [
+    {
+      "id": "low_vet_costs_q1",
+      "text": "Хотите ли вы, чтобы расходы на ветеринарные услуги были минимальными?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = пользователь заинтересован в низких расходах на лечение. Нет = расходы не важны."
+    },
+    {
+      "id": "low_vet_costs_q2",
+      "text": "Планируете ли вы посещать ветеринара только для обязательных прививок и профилактики?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = пользователь рассчитывает на отсутствие частых болезней. Нет = готов к частым визитам и затратам."
+    },
+    {
+      "id": "low_vet_costs_q3",
+      "text": "В вашем бюджете есть ограничения на регулярные расходы по уходу за собакой?",
+      "weight": 0.7,
+      "style": "direct",
+      "verification": "Да = важно избегать дорогого лечения. Нет = финансы позволяют любые траты."
+    },
+    {
+      "id": "low_vet_costs_q4",
+      "text": "Рассматриваете ли вы только те породы, которые обычно не требуют сложного медицинского ухода?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = нужен здоровый, неприхотливый питомец. Нет = открыт для любых пород."
+    },
+    {
+      "id": "low_vet_costs_q5",
+      "text": "Вам важно, чтобы собака редко болела и не имела наследственных заболеваний?",
+      "weight": 0.85,
+      "style": "direct",
+      "verification": "Да = нужна крепкая, устойчивая к болезням собака. Нет = здоровье не приоритет."
+    }
+  ],
+  "need_name": "Low Vet Costs",
+  "need_description": "Low expected veterinary expenses",
+  "block": "health_allergies",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

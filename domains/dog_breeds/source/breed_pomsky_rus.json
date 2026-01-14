@@ -1,0 +1,159 @@
+{
+  "id": "pomsky",
+  "name": "Pomsky",
+  "name_rus": "Помски",
+  "full_description": "<p>The Pomsky is a designer dog breed resulting from the cross between a Pomeranian and a Siberian Husky. This hybrid combines the small size and vivacious personality of the Pomeranian with the striking appearance and energetic nature of the Husky. The breed's origin is relatively recent, emerging in the early 2010s as breeders sought to create a companion dog that embodied the desirable traits of both parent breeds. Pomskies typically exhibit a compact, well-proportioned body, standing between 10 to 15 inches tall and weighing around 20 to 30 pounds. Their coat is often thick and fluffy, resembling the Husky's double coat, and can come in a variety of colors and patterns. They possess expressive eyes, which may be blue, brown, or even one of each, and their ears are usually erect, reflecting their alert nature. In terms of temperament, Pomskies are known for their playful, affectionate, and intelligent demeanor. They tend to form strong bonds with their families and are often eager to please, making them relatively trainable. However, they can inherit the Husky's stubbornness and the Pomeranian's assertiveness, which may require consistent, positive reinforcement training methods. Originally, the Pomeranian was bred as a companion animal, while the Siberian Husky was developed for sledding and endurance tasks. The Pomsky, being a mix of these breeds, does not have a specific working purpose but is primarily bred for companionship. In modern times, Pomskies have gained popularity due to their unique appearance and adaptable size, making them suitable for various living environments, including apartments and houses with yards. Notable characteristics of the Pomsky include their high energy levels, requiring regular exercise to maintain their physical and mental health. They are also known for their vocal nature, often expressing themselves through barks and howls, a trait inherited from the Husky lineage. Additionally, their thick coats necessitate regular grooming to prevent matting and to manage shedding.</p>",
+  "full_description_rus": "<p>Помски — это дизайнерская порода собак, полученная в результате скрещивания померанского шпица и сибирского хаски. Этот гибрид сочетает в себе небольшой размер и живой характер шпица с эффектной внешностью и энергичностью хаски. Порода возникла относительно недавно, в начале 2010-х годов, когда заводчики стремились создать компаньона, обладающего желаемыми чертами обеих родительских пород. Помски обычно имеют компактное, хорошо сложенное тело, ростом от 25 до 38 см и весом около 9–14 кг. Их шерсть часто густая и пушистая, напоминающая двойной покров хаски, и может быть различных цветов и узоров. Они обладают выразительными глазами, которые могут быть голубыми, карими или разного цвета, а их уши обычно стоячие, что отражает их настороженность. По темпераменту помски известны своей игривостью, привязанностью и умом. Они склонны формировать крепкие связи с семьей и часто стремятся угодить, что делает их относительно поддающимися дрессировке. Однако они могут унаследовать упрямство хаски и настойчивость шпица, что требует последовательных методов обучения с положительным подкреплением. Изначально померанский шпиц был выведен как собака-компаньон, а сибирский хаски — для работы в упряжке и выносливости. Помски, будучи смесью этих пород, не имеют конкретного рабочего назначения, но в первую очередь разводятся как компаньоны. В современное время помски приобрели популярность благодаря своей уникальной внешности и адаптивному размеру, что делает их подходящими для различных условий проживания, включая квартиры и дома с дворами. Ключевые особенности помски включают высокий уровень энергии, требующий регулярных физических и умственных нагрузок для поддержания их здоровья. Они также известны своей вокальностью, часто выражая себя лаем и воем, что является наследием от хаски. Кроме того, их густая шерсть требует регулярного ухода для предотвращения спутывания и контроля линьки.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "20-30 pounds",
+    "height": "10-15 inches",
+    "coat": "thick, fluffy, double coat; various colors and patterns",
+    "activity": "high",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "regular brushing; moderate shedding",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький / средний",
+    "вес": "9–14 кг",
+    "рост": "25–38 см",
+    "шерсть": "густая, пушистая, двойная; различные цвета и узоры",
+    "активность": "высокая",
+    "обучаемость": "средняя; умные, но могут быть упрямыми",
+    "уход": "регулярное расчесывание; умеренная линька",
+    "продолжительность жизни": "12–15 лет"
+  },
+  "behavior": {
+    "summary": "Pomskies are affectionate, playful, and intelligent dogs that form strong bonds with their families. They are energetic and require regular mental and physical stimulation to prevent boredom and potential behavioral issues.",
+    "with_family": "They are loyal and enjoy spending time with family members, often seeking attention and companionship.",
+    "with_children": "Pomskies can get along well with children, especially if socialized early. However, due to their small size, interactions should be supervised to prevent accidental injury.",
+    "with_other_pets": "With proper socialization, Pomskies can coexist peacefully with other pets. Early introductions and consistent training are key to fostering positive relationships.",
+    "with_strangers": "They may be wary of strangers and can exhibit protective behaviors. Early socialization helps in developing a well-mannered and confident dog.",
+    "special_traits": [
+      "high energy levels",
+      "vocal tendencies",
+      "strong prey drive",
+      "intelligent but can be stubborn",
+      "affectionate with family"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Помски — это привязчивые, игривые и умные собаки, которые формируют крепкие связи со своими семьями. Они энергичны и требуют регулярных умственных и физических нагрузок, чтобы избежать скуки и возможных поведенческих проблем.",
+    "с семьёй": "Они лояльны и любят проводить время с членами семьи, часто ищут внимания и общения.",
+    "с детьми": "Помски могут хорошо ладить с детьми, особенно при ранней социализации. Однако из-за их небольшого размера взаимодействия следует контролировать, чтобы предотвратить случайные травмы.",
+    "с другими животными": "При правильной социализации помски могут мирно сосуществовать с другими животными. Ранние знакомства и последовательная дрессировка являются ключевыми для формирования положительных отношений.",
+    "с незнакомцами": "Они могут быть насторожены к незнакомцам и проявлять защитные реакции. Ранняя социализация помогает в развитии воспитанной и уверенной собаки.",
+    "особые черты": [
+      "высокий уровень энергии",
+      "склонность к вокализации",
+      "сильный охотничий инстинкт",
+      "умные, но могут быть упрямыми",
+      "привязаны к семье"
+    ]
+  },
+  "health": {
+    "summary": "Pomskies are generally healthy but can inherit health issues common to Pomeranians and Siberian Huskies. Regular veterinary care and a healthy lifestyle are essential to maintain their well-being.",
+    "common_issues": [
+      "hip dysplasia",
+      "patellar luxation",
+      "eye conditions (e.g., cataracts, progressive retinal atrophy)",
+      "dental issues",
+      "allergies"
+    ],
+    "prevention_tips": [
+      "regular exercise to maintain healthy weight",
+      "routine dental care",
+      "balanced diet",
+      "regular grooming to monitor skin health",
+      "early socialization and training"
+    ],
+    "vet_checkups": "at least once a year; more frequent for seniors or if health issues arise"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Помски в целом здоровы, но могут наследовать проблемы со здоровьем, характерные для померанских шпицев и сибирских хаски. Регулярный ветеринарный уход и здоровый образ жизни необходимы для поддержания их благополучия.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренного сустава",
+      "вывих надколенника",
+      "глазные заболевания (например, катаракта, прогрессирующая атрофия сетчатки)",
+      "зубные проблемы",
+      "аллергии"
+    ],
+    "советы по профилактике": [
+      "регулярные физические нагрузки для поддержания здорового веса",
+      "постоянный уход за зубами",
+      "сбалансированное питание",
+      "регулярный уход за шерстью для контроля состояния кожи",
+      "ранняя социализация и дрессировка"
+    ],
+    "рекомендуемые осмотры": "не реже одного раза в год; чаще для пожилых собак или при возникновении проблем со здоровьем"
+  },
+  "care": {
+    "description": "Pomskies require attentive care, including regular exercise, grooming, and mental stimulation to ensure a happy and healthy life.",
+    "behavior": "Consistent training and socialization from an early age are crucial to manage their energy and prevent undesirable behaviors.",
+    "health": "Maintain regular veterinary checkups and stay vigilant for signs of common health issues to address them promptly.",
+    "grooming": "Brush their coat several times a week to prevent matting and manage shedding; regular nail trimming and ear cleaning are also important.",
+    "nutrition": "Provide a balanced diet appropriate for their size and energy level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Помски требуют внимательного ухода, включая регулярные физические нагрузки, груминг и умственную стимуляцию для обеспечения счастливой и здоровой жизни.",
+    "поведение и характер": "Последовательная дрессировка и социализация с раннего возраста необходимы для управления их энергией и предотвращения нежелательных поведенческих проблем.",
+    "здоровье и профилактика": "Проводите регулярные ветеринарные осмотры и будьте внимательны к признакам распространённых проблем со здоровьем, чтобы своевременно их решать.",
+    "груминг и уход": "Расчесывайте их шерсть несколько раз в неделю, чтобы предотвратить спутывание и контролировать линьку; регулярная стрижка когтей и чистка ушей также важны.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их размеру и уровню энергии; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Pomskies hypoallergenic?",
+      "answer": "No, Pomskies are not considered hypoallergenic and may not be suitable for individuals with allergies."
+    },
+    {
+      "question": "How much exercise does a Pomsky need?",
+      "answer": "Pomskies require at least 30 to 60 minutes of exercise daily to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Pomskies shed a lot?",
+      "answer": "Yes, Pomskies have a thick double coat and shed moderately; regular grooming helps manage shedding."
+    },
+    {
+      "question": "Are Pomskies good for first-time dog owners?",
+      "answer": "Pomskies can be suitable for first-time owners who are committed to consistent training and meeting their exercise needs."
+    },
+    {
+      "question": "Can Pomskies live in apartments?",
+      "answer": "Yes, with sufficient exercise and mental stimulation, Pomskies can adapt well to apartment living."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли помски гипоаллергенными?",
+      "ответ": "Нет, помски не считаются гипоаллергенными и могут не подходить для людей с аллергией."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется помски?",
+      "ответ": "Помски требуют не менее 30–60 минут физических нагрузок ежедневно для поддержания их физического и умственного здоровья."
+    },
+    {
+      "вопрос": "Сильно ли линяют помски?",
+      "ответ": "Да, помски имеют густую двойную шерсть и умеренно линяют; регулярный уход помогает контролировать линьку."
+    },
+    {
+      "вопрос": "Подходят ли помски для владельцев без опыта?",
+      "ответ": "Помски могут подойти для владельцев без опыта, которые готовы к последовательной дрессировке и удовлетворению их потребностей в упражнениях."
+    },
+    {
+      "вопрос": "Могут ли помски жить в квартирах?",
+      "ответ": "Да, при достаточных физических нагрузках и умственной стимуляции помски могут хорошо адаптироваться к жизни в квартире."
+    }
+  ],
+  "sources": [
+    "https://dogtime.com/dog-breeds/pomsky",
+    "https://mypets.kz/dog/pomski/",
+    "https://kinpet.ru/rossiya/sobaki_pomski/",
+    "https://pet-yes.com/breeds/pomski",
+    "https://petstory.ru/knowledge/dogs/dog-breeds/pomsky/",
+    "https://sport.rambler.ru/boxing/47977323-pomski-opisanie-porody-sobaki-kak-uhazhivat-i-otzyvy-s-foto/",
+    "https://www.purina.ru/find-a-pet/dog-breeds/pomsky",
+    "https://gafki.ru/sobaki/pomski.html"
+  ]
+}

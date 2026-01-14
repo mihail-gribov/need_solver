@@ -1,0 +1,161 @@
+{
+  "id": "skye-terrier",
+  "name": "Skye Terrier",
+  "name_rus": "Скай-терьер",
+  "full_description": "<p>The Skye Terrier is a distinctive and elegant breed originating from Scotland's Isle of Skye over 400 years ago. Initially bred by farmers to control vermin, their long, low bodies and sturdy legs made them adept at navigating rocky terrains and burrowing into dens. Their double coat provided protection against harsh weather and underbrush. By the 19th century, the breed gained popularity among British nobility, notably Queen Victoria, who favored the prick-eared variety.</p>\n<p>Physically, Skye Terriers are characterized by their elongated bodies, measuring twice as long as they are tall. They possess a straight, hard topcoat and a soft undercoat, with hair veiling their forehead and eyes. Their ears can be either prick or drop, both types being equally acceptable. Common coat colors include fawn, dark or light silver-grey, and cream, all with black points on the ears, muzzle, and nose.</p>\n<p>Temperamentally, Skye Terriers are loyal, affectionate, and possess a strong-willed nature. They form deep bonds with their families and can be reserved around strangers. Their independent streak requires patient and consistent training. Historically, they were tenacious hunters, a trait that still influences their behavior today.</p>\n<p>Originally bred to hunt vermin, Skye Terriers were valued for their agility and determination. In modern times, they serve primarily as companion animals, though their rarity has led to concerns about the breed's survival. Efforts are ongoing to preserve this unique breed.</p>\n<p>Notable characteristics of the Skye Terrier include their distinctive appearance, unwavering loyalty, and historical significance. Their unique combination of elegance and tenacity makes them a cherished breed among enthusiasts.</p>",
+  "full_description_rus": "<p>Скай-терьер — это уникальная и элегантная порода, происходящая с шотландского острова Скай, с историей, насчитывающей более 400 лет. Изначально эти собаки были выведены фермерами для борьбы с вредителями; их длинное, низкое тело и крепкие ноги позволяли им эффективно передвигаться по скалистым местностям и проникать в норы. Двойной шерстный покров обеспечивал защиту от суровых погодных условий и густой растительности. К XIX веку порода приобрела популярность среди британской знати, особенно у королевы Виктории, которая предпочитала разновидность с прямыми ушами.</p>\n<p>Физически скай-терьеры характеризуются удлиненным телом, длина которого вдвое превышает высоту. Они обладают прямой, жесткой остевой шерстью и мягким подшерстком; шерсть на лбу и глазах образует своеобразную «вуаль». Уши могут быть как стоячими, так и висячими, обе формы считаются допустимыми. Обычные окрасы включают палевый, темно- или светло-серебристо-серый и кремовый, все с черными отметинами на ушах, морде и носу.</p>\n<p>По характеру скай-терьеры преданы, ласковы и обладают сильной волей. Они формируют глубокие связи со своими семьями и могут быть сдержанными с незнакомцами. Их независимый нрав требует терпеливой и последовательной дрессировки. Исторически они были упорными охотниками, и этот инстинкт сохраняется в их поведении и сегодня.</p>\n<p>Изначально выведенные для охоты на вредителей, скай-терьеры ценились за свою ловкость и решительность. В современное время они в основном служат компаньонами, хотя их редкость вызывает обеспокоенность по поводу выживания породы. Ведутся усилия по сохранению этой уникальной породы.</p>\n<p>Отличительными чертами скай-терьера являются его уникальная внешность, непоколебимая преданность и историческая значимость. Их уникальное сочетание элегантности и настойчивости делает их любимой породой среди энтузиастов.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "8.5-10.5 kg",
+    "height": "23-25 cm",
+    "coat": "long, straight, hard topcoat with a soft undercoat",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "weekly brushing; monthly bathing",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "8,5-10,5 кг",
+    "рост": "23-25 см",
+    "шерсть": "длинная, прямая, жесткая остевая шерсть с мягким подшерстком",
+    "активность": "умеренная",
+    "обучаемость": "средняя",
+    "уход": "еженедельное расчесывание; ежемесячное купание",
+    "продолжительность жизни": "12-14 лет"
+  },
+  "behavior": {
+    "summary": "Skye Terriers are loyal, affectionate, and possess a strong-willed nature, forming deep bonds with their families while being reserved around strangers.",
+    "with_family": "They are deeply devoted to their families, often forming a particularly strong bond with one individual.",
+    "with_children": "With proper socialization, they can be good with children, though interactions should be supervised to ensure mutual respect.",
+    "with_other_pets": "Early socialization is crucial; they may be wary of unfamiliar animals due to their strong prey drive.",
+    "with_strangers": "Typically reserved around strangers, they may take time to warm up to new people.",
+    "special_traits": [
+      "Strong-willed and independent",
+      "Deeply loyal to family",
+      "Reserved with strangers",
+      "Moderate exercise needs",
+      "Requires consistent training"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Скай-терьеры преданы, ласковы и обладают сильной волей, формируя глубокие связи со своими семьями, оставаясь при этом сдержанными с незнакомцами.",
+    "с семьёй": "Они глубоко преданы своим семьям, часто формируя особенно сильную связь с одним человеком.",
+    "с детьми": "При правильной социализации они могут хорошо ладить с детьми, однако взаимодействия следует контролировать для обеспечения взаимного уважения.",
+    "с другими животными": "Ранняя социализация крайне важна; они могут быть настороженными к незнакомым животным из-за сильного охотничьего инстинкта.",
+    "с незнакомцами": "Обычно сдержанны с незнакомцами, им может потребоваться время, чтобы привыкнуть к новым людям.",
+    "особые черты": [
+      "Сильная воля и независимость",
+      "Глубокая преданность семье",
+      "Сдержанность с незнакомцами",
+      "Умеренные потребности в физической активности",
+      "Требуется последовательная дрессировка"
+    ]
+  },
+  "health": {
+    "summary": "Skye Terriers are generally healthy but are prone to certain conditions, including orthopedic issues and specific cancers.",
+    "common_issues": [
+      "Intervertebral Disc Disease (IVDD)",
+      "Hip and Elbow Dysplasia",
+      "Hemangiosarcoma",
+      "Autoimmune diseases",
+      "Skin allergies"
+    ],
+    "prevention_tips": [
+      "Limit jumping and strenuous activity in puppies",
+      "Provide regular, moderate exercise",
+      "Maintain a healthy weight",
+      "Regular veterinary check-ups",
+      "Early socialization and training"
+    ],
+    "vet_checkups": "At least once a year; more frequent for seniors or if health issues arise."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Скай-терьеры в целом здоровы, но склонны к определенным заболеваниям, включая ортопедические проблемы и некоторые виды рака.",
+    "распространённые проблемы": [
+      "Межпозвоночная грыжа (IVDD)",
+      "Дисплазия тазобедренного и локтевого суставов",
+      "Гемангиосаркома",
+      "Аутоиммунные заболевания",
+      "Кожные аллергии"
+    ],
+    "советы по профилактике": [
+      "Ограничение прыжков и интенсивных нагрузок у щенков",
+      "Обеспечение регулярной, умеренной физической активности",
+      "Поддержание здорового веса",
+      "Регулярные ветеринарные осмотры",
+      "Ранняя социализация и дрессировка"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или при наличии проблем со здоровьем."
+  },
+  "care": {
+    "description": "Skye Terriers require regular grooming, consistent training, and moderate exercise to maintain their health and well-being.",
+    "behavior": "Early socialization and consistent, positive reinforcement training are essential to manage their independent nature.",
+    "health": "Regular veterinary check-ups and preventive care are crucial to monitor and maintain their health.",
+    "grooming": "Weekly brushing and monthly bathing are recommended to keep their coat in good condition.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential; consult a veterinarian for specific recommendations."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Скай-терьеры требуют регулярного ухода за шерстью, последовательной дрессировки и умеренной физической активности для поддержания здоровья и благополучия.",
+    "поведение и характер": "Ранняя социализация и последовательная, положительная дрессировка необходимы для управления их независимым характером.",
+    "здоровье и профилактика": "Регулярные ветеринарные осмотры и профилактический уход важны для мониторинга и поддержания их здоровья.",
+    "груминг и уход": "Рекомендуется еженедельное расчесывание и ежемесячное купание для поддержания шерсти в хорошем состоянии.",
+    "питание и активность": "Сбалансированная диета, соответствующая их возрасту, размеру и уровню активности, необходима; проконсультируйтесь с ветеринаром для получения конкретных рекомендаций."
+  },
+  "faq": [
+    {
+      "question": "Are Skye Terriers good with children?",
+      "answer": "With proper socialization, they can be good with children; supervision is recommended."
+    },
+    {
+      "question": "How much exercise does a Skye Terrier need?",
+      "answer": "They require moderate exercise, such as daily walks and playtime."
+    },
+    {
+      "question": "Do Skye Terriers shed a lot?",
+      "answer": "They have a moderate shedding level; regular grooming helps manage it."
+    },
+    {
+      "question": "Are Skye Terriers easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "What is the lifespan of a Skye Terrier?",
+      "answer": "They typically live between 12 to 14 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Хорошо ли скай-терьеры ладят с детьми?",
+      "ответ": "При правильной социализации они могут хорошо ладить с детьми; рекомендуется контроль за их взаимодействием."
+    },
+    {
+      "вопрос": "Сколько физической активности требуется скай-терьеру?",
+      "ответ": "Им требуется умеренная физическая активность, такая как ежедневные прогулки и игры."
+    },
+    {
+      "вопрос": "Сильно ли линяют скай-терьеры?",
+      "ответ": "У них умеренный уровень линьки; регулярный уход за шерстью помогает справляться с этим."
+    },
+    {
+      "вопрос": "Легко ли дрессировать скай-терьеров?",
+      "ответ": "Они умны, но могут быть упрямыми; последовательная, положительная дрессировка эффективна."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни скай-терьера?",
+      "ответ": "Они обычно живут от 12 до 14 лет."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/skye-terrier-history/",
+    "https://www.akc.org/dog-breeds/skye-terrier/pictures/",
+    "https://www.petmd.com/dog/breeds/skye-terrier",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-skye-terriers",
+    "https://en.wikipedia.org/wiki/Skye_Terrier",
+    "https://www.jugeredelweiss.ee/skye_rus.html",
+    "https://www.kokogenetics.com/ru/результаты/Породы-собак/терьер-скай",
+    "https://www.pedigree.ru/porody/skaj-terier",
+    "https://www.kleo.ru/encyclopedia/dog/skye_terrier.shtml",
+    "https://www.minepets.ru/sobaki/porody/skye-terrier.php"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "cocker-spaniel-american",
+  "name": "Cocker Spaniel (American)",
+  "full_description": "<p>The American Cocker Spaniel, often referred to simply as the Cocker Spaniel in the United States, is a breed of sporting dog that originated in the United States from the English Cocker Spaniel. The breed was developed to create a smaller, more refined dog suitable for hunting small game birds like the woodcock, from which its name is derived. The divergence between the American and English varieties became pronounced in the early 20th century, leading to the American Kennel Club recognizing them as separate breeds in 1946. The American Cocker Spaniel gained immense popularity in the mid-20th century, becoming the most popular breed in the U.S. during the 1940s and 1950s, and again in the 1980s. It has also achieved notable success in dog shows, including multiple Best in Show titles at the Westminster Kennel Club Dog Show and Crufts. Physically, the American Cocker Spaniel is the smallest member of the sporting dog group, standing between 13.5 to 15.5 inches tall and weighing approximately 20 to 30 pounds. The breed is characterized by a distinctive rounded skull, large dark eyes, and long, lobular ears set at eye level. Its coat is medium-length, silky, and can be flat or slightly wavy, with abundant feathering on the ears, chest, abdomen, and legs. Coat colors are diverse, including solid shades like black, liver, red, and golden, as well as parti-color combinations and roan patterns. Known for its cheerful and affectionate temperament, the American Cocker Spaniel is often referred to as the \"Merry Cocker.\" The breed is intelligent and eager to please, making it highly trainable. While originally bred for hunting, modern American Cocker Spaniels are primarily companion animals, excelling in roles such as therapy and assistance dogs due to their gentle nature. They are well-suited to family life, getting along well with children and other pets when properly socialized. Notable characteristics of the breed include its expressive eyes, which convey a gentle and alert expression, and its merry disposition. The American Cocker Spaniel's combination of beauty, intelligence, and affectionate nature continues to endear it to dog enthusiasts worldwide.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "20-30 pounds",
+    "height": "13.5-15.5 inches",
+    "coat": "medium-length, silky, flat or slightly wavy with abundant feathering",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming every 4-6 weeks",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "The American Cocker Spaniel is known for its cheerful and affectionate nature, making it an excellent companion. It is intelligent and eager to please, which contributes to its high trainability.",
+    "with_family": "This breed forms strong bonds with family members and thrives on human companionship, often seeking attention and affection.",
+    "with_children": "American Cocker Spaniels are generally good with children, displaying patience and playfulness, especially when socialized from a young age.",
+    "with_other_pets": "They typically get along well with other pets, including dogs and cats, particularly when raised together or properly introduced.",
+    "with_strangers": "While friendly, they may be reserved around strangers initially but usually warm up quickly, especially if socialized early.",
+    "special_traits": [
+      "Affectionate and people-oriented",
+      "Intelligent and eager to please",
+      "Playful and energetic",
+      "Sensitive to tone of voice",
+      "May be prone to separation anxiety if left alone for extended periods"
+    ]
+  },
+  "health": {
+    "summary": "The American Cocker Spaniel is generally a healthy breed but is predisposed to certain genetic health issues. Regular veterinary care and preventive measures can help manage these concerns.",
+    "common_issues": [
+      "Progressive Retinal Atrophy (PRA)",
+      "Glaucoma",
+      "Ear infections",
+      "Hip dysplasia",
+      "Allergic skin conditions"
+    ],
+    "prevention_tips": [
+      "Regular eye examinations to detect early signs of PRA and glaucoma",
+      "Routine ear cleaning to prevent infections",
+      "Maintaining a healthy weight to reduce the risk of hip dysplasia",
+      "Providing a balanced diet to support overall health",
+      "Regular grooming to monitor skin health and prevent matting"
+    ],
+    "vet_checkups": "Annual checkups are recommended, with more frequent visits if health issues arise."
+  },
+  "care": {
+    "description": "Caring for an American Cocker Spaniel involves regular grooming, consistent training, and providing adequate exercise to maintain their physical and mental well-being.",
+    "behavior": "Early socialization and positive reinforcement training are essential to develop a well-mannered and confident dog.",
+    "health": "Regular veterinary visits and preventive care are crucial to monitor and maintain the breed's health.",
+    "grooming": "Their long, silky coat requires regular brushing to prevent matting and professional grooming every 4-6 weeks.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is important to maintain optimal health."
+  },
+  "faq": [
+    {
+      "question": "Are American Cocker Spaniels good for first-time dog owners?",
+      "answer": "Yes, their friendly nature and high trainability make them suitable for first-time owners."
+    },
+    {
+      "question": "Do they require a lot of exercise?",
+      "answer": "They have moderate exercise needs and enjoy daily walks and playtime."
+    },
+    {
+      "question": "Are they prone to barking?",
+      "answer": "They may bark to alert their owners but are not known to be excessive barkers."
+    },
+    {
+      "question": "Do they shed a lot?",
+      "answer": "They shed moderately; regular grooming helps manage shedding."
+    },
+    {
+      "question": "Are they suitable for apartment living?",
+      "answer": "Yes, their size and moderate activity level make them well-suited for apartment living."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/American_Cocker_Spaniel",
+    "https://www.webmd.com/pets/dogs/what-to-know-american-cocker-spaniels",
+    "https://www.purina.in/find-a-pet/dog/breed-library/american-cocker-spaniel",
+    "https://www.wisdompanel.com/en-us/dog-breeds/cocker-spaniel",
+    "https://www.petco.com/content/content-hub/home/breeds/dog-breeds/cocker-spaniel.html"
+  ]
+}

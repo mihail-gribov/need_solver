@@ -1,0 +1,84 @@
+{
+  "need_id": "low_drooling",
+  "formula": "~drooling",
+  "formula_reasoning": "Breeds with a low value of 'drooling' (~drooling) produce minimal slobber, which directly matches the need for minimal drooling.",
+  "questions": [
+    {
+      "id": "low_drooling_q1",
+      "text": "Вам важно, чтобы собака почти не пускала слюни дома?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = пользователю принципиально важно отсутствие слюней. Нет = слюни не мешают."
+    },
+    {
+      "id": "low_drooling_q2",
+      "text": "У вас дома есть ковры, мебель или вещи, которые сложно очищать от пятен?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = пользователь не хочет пятна от слюней. Нет = легко убирать, слюни не проблема."
+    },
+    {
+      "id": "low_drooling_q3",
+      "text": "В вашей семье есть люди, которых раздражает слюна животных на полу или мебели?",
+      "weight": 0.85,
+      "style": "situational",
+      "verification": "Да = в семье есть чувствительные к слюне люди. Нет = всем всё равно."
+    },
+    {
+      "id": "low_drooling_q4",
+      "text": "Вы планируете брать собаку с собой в гости или на работу, где чистота особенно важна?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = важно, чтобы собака не оставляла слюни в общественных местах. Нет = всегда дома, чистота вне дома не критична."
+    },
+    {
+      "id": "low_drooling_q5",
+      "text": "Для вас приемлемо, если на одежде могут иногда появляться следы собачьей слюны?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = пользователь к этому готов, низкая потребность в отсутствии слюней. Нет = пользователь не приемлет следы слюны, нужен низкий уровень слюнявости."
+    }
+  ],
+  "need_name": "Low Drooling",
+  "need_description": "Minimal drooling/slobber",
+  "block": "health_allergies",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

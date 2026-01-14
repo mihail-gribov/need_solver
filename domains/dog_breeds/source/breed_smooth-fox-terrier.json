@@ -1,0 +1,79 @@
+{
+  "id": "smooth-fox-terrier",
+  "name": "Smooth Fox Terrier",
+  "full_description": "<p>The Smooth Fox Terrier, one of the oldest terrier breeds, originated in England during the 18th century. Developed primarily for fox hunting, these dogs were bred to be swift, agile, and courageous, capable of chasing foxes from their dens. Their lineage includes the now-extinct Old English White Terrier, Bull Terrier, and Beagle, contributing to their distinctive appearance and temperament.</p>\n<p>Physically, the Smooth Fox Terrier is a small, well-proportioned dog standing up to 39 cm (15.5 inches) at the withers and weighing between 7.5 to 8 kg (16-18 lbs) for males, with females slightly smaller. They possess a flat, moderately narrow skull that tapers towards the eyes, with a black nose and dark, circular eyes that exude intelligence. Their ears are small, V-shaped, and fold forward close to the cheeks. The neck is clean and muscular, leading to well-laid-back shoulders and straight, strong forelegs. The back is short and level, with a deep chest and powerful loin. Hindquarters are strong and muscular, with well-let-down hocks and a good turn of stifle. Their tail is set high and carried gaily but not over the back. The coat is straight, flat, smooth, hard, dense, and abundant, predominantly white with possible tan, black and tan, or black markings.</p>\n<p>Temperamentally, Smooth Fox Terriers are friendly, forthcoming, and fearless. They are alert, quick of movement, and keen of expression, always on tiptoe of expectation. Their original purpose was to work alongside foxhounds during hunts, entering dens to flush out foxes. This required a combination of courage, agility, and determination. In modern times, while their role in hunting has diminished, they have found popularity as companion animals due to their lively nature and affectionate disposition. However, their high energy levels and intelligence mean they thrive in active households that can provide ample physical and mental stimulation.</p>\n<p>Notable characteristics of the breed include their distinctive smooth coat, predominantly white coloration, and their balanced, athletic build. They are known for their boundless energy and require regular exercise to maintain their physical and mental well-being. Their keen intelligence makes them highly trainable, though they can exhibit a stubborn streak, necessitating consistent and patient training methods. Overall, the Smooth Fox Terrier is a spirited and affectionate breed, well-suited to active families who can meet their exercise and companionship needs.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "7.5-8 kg (16-18 lbs)",
+    "height": "up to 39 cm (15.5 inches)",
+    "coat": "straight, flat, smooth, hard, dense, and abundant",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "once a week",
+    "lifespan": "over 12 years"
+  },
+  "behavior": {
+    "summary": "Smooth Fox Terriers are energetic, intelligent, and fearless dogs with a friendly disposition. They are alert and quick-moving, always eager for activity and engagement.",
+    "with_family": "They form strong bonds with their family members, displaying loyalty and affection. Their lively nature makes them engaging companions.",
+    "with_children": "Generally good with children, especially when socialized early. Their playful and energetic demeanor aligns well with active kids.",
+    "with_other_pets": "May exhibit a strong prey drive; early socialization is crucial to ensure harmonious relationships with other household pets.",
+    "with_strangers": "Friendly and approachable, though their alertness makes them effective watchdogs.",
+    "special_traits": [
+      "high energy levels",
+      "intelligent and trainable",
+      "strong prey drive",
+      "alert and keen expression",
+      "affectionate with family"
+    ]
+  },
+  "health": {
+    "summary": "Generally a healthy breed with a lifespan exceeding 12 years. Regular veterinary care and a healthy lifestyle contribute to their well-being.",
+    "common_issues": [
+      "deafness",
+      "lens luxation",
+      "legge-calve-perthes disease",
+      "patellar luxation"
+    ],
+    "prevention_tips": [
+      "regular hearing tests",
+      "routine eye examinations",
+      "maintain a healthy weight",
+      "provide regular exercise",
+      "ensure a balanced diet"
+    ],
+    "vet_checkups": "At least once a year, with more frequent visits as they age."
+  },
+  "care": {
+    "description": "Smooth Fox Terriers require regular exercise, mental stimulation, and consistent training to thrive. Their grooming needs are minimal, but regular health check-ups are essential.",
+    "behavior": "They are intelligent and energetic, benefiting from activities that challenge them both physically and mentally. Early socialization helps in developing well-rounded behavior.",
+    "health": "Regular veterinary visits and preventive care are crucial to monitor and maintain their health. Being aware of breed-specific health issues allows for early detection and management.",
+    "grooming": "Their short, smooth coat requires minimal grooming; a weekly brush is sufficient to keep it in good condition.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level supports their overall health and energy needs."
+  },
+  "faq": [
+    {
+      "question": "Are Smooth Fox Terriers good with children?",
+      "answer": "Yes, they are generally good with children, especially when socialized early. Their playful nature aligns well with active kids."
+    },
+    {
+      "question": "How much exercise does a Smooth Fox Terrier need?",
+      "answer": "They require up to 1 hour of exercise per day to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Smooth Fox Terriers shed a lot?",
+      "answer": "They do shed, but their short coat requires minimal grooming, typically once a week."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "Yes, their intelligence makes them highly trainable, though they can be stubborn, requiring consistent training."
+    },
+    {
+      "question": "What is their average lifespan?",
+      "answer": "They typically live over 12 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://www.thekennelclub.org.uk/breed-standards/terrier/fox-terrier-smooth/",
+    "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/fox-terrier-smooth/"
+  ]
+}

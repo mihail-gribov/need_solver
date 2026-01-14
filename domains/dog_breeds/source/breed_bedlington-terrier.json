@@ -1,0 +1,85 @@
+{
+  "id": "bedlington-terrier",
+  "name": "Bedlington Terrier",
+  "full_description": "<p>The Bedlington Terrier, originating in the late 18th century in Northumberland, England, was developed by local miners for hunting vermin and game. Crossbreeding with breeds like the Whippet contributed to its distinctive body type and speed.</p>\n<p>Physically, the Bedlington Terrier is a graceful, well-balanced dog with a unique lamb-like appearance. It has a narrow, deep, and rounded head adorned with a lighter-colored topknot. The breed's arched loin and lithe build enable it to gallop at great speeds. Its coat is a mixture of hard and soft hair, giving it a wool-like texture that stands away from the body.</p>\n<p>Temperamentally, Bedlington Terriers are confident, intelligent, and affectionate. They exhibit a mild and gentle expression when at rest but become alert and energetic when aroused. Known for their courage and endurance, they are keen hunters with a dignified nature.</p>\n<p>Originally bred for hunting vermin and game, Bedlington Terriers were prized by miners for their gameness and efficiency in controlling pests. Their speed and agility also made them suitable for racing.</p>\n<p>In modern times, Bedlington Terriers serve as affectionate companions and excel in various dog sports, including agility and rally. Their unique appearance and engaging personality have earned them a dedicated following, though they remain relatively rare.</p>\n<p>Notable characteristics of the breed include their distinctive lamb-like appearance, a combination of speed and endurance, and a coat that is both unique in texture and hypoallergenic. Their affectionate and dignified nature makes them excellent companions for families and individuals alike.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "17-23 pounds",
+    "height": "15.5-16.5 inches",
+    "coat": "mixture of hard and soft hair, wool-like texture",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular grooming required",
+    "lifespan": "12-14 years"
+  },
+  "behavior": {
+    "summary": "Bedlington Terriers are affectionate, intelligent, and energetic dogs known for their gentle demeanor and courageous spirit. They form strong bonds with their families and are adaptable to various living situations.",
+    "with_family": "They are affectionate and form strong bonds with family members, often seeking companionship and involvement in family activities.",
+    "with_children": "Bedlington Terriers have a gentle way with children, especially if raised with them, making them excellent family pets.",
+    "with_other_pets": "While they have strong hunting instincts, they can usually be trained to tolerate other pets, including cats, if socialized properly.",
+    "with_strangers": "They are generally friendly towards strangers but can be protective of their family, displaying courage when necessary.",
+    "special_traits": [
+      "affectionate and gentle with family",
+      "intelligent and trainable",
+      "energetic and playful",
+      "courageous and protective",
+      "adaptable to various living situations"
+    ]
+  },
+  "health": {
+    "summary": "Bedlington Terriers are generally healthy but are prone to certain genetic conditions. Regular veterinary care and preventive measures can help maintain their health.",
+    "common_issues": [
+      "Copper toxicosis",
+      "Retinal dysplasia",
+      "Patellar luxation",
+      "Hip dysplasia",
+      "Thyroid issues"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for inherited conditions",
+      "Balanced diet and regular exercise",
+      "Routine eye examinations",
+      "Monitoring for signs of joint issues"
+    ],
+    "vet_checkups": "At least once a year, with more frequent visits for senior dogs or those with health concerns."
+  },
+  "care": {
+    "description": "Bedlington Terriers require regular grooming, consistent training, and adequate exercise to maintain their health and happiness.",
+    "behavior": "They thrive on companionship and should not be left alone for extended periods. Early socialization and training are essential to develop well-mannered behavior.",
+    "health": "Regular veterinary check-ups and preventive care are crucial to monitor and manage potential health issues.",
+    "grooming": "Their unique coat requires regular grooming, including brushing and professional trimming, to prevent matting and maintain its characteristic appearance.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential. Portion control is important to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Bedlington Terriers hypoallergenic?",
+      "answer": "Yes, their unique coat is considered hypoallergenic, making them suitable for some allergy sufferers."
+    },
+    {
+      "question": "Do Bedlington Terriers get along with other pets?",
+      "answer": "With proper training and socialization, they can coexist with other pets, though their hunting instincts may lead them to chase smaller animals."
+    },
+    {
+      "question": "How much exercise does a Bedlington Terrier need?",
+      "answer": "They are energetic and require regular exercise, including daily walks and playtime, to stay healthy and happy."
+    },
+    {
+      "question": "Are Bedlington Terriers easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable with consistent, positive reinforcement methods."
+    },
+    {
+      "question": "What is the lifespan of a Bedlington Terrier?",
+      "answer": "They typically live between 12 to 14 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/bedlington-terrier",
+    "https://vcahospitals.com/know-your-pet/bedlington-terrier",
+    "https://www.akc.org/expert-advice/lifestyle/5-things-bedlington-terriers/",
+    "https://www.akc.org/expert-advice/news/akc-rally-national-championship-bedlington-terrier-breitling/",
+    "https://www.akc.org/expert-advice/lifestyle/bedlington-terrier-night-rocket/",
+    "https://www.akc.org/expert-advice/dog-breeds/bedlington-terrier-history/",
+    "https://www.akc.org/expert-advice/dog-breeds/hypoallergenic-dog-breeds/"
+  ]
+}

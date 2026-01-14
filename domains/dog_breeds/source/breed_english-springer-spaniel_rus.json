@@ -1,0 +1,161 @@
+{
+  "id": "english-springer-spaniel",
+  "name": "English Springer Spaniel",
+  "name_rus": "Английский спрингер-спаниель",
+  "full_description": "<p>The English Springer Spaniel is a versatile and energetic breed, renowned for its hunting prowess and affectionate nature. Originating in England, these dogs were developed to flush and retrieve game, earning their name from their ability to 'spring' game from dense brush. Historically, they share a close lineage with the English Cocker Spaniel; both breeds were once born in the same litters, with size determining their classification. The Kennel Club recognized the English Springer Spaniel as a distinct breed in 1902, followed by the American Kennel Club in 1910. Physically, English Springer Spaniels are medium-sized dogs with a compact, athletic build. Males typically stand about 20 inches tall and weigh between 40 to 53 pounds, while females are slightly smaller. They possess a medium-length, weather-resistant coat that can be flat or wavy, commonly found in liver and white or black and white colorations. Feathering on the ears, chest, legs, and belly adds to their distinctive appearance. Their expressive eyes and long, pendulous ears contribute to their alert and friendly expression. Temperamentally, these spaniels are known for their friendly, eager-to-please demeanor. They are intelligent and highly trainable, making them excellent companions for active families. Their sociable nature means they thrive on human interaction and can suffer from separation anxiety if left alone for extended periods. Originally bred as gundogs, English Springer Spaniels excel in flushing and retrieving game. Their keen sense of smell and boundless energy make them adept at various canine sports and activities. In modern times, they have found roles beyond hunting, serving as search and rescue dogs, detection dogs for law enforcement, and beloved family pets. Their versatility and affectionate nature have contributed to their enduring popularity. Notable characteristics of the breed include their boundless energy, intelligence, and adaptability. They require regular mental and physical stimulation to prevent boredom and destructive behaviors. Their affectionate nature makes them excellent companions, but potential owners should be prepared for their high exercise needs and grooming requirements.</p>",
+  "full_description_rus": "<p>Английский спрингер-спаниель — универсальная и энергичная порода, известная своими охотничьими способностями и привязанностью к человеку. Происходя из Англии, эти собаки были выведены для вспугивания и апортировки дичи, получив свое название от способности «вспугивать» (spring) добычу из густых зарослей. Исторически они тесно связаны с английским кокер-спаниелем; обе породы рождались в одних и тех же пометах, а их классификация зависела от размера. Британский Кеннел-клуб признал английского спрингер-спаниеля отдельной породой в 1902 году, а Американский Кеннел-клуб последовал в 1910 году. Физически английские спрингер-спаниели — собаки среднего размера с компактным, атлетичным телосложением. Кобели обычно достигают роста около 51 см и весят от 18 до 24 кг, суки немного меньше. У них средняя по длине, водоотталкивающая шерсть, которая может быть прямой или волнистой, чаще всего встречается в сочетаниях коричневого с белым или черного с белым. Очесы на ушах, груди, ногах и животе придают им характерный вид. Выразительные глаза и длинные, свисающие уши подчеркивают их бдительное и дружелюбное выражение. По темпераменту эти спаниели известны своим дружелюбным и стремящимся угодить характером. Они умны и легко поддаются дрессировке, что делает их отличными компаньонами для активных семей. Их общительность означает, что они процветают в обществе людей и могут страдать от разлуки, если остаются одни на длительное время. Изначально выведенные как подружейные собаки, английские спрингер-спаниели превосходно справляются с вспугиванием и апортировкой дичи. Их острое обоняние и неутомимая энергия делают их способными к различным видам собачьего спорта и деятельности. В современное время они нашли применение не только в охоте, но и в качестве поисково-спасательных собак, собак-детекторов для правоохранительных органов и любимых семейных питомцев. Их универсальность и привязанность к человеку способствовали их неизменной популярности. Ключевые характеристики породы включают безграничную энергию, интеллект и адаптивность. Они требуют регулярной умственной и физической стимуляции, чтобы избежать скуки и разрушительного поведения. Их привязанность делает их отличными компаньонами, но потенциальные владельцы должны быть готовы к их высоким потребностям в упражнениях и уходе за шерстью.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "40-53 lbs (18-24 kg)",
+    "height": "19-20 inches (48-51 cm)",
+    "coat": "medium-length, flat or wavy, with feathering on ears, chest, legs, and belly",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; professional grooming every 4-6 weeks",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "18-24 кг",
+    "рост": "48-51 см",
+    "шерсть": "средней длины, прямая или волнистая, с очесами на ушах, груди, ногах и животе",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "регулярное расчесывание; профессиональный груминг каждые 4-6 недель",
+    "продолжительность жизни": "12-14 лет"
+  },
+  "behavior": {
+    "summary": "English Springer Spaniels are energetic, intelligent, and affectionate dogs that thrive on human companionship and require regular mental and physical stimulation.",
+    "with_family": "They are devoted and loving towards family members, often forming strong bonds and enjoying active participation in family activities.",
+    "with_children": "Known for their gentle and playful nature, they generally get along well with children, making them excellent family pets.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets, though their hunting instincts may lead them to chase smaller animals.",
+    "with_strangers": "Typically friendly and approachable, they may be reserved initially but warm up quickly to new people.",
+    "special_traits": [
+      "high energy levels",
+      "strong hunting instincts",
+      "affectionate nature",
+      "intelligence",
+      "eagerness to please"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Английские спрингер-спаниели — энергичные, умные и ласковые собаки, которые процветают в обществе людей и требуют регулярной умственной и физической стимуляции.",
+    "с семьёй": "Они преданы и любящи к членам семьи, часто формируют крепкие связи и с удовольствием участвуют в семейных мероприятиях.",
+    "с детьми": "Известны своим нежным и игривым характером, обычно хорошо ладят с детьми, что делает их отличными семейными питомцами.",
+    "с другими животными": "При правильной социализации могут мирно сосуществовать с другими животными, хотя их охотничьи инстинкты могут побуждать их преследовать мелких животных.",
+    "с незнакомцами": "Обычно дружелюбны и общительны, могут быть сдержанными вначале, но быстро привыкают к новым людям.",
+    "особые черты": [
+      "высокий уровень энергии",
+      "сильные охотничьи инстинкты",
+      "ласковый характер",
+      "интеллект",
+      "стремление угодить"
+    ]
+  },
+  "health": {
+    "summary": "English Springer Spaniels are generally healthy but are predisposed to certain genetic conditions that require attention and proactive care.",
+    "common_issues": [
+      "hip and elbow dysplasia",
+      "progressive retinal atrophy",
+      "ear infections",
+      "phosphofructokinase (PFK) deficiency",
+      "cancer"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintaining a healthy weight",
+      "routine ear cleaning",
+      "genetic testing for inherited conditions",
+      "providing adequate exercise"
+    ],
+    "vet_checkups": "annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Английские спрингер-спаниели в целом здоровы, но склонны к определенным генетическим заболеваниям, требующим внимания и проактивного ухода.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренных и локтевых суставов",
+      "прогрессирующая атрофия сетчатки",
+      "ушные инфекции",
+      "дефицит фосфофруктокиназы (PFK)",
+      "рак"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "поддержание здорового веса",
+      "регулярная чистка ушей",
+      "генетическое тестирование на наследственные заболевания",
+      "обеспечение достаточной физической активности"
+    ],
+    "рекомендуемые осмотры": "ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "English Springer Spaniels require dedicated care, including regular exercise, grooming, and health monitoring to ensure their well-being.",
+    "behavior": "They thrive on mental and physical stimulation; engaging them in activities like obedience training, agility, or hunting exercises can keep them content.",
+    "health": "Regular veterinary visits and preventive measures are essential to monitor and manage potential health issues common to the breed.",
+    "grooming": "Their medium-length coat requires regular brushing to prevent matting and professional grooming every 4-6 weeks to maintain optimal condition.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is crucial; consult a veterinarian for specific dietary recommendations."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Английские спрингер-спаниели требуют тщательного ухода, включая регулярные физические нагрузки, груминг и мониторинг здоровья для обеспечения их благополучия.",
+    "поведение и характер": "Они процветают при умственной и физической стимуляции; участие в таких занятиях, как послушание, аджилити или охотничьи упражнения, может поддерживать их удовлетворенность.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактические меры необходимы для мониторинга и управления потенциальными проблемами здоровья, характерными для породы.",
+    "груминг и уход": "Их средняя по длине шерсть требует регулярного расчесывания для предотвращения спутывания и профессионального груминга каждые 4-6 недель для поддержания оптимального состояния.",
+    "питание и активность": "Сбалансированная диета, соответствующая их возрасту, размеру и уровню активности, имеет решающее значение; проконсультируйтесь с ветеринаром для получения конкретных рекомендаций по питанию."
+  },
+  "faq": [
+    {
+      "question": "Are English Springer Spaniels good family pets?",
+      "answer": "Yes, they are affectionate and friendly, making them excellent companions for active families."
+    },
+    {
+      "question": "How much exercise does an English Springer Spaniel need?",
+      "answer": "They require at least two hours of daily exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Do English Springer Spaniels shed a lot?",
+      "answer": "They have moderate shedding; regular grooming helps manage loose hair and maintain coat health."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable with consistent, positive reinforcement methods."
+    },
+    {
+      "question": "Do they get along with other pets?",
+      "answer": "With proper socialization, they can coexist well with other pets, though their hunting instincts may lead them to chase smaller animals."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли английские спрингер-спаниели хорошими семейными питомцами?",
+      "ответ": "Да, они ласковы и дружелюбны, что делает их отличными компаньонами для активных семей."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется английскому спрингер-спаниелю?",
+      "ответ": "Им необходимо не менее двух часов ежедневных физических нагрузок для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Сильно ли линяют английские спрингер-спаниели?",
+      "ответ": "У них умеренная линька; регулярный уход помогает контролировать выпадение шерсти и поддерживать ее здоровье."
+    },
+    {
+      "вопрос": "Легко ли их дрессировать?",
+      "ответ": "Да, их интеллект и стремление угодить делают их легко обучаемыми при последовательных методах положительного подкрепления."
+    },
+    {
+      "вопрос": "Ладят ли они с другими животными?",
+      "ответ": "При правильной социализации они могут хорошо уживаться с другими животными, хотя их охотничьи инстинкты могут побуждать их преследовать мелких животных."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/English_Springer_Spaniel",
+    "https://www.petmd.com/dog/breeds/english-springer-spaniel",
+    "https://www.petsradar.com/dogs/dog-breeds/english-springer-spaniel-breed-profile",
+    "https://www.hillspet.com/dog-care/dog-breeds/english-springer-spaniel",
+    "https://www.gooddog.com/breeds/english-springer-spaniel",
+    "https://www.petful.com/dog-breeds/profile-english-springer-spaniel/",
+    "https://ru.wikipedia.org/wiki/Английский_спрингер-спаниель",
+    "https://www.purina.ru/find-a-pet/dog-breeds/angliyskiy-springer-spaniel",
+    "https://www.pedigree.ru/porody/angliyskiy-springer-spaniel",
+    "https://royalcanin.ru/dog-breed/english-springer-spaniel"
+  ]
+}

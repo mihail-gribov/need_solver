@@ -1,0 +1,183 @@
+{
+  "breed_id": "italian-greyhound",
+  "features": {
+    "shedding": {
+      "value": 0.2,
+      "confidence": 0.8
+    },
+    "coat_type": {
+      "value": 0.1,
+      "confidence": 0.9
+    },
+    "dander_level": {
+      "value": 0.3,
+      "confidence": 0.7
+    },
+    "grooming": {
+      "value": 0.2,
+      "confidence": 0.9
+    },
+    "health_robustness": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "genetic_risk": {
+      "value": 0.3,
+      "confidence": 0.7
+    },
+    "apartment_ok": {
+      "value": 0.9,
+      "confidence": 0.9
+    },
+    "barking": {
+      "value": 0.3,
+      "confidence": 0.7
+    },
+    "energy": {
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "reactivity": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "noise_tolerance": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "exercise_need": {
+      "value": 0.5,
+      "confidence": 0.8
+    },
+    "alone_tolerance": {
+      "value": 0.2,
+      "confidence": 0.7
+    },
+    "separation_anxiety_risk": {
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "sitter_compatibility": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "adaptability": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "child_friendly": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "pet_friendly": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "stranger_friendly": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "territoriality": {
+      "value": 0.3,
+      "confidence": 0.6
+    },
+    "protectiveness": {
+      "value": 0.3,
+      "confidence": 0.6
+    },
+    "stress_sensitivity": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "affection_level": {
+      "value": 0.9,
+      "confidence": 0.9
+    },
+    "independence": {
+      "value": 0.3,
+      "confidence": 0.7
+    },
+    "playfulness": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "trainability": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "working_drive": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "behavior_management_need": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "mental_stimulation": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "prey_drive": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "hunting_instinct": {
+      "value": 0.6,
+      "confidence": 0.7
+    }
+  },
+  "parameters": {
+    "weight_kg": [
+      {
+        "value": 4.5,
+        "confidence": 0.9,
+        "source": "Purina UK"
+      },
+      {
+        "value": 5.5,
+        "confidence": 0.8,
+        "source": "Hill's Pet"
+      },
+      {
+        "value": 5.0,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ],
+    "height_cm": [
+      {
+        "value": 35,
+        "confidence": 0.9,
+        "source": "Purina UK"
+      },
+      {
+        "value": 36,
+        "confidence": 0.8,
+        "source": "Hill's Pet"
+      },
+      {
+        "value": 34,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ],
+    "lifespan_years": [
+      {
+        "value": 14,
+        "confidence": 0.9,
+        "source": "Purina UK"
+      },
+      {
+        "value": 13.5,
+        "confidence": 0.8,
+        "source": "Hill's Pet"
+      },
+      {
+        "value": 14,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ]
+  },
+  "notes": "The Italian Greyhound is a delicate and affectionate breed, well-suited for companionship but requiring careful handling due to its slender build. They thrive in environments where they receive ample attention and are protected from extreme temperatures."
+}

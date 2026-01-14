@@ -1,0 +1,83 @@
+{
+  "id": "akita",
+  "name": "Akita",
+  "full_description": "<p>The Akita is a large, powerful breed originating from the mountainous regions of northern Japan. Historically, these dogs were bred for hunting large game such as bears, boars, and deer, showcasing their strength and courage. The breed's lineage traces back to the Matagi Inu, an ancient hunting dog, and over time, Akitas have been revered as symbols of good health, happiness, and longevity in Japanese culture. Physically, Akitas possess a robust and well-proportioned build, with males typically standing between 26 to 28 inches tall and females slightly shorter. Their weight ranges from 70 to 130 pounds, depending on gender and individual genetics. They have a dense double coat that comes in various colors, including white, brindle, and pinto, providing insulation against harsh weather conditions. The breed's broad head, erect triangular ears, and deep-set eyes contribute to their dignified and alert expression. Temperamentally, Akitas are known for their loyalty and protective nature. They form strong bonds with their families and are often reserved around strangers, making them excellent guard dogs. However, their independent and sometimes stubborn disposition requires consistent training and early socialization to ensure well-rounded behavior. Originally bred for hunting, Akitas possess a strong prey drive and were also utilized in guarding roles. In modern times, they serve as loyal companions and are occasionally employed in therapy and assistance roles due to their calm demeanor. Notable characteristics of the Akita include their cat-like grooming habits, as they are known to clean themselves meticulously. Additionally, they are relatively quiet dogs, barking infrequently, which can be advantageous for owners seeking a less vocal breed.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "70-130 pounds",
+    "height": "24-28 inches",
+    "coat": "dense double coat; various colors including white, brindle, and pinto",
+    "activity": "moderate",
+    "trainability": "moderate; requires consistent training and early socialization",
+    "grooming": "regular brushing; sheds heavily twice a year",
+    "lifespan": "10-14 years"
+  },
+  "behavior": {
+    "summary": "Akitas are loyal and protective dogs with a reserved demeanor, especially around strangers. They require consistent training and early socialization to ensure balanced behavior.",
+    "with_family": "Deeply devoted to their families, Akitas form strong bonds and are affectionate with household members.",
+    "with_children": "Generally good with children within their family, but supervision is recommended due to their large size and strong temperament.",
+    "with_other_pets": "May exhibit dominance or aggression towards other animals, especially of the same sex; early socialization is crucial.",
+    "with_strangers": "Naturally reserved and wary of strangers, making them excellent watchdogs.",
+    "special_traits": [
+      "Loyal and protective",
+      "Independent and strong-willed",
+      "Quiet; barks infrequently",
+      "Requires early socialization",
+      "Strong prey drive"
+    ]
+  },
+  "health": {
+    "summary": "Akitas are generally healthy but are predisposed to certain genetic conditions. Regular veterinary check-ups and preventive care are essential to maintain their well-being.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Hypothyroidism",
+      "Sebaceous adenitis",
+      "Progressive retinal atrophy (PRA)",
+      "Gastric dilatation-volvulus (bloat)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight to reduce joint stress",
+      "Provide a balanced diet",
+      "Engage in regular, moderate exercise",
+      "Monitor for early signs of health issues"
+    ],
+    "vet_checkups": "Annually; more frequent visits for senior dogs or those with existing health conditions"
+  },
+  "care": {
+    "description": "Akitas require attentive care, including regular grooming, consistent training, and health monitoring to ensure a happy and healthy life.",
+    "behavior": "Early socialization and consistent, positive reinforcement training are crucial to manage their independent nature.",
+    "health": "Regular veterinary visits and preventive measures help address breed-specific health concerns.",
+    "grooming": "Regular brushing is necessary to manage shedding, especially during seasonal coat changes.",
+    "nutrition": "Provide a balanced diet appropriate for large breeds; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Akitas good with children?",
+      "answer": "Akitas can be good with children in their family but should always be supervised due to their large size and strong temperament."
+    },
+    {
+      "question": "Do Akitas get along with other pets?",
+      "answer": "Akitas may show dominance or aggression towards other animals; early socialization is essential."
+    },
+    {
+      "question": "How much exercise does an Akita need?",
+      "answer": "Moderate daily exercise, such as walks and playtime, is sufficient to keep an Akita healthy and happy."
+    },
+    {
+      "question": "Do Akitas shed a lot?",
+      "answer": "Yes, Akitas shed heavily, especially during seasonal changes; regular grooming helps manage shedding."
+    },
+    {
+      "question": "Are Akitas easy to train?",
+      "answer": "Akitas are intelligent but can be independent; consistent, positive reinforcement training is recommended."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/pet_lover/WW_akita_fast_facts",
+    "https://www.lancasterpuppies.com/pet-advice/common-health-concerns-akita-dogs.html",
+    "https://www.heritageveterinarycare.com/services/dogs/breeds/akitas",
+    "https://www.everypaw.com/dog-insurance/dog-breed-guides/akita-insurance-care-and-health-advice",
+    "https://en.wikipedia.org/wiki/Akita_%28dog_breed%29"
+  ]
+}

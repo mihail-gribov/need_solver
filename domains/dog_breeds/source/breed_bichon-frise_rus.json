@@ -1,0 +1,160 @@
+{
+  "id": "bichon-frise",
+  "name": "Bichon Frise",
+  "name_rus": "Бишон фризе",
+  "full_description": "<p>The Bichon Frise is a small, cheerful dog breed known for its distinctive white, curly coat and affectionate nature. Originating from the Mediterranean region, the breed's history dates back to at least the 13th century. Sailors are believed to have introduced these dogs to Europe, where they became favorites among the nobility in Spain, Italy, and France. The breed's name, 'Bichon Frise,' translates from French to 'curly lap dog,' reflecting its primary role as a companion animal. Physically, the Bichon Frise stands between 9.5 to 11.5 inches tall at the shoulders and weighs approximately 12 to 18 pounds. Its plush, double-layered coat is always white, with a soft undercoat and a curly outer coat that gives it a powder-puff appearance. The breed's dark, round eyes and black nose contribute to its alert and friendly expression. Temperamentally, Bichons are gentle, playful, and affectionate. They thrive on human companionship and are known for their sociable nature, making them excellent family pets. Their intelligence and eagerness to please facilitate training, though they can exhibit a stubborn streak. Historically, the Bichon Frise served primarily as a companion dog, delighting European aristocracy with its charm and companionship. In modern times, the breed continues to excel as a family pet and has also found roles in therapy work due to its friendly disposition. Notable characteristics of the Bichon Frise include its hypoallergenic coat, which sheds minimally, making it suitable for allergy sufferers. Additionally, the breed's lively personality and adaptability make it well-suited for various living environments, from apartments to larger homes.</p>",
+  "full_description_rus": "<p>Бишон фризе — небольшая, жизнерадостная собака, известная своим характерным белым, кудрявым мехом и ласковым нравом. Происходя из Средиземноморского региона, история породы насчитывает по меньшей мере с XIII века. Считается, что моряки привезли этих собак в Европу, где они стали любимцами знати в Испании, Италии и Франции. Название породы, 'Бишон фризе', переводится с французского как 'кудрявая болонка', что отражает их основную роль в качестве компаньонов. Физически бишон фризе достигает роста от 24 до 29 см в холке и весит примерно от 5,4 до 8,2 кг. Их пышная, двухслойная шерсть всегда белого цвета, с мягким подшерстком и кудрявым верхним слоем, придающим им вид пушистого облачка. Темпераментно бишоны нежные, игривые и ласковые. Они процветают в обществе людей и известны своей общительностью, что делает их отличными семейными питомцами. Их интеллект и стремление угодить облегчают обучение, хотя они могут проявлять упрямство. Исторически бишон фризе служил в основном в качестве собаки-компаньона, радуя европейскую аристократию своим обаянием и обществом. В современное время порода продолжает преуспевать в роли семейного питомца и также нашла применение в терапевтической работе благодаря своему дружелюбному характеру. Примечательные характеристики бишон фризе включают их гипоаллергенную шерсть, которая минимально линяет, что делает их подходящими для людей, страдающих аллергией. Кроме того, жизнерадостная личность и адаптивность породы делают ее хорошо подходящей для различных условий проживания, от квартир до больших домов.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "12-18 lbs (5.4-8.2 kg)",
+    "height": "9.5-11.5 inches (24-29 cm)",
+    "coat": "medium length, silky with corkscrew curls",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "daily brushing; professional grooming every 4-6 weeks",
+    "lifespan": "14-15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "5,4-8,2 кг",
+    "рост": "24-29 см",
+    "шерсть": "средней длины, шелковистая с завитками",
+    "активность": "умеренная",
+    "обучаемость": "высокая",
+    "уход": "ежедневное расчесывание; профессиональный груминг каждые 4-6 недель",
+    "продолжительность жизни": "14-15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Highly sociable",
+      "Playful and energetic",
+      "Intelligent and trainable",
+      "Minimal shedding",
+      "Adaptable to various living environments"
+    ],
+    "summary": "The Bichon Frise is a cheerful, affectionate, and playful breed that thrives on human companionship and enjoys social interactions.",
+    "with_children": "They are gentle and playful with children, making them excellent companions for families with kids.",
+    "with_family": "Bichons are deeply devoted to their families, forming strong bonds and often following family members around the home.",
+    "with_other_pets": "Generally sociable with other pets, Bichons can coexist peacefully with other dogs and cats when properly introduced.",
+    "with_strangers": "Friendly and approachable, Bichons typically greet strangers with enthusiasm, making them poor guard dogs but excellent companions."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Бишон фризе — жизнерадостная, ласковая и игривая порода, которая процветает в обществе людей и любит социальные взаимодействия.",
+    "с семьёй": "Бишоны глубоко преданы своей семье, формируя крепкие связи и часто следуя за членами семьи по дому.",
+    "с детьми": "Они нежны и игривы с детьми, что делает их отличными компаньонами для семей с детьми.",
+    "с другими животными": "Обычно общительны с другими животными, бишоны могут мирно сосуществовать с другими собаками и кошками при правильном знакомстве.",
+    "с незнакомцами": "Дружелюбные и приветливые, бишоны обычно встречают незнакомцев с энтузиазмом, что делает их плохими сторожевыми собаками, но отличными компаньонами.",
+    "особые черты": [
+      "Высокая общительность",
+      "Игривость и энергичность",
+      "Интеллектуальность и обучаемость",
+      "Минимальная линька",
+      "Адаптивность к различным условиям проживания"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Allergies",
+      "Dental disease",
+      "Cataracts",
+      "Bladder stones",
+      "Diabetes mellitus"
+    ],
+    "prevention_tips": [
+      "Regular grooming to prevent skin issues",
+      "Daily dental care to maintain oral health",
+      "Routine eye examinations",
+      "Balanced diet to prevent obesity",
+      "Regular exercise to maintain overall health"
+    ],
+    "summary": "Bichon Frises are generally healthy but are prone to certain conditions such as allergies, dental issues, and eye problems.",
+    "vet_checkups": "Annual checkups; bi-annual for senior dogs"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Бишон фризе в целом здоровая порода, но склонна к определённым заболеваниям, таким как аллергии, стоматологические проблемы и заболевания глаз.",
+    "распространённые проблемы": [
+      "Аллергии",
+      "Заболевания зубов",
+      "Катаракта",
+      "Мочевые камни",
+      "Сахарный диабет"
+    ],
+    "советы по профилактике": [
+      "Регулярный груминг для предотвращения кожных проблем",
+      "Ежедневный уход за зубами для поддержания здоровья полости рта",
+      "Периодические осмотры глаз",
+      "Сбалансированное питание для предотвращения ожирения",
+      "Регулярные физические упражнения для поддержания общего здоровья"
+    ],
+    "рекомендуемые осмотры": "Ежегодные осмотры; дважды в год для пожилых собак"
+  },
+  "care": {
+    "behavior": "Engage in daily play and social activities to satisfy their energetic and sociable nature.",
+    "description": "Bichon Frises require attentive care, including regular grooming, exercise, and health monitoring to ensure a happy and healthy life.",
+    "grooming": "Daily brushing and professional grooming every 4-6 weeks are essential to maintain their coat and prevent matting.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits for preventive care.",
+    "nutrition": "Provide a balanced diet appropriate for their size and activity level, avoiding overfeeding to prevent obesity."
+  },
+  "care_rus": {
+    "поведение и характер": "Участвуйте в ежедневных играх и социальных активностях, чтобы удовлетворить их энергичную и общительную натуру.",
+    "краткое описание ухода": "Бишон фризе требует внимательного ухода, включая регулярный груминг, физические упражнения и мониторинг здоровья для обеспечения счастливой и здоровой жизни.",
+    "груминг и уход": "Ежедневное расчесывание и профессиональный груминг каждые 4-6 недель необходимы для поддержания их шерсти и предотвращения образования колтунов.",
+    "здоровье и профилактика": "Следите за признаками распространённых проблем со здоровьем и регулярно посещайте ветеринара для профилактического ухода.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их размеру и уровню активности, избегая перекармливания для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Bichon Frises hypoallergenic?",
+      "answer": "Yes, their minimal shedding makes them suitable for some allergy sufferers."
+    },
+    {
+      "question": "How often should a Bichon Frise be groomed?",
+      "answer": "Daily brushing and professional grooming every 4-6 weeks are recommended."
+    },
+    {
+      "question": "Are Bichon Frises good with children?",
+      "answer": "Yes, they are gentle and playful, making them excellent companions for children."
+    },
+    {
+      "question": "Do Bichon Frises require a lot of exercise?",
+      "answer": "They have moderate energy levels and benefit from daily walks and playtime."
+    },
+    {
+      "question": "What is the average lifespan of a Bichon Frise?",
+      "answer": "They typically live between 14 to 15 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли бишон фризе гипоаллергенными?",
+      "ответ": "Да, их минимальная линька делает их подходящими для некоторых людей, страдающих аллергией."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за бишон фризе?",
+      "ответ": "Рекомендуется ежедневное расчесывание и профессиональный груминг каждые 4-6 недель."
+    },
+    {
+      "вопрос": "Хорошо ли бишон фризе ладят с детьми?",
+      "ответ": "Да, они нежны и игривы, что делает их отличными компаньонами для детей."
+    },
+    {
+      "вопрос": "Требуют ли бишон фризе много физических упражнений?",
+      "ответ": "У них умеренный уровень энергии, и им полезны ежедневные прогулки и игры."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни бишон фризе?",
+      "ответ": "Они обычно живут от 14 до 15 лет."
+    }
+  ],
+  "sources": [
+    "https://www.purina.com/dogs/dog-breeds/bichon-frise",
+    "https://www.akc.org/expert-advice/dog-breeds/bichon-frise/",
+    "https://www.petmd.com/dog/breeds/bichon-frise",
+    "https://en.wikipedia.org/wiki/Bichon_Fris%C3%A9",
+    "https://www.petco.com/content/content-hub/home/breeds/dog-breeds/bichon-frise.html",
+    "https://www.rbc.ru/life/news/640b76179a7947b7637eb292",
+    "https://www.pedigree.ru/porody/bishon-frize",
+    "https://www.cesar.ru/porody/bishon-frize/",
+    "https://ru.wikipedia.org/wiki/Бишон-фризе"
+  ]
+}

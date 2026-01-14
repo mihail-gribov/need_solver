@@ -1,0 +1,84 @@
+{
+  "id": "cavapoo",
+  "name": "Cavapoo",
+  "full_description": "<p>The Cavapoo, also known as the Cavoodle, is a hybrid breed resulting from the cross between a Cavalier King Charles Spaniel and a Poodle, typically the Miniature or Toy variety. This designer breed emerged in Australia during the late 20th century, aiming to combine the gentle and affectionate nature of the Cavalier with the intelligence and hypoallergenic coat of the Poodle. Cavapoos have since gained popularity worldwide as companion animals due to their adaptable and friendly disposition.</p>\n<p>Physically, Cavapoos are small to medium-sized dogs, with adults typically weighing between 8 to 25 pounds (4 to 11 kg) and standing 9 to 14 inches (23 to 36 cm) tall at the shoulder. Their coats can vary from wavy to curly, often inheriting the low-shedding quality of the Poodle parent, making them a suitable choice for individuals with mild allergies. Common coat colors include cream, apricot, red, black, and tricolor combinations.</p>\n<p>Temperamentally, Cavapoos are known for their affectionate, friendly, and playful nature. They form strong bonds with their families and thrive on human companionship. Their intelligence and eagerness to please make them highly trainable, responding well to positive reinforcement techniques. Early socialization is crucial to ensure they develop into well-rounded adults comfortable with children, other pets, and strangers.</p>\n<p>Originally bred as companion animals, Cavapoos do not have a history of working roles. Their primary purpose has always been to serve as loving and loyal family pets. In modern times, they continue to excel in this role, often participating in therapy work due to their gentle demeanor and empathetic nature.</p>\n<p>Notable characteristics of the Cavapoo include their adaptability to various living environments, from apartments to houses with yards, as long as they receive adequate exercise and mental stimulation. Their moderate energy levels require daily physical activity, such as walks or play sessions, to maintain their health and happiness. Additionally, their low-shedding coats require regular grooming to prevent matting and maintain skin health.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "8-25 pounds (4-11 kg)",
+    "height": "9-14 inches (23-36 cm)",
+    "coat": "wavy to curly, low-shedding",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming every 4-8 weeks",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Cavapoos are affectionate, friendly, and playful dogs that form strong bonds with their families and thrive on human companionship.",
+    "with_family": "They are highly affectionate and enjoy spending time with family members, often seeking attention and companionship.",
+    "with_children": "Cavapoos are gentle and patient with children, making them excellent family pets when properly socialized.",
+    "with_other_pets": "They generally get along well with other pets, especially when introduced at a young age.",
+    "with_strangers": "Cavapoos are friendly towards strangers, though early socialization helps ensure they remain well-mannered.",
+    "special_traits": [
+      "affectionate",
+      "intelligent",
+      "playful",
+      "adaptable",
+      "sociable"
+    ]
+  },
+  "health": {
+    "summary": "Cavapoos are generally healthy but may inherit certain health issues from their parent breeds, necessitating regular veterinary care.",
+    "common_issues": [
+      "mitral valve disease",
+      "patellar luxation",
+      "hip dysplasia",
+      "progressive retinal atrophy",
+      "ear infections",
+      "dental problems"
+    ],
+    "prevention_tips": [
+      "regular veterinary checkups",
+      "balanced diet",
+      "consistent exercise",
+      "routine grooming",
+      "dental care"
+    ],
+    "vet_checkups": "annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Cavapoos require regular grooming, consistent exercise, and mental stimulation to maintain their health and happiness.",
+    "behavior": "They thrive on human interaction and should not be left alone for extended periods to prevent separation anxiety.",
+    "health": "Regular veterinary visits and a balanced diet are essential to monitor and maintain their overall health.",
+    "grooming": "Brush their coat several times a week and schedule professional grooming every 4-8 weeks to prevent matting.",
+    "nutrition": "Provide a high-quality diet appropriate for their age, size, and activity level, and monitor their weight to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Cavapoos hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Cavapoos often inherit the low-shedding coat of the Poodle, making them more suitable for allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Cavapoo need?",
+      "answer": "Cavapoos require about 45-60 minutes of moderate exercise daily to maintain their health and prevent boredom."
+    },
+    {
+      "question": "Do Cavapoos get along with other pets?",
+      "answer": "Yes, Cavapoos generally get along well with other pets, especially when socialized from a young age."
+    },
+    {
+      "question": "What is the lifespan of a Cavapoo?",
+      "answer": "Cavapoos typically live between 12 to 15 years with proper care."
+    },
+    {
+      "question": "Are Cavapoos easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make Cavapoos highly trainable, responding well to positive reinforcement techniques."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/cavapoo",
+    "https://www.petscare.com/news/faq/what-is-a-cavapoo",
+    "https://www.lancasterpuppies.com/dog-breeds/cavapoo/",
+    "https://www.petguide.com/breeds/dog/cavapoo/",
+    "https://www.dogfoodadvisor.com/breeds/cavapoo-dog-breed-size-personality-and-more/"
+  ]
+}

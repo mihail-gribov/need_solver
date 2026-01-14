@@ -1,0 +1,81 @@
+{
+  "id": "american-bulldog",
+  "name": "American Bulldog",
+  "full_description": "<p>The American Bulldog is a robust and muscular breed with deep roots in American history. Originating from the Old English Bulldog, these dogs were brought to the United States by early settlers and primarily used for farm work, including guarding property and hunting game. Over time, they evolved into versatile working dogs, adept at various tasks on farms and ranches. Physically, American Bulldogs are large and athletic, typically standing between 20 to 28 inches tall and weighing between 60 to 120 pounds. They possess a strong, stocky build with a broad chest and powerful limbs. Their short, smooth coat is predominantly white, often with patches of red, brindle, or fawn. The breed's head is large and square-shaped, featuring a pronounced jaw and a black nose. Their eyes are usually brown, conveying an alert and confident expression. Temperamentally, American Bulldogs are known for their loyalty, courage, and protective nature. They form strong bonds with their families and are often affectionate and gentle with children. However, their protective instincts make them wary of strangers, necessitating proper socialization from an early age. Historically bred for tasks such as catching livestock and guarding property, they exhibit high energy levels and require regular physical and mental stimulation. In modern times, American Bulldogs have transitioned into roles as family companions, guard dogs, and participants in canine sports. Their versatility and adaptability have contributed to their steady popularity among dog enthusiasts. Notable characteristics of the breed include their unwavering loyalty, intelligence, and strong work ethic. They are also recognized for their distinctive appearance, combining strength and agility, which reflects their working heritage.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "60-120 pounds",
+    "height": "20-28 inches",
+    "coat": "short, smooth",
+    "activity": "high",
+    "trainability": "moderate to high",
+    "grooming": "low maintenance; regular brushing",
+    "lifespan": "10-15 years"
+  },
+  "behavior": {
+    "summary": "American Bulldogs are loyal, protective, and energetic dogs that form strong bonds with their families. They require proper socialization and training to ensure well-rounded behavior.",
+    "with_family": "They are affectionate and devoted to family members, often seeking attention and companionship.",
+    "with_children": "Generally gentle and patient with children, making them suitable family pets when properly socialized.",
+    "with_other_pets": "Can coexist with other pets if introduced properly, though their strong prey drive may require supervision.",
+    "with_strangers": "Wary of strangers due to their protective nature; early socialization helps in developing appropriate responses.",
+    "special_traits": [
+      "Protective instincts",
+      "High energy levels",
+      "Strong work ethic",
+      "Affectionate with family",
+      "Intelligent and trainable"
+    ]
+  },
+  "health": {
+    "summary": "American Bulldogs are generally healthy but can be prone to certain genetic and environmental health issues. Regular veterinary care and a healthy lifestyle are essential.",
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Allergies",
+      "Ichthyosis",
+      "Respiratory issues",
+      "Obesity"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight through diet and exercise",
+      "Regular veterinary check-ups",
+      "Monitor for signs of allergies and seek prompt treatment",
+      "Provide a balanced diet rich in essential nutrients",
+      "Ensure regular physical activity to prevent obesity"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits for senior dogs or those with health issues"
+  },
+  "care": {
+    "description": "American Bulldogs require consistent training, regular exercise, and proper health care to thrive as family companions.",
+    "behavior": "Early socialization and obedience training are crucial to manage their protective instincts and ensure good behavior.",
+    "health": "Regular veterinary visits and preventive care help in early detection and management of potential health issues.",
+    "grooming": "Their short coat requires minimal grooming; regular brushing helps reduce shedding and maintain skin health.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level supports overall health and energy needs."
+  },
+  "faq": [
+    {
+      "question": "Are American Bulldogs good with children?",
+      "answer": "Yes, they are generally gentle and patient with children when properly socialized."
+    },
+    {
+      "question": "How much exercise does an American Bulldog need?",
+      "answer": "They require regular physical activity to maintain health and prevent boredom."
+    },
+    {
+      "question": "Do American Bulldogs have common health issues?",
+      "answer": "They can be prone to hip dysplasia, allergies, and respiratory issues; regular vet check-ups are recommended."
+    },
+    {
+      "question": "Are American Bulldogs easy to train?",
+      "answer": "They are intelligent and trainable but require consistent, positive reinforcement methods."
+    },
+    {
+      "question": "What is the lifespan of an American Bulldog?",
+      "answer": "They typically live between 10 to 15 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/American_Bulldog",
+    "https://www.petmd.com/dog/breeds/c_dg_american_bulldog",
+    "https://www.breedscout.com/breeds/american-bulldog"
+  ]
+}

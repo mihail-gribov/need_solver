@@ -1,0 +1,156 @@
+{
+  "id": "american-hairless-terrier",
+  "name": "American Hairless Terrier",
+  "name_rus": "Американский голый терьер",
+  "full_description": "<p>The American Hairless Terrier (AHT) is a distinctive breed that originated in the United States in the early 1970s. This breed emerged when a hairless puppy named Josephine was born in a litter of Rat Terriers in Louisiana. Recognizing the uniqueness of this hairless trait, breeders Edwin and Willie Scott selectively bred Josephine, leading to the establishment of the American Hairless Terrier as a separate breed. The United Kennel Club recognized the AHT in 2004, and the American Kennel Club followed in 2016. Physically, the AHT is a small to medium-sized dog, typically standing between 12 to 16 inches tall and weighing between 12 to 18 pounds. The breed is characterized by its hairless skin, which can display a variety of colors and patterns, often with freckles that may darken with age. Some AHTs are born with a short, dense coat, but the hairless variety is more common. Their ears are V-shaped and can be erect, tipped, or buttoned, and they possess a muscular, compact body with a slightly longer length than height. Temperamentally, American Hairless Terriers are known for their energetic, alert, and intelligent nature. They are curious and playful, making them excellent companions for active individuals or families. Their friendly disposition allows them to get along well with children and other pets when properly socialized. Originally bred from Rat Terriers, which were used for hunting vermin, the AHT retains a strong prey drive. However, due to their lack of a protective coat, they are not suited for traditional hunting roles. Instead, they excel in various dog sports such as agility and obedience, showcasing their trainability and enthusiasm. In modern times, the American Hairless Terrier has gained popularity as a companion dog, especially among individuals with allergies, as they are known to cause fewer allergic reactions compared to other breeds. Their unique appearance and lively personality have endeared them to many, making them a cherished member of the terrier group. Notable characteristics of the AHT include their hairless skin, which requires special care to protect against sunburn and cold temperatures. They are also known for their strong prey drive, intelligence, and affectionate nature, making them both a unique and loving companion.</p>",
+  "full_description_rus": "<p>Американский голый терьер (АГТ) — уникальная порода, появившаяся в Соединённых Штатах в начале 1970-х годов. История породы началась с рождения бесшёрстного щенка по имени Жозефина в помёте рэт-терьеров в Луизиане. Заводчики Эдвин и Вилли Скотт, заметив эту особенность, начали целенаправленное разведение, что привело к созданию отдельной породы — американского голого терьера. Объединённый клуб собаководства (UKC) признал породу в 2004 году, а Американский клуб собаководства (AKC) последовал в 2016 году. Физически АГТ — это собака небольшого или среднего размера, ростом от 30 до 41 см и весом от 5,5 до 8 кг. Порода характеризуется отсутствием шерсти, кожа может иметь различные цвета и узоры, часто с веснушками, которые со временем темнеют. Некоторые представители породы рождаются с короткой, плотной шерстью, но бесшёрстный вариант более распространён. Уши V-образной формы могут быть стоячими, полустоячими или висячими, тело мускулистое и компактное, с длиной, немного превышающей высоту. По темпераменту американские голые терьеры энергичны, бдительны и умны. Их любопытство и игривость делают их отличными компаньонами для активных людей или семей. Дружелюбный характер позволяет им хорошо ладить с детьми и другими животными при правильной социализации. Хотя предки АГТ использовались для охоты на вредителей, отсутствие шерсти делает их непригодными для традиционной охоты. Вместо этого они преуспевают в различных собачьих видах спорта, таких как аджилити и послушание, демонстрируя свою обучаемость и энтузиазм. В современное время американский голый терьер приобрёл популярность в качестве собаки-компаньона, особенно среди людей с аллергией, так как они вызывают меньше аллергических реакций по сравнению с другими породами. Их уникальный внешний вид и жизнерадостный характер сделали их любимыми членами группы терьеров. Особенности АГТ включают бесшёрстную кожу, требующую особого ухода для защиты от солнечных ожогов и низких температур. Они также известны своим сильным охотничьим инстинктом, интеллектом и привязанностью, что делает их уникальными и любящими компаньонами.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "12-18 pounds",
+    "height": "12-16 inches",
+    "coat": "hairless; some may have whiskers and eyebrows",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "minimal; requires skin care",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "небольшой или средний",
+    "вес": "5,5-8 кг",
+    "рост": "30-41 см",
+    "шерсть": "бесшёрстная; у некоторых могут быть усы и брови",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "минимальный; требуется уход за кожей",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "summary": "The American Hairless Terrier is an energetic, intelligent, and friendly breed, known for its curiosity and playful nature.",
+    "with_family": "They form strong bonds with family members and thrive on companionship and interaction.",
+    "with_children": "Generally good with children, but supervision is recommended to prevent accidental injury due to their small size.",
+    "with_other_pets": "With proper socialization, they can coexist well with other pets, though their prey drive may lead them to chase smaller animals.",
+    "with_strangers": "Typically friendly towards strangers, especially when properly socialized from a young age.",
+    "special_traits": [
+      "Energetic and playful",
+      "Highly intelligent and trainable",
+      "Affectionate with family",
+      "Strong prey drive",
+      "Curious and alert"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Американский голый терьер — энергичная, умная и дружелюбная порода, известная своим любопытством и игривым характером.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи и процветают в условиях тесного общения и взаимодействия.",
+    "с детьми": "Обычно хорошо ладят с детьми, но рекомендуется присмотр, чтобы избежать случайных травм из-за их небольшого размера.",
+    "с другими животными": "При правильной социализации могут хорошо уживаться с другими животными, хотя их охотничий инстинкт может побуждать их преследовать мелких животных.",
+    "с незнакомцами": "Обычно дружелюбны к незнакомцам, особенно при правильной социализации с раннего возраста.",
+    "особые черты": [
+      "Энергичные и игривые",
+      "Высокоинтеллектуальные и легко обучаемые",
+      "Привязаны к семье",
+      "Сильный охотничий инстинкт",
+      "Любопытные и бдительные"
+    ]
+  },
+  "health": {
+    "summary": "American Hairless Terriers are generally healthy but can be prone to certain conditions, particularly related to their skin and joints.",
+    "common_issues": [
+      "Patellar luxation",
+      "Hip dysplasia",
+      "Primary lens luxation",
+      "Heart disease",
+      "Allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide joint supplements as recommended",
+      "Protect skin from sun exposure",
+      "Monitor for signs of allergies"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Американские голые терьеры в целом здоровы, но могут быть склонны к определённым заболеваниям, особенно связанным с кожей и суставами.",
+    "распространённые проблемы": [
+      "Вывих надколенника",
+      "Дисплазия тазобедренного сустава",
+      "Первичный вывих хрусталика",
+      "Сердечные заболевания",
+      "Аллергии"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здорового веса",
+      "Предоставление добавок для суставов по рекомендации",
+      "Защита кожи от солнечного воздействия",
+      "Мониторинг признаков аллергии"
+    ],
+    "рекомендуемые осмотры": "Ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "The American Hairless Terrier requires attentive care, particularly for its skin, along with regular exercise and mental stimulation.",
+    "behavior": "Engage in daily play and training sessions to satisfy their high energy levels and intelligence.",
+    "health": "Monitor for common health issues and maintain regular veterinary visits to ensure overall well-being.",
+    "grooming": "Protect their skin from sunburn with appropriate clothing or sunscreen, and keep them warm in cold weather.",
+    "nutrition": "Provide a balanced diet suitable for small to medium-sized active breeds, and monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Американский голый терьер требует внимательного ухода, особенно за кожей, а также регулярных физических и умственных нагрузок.",
+    "поведение и характер": "Участвуйте в ежедневных играх и тренировках, чтобы удовлетворить их высокий уровень энергии и интеллект.",
+    "здоровье и профилактика": "Следите за общими проблемами со здоровьем и регулярно посещайте ветеринара для обеспечения общего благополучия.",
+    "груминг и уход": "Защищайте их кожу от солнечных ожогов с помощью соответствующей одежды или солнцезащитного крема и держите их в тепле в холодную погоду.",
+    "питание и активность": "Обеспечьте сбалансированное питание, подходящее для активных пород небольшого и среднего размера, и контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are American Hairless Terriers hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, AHTs are known to cause fewer allergic reactions in sensitive individuals."
+    },
+    {
+      "question": "Do they require special skin care?",
+      "answer": "Yes, their hairless skin needs protection from sun exposure and cold temperatures to prevent sunburn and hypothermia."
+    },
+    {
+      "question": "Are they good with children?",
+      "answer": "Yes, they are generally good with children, but supervision is advised to prevent accidental injury due to their small size."
+    },
+    {
+      "question": "How much exercise do they need?",
+      "answer": "They require daily exercise, including walks and playtime, to meet their high energy levels and prevent boredom."
+    },
+    {
+      "question": "Can they live in apartments?",
+      "answer": "Yes, their small size and adaptability make them suitable for apartment living, provided they receive adequate exercise."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли американские голые терьеры гипоаллергенными?",
+      "ответ": "Хотя ни одна собака не является полностью гипоаллергенной, АГТ известны тем, что вызывают меньше аллергических реакций у чувствительных людей."
+    },
+    {
+      "вопрос": "Требуют ли они особого ухода за кожей?",
+      "ответ": "Да, их бесшёрстная кожа нуждается в защите от солнечного воздействия и низких температур, чтобы предотвратить солнечные ожоги и переохлаждение."
+    },
+    {
+      "вопрос": "Хорошо ли они ладят с детьми?",
+      "ответ": "Да, они обычно хорошо ладят с детьми, но рекомендуется присмотр, чтобы избежать случайных травм из-за их небольшого размера."
+    },
+    {
+      "вопрос": "Сколько упражнений им требуется?",
+      "ответ": "Им необходимы ежедневные физические нагрузки, включая прогулки и игры, чтобы удовлетворить их высокий уровень энергии и предотвратить скуку."
+    },
+    {
+      "вопрос": "Могут ли они жить в квартирах?",
+      "ответ": "Да, их небольшой размер и адаптивность делают их подходящими для жизни в квартире, при условии, что они получают достаточную физическую нагрузку."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/the-bald-and-beautiful-american-hairless-terrier/",
+    "https://www.petmd.com/dog/breeds/american-hairless-terrier",
+    "https://www.hillspet.com/dog-care/dog-breeds/american-hairless-terrier",
+    "https://www.webmd.com/pets/dogs/what-to-know-american-hairless-terriers",
+    "https://ahtca.info/about-the-aht.html"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "italian-greyhound",
+  "name": "Italian Greyhound",
+  "name_rus": "Левретка",
+  "full_description": "<p>The Italian Greyhound, the smallest member of the sighthound family, boasts a lineage tracing back over 2,000 years to the Mediterranean basin. Initially bred for hunting small game, they were cherished by nobility across Southern Europe during the Middle Ages and Renaissance, particularly in Italy, which bestowed upon them their name. By the 17th century, they had reached England, where their diminutive size and elegance made them favored companions during the Victorian era. Physically, Italian Greyhounds are slender and graceful, resembling a miniature Greyhound. They stand between 13 to 15 inches tall at the withers and weigh approximately 7 to 14 pounds. Their coat is short, glossy, and fine-textured, coming in various colors except for brindle and black-and-tan patterns, which are disqualifications. The breed's head is long and narrow with a slight stop, and their dark, intelligent eyes convey a keen alertness. Temperamentally, Italian Greyhounds are affectionate and intelligent, forming strong bonds with their families. They are sensitive and may be reserved around strangers, but they are never aggressive. Their playful and gentle nature makes them excellent companions. Historically, they were bred for hunting small game, utilizing their keen sight and speed. Today, they are primarily cherished as loving companions and excel in various canine sports such as agility, obedience, and lure coursing. Notable characteristics include their elegant appearance, affectionate disposition, and adaptability to various living environments.</p>",
+  "full_description_rus": "<p>Левретка, или малая итальянская борзая, является самой миниатюрной представительницей семейства борзых. История породы насчитывает более 2000 лет и берет начало в странах Средиземноморья. Первоначально левретки использовались для охоты на мелкую дичь, однако со временем стали любимцами знати в Южной Европе, особенно в Италии, откуда и получили свое название. К XVII веку порода распространилась в Англии, где благодаря своему изяществу и небольшим размерам стала популярной среди аристократии викторианской эпохи. Внешне левретки напоминают уменьшенную копию грейхаунда: они стройны и грациозны, с ростом в холке от 32 до 38 см и весом от 3 до 5 кг. Шерсть короткая, гладкая и блестящая, допускаются различные окрасы, кроме тигрового и черно-подпалого. Голова длинная и узкая с легким переходом ото лба к морде, а темные, выразительные глаза придают взгляду живость и ум. По характеру левретки ласковы и умны, сильно привязываются к своим владельцам. Они чувствительны и могут быть сдержанными с незнакомцами, но агрессия для них не характерна. Их игривость и мягкость делают их отличными компаньонами. Исторически левретки использовались для охоты на мелкую дичь, полагаясь на свое острое зрение и скорость. В настоящее время они в основном ценятся как преданные домашние питомцы и успешно участвуют в различных собачьих спортивных дисциплинах, таких как аджилити, послушание и курсинг. Ключевые особенности породы включают элегантный внешний вид, привязанность к семье и способность адаптироваться к различным условиям проживания.</p>",
+  "parameters": {
+    "activity": "moderate",
+    "coat": "short, glossy, fine-textured",
+    "grooming": "minimal; occasional brushing",
+    "height": "13-15 inches",
+    "lifespan": "12-15 years",
+    "size": "small",
+    "trainability": "high",
+    "weight": "7-14 pounds"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "3-5 кг",
+    "рост": "32-38 см",
+    "шерсть": "короткая, гладкая, блестящая",
+    "активность": "умеренная",
+    "обучаемость": "высокая",
+    "уход": "минимальный; периодическое расчесывание",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Affectionate and loyal",
+      "Sensitive to cold temperatures",
+      "High prey drive",
+      "Enjoys burrowing under blankets",
+      "Prone to separation anxiety if left alone for extended periods"
+    ],
+    "summary": "Italian Greyhounds are affectionate, intelligent, and sensitive dogs that form strong bonds with their families. They are playful and gentle, making them excellent companions.",
+    "with_children": "Generally good with children, especially when socialized early, but their delicate build requires supervision to prevent accidental injury.",
+    "with_family": "They are deeply devoted to their family members, often seeking close physical contact and enjoying interactive play.",
+    "with_other_pets": "They can coexist peacefully with other pets, particularly when raised together, though their sighthound instincts may prompt them to chase smaller animals.",
+    "with_strangers": "May be reserved around strangers, displaying a cautious demeanor without aggression."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Левретки ласковы, умны и чувствительны, образуют крепкие связи со своими семьями. Они игривы и нежны, что делает их отличными компаньонами.",
+    "с семьёй": "Глубоко преданы членам своей семьи, часто ищут близкого физического контакта и любят совместные игры.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации, однако их хрупкое телосложение требует присмотра, чтобы избежать случайных травм.",
+    "с другими животными": "Могут мирно сосуществовать с другими питомцами, особенно если выросли вместе, хотя их охотничьи инстинкты могут побуждать их преследовать мелких животных.",
+    "с незнакомцами": "Могут быть сдержанными с незнакомцами, проявляя осторожность без агрессии.",
+    "особые черты": [
+      "Ласковы и преданы",
+      "Чувствительны к низким температурам",
+      "Сильный охотничий инстинкт",
+      "Любят зарываться под одеяла",
+      "Склонны к тревоге при разлуке, если остаются одни на длительное время"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Patellar luxation",
+      "Hip dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Hypothyroidism",
+      "Dental issues"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a balanced diet to prevent obesity",
+      "Provide regular dental care",
+      "Avoid rough play to protect fragile bones",
+      "Annual eye examinations"
+    ],
+    "summary": "Italian Greyhounds are generally healthy but are predisposed to certain conditions due to their slender build and genetic factors.",
+    "vet_checkups": "Annually, with additional screenings for eyes and joints as recommended."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Левретки в целом здоровы, но из-за своего хрупкого телосложения и генетических факторов склонны к определенным заболеваниям.",
+    "распространённые проблемы": [
+      "Вывих надколенника",
+      "Дисплазия тазобедренного сустава",
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Гипотиреоз",
+      "Зубные проблемы"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Сбалансированное питание для предотвращения ожирения",
+      "Регулярный уход за зубами",
+      "Избегать грубых игр для защиты хрупких костей",
+      "Ежегодные осмотры глаз"
+    ],
+    "рекомендуемые осмотры": "Ежегодно, с дополнительными обследованиями глаз и суставов по рекомендации."
+  },
+  "care": {
+    "behavior": "They thrive on companionship and may develop separation anxiety if left alone for long periods; providing mental stimulation and social interaction is essential.",
+    "description": "Italian Greyhounds require attentive care to maintain their health and happiness, including proper nutrition, regular exercise, and protection from extreme temperatures.",
+    "grooming": "Minimal grooming is needed; occasional brushing and regular nail trimming suffice.",
+    "health": "Due to their slender build, they are prone to fractures; handle them gently and avoid situations where they might jump from heights.",
+    "nutrition": "Feed a high-quality diet appropriate for their size and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Левретки требуют внимательного ухода для поддержания их здоровья и счастья, включая правильное питание, регулярные физические нагрузки и защиту от экстремальных температур.",
+    "поведение и характер": "Они нуждаются в постоянном общении и могут развить тревогу при разлуке, если остаются одни на длительное время; важно обеспечивать им умственную стимуляцию и социальное взаимодействие.",
+    "здоровье и профилактика": "Из-за своего хрупкого телосложения склонны к переломам; обращайтесь с ними осторожно и избегайте ситуаций, где они могут прыгать с высоты.",
+    "груминг и уход": "Минимальный уход за шерстью; достаточно периодического расчесывания и регулярной стрижки когтей.",
+    "питание и активность": "Кормите высококачественным кормом, соответствующим их размеру и уровню активности; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Italian Greyhounds good apartment dogs?",
+      "answer": "Yes, their small size and moderate activity level make them well-suited for apartment living."
+    },
+    {
+      "question": "Do Italian Greyhounds get along with other dogs?",
+      "answer": "Generally, they are sociable with other dogs, especially when socialized from a young age."
+    },
+    {
+      "question": "Are Italian Greyhounds hypoallergenic?",
+      "answer": "No, they are not considered hypoallergenic, though their short coat may produce less dander than some breeds."
+    },
+    {
+      "question": "How much exercise do Italian Greyhounds need?",
+      "answer": "They require daily walks and playtime but are also content to relax indoors."
+    },
+    {
+      "question": "Do Italian Greyhounds bark a lot?",
+      "answer": "They are not known to be excessive barkers but may alert their owners to unfamiliar sounds or visitors."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли левретки для содержания в квартире?",
+      "ответ": "Да, их небольшой размер и умеренный уровень активности делают их хорошо подходящими для жизни в квартире."
+    },
+    {
+      "вопрос": "Ладят ли левретки с другими собаками?",
+      "ответ": "Обычно они дружелюбны с другими собаками, особенно при ранней социализации."
+    },
+    {
+      "вопрос": "Являются ли левретки гипоаллергенными?",
+      "ответ": "Нет, они не считаются гипоаллергенными, хотя их короткая шерсть может вызывать меньше аллергии, чем у некоторых других пород."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется левреткам?",
+      "ответ": "Им необходимы ежедневные прогулки и игры, но они также довольны отдыхом в помещении."
+    },
+    {
+      "вопрос": "Много ли лают левретки?",
+      "ответ": "Они не склонны к чрезмерному лаю, но могут предупреждать владельцев о незнакомых звуках или посетителях."
+    }
+  ],
+  "sources": [
+    "https://italiangreyhound.org/about-the-italian-greyhound/italian-greyhound-breed-history/",
+    "https://italiangreyhound.org/about-the-italian-greyhound/akc-breed-standard/",
+    "https://www.ukcdogs.com/italian-greyhound",
+    "https://italiangreyhound.org/wp-content/uploads/2023/11/IGCA-Judges-Education-Presentation-2023.pdf",
+    "https://cdn.akc.org/Marketplace/Health-Statement/Italian-Greyhound.pdf",
+    "https://www.hillspet.ru/dog-care/dog-breeds/italian-greyhound.html",
+    "https://www.pedigree.ru/porody/levretka",
+    "https://www.proplan.ru/dog/article/breeds/levretka",
+    "https://doge.ru/poroda/levretka",
+    "https://petgu.ru/porody/levretka"
+  ]
+}

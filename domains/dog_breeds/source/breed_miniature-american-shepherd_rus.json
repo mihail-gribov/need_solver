@@ -1,0 +1,156 @@
+{
+  "id": "miniature-american-shepherd",
+  "name": "Miniature American Shepherd",
+  "name_rus": "Миниатюрная американская овчарка",
+  "full_description": "<p>The Miniature American Shepherd (MAS) is a small herding breed that originated in the United States during the late 1960s. Developed by breeding smaller Australian Shepherds, the goal was to create a compact, versatile herding dog suitable for equestrian enthusiasts and those seeking a smaller companion with strong working abilities. The breed was officially recognized by the American Kennel Club (AKC) in 2015.</p>\n<p>Physically, the MAS is a well-balanced, athletic dog standing between 14 to 18 inches (36–46 cm) tall for males and 13 to 17 inches (33–43 cm) for females, with weights ranging from 20 to 40 pounds (9–18 kg). They possess a medium-length double coat that can be straight or slightly wavy, providing weather resistance. Coat colors include black, blue merle, red, and red merle, often accompanied by white and/or tan markings.</p>\n<p>Temperamentally, MAS are intelligent, energetic, and eager to please, making them highly trainable. They form strong bonds with their families and are known for their loyalty and affectionate nature. Their herding instincts remain strong, and they may exhibit behaviors such as nipping at heels, especially in the presence of children or other animals.</p>\n<p>Originally bred for herding livestock, including sheep and goats, the MAS retains its working abilities and excels in various dog sports such as agility, obedience, and flyball. Their compact size and agility make them suitable for both rural and urban environments, provided they receive adequate physical and mental stimulation.</p>\n<p>In modern times, the MAS has gained popularity as both a working dog and a companion animal. Their adaptability, intelligence, and manageable size have endeared them to a wide range of dog enthusiasts. Notable characteristics of the breed include their distinctive merle coat patterns, expressive eyes that can be brown, blue, hazel, or amber, and their strong affinity for human companionship.</p>",
+  "full_description_rus": "<p>Миниатюрная американская овчарка (МАО) — небольшая пастушья порода, возникшая в США в конце 1960-х годов. Путем селекции более мелких австралийских овчарок была создана компактная и универсальная собака, подходящая для любителей конного спорта и тех, кто искал небольшого компаньона с выраженными рабочими качествами. Порода была официально признана Американским клубом собаководства (AKC) в 2015 году.</p>\n<p>Физически МАО — это сбалансированная, атлетически сложенная собака. Рост кобелей составляет от 36 до 46 см, сук — от 33 до 43 см. Вес варьируется от 9 до 18 кг. Они обладают средней длины двойной шерстью, которая может быть прямой или слегка волнистой, обеспечивая защиту от непогоды. Окрасы включают черный, голубой мерль, красный и красный мерль, часто с белыми и/или подпалыми отметинами.</p>\n<p>По темпераменту МАО умны, энергичны и стремятся угодить, что делает их легко обучаемыми. Они формируют крепкие связи со своими семьями и известны своей преданностью и ласковым характером. Их пастушьи инстинкты остаются сильными, и они могут проявлять поведение, такое как покусывание за пятки, особенно в присутствии детей или других животных.</p>\n<p>Изначально выведенные для выпаса скота, включая овец и коз, МАО сохраняют свои рабочие способности и преуспевают в различных собачьих видах спорта, таких как аджилити, послушание и флайбол. Их компактный размер и ловкость делают их подходящими как для сельской, так и для городской среды, при условии, что они получают достаточную физическую и умственную стимуляцию.</p>\n<p>В настоящее время МАО приобрели популярность как рабочие собаки и как компаньоны. Их адаптивность, интеллект и управляемый размер завоевали сердца многих любителей собак. Отличительными чертами породы являются их характерные мерль-окрасы, выразительные глаза, которые могут быть карими, голубыми, ореховыми или янтарными, и их сильная привязанность к человеку.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "20–40 pounds (9–18 kg)",
+    "height": "Males: 14–18 inches (36–46 cm); Females: 13–17 inches (33–43 cm)",
+    "coat": "medium-length double coat, straight or slightly wavy",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; more frequent during shedding seasons",
+    "lifespan": "12–15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький до среднего",
+    "вес": "9–18 кг",
+    "рост": "Кобели: 36–46 см; Суки: 33–43 см",
+    "шерсть": "средней длины двойная, прямая или слегка волнистая",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "регулярное вычесывание; более частое во время линьки",
+    "продолжительность жизни": "12–15 лет"
+  },
+  "behavior": {
+    "summary": "Miniature American Shepherds are intelligent, energetic, and loyal dogs with strong herding instincts. They form close bonds with their families and require regular mental and physical stimulation to prevent boredom.",
+    "with_family": "They are affectionate and devoted to family members, often following them around the house and seeking companionship.",
+    "with_children": "Generally good with children, but their herding instincts may lead to nipping behaviors, which can be managed through training.",
+    "with_other_pets": "Can coexist well with other pets, especially when socialized early, though they may attempt to herd them.",
+    "with_strangers": "May be reserved around strangers, often displaying protective behaviors; early socialization helps in developing a well-rounded temperament.",
+    "special_traits": [
+      "high intelligence",
+      "strong herding instincts",
+      "loyalty to family",
+      "energetic and playful nature",
+      "affinity for dog sports"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Миниатюрные американские овчарки — умные, энергичные и преданные собаки с выраженными пастушьими инстинктами. Они формируют тесные связи со своими семьями и нуждаются в регулярной умственной и физической стимуляции, чтобы избежать скуки.",
+    "с семьёй": "Они ласковы и преданы членам семьи, часто следуют за ними по дому и ищут общения.",
+    "с детьми": "Обычно хорошо ладят с детьми, но их пастушьи инстинкты могут приводить к покусыванию за пятки, что можно скорректировать с помощью обучения.",
+    "с другими животными": "Могут хорошо уживаться с другими животными, особенно при ранней социализации, хотя могут пытаться пасти их.",
+    "с незнакомцами": "Могут быть сдержанными с незнакомцами, часто проявляя защитное поведение; ранняя социализация помогает развить уравновешенный характер.",
+    "особые черты": [
+      "высокий интеллект",
+      "сильные пастушьи инстинкты",
+      "преданность семье",
+      "энергичный и игривый характер",
+      "склонность к собачьим видам спорта"
+    ]
+  },
+  "health": {
+    "summary": "Miniature American Shepherds are generally healthy but are prone to certain genetic conditions. Regular health screenings and preventive care are essential to maintain their well-being.",
+    "common_issues": [
+      "hip dysplasia",
+      "progressive retinal atrophy (PRA)",
+      "collie eye anomaly",
+      "cataracts",
+      "multidrug resistance gene (MDR1) mutation"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "genetic testing for known conditions",
+      "maintaining a healthy weight",
+      "providing regular exercise",
+      "ensuring a balanced diet"
+    ],
+    "vet_checkups": "at least once a year; more frequent for senior dogs or those with known health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Миниатюрные американские овчарки в целом здоровы, но склонны к некоторым генетическим заболеваниям. Регулярные медицинские осмотры и профилактический уход необходимы для поддержания их благополучия.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренного сустава",
+      "прогрессирующая атрофия сетчатки (PRA)",
+      "аномалия глаз колли",
+      "катаракта",
+      "мутация гена MDR1"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "генетическое тестирование на известные заболевания",
+      "поддержание здорового веса",
+      "обеспечение регулярных физических нагрузок",
+      "сбалансированное питание"
+    ],
+    "рекомендуемые осмотры": "не реже одного раза в год; чаще для пожилых собак или имеющих известные проблемы со здоровьем"
+  },
+  "care": {
+    "description": "Miniature American Shepherds require consistent care, including regular exercise, mental stimulation, and routine grooming to maintain their health and happiness.",
+    "behavior": "Engage them in activities like agility or obedience training to satisfy their intelligence and energy levels.",
+    "health": "Monitor for signs of common health issues and consult a veterinarian promptly if concerns arise.",
+    "grooming": "Brush their coat weekly, increasing frequency during shedding seasons to manage loose hair.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; avoid overfeeding to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Миниатюрные американские овчарки требуют постоянного ухода, включая регулярные физические нагрузки, умственную стимуляцию и рутинный груминг для поддержания их здоровья и счастья.",
+    "поведение и характер": "Занимайте их такими видами активности, как аджилити или тренировки на послушание, чтобы удовлетворить их интеллект и уровень энергии.",
+    "здоровье и профилактика": "Следите за признаками распространённых проблем со здоровьем и своевременно консультируйтесь с ветеринаром при возникновении беспокойств.",
+    "груминг и уход": "Расчесывайте их шерсть еженедельно, увеличивая частоту во время сезонов линьки для управления выпадающей шерстью.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их возрасту, размеру и уровню активности; избегайте перекармливания, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Miniature American Shepherds good for apartment living?",
+      "answer": "Yes, if they receive sufficient exercise and mental stimulation daily."
+    },
+    {
+      "question": "Do they get along with other dogs?",
+      "answer": "Generally, yes, especially when socialized from a young age."
+    },
+    {
+      "question": "How much exercise do they need?",
+      "answer": "At least one to two hours of physical activity daily."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable."
+    },
+    {
+      "question": "Do they shed a lot?",
+      "answer": "They shed moderately year-round, with increased shedding during seasonal changes."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли миниатюрные американские овчарки для жизни в квартире?",
+      "ответ": "Да, при условии, что они ежедневно получают достаточные физические нагрузки и умственную стимуляцию."
+    },
+    {
+      "вопрос": "Ладят ли они с другими собаками?",
+      "ответ": "Как правило, да, особенно при социализации с раннего возраста."
+    },
+    {
+      "вопрос": "Сколько упражнений им требуется?",
+      "ответ": "Не менее одного-двух часов физической активности ежедневно."
+    },
+    {
+      "вопрос": "Легко ли их дрессировать?",
+      "ответ": "Да, их интеллект и стремление угодить делают их легко обучаемыми."
+    },
+    {
+      "вопрос": "Сильно ли они линяют?",
+      "ответ": "Они линяют умеренно круглый год, с увеличением линьки во время сезонных изменений."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/miniature-american-shepherd-history/",
+    "https://www.akc.org/expert-advice/lifestyle/fun-facts-miniature-american-shepherd/",
+    "https://www.purina.com/dogs/dog-breeds/miniature-american-shepherd",
+    "https://www.petmd.com/dog/breeds/miniature-american-shepherd",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-miniature-american-shepherd"
+  ]
+}

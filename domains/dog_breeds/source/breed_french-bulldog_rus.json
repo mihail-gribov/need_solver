@@ -1,0 +1,160 @@
+{
+  "id": "french-bulldog",
+  "name": "French Bulldog",
+  "name_rus": "Французский бульдог",
+  "full_description": "<p>The French Bulldog, affectionately known as the 'Frenchie,' is a small, muscular dog with a smooth coat, compact build, and distinctive 'bat ears.' Originating in the 19th century, the breed was developed by lace workers in Nottingham, England, who migrated to France during the Industrial Revolution, bringing their small bulldogs with them. These dogs were then crossed with local breeds, resulting in the French Bulldog we know today.</p>\n<p>Physically, French Bulldogs are compact and muscular, typically weighing under 28 pounds. They have a short, smooth coat that comes in various colors, including brindle, fawn, cream, and white with brindle patches. Their most notable feature is their large, upright 'bat ears,' which contribute to their alert and expressive appearance.</p>\n<p>In terms of temperament, Frenchies are known for their affectionate and friendly nature. They form strong bonds with their families and are particularly good with children. Their playful and adaptable disposition makes them suitable for various living situations, from apartments to larger homes. While they are intelligent, they can also be a bit stubborn, which may require patience during training.</p>\n<p>Originally bred as companion animals, French Bulldogs have never been used for traditional working roles. Their primary purpose has always been to provide companionship, a role they continue to excel in today. Their popularity has surged in recent years, with the breed ranking as the most popular dog in the United States in 2024.</p>\n<p>Notable characteristics of the French Bulldog include their brachycephalic (short-nosed) facial structure, which contributes to their unique appearance but also predisposes them to certain health issues. Their compact size and moderate exercise needs make them ideal for urban living. However, potential owners should be aware of their sensitivity to heat and the importance of regular health check-ups to monitor for breed-specific health concerns.</p>",
+  "full_description_rus": "<p>Французский бульдог, ласково называемый 'французиком', — небольшая, мускулистая собака с гладкой шерстью, компактным телосложением и характерными 'летучими ушами'. Порода возникла в XIX веке, когда кружевники из Ноттингема, Англия, мигрировали во Францию во время промышленной революции, привезя с собой своих маленьких бульдогов. Эти собаки были скрещены с местными породами, что привело к появлению французского бульдога, которого мы знаем сегодня.</p>\n<p>Физически французские бульдоги компактны и мускулисты, обычно весят от 8 до 14 кг. У них короткая, гладкая шерсть различных окрасов, включая тигровый, палевый, кремовый и белый с тигровыми пятнами. Их наиболее заметной чертой являются большие, стоячие 'летучие уши', придающие им настороженный и выразительный вид.</p>\n<p>По темпераменту французики известны своей привязанностью и дружелюбным характером. Они формируют крепкие связи со своими семьями и особенно хорошо ладят с детьми. Их игривый и адаптивный нрав делает их подходящими для различных условий проживания, от квартир до больших домов. Хотя они умны, могут проявлять некоторую упрямость, что требует терпения при обучении.</p>\n<p>Изначально выведенные как компаньоны, французские бульдоги никогда не использовались в традиционных рабочих ролях. Их основная цель всегда заключалась в обеспечении компании, и в этой роли они продолжают преуспевать сегодня. Их популярность значительно возросла в последние годы, и порода занимает одно из ведущих мест по популярности в России.</p>\n<p>Значительными характеристиками французского бульдога являются их брахицефальная (короткомордая) структура лица, которая придает им уникальный внешний вид, но также предрасполагает к определенным проблемам со здоровьем. Их компактный размер и умеренные потребности в физических нагрузках делают их идеальными для городской жизни. Однако потенциальные владельцы должны быть осведомлены о их чувствительности к жаре и важности регулярных ветеринарных осмотров для мониторинга специфических для породы проблем со здоровьем.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "under 28 pounds",
+    "height": "11-12 inches",
+    "coat": "short, smooth, fine",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "weekly brushing; regular cleaning of skin folds",
+    "lifespan": "10-12 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "8-14 кг",
+    "рост": "27-35 см",
+    "шерсть": "короткая, гладкая, тонкая",
+    "активность": "умеренная",
+    "обучаемость": "умеренная",
+    "уход": "еженедельное расчесывание; регулярная чистка кожных складок",
+    "продолжительность жизни": "10-12 лет"
+  },
+  "behavior": {
+    "summary": "French Bulldogs are affectionate, friendly, and adaptable companions, known for their playful and sociable nature.",
+    "with_family": "They form strong bonds with family members, enjoying close companionship and often seeking attention.",
+    "with_children": "Frenchies are generally good with children, displaying patience and playfulness, making them excellent family pets.",
+    "with_other_pets": "They can get along well with other pets, especially when socialized from a young age, though some may exhibit territorial behavior.",
+    "with_strangers": "Typically friendly towards strangers, French Bulldogs may be reserved initially but warm up quickly.",
+    "special_traits": [
+      "Affectionate and loyal",
+      "Playful and sociable",
+      "Adaptable to various living environments",
+      "Moderate exercise needs",
+      "Sensitive to heat"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Французские бульдоги — привязчивые, дружелюбные и адаптивные компаньоны, известные своей игривостью и общительностью.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, наслаждаются тесным общением и часто ищут внимания.",
+    "с детьми": "Французики обычно хорошо ладят с детьми, проявляя терпение и игривость, что делает их отличными семейными питомцами.",
+    "с другими животными": "Они могут хорошо уживаться с другими животными, особенно при ранней социализации, хотя некоторые могут проявлять территориальное поведение.",
+    "с незнакомцами": "Обычно дружелюбны к незнакомцам, французские бульдоги могут быть сначала сдержанными, но быстро привыкают.",
+    "особые черты": [
+      "Привязчивые и верные",
+      "Игривые и общительные",
+      "Адаптивные к различным условиям проживания",
+      "Умеренные потребности в физических нагрузках",
+      "Чувствительны к жаре"
+    ]
+  },
+  "health": {
+    "summary": "French Bulldogs are prone to several health issues, primarily due to their brachycephalic anatomy, requiring attentive care and regular veterinary check-ups.",
+    "common_issues": [
+      "Brachycephalic Obstructive Airway Syndrome (BOAS)",
+      "Skin allergies and dermatitis",
+      "Ear infections",
+      "Spinal malformations",
+      "Eye conditions (e.g., cherry eye, corneal ulcers)"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce breathing difficulties",
+      "Regularly clean skin folds to prevent infections",
+      "Monitor for signs of allergies and seek veterinary advice",
+      "Avoid excessive heat and ensure a cool environment",
+      "Provide regular, gentle exercise to maintain overall health"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for monitoring breed-specific health concerns."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Французские бульдоги склонны к нескольким проблемам со здоровьем, главным образом из-за их брахицефальной анатомии, что требует внимательного ухода и регулярных ветеринарных осмотров.",
+    "распространённые проблемы": [
+      "Брахицефальный обструктивный синдром дыхательных путей (BOAS)",
+      "Кожные аллергии и дерматиты",
+      "Ушные инфекции",
+      "Позвоночные аномалии",
+      "Глазные заболевания (например, 'вишневый глаз', язвы роговицы)"
+    ],
+    "советы по профилактике": [
+      "Поддерживайте здоровый вес, чтобы уменьшить проблемы с дыханием",
+      "Регулярно очищайте кожные складки для предотвращения инфекций",
+      "Следите за признаками аллергии и консультируйтесь с ветеринаром",
+      "Избегайте перегрева и обеспечивайте прохладную среду",
+      "Обеспечивайте регулярные, умеренные физические нагрузки для поддержания общего здоровья"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты могут быть необходимы для мониторинга специфических для породы проблем со здоровьем."
+  },
+  "care": {
+    "description": "French Bulldogs require attentive care, including regular grooming, health monitoring, and a balanced lifestyle to ensure their well-being.",
+    "behavior": "Consistent, positive reinforcement training helps manage their occasional stubbornness; socialization from a young age promotes well-rounded behavior.",
+    "health": "Regular veterinary check-ups are essential to monitor for common health issues; maintaining a healthy weight and avoiding overheating are crucial.",
+    "grooming": "Weekly brushing and regular cleaning of skin folds help prevent skin infections; routine ear cleaning reduces the risk of ear infections.",
+    "nutrition": "A balanced diet tailored to their age, size, and activity level supports overall health; portion control is important to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Французские бульдоги требуют внимательного ухода, включая регулярный груминг, мониторинг здоровья и сбалансированный образ жизни для обеспечения их благополучия.",
+    "поведение и характер": "Последовательное обучение с положительным подкреплением помогает справляться с их периодической упрямостью; социализация с раннего возраста способствует всестороннему развитию поведения.",
+    "здоровье и профилактика": "Регулярные ветеринарные осмотры необходимы для мониторинга распространённых проблем со здоровьем; поддержание здорового веса и предотвращение перегрева имеют решающее значение.",
+    "груминг и уход": "Еженедельное расчесывание и регулярная чистка кожных складок помогают предотвратить кожные инфекции; рутинная чистка ушей снижает риск ушных инфекций.",
+    "питание и активность": "Сбалансированная диета, соответствующая их возрасту, размеру и уровню активности, поддерживает общее здоровье; контроль порций важен для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are French Bulldogs good for apartment living?",
+      "answer": "Yes, their small size and moderate exercise needs make them well-suited for apartment living."
+    },
+    {
+      "question": "Do French Bulldogs require a lot of exercise?",
+      "answer": "No, they have moderate exercise needs; daily short walks and play sessions are sufficient."
+    },
+    {
+      "question": "Are French Bulldogs prone to health issues?",
+      "answer": "Yes, they are susceptible to certain health problems, particularly related to their brachycephalic anatomy."
+    },
+    {
+      "question": "Do French Bulldogs get along with other pets?",
+      "answer": "Generally, yes; with proper socialization, they can coexist well with other pets."
+    },
+    {
+      "question": "Are French Bulldogs easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training is effective."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходит ли французский бульдог для жизни в квартире?",
+      "ответ": "Да, их небольшой размер и умеренные потребности в физических нагрузках делают их хорошо подходящими для жизни в квартире."
+    },
+    {
+      "вопрос": "Требует ли французский бульдог много физических упражнений?",
+      "ответ": "Нет, им достаточно умеренных нагрузок; ежедневные короткие прогулки и игровые сессии вполне достаточны."
+    },
+    {
+      "вопрос": "Склонны ли французские бульдоги к проблемам со здоровьем?",
+      "ответ": "Да, они подвержены определённым проблемам со здоровьем, особенно связанным с их брахицефальной анатомией."
+    },
+    {
+      "вопрос": "Ладят ли французские бульдоги с другими животными?",
+      "ответ": "В целом, да; при правильной социализации они могут хорошо уживаться с другими питомцами."
+    },
+    {
+      "вопрос": "Легко ли обучать французских бульдогов?",
+      "ответ": "Они умны, но могут быть упрямыми; последовательное обучение с положительным подкреплением эффективно."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/French_Bulldog",
+    "https://www.purina.kz/kz/dogs/dog-breeds/library/french_bulldog",
+    "https://ru.wikipedia.org/wiki/Французский_бульдог",
+    "https://www.proplan.ru/dog/breeds/francuzskij-buldog",
+    "https://www.purinaone.ru/dog/articles/breeds/bouledogue-francais",
+    "https://www.pedigree.ru/porody/francuzskijbuldog",
+    "https://www.rbc.ru/life/news/640b76119a7947b86f01daee",
+    "https://www.nur.kz/household/pets/2055287-frantsuzskiy-buldog-kak-vyglyadit-pes-kakoy-u-nego-harakter-i-kak-pravilno-za-nim-uhazhivat/",
+    "https://lenta.ru/articles/2025/08/20/frantsuzskiy-buldog/"
+  ]
+}

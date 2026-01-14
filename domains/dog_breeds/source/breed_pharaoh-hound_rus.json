@@ -1,0 +1,159 @@
+{
+  "id": "pharaoh-hound",
+  "name": "Pharaoh Hound",
+  "name_rus": "Фараонова собака",
+  "full_description": "<p>The Pharaoh Hound, known as 'Kelb tal-Fenek' in its native Malta, is a breed with a rich history and distinctive characteristics. Despite its name suggesting Egyptian origins, modern DNA studies indicate that the breed developed more recently, with its current form established in Malta. Traditionally used for rabbit hunting in the rocky terrains of the Maltese islands, the Pharaoh Hound is renowned for its keen sight, scenting abilities, and remarkable speed. Physically, the breed is medium-sized, exhibiting a noble bearing with clean-cut lines. Males typically stand between 22 to 25 inches (56 to 63.5 cm) tall, while females range from 21 to 24 inches (53.25 to 61 cm). Their weight varies from 45 to 55 pounds (20 to 25 kg). The coat is short, glossy, and ranges from fine and close to slightly harsh, predominantly in shades of tan or rich tan, often with white markings on the chest, toes, or tail tip. One of the breed's unique traits is its 'blushing' phenomenon, where the ears and nose turn a rosy color when the dog is excited or happy. Temperamentally, Pharaoh Hounds are intelligent, friendly, affectionate, and playful. They are known for their sociable nature, enjoying the company of humans and other dogs. Their original purpose as rabbit hunters showcases their agility and endurance, traits that remain evident today. In contemporary settings, they participate in various activities such as conformation shows, obedience, rally obedience, agility, racing, lure coursing, and hunting. While not as widely popular as some other breeds, the Pharaoh Hound maintains a dedicated following among enthusiasts who appreciate its unique history, appearance, and personality. Notably, the breed is the national dog of Malta, reflecting its cultural significance. Distinctive characteristics include their ability to hunt by both sight and scent, their remarkable speed, and the unique blushing trait. Their short, odor-free coat requires minimal grooming, making them relatively low-maintenance in terms of care.</p>",
+  "full_description_rus": "<p>Фараонова собака, известная на Мальте как 'Kelb tal-Fenek' (что переводится как 'кроличья собака'), обладает богатой историей и уникальными характеристиками. Несмотря на название, предполагающее египетское происхождение, современные исследования ДНК показывают, что порода сформировалась относительно недавно, а её современный облик был установлен на Мальте. Традиционно использовалась для охоты на кроликов в скалистых местностях мальтийских островов, фараонова собака славится своим острым зрением, обонянием и выдающейся скоростью. Физически это собака среднего размера с благородной осанкой и четкими линиями. Рост кобелей обычно составляет от 56 до 63,5 см, сук — от 53 до 61 см. Вес варьируется от 20 до 25 кг. Шерсть короткая, блестящая, от тонкой и плотно прилегающей до слегка жестковатой, преимущественно оттенков загара или насыщенного рыжего цвета, часто с белыми отметинами на груди, пальцах или кончике хвоста. Одной из уникальных черт породы является 'покраснение' — явление, при котором уши и нос становятся розовыми, когда собака возбуждена или счастлива. По темпераменту фараоновы собаки умны, дружелюбны, ласковы и игривы. Они известны своей общительностью, наслаждаются обществом людей и других собак. Их первоначальное предназначение как охотников на кроликов демонстрирует их ловкость и выносливость, что остается очевидным и сегодня. В современных условиях они участвуют в различных мероприятиях, таких как выставки, послушание, ралли-обидиенс, аджилити, гонки, курсинг и охота. Хотя порода не так широко популярна, как некоторые другие, фараонова собака сохраняет преданных поклонников, ценящих её уникальную историю, внешний вид и характер. Примечательно, что эта порода является национальной собакой Мальты, отражая её культурное значение. Отличительными чертами являются способность охотиться как с помощью зрения, так и обоняния, выдающаяся скорость и уникальное 'покраснение'. Их короткая, не имеющая запаха шерсть требует минимального ухода, что делает их относительно неприхотливыми в содержании.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "20–25 kg",
+    "height": "53–63 cm",
+    "coat": "short, glossy, fine to slightly harsh",
+    "activity": "high",
+    "trainability": "moderate",
+    "grooming": "minimal; weekly brushing",
+    "lifespan": "11–14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "20–25 кг",
+    "рост": "53–63 см",
+    "шерсть": "короткая, блестящая, от тонкой до слегка жестковатой",
+    "активность": "высокая",
+    "обучаемость": "средняя",
+    "уход": "минимальный; еженедельное расчесывание",
+    "продолжительность жизни": "11–14 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Blushes when excited",
+      "Hunts by sight and scent",
+      "High energy levels",
+      "Sociable with other dogs",
+      "Minimal grooming needs"
+    ],
+    "summary": "Pharaoh Hounds are intelligent, friendly, and playful dogs with a strong prey drive and a sociable nature.",
+    "with_children": "Generally patient and gentle, making them suitable companions for children when properly socialized.",
+    "with_family": "They are affectionate and loyal, forming strong bonds with family members and enjoying interactive play.",
+    "with_other_pets": "Due to their hunting instincts, caution is advised around small animals; early socialization can help mitigate prey drive.",
+    "with_strangers": "Typically friendly but may be reserved; proper introductions help them warm up to new people."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Фараоновы собаки умны, дружелюбны и игривы, обладают сильным охотничьим инстинктом и общительным характером.",
+    "с семьёй": "Они ласковы и преданны, формируют крепкие связи с членами семьи и любят совместные игры.",
+    "с детьми": "Обычно терпеливы и нежны, что делает их подходящими компаньонами для детей при правильной социализации.",
+    "с другими животными": "Из-за охотничьих инстинктов рекомендуется осторожность с мелкими животными; ранняя социализация может помочь снизить инстинкт преследования.",
+    "с незнакомцами": "Обычно дружелюбны, но могут быть сдержанными; правильные знакомства помогают им привыкнуть к новым людям.",
+    "особые черты": [
+      "Краснеют при возбуждении",
+      "Охотятся с помощью зрения и обоняния",
+      "Высокий уровень энергии",
+      "Общительны с другими собаками",
+      "Минимальные потребности в уходе"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hypothyroidism",
+      "Patellar luxation",
+      "Progressive Retinal Atrophy (PRA)",
+      "Allergies",
+      "Sensitivity to anesthesia"
+    ],
+    "prevention_tips": [
+      "Regular thyroid function tests",
+      "Routine orthopedic evaluations",
+      "Annual eye examinations",
+      "Monitor for signs of allergies",
+      "Inform veterinarians of anesthesia sensitivity"
+    ],
+    "summary": "Pharaoh Hounds are generally healthy but may be prone to certain conditions; regular veterinary care is essential.",
+    "vet_checkups": "Annual checkups recommended; more frequent if health issues arise."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Фараоновы собаки в целом здоровы, но могут быть склонны к определённым заболеваниям; регулярный ветеринарный уход необходим.",
+    "распространённые проблемы": [
+      "Гипотиреоз",
+      "Вывих надколенника",
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Аллергии",
+      "Чувствительность к анестезии"
+    ],
+    "советы по профилактике": [
+      "Регулярные тесты на функцию щитовидной железы",
+      "Плановые ортопедические осмотры",
+      "Ежегодные обследования глаз",
+      "Мониторинг признаков аллергий",
+      "Информирование ветеринаров о чувствительности к анестезии"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры; более частые при наличии проблем со здоровьем."
+  },
+  "care": {
+    "behavior": "Provide daily physical and mental stimulation to satisfy their high energy and intelligence.",
+    "description": "Pharaoh Hounds require regular exercise, minimal grooming, and attentive health monitoring to thrive.",
+    "grooming": "Weekly brushing is sufficient; bathe only when necessary.",
+    "health": "Maintain regular veterinary visits and monitor for breed-specific health concerns.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level; monitor weight to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Фараоновы собаки требуют регулярных физических нагрузок, минимального ухода за шерстью и внимательного мониторинга здоровья для полноценной жизни.",
+    "поведение и характер": "Обеспечьте ежедневную физическую и умственную стимуляцию для удовлетворения их высокой энергии и интеллекта.",
+    "здоровье и профилактика": "Поддерживайте регулярные визиты к ветеринару и следите за специфическими для породы проблемами со здоровьем.",
+    "груминг и уход": "Еженедельное расчесывание достаточно; купание только при необходимости.",
+    "питание и активность": "Кормите сбалансированным рационом, соответствующим их возрасту, размеру и уровню активности; контролируйте вес для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Pharaoh Hounds good family pets?",
+      "answer": "Yes, they are affectionate and bond well with family members, making them excellent companions."
+    },
+    {
+      "question": "Do Pharaoh Hounds require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and need daily exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Pharaoh Hounds easy to train?",
+      "answer": "They are intelligent but can be independent; consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "Do Pharaoh Hounds get along with other pets?",
+      "answer": "They can coexist with other dogs but may have a strong prey drive towards small animals; early socialization is key."
+    },
+    {
+      "question": "How often do Pharaoh Hounds need grooming?",
+      "answer": "Their short coat requires minimal grooming; weekly brushing is typically sufficient."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Фараоновы собаки подходят для семей?",
+      "ответ": "Да, они ласковы и хорошо привязываются к членам семьи, что делает их отличными компаньонами."
+    },
+    {
+      "вопрос": "Фараоновы собаки требуют много физических нагрузок?",
+      "ответ": "Да, у них высокий уровень энергии, и им необходимы ежедневные упражнения для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Фараоновы собаки легко поддаются дрессировке?",
+      "ответ": "Они умны, но могут быть независимыми; последовательная дрессировка с положительным подкреплением эффективна."
+    },
+    {
+      "вопрос": "Фараоновы собаки ладят с другими животными?",
+      "ответ": "Они могут уживаться с другими собаками, но могут иметь сильный охотничий инстинкт по отношению к мелким животным; ранняя социализация важна."
+    },
+    {
+      "вопрос": "Как часто фараоновы собаки нуждаются в уходе за шерстью?",
+      "ответ": "Их короткая шерсть требует минимального ухода; обычно достаточно еженедельного расчесывания."
+    }
+  ],
+  "sources": [
+    "https://www.purina.com/dogs/dog-breeds/pharaoh-hound",
+    "https://en.wikipedia.org/wiki/Pharaoh_Hound",
+    "https://www.westminsterkennelclub.org/breed/pharaoh-hound/",
+    "https://www.petmd.com/dog/breeds/pharaoh-hound",
+    "https://www.hillspet.com/dog-care/dog-breeds/pharaoh-hound",
+    "https://ru.wikipedia.org/wiki/Фараонова_собака",
+    "https://royalcanin.ru/dog-breed/pharaoh-hound",
+    "https://www.purina.ru/find-a-pet/dog-breeds/faraonova-sobaka"
+  ]
+}

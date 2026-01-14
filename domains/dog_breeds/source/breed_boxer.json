@@ -1,0 +1,84 @@
+{
+  "id": "boxer",
+  "name": "Boxer",
+  "full_description": "<p>The Boxer is a medium to large-sized breed that originated in Germany during the late 19th century. Developed from the now-extinct Bullenbeisser and the English Bulldog, Boxers were initially bred for hunting large game such as boar and bison. Their strong, muscular build and tenacious nature made them adept at holding prey until hunters arrived. Over time, their roles expanded to include guarding, military work, and companionship. Physically, Boxers are characterized by a square, well-proportioned body with a deep chest and strong limbs. They possess a distinctive head with a broad, blunt muzzle and a slightly upturned nose. Their expressive, dark eyes and naturally floppy ears contribute to their alert and intelligent expression. The breed's short, smooth coat comes in fawn or brindle, often with white markings. Boxers are renowned for their playful, energetic, and affectionate temperament. They form strong bonds with their families and are known for their protective instincts, making them excellent watchdogs. Their intelligence and eagerness to please facilitate training, though they can exhibit a stubborn streak. Historically, Boxers were utilized for various working roles, including hunting, guarding, and military service. Their strength, agility, and loyalty made them valuable assets in these capacities. In contemporary times, Boxers are popular family companions and excel in dog sports such as agility, obedience, and rally. Their friendly disposition and versatility contribute to their enduring popularity worldwide. Notable characteristics of the Boxer include their boundless energy, playful nature, and distinctive 'boxing' behavior, where they use their front paws in a manner reminiscent of a boxer's sparring. Their short coat requires minimal grooming, and they are known for their expressive faces and strong, athletic build.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "25-36 kg",
+    "height": "54-62 cm",
+    "coat": "short, smooth, tight-fitting",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "minimal; regular brushing",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "Boxers are energetic, playful, and affectionate dogs known for their strong bonds with family members and protective instincts.",
+    "with_family": "They are loyal and form close attachments, often seeking attention and companionship from their human family.",
+    "with_children": "Boxers are generally patient and gentle with children, making them excellent family pets.",
+    "with_other_pets": "With proper socialization, they can coexist well with other pets, though their playful nature may be overwhelming for some animals.",
+    "with_strangers": "They tend to be wary of strangers, displaying protective behavior, but can be friendly once properly introduced.",
+    "special_traits": [
+      "Playful and energetic",
+      "Protective instincts",
+      "Strong family bonds",
+      "Intelligent and trainable",
+      "Expressive and alert"
+    ]
+  },
+  "health": {
+    "summary": "Boxers are generally healthy but are predisposed to certain conditions, including heart diseases, cancers, and joint issues.",
+    "common_issues": [
+      "Boxer cardiomyopathy (ARVC)",
+      "Aortic stenosis",
+      "Hip dysplasia",
+      "Mast cell tumors",
+      "Degenerative myelopathy",
+      "Gastric dilatation-volvulus (bloat)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Balanced diet and regular exercise",
+      "Early screening for heart conditions",
+      "Monitoring for signs of cancer",
+      "Preventive measures against bloat"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with known health issues."
+  },
+  "care": {
+    "description": "Boxers require regular exercise, mental stimulation, and minimal grooming to maintain their health and happiness.",
+    "behavior": "Consistent training and socialization are essential to manage their energy and ensure well-mannered behavior.",
+    "health": "Regular health screenings and preventive care are crucial due to their predisposition to certain health conditions.",
+    "grooming": "Their short coat requires minimal grooming; regular brushing helps maintain coat health and reduce shedding.",
+    "nutrition": "A balanced diet tailored to their age, size, and activity level supports overall health and energy needs."
+  },
+  "faq": [
+    {
+      "question": "Are Boxers good with children?",
+      "answer": "Yes, Boxers are known for their gentle and playful nature with children, making them excellent family pets."
+    },
+    {
+      "question": "How much exercise does a Boxer need?",
+      "answer": "Boxers require at least 30 minutes to 2 hours of daily exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Boxers require a lot of grooming?",
+      "answer": "No, their short coat requires minimal grooming; regular brushing is sufficient to keep them clean and healthy."
+    },
+    {
+      "question": "Are Boxers prone to health issues?",
+      "answer": "Yes, they are predisposed to certain conditions like heart diseases and cancers; regular vet check-ups are important."
+    },
+    {
+      "question": "Can Boxers live in apartments?",
+      "answer": "Yes, with sufficient exercise and mental stimulation, Boxers can adapt well to apartment living."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/boxer",
+    "https://en.wikipedia.org/wiki/Boxer_(dog_breed)",
+    "https://www.webmd.com/pets/dogs/what-to-know-boxers",
+    "https://www.adoptapet.com/dog-breeds/boxer",
+    "https://houndsy.zendesk.com/hc/en-us/articles/38948300955675-What-Are-the-Most-Common-Boxer-Health-Problems-and-How-Can-I-Keep-My-Boxer-Healthy"
+  ]
+}

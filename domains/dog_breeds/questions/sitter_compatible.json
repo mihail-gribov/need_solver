@@ -1,0 +1,84 @@
+{
+  "need_id": "sitter_compatible",
+  "formula": "sitter_compatibility & stranger_friendly & adaptability",
+  "formula_reasoning": "Высокая sitter_compatibility означает, что порода легко остаётся с другими людьми. Дополнительно важна дружелюбность к незнакомцам (stranger_friendly) и способность адаптироваться к смене окружения (adaptability) — это снижает стресс при передаче собаки другому человеку.",
+  "questions": [
+    {
+      "id": "sitter_compatible_q1",
+      "text": "Бывают ли у вас ситуации, когда собаку нужно оставить на несколько дней у знакомых, родственников или в гостинице для животных?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = собака часто остаётся у других людей, нужна совместимость. Нет = собака всегда с хозяином, потребность отсутствует."
+    },
+    {
+      "id": "sitter_compatible_q2",
+      "text": "Планируете ли вы иногда уезжать в командировки или отпуск, когда собаку придётся временно оставить у другого человека?",
+      "weight": 0.9,
+      "style": "situational",
+      "verification": "Да = важна лёгкая адаптация к новым людям. Нет = собака всегда с вами, совместимость не нужна."
+    },
+    {
+      "id": "sitter_compatible_q3",
+      "text": "В вашей семье или среди друзей есть люди, которые смогут присмотреть за собакой, если понадобится?",
+      "weight": 0.7,
+      "style": "indirect",
+      "verification": "Да = есть возможность оставить собаку. Нет = скорее всего, собака не будет оставаться у других."
+    },
+    {
+      "id": "sitter_compatible_q4",
+      "text": "Вы иногда приглашаете в дом няню для животных или планируете пользоваться услугами передержки?",
+      "weight": 0.85,
+      "style": "direct",
+      "verification": "Да = собака будет часто контактировать с другими людьми, совместимость важна. Нет = собака всегда с хозяином."
+    },
+    {
+      "id": "sitter_compatible_q5",
+      "text": "У вас бывает, что ваш рабочий график меняется, и собаку нужно оставить у кого-то ещё на день или дольше?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = собака должна легко оставаться с другими. Нет = всегда под вашим присмотром."
+    }
+  ],
+  "need_name": "Sitter Compatible",
+  "need_description": "Easily stays with other people",
+  "block": "daily_schedule",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

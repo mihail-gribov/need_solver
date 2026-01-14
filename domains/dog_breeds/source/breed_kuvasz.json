@@ -1,0 +1,82 @@
+{
+  "id": "kuvasz",
+  "name": "Kuvasz",
+  "full_description": "<p>The Kuvasz is an ancient Hungarian breed renowned for its role as a livestock guardian and protector. Originating from the Carpathian Basin, the Kuvasz was brought by the Magyar tribes during their conquest in the late 9th century. Its name is believed to derive from the Turkish word 'Kawasz,' meaning 'armed guard' or 'protector.' Historically, the Kuvasz served as a royal guard dog and hunting companion, notably favored by King Matthias Corvinus in the 15th century. The breed faced near extinction during World War II but has since been revitalized through dedicated breeding efforts.</p>\n<p>Physically, the Kuvasz is a large, robust dog with a well-proportioned, muscular build. Males typically stand between 28 to 30 inches (71-76 cm) at the withers and weigh between 100 to 115 pounds (48-62 kg), while females are slightly smaller, standing 26 to 28 inches (66-71 cm) tall and weighing 70 to 90 pounds (37-50 kg). The breed's most distinctive feature is its dense, double-layered white coat, which can range from straight to wavy. This coat provides protection against harsh weather conditions and predators. The skin is slate-gray, and the eyes are almond-shaped and dark brown, conveying a keen and intelligent expression.</p>\n<p>Temperamentally, the Kuvasz is courageous, intelligent, and independent. Bred to make decisions while guarding livestock, they possess a strong protective instinct and are naturally wary of strangers. However, they are deeply loyal and affectionate with their families, forming strong bonds with those they trust. Their independent nature requires consistent, firm training from an early age to establish boundaries and ensure they become well-mannered companions.</p>\n<p>Originally, the Kuvasz was utilized to guard livestock such as sheep and cattle, protecting them from predators and thieves. Their keen senses and fearless nature made them excellent at this task. In modern times, while some still serve in this traditional role, many Kuvasz have adapted to being family companions and property guardians. Their protective instincts remain strong, making them vigilant watchdogs. Despite their working heritage, they can thrive in family settings when provided with proper training, socialization, and sufficient physical and mental stimulation.</p>\n<p>Notable characteristics of the Kuvasz include their unwavering loyalty, intelligence, and protective nature. They are known for their ability to make independent decisions, a trait developed from their history of guarding livestock without direct human supervision. Their striking white coat not only serves a functional purpose but also adds to their majestic appearance. While they are affectionate with their families, their reserved demeanor towards strangers underscores their role as natural protectors.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: 100-115 lb (48-62 kg); Females: 70-90 lb (37-50 kg)",
+    "height": "Males: 28-30 in (71-76 cm); Females: 26-28 in (66-71 cm)",
+    "coat": "Dense, double-layered, white; can be straight or wavy",
+    "activity": "Moderate to high; requires regular exercise",
+    "trainability": "Moderate; intelligent but independent, requires consistent training",
+    "grooming": "Regular brushing to manage shedding; minimal bathing required",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "The Kuvasz is a loyal and protective breed, known for its intelligence and independence. They form strong bonds with their families and are naturally wary of strangers, making them excellent guardians.",
+    "with_family": "Affectionate and devoted, the Kuvasz thrives on close relationships with family members and is known for its unwavering loyalty.",
+    "with_children": "Generally good with children, especially when raised with them, but their large size and protective nature necessitate supervision during interactions.",
+    "with_other_pets": "Can coexist with other pets if properly socialized from a young age; however, their strong guarding instincts may lead to dominance behaviors.",
+    "with_strangers": "Naturally reserved and cautious around strangers; early socialization is essential to prevent overprotectiveness.",
+    "special_traits": [
+      "Independent decision-maker",
+      "Strong protective instinct",
+      "Loyal and affectionate with family",
+      "Reserved with strangers",
+      "Intelligent and trainable with consistent guidance"
+    ]
+  },
+  "health": {
+    "summary": "The Kuvasz is generally a healthy and robust breed with a lifespan of 10-12 years. However, they are prone to certain hereditary health issues that owners should be aware of.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Bloat (gastric torsion)",
+      "Progressive retinal atrophy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight through proper diet and exercise",
+      "Provide a balanced diet appropriate for large breeds",
+      "Avoid overfeeding to prevent obesity",
+      "Monitor for signs of joint issues and seek early intervention"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with health concerns."
+  },
+  "care": {
+    "description": "Caring for a Kuvasz involves regular exercise, consistent training, and routine grooming to maintain their health and well-being.",
+    "behavior": "Early socialization and firm, consistent training are essential to manage their independent nature and strong protective instincts.",
+    "health": "Regular veterinary care, a balanced diet, and monitoring for common health issues are crucial for maintaining their health.",
+    "grooming": "Regular brushing is necessary to manage shedding and prevent matting; bathing should be done as needed, but not excessively.",
+    "nutrition": "Provide a high-quality diet formulated for large breeds; monitor food intake to prevent obesity and support joint health."
+  },
+  "faq": [
+    {
+      "question": "Is the Kuvasz suitable for first-time dog owners?",
+      "answer": "Due to their independent nature and strong protective instincts, the Kuvasz is best suited for experienced dog owners who can provide firm, consistent training."
+    },
+    {
+      "question": "How much exercise does a Kuvasz require?",
+      "answer": "The Kuvasz requires moderate to high levels of exercise, including daily walks and opportunities for free play in a secure area."
+    },
+    {
+      "question": "Does the Kuvasz get along with other pets?",
+      "answer": "With proper socialization from a young age, the Kuvasz can coexist with other pets, though their guarding instincts may lead to dominance behaviors."
+    },
+    {
+      "question": "How often should I groom my Kuvasz?",
+      "answer": "Regular brushing several times a week is recommended to manage shedding and prevent matting; bathing should be done as needed."
+    },
+    {
+      "question": "Is the Kuvasz good with children?",
+      "answer": "The Kuvasz is generally good with children, especially when raised with them, but supervision is necessary due to their large size and protective nature."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/dog-breeds/kuvasz/",
+    "https://kuvaszclubofamerica.org/",
+    "https://www.fci.be/en/nomenclature/KUVASZ-54.html",
+    "https://www.hillspet.com/dog-care/dog-breeds/kuvasz",
+    "https://en.wikipedia.org/wiki/Kuvasz"
+  ]
+}

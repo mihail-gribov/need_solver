@@ -1,0 +1,84 @@
+{
+  "need_id": "tolerates_daily_absence",
+  "formula": "alone_tolerance & ~separation_anxiety_risk & independence",
+  "formula_reasoning": "Breeds that can tolerate daily absence combine high alone_tolerance (comfortably stay alone), low separation_anxiety_risk (unlikely to develop stress when left), and high independence (less dependent on constant human interaction).",
+  "questions": [
+    {
+      "id": "tolerates_daily_absence_q1",
+      "text": "Бывает ли так, что вы уходите из дома на полный рабочий день и дома никого не остаётся?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = собака будет часто одна, нужно учитывать. Нет = в доме почти всегда кто-то есть."
+    },
+    {
+      "id": "tolerates_daily_absence_q2",
+      "text": "Ваша работа или учёба требует ежедневного присутствия вне дома по нескольку часов подряд?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = длительное отсутствие. Нет = много времени дома."
+    },
+    {
+      "id": "tolerates_daily_absence_q3",
+      "text": "Есть ли у вас возможность брать собаку с собой на работу или учёбу?",
+      "weight": 0.6,
+      "style": "direct",
+      "verification": "Да = собака не остаётся одна. Нет = остаётся одна дома."
+    },
+    {
+      "id": "tolerates_daily_absence_q4",
+      "text": "Бывает ли, что ваши поездки или дела заставляют вас оставлять квартиру/дом пустой днём?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = собака периодически одна. Нет = почти всегда кто-то дома."
+    },
+    {
+      "id": "tolerates_daily_absence_q5",
+      "text": "В вашей семье есть взрослые, которые постоянно находятся дома днём?",
+      "weight": 0.7,
+      "style": "direct",
+      "verification": "Да = кто-то всегда дома, собака не остаётся одна. Нет = собака будет одна."
+    }
+  ],
+  "need_name": "Tolerates Daily Absence",
+  "need_description": "Tolerates daily solitude",
+  "block": "daily_schedule",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

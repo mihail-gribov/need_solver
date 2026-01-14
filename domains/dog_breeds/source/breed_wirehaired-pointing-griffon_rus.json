@@ -1,0 +1,157 @@
+{
+  "id": "wirehaired-pointing-griffon",
+  "name": "Wirehaired Pointing Griffon",
+  "name_rus": "Гриффон Кортальса",
+  "full_description": "<p>The Wirehaired Pointing Griffon, also known as the Korthals Griffon, is a versatile hunting dog developed in the late 19th century by Dutch breeder Eduard Korthals. Aiming to create an all-terrain hunting companion, Korthals selectively bred dogs with exceptional scenting abilities, strength, endurance, and water-resistant coats. The resulting breed excels in both pointing and retrieving game on land and in water. Physically, the Wirehaired Pointing Griffon is a medium-sized dog with a noble, square-shaped head and a slightly longer-than-tall body proportion. Males typically stand 22 to 24 inches tall, while females range from 20 to 22 inches. Their distinctive double coat consists of a harsh, wiry outer layer and a soft, dense undercoat, providing protection against harsh weather and rough terrain. The coat is commonly steel gray with brown markings, and the breed is known for its expressive facial furnishings, including bushy eyebrows and a prominent mustache. Temperamentally, Wirehaired Pointing Griffons are friendly, eager, and quick-witted. They form strong bonds with their families and are known for their cooperative nature, making them relatively easy to train. Their original purpose as versatile gundogs required them to work closely with hunters, a trait that translates into a strong desire to please their owners. In the field, they are renowned for their exceptional scenting abilities and adaptability to various terrains, from dense forests to wetlands. In modern times, the Wirehaired Pointing Griffon continues to be a favored companion for hunters due to its versatility and reliability. While not as widely popular as some other breeds, it has a dedicated following among enthusiasts who appreciate its unique qualities. Notably, the breed's adaptability and friendly nature have also made it a cherished family pet for active households. Distinctive characteristics of the Wirehaired Pointing Griffon include its unkempt appearance due to the wiry coat, webbed toes that aid in swimming, and a strong, muscular build that reflects its working heritage. These features, combined with its amiable disposition and intelligence, contribute to the breed's reputation as the 'supreme gundog.'</p>",
+  "full_description_rus": "<p>Гриффон Кортальса, также известный как французская жесткошёрстная легавая, — универсальная охотничья собака, выведенная в конце XIX века голландским заводчиком Эдуардом Кортальсом. Стремясь создать идеального охотничьего компаньона, способного работать в любых условиях, Кортальс проводил тщательный отбор собак с выдающимися обонятельными способностями, силой, выносливостью и водоотталкивающей шерстью. В результате получилась порода, превосходно справляющаяся как с поиском, так и с подачей дичи на суше и в воде. Физически гриффон Кортальса — собака среднего размера с благородной, квадратной головой и корпусом, немного длиннее высоты в холке. Кобели обычно достигают роста 56–61 см, суки — 51–56 см. Их характерная двойная шерсть состоит из жёсткого, грубого наружного слоя и мягкого, плотного подшёрстка, обеспечивающих защиту от неблагоприятных погодных условий и сложного рельефа. Окрас чаще всего стальной серый с коричневыми отметинами. Порода известна выразительными чертами лица, включая густые брови и заметные усы. По темпераменту гриффоны Кортальса дружелюбны, энергичны и сообразительны. Они формируют крепкие связи со своими семьями и известны своим кооперативным характером, что делает их относительно лёгкими в обучении. Их первоначальное предназначение как универсальных охотничьих собак требовало тесного сотрудничества с охотниками, что проявляется в сильном желании угодить владельцу. В поле они славятся исключительными обонятельными способностями и адаптивностью к различным ландшафтам, от густых лесов до болот. В современное время гриффон Кортальса продолжает быть любимым компаньоном для охотников благодаря своей универсальности и надёжности. Хотя порода не столь широко распространена, как некоторые другие, она имеет преданных поклонников, ценящих её уникальные качества. Примечательно, что адаптивность и дружелюбный характер сделали её также любимым семейным питомцем для активных домохозяйств. Отличительными чертами гриффона Кортальса являются его неопрятный вид из-за жёсткой шерсти, перепончатые лапы, помогающие при плавании, и крепкое, мускулистое телосложение, отражающее его рабочее наследие. Эти особенности, в сочетании с дружелюбным нравом и интеллектом, способствуют репутации породы как 'высшей охотничьей собаки'.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "35-70 pounds",
+    "height": "20-24 inches",
+    "coat": "harsh, wiry outer coat with a soft, dense undercoat",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; occasional hand-stripping",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "16-32 кг",
+    "рост": "51-61 см",
+    "шерсть": "жёсткая, грубая наружная с мягким, плотным подшёрстком",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчёсывание; периодический тримминг",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Versatile hunting abilities",
+      "Strong desire to please",
+      "Adaptable to various terrains",
+      "Affectionate with family",
+      "Intelligent and quick-witted"
+    ],
+    "summary": "Wirehaired Pointing Griffons are friendly, intelligent, and eager to please, making them excellent companions for active families and hunters alike.",
+    "with_children": "Generally good with children, they are patient and gentle, making them suitable playmates for kids.",
+    "with_family": "They form strong bonds with their families and thrive on companionship, often displaying affectionate and loyal behavior.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets, though their hunting instincts may lead them to chase smaller animals.",
+    "with_strangers": "Typically reserved but not aggressive towards strangers, they may be cautious initially but warm up with proper introductions."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Гриффоны Кортальса дружелюбны, умны и стремятся угодить, что делает их отличными компаньонами для активных семей и охотников.",
+    "с семьёй": "Они формируют крепкие связи со своими семьями и процветают в компании, часто проявляя привязанность и преданность.",
+    "с детьми": "Обычно хорошо ладят с детьми, проявляя терпение и мягкость, что делает их подходящими партнёрами для игр.",
+    "с другими животными": "При правильной социализации могут мирно сосуществовать с другими питомцами, хотя их охотничьи инстинкты могут побуждать их преследовать мелких животных.",
+    "с незнакомцами": "Обычно сдержанны, но не агрессивны к незнакомцам; могут быть осторожны вначале, но быстро привыкают при правильном знакомстве.",
+    "особые черты": [
+      "Универсальные охотничьи способности",
+      "Сильное желание угодить",
+      "Адаптивность к различным ландшафтам",
+      "Привязанность к семье",
+      "Интеллект и сообразительность"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Eye disorders",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine ear cleaning to prevent infections",
+      "Annual eye examinations",
+      "Balanced diet to support overall health"
+    ],
+    "summary": "Wirehaired Pointing Griffons are generally healthy dogs with a lifespan of 12 to 15 years, though they may be prone to certain hereditary conditions.",
+    "vet_checkups": "Annual checkups recommended; more frequent visits for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Гриффоны Кортальса в целом здоровы и живут 12–15 лет, хотя могут быть склонны к некоторым наследственным заболеваниям.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Глазные заболевания",
+      "Ушные инфекции"
+    ],
+    "советы по профилактике": [
+      "Регулярные физические нагрузки для поддержания здорового веса",
+      "Периодическая чистка ушей для предотвращения инфекций",
+      "Ежегодные осмотры глаз",
+      "Сбалансированное питание для поддержания общего здоровья"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры; более частые визиты для пожилых собак или тех, у кого есть проблемы со здоровьем."
+  },
+  "care": {
+    "behavior": "They thrive on human interaction and should not be left alone for extended periods; regular training sessions help keep their minds engaged.",
+    "description": "Wirehaired Pointing Griffons require regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "grooming": "Brush their coat weekly to prevent matting and remove debris; occasional hand-stripping may be necessary to maintain coat texture.",
+    "health": "Maintain a consistent exercise routine and monitor for signs of common health issues; provide a balanced diet appropriate for their activity level.",
+    "nutrition": "Feed a high-quality diet formulated for active breeds; monitor food intake to prevent obesity, especially in less active individuals."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Гриффоны Кортальса требуют регулярных физических нагрузок, умственной стимуляции и ухода за шерстью для поддержания здоровья и счастья.",
+    "поведение и характер": "Они процветают в общении с людьми и не должны оставаться в одиночестве на длительное время; регулярные тренировки помогают поддерживать их умственную активность.",
+    "здоровье и профилактика": "Поддерживайте регулярный режим физических упражнений и следите за признаками распространённых проблем со здоровьем; обеспечьте сбалансированное питание, соответствующее их уровню активности.",
+    "груминг и уход": "Расчёсывайте их шерсть еженедельно, чтобы предотвратить спутывание и удалить мусор; периодический тримминг может быть необходим для поддержания текстуры шерсти.",
+    "питание и активность": "Кормите высококачественным кормом, разработанным для активных пород; контролируйте потребление пищи, чтобы предотвратить ожирение, особенно у менее активных особей."
+  },
+  "faq": [
+    {
+      "question": "Are Wirehaired Pointing Griffons good family pets?",
+      "answer": "Yes, they are affectionate and loyal, making them excellent companions for active families."
+    },
+    {
+      "question": "Do they require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and need regular, vigorous exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable."
+    },
+    {
+      "question": "Do they shed a lot?",
+      "answer": "They have a low-shedding coat but require regular grooming to maintain its condition."
+    },
+    {
+      "question": "Are they suitable for apartment living?",
+      "answer": "Due to their high energy levels, they are better suited to homes with ample space and access to outdoor areas."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли гриффоны Кортальса для семей с детьми?",
+      "ответ": "Да, они привязчивы и преданны, что делает их отличными компаньонами для активных семей."
+    },
+    {
+      "вопрос": "Требуют ли они много физических нагрузок?",
+      "ответ": "Да, у них высокий уровень энергии, и им необходимы регулярные, интенсивные упражнения для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Легко ли их дрессировать?",
+      "ответ": "Да, их интеллект и стремление угодить делают их очень обучаемыми."
+    },
+    {
+      "вопрос": "Сильно ли они линяют?",
+      "ответ": "У них мало линяющая шерсть, но требуется регулярный уход для поддержания её состояния."
+    },
+    {
+      "вопрос": "Подходят ли они для жизни в квартире?",
+      "ответ": "Из-за высокого уровня энергии они лучше подходят для домов с достаточным пространством и доступом к открытым территориям."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/5-things-you-didnt-know/",
+    "https://www.akc.org/dog-breeds/wirehaired-pointing-griffon/pictures",
+    "https://www.akc.org/expert-advice/dog-breeds/pointing-breeds-differences/",
+    "https://www.akc.org/sports/pointing-breeds/hunt-tests/eligibility/",
+    "https://images.akc.org/pdf/breeds/standards/WirehairedPointingGriffon.pdf",
+    "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/gundog/korthals-griffon-imp/",
+    "https://images.akc.org/pdf/gazette/july-2025.pdf",
+    "https://ru.wikipedia.org/wiki/Гриффон_Кортальса",
+    "https://royalcanin.ru/dog-breed/wire-haired-pointing-griffon-korthals",
+    "https://petsi.net/dog-breeds/griffon-kortalsa"
+  ]
+}

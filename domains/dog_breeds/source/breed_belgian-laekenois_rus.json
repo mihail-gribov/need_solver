@@ -1,0 +1,159 @@
+{
+  "id": "belgian-laekenois",
+  "name": "Belgian Laekenois",
+  "name_rus": "Бельгийская овчарка лакенуа",
+  "full_description": "<p>The Belgian Laekenois, one of the four varieties of Belgian Shepherds, originates from Belgium and is named after the Château de Laeken. Developed primarily for guarding linen drying in fields and herding livestock, this breed has a rich history dating back to the Middle Ages. Physically, the Laekenois is a medium to large-sized dog, standing between 22 to 26 inches tall and weighing approximately 55 to 65 pounds. It possesses a distinctive rough, wiry coat that is reddish fawn with black shading, particularly around the muzzle and tail. The breed's square, athletic build exudes both elegance and strength. Temperamentally, the Laekenois is intelligent, alert, and naturally protective. It forms strong bonds with its family, displaying loyalty and affection, yet remains cautious around strangers. Historically utilized for herding and guarding, the breed's working abilities are evident in its agility and responsiveness. In modern times, while still relatively rare, the Laekenois is gaining recognition as both a working dog and a devoted family companion. Notable characteristics include its keen intelligence, high energy levels, and a strong desire to work, making it well-suited for active households.</p>",
+  "full_description_rus": "<p>Бельгийская овчарка лакенуа — одна из четырёх разновидностей бельгийских овчарок, наряду с грюнендалем, тервюреном и малинуа. Эта порода получила своё название от замка Лакен в Бельгии. Изначально лакенуа использовались для охраны полей, где сушился лён, а также для выпаса скота. История породы восходит к Средневековью. Физически лакенуа — собака среднего или крупного размера, ростом от 56 до 66 см и весом около 27,5–28,5 кг. Отличительной чертой является жёсткая, грубая шерсть рыжевато-палевого окраса с чёрными оттенками, особенно на морде и хвосте. Квадратное, атлетичное телосложение придаёт породе элегантность и силу. По характеру лакенуа умны, бдительны и естественно защищают свою семью. Они формируют крепкие связи с хозяевами, проявляя лояльность и привязанность, но остаются осторожными с незнакомцами. Исторически использовавшиеся для пастьбы и охраны, эти качества проявляются в их ловкости и отзывчивости. В современном мире, хотя порода остаётся редкой, лакенуа набирают популярность как рабочие собаки и преданные семейные компаньоны. Их высокий интеллект, энергичность и стремление к работе делают их идеальными для активных семей.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "55-65 pounds",
+    "height": "22-26 inches",
+    "coat": "rough, wiry, reddish fawn with black shading",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "weekly brushing; occasional hand-stripping",
+    "lifespan": "10-14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "27,5–28,5 кг",
+    "рост": "56–66 см",
+    "шерсть": "жёсткая, грубая, рыжевато-палевая с чёрными оттенками",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "еженедельное расчёсывание; периодический тримминг",
+    "продолжительность жизни": "10–14 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Highly intelligent",
+      "Energetic and active",
+      "Strong protective instincts",
+      "Loyal and affectionate with family",
+      "Requires consistent training and socialization"
+    ],
+    "summary": "The Belgian Laekenois is an intelligent, alert, and protective breed that forms strong bonds with its family while remaining cautious around strangers.",
+    "with_children": "With proper socialization, the Laekenois can be good with children, though supervision is recommended due to its protective nature.",
+    "with_family": "Affectionate and loyal, the Laekenois thrives on close relationships with family members and is naturally protective of them.",
+    "with_other_pets": "Early socialization is key; the Laekenois can coexist with other pets but may display dominance if not properly introduced.",
+    "with_strangers": "Naturally wary of strangers, the Laekenois requires early socialization to prevent excessive suspicion or aggression."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Бельгийская овчарка лакенуа — умная, бдительная и защитная порода, которая формирует крепкие связи с семьёй, оставаясь осторожной с незнакомцами.",
+    "с семьёй": "Преданная и лояльная, лакенуа стремится к тесным отношениям с членами семьи и естественно защищает их.",
+    "с детьми": "При правильной социализации лакенуа может хорошо ладить с детьми, однако рекомендуется присмотр из-за её защитного характера.",
+    "с другими животными": "Ранняя социализация важна; лакенуа может уживаться с другими животными, но может проявлять доминирование при неправильном знакомстве.",
+    "с незнакомцами": "Естественно настороженная к незнакомцам, лакенуа требует ранней социализации, чтобы предотвратить чрезмерную подозрительность или агрессию.",
+    "особые черты": [
+      "Высокий интеллект",
+      "Энергичность и активность",
+      "Сильные защитные инстинкты",
+      "Лояльность и привязанность к семье",
+      "Требует последовательной дрессировки и социализации"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Progressive retinal atrophy",
+      "Epilepsy",
+      "Skin allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a balanced diet",
+      "Provide adequate exercise",
+      "Early health screenings",
+      "Responsible breeding practices"
+    ],
+    "summary": "The Belgian Laekenois is generally a healthy breed but may be prone to certain hereditary conditions.",
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Бельгийская овчарка лакенуа в целом здорова, но может быть предрасположена к некоторым наследственным заболеваниям.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Прогрессирующая атрофия сетчатки",
+      "Эпилепсия",
+      "Кожные аллергии"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Сбалансированное питание",
+      "Достаточная физическая активность",
+      "Ранние медицинские обследования",
+      "Ответственное разведение"
+    ],
+    "рекомендуемые осмотры": "Ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "behavior": "Due to its high energy and intelligence, the Laekenois benefits from structured training and ample mental stimulation to prevent boredom and destructive behaviors.",
+    "description": "The Belgian Laekenois requires attentive care, including regular exercise, consistent training, and routine grooming to maintain its health and well-being.",
+    "grooming": "Weekly brushing and occasional hand-stripping are necessary to maintain the coat's texture and health; excessive bathing should be avoided to preserve natural oils.",
+    "health": "Regular health screenings and preventive care are essential to monitor and address potential hereditary conditions common in the breed.",
+    "nutrition": "A balanced diet appropriate for a high-energy, medium to large-sized dog is crucial; portion control and regular feeding schedules help maintain optimal health."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Бельгийская овчарка лакенуа требует внимательного ухода, включая регулярные физические нагрузки, последовательную дрессировку и систематический груминг для поддержания здоровья и благополучия.",
+    "поведение и характер": "Из-за высокой энергии и интеллекта лакенуа нуждается в структурированной дрессировке и достаточной умственной стимуляции, чтобы предотвратить скуку и разрушительное поведение.",
+    "здоровье и профилактика": "Регулярные медицинские обследования и профилактический уход необходимы для мониторинга и предотвращения потенциальных наследственных заболеваний, характерных для породы.",
+    "груминг и уход": "Еженедельное расчёсывание и периодический тримминг необходимы для поддержания текстуры и здоровья шерсти; чрезмерное купание следует избегать, чтобы сохранить натуральные масла.",
+    "питание и активность": "Сбалансированное питание, соответствующее высокоэнергетической собаке среднего или крупного размера, имеет решающее значение; контроль порций и регулярный режим кормления помогают поддерживать оптимальное здоровье."
+  },
+  "faq": [
+    {
+      "question": "Is the Belgian Laekenois suitable for first-time dog owners?",
+      "answer": "Due to its intelligence and energy, the Laekenois is best suited for experienced owners who can provide consistent training and ample exercise."
+    },
+    {
+      "question": "How much exercise does a Belgian Laekenois need?",
+      "answer": "The breed requires at least 1-2 hours of vigorous activity daily to stay healthy and content."
+    },
+    {
+      "question": "Does the Belgian Laekenois shed a lot?",
+      "answer": "The Laekenois sheds moderately year-round, with heavier shedding during seasonal changes; regular grooming helps manage this."
+    },
+    {
+      "question": "Is the Belgian Laekenois good with children?",
+      "answer": "With proper socialization, the Laekenois can be good with children, though supervision is recommended due to its protective nature."
+    },
+    {
+      "question": "What are common health issues in Belgian Laekenois?",
+      "answer": "Common health concerns include hip and elbow dysplasia, progressive retinal atrophy, epilepsy, and skin allergies."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходит ли бельгийская овчарка лакенуа для неопытных владельцев?",
+      "ответ": "Из-за своего интеллекта и энергии лакенуа лучше подходит для опытных владельцев, способных обеспечить последовательную дрессировку и достаточные физические нагрузки."
+    },
+    {
+      "вопрос": "Сколько физической активности требуется бельгийской овчарке лакенуа?",
+      "ответ": "Порода требует не менее 1–2 часов интенсивной активности ежедневно для поддержания здоровья и удовлетворения."
+    },
+    {
+      "вопрос": "Сильно ли линяет бельгийская овчарка лакенуа?",
+      "ответ": "Лакенуа линяет умеренно круглый год, с более интенсивной линькой в сезонные периоды; регулярный уход помогает справляться с этим."
+    },
+    {
+      "вопрос": "Хорошо ли бельгийская овчарка лакенуа ладит с детьми?",
+      "ответ": "При правильной социализации лакенуа может хорошо ладить с детьми, однако рекомендуется присмотр из-за её защитного характера."
+    },
+    {
+      "вопрос": "Какие распространённые проблемы со здоровьем встречаются у бельгийской овчарки лакенуа?",
+      "ответ": "К распространённым проблемам со здоровьем относятся дисплазия тазобедренного и локтевого суставов, прогрессирующая атрофия сетчатки, эпилепсия и кожные аллергии."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/newest-recognized-breed-belgian-laekenois/",
+    "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/pastoral/belgian-shepherd-dog-laekenois/",
+    "https://www.purina.co.uk/find-a-pet/dog-breeds/belgian-shepherd-laekenois",
+    "https://www.omlet.us/breeds/dogs/belgian_shepherd_dog_%28laekenois%29/",
+    "https://www.petguide.com/breeds/dog/belgian-laekenois/",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/belgian_shepherd_laekenois",
+    "https://www.pedigree.ru/porody/lakenua",
+    "https://ru.wikipedia.org/wiki/Бельгийская_овчарка"
+  ]
+}

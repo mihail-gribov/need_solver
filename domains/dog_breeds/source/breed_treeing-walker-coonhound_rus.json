@@ -1,0 +1,152 @@
+{
+  "id": "treeing-walker-coonhound",
+  "name": "Treeing Walker Coonhound",
+  "name_rus": "Древесная енотовая гончая Уолкера",
+  "full_description": "<p>The Treeing Walker Coonhound is a distinguished American breed renowned for its exceptional hunting prowess and amiable disposition. Originating in the United States during the 19th century, this breed was developed by crossing English Foxhounds with native American hounds, aiming to create a dog adept at tracking and treeing game, particularly raccoons. The breed's name reflects its primary function: 'treeing' refers to its ability to chase prey up trees, while 'Walker' honors Thomas Walker, a key figure in the breed's development. Physically, the Treeing Walker Coonhound is a medium to large-sized dog, with males standing between 22 to 27 inches and females between 20 to 25 inches at the shoulder. They typically weigh between 50 to 70 pounds. Their coat is short, dense, and glossy, providing protection against rough terrain. The breed's coloration is predominantly tricolor—white with black and tan markings—though bicolor variations are also accepted. Notable physical features include a broad skull, long, hanging ears, and large, dark eyes that convey a gentle expression. Temperamentally, Treeing Walker Coonhounds are intelligent, energetic, and affectionate. They exhibit a strong desire to please, making them relatively easy to train, though their independent nature may require consistent guidance. Their original purpose as hunting dogs endowed them with remarkable endurance and a keen sense of smell, traits that remain evident today. In contemporary settings, while they continue to excel in hunting, they have also become cherished family companions. Their friendly and sociable nature makes them well-suited to active households that can provide ample exercise and mental stimulation. Notable characteristics of the breed include their distinctive 'bugle' bark, which they use to alert hunters when game is treed, and their exceptional tracking abilities, which have earned them a reputation as one of the most reliable coonhounds.</p>",
+  "full_description_rus": "<p>Древесная енотовая гончая Уолкера — это американская порода, известная своими выдающимися охотничьими способностями и дружелюбным нравом. Порода возникла в США в XIX веке путем скрещивания английских фоксхаундов с местными американскими гончими, с целью создания собаки, способной эффективно выслеживать и загонять добычу, особенно енотов, на деревья. Название породы отражает ее основную функцию: 'treeing' означает способность загонять добычу на деревья, а 'Walker' отдает дань уважения Томасу Уолкеру, ключевой фигуре в развитии породы. Физически древесная енотовая гончая Уолкера — это собака среднего и крупного размера, с высотой в холке у кобелей от 56 до 69 см, у сук от 51 до 64 см. Вес обычно составляет от 23 до 32 кг. Шерсть короткая, плотная и блестящая, обеспечивающая защиту в сложных условиях. Окрас преимущественно триколорный — белый с черными и рыжими отметинами, хотя допускаются и двухцветные вариации. Отличительными чертами являются широкий череп, длинные свисающие уши и большие темные глаза, придающие мягкое выражение. По темпераменту древесные енотовые гончие Уолкера умны, энергичны и ласковы. Они стремятся угодить, что делает их относительно легкими в обучении, хотя их независимый характер может потребовать последовательного руководства. Первоначально выведенные как охотничьи собаки, они обладают выдающейся выносливостью и острым обонянием, что сохраняется и по сей день. В современных условиях, помимо охоты, они стали любимыми семейными компаньонами. Их дружелюбный и общительный характер делает их подходящими для активных семей, способных обеспечить достаточную физическую и умственную нагрузку. Среди примечательных особенностей породы — их характерный 'багульный' лай, которым они оповещают охотников о загнанной на дерево добыче, и исключительные способности к выслеживанию, благодаря которым они считаются одними из самых надежных кунхаундов.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "50-70 pounds (23-32 kg)",
+    "height": "Males: 22-27 inches (56-69 cm); Females: 20-25 inches (51-64 cm)",
+    "coat": "short, dense, and glossy",
+    "activity": "high",
+    "trainability": "moderate to high",
+    "grooming": "weekly brushing; regular ear cleaning",
+    "lifespan": "12-13 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "23-32 кг",
+    "рост": "Кобели: 56-69 см; Суки: 51-64 см",
+    "шерсть": "короткая, плотная, блестящая",
+    "активность": "высокая",
+    "обучаемость": "средняя / высокая",
+    "уход": "еженедельное расчесывание; регулярная чистка ушей",
+    "продолжительность жизни": "12-13 лет"
+  },
+  "behavior": {
+    "summary": "Treeing Walker Coonhounds are energetic, intelligent, and affectionate dogs with a strong hunting instinct and a friendly disposition.",
+    "with_family": "They are loyal and affectionate with family members, often forming strong bonds and enjoying interactive play.",
+    "with_children": "Generally good with children, displaying patience and playfulness, making them suitable companions for active kids.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other dogs; however, their hunting instincts may pose challenges with smaller pets.",
+    "with_strangers": "They are typically friendly towards strangers, though their alertness makes them effective watchdogs.",
+    "special_traits": [
+      "Exceptional tracking abilities",
+      "Distinctive 'bugle' bark",
+      "High energy levels",
+      "Strong hunting instinct",
+      "Affectionate nature"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Древесные енотовые гончие Уолкера — энергичные, умные и ласковые собаки с сильным охотничьим инстинктом и дружелюбным характером.",
+    "с семьёй": "Они преданы и ласковы с членами семьи, часто формируют крепкие связи и любят совместные игры.",
+    "с детьми": "Обычно хорошо ладят с детьми, проявляя терпение и игривость, что делает их подходящими компаньонами для активных детей.",
+    "с другими животными": "При правильной социализации могут мирно сосуществовать с другими собаками; однако их охотничьи инстинкты могут создавать сложности с мелкими животными.",
+    "с незнакомцами": "Обычно дружелюбны к незнакомцам, хотя их бдительность делает их эффективными сторожевыми собаками.",
+    "особые черты": [
+      "Исключительные способности к выслеживанию",
+      "Характерный 'багульный' лай",
+      "Высокий уровень энергии",
+      "Сильный охотничий инстинкт",
+      "Ласковый характер"
+    ]
+  },
+  "health": {
+    "summary": "Treeing Walker Coonhounds are generally healthy, but they can be prone to certain conditions common in active, medium to large breeds.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Ear infections",
+      "Skin allergies",
+      "Minor injuries from hunting"
+    ],
+    "prevention_tips": [
+      "Regular ear cleaning to prevent infections",
+      "Routine veterinary check-ups",
+      "Balanced diet to maintain healthy weight",
+      "Adequate exercise to support joint health"
+    ],
+    "vet_checkups": "Annually, or more frequently if health concerns arise"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Древесные енотовые гончие Уолкера в целом здоровы, но могут быть склонны к некоторым заболеваниям, характерным для активных собак среднего и крупного размера.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Инфекции ушей",
+      "Кожные аллергии",
+      "Незначительные травмы при охоте"
+    ],
+    "советы по профилактике": [
+      "Регулярная чистка ушей для предотвращения инфекций",
+      "Плановые визиты к ветеринару",
+      "Сбалансированное питание для поддержания здорового веса",
+      "Достаточная физическая нагрузка для поддержания здоровья суставов"
+    ],
+    "рекомендуемые осмотры": "Ежегодно, или чаще при наличии проблем со здоровьем"
+  },
+  "care": {
+    "description": "Treeing Walker Coonhounds require regular exercise, mental stimulation, and consistent training to thrive as both hunting dogs and family companions.",
+    "behavior": "Due to their high energy and intelligence, they benefit from activities that challenge them physically and mentally, such as agility training or scent work.",
+    "health": "Maintaining a healthy weight through diet and exercise is crucial to prevent joint issues; regular ear checks are essential to avoid infections.",
+    "grooming": "Their short coat requires minimal grooming—weekly brushing is sufficient; however, their ears should be cleaned regularly to prevent infections.",
+    "nutrition": "A balanced diet appropriate for active, medium to large breeds is recommended; portion control is important to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Древесные енотовые гончие Уолкера требуют регулярных физических нагрузок, умственной стимуляции и последовательной дрессировки для успешной адаптации как в роли охотничьих собак, так и семейных компаньонов.",
+    "поведение и характер": "Благодаря высокому уровню энергии и уму, им полезны занятия, которые бросают вызов их физическим и умственным способностям, такие как тренировки по аджилити или работа с запахами.",
+    "здоровье и профилактика": "Поддержание здорового веса с помощью диеты и упражнений важно для предотвращения проблем с суставами; регулярные проверки ушей необходимы для предотвращения инфекций.",
+    "груминг и уход": "Их короткая шерсть требует минимального ухода — достаточно еженедельного расчесывания; однако уши следует регулярно чистить для предотвращения инфекций.",
+    "питание и активность": "Рекомендуется сбалансированная диета, подходящая для активных собак среднего и крупного размера; контроль порций важен для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Treeing Walker Coonhounds good family pets?",
+      "answer": "Yes, they are affectionate and friendly, making them excellent companions for active families."
+    },
+    {
+      "question": "Do they require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and need daily exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "They are intelligent and eager to please but can be independent; consistent training is recommended."
+    },
+    {
+      "question": "Do they get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other dogs; caution is advised with smaller pets due to their hunting instincts."
+    },
+    {
+      "question": "What is their lifespan?",
+      "answer": "They typically live between 12 to 13 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли древесные енотовые гончие Уолкера хорошими семейными питомцами?",
+      "ответ": "Да, они ласковы и дружелюбны, что делает их отличными компаньонами для активных семей."
+    },
+    {
+      "вопрос": "Требуют ли они много физических нагрузок?",
+      "ответ": "Да, они обладают высоким уровнем энергии и нуждаются в ежедневных упражнениях для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Легко ли их дрессировать?",
+      "ответ": "Они умны и стремятся угодить, но могут быть независимыми; рекомендуется последовательная дрессировка."
+    },
+    {
+      "вопрос": "Ладят ли они с другими животными?",
+      "ответ": "При правильной социализации могут сосуществовать с другими собаками; однако следует проявлять осторожность с мелкими животными из-за их охотничьих инстинктов."
+    },
+    {
+      "вопрос": "Какова их продолжительность жизни?",
+      "ответ": "Обычно они живут от 12 до 13 лет."
+    }
+  ],
+  "sources": [
+    "https://www.webmd.com/pets/dogs/what-to-know-treeing-walker-coonhound",
+    "https://nationalkennelclub.com/treeing-walker-coonhound/",
+    "https://www.chewy.com/education/dog-breeds/treeing-walker-coonhound",
+    "https://www.ukcdogs.com/treeing-walker-coonhound",
+    "https://vcahospitals.com/know-your-pet/treeing-walker-coonhound"
+  ]
+}

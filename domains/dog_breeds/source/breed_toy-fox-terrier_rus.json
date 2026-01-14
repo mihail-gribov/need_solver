@@ -1,0 +1,154 @@
+{
+  "id": "toy-fox-terrier",
+  "name": "Toy Fox Terrier",
+  "name_rus": "Той-фокстерьер",
+  "full_description": "<p>The Toy Fox Terrier (TFT) is a small, agile breed that originated in the United States during the early 20th century. Developed by selectively breeding smaller Smooth Fox Terriers with toy breeds such as the Chihuahua, Italian Greyhound, and Manchester Terrier, the goal was to create a diminutive yet spirited companion with keen hunting instincts. Recognized by the United Kennel Club (UKC) in 1936 and the American Kennel Club (AKC) in 2003, the TFT has since become a cherished member of the toy group.</p>\n<p>Physically, the Toy Fox Terrier stands between 8.5 to 11.5 inches tall at the shoulder and weighs approximately 3.5 to 9 pounds. They possess a sleek, muscular build with a short, glossy coat predominantly white with black and tan markings. Their expressive, V-shaped ears stand erect, and their dark, round eyes exude intelligence and alertness. The tail is typically set high and may be docked or left natural, depending on regional practices.</p>\n<p>Temperamentally, TFTs are known for their lively and affectionate nature. They form strong bonds with their families, displaying unwavering loyalty and a playful demeanor. Despite their small size, they exhibit a fearless and confident attitude, often unaware of their diminutive stature. Their intelligence and eagerness to please make them highly trainable, though they can exhibit a stubborn streak if not properly guided.</p>\n<p>Historically, Toy Fox Terriers were bred for hunting small game and vermin, utilizing their keen senses and agility. Their compact size and energetic disposition made them adept at navigating tight spaces to flush out prey. In modern times, while their hunting roles have diminished, they excel in various canine sports such as agility and obedience trials. Their charming personalities and manageable size have also made them popular as therapy dogs and cherished companions in households worldwide.</p>\n<p>Notable characteristics of the breed include their boundless energy, sharp intelligence, and a strong desire for human companionship. They thrive on interaction and can develop separation anxiety if left alone for extended periods. Their alertness and propensity to bark make them excellent watchdogs, though their small size limits their effectiveness as guard dogs. Overall, the Toy Fox Terrier embodies a delightful blend of tenacity, affection, and spirited charm, making them a beloved choice for many dog enthusiasts.</p>",
+  "full_description_rus": "<p>Той-фокстерьер — небольшая, энергичная порода собак, выведенная в США в начале XX века. Порода была официально признана в США в 1936 году. Собака хорошо сложена, атлетичного вида, квадратного формата, с хорошими пропорциями тела.</p>\n<p>Физически той-фокстерьер имеет рост от 21,5 до 29,2 см в холке и весит от 1,5 до 3,5 кг. У него крепкое телосложение с короткой, гладкой шерстью, преимущественно белого цвета с черными и рыжими отметинами. Уши стоячие, V-образной формы, а темные, круглые глаза выражают интеллект и бдительность. Хвост обычно высоко посажен и может быть купирован или оставлен естественным, в зависимости от региональных традиций.</p>\n<p>По характеру той-фокстерьеры известны своей живостью и привязанностью к семье. Они формируют крепкие связи с владельцами, проявляя преданность и игривость. Несмотря на небольшой размер, они демонстрируют смелость и уверенность, часто не осознавая своей миниатюрности. Их интеллект и стремление угодить делают их легко обучаемыми, хотя при отсутствии должного руководства они могут проявлять упрямство.</p>\n<p>Изначально той-фокстерьеры были выведены для охоты на мелкую дичь и вредителей, используя свои острые чувства и ловкость. Их компактный размер и энергичный характер позволяли им эффективно работать в ограниченных пространствах. В современное время, хотя их охотничьи функции сократились, они преуспевают в различных собачьих видах спорта, таких как аджилити и соревнования по послушанию. Их очаровательная личность и удобный размер также сделали их популярными в качестве терапевтических собак и любимых компаньонов в семьях по всему миру.</p>\n<p>Отличительными чертами породы являются безграничная энергия, острый ум и сильное желание человеческого общения. Они процветают при взаимодействии и могут развить тревогу разлуки, если остаются одни на длительное время. Их бдительность и склонность к лаю делают их отличными сторожевыми собаками, хотя их небольшой размер ограничивает их эффективность в качестве охранников. В целом, той-фокстерьер воплощает в себе сочетание настойчивости, привязанности и очарования, делая их любимым выбором для многих любителей собак.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "3.5–9 pounds",
+    "height": "8.5–11.5 inches",
+    "coat": "short, glossy, predominantly white with black and tan markings",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "minimal; weekly brushing and occasional baths",
+    "lifespan": "13–15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "1,5–3,5 кг",
+    "рост": "21,5–29,2 см",
+    "шерсть": "короткая, гладкая, преимущественно белая с черными и рыжими отметинами",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "минимальный; еженедельное расчесывание и периодические купания",
+    "продолжительность жизни": "13–15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Highly energetic and playful",
+      "Strong prey drive",
+      "Affectionate and loyal",
+      "Intelligent and trainable",
+      "Alert and vocal"
+    ],
+    "summary": "Toy Fox Terriers are energetic, intelligent, and affectionate dogs that form strong bonds with their families. They are playful and alert, making them excellent companions for active households.",
+    "with_children": "Generally good with older children who understand how to interact with small dogs; may be less tolerant of rough handling by younger children.",
+    "with_family": "They are loyal and devoted, often following family members around the house and seeking constant companionship.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though their strong prey drive may lead them to chase smaller animals.",
+    "with_strangers": "Alert and wary of strangers, often barking to announce new arrivals; early socialization can help moderate this behavior."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Той-фокстерьеры энергичны, умны и привязаны к своим семьям. Они игривы и бдительны, что делает их отличными компаньонами для активных семей.",
+    "с семьёй": "Они преданы и лояльны, часто следуют за членами семьи по дому и стремятся к постоянному общению.",
+    "с детьми": "Обычно хорошо ладят со старшими детьми, которые понимают, как обращаться с маленькими собаками; могут быть менее терпимы к грубому обращению со стороны младших детей.",
+    "с другими животными": "Могут сосуществовать с другими питомцами при правильной социализации, хотя их сильный охотничий инстинкт может побуждать их преследовать мелких животных.",
+    "с незнакомцами": "Бдительны и настороженно относятся к незнакомцам, часто лают, чтобы объявить о новых посетителях; ранняя социализация может помочь смягчить это поведение.",
+    "особые черты": [
+      "Высокоэнергичные и игривые",
+      "Сильный охотничий инстинкт",
+      "Привязаны и лояльны",
+      "Умны и легко обучаемы",
+      "Бдительны и голосисты"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Patellar luxation",
+      "Legg-Calvé-Perthes disease",
+      "Primary lens luxation",
+      "Von Willebrand's disease",
+      "Hypothyroidism"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight to reduce joint stress",
+      "Provide a balanced diet",
+      "Engage in regular exercise",
+      "Monitor for signs of eye or joint issues"
+    ],
+    "summary": "Toy Fox Terriers are generally healthy with a lifespan of 13–15 years but may be prone to certain genetic conditions. Regular veterinary care and a healthy lifestyle can help manage these risks.",
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Той-фокстерьеры обычно здоровы и живут 13–15 лет, но могут быть склонны к некоторым генетическим заболеваниям. Регулярный ветеринарный уход и здоровый образ жизни помогут управлять этими рисками.",
+    "распространённые проблемы": [
+      "Вывих надколенника",
+      "Болезнь Легга-Кальве-Пертеса",
+      "Первичный вывих хрусталика",
+      "Болезнь фон Виллебранда",
+      "Гипотиреоз"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здорового веса для снижения нагрузки на суставы",
+      "Обеспечение сбалансированного питания",
+      "Регулярные физические упражнения",
+      "Мониторинг признаков проблем с глазами или суставами"
+    ],
+    "рекомендуемые осмотры": "Ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "behavior": "Due to their high energy levels, they need daily playtime and activities to prevent boredom and destructive behaviors.",
+    "description": "Toy Fox Terriers require regular exercise, mental stimulation, and minimal grooming. They thrive on human companionship and do best in environments where they are included in daily activities.",
+    "grooming": "Their short coat requires minimal grooming; weekly brushing and occasional baths are sufficient to keep them clean and healthy.",
+    "health": "Regular health screenings and preventive care are essential to detect and manage potential genetic health issues.",
+    "nutrition": "A balanced diet appropriate for their size and energy level is crucial; avoid overfeeding to prevent obesity."
+  },
+  "care_rus": {
+    "поведение и характер": "Из-за высокого уровня энергии им необходимы ежедневные игры и активности, чтобы предотвратить скуку и разрушительное поведение.",
+    "краткое описание ухода": "Той-фокстерьеры требуют регулярных физических нагрузок, умственной стимуляции и минимального ухода за шерстью. Они процветают в обществе людей и лучше всего чувствуют себя в среде, где их включают в повседневные занятия.",
+    "груминг и уход": "Их короткая шерсть требует минимального ухода; еженедельное расчесывание и периодические купания достаточны для поддержания чистоты и здоровья.",
+    "здоровье и профилактика": "Регулярные медицинские осмотры и профилактический уход необходимы для выявления и управления потенциальными генетическими проблемами со здоровьем.",
+    "питание и активность": "Сбалансированное питание, соответствующее их размеру и уровню активности, имеет решающее значение; избегайте перекармливания, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Toy Fox Terriers good with children?",
+      "answer": "They are generally good with older children who understand how to handle small dogs but may be less tolerant of rough play from younger children."
+    },
+    {
+      "question": "Do Toy Fox Terriers require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and need daily exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Toy Fox Terriers easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable with consistent, positive reinforcement methods."
+    },
+    {
+      "question": "Do Toy Fox Terriers get along with other pets?",
+      "answer": "They can coexist with other pets if properly socialized, though their strong prey drive may lead them to chase smaller animals."
+    },
+    {
+      "question": "What is the lifespan of a Toy Fox Terrier?",
+      "answer": "They typically live between 13 to 15 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Хорошо ли той-фокстерьеры ладят с детьми?",
+      "ответ": "Они обычно хорошо ладят со старшими детьми, которые понимают, как обращаться с маленькими собаками, но могут быть менее терпимы к грубой игре со стороны младших детей."
+    },
+    {
+      "вопрос": "Требуют ли той-фокстерьеры много физических нагрузок?",
+      "ответ": "Да, у них высокий уровень энергии, и им необходимы ежедневные упражнения для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Легко ли обучать той-фокстерьеров?",
+      "ответ": "Да, они умны и стремятся угодить, что делает их легко обучаемыми при использовании последовательных методов положительного подкрепления."
+    },
+    {
+      "вопрос": "Ладят ли той-фокстерьеры с другими животными?",
+      "ответ": "Они могут сосуществовать с другими питомцами при правильной социализации, хотя их сильный охотничий инстинкт может побуждать их преследовать мелких животных."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни той-фокстерьера?",
+      "ответ": "При надлежащем уходе они обычно живут от 13 до 15 лет."
+    }
+  ],
+  "sources": [
+    "https://ru.wikipedia.org/wiki/Той-фокстерьер",
+    "https://www.kokogenetics.com/ru/результаты/Породы-собак/toy-fox-терьер",
+    "https://pitomec.online/breeds/dogs/toj-foksterer/"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "maremma-sheepdog",
+  "name": "Maremma Sheepdog",
+  "full_description": "<p>The Maremma Sheepdog, also known as the Maremmano-Abruzzese Sheepdog, is an ancient Italian breed renowned for its role as a livestock guardian. Originating from the central regions of Italy, particularly the Maremma and Abruzzo areas, this breed has been protecting flocks from predators like wolves for over 2,000 years. The merging of regional varieties in the 19th century led to the standardized breed recognized today. Physically, the Maremma Sheepdog is a large, robust canine with a majestic and rustic appearance. Males typically stand between 60 to 73 cm (23.5 to 28.75 inches) at the shoulder, while females range from 60 to 68 cm (23.5 to 26.5 inches). Their weight varies from 30 to 45 kg (66 to 100 pounds). The breed boasts a dense, harsh, and straight white coat, which may have slight shades of ivory or pale yellow. This double coat provides protection against harsh weather conditions. The head is large and flat, resembling that of a polar bear, with small, high-set triangular ears and dark, almond-shaped eyes that convey a lively and attentive expression. Temperamentally, Maremma Sheepdogs are independent, intelligent, and devoted. They exhibit a strong protective instinct, making them excellent guardians. While they are loyal to their families, they can be wary of strangers, necessitating early socialization to ensure balanced behavior. Their working abilities are deeply ingrained; traditionally, they have been used to guard sheep from predators, working in groups to deter threats. This role has expanded in modern times, with Maremmas being employed to protect various livestock and even endangered species, such as the little penguins on Middle Island, Australia. Their popularity remains strong in rural areas where livestock protection is essential. Notable characteristics of the breed include their exceptional eyesight, allowing them to detect predators from a distance, and their thick double coat, which provides insulation in various climates. Their independent nature means they require consistent, firm training from an early age to ensure they become well-mannered companions.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "30-45 kg (66-100 lbs)",
+    "height": "60-73 cm (23.5-28.75 inches)",
+    "coat": "long, harsh, straight, white",
+    "activity": "moderate to high",
+    "trainability": "moderate; intelligent but independent",
+    "grooming": "regular brushing; more frequent during shedding seasons",
+    "lifespan": "11-13 years"
+  },
+  "behavior": {
+    "summary": "The Maremma Sheepdog is an independent and intelligent breed, known for its strong protective instincts and loyalty to its family.",
+    "with_family": "Devoted and loyal, forming strong bonds with family members; thrives in environments where it has a clear role.",
+    "with_children": "Generally good with children, especially when raised together; supervision is recommended due to their large size.",
+    "with_other_pets": "Can coexist with other pets if socialized early; their guardian instincts may lead to protective behavior.",
+    "with_strangers": "Naturally wary of strangers; early socialization helps in developing balanced interactions.",
+    "special_traits": [
+      "Strong protective instincts",
+      "Independent nature",
+      "Loyal to family",
+      "Wary of strangers",
+      "Requires early socialization"
+    ]
+  },
+  "health": {
+    "summary": "Maremma Sheepdogs are generally healthy but can be prone to certain hereditary conditions common in large breeds.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Bloat (gastric torsion)",
+      "Eye problems (e.g., cataracts, entropion)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide a balanced diet",
+      "Avoid vigorous exercise after meals",
+      "Early screening for hereditary conditions"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "Maremma Sheepdogs require dedicated care, including regular exercise, grooming, and early socialization to ensure they develop into well-balanced companions.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent and protective nature.",
+    "health": "Regular veterinary visits and preventive care help maintain their overall health and address potential hereditary issues.",
+    "grooming": "Regular brushing is necessary to manage their thick coat, especially during seasonal shedding periods.",
+    "nutrition": "A balanced diet appropriate for large breeds supports their energy needs and overall health."
+  },
+  "faq": [
+    {
+      "question": "Are Maremma Sheepdogs suitable for first-time dog owners?",
+      "answer": "Due to their independent nature and size, they are better suited for experienced owners familiar with large, working breeds."
+    },
+    {
+      "question": "Do Maremma Sheepdogs get along with other dogs?",
+      "answer": "With proper socialization, they can coexist with other dogs, but their protective instincts may lead to dominance behaviors."
+    },
+    {
+      "question": "How much exercise does a Maremma Sheepdog need?",
+      "answer": "They require moderate to high levels of exercise, including daily walks and space to roam."
+    },
+    {
+      "question": "Is the Maremma Sheepdog good with children?",
+      "answer": "Generally good with children, especially when raised together; supervision is recommended due to their large size."
+    },
+    {
+      "question": "What is the grooming requirement for a Maremma Sheepdog?",
+      "answer": "Regular brushing is needed to maintain their coat, with increased frequency during shedding seasons."
+    }
+  ],
+  "sources": [
+    "https://www.purina.co.uk/find-a-pet/dog-breeds/maremma-sheepdog",
+    "https://www.thekennelclub.org.uk/breed-standards/pastoral/maremma-sheepdog/",
+    "https://www.ukcdogs.com/maremma-sheepdog",
+    "https://en.wikipedia.org/wiki/Maremmano-Abruzzese_Sheepdog",
+    "https://www.dogzone.com/breeds/maremma-sheepdog/"
+  ]
+}

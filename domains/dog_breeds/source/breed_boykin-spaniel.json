@@ -1,0 +1,84 @@
+{
+  "id": "boykin-spaniel",
+  "name": "Boykin Spaniel",
+  "full_description": "<p>The Boykin Spaniel, affectionately known as the 'Little Brown Dog,' is a versatile and compact gun dog developed in the early 20th century in South Carolina, USA. Originating from a small stray spaniel-type dog named 'Dumpy,' discovered by Alexander L. White in Spartanburg, the breed was refined by Lemuel Whitaker Boykin to create an adept turkey and waterfowl retriever suitable for hunting in the Wateree River Swamp. Officially recognized as South Carolina's state dog in 1985, the Boykin Spaniel has since gained popularity for its hunting prowess and amiable nature. Physically, Boykin Spaniels are medium-sized dogs with males standing 15.5 to 18 inches tall and weighing between 30 to 40 pounds, while females are slightly smaller at 14 to 16.5 inches in height and weighing 25 to 35 pounds. They possess a rich liver, brown, or dark chocolate coat that is medium in length, ranging from flat to moderately curly, with feathering on the chest, legs, belly, and ears. Their eyes are engaging and bright, varying from brilliant gold to dark amber. Temperamentally, Boykin Spaniels are friendly, sociable, and eager to please, making them excellent family companions. They are known for their energetic and playful demeanor, requiring ample exercise and mental stimulation. Their intelligence and trainability make them suitable for various activities, including hunting, agility, and obedience trials. Originally bred for hunting wild turkeys and ducks, Boykin Spaniels exhibit exceptional retrieving abilities and adaptability to different terrains, including water. Their webbed feet enhance their swimming capabilities, making them proficient waterfowl retrievers. In modern times, while they continue to excel in hunting roles, Boykin Spaniels have also become cherished family pets, known for their affectionate nature and compatibility with children and other animals. Notable characteristics of the breed include their compact size, which allows them to navigate dense underbrush and fit comfortably in small boats without causing instability. Their rich brown coats and expressive eyes contribute to their distinctive appearance, while their friendly and adaptable nature endears them to a wide range of owners.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "25-40 pounds",
+    "height": "14-18 inches",
+    "coat": "medium length, flat to moderately curly, rich liver to dark chocolate color",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; ear cleaning",
+    "lifespan": "10-15 years"
+  },
+  "behavior": {
+    "summary": "Boykin Spaniels are friendly, sociable, and eager to please, making them excellent family companions. They are energetic and require ample exercise and mental stimulation.",
+    "with_family": "Affectionate and loyal, they thrive on human companionship and enjoy being part of family activities.",
+    "with_children": "Gentle and playful, Boykin Spaniels are known to be good with children, often forming strong bonds with them.",
+    "with_other_pets": "Generally friendly with other dogs and pets, especially when socialized from a young age.",
+    "with_strangers": "Typically friendly towards strangers, though they may be reserved initially.",
+    "special_traits": [
+      "Energetic and playful",
+      "Highly trainable",
+      "Affectionate and loyal",
+      "Good with children",
+      "Adaptable to various environments"
+    ]
+  },
+  "health": {
+    "summary": "Boykin Spaniels are generally healthy but are prone to certain inherited conditions. Regular health screenings and preventive care are essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Exercise-induced collapse (EIC)",
+      "Collie eye anomaly (CEA)",
+      "Degenerative myelopathy",
+      "Juvenile cataracts",
+      "Patellar luxation"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for known conditions",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Ensuring proper ear care to prevent infections"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Boykin Spaniels require regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "behavior": "Engage in activities like hunting, hiking, swimming, and agility to satisfy their high energy levels.",
+    "health": "Monitor for signs of common health issues and consult a veterinarian for regular health screenings.",
+    "grooming": "Brush their coat at least once a week to prevent matting and clean their ears regularly to avoid infections.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level, and monitor their weight to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Boykin Spaniels good family dogs?",
+      "answer": "Yes, they are affectionate, loyal, and good with children, making them excellent family companions."
+    },
+    {
+      "question": "How much exercise do Boykin Spaniels need?",
+      "answer": "They require several hours of exercise daily to meet their high energy levels."
+    },
+    {
+      "question": "Do Boykin Spaniels have any common health issues?",
+      "answer": "Yes, they are prone to conditions like hip dysplasia, exercise-induced collapse, and eye anomalies."
+    },
+    {
+      "question": "How often should I groom my Boykin Spaniel?",
+      "answer": "Regular brushing at least once a week and routine ear cleaning are recommended."
+    },
+    {
+      "question": "Are Boykin Spaniels easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Boykin_Spaniel",
+    "https://www.petmd.com/dog/breeds/boykin-spaniel",
+    "https://www.westminsterkennelclub.org/breed/boykin-spaniel/",
+    "https://www.purina.com/dogs/dog-breeds/boykin-spaniel",
+    "https://www.akc.org/expert-advice/dog-breeds/boykin-spaniel-history/"
+  ]
+}

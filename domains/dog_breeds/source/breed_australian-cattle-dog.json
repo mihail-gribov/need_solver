@@ -1,0 +1,83 @@
+{
+  "id": "australian-cattle-dog",
+  "name": "Australian Cattle Dog",
+  "full_description": "<p>The Australian Cattle Dog, also known as the Blue Heeler or Queensland Heeler, is a robust and intelligent breed developed in 19th-century Australia to manage cattle over vast and rugged terrains. Originating from crosses between British herding dogs and the native Dingo, these dogs were bred for endurance, agility, and a strong work ethic. Physically, they are medium-sized with a compact, muscular build, featuring a short double coat that comes in blue or red speckled patterns. Their alert expression is highlighted by pricked ears and dark, oval-shaped eyes. Temperamentally, Australian Cattle Dogs are known for their loyalty, intelligence, and high energy levels. They form strong bonds with their owners and can be protective, making them excellent watchdogs. Their herding instinct is strong, and they may attempt to herd children or other animals by nipping at heels. Originally bred for herding cattle, they possess remarkable stamina and determination, traits that have transitioned well into modern roles such as agility sports, obedience competitions, and as active companions. Notable characteristics include their problem-solving abilities, independence, and a need for regular mental and physical stimulation to prevent boredom and destructive behaviors.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "15-20 kg",
+    "height": "43-51 cm",
+    "coat": "short, dense, double coat",
+    "activity": "very high",
+    "trainability": "high",
+    "grooming": "minimal; weekly brushing",
+    "lifespan": "12-16 years"
+  },
+  "behavior": {
+    "summary": "Australian Cattle Dogs are energetic, intelligent, and loyal, requiring regular mental and physical stimulation to stay content.",
+    "with_family": "They form strong bonds with family members, often showing a preference for one person, and are affectionate and protective.",
+    "with_children": "Their herding instinct may lead them to nip at children's heels; early socialization and training are essential to manage this behavior.",
+    "with_other_pets": "They can coexist with other pets if raised together, but their strong prey drive may pose challenges with smaller animals.",
+    "with_strangers": "Generally reserved around strangers, they can be wary and may require proper introductions to new people.",
+    "special_traits": [
+      "High energy levels",
+      "Strong herding instinct",
+      "Loyal and protective",
+      "Intelligent and trainable",
+      "Requires regular exercise"
+    ]
+  },
+  "health": {
+    "summary": "Australian Cattle Dogs are generally healthy but can be prone to certain hereditary conditions; regular veterinary care is important.",
+    "common_issues": [
+      "Progressive Retinal Atrophy (PRA)",
+      "Hip dysplasia",
+      "Deafness",
+      "Elbow dysplasia",
+      "Dermatitis"
+    ],
+    "prevention_tips": [
+      "Regular eye examinations",
+      "Hip and elbow evaluations",
+      "Hearing tests",
+      "Routine skin checks",
+      "Maintaining a healthy weight"
+    ],
+    "vet_checkups": "Annual checkups recommended; more frequent visits if health issues arise."
+  },
+  "care": {
+    "description": "Australian Cattle Dogs require consistent training, ample exercise, and regular health monitoring to thrive.",
+    "behavior": "Provide structured activities and training to channel their intelligence and energy positively.",
+    "health": "Monitor for signs of hereditary conditions and maintain regular veterinary visits for early detection.",
+    "grooming": "Weekly brushing is sufficient; more frequent during shedding seasons.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level; consult a veterinarian for specific recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are Australian Cattle Dogs good for first-time owners?",
+      "answer": "Due to their high energy and intelligence, they may be challenging for first-time owners without experience in training active breeds."
+    },
+    {
+      "question": "Do Australian Cattle Dogs get along with other pets?",
+      "answer": "They can coexist with other pets if properly socialized, but their strong prey drive may require supervision around smaller animals."
+    },
+    {
+      "question": "How much exercise does an Australian Cattle Dog need?",
+      "answer": "They require at least 1-2 hours of vigorous exercise daily to stay healthy and prevent boredom."
+    },
+    {
+      "question": "Are Australian Cattle Dogs prone to barking?",
+      "answer": "They are not excessive barkers but will alert their owners to unusual activities or strangers."
+    },
+    {
+      "question": "What is the lifespan of an Australian Cattle Dog?",
+      "answer": "They typically live between 12 to 16 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Australian_Cattle_Dog",
+    "https://www.petmd.com/dog/breeds/australian-cattle-dog",
+    "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/medium-dogs/australian-cattle-dog",
+    "https://vcahospitals.com/know-your-pet/australian-cattle-dog",
+    "https://www.webmd.com/pets/dogs/what-to-know-australian-cattle-dogs"
+  ]
+}

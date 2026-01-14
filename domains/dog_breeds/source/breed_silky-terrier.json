@@ -1,0 +1,85 @@
+{
+  "id": "silky-terrier",
+  "name": "Silky Terrier",
+  "full_description": "<p>The Silky Terrier, also known as the Australian Silky Terrier, is a small, energetic breed that embodies the true spirit of a terrier. Originating in Australia during the late 19th century, this breed was developed by crossing imported Yorkshire Terriers with native Australian Terriers to enhance coat color and texture. The result was a refined, silky-coated dog adept at hunting vermin.</p>\n<p>Physically, the Silky Terrier stands between 9 to 10 inches tall and weighs approximately 10 pounds. They possess a moderately low-set, slightly longer-than-tall body structure with refined bone. Their most distinctive feature is their fine, smooth, and silky coat, which comes in various color combinations, including black and tan, blue and tan, and silver and tan.</p>\n<p>Temperamentally, Silky Terriers are friendly, lively, and inquisitive. They exhibit a true terrier temperament with a zest for life, making them exceptional companions. Despite their small size, they are courageous and alert, often displaying a protective nature towards their families.</p>\n<p>Originally bred to hunt vermin, Silky Terriers are quick and alert, traits that made them effective in controlling rodent populations. Today, they have transitioned into beloved companion animals, especially suited for urban living due to their compact size and adaptable nature. Their playful and inquisitive demeanor endears them to families and individuals alike.</p>\n<p>Notable characteristics of the Silky Terrier include their low-shedding coat, which requires regular grooming to maintain its silky texture and prevent matting. They are also known for their intelligence and trainability, though they can exhibit a stubborn streak typical of terriers. Their alertness and tendency to bark make them effective watchdogs, despite their small stature.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "10 pounds",
+    "height": "9 to 10 inches",
+    "coat": "fine, smooth, and silky; various color combinations including black and tan, blue and tan, and silver and tan",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing and bathing to maintain coat quality",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Silky Terriers are friendly, lively, and inquisitive, embodying a true terrier temperament with a zest for life.",
+    "with_family": "They are affectionate and loyal, forming strong bonds with their family members.",
+    "with_children": "Generally good with children, especially when socialized early, but supervision is recommended due to their small size.",
+    "with_other_pets": "Can coexist with other pets if introduced properly, though their strong prey drive may lead them to chase smaller animals.",
+    "with_strangers": "Alert and vigilant, they may be reserved around strangers but are not typically aggressive.",
+    "special_traits": [
+      "alert and vigilant",
+      "strong prey drive",
+      "affectionate and loyal",
+      "intelligent and trainable",
+      "playful and inquisitive"
+    ]
+  },
+  "health": {
+    "summary": "Silky Terriers are generally healthy but can be prone to certain hereditary conditions.",
+    "common_issues": [
+      "cataracts",
+      "progressive retinal atrophy",
+      "dental disease",
+      "patellar luxation",
+      "Legg-Calve-Perthes disease",
+      "liver shunt"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "consistent dental care",
+      "maintaining a healthy weight",
+      "providing regular exercise",
+      "monitoring for signs of hereditary conditions"
+    ],
+    "vet_checkups": "every six to twelve months"
+  },
+  "care": {
+    "description": "Silky Terriers require regular grooming, consistent training, and attentive health care to thrive as companions.",
+    "behavior": "Early socialization and positive reinforcement training are essential to manage their energetic and inquisitive nature.",
+    "health": "Regular veterinary visits and preventive care are crucial to monitor and address potential hereditary health issues.",
+    "grooming": "Their fine, silky coat necessitates regular brushing and occasional professional grooming to prevent matting.",
+    "nutrition": "A balanced diet appropriate for their size and activity level helps maintain optimal health and weight."
+  },
+  "faq": [
+    {
+      "question": "Are Silky Terriers good for apartment living?",
+      "answer": "Yes, their small size and moderate energy levels make them well-suited for apartment living, provided they receive regular exercise."
+    },
+    {
+      "question": "Do Silky Terriers shed a lot?",
+      "answer": "No, they are low-shedding dogs, but their coat requires regular grooming to maintain its quality."
+    },
+    {
+      "question": "Are Silky Terriers easy to train?",
+      "answer": "Yes, they are intelligent and trainable, though they may exhibit a stubborn streak typical of terriers."
+    },
+    {
+      "question": "How much exercise does a Silky Terrier need?",
+      "answer": "They require moderate exercise, such as daily walks and playtime, to keep them healthy and happy."
+    },
+    {
+      "question": "Are Silky Terriers good with other pets?",
+      "answer": "They can coexist with other pets if properly introduced, but their strong prey drive may lead them to chase smaller animals."
+    }
+  ],
+  "sources": [
+    "https://www.purina.com/dogs/dog-breeds/silky-terrier",
+    "https://www.petmd.com/dog/breeds/silky-terrier",
+    "https://www.webmd.com/pets/dogs/what-to-know-silky-terriers",
+    "https://www.westminsterkennelclub.org/breed/silky-terrier/",
+    "https://www.akc.org/expert-advice/lifestyle/5-facts-silky-terrier/",
+    "https://en.wikipedia.org/wiki/Australian_Silky_Terrier"
+  ]
+}

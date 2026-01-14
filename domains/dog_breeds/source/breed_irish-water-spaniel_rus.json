@@ -1,0 +1,162 @@
+{
+  "id": "irish-water-spaniel",
+  "name": "Irish Water Spaniel",
+  "name_rus": "Ирландский водяной спаниель",
+  "full_description": "<p>The Irish Water Spaniel, known as the tallest of the spaniel breeds, boasts a rich history and distinctive features. Developed in Ireland during the 1830s, the breed's exact lineage remains uncertain. However, it is believed to have evolved from native Irish water dogs, possibly influenced by breeds like the Poodle, Barbet, and Portuguese Water Dog. This combination resulted in a versatile hunting companion adept at retrieving waterfowl. Physically, the Irish Water Spaniel is medium to large, with males standing 22 to 24 inches tall and weighing between 55 to 65 pounds, while females are slightly smaller. Its dense, tight, and crisp ringlets of liver-colored fur, often with a purplish hue, provide water resistance. A notable feature is its 'rat tail'—smooth and hairless except at the base, which is covered with curls. The breed's expression is intelligent and alert, with small, almond-shaped eyes and long, low-set ears adorned with loose curls. Temperamentally, the Irish Water Spaniel is confident, cheerful, and affectionate with family members. Known for its endearing sense of humor, it often displays playful antics, earning the nickname 'clown' of the spaniels. While loyal and eager to please, early socialization is crucial, as some individuals may be wary of strangers or other animals. Originally bred for retrieving waterfowl, the breed's webbed feet and love for water make it an excellent swimmer. Today, the Irish Water Spaniel serves as both a diligent retriever in field trials and a beloved family pet. Despite its unique attributes, the breed remains relatively rare, highlighting the importance of responsible breeding to maintain its health and working capabilities. Notable characteristics include its hypoallergenic coat, minimal shedding, and distinctive 'rat tail,' setting it apart from other breeds.</p>",
+  "full_description_rus": "<p>Ирландский водяной спаниель — самая высокая порода среди спаниелей, обладающая богатой историей и уникальными чертами. Разведённая в Ирландии в 1830-х годах, точное происхождение породы остаётся неясным. Считается, что она произошла от местных ирландских водяных собак с возможным влиянием таких пород, как пудель, барбет и португальская водяная собака. Эта комбинация привела к появлению универсального охотничьего компаньона, способного эффективно добывать водоплавающую дичь. Физически ирландский водяной спаниель относится к средним и крупным породам: кобели достигают 56–61 см в высоту и весят от 25 до 30 кг, суки немного меньше. Его плотная, тугая и упругая завитая шерсть печёночного цвета с пурпурным оттенком обеспечивает водонепроницаемость. Отличительной чертой является «крысиный» хвост — гладкий и безволосый, за исключением основания, покрытого кудрями. Выражение морды умное и настороженное, с небольшими миндалевидными глазами и длинными, низко посаженными ушами, украшенными свободными кудрями. По темпераменту ирландский водяной спаниель уверен в себе, жизнерадостен и привязан к членам семьи. Известен своим очаровательным чувством юмора, часто демонстрирует игривые выходки, за что получил прозвище «клоун» среди спаниелей. Хотя он лоялен и стремится угодить, ранняя социализация крайне важна, так как некоторые особи могут быть насторожены к незнакомцам или другим животным. Изначально выведенный для добычи водоплавающей дичи, благодаря перепончатым лапам и любви к воде, он является отличным пловцом. Сегодня ирландский водяной спаниель служит как усердным ретривером на полевых испытаниях, так и любимым семейным питомцем. Несмотря на свои уникальные качества, порода остаётся относительно редкой, что подчёркивает важность ответственного разведения для поддержания её здоровья и рабочих способностей. Ключевые особенности включают гипоаллергенную шерсть, минимальную линьку и характерный «крысиный» хвост, отличающий её от других пород.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "Males: 55–65 pounds (25–30 kg); Females: 45–58 pounds (20–26 kg)",
+    "height": "Males: 22–24 inches (56–61 cm); Females: 21–23 inches (53–58 cm)",
+    "coat": "Dense, tight, crisp ringlets; liver-colored with a purplish hue",
+    "activity": "High",
+    "trainability": "High",
+    "grooming": "Regular brushing and occasional trimming",
+    "lifespan": "12–13 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "Кобели: 25–30 кг; Суки: 20–26 кг",
+    "рост": "Кобели: 56–61 см; Суки: 53–58 см",
+    "шерсть": "Плотные, тугие, упругие завитки; печёночного цвета с пурпурным оттенком",
+    "активность": "Высокая",
+    "обучаемость": "Высокая",
+    "уход": "Регулярное расчёсывание и периодическая стрижка",
+    "продолжительность жизни": "12–13 лет"
+  },
+  "behavior": {
+    "summary": "The Irish Water Spaniel is an intelligent, energetic, and affectionate breed known for its playful nature and loyalty to family members.",
+    "with_family": "Affectionate and loyal, often forming strong bonds with family members.",
+    "with_children": "Generally good with children, especially when socialized early.",
+    "with_other_pets": "May be reserved; early socialization is recommended.",
+    "with_strangers": "Can be wary; proper socialization helps in developing a friendly demeanor.",
+    "special_traits": [
+      "Playful and humorous",
+      "Intelligent and eager to please",
+      "Energetic with high exercise needs"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Ирландский водяной спаниель — умная, энергичная и привязанная к семье порода, известная своим игривым характером и преданностью.",
+    "с семьёй": "Ласковый и лояльный, часто формирует крепкие связи с членами семьи.",
+    "с детьми": "Обычно хорошо ладит с детьми, особенно при ранней социализации.",
+    "с другими животными": "Может быть сдержанным; рекомендуется ранняя социализация.",
+    "с незнакомцами": "Может быть настороженным; правильная социализация помогает развить дружелюбное поведение.",
+    "особые черты": [
+      "Игривый и с чувством юмора",
+      "Умный и стремится угодить",
+      "Энергичный с высокими потребностями в упражнениях"
+    ]
+  },
+  "health": {
+    "summary": "Generally healthy with a lifespan of 12–13 years, but prone to certain conditions.",
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Hypothyroidism",
+      "Chronic ear infections",
+      "Seizures",
+      "Allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy diet and weight",
+      "Provide ample exercise",
+      "Regular ear cleaning",
+      "Early socialization and training"
+    ],
+    "vet_checkups": "Annually, or as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "В целом здоровая порода с продолжительностью жизни 12–13 лет, но склонна к определённым заболеваниям.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренных и локтевых суставов",
+      "Гипотиреоз",
+      "Хронические ушные инфекции",
+      "Судороги",
+      "Аллергии"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здоровой диеты и веса",
+      "Обеспечение достаточной физической активности",
+      "Регулярная чистка ушей",
+      "Ранняя социализация и обучение"
+    ],
+    "рекомендуемые осмотры": "Ежегодно или по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "The Irish Water Spaniel requires regular exercise, mental stimulation, and consistent grooming to maintain its health and happiness.",
+    "behavior": "Early socialization and training are essential to develop a well-mannered companion.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits.",
+    "grooming": "Regular brushing and occasional trimming are necessary to keep the coat in good condition.",
+    "nutrition": "Provide a balanced diet appropriate for the dog's age, size, and activity level."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Ирландский водяной спаниель требует регулярных физических нагрузок, умственной стимуляции и постоянного ухода за шерстью для поддержания здоровья и счастья.",
+    "поведение и характер": "Ранняя социализация и обучение необходимы для формирования хорошо воспитанного компаньона.",
+    "здоровье и профилактика": "Следите за признаками распространённых заболеваний и регулярно посещайте ветеринара.",
+    "груминг и уход": "Регулярное расчёсывание и периодическая стрижка необходимы для поддержания шерсти в хорошем состоянии.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее возрасту, размеру и уровню активности собаки."
+  },
+  "faq": [
+    {
+      "question": "Is the Irish Water Spaniel hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, the Irish Water Spaniel's minimal shedding may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does an Irish Water Spaniel need?",
+      "answer": "They require regular, vigorous exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Are Irish Water Spaniels good with children?",
+      "answer": "Yes, they are generally good with children, especially when socialized from a young age."
+    },
+    {
+      "question": "Do Irish Water Spaniels get along with other pets?",
+      "answer": "They may be reserved; early socialization is recommended to ensure positive interactions."
+    },
+    {
+      "question": "What is the lifespan of an Irish Water Spaniel?",
+      "answer": "They typically live between 12 to 13 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Является ли ирландский водяной спаниель гипоаллергенным?",
+      "ответ": "Хотя полностью гипоаллергенных собак не существует, минимальная линька ирландского водяного спаниеля может подойти некоторым аллергикам."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется ирландскому водяному спаниелю?",
+      "ответ": "Им необходимы регулярные, интенсивные физические нагрузки для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Хорошо ли ирландские водяные спаниели ладят с детьми?",
+      "ответ": "Да, они обычно хорошо ладят с детьми, особенно при ранней социализации."
+    },
+    {
+      "вопрос": "Ладят ли ирландские водяные спаниели с другими животными?",
+      "ответ": "Они могут быть сдержанными; рекомендуется ранняя социализация для обеспечения положительных взаимодействий."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни ирландского водяного спаниеля?",
+      "ответ": "Они обычно живут от 12 до 13 лет."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Irish_Water_Spaniel",
+    "https://www.westminsterkennelclub.org/breed/irish-water-spaniel/",
+    "https://www.thekennelclub.org.uk/breed-standards/gundog/spaniel-irish-water/",
+    "https://www.petmd.com/dog/breeds/irish-water-spaniel",
+    "https://iwsca.org/Health_Issues",
+    "https://www.purina.com/dogs/dog-breeds/irish-water-spaniel",
+    "https://www.wisdompanel.com/en-us/dog-breeds/irish-water-spaniel",
+    "https://www.akc.org/expert-advice/dog-breeds/irish-water-spaniel-history-behind-the-breed/",
+    "https://www.thepethealthclinic.com/client-resources/breed-info/irish-water-spaniel/",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-irish-water-spaniels",
+    "https://iwsca.org/Health_Overview",
+    "https://www.pets4homes.co.uk/pet-advice/irish-water-spaniel-health-issues.html",
+    "https://www.lancasterpuppies.com/dog-breeds/irish-water-spaniel/",
+    "https://ru.wikipedia.org/wiki/Ирландский_водяной_спаниель",
+    "https://royalcanin.ru/dog-breed/irish-water-spaniel"
+  ]
+}

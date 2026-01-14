@@ -1,0 +1,84 @@
+{
+  "id": "chihuahua",
+  "name": "Chihuahua",
+  "full_description": "<p>The Chihuahua, named after the Mexican state of Chihuahua, is one of the smallest dog breeds globally, renowned for its diminutive size and vibrant personality.</p>\n<p><strong>Origin and History</strong></p>\n<p>The Chihuahua's origins trace back to ancient Mexico, where they are believed to descend from the Techichi, a small companion dog favored by the Toltec civilization. DNA studies suggest that native American dogs, including the Chihuahua, have a genetic lineage dating back approximately 10,000 years, with some pre-colonial ancestry still present in the breed today.</p>\n<p><strong>Physical Appearance</strong></p>\n<p>Chihuahuas possess a distinctive \"apple-shaped\" skull with large, round eyes and prominent, erect ears. They come in two coat varieties: smooth (short-haired) and long-haired, both of which can display a wide range of colors and patterns. Despite their small stature, typically weighing between 2 to 6 pounds (0.9 to 2.7 kg) and standing 6 to 9 inches (15 to 23 cm) tall, Chihuahuas have a well-balanced and compact build.</p>\n<p><strong>Temperament and Personality Traits</strong></p>\n<p>Chihuahuas are known for their alertness, energy, and deep loyalty to their owners. They often form strong bonds with one or two individuals, sometimes displaying a preference for a single person. Despite their small size, they exhibit a bold and confident demeanor, often unaware of their diminutive stature. Early socialization is crucial to prevent excessive wariness or aggression towards strangers and other animals.</p>\n<p><strong>Working Abilities and Original Purpose</strong></p>\n<p>Historically, Chihuahuas were primarily companion animals, valued for their affectionate nature and companionship. There is evidence suggesting they were also used in religious ceremonies and possibly as a food source in ancient civilizations. Unlike breeds developed for specific working tasks, Chihuahuas have always been cherished for their companionship.</p>\n<p><strong>Modern Role and Popularity</strong></p>\n<p>Today, Chihuahuas are popular companion animals worldwide, especially suited for urban living due to their small size and adaptability. Their portability and minimal exercise requirements make them ideal for apartment dwellers and individuals with limited space. Their distinctive appearance and lively personality have also made them a favorite in popular culture and media.</p>\n<p><strong>Notable Characteristics</strong></p>\n<ul>\n<li><strong>Molera</strong>: A soft spot on the skull, similar to a human infant's fontanelle, which may persist into adulthood.</li>\n<li><strong>Vocal Nature</strong>: Chihuahuas are known for their alertness and tendency to bark at unfamiliar stimuli, making them effective, albeit small, watchdogs.</li>\n<li><strong>Sensitivity to Cold</strong>: Due to their small size and thin coat, Chihuahuas are sensitive to cold temperatures and may require additional warmth in cooler climates.</li>\n<li><strong>Longevity</strong>: They have a relatively long lifespan, often living between 12 to 20 years with proper care.</li>\n</ul>",
+  "parameters": {
+    "size": "Very small",
+    "weight": "2–6 lbs (0.9–2.7 kg)",
+    "height": "6–9 inches (15–23 cm)",
+    "coat": "Smooth (short-haired) or long-haired; various colors and patterns",
+    "activity": "Moderate",
+    "trainability": "Moderate; intelligent but can be stubborn",
+    "grooming": "Low to moderate; regular brushing and dental care",
+    "lifespan": "12–20 years"
+  },
+  "behavior": {
+    "summary": "Chihuahuas are alert, energetic, and deeply loyal dogs that form strong bonds with their owners. They are confident and often unaware of their small size, displaying a bold demeanor.",
+    "with_family": "They are affectionate and devoted to their family members, often forming a particularly strong attachment to one person.",
+    "with_children": "Chihuahuas can be good with gentle children but may be nervous around rough play due to their small size.",
+    "with_other_pets": "With proper introductions, Chihuahuas can coexist peacefully with other pets, including cats.",
+    "with_strangers": "They are often reserved around strangers but can warm up quickly once they feel comfortable.",
+    "special_traits": [
+      "Highly alert and vocal",
+      "Strong attachment to owners",
+      "Bold and confident nature",
+      "Sensitive to cold temperatures",
+      "Long lifespan"
+    ]
+  },
+  "health": {
+    "summary": "Chihuahuas are generally healthy dogs with a long lifespan but are prone to certain health issues due to their small size and genetic predispositions.",
+    "common_issues": [
+      "Dental problems",
+      "Patellar luxation",
+      "Hypoglycemia",
+      "Heart disease",
+      "Collapsing trachea",
+      "Eye issues"
+    ],
+    "prevention_tips": [
+      "Regular dental care, including brushing and professional cleanings",
+      "Maintain a healthy weight to reduce strain on joints",
+      "Feed small, frequent meals to prevent hypoglycemia",
+      "Regular veterinary check-ups for early detection of heart issues",
+      "Use a harness instead of a collar to protect the trachea"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Chihuahuas require attentive care tailored to their small size, including regular grooming, dental hygiene, and protection from extreme temperatures.",
+    "behavior": "They thrive on companionship and can develop separation anxiety if left alone for extended periods. Regular interaction and mental stimulation are important.",
+    "health": "Due to their predisposition to certain health issues, proactive veterinary care and a healthy lifestyle are essential.",
+    "grooming": "Regular brushing (weekly for smooth coats, several times a week for long coats), dental care, and nail trimming are necessary.",
+    "nutrition": "Feed high-quality, small-breed dog food in small, frequent meals to maintain energy levels and prevent hypoglycemia."
+  },
+  "faq": [
+    {
+      "question": "Are Chihuahuas good with children?",
+      "answer": "They can be good with gentle children but may be nervous around rough play due to their small size."
+    },
+    {
+      "question": "Do Chihuahuas require a lot of exercise?",
+      "answer": "They need short daily walks and playtime to burn off energy, about 20–30 minutes per day."
+    },
+    {
+      "question": "Are Chihuahuas easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement methods work best."
+    },
+    {
+      "question": "Do Chihuahuas shed a lot?",
+      "answer": "They are average shedders; regular brushing helps manage shedding and keeps their coat healthy."
+    },
+    {
+      "question": "Can Chihuahuas live in apartments?",
+      "answer": "Absolutely! Their small size makes them perfect for apartment living."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chihuahua_(dog_breed)",
+    "https://www.petmd.com/dog/infographic/chihuahua-field-guide",
+    "https://vcahospitals.com/know-your-pet/chihuahua",
+    "https://www.petdaily.org/pages/chihuahua",
+    "https://www.healthypawspetinsurance.com/blog/dog-breeds/breed-guide-chihuahua"
+  ]
+}

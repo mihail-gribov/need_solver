@@ -1,0 +1,84 @@
+{
+  "id": "english-springer-spaniel",
+  "name": "English Springer Spaniel",
+  "full_description": "<p>The English Springer Spaniel is a versatile and energetic breed, renowned for its hunting prowess and affectionate nature. Originating in England, these dogs were developed to flush and retrieve game, earning their name from their ability to 'spring' game from dense brush. Historically, they share a close lineage with the English Cocker Spaniel; both breeds were once born in the same litters, with size determining their classification. The Kennel Club recognized the English Springer Spaniel as a distinct breed in 1902, followed by the American Kennel Club in 1910. Physically, English Springer Spaniels are medium-sized dogs with a compact, athletic build. Males typically stand about 20 inches tall and weigh between 40 to 53 pounds, while females are slightly smaller. They possess a medium-length, weather-resistant coat that can be flat or wavy, commonly found in liver and white or black and white colorations. Feathering on the ears, chest, legs, and belly adds to their distinctive appearance. Their expressive eyes and long, pendulous ears contribute to their alert and friendly expression. Temperamentally, these spaniels are known for their friendly, eager-to-please demeanor. They are intelligent and highly trainable, making them excellent companions for active families. Their sociable nature means they thrive on human interaction and can suffer from separation anxiety if left alone for extended periods. Originally bred as gundogs, English Springer Spaniels excel in flushing and retrieving game. Their keen sense of smell and boundless energy make them adept at various canine sports and activities. In modern times, they have found roles beyond hunting, serving as search and rescue dogs, detection dogs for law enforcement, and beloved family pets. Their versatility and affectionate nature have contributed to their enduring popularity. Notable characteristics of the breed include their boundless energy, intelligence, and adaptability. They require regular mental and physical stimulation to prevent boredom and destructive behaviors. Their affectionate nature makes them excellent companions, but potential owners should be prepared for their high exercise needs and grooming requirements.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "40-53 lbs (18-24 kg)",
+    "height": "19-20 inches (48-51 cm)",
+    "coat": "medium-length, flat or wavy, with feathering on ears, chest, legs, and belly",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; professional grooming every 4-6 weeks",
+    "lifespan": "12-14 years"
+  },
+  "behavior": {
+    "summary": "English Springer Spaniels are energetic, intelligent, and affectionate dogs that thrive on human companionship and require regular mental and physical stimulation.",
+    "with_family": "They are devoted and loving towards family members, often forming strong bonds and enjoying active participation in family activities.",
+    "with_children": "Known for their gentle and playful nature, they generally get along well with children, making them excellent family pets.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets, though their hunting instincts may lead them to chase smaller animals.",
+    "with_strangers": "Typically friendly and approachable, they may be reserved initially but warm up quickly to new people.",
+    "special_traits": [
+      "high energy levels",
+      "strong hunting instincts",
+      "affectionate nature",
+      "intelligence",
+      "eagerness to please"
+    ]
+  },
+  "health": {
+    "summary": "English Springer Spaniels are generally healthy but are predisposed to certain genetic conditions that require attention and proactive care.",
+    "common_issues": [
+      "hip and elbow dysplasia",
+      "progressive retinal atrophy",
+      "ear infections",
+      "phosphofructokinase (PFK) deficiency",
+      "cancer"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintaining a healthy weight",
+      "routine ear cleaning",
+      "genetic testing for inherited conditions",
+      "providing adequate exercise"
+    ],
+    "vet_checkups": "annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "English Springer Spaniels require dedicated care, including regular exercise, grooming, and health monitoring to ensure their well-being.",
+    "behavior": "They thrive on mental and physical stimulation; engaging them in activities like obedience training, agility, or hunting exercises can keep them content.",
+    "health": "Regular veterinary visits and preventive measures are essential to monitor and manage potential health issues common to the breed.",
+    "grooming": "Their medium-length coat requires regular brushing to prevent matting and professional grooming every 4-6 weeks to maintain optimal condition.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is crucial; consult a veterinarian for specific dietary recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are English Springer Spaniels good family pets?",
+      "answer": "Yes, they are affectionate and friendly, making them excellent companions for active families."
+    },
+    {
+      "question": "How much exercise does an English Springer Spaniel need?",
+      "answer": "They require at least two hours of daily exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Do English Springer Spaniels shed a lot?",
+      "answer": "They have moderate shedding; regular grooming helps manage loose hair and maintain coat health."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable with consistent, positive reinforcement methods."
+    },
+    {
+      "question": "Do they get along with other pets?",
+      "answer": "With proper socialization, they can coexist well with other pets, though their hunting instincts may lead them to chase smaller animals."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/English_Springer_Spaniel",
+    "https://www.petmd.com/dog/breeds/english-springer-spaniel",
+    "https://www.petsradar.com/dogs/dog-breeds/english-springer-spaniel-breed-profile",
+    "https://www.hillspet.com/dog-care/dog-breeds/english-springer-spaniel",
+    "https://www.gooddog.com/breeds/english-springer-spaniel",
+    "https://www.petful.com/dog-breeds/profile-english-springer-spaniel/"
+  ]
+}

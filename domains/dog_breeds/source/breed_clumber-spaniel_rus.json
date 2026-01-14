@@ -1,0 +1,169 @@
+{
+  "id": "clumber-spaniel",
+  "name": "Clumber Spaniel",
+  "name_rus": "Кламбер-спаниель",
+  "full_description": "<p>The Clumber Spaniel is a distinguished breed originating from England, renowned for its substantial build and gentle demeanor. Developed in the 18th century, the breed's name is derived from Clumber Park in Nottinghamshire, where it was first bred. Clumber Spaniels were primarily designed for hunting in dense underbrush, utilizing their strength and endurance to flush out game birds such as pheasants and partridges. Their white coats, often adorned with lemon or orange markings, provided hunters with visibility in the field. Physically, Clumber Spaniels are the largest among the spaniel breeds, standing between 17 to 20 inches tall and weighing between 55 to 85 pounds. They possess a massive head with a pronounced stop, heavy brow, and a square muzzle. Their dense, straight coat features feathering around the ears, belly, and legs, requiring regular grooming to maintain its condition. Temperamentally, Clumber Spaniels are gentle, loyal, and affectionate, often displaying a dignified and somewhat aloof attitude towards strangers. They are known for their calm disposition, making them excellent companions for families. Despite their sedate appearance, they have a playful side and enjoy carrying objects, a trait stemming from their retrieving heritage. Originally bred as gundogs, Clumber Spaniels excelled in hunting through thick cover, using their powerful build and keen sense of smell to locate and retrieve game. In contemporary times, while their role as hunting dogs has diminished, they have found a place as beloved family pets and participants in dog sports. Their unique combination of strength, gentleness, and distinctive appearance continues to endear them to dog enthusiasts worldwide.</p>",
+  "full_description_rus": "<p>Кламбер-спаниель — это порода собак, выведенная в Великобритании и входящая в группу спаниелей. Порода является самой крупной среди всех спаниелей. Название породы происходит от усадьбы Кламбер-парк в Ноттингемпшире (Великобритания). Порода выведена как подружейная и предназначена для охоты в сухопутной местности. Поведение собак этой породы отличается дружелюбием к членам семьи, но к посторонним может проявляться настороженность. Кламберов разводили члены британской королевской семьи, в том числе принц Альберт (супруг королевы Виктории), короли Эдуард VII и Георг V. В 1884 году кламберы вошли в первый десяток пород, официально признанных Американским кеннель-клубом. Относительно происхождения породы существует две версии. Согласно первой, порода была выведена во Франции герцогом де Ноайлем. После начала Великой французской революции герцог переправил своих собак в Англию, в поместье герцога Ньюкастльского Кламбер-парк в Ноттингемпшире. Согласно второй версии, собака имеет британское происхождение и была выведена из старинных спаниелей путём прилития крови бассет-хаунда и сенбернара. Бесспорным является факт, что название породы происходит от усадьбы Кламбер-парк. Порода обязана своим развитием егерю герцога Ньюкастльского Уильяму Манселлу. Энтузиастом этой породы был принц Альберт, супруг королевы Виктории, а также его сын, король Эдуард VII. Порода демонстрируется на британских выставках с 1859 года. До середины XIX века кламберов разводили исключительно аристократы, имевшие обширные охотничьи угодья. Во время Первой мировой войны поголовье собак этой породы значительно сократилось. Возрождением кламбера занялся в 20-е годы король Георг V. В Великобритании ежегодно регистрируется около 300 щенков кламбера, то есть порода является довольно редкой. Разведение кламберов в России началось в начале 2000-х годов. Породное поголовье насчитывает несколько десятков животных. Кламбер — самый массивный из спаниелей, высота в холке достигает полуметра. Голова объёмная, с характерным сонливо-мягким выражением морды. Нос имеет квадратную форму, уши напоминают по форме виноградные листья. На морде и передних лапах крап. Шерсть плотно прилегающая, прямая, на ушах, животе и ногах более длинная и шелковистая. Окрас преимущественно белый с крапом лимонного или оранжевого цвета вокруг глаз, на морде, передних лапах и у основания хвоста. Допустим также (хотя и очень редок) чисто белый окрас. Характер кламбера — «интеллигентный» и мягкий, однако возможна настороженность по отношению к незнакомцам. Кламбер использовался для охоты на фазана и куропатку. Хотя кламбер довольно медлителен по сравнению с другими спаниелями, он имеет преимущество в виде терпения и упорства. Возможен заворот век. Кламбер прекрасно себя чувствует в любую погоду.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "55-85 lbs",
+    "height": "17-20 inches",
+    "coat": "dense, straight, with feathering around ears, belly, and legs",
+    "activity": "moderate",
+    "trainability": "moderate; can be strong-willed and easily bored",
+    "grooming": "regular brushing; attention to ears and facial wrinkles",
+    "lifespan": "10-12 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "25–39 кг",
+    "рост": "43–51 см",
+    "шерсть": "плотная, прямая, с очёсами на ушах, животе и ногах",
+    "активность": "умеренная",
+    "обучаемость": "средняя; могут быть упрямыми и быстро утомляться",
+    "уход": "регулярное расчёсывание; внимание к ушам и складкам на морде",
+    "продолжительность жизни": "10–12 лет"
+  },
+  "behavior": {
+    "summary": "Clumber Spaniels are gentle, loyal, and affectionate dogs with a dignified demeanor. They are known for their calm disposition and can be somewhat reserved with strangers.",
+    "with_family": "They form strong bonds with family members, displaying affectionate and loyal behavior.",
+    "with_children": "Generally good with children, exhibiting patience and gentleness.",
+    "with_other_pets": "Can be reserved with other dogs until familiar; early socialization is beneficial.",
+    "with_strangers": "Tend to be aloof with strangers but are not aggressive.",
+    "special_traits": [
+      "Gentle and affectionate",
+      "Calm and dignified",
+      "Enjoys carrying objects",
+      "Can be strong-willed",
+      "Reserved with strangers"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Кламбер-спаниели — добрые, преданные и ласковые собаки с достоинственным поведением. Они известны своим спокойным нравом и могут быть несколько сдержанными с незнакомцами.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя привязанность и преданность.",
+    "с детьми": "Обычно хорошо ладят с детьми, проявляя терпение и мягкость.",
+    "с другими животными": "Могут быть сдержанными с другими собаками до знакомства; ранняя социализация полезна.",
+    "с незнакомцами": "Склонны к сдержанности с незнакомцами, но не агрессивны.",
+    "особые черты": [
+      "Добрые и ласковые",
+      "Спокойные и достоинственные",
+      "Любят носить предметы",
+      "Могут быть упрямыми",
+      "Сдержанные с незнакомцами"
+    ]
+  },
+  "health": {
+    "summary": "Clumber Spaniels are generally healthy but are predisposed to certain conditions due to their build and genetics. Regular veterinary care and preventive measures are essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Intervertebral disc disease (IVDD)",
+      "Entropion and ectropion (eyelid issues)",
+      "Ear infections",
+      "Hypothyroidism",
+      "Allergies"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce joint stress",
+      "Regular ear cleaning to prevent infections",
+      "Routine eye examinations",
+      "Avoid strenuous activities that may strain the spine",
+      "Provide a balanced diet to support overall health"
+    ],
+    "vet_checkups": "At least once a year; more frequent for puppies and senior dogs"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Кламбер-спаниели в целом здоровы, но предрасположены к определённым заболеваниям из-за своей конституции и генетики. Регулярный ветеринарный уход и профилактические меры необходимы.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Заболевания межпозвоночных дисков",
+      "Энтропия и эктропия (проблемы с веками)",
+      "Ушные инфекции",
+      "Гипотиреоз",
+      "Аллергии"
+    ],
+    "советы по профилактике": [
+      "Поддерживайте здоровый вес для снижения нагрузки на суставы",
+      "Регулярно чистите уши для предотвращения инфекций",
+      "Проводите регулярные осмотры глаз",
+      "Избегайте чрезмерных физических нагрузок, которые могут повредить позвоночник",
+      "Обеспечьте сбалансированное питание для поддержания общего здоровья"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для щенков и пожилых собак"
+  },
+  "care": {
+    "description": "Clumber Spaniels require moderate exercise, regular grooming, and attentive health care to maintain their well-being.",
+    "behavior": "They thrive on companionship and enjoy activities like walking and retrieving games.",
+    "health": "Regular veterinary check-ups and preventive care are crucial to monitor and manage potential health issues.",
+    "grooming": "Frequent brushing to manage shedding; regular ear cleaning and attention to facial wrinkles to prevent infections.",
+    "nutrition": "Balanced diet to maintain healthy weight; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Кламбер-спаниелям необходимы умеренные физические нагрузки, регулярный уход за шерстью и внимательное отношение к здоровью для поддержания их благополучия.",
+    "поведение и характер": "Они нуждаются в общении и любят такие занятия, как прогулки и игры с апортировкой.",
+    "здоровье и профилактика": "Регулярные ветеринарные осмотры и профилактический уход важны для контроля и управления потенциальными проблемами со здоровьем.",
+    "груминг и уход": "Частое расчёсывание для контроля линьки; регулярная чистка ушей и внимание к складкам на морде для предотвращения инфекций.",
+    "питание и активность": "Сбалансированное питание для поддержания здорового веса; контроль потребления пищи для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Clumber Spaniels good family pets?",
+      "answer": "Yes, they are gentle and affectionate, making them excellent companions for families."
+    },
+    {
+      "question": "Do Clumber Spaniels require a lot of exercise?",
+      "answer": "They need moderate exercise, such as daily walks and play sessions, to stay healthy."
+    },
+    {
+      "question": "Are Clumber Spaniels easy to train?",
+      "answer": "They are trainable but can be strong-willed; consistent, positive reinforcement methods work best."
+    },
+    {
+      "question": "Do Clumber Spaniels shed a lot?",
+      "answer": "Yes, they shed moderately and require regular brushing to manage their coat."
+    },
+    {
+      "question": "Are Clumber Spaniels prone to health issues?",
+      "answer": "They can be susceptible to certain conditions like hip dysplasia and ear infections; regular vet care is important."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли кламбер-спаниели хорошими семейными питомцами?",
+      "ответ": "Да, они добрые и ласковые, что делает их отличными компаньонами для семей."
+    },
+    {
+      "вопрос": "Требуют ли кламбер-спаниели много физических нагрузок?",
+      "ответ": "Им необходимы умеренные физические нагрузки, такие как ежедневные прогулки и игровые сессии, для поддержания здоровья."
+    },
+    {
+      "вопрос": "Легко ли дрессировать кламбер-спаниелей?",
+      "ответ": "Они поддаются дрессировке, но могут быть упрямыми; лучше всего работают методы позитивного подкрепления."
+    },
+    {
+      "вопрос": "Сильно ли линяют кламбер-спаниели?",
+      "ответ": "Да, они умеренно линяют и требуют регулярного расчёсывания для ухода за шерстью."
+    },
+    {
+      "вопрос": "Склонны ли кламбер-спаниели к проблемам со здоровьем?",
+      "ответ": "Они могут быть подвержены определённым заболеваниям, таким как дисплазия тазобедренного сустава и ушные инфекции; регулярный ветеринарный уход важен."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clumber_Spaniel",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-clumber-spaniels",
+    "https://www.petsradar.com/dogs/dog-breeds/clumber-spaniel-breed-profile",
+    "https://www.petmd.com/dog/breeds/clumber-spaniel",
+    "https://clumbers.org/clumber-101/general-health/",
+    "https://vcahospitals.com/know-your-pet/clumber-spaniel",
+    "https://www.clumberhealth.org/",
+    "https://ru.wikipedia.org/wiki/Кламбер-спаниель",
+    "https://www.purina.ru/find-a-pet/dog-breeds/klamber-spaniel",
+    "https://www.pedigree.ru/porody/klamber-spaniel",
+    "https://royalcanin.ru/dog-breed/clumber-spaniel",
+    "https://ogorodniki.com/catalog/klamber-spaniel",
+    "https://www.ptichka.ru/post/kto-takoj-klamber-spaniel-12271/",
+    "https://kinpet.ru/rossiya/sobaki_klamber-spaniel/",
+    "https://elkade-pero.ru/",
+    "https://www.allvet.ru/breeds/poroda_dogs146/"
+  ]
+}

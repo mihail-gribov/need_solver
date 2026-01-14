@@ -1,0 +1,83 @@
+{
+  "id": "american-hairless-terrier",
+  "name": "American Hairless Terrier",
+  "full_description": "<p>The American Hairless Terrier (AHT) is a distinctive breed that originated in the United States in the early 1970s. This breed emerged when a hairless puppy named Josephine was born in a litter of Rat Terriers in Louisiana. Recognizing the uniqueness of this hairless trait, breeders Edwin and Willie Scott selectively bred Josephine, leading to the establishment of the American Hairless Terrier as a separate breed. The United Kennel Club recognized the AHT in 2004, and the American Kennel Club followed in 2016. Physically, the AHT is a small to medium-sized dog, typically standing between 12 to 16 inches tall and weighing between 12 to 18 pounds. The breed is characterized by its hairless skin, which can display a variety of colors and patterns, often with freckles that may darken with age. Some AHTs are born with a short, dense coat, but the hairless variety is more common. Their ears are V-shaped and can be erect, tipped, or buttoned, and they possess a muscular, compact body with a slightly longer length than height. Temperamentally, American Hairless Terriers are known for their energetic, alert, and intelligent nature. They are curious and playful, making them excellent companions for active individuals or families. Their friendly disposition allows them to get along well with children and other pets when properly socialized. Originally bred from Rat Terriers, which were used for hunting vermin, the AHT retains a strong prey drive. However, due to their lack of a protective coat, they are not suited for traditional hunting roles. Instead, they excel in various dog sports such as agility and obedience, showcasing their trainability and enthusiasm. In modern times, the American Hairless Terrier has gained popularity as a companion dog, especially among individuals with allergies, as they are known to cause fewer allergic reactions compared to other breeds. Their unique appearance and lively personality have endeared them to many, making them a cherished member of the terrier group. Notable characteristics of the AHT include their hairless skin, which requires special care to protect against sunburn and cold temperatures. They are also known for their strong prey drive, intelligence, and affectionate nature, making them both a unique and loving companion.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "12-18 pounds",
+    "height": "12-16 inches",
+    "coat": "hairless; some may have whiskers and eyebrows",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "minimal; requires skin care",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "The American Hairless Terrier is an energetic, intelligent, and friendly breed, known for its curiosity and playful nature.",
+    "with_family": "They form strong bonds with family members and thrive on companionship and interaction.",
+    "with_children": "Generally good with children, but supervision is recommended to prevent accidental injury due to their small size.",
+    "with_other_pets": "With proper socialization, they can coexist well with other pets, though their prey drive may lead them to chase smaller animals.",
+    "with_strangers": "Typically friendly towards strangers, especially when properly socialized from a young age.",
+    "special_traits": [
+      "Energetic and playful",
+      "Highly intelligent and trainable",
+      "Affectionate with family",
+      "Strong prey drive",
+      "Curious and alert"
+    ]
+  },
+  "health": {
+    "summary": "American Hairless Terriers are generally healthy but can be prone to certain conditions, particularly related to their skin and joints.",
+    "common_issues": [
+      "Patellar luxation",
+      "Hip dysplasia",
+      "Primary lens luxation",
+      "Heart disease",
+      "Allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide joint supplements as recommended",
+      "Protect skin from sun exposure",
+      "Monitor for signs of allergies"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "The American Hairless Terrier requires attentive care, particularly for its skin, along with regular exercise and mental stimulation.",
+    "behavior": "Engage in daily play and training sessions to satisfy their high energy levels and intelligence.",
+    "health": "Monitor for common health issues and maintain regular veterinary visits to ensure overall well-being.",
+    "grooming": "Protect their skin from sunburn with appropriate clothing or sunscreen, and keep them warm in cold weather.",
+    "nutrition": "Provide a balanced diet suitable for small to medium-sized active breeds, and monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are American Hairless Terriers hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, AHTs are known to cause fewer allergic reactions in sensitive individuals."
+    },
+    {
+      "question": "Do they require special skin care?",
+      "answer": "Yes, their hairless skin needs protection from sun exposure and cold temperatures to prevent sunburn and hypothermia."
+    },
+    {
+      "question": "Are they good with children?",
+      "answer": "Yes, they are generally good with children, but supervision is advised to prevent accidental injury due to their small size."
+    },
+    {
+      "question": "How much exercise do they need?",
+      "answer": "They require daily exercise, including walks and playtime, to meet their high energy levels and prevent boredom."
+    },
+    {
+      "question": "Can they live in apartments?",
+      "answer": "Yes, their small size and adaptability make them suitable for apartment living, provided they receive adequate exercise."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/the-bald-and-beautiful-american-hairless-terrier/",
+    "https://www.petmd.com/dog/breeds/american-hairless-terrier",
+    "https://www.hillspet.com/dog-care/dog-breeds/american-hairless-terrier",
+    "https://www.webmd.com/pets/dogs/what-to-know-american-hairless-terriers",
+    "https://ahtca.info/about-the-aht.html"
+  ]
+}

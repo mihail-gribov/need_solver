@@ -1,0 +1,163 @@
+{
+  "id": "norwich-terrier",
+  "name": "Norwich Terrier",
+  "name_rus": "Норвич-терьер",
+  "full_description": "<p>The Norwich Terrier, originating from East Anglia, England, is one of the smallest working terriers, developed primarily for hunting small rodents. This breed was initially recognized in 1936, with the prick-eared variety designated as the Norwich Terrier and the drop-eared variety as the Norfolk Terrier. Physically, the Norwich Terrier stands approximately 10 inches tall at the withers and weighs around 12 pounds. They possess a hard, wiry double coat that comes in shades of red, wheaten, black and tan, or grizzle. Their small, dark, oval-shaped eyes and erect, medium-sized ears contribute to their alert and keen expression. Temperamentally, Norwich Terriers are known for their affectionate, fearless, and loyal nature. They are confident and social, bonding closely with their families, making them excellent companions for both individuals and families, including those with children or other pets. Originally bred to hunt small vermin, they are energetic and require daily exercise and mental stimulation. In modern times, they have transitioned into beloved family pets, appreciated for their spirited and stocky build, as well as their agreeable and hardy disposition. Notable characteristics of the breed include their sensitive prick ears, slightly foxy expression, and a natural, weatherproof coat that requires regular grooming to maintain its texture and appearance.</p>",
+  "full_description_rus": "<p>Норвич-терьер — одна из самых маленьких рабочих пород терьеров, выведенная в Восточной Англии, Великобритания, для охоты на мелких грызунов. Порода была официально признана в 1932 году, а в 1964 году разновидность с стоячими ушами получила название норвич-терьер, а с висячими — норфолк-терьер. Норвич-терьеры имеют компактное телосложение: рост в холке составляет около 25 см, вес — примерно 5–6 кг. Шерсть жесткая, проволокообразная, защищающая от неблагоприятных погодных условий, с возможными окрасами: красный, пшеничный, черный с подпалом или серый. Глаза миндалевидной формы, темные, уши стоячие, среднего размера, придающие собаке настороженное и живое выражение. По характеру норвич-терьеры дружелюбны, отважны и преданны. Они уверенные в себе и общительные, тесно привязываются к своим семьям, что делает их отличными компаньонами для одиноких людей и семей, включая семьи с детьми и другими домашними животными. Первоначально выведенные для охоты на мелких вредителей, норвич-терьеры энергичны и нуждаются в ежедневных физических нагрузках и умственной стимуляции. В современном мире они стали любимыми семейными питомцами, ценимыми за их живой и крепкий характер, а также за дружелюбный и выносливый нрав. Особенностями породы являются чувствительные стоячие уши, слегка лисье выражение морды и естественная, устойчивая к погодным условиям шерсть, требующая регулярного ухода для поддержания ее текстуры и внешнего вида.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "approximately 12 pounds",
+    "height": "approximately 10 inches",
+    "coat": "hard, wiry double coat in shades of red, wheaten, black and tan, or grizzle",
+    "activity": "high",
+    "trainability": "moderate",
+    "grooming": "regular brushing; hand-stripping twice annually",
+    "lifespan": "12–15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "примерно 5–6 кг",
+    "рост": "около 25 см",
+    "шерсть": "жесткая, проволокообразная, двойная, окрасы: красный, пшеничный, черный с подпалом или серый",
+    "активность": "высокая",
+    "обучаемость": "умеренная",
+    "уход": "регулярное расчесывание; тримминг два раза в год",
+    "продолжительность жизни": "12–15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "affectionate",
+      "fearless",
+      "loyal",
+      "confident",
+      "social"
+    ],
+    "summary": "Norwich Terriers are affectionate, fearless, and loyal companions, known for their confident and social nature.",
+    "with_children": "They are suitable for families with children, displaying a friendly and playful demeanor.",
+    "with_family": "They bond closely with their families, making them excellent companions for both individuals and families.",
+    "with_other_pets": "They can coexist well with other pets, especially when socialized from an early age.",
+    "with_strangers": "They are generally friendly towards strangers but may exhibit a cautious approach initially."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Норвич-терьеры — дружелюбные, отважные и преданные компаньоны, известные своей уверенностью и общительностью.",
+    "с семьёй": "Они тесно привязываются к своим семьям, становясь отличными спутниками для одиноких людей и семей.",
+    "с детьми": "Подходят для семей с детьми, проявляя дружелюбие и игривость.",
+    "с другими животными": "Могут хорошо уживаться с другими домашними животными, особенно при ранней социализации.",
+    "с незнакомцами": "Обычно дружелюбны к незнакомцам, но могут проявлять осторожность вначале.",
+    "особые черты": [
+      "дружелюбный",
+      "отважный",
+      "преданный",
+      "уверенный",
+      "общительный"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "luxating patella",
+      "dental issues",
+      "tracheal collapse",
+      "hip dysplasia",
+      "epilepsy"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain a healthy weight",
+      "provide regular dental care",
+      "use a harness instead of a collar to protect the trachea",
+      "ensure regular exercise and mental stimulation"
+    ],
+    "summary": "Norwich Terriers are generally healthy dogs with a lifespan of 12–15 years but may be predisposed to certain health issues.",
+    "vet_checkups": "bi-annual checkups recommended"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Норвич-терьеры в целом здоровые собаки с продолжительностью жизни 12–15 лет, но могут быть предрасположены к некоторым заболеваниям.",
+    "распространённые проблемы": [
+      "вывих надколенника",
+      "зубные проблемы",
+      "коллапс трахеи",
+      "дисплазия тазобедренного сустава",
+      "эпилепсия"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "поддержание здорового веса",
+      "регулярный уход за зубами",
+      "использование шлейки вместо ошейника для защиты трахеи",
+      "обеспечение регулярных физических и умственных нагрузок"
+    ],
+    "рекомендуемые осмотры": "рекомендуются осмотры два раза в год"
+  },
+  "care": {
+    "behavior": "They thrive on companionship and should not be left alone for extended periods to prevent separation anxiety.",
+    "description": "Norwich Terriers require regular grooming, daily exercise, and mental stimulation to maintain their health and happiness.",
+    "grooming": "Regular brushing and hand-stripping twice annually are necessary to maintain the coat's texture and appearance.",
+    "health": "Regular veterinary check-ups and preventive care are essential to monitor and address potential health issues.",
+    "nutrition": "Provide a balanced diet appropriate for their age and activity level, and monitor their weight to prevent obesity."
+  },
+  "care_rus": {
+    "поведение и характер": "Они нуждаются в постоянном общении и не должны оставаться одни на длительное время, чтобы избежать тревоги разлуки.",
+    "краткое описание ухода": "Норвич-терьеры требуют регулярного ухода за шерстью, ежедневных физических упражнений и умственной стимуляции для поддержания здоровья и счастья.",
+    "груминг и уход": "Регулярное расчесывание и тримминг два раза в год необходимы для поддержания текстуры и внешнего вида шерсти.",
+    "здоровье и профилактика": "Регулярные ветеринарные осмотры и профилактический уход важны для мониторинга и предотвращения возможных проблем со здоровьем.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее возрасту и уровню активности, и следите за весом, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Norwich Terriers good with children?",
+      "answer": "Yes, they are friendly and playful, making them suitable companions for families with children."
+    },
+    {
+      "question": "How much exercise does a Norwich Terrier need?",
+      "answer": "They require daily exercise and mental stimulation to stay healthy and happy."
+    },
+    {
+      "question": "Do Norwich Terriers shed a lot?",
+      "answer": "They shed moderately; regular brushing helps manage shedding and keeps their coat healthy."
+    },
+    {
+      "question": "Are Norwich Terriers easy to train?",
+      "answer": "They have moderate trainability; consistent, positive reinforcement methods work best."
+    },
+    {
+      "question": "What is the lifespan of a Norwich Terrier?",
+      "answer": "They typically live between 12 to 15 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли норвич-терьеры для семей с детьми?",
+      "ответ": "Да, они дружелюбны и игривы, что делает их подходящими компаньонами для семей с детьми."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется норвич-терьеру?",
+      "ответ": "Им необходимы ежедневные физические упражнения и умственная стимуляция для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Сильно ли линяют норвич-терьеры?",
+      "ответ": "Они линяют умеренно; регулярное расчесывание помогает контролировать линьку и поддерживать шерсть в хорошем состоянии."
+    },
+    {
+      "вопрос": "Легко ли дрессировать норвич-терьеров?",
+      "ответ": "У них умеренная обучаемость; лучше всего работают последовательные методы положительного подкрепления."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни норвич-терьера?",
+      "ответ": "При надлежащем уходе они обычно живут от 12 до 15 лет."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/breed-groups/norwich-terrier",
+    "https://www.akc.org/dog-breeds/norwich-terrier/",
+    "https://www.petmd.com/dog/breeds/norwich-terrier",
+    "https://en.wikipedia.org/wiki/Norwich_Terrier",
+    "https://vcahospitals.com/know-your-pet/norwich-terrier",
+    "https://ru.wikipedia.org/wiki/Норвич-терьер",
+    "https://www.purina.ru/find-a-pet/dog-breeds/norvich-terer",
+    "https://www.hillspet.ru/dog-care/dog-breeds/norwich-terrier",
+    "https://www.pedigree.ru/porody/norvitch-terier",
+    "https://www.purinaone.ru/dog/articles/breeds/norvich-terer-proiskhozhenie-porody",
+    "https://webvet.ru/information/norvich-terer/",
+    "https://www.cesar.ru/porody/norvich-terer/"
+  ]
+}

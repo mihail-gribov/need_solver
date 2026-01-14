@@ -1,0 +1,84 @@
+{
+  "need_id": "high_energy",
+  "formula": "energy & exercise_need",
+  "formula_reasoning": "Breeds with high 'energy' are naturally active, while high 'exercise_need' means they require significant daily physical activity. Both together ensure the dog matches an owner's desire for a very active companion.",
+  "questions": [
+    {
+      "id": "high_energy_q1",
+      "text": "Ваша жизнь связана с регулярными физическими нагрузками — спорт, прогулки, пробежки на свежем воздухе?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = пользователь ведёт активный образ жизни, нужна энергичная собака. Нет = малоподвижный образ жизни, высокая энергия не подходит."
+    },
+    {
+      "id": "high_energy_q2",
+      "text": "Готовы ли вы ежедневно выделять время на длительные и активные прогулки с собакой?",
+      "weight": 0.95,
+      "style": "situational",
+      "verification": "Да = пользователь готов к активной собаке с большими потребностями в движении. Нет = предпочтительнее спокойные породы."
+    },
+    {
+      "id": "high_energy_q3",
+      "text": "Вам нравится проводить выходные на природе — походы, поездки, активный отдых?",
+      "weight": 0.7,
+      "style": "indirect",
+      "verification": "Да = пользователь предпочитает активный досуг, высокая энергия собаки будет уместна. Нет = менее выраженная потребность в активности."
+    },
+    {
+      "id": "high_energy_q4",
+      "text": "Планируете ли вы заниматься с собакой различными видами спорта (аджилити, каникросс, фрисби и др.)?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = высокая вовлечённость в активные занятия, нужна энергичная собака. Нет = нет особой потребности в высокой активности."
+    },
+    {
+      "id": "high_energy_q5",
+      "text": "У вас достаточно свободного времени, чтобы уделять внимание подвижным играм с собакой ежедневно?",
+      "weight": 0.85,
+      "style": "situational",
+      "verification": "Да = есть возможность удовлетворить потребности активной собаки. Нет = предпочтительнее менее энергичная порода."
+    }
+  ],
+  "need_name": "High Energy",
+  "need_description": "High activity is desirable",
+  "block": "activity_lifestyle",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

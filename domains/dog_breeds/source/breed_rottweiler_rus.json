@@ -1,0 +1,156 @@
+{
+  "id": "rottweiler",
+  "name": "Rottweiler",
+  "name_rus": "Ротвейлер",
+  "full_description": "<p>The Rottweiler is a medium-large, robust, and powerful dog breed with a rich history dating back to ancient Rome. Originally developed from mastiff-type dogs used for herding and guarding livestock, Rottweilers accompanied Roman legions across the Alps, protecting and driving cattle. As the Romans established settlements, these dogs became integral to the town of Rottweil in Germany, where they were known as \"butcher dogs\" for their role in herding cattle to market and pulling carts laden with butchered meat. This historical background underscores the breed's strength, endurance, and versatility.</p>\n<p>Physically, Rottweilers are distinguished by their black coats with clearly defined rust to mahogany markings. Males typically stand between 24 to 27 inches at the shoulder, while females range from 22 to 25 inches. Their compact and substantial build conveys great strength, agility, and endurance. The breed's head is of medium length with a broad skull, and their ears are small and pendant-shaped. Their coat is of medium length, coarse, and flat, with a dense undercoat that is essential on the neck and thighs.</p>\n<p>Temperamentally, Rottweilers are known for their calm, confident, and courageous nature. They possess a strong protective instinct, making them excellent guard dogs. While they can be reserved with strangers, they are affectionate and loyal to their families. Their intelligence and adaptability make them suitable for various roles, including police work, therapy, and participation in dog sports such as Schutzhund training, agility, carting, herding, and obedience.</p>\n<p>Historically, Rottweilers were bred for herding and guarding livestock, as well as pulling carts for butchers. In the early 20th century, their versatility led to their use as police dogs, and they have since become popular as loyal household companions.</p>\n<p>In modern times, Rottweilers continue to serve as working dogs in various capacities, including search and rescue, police work, and as therapy dogs. Their popularity has remained strong, and they are recognized for their affectionate yet watchful nature.</p>\n<p>Notable characteristics of the Rottweiler include their strong protective instincts, intelligence, and versatility. They are known to be \"leaners,\" often leaning against their owners, a behavior thought to originate from their herding background.</p>",
+  "full_description_rus": "<p>Ротвейлер — это средне-крупная, крепкая и мощная порода собак с богатой историей, уходящей корнями в Древний Рим. Изначально выведенные из мастифоподобных собак, использовавшихся для выпаса и охраны скота, ротвейлеры сопровождали римские легионы через Альпы, защищая и перегоняя стада. С развитием римских поселений эти собаки стали неотъемлемой частью города Ротвайль в Германии, где их называли \"мясницкими собаками\" за их роль в перегоне скота на рынок и перевозке тележек с мясом. Эта историческая предыстория подчеркивает силу, выносливость и универсальность породы.</p>\n<p>Физически ротвейлеры отличаются черной шерстью с четко выраженными отметинами от ржавого до махагони. Кобели обычно достигают высоты в холке от 61 до 68 см, а суки — от 56 до 63 см. Их компактное и массивное телосложение передает большую силу, ловкость и выносливость. Голова породы средней длины с широким черепом, уши небольшие и висячие. Шерсть средней длины, грубая и прямая, с плотным подшерстком, особенно выраженным на шее и бедрах.</p>\n<p>По темпераменту ротвейлеры известны своим спокойным, уверенным и смелым характером. Они обладают сильным защитным инстинктом, что делает их отличными сторожевыми собаками. Хотя они могут быть сдержанными с незнакомцами, они привязаны и лояльны к своим семьям. Их интеллект и адаптивность делают их подходящими для различных ролей, включая работу в полиции, терапию и участие в собачьих видах спорта, таких как шутцхунд, аджилити, перевозка грузов, пастушество и послушание.</p>\n<p>Исторически ротвейлеры были выведены для выпаса и охраны скота, а также для перевозки тележек для мясников. В начале XX века их универсальность привела к использованию в качестве полицейских собак, и с тех пор они стали популярными как преданные домашние компаньоны.</p>\n<p>В современное время ротвейлеры продолжают служить рабочими собаками в различных сферах, включая поисково-спасательные операции, работу в полиции и в качестве терапевтических собак. Их популярность остается высокой, и они признаны за свою привязанность и бдительность.</p>\n<p>Значимые характеристики ротвейлера включают их сильные защитные инстинкты, интеллект и универсальность. Известно, что они любят \"прислоняться\" к своим владельцам, что считается поведением, происходящим из их пастушьего прошлого.</p>",
+  "parameters": {
+    "size": "medium-large",
+    "weight": "80-135 pounds",
+    "height": "22-27 inches",
+    "coat": "short, dense, coarse, black with rust to mahogany markings",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "weekly brushing; regular bathing",
+    "lifespan": "9-10 years"
+  },
+  "parameters_rus": {
+    "размер": "средний-крупный",
+    "вес": "36-61 кг",
+    "рост": "56-68 см",
+    "шерсть": "короткая, плотная, грубая, черная с отметинами от ржавого до махагони",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "еженедельное расчесывание; регулярное купание",
+    "продолжительность жизни": "9-10 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Strong protective instincts",
+      "Intelligent and trainable",
+      "Affectionate with family",
+      "Reserved with strangers",
+      "Versatile working abilities"
+    ],
+    "summary": "Rottweilers are calm, confident, and courageous dogs with strong protective instincts. They are affectionate and loyal to their families, making them excellent companions and guard dogs.",
+    "with_children": "With proper training and socialization, Rottweilers can be patient and gentle with children. However, due to their size and strength, interactions should always be supervised to prevent accidental injuries.",
+    "with_family": "Rottweilers are devoted to their families, displaying affection and loyalty. They thrive on companionship and are known to be gentle and loving with their loved ones.",
+    "with_other_pets": "Early socialization is key for Rottweilers to coexist peacefully with other pets. They can get along well with other animals if introduced properly, but their strong prey drive may pose challenges with smaller animals.",
+    "with_strangers": "Rottweilers tend to be reserved and cautious around strangers. Their protective nature means they may be wary of unfamiliar people, making early socialization important to ensure appropriate behavior."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Ротвейлеры — спокойные, уверенные и смелые собаки с сильными защитными инстинктами. Они привязаны и лояльны к своим семьям, что делает их отличными компаньонами и сторожевыми собаками.",
+    "с семьёй": "Ротвейлеры преданы своим семьям, проявляя привязанность и лояльность. Они процветают в компании и известны своей нежностью и любовью к близким.",
+    "с детьми": "При правильной дрессировке и социализации ротвейлеры могут быть терпеливыми и нежными с детьми. Однако из-за их размера и силы взаимодействия всегда должны быть под присмотром, чтобы предотвратить случайные травмы.",
+    "с другими животными": "Ранняя социализация важна для того, чтобы ротвейлеры мирно сосуществовали с другими животными. Они могут хорошо ладить с другими питомцами при правильном знакомстве, но их сильный охотничий инстинкт может создавать сложности с мелкими животными.",
+    "с незнакомцами": "Ротвейлеры склонны быть сдержанными и осторожными с незнакомцами. Их защитная природа означает, что они могут быть настороженными к незнакомым людям, поэтому ранняя социализация важна для обеспечения надлежащего поведения.",
+    "особые черты": [
+      "Сильные защитные инстинкты",
+      "Интеллектуальность и обучаемость",
+      "Привязанность к семье",
+      "Сдержанность с незнакомцами",
+      "Универсальные рабочие способности"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Aortic stenosis",
+      "Osteosarcoma",
+      "Obesity"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Balanced diet appropriate for age and activity level",
+      "Routine health screenings for early detection of issues",
+      "Responsible breeding practices to reduce genetic disorders",
+      "Avoid overexertion during growth periods to protect joints"
+    ],
+    "summary": "Rottweilers are generally healthy but are prone to certain genetic health issues. Regular veterinary care and a healthy lifestyle are essential to maintain their well-being.",
+    "vet_checkups": "At least once a year; more frequent visits for senior dogs or those with health concerns"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Ротвейлеры в целом здоровы, но склонны к определенным генетическим заболеваниям. Регулярный ветеринарный уход и здоровый образ жизни необходимы для поддержания их благополучия.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Аортальный стеноз",
+      "Остеосаркома",
+      "Ожирение"
+    ],
+    "советы по профилактике": [
+      "Регулярные физические упражнения для поддержания здорового веса",
+      "Сбалансированное питание, соответствующее возрасту и уровню активности",
+      "Плановые медицинские осмотры для раннего выявления проблем",
+      "Ответственное разведение для снижения риска генетических заболеваний",
+      "Избегание чрезмерных нагрузок в период роста для защиты суставов"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты для пожилых собак или при наличии проблем со здоровьем"
+  },
+  "care": {
+    "behavior": "Early socialization and obedience training are crucial to manage their protective instincts and ensure they are well-behaved companions.",
+    "description": "Rottweilers require consistent training, regular exercise, and proper grooming to ensure their physical and mental well-being.",
+    "grooming": "Weekly brushing and regular bathing help manage shedding and keep their coat healthy. Nail trimming and dental care should also be part of the routine.",
+    "health": "Regular veterinary checkups, a balanced diet, and routine exercise are essential to prevent common health issues and maintain overall health.",
+    "nutrition": "Provide a balanced diet suitable for their age, size, and activity level. Monitor food intake to prevent obesity, and ensure access to fresh water at all times."
+  },
+  "care_rus": {
+    "поведение и характер": "Ранняя социализация и обучение послушанию необходимы для управления их защитными инстинктами и обеспечения хорошего поведения.",
+    "краткое описание ухода": "Ротвейлеры требуют последовательной дрессировки, регулярных физических нагрузок и надлежащего ухода для поддержания их физического и психического здоровья.",
+    "груминг и уход": "Еженедельное расчесывание и регулярное купание помогают контролировать линьку и поддерживать здоровье шерсти. Также следует регулярно подстригать когти и ухаживать за зубами.",
+    "здоровье и профилактика": "Регулярные ветеринарные осмотры, сбалансированное питание и плановые физические упражнения необходимы для предотвращения распространенных проблем со здоровьем и поддержания общего состояния.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее возрасту, размеру и уровню активности. Контролируйте потребление пищи, чтобы предотвратить ожирение, и обеспечьте постоянный доступ к свежей воде."
+  },
+  "faq": [
+    {
+      "question": "Are Rottweilers good family dogs?",
+      "answer": "Yes, with proper training and socialization, Rottweilers can be affectionate and loyal family companions."
+    },
+    {
+      "question": "Do Rottweilers require a lot of exercise?",
+      "answer": "Yes, they are an active breed that benefits from regular exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Are Rottweilers aggressive?",
+      "answer": "Rottweilers are protective and may be reserved with strangers, but with proper training, they are not inherently aggressive."
+    },
+    {
+      "question": "How much grooming do Rottweilers need?",
+      "answer": "They require weekly brushing and regular bathing to maintain their coat and manage shedding."
+    },
+    {
+      "question": "What is the average lifespan of a Rottweiler?",
+      "answer": "Rottweilers typically live between 9 to 10 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли ротвейлеры хорошими семейными собаками?",
+      "ответ": "Да, при правильной дрессировке и социализации ротвейлеры могут быть привязанными и лояльными семейными компаньонами."
+    },
+    {
+      "вопрос": "Требуют ли ротвейлеры много физических упражнений?",
+      "ответ": "Да, это активная порода, которая нуждается в регулярных физических нагрузках для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Являются ли ротвейлеры агрессивными?",
+      "ответ": "Ротвейлеры обладают защитными инстинктами и могут быть сдержанными с незнакомцами, но при правильной дрессировке они не являются агрессивными по своей природе."
+    },
+    {
+      "вопрос": "Сколько ухода требует ротвейлер?",
+      "ответ": "Они требуют еженедельного расчесывания и регулярного купания для поддержания состояния шерсти и контроля линьки."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни ротвейлера?",
+      "ответ": "Ротвейлеры обычно живут от 9 до 10 лет."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/7-fun-facts-about-the-rottweiler/",
+    "https://www.ukcdogs.com/rottweiler",
+    "https://www.akc.org/expert-advice/dog-breeds/rottweiler-right-for-you/",
+    "https://www.akc.org/expert-advice/dog-breeds/rottweiler-history/",
+    "https://www.akc.org/expert-advice/lifestyle/fun-facts-rottweiler/"
+  ]
+}

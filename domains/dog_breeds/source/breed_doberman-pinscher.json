@@ -1,0 +1,83 @@
+{
+  "id": "doberman-pinscher",
+  "name": "Doberman Pinscher",
+  "full_description": "<p>The Doberman Pinscher, often referred to simply as the Doberman, is a medium-large breed of domestic dog originally developed in Germany in the late 19th century. The breed's creator, Karl Friedrich Louis Dobermann, was a tax collector who sought to develop a loyal and protective companion to accompany him during his duties. By selectively breeding dogs such as the old shorthaired shepherd, Rottweiler, Black and Tan Terrier, and the German Pinscher, he achieved a versatile working dog known for its intelligence, strength, and loyalty.</p>\n<p>Physically, the Doberman presents a sleek and athletic build. Males typically stand between 68 to 72 cm (27 to 28 inches) at the withers and weigh around 40 to 45 kg (88 to 99 pounds), while females are slightly smaller, measuring 63 to 68 cm (25 to 27 inches) in height and weighing 32 to 35 kg (70 to 77 pounds). Their coat is short, hard, and close-lying, commonly found in black and tan or red and tan colorations.</p>\n<p>Temperamentally, Dobermans are known for their intelligence, alertness, and unwavering loyalty. They are energetic and require consistent physical and mental stimulation to prevent boredom and the development of undesirable behaviors. Their protective nature makes them excellent guard dogs, yet they are also affectionate with their families. Early socialization and training are crucial to ensure they are well-mannered and adaptable.</p>\n<p>Originally bred for protection and companionship, Dobermans have excelled in various working roles, including police and military service, search and rescue, and as therapy dogs. Their versatility and trainability have made them a popular choice for these demanding tasks.</p>\n<p>In modern times, the Doberman remains a popular breed worldwide. According to statistics compiled by the American Kennel Club in 2009, the Doberman Pinscher ranked 15th in registrations, reflecting its enduring appeal.</p>\n<p>Notable characteristics of the breed include their sleek appearance, high intelligence, and strong protective instincts. They are also known for their loyalty and affectionate nature towards their families, making them both formidable protectors and loving companions.</p>",
+  "parameters": {
+    "size": "medium-large",
+    "weight": "Males: 40-45 kg; Females: 32-35 kg",
+    "height": "Males: 68-72 cm; Females: 63-68 cm",
+    "coat": "short, hard, close-lying",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "low maintenance; weekly brushing",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "Doberman Pinschers are intelligent, energetic, and loyal dogs known for their protective nature and strong bond with their families.",
+    "with_family": "They are affectionate and devoted to their family members, often forming strong bonds and displaying protective behaviors.",
+    "with_children": "With proper socialization, Dobermans can be good with children, though supervision is recommended due to their size and energy levels.",
+    "with_other_pets": "They may coexist with other pets if raised together, but their strong prey drive can be a concern with smaller animals.",
+    "with_strangers": "Dobermans are naturally wary of strangers, making them excellent watchdogs; early socialization helps ensure appropriate behavior.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Strong protective instincts",
+      "Energetic and requires regular exercise",
+      "Loyal and affectionate with family",
+      "Alert and vigilant"
+    ]
+  },
+  "health": {
+    "summary": "Doberman Pinschers are generally healthy but are predisposed to certain genetic health issues that owners should monitor.",
+    "common_issues": [
+      "Dilated cardiomyopathy (DCM)",
+      "Von Willebrand disease",
+      "Hypothyroidism",
+      "Hip dysplasia",
+      "Gastric dilatation-volvulus (bloat)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for known conditions",
+      "Maintaining a healthy diet and weight",
+      "Regular exercise",
+      "Early socialization and training"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Doberman Pinschers require consistent training, regular exercise, and routine health care to thrive as companions.",
+    "behavior": "Early and consistent training is essential to manage their intelligence and energy; they respond well to positive reinforcement techniques.",
+    "health": "Regular veterinary visits and preventive care are crucial to monitor and manage breed-specific health concerns.",
+    "grooming": "Their short coat requires minimal grooming; weekly brushing and occasional baths suffice to keep them clean.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is important; avoid feeding immediately before or after exercise to reduce the risk of bloat."
+  },
+  "faq": [
+    {
+      "question": "Are Doberman Pinschers good family dogs?",
+      "answer": "Yes, with proper training and socialization, they are loyal and protective family companions."
+    },
+    {
+      "question": "How much exercise does a Doberman need?",
+      "answer": "They require daily physical and mental stimulation to stay healthy and happy."
+    },
+    {
+      "question": "Do Dobermans get along with other pets?",
+      "answer": "They can coexist with other pets if raised together, but their prey drive may be a concern with smaller animals."
+    },
+    {
+      "question": "What are common health issues in Dobermans?",
+      "answer": "They are prone to conditions like dilated cardiomyopathy, von Willebrand disease, and hypothyroidism."
+    },
+    {
+      "question": "How long do Doberman Pinschers live?",
+      "answer": "Their average lifespan is 10 to 12 years."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dobermann",
+    "https://www.petmd.com/dog/breeds/doberman-pinscher",
+    "https://www.webmd.com/pets/dogs/what-know-about-doberman-pinschers",
+    "https://www.healthypawspetinsurance.com/blog/dog-breeds/doberman-pinscher-breed-guide-insurance-plan",
+    "https://www.carecredit.com/well-u/pet-care/doberman-pinscher-dog-breed/"
+  ]
+}

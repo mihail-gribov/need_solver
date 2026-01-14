@@ -1,0 +1,84 @@
+{
+  "need_id": "low_shedding",
+  "formula": "~shedding",
+  "formula_reasoning": "Минимальная линька определяется низким значением признака shedding (~shedding). Это основной фактор, влияющий на количество шерсти в доме и необходимость частой уборки.",
+  "questions": [
+    {
+      "id": "low_shedding_q1",
+      "text": "Вам важно, чтобы в доме практически не было шерсти от собаки?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = явно выраженная потребность в минимальной линьке. Нет = шерсть не проблема."
+    },
+    {
+      "id": "low_shedding_q2",
+      "text": "Вы предпочитаете породы, которые почти не оставляют шерсть на мебели и одежде?",
+      "weight": 0.85,
+      "style": "direct",
+      "verification": "Да = значим критерий низкой линьки. Нет = шерсть не пугает."
+    },
+    {
+      "id": "low_shedding_q3",
+      "text": "Частая уборка шерсти дома для вас нежелательна?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = уборка не устраивает, нужно мало линяющая собака. Нет = готовы убирать — линька не критична."
+    },
+    {
+      "id": "low_shedding_q4",
+      "text": "Вы много времени проводите дома и замечаете пыль и шерсть на полу?",
+      "weight": 0.6,
+      "style": "situational",
+      "verification": "Да = склонны замечать линьку, будет раздражать. Нет = не обращают внимания, шерсть не проблема."
+    },
+    {
+      "id": "low_shedding_q5",
+      "text": "В вашей семье есть люди, которым неприятно видеть шерсть животных на вещах?",
+      "weight": 0.75,
+      "style": "situational",
+      "verification": "Да = важна минимальная линька. Нет = шерсть не вызывает дискомфорта."
+    }
+  ],
+  "need_name": "Low Shedding",
+  "need_description": "Minimal shedding / hair in the house",
+  "block": "health_allergies",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

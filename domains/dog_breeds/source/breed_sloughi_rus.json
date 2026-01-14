@@ -1,0 +1,154 @@
+{
+  "id": "sloughi",
+  "name": "Sloughi",
+  "name_rus": "Слюги",
+  "full_description": "<p>The Sloughi, also known as the Arabian Greyhound, is an ancient sighthound breed originating from North Africa, particularly Morocco, Algeria, Tunisia, and Libya. Esteemed for its hunting prowess, the Sloughi was traditionally used to pursue game such as gazelles, hares, foxes, jackals, and wild boars across diverse terrains, including deserts, mountains, and brushlands. Historical evidence, such as Neolithic rock paintings and Egyptian tomb art, suggests the breed's existence dates back thousands of years. The Sloughi's introduction to Europe occurred in the late 19th century, with the Fédération Cynologique Internationale (FCI) officially recognizing the breed in 1934. The American Kennel Club (AKC) granted full recognition to the Sloughi in 2016, classifying it within the Hound Group. Physically, the Sloughi is a medium to large-sized dog characterized by a lean, athletic build. Males typically stand between 26 to 29 inches (66-72 cm) at the shoulder, while females range from 24 to 27 inches (61-68 cm). Their weight varies from 40 to 62 pounds (18-28 kg). The breed's coat is short, smooth, and fine, with colors spanning from light sand to mahogany red-fawn, often accompanied by brindling or black markings. Notably, the Sloughi's head is long and wedge-shaped, featuring large, dark, oval to almond-shaped eyes that convey a gentle, somewhat melancholic expression. Temperamentally, Sloughis are known for their noble and somewhat aloof demeanor. They exhibit strong loyalty and affection towards their families but can be reserved around strangers. Their independent nature, coupled with a keen prey drive, necessitates early socialization and consistent training. Historically bred for hunting, Sloughis possess remarkable speed, agility, and endurance, making them adept at coursing game over long distances. In contemporary settings, while they are primarily cherished as companions, they excel in activities like lure coursing, which align with their innate hunting instincts. Despite their ancient lineage, Sloughis remain relatively rare outside their native regions. Their unique combination of elegance, athleticism, and loyalty continues to captivate enthusiasts worldwide.</p>",
+  "full_description_rus": "<p>Слюги, также известные как арабская борзая, — древняя порода борзых, происходящая из Северной Африки, особенно из Марокко, Алжира, Туниса и Ливии. Высоко ценимые за свои охотничьи способности, слюги традиционно использовались для преследования дичи, такой как газели, зайцы, лисы, шакалы и кабаны, на разнообразных ландшафтах, включая пустыни, горы и кустарниковые заросли. Исторические свидетельства, такие как неолитические наскальные рисунки и египетское погребальное искусство, указывают на существование породы на протяжении тысячелетий. В Европу слюги были завезены в конце XIX века, и в 1934 году Международная кинологическая федерация (FCI) официально признала породу. Американский клуб собаководства (AKC) полностью признал слюги в 2016 году, отнеся их к группе гончих. Физически слюги — собаки среднего и крупного размера с стройным, атлетическим телосложением. Рост кобелей обычно составляет от 66 до 72 см в холке, сук — от 61 до 68 см. Вес варьируется от 18 до 28 кг. Шерсть короткая, гладкая и тонкая, окрасы варьируются от светло-песочного до красно-рыжего махагона, часто с тигровыми или черными отметинами. Голова длинная и клиновидная, с большими, темными, овальными или миндалевидными глазами, придающими мягкое, несколько меланхоличное выражение. По темпераменту слюги известны своим благородным и несколько сдержанным поведением. Они проявляют сильную преданность и привязанность к своим семьям, но могут быть сдержанными с незнакомцами. Их независимый характер и выраженный охотничий инстинкт требуют ранней социализации и последовательной дрессировки. Исторически выведенные для охоты, слюги обладают выдающейся скоростью, ловкостью и выносливостью, что делает их искусными в преследовании дичи на большие расстояния. В современных условиях, хотя они в основном ценятся как компаньоны, они преуспевают в таких мероприятиях, как курсинг, соответствующих их врожденным охотничьим инстинктам. Несмотря на свою древнюю родословную, слюги остаются относительно редкими за пределами родных регионов. Их уникальное сочетание элегантности, атлетизма и преданности продолжает привлекать энтузиастов по всему миру.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "18-28 kg",
+    "height": "61-72 cm",
+    "coat": "short, smooth, fine",
+    "activity": "high",
+    "trainability": "moderate",
+    "grooming": "minimal; weekly brushing",
+    "lifespan": "10-16 years"
+  },
+  "parameters_rus": {
+    "size": "средний / крупный",
+    "weight": "18-28 кг",
+    "height": "61-72 см",
+    "coat": "короткая, гладкая, тонкая",
+    "activity": "высокая",
+    "trainability": "средняя",
+    "grooming": "минимальный; еженедельное расчесывание",
+    "lifespan": "10-16 лет"
+  },
+  "behavior": {
+    "summary": "Sloughis are noble and somewhat aloof, exhibiting strong loyalty to their families while being reserved around strangers. Their independent nature and keen prey drive require early socialization and consistent training.",
+    "with_family": "Affectionate and loyal, forming strong bonds with family members.",
+    "with_children": "Generally good with children, especially when raised together, but supervision is recommended due to their size and energy.",
+    "with_other_pets": "May coexist with other pets if socialized early, but their high prey drive can be a concern with smaller animals.",
+    "with_strangers": "Reserved and aloof, often wary of unfamiliar people.",
+    "special_traits": [
+      "Independent",
+      "Loyal",
+      "Aloof with strangers",
+      "High prey drive",
+      "Sensitive to owner's demeanor"
+    ]
+  },
+  "behavior_rus": {
+    "summary": "Слюги — благородные и несколько сдержанные собаки, проявляющие сильную преданность своим семьям, но сдержанные с незнакомцами. Их независимый характер и выраженный охотничий инстинкт требуют ранней социализации и последовательной дрессировки.",
+    "with_family": "Ласковые и преданные, формируют крепкие связи с членами семьи.",
+    "with_children": "В целом хорошо ладят с детьми, особенно если выросли вместе, но рекомендуется присмотр из-за их размера и энергии.",
+    "with_other_pets": "Могут сосуществовать с другими животными при ранней социализации, но их сильный охотничий инстинкт может представлять опасность для мелких животных.",
+    "with_strangers": "Сдержанные и настороженные, часто осторожны с незнакомцами.",
+    "special_traits": [
+      "Независимые",
+      "Преданные",
+      "Сдержанные с незнакомцами",
+      "Сильный охотничий инстинкт",
+      "Чувствительны к настроению владельца"
+    ]
+  },
+  "health": {
+    "summary": "Sloughis are generally healthy but, like all breeds, they are prone to certain health conditions. Regular veterinary care and preventive measures can help maintain their well-being.",
+    "common_issues": [
+      "Progressive Retinal Atrophy (PRA)",
+      "Hip Dysplasia",
+      "Sensitivity to anesthesia",
+      "Autoimmune disorders"
+    ],
+    "prevention_tips": [
+      "Regular eye examinations",
+      "Hip evaluations",
+      "Cautious use of anesthesia",
+      "Routine health screenings"
+    ],
+    "vet_checkups": "Annually, or as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "summary": "Слюги в целом здоровы, но, как и все породы, склонны к определенным заболеваниям. Регулярный ветеринарный уход и профилактические меры помогут поддерживать их здоровье.",
+    "common_issues": [
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Дисплазия тазобедренного сустава",
+      "Чувствительность к анестезии",
+      "Аутоиммунные заболевания"
+    ],
+    "prevention_tips": [
+      "Регулярные осмотры глаз",
+      "Оценка состояния тазобедренных суставов",
+      "Осторожное использование анестезии",
+      "Плановые медицинские обследования"
+    ],
+    "vet_checkups": "Ежегодно или по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "Sloughis require attentive care to maintain their health and well-being, including regular exercise, minimal grooming, and a balanced diet.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature and high prey drive.",
+    "health": "Regular veterinary check-ups and preventive care are crucial to monitor and address potential health issues.",
+    "grooming": "Their short coat requires minimal grooming; weekly brushing is sufficient to remove loose hair and maintain coat health.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential; portion control is important to prevent obesity."
+  },
+  "care_rus": {
+    "description": "Слюги требуют внимательного ухода для поддержания их здоровья и благополучия, включая регулярные физические нагрузки, минимальный уход за шерстью и сбалансированное питание.",
+    "behavior": "Ранняя социализация и последовательная дрессировка необходимы для управления их независимым характером и сильным охотничьим инстинктом.",
+    "health": "Регулярные ветеринарные осмотры и профилактический уход важны для мониторинга и предотвращения возможных проблем со здоровьем.",
+    "grooming": "Их короткая шерсть требует минимального ухода; еженедельное расчесывание достаточно для удаления выпадающих волос и поддержания здоровья шерсти.",
+    "nutrition": "Сбалансированное питание, соответствующее их возрасту, размеру и уровню активности, необходимо; контроль порций важен для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Sloughis good family pets?",
+      "answer": "Yes, they are loyal and affectionate with family members but may be reserved around strangers."
+    },
+    {
+      "question": "Do Sloughis require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and need regular, vigorous exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Sloughis easy to train?",
+      "answer": "They are intelligent but can be independent; consistent, positive reinforcement training is recommended."
+    },
+    {
+      "question": "Do Sloughis get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, but their prey drive may be a concern with smaller animals."
+    },
+    {
+      "question": "What is the lifespan of a Sloughi?",
+      "answer": "Sloughis typically live between 10 to 16 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Подходят ли слюги для семейного содержания?",
+      "answer": "Да, они преданы и ласковы с членами семьи, но могут быть сдержанными с незнакомцами."
+    },
+    {
+      "question": "Требуют ли слюги много физических нагрузок?",
+      "answer": "Да, у них высокий уровень энергии, и им необходимы регулярные, интенсивные физические нагрузки для поддержания здоровья и счастья."
+    },
+    {
+      "question": "Легко ли дрессировать слюги?",
+      "answer": "Они умны, но могут быть независимыми; рекомендуется последовательная дрессировка с положительным подкреплением."
+    },
+    {
+      "question": "Ладят ли слюги с другими животными?",
+      "answer": "При правильной социализации они могут сосуществовать с другими животными, но их охотничий инстинкт может представлять опасность для мелких животных."
+    },
+    {
+      "question": "Какова продолжительность жизни слюги?",
+      "answer": "Слюги обычно живут от 10 до 16 лет."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/content/entertainment/articles/about-the-sloughi/",
+    "https://www.ukcdogs.com/sloughi",
+    "https://www.thekennelclub.org.uk/breed-standards/hound/sloughi/",
+    "https://www.fci.be/en/nomenclature/Sloughi-188.html",
+    "https://www.westminsterkennelclub.org/breed/sloughi/",
+    "https://www.purina.ru/find-a-pet/dog-breeds/slyugi-arabskaya-borzaya",
+    "https://petstory.ru/knowledge/dogs/dog-breeds/sloughi/"
+  ]
+}

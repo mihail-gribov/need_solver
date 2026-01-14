@@ -1,0 +1,84 @@
+{
+  "need_id": "cold_tolerant",
+  "formula": "cold_tolerance",
+  "formula_reasoning": "Показатель cold_tolerance напрямую отражает способность породы переносить холодную погоду. Для проживания или прогулок в условиях холода важно, чтобы собака хорошо переносила низкие температуры.",
+  "questions": [
+    {
+      "id": "cold_tolerant_q1",
+      "text": "Вы живёте в регионе, где зимой бывают устойчивые морозы и снег?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = среда с холодной зимой, нужна холодоустойчивая собака. Нет = мягкий климат, нет особой потребности."
+    },
+    {
+      "id": "cold_tolerant_q2",
+      "text": "Планируете ли вы проводить с собакой много времени на улице в холодное время года?",
+      "weight": 0.85,
+      "style": "situational",
+      "verification": "Да = длительные прогулки зимой, нужна устойчивость к холоду. Нет = в основном дома, не критично."
+    },
+    {
+      "id": "cold_tolerant_q3",
+      "text": "У вас частный дом, где собака будет находиться на улице в зимний период?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = собака будет жить/бывать на улице зимой, нужна устойчивость к холоду. Нет = собака будет в доме, менее важно."
+    },
+    {
+      "id": "cold_tolerant_q4",
+      "text": "Вы занимаетесь зимними видами активности на свежем воздухе (например, лыжи, походы, прогулки) и хотите брать собаку с собой?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = собака нужна для активностей на морозе, важна холодоустойчивость. Нет = не планируются длительные выходы на мороз."
+    },
+    {
+      "id": "cold_tolerant_q5",
+      "text": "В вашем регионе часто бывают температуры ниже -10°C в течение зимы?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = суровый климат, нужна холодоустойчивая собака. Нет = мягкие зимы, не обязательно."
+    }
+  ],
+  "need_name": "Cold Tolerant",
+  "need_description": "Tolerates cold weather well",
+  "block": "housing_environment",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

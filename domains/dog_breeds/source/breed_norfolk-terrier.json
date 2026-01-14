@@ -1,0 +1,83 @@
+{
+  "id": "norfolk-terrier",
+  "name": "Norfolk Terrier",
+  "full_description": "<p>The Norfolk Terrier, one of the smallest working terriers, originated in East Anglia, England, during the late 19th and early 20th centuries. Initially bred to control vermin populations in barns and stables, these dogs were also employed to bolt foxes during hunts. They share a common ancestry with the Norwich Terrier, with the primary distinction being their ear carriage: Norfolks have drop ears, while Norwiches have erect ears. The breed was officially recognized as distinct from the Norwich Terrier in England in 1964 and in the United States in 1979. Physically, Norfolk Terriers are compact and sturdy, standing 9 to 10 inches tall at the withers and weighing between 11 to 12 pounds. They possess a hard, wiry, and straight double coat that comes in shades of red, wheaten, black and tan, or grizzle. Their expressive, dark, oval-shaped eyes and small, neatly folded ears contribute to their alert and friendly appearance. The tail is of moderate length, thick at the base, and tapers towards the tip, carried jauntily. Temperamentally, Norfolk Terriers are known for their fearless and affectionate nature. They are energetic, intelligent, and thrive on human companionship, making them excellent family pets. Their sociable disposition allows them to get along well with children and other animals when properly socialized. Despite their small size, they exhibit a strong prey drive and may chase small animals outdoors. Originally bred for hunting and vermin control, Norfolk Terriers possess a keen sense of smell and determination, traits that made them effective in their traditional roles. Today, they excel in various canine sports such as agility, obedience, and earthdog trials, showcasing their versatility and eagerness to work. In modern times, Norfolk Terriers have transitioned from their working origins to become cherished companions worldwide. Their adaptable nature makes them suitable for both urban and rural living environments. While they are not as common as some other breeds, their loyal and spirited character has earned them a dedicated following among dog enthusiasts. Notable characteristics of the Norfolk Terrier include their compact size, making them ideal for various living situations; their low-shedding, weather-resistant coat; and their balanced temperament, combining the tenacity of a working terrier with the affectionate nature of a companion dog.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "11-12 pounds",
+    "height": "9-10 inches",
+    "coat": "hard, wiry, straight; colors include red, wheaten, black and tan, or grizzle",
+    "activity": "moderate to high",
+    "trainability": "moderate; intelligent but can be independent",
+    "grooming": "regular brushing; hand-stripping twice a year",
+    "lifespan": "12-16 years"
+  },
+  "behavior": {
+    "summary": "Norfolk Terriers are affectionate, energetic, and sociable dogs that thrive on human companionship and are well-suited to family life.",
+    "with_family": "They form strong bonds with family members and enjoy participating in household activities.",
+    "with_children": "Generally good with children, especially when raised together; supervision is recommended to ensure positive interactions.",
+    "with_other_pets": "Can coexist peacefully with other pets if properly socialized; may chase smaller animals due to their prey drive.",
+    "with_strangers": "Friendly and approachable, often welcoming strangers with curiosity rather than aggression.",
+    "special_traits": [
+      "fearless and confident",
+      "affectionate and loyal",
+      "energetic and playful",
+      "intelligent with an independent streak",
+      "alert and watchful"
+    ]
+  },
+  "health": {
+    "summary": "Norfolk Terriers are generally healthy but are predisposed to certain conditions that owners should monitor.",
+    "common_issues": [
+      "mitral valve disease",
+      "hip dysplasia",
+      "luxating patella",
+      "cataracts",
+      "lens luxation"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain a healthy weight",
+      "provide a balanced diet",
+      "ensure regular exercise",
+      "monitor for signs of heart or joint issues"
+    ],
+    "vet_checkups": "annually; more frequent if health issues are present"
+  },
+  "care": {
+    "description": "Norfolk Terriers require attentive care, including regular grooming, exercise, and health monitoring to ensure a happy and healthy life.",
+    "behavior": "Engage in daily play and training sessions to stimulate their minds and satisfy their energetic nature.",
+    "health": "Schedule regular veterinary visits and stay vigilant for breed-specific health concerns.",
+    "grooming": "Brush their coat weekly and perform hand-stripping twice a year to maintain coat health.",
+    "nutrition": "Feed a balanced diet appropriate for their size and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Norfolk Terriers good with children?",
+      "answer": "Yes, they are generally good with children, especially when raised together; supervision is recommended to ensure positive interactions."
+    },
+    {
+      "question": "How much exercise does a Norfolk Terrier need?",
+      "answer": "They require daily exercise, including walks and playtime, to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Norfolk Terriers shed a lot?",
+      "answer": "They have a low-shedding coat that requires regular grooming to maintain its condition."
+    },
+    {
+      "question": "Are Norfolk Terriers easy to train?",
+      "answer": "They are intelligent but can be independent; consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "What is the lifespan of a Norfolk Terrier?",
+      "answer": "They typically live between 12 to 16 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://www.westminsterkennelclub.org/breed/norfolk-terrier/",
+    "https://www.petmd.com/dog/breeds/norfolk-terrier",
+    "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/small-dogs/norfolk-terrier",
+    "https://www.vetstreet.com/dogs/norfolk-terrier",
+    "https://vcahospitals.com/know-your-pet/norfolk-terrier"
+  ]
+}

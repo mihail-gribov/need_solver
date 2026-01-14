@@ -1,0 +1,158 @@
+{
+  "id": "lakeland-terrier",
+  "name": "Lakeland Terrier",
+  "name_rus": "Лейкленд-терьер",
+  "full_description": "<p>The Lakeland Terrier, originating from England's Lake District, was developed in the 19th century to hunt vermin and protect livestock from foxes. Bred for agility and endurance, they are small, sturdy dogs with a square build, standing about 14.5 inches tall and weighing between 15 to 17 pounds. Their dense, wiry double coat comes in various colors, including black, blue, liver, red, and wheaten, often with saddle markings. Lakelands are known for their bold, friendly, and self-confident temperament. They are intelligent and quick learners but can be independent, requiring consistent training. Originally bred for hunting, they possess a strong prey drive and excel in activities like Earthdog trials. Today, they serve as affectionate family companions and participate in dog sports. Notable characteristics include their minimal shedding, making them suitable for allergy sufferers, and their energetic nature, which necessitates regular exercise.</p>",
+  "full_description_rus": "<p>Лейкленд-терьер — английская порода охотничьих собак, выведенная в XIX веке в Озёрном крае Англии для охоты на вредителей и защиты скота от лисиц. Эти небольшие, крепкие собаки квадратного формата достигают роста около 37 см и весят от 6,5 до 8 кг. Их плотная, жёсткая двойная шерсть бывает различных окрасов, включая чёрный, голубой, печёночный, рыжий и пшеничный, часто с отметинами на спине. Лейкленды известны своим смелым, дружелюбным и уверенным в себе характером. Они умны и быстро обучаются, но могут проявлять независимость, требующую последовательной дрессировки. Изначально выведенные для охоты, они обладают сильным охотничьим инстинктом и преуспевают в таких мероприятиях, как норные испытания. Сегодня они служат преданными семейными компаньонами и участвуют в различных собачьих видах спорта. Примечательными чертами являются их минимальная линька, что делает их подходящими для людей с аллергией, и энергичный характер, требующий регулярных физических нагрузок.</p>",
+  "parameters": {
+    "activity": "moderate to high",
+    "coat": "dense, wiry double coat",
+    "grooming": "regular brushing; coat stripping several times a year",
+    "height": "14.5 inches",
+    "lifespan": "12-16 years",
+    "size": "small",
+    "trainability": "moderate",
+    "weight": "15-17 pounds"
+  },
+  "parameters_rus": {
+    "size": "маленький",
+    "weight": "6,5-8 кг",
+    "height": "около 37 см",
+    "coat": "плотная, жёсткая двойная шерсть",
+    "activity": "умеренная до высокой",
+    "trainability": "средняя",
+    "grooming": "регулярное расчёсывание; тримминг несколько раз в год",
+    "lifespan": "12-16 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Energetic and playful",
+      "Strong prey drive",
+      "Independent and intelligent",
+      "Affectionate with family",
+      "Minimal shedding"
+    ],
+    "summary": "Lakeland Terriers are energetic, intelligent, and affectionate dogs with a strong prey drive and independent nature.",
+    "with_children": "Generally good with children, especially when socialized early, but supervision is recommended due to their energetic nature.",
+    "with_family": "They form strong bonds with family members and are affectionate and playful.",
+    "with_other_pets": "May not be ideal with smaller pets due to their strong prey drive; early socialization is crucial.",
+    "with_strangers": "Alert and may be cautious around strangers; proper socialization can help them become more accepting."
+  },
+  "behavior_rus": {
+    "summary": "Лейкленд-терьеры — энергичные, умные и ласковые собаки с сильным охотничьим инстинктом и независимым характером.",
+    "with_family": "Они формируют крепкие связи с членами семьи, проявляя привязанность и игривость.",
+    "with_children": "Обычно хорошо ладят с детьми, особенно при ранней социализации, но из-за их энергичности рекомендуется присмотр.",
+    "with_other_pets": "Могут не подходить для совместного содержания с мелкими животными из-за сильного охотничьего инстинкта; важна ранняя социализация.",
+    "with_strangers": "Бдительны и могут быть осторожны с незнакомцами; правильная социализация поможет им стать более дружелюбными.",
+    "special_traits": [
+      "Энергичные и игривые",
+      "Сильный охотничий инстинкт",
+      "Независимые и умные",
+      "Ласковые с семьёй",
+      "Минимальная линька"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Dental disease",
+      "Patellar luxation",
+      "Lens luxation",
+      "Legg-Calvé-Perthes disease",
+      "Cataracts"
+    ],
+    "prevention_tips": [
+      "Regular dental care, including brushing and professional cleanings",
+      "Routine veterinary check-ups",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Early detection through genetic screening"
+    ],
+    "summary": "Lakeland Terriers are generally healthy but can be prone to certain conditions common in small breeds.",
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "summary": "Лейкленд-терьеры обычно здоровы, но могут быть склонны к некоторым заболеваниям, характерным для мелких пород.",
+    "common_issues": [
+      "Заболевания зубов",
+      "Вывих надколенника",
+      "Вывих хрусталика",
+      "Болезнь Легга-Кальве-Пертеса",
+      "Катаракта"
+    ],
+    "prevention_tips": [
+      "Регулярный уход за зубами, включая чистку и профессиональную чистку",
+      "Плановые визиты к ветеринару",
+      "Поддержание здорового веса",
+      "Обеспечение регулярных физических нагрузок",
+      "Ранняя диагностика с помощью генетического скрининга"
+    ],
+    "vet_checkups": "Ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "behavior": "Provide mental stimulation and physical activity to prevent boredom and destructive behaviors.",
+    "description": "Lakeland Terriers require regular exercise, consistent training, and routine grooming to maintain their health and happiness.",
+    "grooming": "Regular brushing and coat stripping several times a year to maintain coat health.",
+    "health": "Monitor for common health issues and maintain regular veterinary visits.",
+    "nutrition": "Balanced diet appropriate for their size and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "description": "Лейкленд-терьерам необходимы регулярные физические нагрузки, последовательная дрессировка и систематический уход за шерстью для поддержания их здоровья и счастья.",
+    "behavior": "Обеспечьте умственную стимуляцию и физическую активность, чтобы предотвратить скуку и разрушительное поведение.",
+    "health": "Следите за общим состоянием здоровья и регулярно посещайте ветеринара.",
+    "grooming": "Регулярное расчёсывание и тримминг несколько раз в год для поддержания здоровья шерсти.",
+    "nutrition": "Сбалансированное питание, соответствующее их размеру и уровню активности; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "answer": "Yes, they are generally good with children, especially when socialized early, but supervision is recommended due to their energetic nature.",
+      "question": "Are Lakeland Terriers good with children?"
+    },
+    {
+      "answer": "No, they have minimal shedding, making them suitable for allergy sufferers.",
+      "question": "Do Lakeland Terriers shed a lot?"
+    },
+    {
+      "answer": "They require at least an hour of exercise daily to stay healthy and happy.",
+      "question": "How much exercise does a Lakeland Terrier need?"
+    },
+    {
+      "answer": "They are intelligent and quick learners but can be independent, requiring consistent and patient training.",
+      "question": "Are Lakeland Terriers easy to train?"
+    },
+    {
+      "answer": "They typically live between 12 to 16 years.",
+      "question": "What is the lifespan of a Lakeland Terrier?"
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Лейкленд-терьеры хорошо ладят с детьми?",
+      "answer": "Да, они обычно хорошо ладят с детьми, особенно при ранней социализации, но из-за их энергичности рекомендуется присмотр."
+    },
+    {
+      "question": "Лейкленд-терьеры сильно линяют?",
+      "answer": "Нет, они практически не линяют, что делает их подходящими для людей с аллергией."
+    },
+    {
+      "question": "Сколько упражнений требуется лейкленд-терьеру?",
+      "answer": "Им необходимо не менее часа физических нагрузок ежедневно для поддержания здоровья и счастья."
+    },
+    {
+      "question": "Легко ли дрессировать лейкленд-терьеров?",
+      "answer": "Они умны и быстро обучаются, но могут проявлять независимость, требующую последовательной и терпеливой дрессировки."
+    },
+    {
+      "question": "Какова продолжительность жизни лейкленд-терьера?",
+      "answer": "Они обычно живут от 12 до 16 лет."
+    }
+  ],
+  "sources": [
+    "https://ru.wikipedia.org/wiki/Лейкленд-терьер",
+    "https://kinpet.ru/leyklend-terer/",
+    "https://royalcanin.ru/dog-breed/lakeland-terrier",
+    "https://www.syl.ru/article/328162/leyklend-terer-foto-opisanie-osobennosti-soderjaniya-i-uhoda",
+    "https://vogdog.com/ru/leyklend-terer/",
+    "https://www.allvet.ru/breeds/poroda_dogs164/",
+    "https://lakeland-terrier.ru/history"
+  ]
+}

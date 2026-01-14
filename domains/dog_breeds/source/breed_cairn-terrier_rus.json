@@ -1,0 +1,161 @@
+{
+  "id": "cairn-terrier",
+  "name": "Cairn Terrier",
+  "name_rus": "Керн-терьер",
+  "full_description": "<p>The Cairn Terrier is a small, hardy breed originating from the Scottish Highlands and the Isle of Skye. Developed in the 17th century, these dogs were bred to control vermin populations threatening game on farms. Their name derives from 'cairns,' the stone piles common in the highlands, where they would flush out rodents. Physically, Cairn Terriers are compact and agile, standing approximately 28-31 cm (11-12 inches) tall and weighing between 6-7.5 kg (14-16 lbs). They possess a double coat: a harsh, weather-resistant outer layer and a soft undercoat, which can be cream, wheaten, red, grey, or nearly black, often with brindling. Their expressive eyes are dark hazel, set wide apart beneath shaggy eyebrows, and their small, pointed ears stand erect. Temperamentally, Cairns are fearless, assertive, and cheerful, embodying a 'gay disposition.' They are intelligent and curious, making them quick learners but sometimes stubborn. Originally, they excelled in hunting small prey, showcasing remarkable persistence and tenacity. Today, they are cherished as family companions, known for their affectionate nature and adaptability to various living environments. Notably, a Cairn Terrier named Toto gained fame in 'The Wizard of Oz,' highlighting the breed's enduring appeal.</p>",
+  "full_description_rus": "<p>Керн-терьер — одна из самых древних пород терьеров, происходящая из Шотландского нагорья и острова Скай. Разведённые в XVII веке, эти собаки были предназначены для контроля популяции вредителей, угрожающих дичи на фермах. Название породы происходит от слова 'керн', означающего груду камней, где эти собаки выгоняли грызунов. Физически керн-терьеры компактны и подвижны, их рост составляет примерно 28–31 см, а вес — от 6 до 7,5 кг. Они обладают двойной шерстью: жёстким, устойчивым к погодным условиям внешним слоем и мягким подшёрстком. Окрас может быть кремовым, пшеничным, рыжим, серым или почти чёрным, часто с тигровым рисунком. Их выразительные глаза тёмно-орехового цвета широко расставлены под лохматыми бровями, а маленькие заострённые уши стоят прямо. По характеру керны бесстрашны, напористы и жизнерадостны, обладают 'весёлым нравом'. Они умны и любопытны, что делает их быстрыми учениками, хотя иногда они могут быть упрямыми. Изначально они превосходно охотились на мелкую дичь, демонстрируя удивительную настойчивость и упорство. Сегодня они ценятся как семейные компаньоны, известные своей привязанностью и адаптивностью к различным условиям жизни. Примечательно, что керн-терьер по кличке Тото стал знаменитым благодаря фильму 'Волшебник страны Оз', что подчёркивает неизменную привлекательность этой породы.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "6-7.5 kg (14-16 lbs)",
+    "height": "28-31 cm (11-12 inches)",
+    "coat": "double-coated with a harsh, weather-resistant outer coat and a soft undercoat; colors include cream, wheaten, red, grey, or nearly black, often with brindling",
+    "activity": "moderate to high",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "requires regular brushing more than once a week",
+    "lifespan": "over 10 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "6–7,5 кг",
+    "рост": "28–31 см",
+    "шерсть": "двойная: жёсткий, устойчивый к погодным условиям внешний слой и мягкий подшёрсток; окрасы включают кремовый, пшеничный, рыжий, серый или почти чёрный, часто с тигровым рисунком",
+    "активность": "умеренная до высокой",
+    "обучаемость": "средняя; умны, но могут быть упрямыми",
+    "уход": "требуется регулярное расчёсывание более одного раза в неделю",
+    "продолжительность жизни": "более 10 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Fearless and assertive",
+      "Highly intelligent and curious",
+      "Strong prey drive",
+      "Energetic and playful",
+      "Loyal and affectionate with family"
+    ],
+    "summary": "Cairn Terriers are lively, intelligent, and assertive dogs with a fearless and cheerful disposition.",
+    "with_children": "Generally good with children, especially when socialized early, but supervision is recommended due to their energetic nature.",
+    "with_family": "Affectionate and loyal, they form strong bonds with family members and enjoy being involved in daily activities.",
+    "with_other_pets": "Can coexist with other pets if introduced properly, though their strong prey drive may lead to chasing smaller animals.",
+    "with_strangers": "Alert and wary of strangers, making them effective watchdogs without being overly aggressive."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Керн-терьеры — энергичные, умные и напористые собаки с бесстрашным и жизнерадостным нравом.",
+    "с семьёй": "Привязчивы и верны, формируют крепкие связи с членами семьи и любят участвовать в повседневных делах.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации, но из-за их энергичности рекомендуется присмотр.",
+    "с другими животными": "Могут уживаться с другими питомцами при правильном знакомстве, хотя их сильный охотничий инстинкт может побуждать к преследованию мелких животных.",
+    "с незнакомцами": "Бдительны и насторожены к незнакомцам, что делает их эффективными сторожевыми собаками без излишней агрессии.",
+    "особые черты": [
+      "Бесстрашные и напористые",
+      "Высокоинтеллектуальные и любопытные",
+      "Сильный охотничий инстинкт",
+      "Энергичные и игривые",
+      "Верные и привязчивые к семье"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Globoid Cell Leukodystrophy (GLD)",
+      "Craniomandibular Osteopathy",
+      "Pyruvate Kinase Deficiency",
+      "Von Willebrand Disease Type I",
+      "Congenital Macrothrombocytopenia"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for known breed-specific conditions",
+      "Maintaining a healthy diet and weight",
+      "Providing regular exercise",
+      "Ensuring proper dental care"
+    ],
+    "summary": "Cairn Terriers are generally healthy with a lifespan over 10 years but may be prone to certain genetic conditions.",
+    "vet_checkups": "At least once a year, with more frequent visits for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Керн-терьеры в целом здоровая порода с продолжительностью жизни более 10 лет, но могут быть склонны к некоторым генетическим заболеваниям.",
+    "распространённые проблемы": [
+      "Глобоидно-клеточная лейкодистрофия (GLD)",
+      "Краниомандибулярная остеопатия",
+      "Дефицит пируваткиназы",
+      "Болезнь фон Виллебранда I типа",
+      "Врожденная макротромбоцитопения"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Генетическое тестирование на известные породные заболевания",
+      "Поддержание здоровой диеты и веса",
+      "Обеспечение регулярных физических нагрузок",
+      "Обеспечение надлежащего ухода за зубами"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год, с более частыми визитами для пожилых собак или имеющих проблемы со здоровьем."
+  },
+  "care": {
+    "behavior": "Early socialization and firm, consistent training are essential to manage their assertive nature and prevent undesirable behaviors.",
+    "description": "Cairn Terriers require regular grooming, consistent training, and ample exercise to maintain their health and happiness.",
+    "grooming": "Brush their double coat more than once a week to prevent matting and remove debris; occasional hand-stripping may be necessary.",
+    "health": "Regular health screenings and preventive care are crucial to detect and manage breed-specific health issues.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "описание": "Керн-терьеры требуют регулярного ухода за шерстью, последовательной дрессировки и достаточных физических нагрузок для поддержания здоровья и счастья.",
+    "поведение": "Ранняя социализация и твёрдая, последовательная дрессировка необходимы для управления их напористым характером и предотвращения нежелательного поведения.",
+    "здоровье": "Регулярные медицинские осмотры и профилактический уход важны для выявления и управления породными заболеваниями.",
+    "груминг": "Расчёсывайте их двойную шерсть более одного раза в неделю, чтобы предотвратить спутывание и удалить мусор; периодически может потребоваться ручной тримминг.",
+    "питание": "Обеспечьте сбалансированное питание, соответствующее их возрасту, размеру и уровню активности; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Cairn Terriers good for first-time dog owners?",
+      "answer": "Yes, with proper training and socialization, they can be suitable for first-time owners."
+    },
+    {
+      "question": "Do Cairn Terriers shed a lot?",
+      "answer": "They shed minimally but require regular grooming to maintain their coat."
+    },
+    {
+      "question": "Are Cairn Terriers hypoallergenic?",
+      "answer": "No dog is completely hypoallergenic, but their low-shedding coat may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Cairn Terrier need?",
+      "answer": "They require up to 1 hour of exercise per day to stay healthy and happy."
+    },
+    {
+      "question": "Can Cairn Terriers live in apartments?",
+      "answer": "Yes, they adapt well to apartment living if they receive sufficient exercise and mental stimulation."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли керн-терьеры для владельцев без опыта?",
+      "ответ": "Да, при правильной дрессировке и социализации они могут быть подходящими для владельцев без опыта."
+    },
+    {
+      "вопрос": "Сильно ли линяют керн-терьеры?",
+      "ответ": "Они линяют минимально, но требуют регулярного ухода за шерстью для поддержания её состояния."
+    },
+    {
+      "вопрос": "Являются ли керн-терьеры гипоаллергенными?",
+      "ответ": "Полностью гипоаллергенных собак не существует, но их слабо линяющая шерсть может подойти некоторым аллергикам."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется керн-терьеру?",
+      "ответ": "Им требуется до 1 часа физических нагрузок в день для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Могут ли керн-терьеры жить в квартирах?",
+      "ответ": "Да, они хорошо адаптируются к жизни в квартире при условии достаточных физических и умственных нагрузок."
+    }
+  ],
+  "sources": [
+    "https://www.thekennelclub.org.uk/breed-standards/terrier/cairn-terrier/",
+    "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/cairn-terrier/",
+    "https://www.akc.org/expert-advice/lifestyle/fun-facts-cairn-terrier/",
+    "https://www.akc.org/breeder-programs/dna/dna-resource-center/akc-dna-health/breed-specific-dna-testing-recommendations/",
+    "https://cdn.akc.org/Marketplace/Health-Statement/Cairn-Terrier.pdf",
+    "https://cairnterrier.ru/",
+    "https://www.pedigree.ru/porody/kern-terier",
+    "https://www.royalcanin.com/ee/ru-ee/dogs/breeds/cairn-terrier",
+    "https://www.hillspet.ru/dog-care/dog-breeds/cairn-terrier",
+    "https://www.purina.ru/find-a-pet/dog-breeds/kern-terer"
+  ]
+}

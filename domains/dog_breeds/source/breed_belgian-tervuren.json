@@ -1,0 +1,83 @@
+{
+  "id": "belgian-tervuren",
+  "name": "Belgian Tervuren",
+  "full_description": "<p>The Belgian Tervuren, one of the four varieties of Belgian Shepherds, originated in Belgium in the late 19th century. Named after the village of Tervuren, this breed was developed by M.F. Corbeel, who bred a pair of fawn long-haired Belgian Shepherds, leading to the establishment of the Tervuren variety. Initially bred for herding and guarding livestock, the Tervuren has evolved into a versatile working dog, excelling in various roles such as police work, search and rescue, and service assistance. Physically, the Belgian Tervuren is a medium to large-sized dog with a well-balanced, square build. Males typically stand between 24 to 26 inches at the withers, weighing 60 to 75 pounds, while females are slightly smaller, standing 22 to 24 inches tall and weighing 40 to 55 pounds. The breed boasts a double coat with a dense undercoat and a long, straight, abundant outer coat. Coat colors range from rich fawn to russet mahogany, often with a black overlay and a distinctive black mask. The Tervuren's expression is intelligent and alert, with dark brown, almond-shaped eyes and erect, triangular ears. Known for their intelligence and high energy levels, Belgian Tervurens are affectionate and devoted to their families. They are protective and can be reserved around strangers, making early socialization crucial. Their strong work ethic and eagerness to please make them highly trainable, though they require consistent, positive reinforcement training methods. Originally bred for herding, the Tervuren's agility and stamina have made them adept in various working roles, including police and military work, search and rescue operations, and as service dogs. Their versatility extends to dog sports such as agility, obedience, and herding trials. In modern times, the Belgian Tervuren is appreciated both as a working dog and a family companion. While not as common as some other breeds, they have a dedicated following and are recognized for their versatility and loyalty. Notable characteristics of the breed include their elegant appearance, high intelligence, and strong protective instincts. Their boundless energy and need for mental stimulation make them best suited for active families or individuals who can provide ample exercise and engagement.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "Males: 60-75 pounds; Females: 40-55 pounds",
+    "height": "Males: 24-26 inches; Females: 22-24 inches",
+    "coat": "long, straight, abundant outer coat with a dense undercoat; colors range from fawn to russet mahogany with black overlay",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; more frequent during shedding seasons",
+    "lifespan": "12-14 years"
+  },
+  "behavior": {
+    "summary": "Belgian Tervurens are intelligent, energetic, and protective dogs, known for their loyalty and strong work ethic.",
+    "with_family": "They are affectionate and devoted to their families, forming strong bonds and often displaying a protective nature.",
+    "with_children": "Generally good with children, especially when raised with them, but their herding instincts may lead them to chase or nip during play.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though their strong prey drive may pose challenges with smaller animals.",
+    "with_strangers": "Tend to be reserved around strangers, making early socialization important to prevent overly protective behaviors.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Strong protective instincts",
+      "High energy levels requiring ample exercise",
+      "Affectionate with family members",
+      "Versatile in various working roles"
+    ]
+  },
+  "health": {
+    "summary": "Belgian Tervurens are generally healthy but are predisposed to certain genetic conditions that owners should monitor.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy",
+      "Hypothyroidism",
+      "Gastric dilatation-volvulus (bloat)",
+      "Epilepsy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintaining a healthy weight",
+      "Providing a balanced diet",
+      "Ensuring regular exercise",
+      "Early detection through genetic testing"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with known health issues"
+  },
+  "care": {
+    "description": "Belgian Tervurens require consistent training, regular exercise, and proper grooming to maintain their health and well-being.",
+    "behavior": "Early socialization and obedience training are essential to manage their protective instincts and high energy levels.",
+    "health": "Regular veterinary visits and preventive care are crucial to monitor and address potential health issues common in the breed.",
+    "grooming": "Weekly brushing is necessary to manage shedding and maintain coat health; more frequent grooming may be needed during seasonal shedding.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is important; portion control helps prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Belgian Tervurens good family pets?",
+      "answer": "Yes, they are affectionate and loyal, but they require active families who can meet their exercise and mental stimulation needs."
+    },
+    {
+      "question": "How much exercise does a Belgian Tervuren need?",
+      "answer": "They require at least an hour of vigorous exercise daily to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Belgian Tervurens shed a lot?",
+      "answer": "Yes, they have a double coat and shed year-round, with increased shedding during seasonal changes."
+    },
+    {
+      "question": "Are Belgian Tervurens easy to train?",
+      "answer": "Yes, their high intelligence and eagerness to please make them highly trainable with consistent, positive reinforcement methods."
+    },
+    {
+      "question": "Do Belgian Tervurens get along with other dogs?",
+      "answer": "With proper socialization, they can get along with other dogs, though their protective nature may require careful introductions."
+    }
+  ],
+  "sources": [
+    "https://www.webmd.com/pets/dogs/what-to-know-belgian-tervurens",
+    "https://www.westminsterkennelclub.org/breed/belgian-tervuren/",
+    "https://www.purina.com/dogs/dog-breeds/belgian-tervuren",
+    "https://www.petmd.com/dog/breeds/belgian-tervuren",
+    "https://abtc.org/about-the-tervuren/"
+  ]
+}

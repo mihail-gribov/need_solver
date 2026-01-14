@@ -1,0 +1,167 @@
+{
+  "id": "cavalier-king-charles-spaniel",
+  "name": "Cavalier King Charles Spaniel",
+  "name_rus": "Кавалер-кинг-чарльз-спаниель",
+  "full_description": "<p>The Cavalier King Charles Spaniel is a British toy breed with a rich history dating back to the 17th century. Originally bred as companion dogs for royalty, particularly King Charles II, these spaniels were cherished for their affectionate nature and elegant appearance. Over time, the breed evolved, and in the 1920s, efforts were made to recreate the original type depicted in historical paintings, leading to the modern Cavalier King Charles Spaniel.</p>\n<p>Physically, Cavaliers are small, well-balanced dogs standing 12 to 13 inches tall at the withers and weighing between 13 and 18 pounds. They possess a moderately long, silky coat that comes in four recognized color patterns: Blenheim (chestnut and white), Tricolor (black/white/tan), Black and Tan, and Ruby. Their large, dark eyes and gentle expression contribute to their endearing appearance.</p>\n<p>Temperamentally, Cavaliers are known for their affectionate, playful, and patient nature. They are highly social and thrive on human companionship, making them excellent family pets. Their adaptability allows them to fit well into various living situations, from apartments to larger homes. While they have a sporting heritage, their primary role has always been that of a companion, and they excel in providing comfort and companionship.</p>\n<p>In modern times, the Cavalier King Charles Spaniel has gained popularity worldwide, ranking as the 13th most popular purebred in the United States as of 2022. Their gentle disposition and adaptability make them suitable for families, singles, and seniors alike. Notable characteristics include their eagerness to please, making them relatively easy to train, and their tendency to form strong bonds with their owners, often following them from room to room.</p>\n<p>Despite their many positive traits, potential owners should be aware of certain health concerns prevalent in the breed, such as mitral valve disease and syringomyelia. Regular veterinary check-ups and responsible breeding practices are essential to ensure the health and longevity of these beloved companions.</p>",
+  "full_description_rus": "<p>Кавалер-кинг-чарльз-спаниель — британская порода декоративных собак с богатой историей, восходящей к XVII веку. Изначально выведенные как компаньоны для королевских особ, особенно короля Карла II, эти спаниели ценились за свою привязанность и элегантный внешний вид. Со временем порода эволюционировала, и в 1920-х годах были предприняты усилия по воссозданию оригинального типа, изображенного на исторических картинах, что привело к появлению современного кавалер-кинг-чарльз-спаниеля.</p>\n<p>Физически кавалеры — это небольшие, гармонично сложенные собаки, достигающие в холке 30–33 см и весящие от 5,4 до 8 кг. Они обладают средней длины шелковистой шерстью, представленной в четырех признанных окрасах: бленхейм (каштановый с белым), триколор (черный/белый/рыжий), черно-подпалый и рубиновый. Их большие темные глаза и мягкое выражение лица придают им обворожительный вид.</p>\n<p>По характеру кавалеры известны своей привязанностью, игривостью и терпеливостью. Они очень социальны и процветают в обществе людей, что делает их отличными семейными питомцами. Их адаптивность позволяет им комфортно жить как в квартирах, так и в больших домах. Хотя у них есть охотничье наследие, их основная роль всегда была ролью компаньона, и они превосходно справляются с этой задачей.</p>\n<p>В современное время кавалер-кинг-чарльз-спаниель приобрел популярность во всем мире. Их мягкий нрав и адаптивность делают их подходящими для семей, одиноких людей и пожилых. Среди их заметных черт — стремление угодить, что делает их относительно легкими в обучении, и склонность к сильной привязанности к владельцам, часто следуя за ними из комнаты в комнату.</p>\n<p>Несмотря на множество положительных качеств, потенциальные владельцы должны быть осведомлены о некоторых распространенных проблемах со здоровьем, характерных для породы, таких как митральный клапанный порок и сирингомиелия. Регулярные ветеринарные осмотры и ответственное разведение необходимы для обеспечения здоровья и долголетия этих любимых компаньонов.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "13-18 lbs",
+    "height": "12-13 inches",
+    "coat": "moderately long, silky, four color patterns",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "weekly brushing; no trimming",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "5,4–8 кг",
+    "рост": "30–33 см",
+    "шерсть": "средней длины, шелковистая, четыре варианта окраса",
+    "активность": "умеренная",
+    "обучаемость": "высокая",
+    "уход": "еженедельное расчесывание; стрижка не требуется",
+    "продолжительность жизни": "12–15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Highly affectionate",
+      "Adaptable to various living environments",
+      "Eager to please",
+      "Good with children",
+      "Social with other animals"
+    ],
+    "summary": "Affectionate and sociable, Cavaliers thrive on human companionship and adapt well to various living situations.",
+    "with_children": "Gentle and patient, making them excellent companions for children; however, supervision is recommended to ensure mutual respect.",
+    "with_family": "They form strong bonds with family members, often following them around the house and seeking constant companionship.",
+    "with_other_pets": "Generally friendly towards other pets, including dogs and cats, especially when socialized from a young age.",
+    "with_strangers": "Typically friendly and welcoming to strangers, making them poor guard dogs but excellent social companions."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Привязчивые и общительные, кавалеры процветают в обществе людей и хорошо адаптируются к различным условиям жизни.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, часто следуя за ними по дому и стремясь к постоянному общению.",
+    "с детьми": "Нежные и терпеливые, что делает их отличными компаньонами для детей; однако рекомендуется присмотр для обеспечения взаимного уважения.",
+    "с другими животными": "Обычно дружелюбны к другим животным, включая собак и кошек, особенно при социализации с раннего возраста.",
+    "с незнакомцами": "Как правило, дружелюбны и приветливы к незнакомцам, что делает их плохими сторожевыми собаками, но отличными социальными компаньонами.",
+    "особые черты": [
+      "Очень привязчивые",
+      "Адаптируются к различным условиям жизни",
+      "Стремятся угодить",
+      "Хорошо ладят с детьми",
+      "Общительны с другими животными"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Mitral valve disease",
+      "Syringomyelia",
+      "Hip dysplasia",
+      "Patellar luxation",
+      "Eye conditions (e.g., cataracts, dry eye)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Screening breeding stock for genetic conditions",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Monitoring for early signs of health issues"
+    ],
+    "summary": "Cavaliers are prone to certain genetic health issues, necessitating regular veterinary care and responsible breeding practices.",
+    "vet_checkups": "At least once a year; more frequent for seniors or those with known health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Кавалеры склонны к определенным генетическим проблемам со здоровьем, что требует регулярного ветеринарного ухода и ответственного разведения.",
+    "распространённые проблемы": [
+      "Митральный клапанный порок",
+      "Сирингомиелия",
+      "Дисплазия тазобедренного сустава",
+      "Вывих надколенника",
+      "Глазные заболевания (например, катаракта, сухой кератоконъюнктивит)"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Скрининг племенного поголовья на генетические заболевания",
+      "Поддержание здорового веса",
+      "Обеспечение регулярной физической активности",
+      "Мониторинг ранних признаков проблем со здоровьем"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих известные проблемы со здоровьем"
+  },
+  "care": {
+    "behavior": "They thrive on companionship and should not be left alone for extended periods; regular interaction and mental stimulation are essential.",
+    "description": "Cavaliers require attentive care, including regular grooming, exercise, and health monitoring to ensure a happy and healthy life.",
+    "grooming": "Weekly brushing to prevent matting; regular ear cleaning to prevent infections; no trimming required.",
+    "health": "Be vigilant for signs of common health issues; early detection and treatment can significantly improve outcomes.",
+    "nutrition": "Balanced diet appropriate for their size and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Кавалеры требуют внимательного ухода, включая регулярный груминг, физическую активность и мониторинг здоровья для обеспечения счастливой и здоровой жизни.",
+    "поведение и характер": "Они процветают в обществе и не должны оставаться одни на длительное время; регулярное взаимодействие и умственная стимуляция необходимы.",
+    "здоровье и профилактика": "Будьте внимательны к признакам распространенных проблем со здоровьем; раннее выявление и лечение могут значительно улучшить исход.",
+    "груминг и уход": "Еженедельное расчесывание для предотвращения спутывания; регулярная чистка ушей для предотвращения инфекций; стрижка не требуется.",
+    "питание и активность": "Сбалансированная диета, соответствующая их размеру и уровню активности; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Cavaliers good for first-time dog owners?",
+      "answer": "Yes, their friendly nature and adaptability make them suitable for first-time owners."
+    },
+    {
+      "question": "Do Cavaliers require a lot of exercise?",
+      "answer": "They need moderate exercise, such as daily walks and playtime, to stay healthy and happy."
+    },
+    {
+      "question": "Are Cavaliers hypoallergenic?",
+      "answer": "No, they are not considered hypoallergenic and may not be suitable for individuals with severe allergies."
+    },
+    {
+      "question": "Can Cavaliers live in apartments?",
+      "answer": "Yes, their small size and adaptable nature make them well-suited for apartment living."
+    },
+    {
+      "question": "How often should I groom my Cavalier?",
+      "answer": "Weekly brushing is recommended to maintain their coat and prevent matting."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли кавалеры для владельцев без опыта?",
+      "ответ": "Да, их дружелюбный характер и адаптивность делают их подходящими для владельцев без опыта."
+    },
+    {
+      "вопрос": "Требуют ли кавалеры много физических нагрузок?",
+      "ответ": "Им необходима умеренная физическая активность, такая как ежедневные прогулки и игры, для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Являются ли кавалеры гипоаллергенными?",
+      "ответ": "Нет, они не считаются гипоаллергенными и могут не подходить для людей с тяжелыми аллергиями."
+    },
+    {
+      "вопрос": "Могут ли кавалеры жить в квартирах?",
+      "ответ": "Да, их небольшой размер и адаптивный характер делают их хорошо подходящими для жизни в квартирах."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за шерстью кавалера?",
+      "ответ": "Рекомендуется еженедельное расчесывание для поддержания состояния шерсти и предотвращения спутывания."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel",
+    "https://www.petmd.com/dog/breeds/cavalier-king-charles-spaniel",
+    "https://www.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+    "https://www.cavalierhealth.org/index.html",
+    "https://hwy5animalhospital.com/client-resources/breed-info/cavalier-king-charles-spaniel/",
+    "https://ru.wikipedia.org/wiki/Кавалер-кинг-чарльз-спаниель",
+    "https://www.purina.kz/kz/dogs/dog-breeds/library/cavalier_king_charles_spaniel",
+    "https://www.cesar.ru/porody/kavaler-king-carl-z-spaniel/",
+    "https://www.rbc.ru/life/news/65fd4ce69a7947a04c2c281d",
+    "https://www.pedigree.ru/porody/kavaler-king-charlz-spaniel%20",
+    "https://vetandlife.ru/pets/obzor-porody-kavaler-king-charlz-spanielya/",
+    "https://royalcanin.ru/dog-breed/cavalier-king-charles-spaniel",
+    "https://www.proplan.ru/dog/breeds/kavaler-king-charlz-spaniel",
+    "https://vega-vet.ru/blog/kavaler-king-charlz-spaniel-harakteristika-i-opisanie-porody",
+    "https://www.purinaone.ru/dog/articles/breeds/cavalier-king-charles",
+    "https://breeds-info.ru/dogs/breed/kavaler-king-charlz-spaniel"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "need_id": "therapy_role",
+  "formula": "therapy_suitability & ~stress_sensitivity & affection_level",
+  "formula_reasoning": "Для собаки, подходящей на роль терапевта или эмоционального компаньона, критична высокая пригодность к терапии (therapy_suitability), устойчивая психика (низкая чувствительность к стрессу — ~stress_sensitivity) и выраженная ориентированность на человека (affection_level).",
+  "questions": [
+    {
+      "id": "therapy_role_q1",
+      "text": "Вы ищете собаку, которая сможет поддерживать вас эмоционально в сложных ситуациях?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = пользователь ожидает эмоциональную поддержку (нужна терапевтическая функция). Нет = терапевтическая функция не требуется."
+    },
+    {
+      "id": "therapy_role_q2",
+      "text": "Бывают ли у вас или у членов семьи периоды, когда особенно важна спокойная и ласковая собака рядом?",
+      "weight": 0.85,
+      "style": "situational",
+      "verification": "Да = есть ситуации, когда требуется собака-комфорт. Нет = таких потребностей нет."
+    },
+    {
+      "id": "therapy_role_q3",
+      "text": "Хотели бы вы, чтобы собака могла сопровождать вас в медицинские учреждения или помогать в стрессовых ситуациях?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = нужна собака с устойчивой психикой и терапевтическими качествами. Нет = такая роль не предполагается."
+    },
+    {
+      "id": "therapy_role_q4",
+      "text": "В вашей семье есть люди, которым может быть полезно регулярное общение с очень дружелюбной и чуткой собакой?",
+      "weight": 0.75,
+      "style": "situational",
+      "verification": "Да = требуется эмоциональная поддержка для семьи. Нет = такой потребности нет."
+    },
+    {
+      "id": "therapy_role_q5",
+      "text": "Вам важно, чтобы собака легко переносила перемены и была спокойна в новых местах?",
+      "weight": 0.7,
+      "style": "direct",
+      "verification": "Да = пользователь ожидает устойчивость к стрессу (важно для терапии). Нет = устойчивость к переменам не критична."
+    }
+  ],
+  "need_name": "Therapy/Emotional Support",
+  "need_description": "Suitable for emotional support or therapy role",
+  "block": "purpose_role",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

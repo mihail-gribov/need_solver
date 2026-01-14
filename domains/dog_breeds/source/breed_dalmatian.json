@@ -1,0 +1,83 @@
+{
+  "id": "dalmatian",
+  "name": "Dalmatian",
+  "full_description": "<p>The Dalmatian is a distinctive breed known for its unique spotted coat and energetic demeanor. Originating from the historical region of Dalmatia, now part of modern-day Croatia, the breed's exact origins are somewhat ambiguous. Historically, Dalmatians have served various roles, including carriage dogs, firehouse mascots, and even war dogs, showcasing their versatility and adaptability. Physically, Dalmatians are medium-sized dogs, standing between 19 to 23 inches tall at the withers. They possess a well-muscled, athletic build, reflecting their endurance and stamina. Their most notable feature is their short, dense coat adorned with well-defined spots, typically black or liver-colored, which develop fully by around 18 months of age. Temperamentally, Dalmatians are known for their intelligence, alertness, and playful nature. They are loyal companions but can exhibit a stubborn streak, necessitating consistent training and socialization from an early age. Originally bred to run alongside carriages, Dalmatians have a high energy level and require regular, vigorous exercise to maintain their physical and mental well-being. In contemporary times, Dalmatians are cherished as family pets and are also seen in roles such as therapy and service dogs. Their striking appearance and dynamic personality have cemented their popularity worldwide. Notable characteristics of the breed include their unique coat pattern, high energy levels, and a predisposition to certain health conditions, such as deafness and urinary stones, which potential owners should be aware of.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "45-70 pounds (20-32 kg)",
+    "height": "19-23 inches (48-58 cm)",
+    "coat": "short, dense, and fine",
+    "activity": "high",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "regular brushing; sheds year-round",
+    "lifespan": "11-13 years"
+  },
+  "behavior": {
+    "summary": "Dalmatians are energetic, intelligent, and loyal dogs with a playful nature. They thrive on human companionship and require consistent training and socialization.",
+    "with_family": "Affectionate and devoted, Dalmatians form strong bonds with family members and enjoy participating in family activities.",
+    "with_children": "Generally good with children, especially when raised together, but their high energy may be overwhelming for very young kids.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though their strong prey drive may pose challenges with smaller animals.",
+    "with_strangers": "Alert and reserved around strangers; early socialization helps in developing a well-mannered demeanor.",
+    "special_traits": [
+      "high energy levels",
+      "intelligent but can be stubborn",
+      "strong bonding with family",
+      "requires regular exercise",
+      "prone to separation anxiety if left alone for long periods"
+    ]
+  },
+  "health": {
+    "summary": "Dalmatians are generally healthy but are predisposed to certain hereditary conditions. Regular veterinary care and preventive measures are essential for their well-being.",
+    "common_issues": [
+      "deafness",
+      "urinary stones",
+      "hip dysplasia",
+      "skin allergies",
+      "eye conditions (e.g., glaucoma, cataracts)"
+    ],
+    "prevention_tips": [
+      "regular hearing tests",
+      "low-purine diet to prevent urinary stones",
+      "consistent exercise to maintain joint health",
+      "routine grooming to monitor skin health",
+      "regular eye examinations"
+    ],
+    "vet_checkups": "annually, or more frequently if health issues arise"
+  },
+  "care": {
+    "description": "Dalmatians require attentive care, including regular exercise, consistent training, and routine health monitoring to ensure a happy and healthy life.",
+    "behavior": "Provide ample physical and mental stimulation to prevent boredom and destructive behaviors; early socialization is crucial.",
+    "health": "Monitor for signs of common health issues; maintain a balanced diet and ensure regular veterinary checkups.",
+    "grooming": "Brush weekly to manage shedding; bathe as needed; check ears and trim nails regularly.",
+    "nutrition": "Feed a balanced, low-purine diet to reduce the risk of urinary stones; ensure constant access to fresh water."
+  },
+  "faq": [
+    {
+      "question": "Are Dalmatians good family pets?",
+      "answer": "Yes, with proper training and socialization, Dalmatians can be excellent family companions."
+    },
+    {
+      "question": "Do Dalmatians require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and need regular, vigorous exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Dalmatians prone to deafness?",
+      "answer": "Yes, deafness is a common hereditary issue in Dalmatians; regular hearing tests are recommended."
+    },
+    {
+      "question": "How often do Dalmatians shed?",
+      "answer": "Dalmatians shed year-round; regular brushing helps manage shedding."
+    },
+    {
+      "question": "Do Dalmatians get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, though caution is advised with smaller animals."
+    }
+  ],
+  "sources": [
+    "https://www.webmd.com/pets/dogs/what-to-know-about-dalmatians",
+    "https://www.petmd.com/dog/breeds/dalmatian",
+    "https://en.wikipedia.org/wiki/Dalmatian_dog",
+    "https://dcaf.org/Dalmatian-Health/",
+    "https://www.akc.org/dog-breeds/dalmatian/"
+  ]
+}

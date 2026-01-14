@@ -1,0 +1,84 @@
+{
+  "need_id": "heat_tolerant",
+  "formula": "heat_tolerance",
+  "formula_reasoning": "Для жизни в жарком климате или при высоких температурах подходит только порода с выраженной жароустойчивостью (heat_tolerance). Это основной определяющий признак, другие базовые черты не имеют прямого влияния на устойчивость к жаре.",
+  "questions": [
+    {
+      "id": "heat_tolerant_q1",
+      "text": "В вашем регионе летом часто бывает жара выше +30°C?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = собака будет жить в жарком климате, нужна высокая жароустойчивость. Нет = климат не жаркий, нет острой необходимости."
+    },
+    {
+      "id": "heat_tolerant_q2",
+      "text": "Планируете ли вы часто бывать с собакой на улице в течение дня летом?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = собака будет подолгу на жаре, нужна жароустойчивость. Нет = собака большую часть времени в помещении, жароустойчивость не критична."
+    },
+    {
+      "id": "heat_tolerant_q3",
+      "text": "Ваш дом или квартира сильно прогревается летом (например, нет кондиционера или бывает душно)?",
+      "weight": 0.75,
+      "style": "situational",
+      "verification": "Да = собака будет испытывать жару даже внутри, нужна жароустойчивость. Нет = в помещении прохладно, фактор менее важен."
+    },
+    {
+      "id": "heat_tolerant_q4",
+      "text": "Вы живёте в регионе, где летом высокая влажность и жара сочетаются?",
+      "weight": 0.7,
+      "style": "direct",
+      "verification": "Да = собака будет испытывать двойную нагрузку (жара и влажность), нужна жароустойчивость. Нет = климат более мягкий или сухой, фактор менее выражен."
+    },
+    {
+      "id": "heat_tolerant_q5",
+      "text": "Планируете ли вы брать собаку с собой в поездки на юг или на дачу, где бывает очень жарко?",
+      "weight": 0.65,
+      "style": "situational",
+      "verification": "Да = собака будет регулярно попадать в жаркие условия, нужна устойчивость. Нет = собака всегда в одном климате, фактор не столь важен."
+    }
+  ],
+  "need_name": "Heat Tolerant",
+  "need_description": "Tolerates hot weather well",
+  "block": "housing_environment",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

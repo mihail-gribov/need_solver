@@ -1,0 +1,159 @@
+{
+  "id": "lhasa-apso",
+  "name": "Lhasa Apso",
+  "name_rus": "Лхасский апсо",
+  "full_description": "<p>The Lhasa Apso is a small, hardy breed originating from Tibet, where it served as a sentinel in Buddhist monasteries and homes. Named after Tibet's capital city, Lhasa, and the Tibetan word 'apso,' meaning 'bearded,' this breed was revered as a symbol of good luck and often gifted to dignitaries. Physically, the Lhasa Apso stands about 10 to 11 inches tall and weighs between 12 to 18 pounds. It possesses a long, dense double coat that comes in various colors, including black, white, gold, and parti-color combinations. The breed's dark, oval-shaped eyes and feathered tail, which curls over its back, contribute to its distinctive appearance. Temperamentally, Lhasa Apsos are known for their alertness, intelligence, and independence. They are affectionate with family members but can be wary of strangers, a trait stemming from their watchdog origins. While they are playful and loyal, they may exhibit stubbornness, requiring consistent training and socialization. Historically, their primary role was to alert larger guard dogs to intruders, utilizing their keen hearing and sharp bark. In modern times, Lhasa Apsos have transitioned into companion animals, cherished for their loyal and protective nature. Notable characteristics include their longevity, with many living into their early 20s, and their minimal shedding, making them suitable for individuals with mild allergies.</p>",
+  "full_description_rus": "<p>Лхасский апсо — древняя порода собак, происходящая из Тибета, где они служили сторожами в буддийских монастырях и домах. Название породы происходит от столицы Тибета, Лхасы, и тибетского слова 'апсо', означающего 'бородатый'. Эти собаки считались символом удачи и часто дарились высокопоставленным лицам. Физически лхасский апсо достигает роста около 25–28 см и весит от 5 до 8 кг. У них длинная, густая двойная шерсть, которая бывает различных окрасов, включая черный, белый, золотистый и комбинированные варианты. Темные, овальные глаза и хвост с обильным опушением, закрученный на спину, придают породе характерный вид. По темпераменту лхасские апсо известны своей бдительностью, интеллектом и независимостью. Они привязаны к членам семьи, но могут быть настороженными к незнакомцам, что связано с их сторожевым прошлым. Хотя они игривы и преданны, могут проявлять упрямство, поэтому требуют последовательной дрессировки и социализации. Исторически их основная роль заключалась в предупреждении более крупных сторожевых собак о проникновении посторонних, используя свой острый слух и звонкий лай. В современном мире лхасские апсо стали популярными компаньонами, ценимыми за их преданность и защитный характер. Примечательными особенностями породы являются их долголетие, многие особи доживают до 20 лет и более, а также минимальная линька, что делает их подходящими для людей с легкими аллергиями.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "12-18 pounds",
+    "height": "10-11 inches",
+    "coat": "long, dense double coat",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "regular brushing; professional grooming recommended",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "5-8 кг",
+    "рост": "25-28 см",
+    "шерсть": "длинная, густая двойная",
+    "активность": "умеренная",
+    "обучаемость": "средняя",
+    "уход": "регулярное расчесывание; рекомендуется профессиональный груминг",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "summary": "Lhasa Apsos are alert, intelligent, and independent dogs with a strong protective instinct.",
+    "with_family": "Affectionate and loyal, they form strong bonds with family members.",
+    "with_children": "Generally good with children when socialized early, but supervision is recommended due to their small size.",
+    "with_other_pets": "Can coexist with other pets if introduced properly, though they may exhibit dominance.",
+    "with_strangers": "Wary of strangers, often reserved or aloof until trust is established.",
+    "special_traits": [
+      "alert and protective",
+      "independent thinker",
+      "minimal shedding",
+      "long lifespan",
+      "requires consistent training"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Лхасские апсо — бдительные, умные и независимые собаки с сильным защитным инстинктом.",
+    "с семьёй": "Привязаны и преданны, формируют крепкие связи с членами семьи.",
+    "с детьми": "В целом хорошо ладят с детьми при ранней социализации, но из-за небольшого размера рекомендуется присмотр.",
+    "с другими животными": "Могут уживаться с другими питомцами при правильном знакомстве, хотя могут проявлять доминирование.",
+    "с незнакомцами": "Настороженно относятся к незнакомцам, часто сдержанны или отчуждены, пока не установят доверие.",
+    "особые черты": [
+      "бдительные и защитные",
+      "независимый характер",
+      "минимальная линька",
+      "долгая продолжительность жизни",
+      "требуют последовательной дрессировки"
+    ]
+  },
+  "health": {
+    "summary": "Lhasa Apsos are generally healthy but prone to certain genetic conditions.",
+    "common_issues": [
+      "progressive retinal atrophy",
+      "cataracts",
+      "patellar luxation",
+      "renal dysplasia",
+      "brachycephalic airway syndrome"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain healthy weight",
+      "daily dental care",
+      "monitor for eye issues",
+      "avoid overheating"
+    ],
+    "vet_checkups": "annually, or more frequently for senior dogs"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Лхасские апсо в целом здоровы, но склонны к некоторым генетическим заболеваниям.",
+    "распространённые проблемы": [
+      "прогрессирующая атрофия сетчатки",
+      "катаракта",
+      "вывих надколенника",
+      "дисплазия почек",
+      "брахицефалический синдром дыхательных путей"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "поддержание здорового веса",
+      "ежедневный уход за зубами",
+      "мониторинг состояния глаз",
+      "избегать перегрева"
+    ],
+    "рекомендуемые осмотры": "ежегодно, или чаще для пожилых собак"
+  },
+  "care": {
+    "description": "Lhasa Apsos require attentive care, including regular grooming, health monitoring, and consistent training.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature.",
+    "health": "Regular vet visits and preventive care help maintain their overall health.",
+    "grooming": "Daily brushing and periodic professional grooming are necessary to prevent matting.",
+    "nutrition": "Balanced diet appropriate for small breeds; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Лхасские апсо требуют внимательного ухода, включая регулярный груминг, мониторинг здоровья и последовательную дрессировку.",
+    "поведение и характер": "Ранняя социализация и последовательная дрессировка необходимы для управления их независимым характером.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход помогают поддерживать их общее здоровье.",
+    "груминг и уход": "Ежедневное расчесывание и периодический профессиональный груминг необходимы для предотвращения спутывания шерсти.",
+    "питание и активность": "Сбалансированная диета, подходящая для мелких пород; контроль потребления пищи для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Lhasa Apsos hypoallergenic?",
+      "answer": "They shed minimally, which may reduce allergens, but no breed is completely hypoallergenic."
+    },
+    {
+      "question": "Do Lhasa Apsos get along with other dogs?",
+      "answer": "With proper socialization, they can coexist with other dogs, though they may assert dominance."
+    },
+    {
+      "question": "How often should a Lhasa Apso be groomed?",
+      "answer": "Daily brushing is recommended, with professional grooming every 4-6 weeks."
+    },
+    {
+      "question": "Are Lhasa Apsos good for first-time dog owners?",
+      "answer": "Their independent nature can be challenging; consistent training is essential for first-time owners."
+    },
+    {
+      "question": "Do Lhasa Apsos bark a lot?",
+      "answer": "They have a strong watchdog instinct and may bark to alert owners of unfamiliar occurrences."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли лхасские апсо гипоаллергенными?",
+      "ответ": "Они мало линяют, что может снизить количество аллергенов, но ни одна порода не является полностью гипоаллергенной."
+    },
+    {
+      "вопрос": "Ладят ли лхасские апсо с другими собаками?",
+      "ответ": "При правильной социализации они могут уживаться с другими собаками, хотя могут проявлять доминирование."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за лхасским апсо?",
+      "ответ": "Рекомендуется ежедневное расчесывание и профессиональный груминг каждые 4-6 недель."
+    },
+    {
+      "вопрос": "Подходят ли лхасские апсо для неопытных владельцев?",
+      "ответ": "Их независимый характер может быть сложным; последовательная дрессировка необходима для неопытных владельцев."
+    },
+    {
+      "вопрос": "Много ли лают лхасские апсо?",
+      "ответ": "У них сильный инстинкт сторожа, и они могут лаять, чтобы предупредить владельцев о незнакомых событиях."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lhasa_Apso",
+    "https://www.petmd.com/dog/breeds/lhasa-apso",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-lhasa-apso-dogs",
+    "https://ckcusa.com/breeds/lhasa-apso/",
+    "https://www.hillspet.com/dog-care/dog-breeds/lhasa-apso",
+    "https://ru.wikipedia.org/wiki/Лхасский_апсо",
+    "https://www.purina.ru/find-a-pet/dog-breeds/lkhasa-apso",
+    "https://help.rkf.online/ru/knowledge_base/art/1545/cat/22/lhasskij-apso-227"
+  ]
+}

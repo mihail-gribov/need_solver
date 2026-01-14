@@ -1,0 +1,148 @@
+{
+  "id": "sealyham-terrier",
+  "name": "Sealyham Terrier",
+  "name_rus": "Силихэм-терьер",
+  "full_description": "<p>The Sealyham Terrier is a robust and spirited breed originating from Wales in the mid-19th century. Developed by Captain John Edwardes at Sealyham House in Pembrokeshire, the breed was meticulously crafted for hunting small game such as badgers, foxes, and otters. Edwardes aimed to create a small, predominantly white terrier with a strong jaw and wiry coat, ensuring the dog was distinguishable from its quarry during hunts. The exact mix of breeds used remains undocumented, but it's believed that the Welsh Corgi, Fox Terrier (Wire), Dandie Dinmont Terrier, West Highland White Terrier, Bull Terrier, Staffordshire Bull Terrier, and the now-extinct English White Terrier contributed to the Sealyham's development.</p>\n<p>Physically, the Sealyham Terrier is a small, sturdy dog standing about 10.5 inches (27 cm) at the shoulder and weighing approximately 20 pounds (9 kg) for males and slightly less for females. The breed features a rectangular body, being slightly longer than tall, with a deep chest and well-sprung ribs. Its head is long and broad, with a slightly domed skull and a powerful, square muzzle. The eyes are dark and set wide apart, conveying a keen and alert expression. Ears are moderately large, with rounded tips, folding level with the top of the head. The Sealyham's coat is a distinctive double layer: a hard, wiry outer coat and a dense, soft undercoat, predominantly white, sometimes with lemon, brown, blue, or badger markings on the head and ears.</p>\n<p>Temperamentally, Sealyham Terriers are known for their lively and alert nature, yet they are more docile compared to other terrier breeds. They exhibit a playful and friendly demeanor, showing complete devotion to their human families. While they are affectionate and enjoy companionship, they can be reserved towards strangers and may display a strong prey drive, leading them to chase small animals. Early socialization is crucial to ensure they are well-mannered and adaptable.</p>\n<p>Originally bred for hunting and pest control, Sealyhams were adept at going to ground after badgers and accompanying Otterhounds on hunts. Their strong build and fearless nature made them excellent working dogs. In modern times, while their hunting roles have diminished, they have transitioned into cherished family companions and show dogs. Despite their historical popularity, the breed has seen a decline in numbers and is now considered a vulnerable native breed.</p>\n<p>Notable characteristics of the Sealyham Terrier include their distinctive white, wiry coat, which requires regular grooming to maintain its texture and prevent matting. They possess a strong, muscular build that belies their small stature, and their expressive facial features, including bushy eyebrows and a prominent beard, add to their unique appearance. Their adaptable nature allows them to thrive in various living environments, from city apartments to rural homes, as long as their exercise and companionship needs are met.</p>",
+  "full_description_rus": "<p>Силихэм-терьер — крепкая и энергичная порода, возникшая в Уэльсе в середине XIX века. Порода была выведена капитаном Джоном Эдвардсом в поместье Силихэм в Пембрукшире с целью охоты на мелкую дичь, такую как барсуки, лисы и выдры. Эдвардс стремился создать небольшого, преимущественно белого терьера с мощной челюстью и жесткой шерстью, чтобы собака была легко различима во время охоты. Точный состав пород, использованных при выведении, не задокументирован, но считается, что вельш-корги, фокстерьер (жесткошерстный), денди-динмонт-терьер, вест-хайленд-уайт-терьер, бультерьер, стаффордширский бультерьер и ныне вымерший английский белый терьер внесли свой вклад в развитие силихэма.</p>\n<p>Физически силихэм-терьер — небольшая, крепкая собака, ростом около 27 см в холке и весом примерно 9 кг для кобелей и чуть меньше для сук. Порода имеет прямоугольное тело, немного длиннее, чем высота, с глубокой грудью и хорошо изогнутыми ребрами. Голова длинная и широкая, с слегка выпуклым черепом и мощной, квадратной мордой. Глаза темные и широко расставленные, выражающие внимательность и настороженность. Уши средней величины, с закругленными кончиками, складываются на уровне верхней части головы. Шерсть силихэма состоит из жесткого, проволокообразного остевого волоса и плотного, мягкого подшерстка, преимущественно белого цвета, иногда с лимонными, коричневыми, голубыми или барсучьими отметинами на голове и ушах.</p>\n<p>По темпераменту силихэм-терьеры известны своей живостью и бдительностью, однако они более спокойны по сравнению с другими терьерами. Они проявляют игривость и дружелюбие, полностью преданы своим семьям. Хотя они ласковы и любят компанию, могут быть сдержанными с незнакомцами и проявлять сильный охотничий инстинкт, что может привести к преследованию мелких животных. Ранняя социализация необходима для обеспечения хороших манер и адаптивности.</p>\n<p>Изначально выведенные для охоты и борьбы с вредителями, силихэмы были искусны в преследовании барсуков и сопровождении выдровых гончих на охоте. Их крепкое телосложение и бесстрашный характер делали их отличными рабочими собаками. В современное время, хотя их охотничьи роли уменьшились, они превратились в любимых семейных компаньонов и выставочных собак. Несмотря на историческую популярность, порода переживает снижение численности и теперь считается редкой.</p>\n<p>Отличительными чертами силихэм-терьера являются их характерная белая, жесткая шерсть, требующая регулярного ухода для поддержания текстуры и предотвращения спутывания. Они обладают сильным, мускулистым телосложением, не соответствующим их небольшому размеру, а их выразительные черты лица, включая густые брови и заметную бороду, придают им уникальный вид. Их адаптивный характер позволяет им процветать в различных условиях проживания, от городских квартир до загородных домов, при условии удовлетворения их потребностей в физической активности и общении.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "18-20 pounds (8-9 kg)",
+    "height": "10.5 inches (27 cm)",
+    "coat": "hard, wiry outer coat with a dense, soft undercoat; predominantly white with possible lemon, brown, blue, or badger markings on head and ears",
+    "activity": "moderate",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "regular brushing; professional grooming recommended every 3 months",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "8-9 кг",
+    "рост": "27 см",
+    "шерсть": "жесткая, проволокообразная с плотным, мягким подшерстком; преимущественно белая с возможными лимонными, коричневыми, голубыми или барсучьими отметинами на голове и ушах",
+    "активность": "умеренная",
+    "обучаемость": "умеренная; умны, но могут быть упрямыми",
+    "уход": "регулярное расчесывание; профессиональный груминг рекомендуется каждые 3 месяца",
+    "продолжительность жизни": "12-14 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "playful and friendly",
+      "alert and keen",
+      "strong prey drive",
+      "independent yet affectionate",
+      "good watchdog abilities"
+    ],
+    "summary": "Sealyham Terriers are lively, alert, and affectionate dogs known for their playful yet docile nature. They are devoted to their families but can be reserved with strangers and may exhibit a strong prey drive.",
+    "with_children": "Generally good with children, especially when socialized early, but interactions should be supervised due to their energetic nature.",
+    "with_family": "They are affectionate and loyal, forming strong bonds with family members and enjoying interactive play.",
+    "with_other_pets": "May coexist with other dogs if socialized properly; however, their hunting instincts can lead them to chase smaller animals.",
+    "with_strangers": "Tend to be reserved or cautious around strangers, making them effective watchdogs."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Силихэм-терьеры — живые, бдительные и ласковые собаки, известные своей игривой, но спокойной натурой. Они преданы своим семьям, но могут быть сдержанными с незнакомцами и проявлять сильный охотничий инстинкт.",
+    "с семьёй": "Они ласковы и преданы, формируют крепкие связи с членами семьи и любят совместные игры.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации, но из-за их энергичности взаимодействия следует контролировать.",
+    "с другими животными": "Могут уживаться с другими собаками при правильной социализации; однако их охотничьи инстинкты могут побуждать их преследовать мелких животных.",
+    "с незнакомцами": "Склонны быть сдержанными или осторожными с незнакомцами, что делает их эффективными сторожевыми собаками.",
+    "особые черты": [
+      "игривые и дружелюбные",
+      "бдительные и внимательные",
+      "сильный охотничий инстинкт",
+      "независимые, но ласковые",
+      "хорошие сторожевые качества"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "primary lens luxation",
+      "retinal dysplasia",
+      "deafness"
+    ],
+    "prevention_tips": [
+      "regular eye examinations",
+      "genetic testing for known hereditary conditions",
+      "maintaining a healthy weight to prevent joint issues"
+    ],
+    "summary": "Sealyham Terriers are generally healthy with a lifespan of 12-14 years but are prone to certain genetic conditions.",
+    "vet_checkups": "annual checkups recommended; more frequent visits if health issues arise"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Силихэм-терьеры в целом здоровы и имеют продолжительность жизни 12-14 лет, но склонны к некоторым генетическим заболеваниям.",
+    "распространённые проблемы": [
+      "первичная люксация хрусталика",
+      "ретинальная дисплазия",
+      "глухота"
+    ],
+    "советы по профилактике": [
+      "регулярные осмотры глаз",
+      "генетическое тестирование на известные наследственные заболевания",
+      "поддержание здорового веса для предотвращения проблем с суставами"
+    ],
+    "рекомендуемые осмотры": "ежегодные осмотры рекомендуются; более частые визиты при возникновении проблем со здоровьем"
+  },
+  "care": {
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature and prevent undesirable behaviors.",
+    "description": "Sealyham Terriers require regular grooming, moderate exercise, and early socialization to ensure they are well-adjusted companions.",
+    "grooming": "Their double coat requires combing two or three times a week and shaping once every three months; professional grooming is recommended.",
+    "health": "Regular veterinary care, including eye and hearing tests, is important to monitor and maintain their health.",
+    "nutrition": "A balanced diet appropriate for their size and activity level is crucial; portion control helps prevent obesity."
+  },
+  "care_rus": {
+    "поведение и характер": "Ранняя социализация и последовательная дрессировка необходимы для управления их независимым характером и предотвращения нежелательного поведения.",
+    "краткое описание ухода": "Силихэм-терьеры требуют регулярного ухода за шерстью, умеренных физических нагрузок и ранней социализации для обеспечения их хорошей адаптации.",
+    "груминг и уход": "Их двойная шерсть требует расчесывания два-три раза в неделю и стрижки раз в три месяца; рекомендуется профессиональный груминг.",
+    "здоровье и профилактика": "Регулярный ветеринарный уход, включая проверки зрения и слуха, важен для мониторинга и поддержания их здоровья.",
+    "питание и активность": "Сбалансированная диета, соответствующая их размеру и уровню активности, имеет решающее значение; контроль порций помогает предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Sealyham Terriers good with children?",
+      "answer": "Yes, they are generally good with children, especially when socialized early, but supervision is recommended during interactions."
+    },
+    {
+      "question": "Do Sealyham Terriers require a lot of exercise?",
+      "answer": "They have moderate exercise needs; daily walks and play sessions are sufficient to keep them healthy and happy."
+    },
+    {
+      "question": "Are Sealyham Terriers easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training methods work best."
+    },
+    {
+      "question": "Do Sealyham Terriers shed a lot?",
+      "answer": "They shed minimally but require regular grooming to maintain their coat and prevent matting."
+    },
+    {
+      "question": "Are Sealyham Terriers good watchdogs?",
+      "answer": "Yes, they are alert and reserved with strangers, making them effective watchdogs."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Силихэм-терьеры хорошо ладят с детьми?",
+      "ответ": "Да, они обычно хорошо ладят с детьми, особенно при ранней социализации, но рекомендуется контролировать их взаимодействие."
+    },
+    {
+      "вопрос": "Силихэм-терьерам требуется много физических нагрузок?",
+      "ответ": "У них умеренные потребности в физических нагрузках; ежедневные прогулки и игровые сессии достаточны для поддержания их здоровья и счастья."
+    },
+    {
+      "вопрос": "Силихэм-терьеры легко поддаются дрессировке?",
+      "ответ": "Они умны, но могут быть упрямыми; последовательные методы дрессировки с положительным подкреплением работают лучше всего."
+    },
+    {
+      "вопрос": "Силихэм-терьеры сильно линяют?",
+      "ответ": "Они линяют минимально, но требуют регулярного ухода за шерстью для поддержания ее состояния и предотвращения спутывания."
+    },
+    {
+      "вопрос": "Силихэм-терьеры хорошие сторожевые собаки?",
+      "ответ": "Да, они бдительны и сдержанны с незнакомцами, что делает их эффективными сторожевыми собаками."
+    }
+  ],
+  "sources": [
+    "https://ru.wikipedia.org/wiki/Силихем-терьер",
+    "https://www.purina.ru/find-a-pet/dog-breeds/silikhem-terer",
+    "https://www.syl.ru/article/329392/silihem-terer-opisanie-plyusyi-i-minusyi-porodyi-soderjanie-i-uhod-otzyivyi-vladeltsev",
+    "https://doge.ru/poroda/silihem-terer",
+    "https://ru.wikipedia.org/wiki/Силихем-терьер"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "swedish-vallhund",
+  "name": "Swedish Vallhund",
+  "full_description": "<p>The Swedish Vallhund, also known as the Västgötaspets, is an ancient breed with roots tracing back over a millennium to the Viking era in Sweden. Originally developed as an all-purpose farm dog, the Vallhund was primarily utilized for herding cattle, guarding property, and controlling vermin. The breed faced near extinction in the early 1940s but was revived through dedicated efforts, leading to its recognition by the Swedish Kennel Club in 1943. Physically, the Swedish Vallhund is a small, robust, and sturdy dog with a slightly longer body than its height, giving it a rectangular appearance. Males typically stand about 12.5 to 13.5 inches at the withers, while females are slightly shorter at 11.5 to 12.5 inches. They possess a wedge-shaped head, dark brown oval eyes, and pricked ears. Their tails vary naturally in length, ranging from no tail (bobtail) to full length, and all variations are acceptable. The breed's double coat consists of a harsh, close-lying topcoat and a soft, dense undercoat. Coat colors range from grey, greyish brown, and greyish yellow to reddish brown, often with characteristic 'harness markings' on the shoulders. Temperamentally, Swedish Vallhunds are known for their intelligence, alertness, and energy. They are friendly, playful, and confident, making them excellent companions. Their herding background contributes to a strong work ethic and a desire to be active. Historically, they were adept at herding cattle and served as vigilant watchdogs. In modern times, while they still excel in herding, they have also become popular in various dog sports such as agility, obedience, and tracking. Their versatility and engaging personality have contributed to a steady increase in popularity worldwide. Notable characteristics of the breed include their distinctive 'wolf-like' facial markings, vocal nature, and the unique variation in tail length. Their adaptability and eagerness to please make them suitable for various roles, from working dogs to beloved family pets.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "20-35 pounds",
+    "height": "11.5-13.5 inches",
+    "coat": "short, harsh topcoat with a soft, dense undercoat",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; moderate shedding",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Swedish Vallhunds are intelligent, energetic, and friendly dogs with a strong work ethic and a desire to be active.",
+    "with_family": "They are affectionate and form strong bonds with family members, often seeking attention and companionship.",
+    "with_children": "Generally good with children, they enjoy playtime but should be supervised to prevent herding behaviors.",
+    "with_other_pets": "They can coexist well with other pets, especially if socialized early, though their herding instincts may emerge.",
+    "with_strangers": "Typically alert and confident, they may be reserved around strangers but are not aggressive.",
+    "special_traits": [
+      "Intelligent and quick learners",
+      "Energetic and require regular exercise",
+      "Vocal, often using a range of sounds to communicate",
+      "Strong herding instincts",
+      "Adaptable to various activities and environments"
+    ]
+  },
+  "health": {
+    "summary": "Swedish Vallhunds are generally healthy with a lifespan of 12-15 years, though they may be prone to certain genetic conditions.",
+    "common_issues": [
+      "Swedish Vallhund Retinopathy",
+      "Cataracts",
+      "Hip Dysplasia",
+      "Patellar Luxation",
+      "Dental Disease"
+    ],
+    "prevention_tips": [
+      "Regular eye examinations to detect early signs of retinal issues",
+      "Maintain a healthy weight to reduce joint stress",
+      "Provide regular dental care, including brushing and professional cleanings",
+      "Engage in appropriate exercise to support joint health",
+      "Use genetic testing to inform breeding decisions and reduce hereditary conditions"
+    ],
+    "vet_checkups": "Annual checkups are recommended; more frequent visits may be necessary for senior dogs or those with health concerns."
+  },
+  "care": {
+    "description": "Swedish Vallhunds require regular exercise, mental stimulation, and consistent training to thrive as active and engaged companions.",
+    "behavior": "They benefit from activities that challenge their intelligence and energy, such as agility or herding exercises.",
+    "health": "Routine veterinary care, a balanced diet, and regular exercise are essential to maintain their overall health.",
+    "grooming": "Regular brushing is needed to manage shedding and maintain coat health; more frequent grooming may be required during seasonal shedding periods.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is crucial; portion control helps prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Swedish Vallhunds good with children?",
+      "answer": "Yes, they are generally good with children and enjoy playtime, but supervision is recommended to manage their herding instincts."
+    },
+    {
+      "question": "How much exercise does a Swedish Vallhund need?",
+      "answer": "They require daily exercise, including walks and play sessions, to meet their high energy levels."
+    },
+    {
+      "question": "Do Swedish Vallhunds shed a lot?",
+      "answer": "They shed moderately year-round, with increased shedding during seasonal changes; regular brushing helps manage this."
+    },
+    {
+      "question": "Are Swedish Vallhunds easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable, though consistent, positive reinforcement methods work best."
+    },
+    {
+      "question": "Can Swedish Vallhunds live in apartments?",
+      "answer": "They can adapt to apartment living if provided with sufficient exercise and mental stimulation."
+    }
+  ],
+  "sources": [
+    "https://www.westminsterkennelclub.org/breed/swedish-vallhund/",
+    "https://vcahospitals.com/know-your-pet/swedish-vallhund",
+    "https://en.wikipedia.org/wiki/Swedish_Vallhund",
+    "https://www.petguide.com/breeds/dog/swedish-vallhund/",
+    "https://www.purina.com/dogs/dog-breeds/swedish-vallhund",
+    "https://www.akc.org/expert-advice/dog-breeds/swedish-vallhund-history-little-viking-farm-dogs/",
+    "https://www.petmd.com/dog/breeds/swedish-valhund",
+    "https://www.thekennelclub.org.uk/breed-standards/pastoral/swedish-vallhund/",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-swedish-vallhunds",
+    "https://www.breedscout.com/breeds/swedish-vallhund",
+    "https://www.skk.se/en/nku-home/nordic-dog-breeds/sweden/swedish-vallhund/",
+    "https://www.ukcdogs.com/swedish-vallhund",
+    "https://www.purina.in/find-a-pet/dog-breeds/swedish-vallhund"
+  ]
+}

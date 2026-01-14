@@ -1,0 +1,159 @@
+{
+  "id": "borzoi",
+  "name": "Borzoi",
+  "name_rus": "Русская псовая борзая",
+  "full_description": "<p>The Borzoi, also known as the Russian Wolfhound, is a breed of sighthound that originated in Russia during the 13th century. Developed by the Russian aristocracy, these dogs were bred for hunting wolves and other game across vast open terrains, relying on their keen eyesight and remarkable speed. The breed's name, 'Borzoi,' is derived from the Russian word 'borzáya,' meaning 'fast.'</p>\n<p>Physically, Borzois are large, elegant dogs characterized by their long, narrow heads and slightly domed skulls. Males typically stand at least 28 inches tall at the withers, while females are at least 26 inches. Their weight ranges from 75 to 105 pounds for males, with females being 15 to 20 pounds lighter. The breed's coat is long, silky, and can be flat, wavy, or loosely curled, coming in a variety of colors and patterns.</p>\n<p>In terms of temperament, Borzois are known for their gentle and calm demeanor. They are intelligent and independent, often displaying a reserved nature, especially around strangers. Despite their hunting heritage, they are affectionate with their families and can be quite sensitive, responding best to gentle training methods.</p>\n<p>Originally bred for coursing and hunting, Borzois possess exceptional speed and agility. Their strong necks and jaws enabled them to chase, catch, and hold their quarry. Today, while they are less commonly used for hunting, they excel in lure coursing and other canine sports that tap into their natural instincts.</p>\n<p>In modern times, Borzois are cherished as companion animals. Their graceful appearance and serene nature have earned them a place in many homes worldwide. However, their independent streak and specific exercise needs mean they are best suited for owners who understand and appreciate the breed's unique characteristics.</p>\n<p>Notable traits of the Borzoi include their sensitivity to anesthesia, a common trait among sighthounds due to their lean body mass. They are also prone to certain health issues like bloat and hip dysplasia, necessitating informed and attentive care from their owners.</p>",
+  "full_description_rus": "<p>Русская псовая борзая, известная также как борзая, — порода охотничьих собак, сформировавшаяся в России в XIII веке. Разведённая русской аристократией, эта порода предназначалась для охоты на волков и другую крупную дичь на обширных открытых пространствах, полагаясь на острое зрение и выдающуюся скорость. Название «борзая» происходит от русского слова «борзый», означающего «быстрый».</p>\n<p>Физически русские псовые борзые — крупные, элегантные собаки с длинной, узкой головой и слегка выпуклым черепом. Рост кобелей составляет не менее 75 см в холке, сук — не менее 68 см. Вес кобелей варьируется от 35 до 48 кг, сук — от 25 до 40 кг. Шерсть длинная, шелковистая, может быть прямой, волнистой или слегка кудрявой, представлена в различных цветах и узорах.</p>\n<p>По темпераменту борзые известны своим нежным и спокойным нравом. Они умны и независимы, часто проявляют сдержанность, особенно с незнакомцами. Несмотря на охотничье наследие, они привязаны к своей семье и могут быть весьма чувствительными, лучше всего реагируя на мягкие методы обучения.</p>\n<p>Изначально выведенные для охоты, борзые обладают исключительной скоростью и ловкостью. Их сильные шеи и челюсти позволяли им преследовать, ловить и удерживать добычу. Сегодня, хотя они реже используются в охоте, они преуспевают в курсинге и других собачьих видах спорта, которые задействуют их природные инстинкты.</p>\n<p>В современном мире русские псовые борзые ценятся как компаньоны. Их грациозный внешний вид и спокойный характер завоевали им место во многих домах по всему миру. Однако их независимый характер и специфические потребности в физических нагрузках означают, что они лучше всего подходят владельцам, которые понимают и ценят уникальные особенности породы.</p>\n<p>Особенности русской псовой борзой включают чувствительность к анестезии, что характерно для борзых из-за их стройного телосложения. Они также склонны к определённым проблемам со здоровьем, таким как вздутие живота и дисплазия тазобедренного сустава, что требует информированного и внимательного ухода со стороны владельцев.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: 75-105 pounds; Females: 60-85 pounds",
+    "height": "Males: at least 28 inches; Females: at least 26 inches",
+    "coat": "long, silky, can be flat, wavy, or loosely curled",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "regular brushing; more frequent during shedding seasons",
+    "lifespan": "9-14 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "Кобели: 35-48 кг; Суки: 25-40 кг",
+    "рост": "Кобели: не менее 75 см; Суки: не менее 68 см",
+    "шерсть": "длинная, шелковистая, может быть прямой, волнистой или слегка кудрявой",
+    "активность": "умеренная",
+    "обучаемость": "умеренная",
+    "уход": "регулярное расчёсывание; более частое во время линьки",
+    "продолжительность жизни": "9-14 лет"
+  },
+  "behavior": {
+    "summary": "Borzois are gentle, intelligent, and independent dogs with a calm demeanor. They are affectionate with their families but can be reserved around strangers.",
+    "with_family": "Affectionate and loyal, Borzois form strong bonds with their family members, often displaying a gentle and calm presence at home.",
+    "with_children": "Generally good with older children who understand respectful interaction; may be less tolerant of rough play from younger kids.",
+    "with_other_pets": "Their strong prey drive can make them unsuitable for homes with small animals; early socialization is crucial.",
+    "with_strangers": "Typically reserved and aloof around strangers, but not aggressive; they may take time to warm up to new people.",
+    "special_traits": [
+      "Independent thinker",
+      "Sensitive to harsh training methods",
+      "Strong prey drive",
+      "Quiet and rarely bark",
+      "Enjoys running and open spaces"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Борзые — нежные, умные и независимые собаки с спокойным нравом. Они привязаны к своей семье, но могут быть сдержанными с незнакомцами.",
+    "с семьёй": "Привязанные и верные, борзые формируют крепкие связи с членами семьи, часто проявляя нежность и спокойствие дома.",
+    "с детьми": "Обычно хорошо ладят со старшими детьми, которые понимают необходимость уважительного обращения; могут быть менее терпимы к грубой игре младших детей.",
+    "с другими животными": "Их сильный охотничий инстинкт может сделать их неподходящими для домов с мелкими животными; ранняя социализация крайне важна.",
+    "с незнакомцами": "Обычно сдержанны и отстранены с незнакомцами, но не агрессивны; могут потребовать времени, чтобы привыкнуть к новым людям.",
+    "особые черты": [
+      "Независимый ум",
+      "Чувствительны к жёстким методам дрессировки",
+      "Сильный охотничий инстинкт",
+      "Тихие и редко лают",
+      "Любят бегать и открытые пространства"
+    ]
+  },
+  "health": {
+    "summary": "Borzois are generally healthy but are prone to certain conditions like bloat, hip dysplasia, and sensitivity to anesthesia. Regular veterinary care is essential.",
+    "common_issues": [
+      "Bloat (Gastric Dilatation-Volvulus)",
+      "Hip dysplasia",
+      "Progressive Retinal Atrophy (PRA)",
+      "Sensitivity to anesthesia",
+      "Osteochondritis Dissecans (OCD)"
+    ],
+    "prevention_tips": [
+      "Feed smaller, frequent meals to reduce bloat risk",
+      "Avoid vigorous exercise immediately before or after eating",
+      "Regular veterinary check-ups for early detection of health issues",
+      "Maintain a healthy weight to reduce joint stress",
+      "Use caution with medications due to anesthesia sensitivity"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health concerns"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Борзые в целом здоровы, но склонны к определённым заболеваниям, таким как вздутие живота, дисплазия тазобедренного сустава и чувствительность к анестезии. Регулярный ветеринарный уход необходим.",
+    "распространённые проблемы": [
+      "Вздутие живота (Гастродилатация-волвулюс)",
+      "Дисплазия тазобедренного сустава",
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Чувствительность к анестезии",
+      "Остеохондрит диссеканс (OCD)"
+    ],
+    "советы по профилактике": [
+      "Кормите небольшими, частыми порциями, чтобы снизить риск вздутия живота",
+      "Избегайте интенсивных физических нагрузок непосредственно до или после еды",
+      "Регулярные ветеринарные осмотры для раннего выявления проблем со здоровьем",
+      "Поддерживайте здоровый вес, чтобы уменьшить нагрузку на суставы",
+      "Будьте осторожны с медикаментами из-за чувствительности к анестезии"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или тех, у кого есть проблемы со здоровьем"
+  },
+  "care": {
+    "description": "Borzois require regular grooming, moderate exercise, and attentive health care to thrive as companions.",
+    "behavior": "Provide consistent, gentle training and socialization to manage their independent nature and strong prey drive.",
+    "health": "Monitor for signs of bloat and joint issues; consult a veterinarian familiar with the breed's sensitivities.",
+    "grooming": "Brush 2–3 times per week; increase frequency during shedding seasons; regular nail trimming and dental care are important.",
+    "nutrition": "Feed high-quality dog food appropriate for large breeds; avoid overfeeding to maintain a healthy weight."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Борзым требуется регулярный уход за шерстью, умеренные физические нагрузки и внимательное отношение к здоровью для полноценной жизни в качестве компаньонов.",
+    "поведение и характер": "Обеспечьте последовательную, мягкую дрессировку и социализацию, чтобы управлять их независимым характером и сильным охотничьим инстинктом.",
+    "здоровье и профилактика": "Следите за признаками вздутия живота и проблем с суставами; консультируйтесь с ветеринаром, знакомым с особенностями породы.",
+    "груминг и уход": "Расчёсывайте 2–3 раза в неделю; увеличьте частоту во время линьки; регулярная стрижка когтей и уход за зубами важны.",
+    "питание и активность": "Кормите качественным кормом, подходящим для крупных пород; избегайте перекармливания для поддержания здорового веса."
+  },
+  "faq": [
+    {
+      "question": "Are Borzois good apartment dogs?",
+      "answer": "While they can adapt to apartment living, Borzois require regular exercise and space to run; access to a fenced yard is beneficial."
+    },
+    {
+      "question": "Do Borzois get along with other dogs?",
+      "answer": "They can coexist with other dogs, especially if raised together, but their strong prey drive may pose challenges with smaller pets."
+    },
+    {
+      "question": "How much exercise does a Borzoi need?",
+      "answer": "Moderate daily exercise, including walks and opportunities to run in a secure area, is recommended to keep them healthy and happy."
+    },
+    {
+      "question": "Are Borzois easy to train?",
+      "answer": "They are intelligent but independent; consistent, positive reinforcement methods work best, though they may not be as eager to please as some breeds."
+    },
+    {
+      "question": "Do Borzois shed a lot?",
+      "answer": "They shed moderately year-round, with heavier shedding during seasonal changes; regular grooming helps manage this."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли борзые для содержания в квартире?",
+      "ответ": "Хотя они могут адаптироваться к жизни в квартире, борзым необходимы регулярные физические нагрузки и пространство для бега; доступ к огороженному двору будет полезен."
+    },
+    {
+      "вопрос": "Ладят ли борзые с другими собаками?",
+      "ответ": "Они могут сосуществовать с другими собаками, особенно если выросли вместе, но их сильный охотничий инстинкт может создавать проблемы с мелкими животными."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется борзой?",
+      "ответ": "Рекомендуются умеренные ежедневные физические нагрузки, включая прогулки и возможность побегать в безопасной зоне, чтобы поддерживать их здоровье и счастье."
+    },
+    {
+      "вопрос": "Легко ли дрессировать борзых?",
+      "ответ": "Они умны, но независимы; последовательные методы положительного подкрепления работают лучше всего, хотя они могут быть менее склонны угождать, чем некоторые другие породы."
+    },
+    {
+      "вопрос": "Сильно ли линяют борзые?",
+      "ответ": "Они линяют умеренно круглый год, с более интенсивной линькой во время сезонных изменений; регулярный уход помогает справляться с этим."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/borzoi",
+    "https://www.petmd.com/dog/breeds/borzoi",
+    "https://vcahospitals.com/know-your-pet/borzoi",
+    "https://www.borzoiclubofamerica.org/aboutborzoi/borzoi-care.php",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-borzois/",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/borzoi",
+    "https://ru.wikipedia.org/wiki/Русская_псовая_борзая",
+    "https://www.pedigree.ru/porody/russkayapsovayaborzaya"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "yorkipoo",
+  "name": "Yorkipoo",
+  "name_rus": "Йоркипу",
+  "full_description": "<p>The Yorkipoo, also known as the Yorkie-Poo, is a designer dog breed resulting from the cross between a Yorkshire Terrier and a Poodle, typically a Toy or Miniature Poodle. This hybrid was developed in the United States during the late 20th century, aiming to combine the desirable traits of both parent breeds: the Yorkshire Terrier's spirited personality and the Poodle's intelligence and hypoallergenic coat. The result is a small, affectionate companion dog well-suited for various living environments. Physically, Yorkipoos are small dogs, standing between 7 to 15 inches (18 to 38 cm) tall and weighing approximately 4 to 15 pounds (2 to 7 kg). Their coat can vary from straight to curly, often inheriting the Poodle's low-shedding, hypoallergenic qualities. Common coat colors include black, white, tan, brown, apricot, and combinations thereof. Their expressive eyes and perky ears contribute to their endearing appearance. Temperamentally, Yorkipoos are known for their friendly, affectionate, and playful nature. They thrive on human interaction and enjoy being the center of attention. Their intelligence makes them relatively easy to train, though they can exhibit a degree of stubbornness inherited from their terrier lineage. Early socialization and positive reinforcement training methods are recommended to foster well-rounded behavior. Originally bred as companion animals, Yorkipoos do not have a history of working roles. Their primary purpose has always been to serve as loving and engaging pets. In modern times, they have gained popularity among families, singles, and seniors alike, particularly those seeking a small, low-shedding dog suitable for apartment living. Notable characteristics of the Yorkipoo include their adaptability to various living situations, their suitability for individuals with mild allergies due to their low-shedding coats, and their energetic yet manageable exercise needs. Their sociable nature makes them excellent companions, though they may develop separation anxiety if left alone for extended periods.</p>",
+  "full_description_rus": "<p>Йоркипу, также известный как йорки-пу, — это дизайнерская порода собак, полученная в результате скрещивания йоркширского терьера и пуделя, обычно той или миниатюрного пуделя. Этот гибрид был разработан в Соединенных Штатах в конце XX века с целью объединить желаемые черты обеих родительских пород: энергичный характер йоркширского терьера и интеллект пуделя с его гипоаллергенной шерстью. Результатом стала небольшая, ласковая собака-компаньон, хорошо подходящая для различных условий проживания. Физически йоркипу — это небольшие собаки, рост которых составляет от 18 до 38 см, а вес — примерно от 2 до 7 кг. Их шерсть может варьироваться от прямой до кудрявой, часто наследуя низколиняющие, гипоаллергенные качества пуделя. Распространенные окрасы включают черный, белый, рыжий, коричневый, абрикосовый и их комбинации. Выразительные глаза и стоячие уши придают им очаровательный вид. По темпераменту йоркипу известны своей дружелюбностью, привязанностью и игривостью. Они процветают в обществе людей и любят быть в центре внимания. Их интеллект делает их относительно легкими в обучении, хотя они могут проявлять некоторую упрямость, унаследованную от терьерской линии. Ранняя социализация и методы положительного подкрепления рекомендуются для формирования уравновешенного поведения. Изначально выведенные как компаньоны, йоркипу не имеют истории рабочих ролей. Их основное предназначение всегда заключалось в том, чтобы быть любящими и увлекательными питомцами. В современное время они приобрели популярность среди семей, одиноких людей и пожилых, особенно тех, кто ищет небольшую, низколиняющую собаку, подходящую для жизни в квартире. Заметные характеристики йоркипу включают их адаптивность к различным условиям проживания, их пригодность для людей с легкими аллергиями благодаря их низколиняющей шерсти и их энергичные, но управляемые потребности в упражнениях. Их общительный характер делает их отличными компаньонами, хотя они могут развить тревогу разлуки, если остаются одни на длительные периоды.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "4-15 pounds (2-7 kg)",
+    "height": "7-15 inches (18-38 cm)",
+    "coat": "varies from straight to curly; low-shedding; colors include black, white, tan, brown, apricot, and combinations",
+    "activity": "moderate",
+    "trainability": "high; intelligent and eager to please, though may exhibit some stubbornness",
+    "grooming": "regular brushing 2-3 times per week; professional grooming every 4-8 weeks",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "2-7 кг",
+    "рост": "18-38 см",
+    "шерсть": "от прямой до кудрявой; низколиняющая; окрасы включают черный, белый, рыжий, коричневый, абрикосовый и их комбинации",
+    "активность": "умеренная",
+    "обучаемость": "высокая; умны и стремятся угодить, хотя могут проявлять некоторую упрямость",
+    "уход": "регулярное расчесывание 2-3 раза в неделю; профессиональный груминг каждые 4-8 недель",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "summary": "Yorkipoos are affectionate, intelligent, and playful dogs that thrive on human companionship and adapt well to various living environments.",
+    "with_family": "They form strong bonds with family members and enjoy being involved in daily activities.",
+    "with_children": "Generally good with children, especially when socialized early; supervision is recommended due to their small size.",
+    "with_other_pets": "Typically friendly with other pets, especially when raised together; early socialization is beneficial.",
+    "with_strangers": "Friendly towards strangers, though they may bark to alert their owners of new arrivals.",
+    "special_traits": [
+      "Highly adaptable to different living situations",
+      "Low-shedding coat suitable for mild allergy sufferers",
+      "Intelligent and trainable with positive reinforcement",
+      "May develop separation anxiety if left alone for long periods",
+      "Energetic but content with moderate exercise"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Йоркипу — ласковые, умные и игривые собаки, которые процветают в обществе людей и хорошо адаптируются к различным условиям проживания.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи и любят участвовать в повседневных делах.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации; рекомендуется присмотр из-за их небольшого размера.",
+    "с другими животными": "Как правило, дружелюбны с другими животными, особенно если выросли вместе; ранняя социализация полезна.",
+    "с незнакомцами": "Дружелюбны к незнакомцам, хотя могут лаять, чтобы предупредить хозяев о новых посетителях.",
+    "особые черты": [
+      "Высокая адаптивность к различным условиям проживания",
+      "Низколиняющая шерсть, подходящая для людей с легкими аллергиями",
+      "Умны и поддаются дрессировке с использованием положительного подкрепления",
+      "Могут развить тревогу разлуки при длительном одиночестве",
+      "Энергичны, но довольствуются умеренными физическими нагрузками"
+    ]
+  },
+  "health": {
+    "summary": "Yorkipoos are generally healthy dogs with a lifespan of 12-15 years, though they can be prone to certain health issues common in small breeds.",
+    "common_issues": [
+      "Dental problems",
+      "Patellar luxation",
+      "Hypoglycemia",
+      "Legg-Calvé-Perthes disease",
+      "Portosystemic shunt"
+    ],
+    "prevention_tips": [
+      "Regular dental care, including brushing and professional cleanings",
+      "Routine veterinary check-ups to monitor joint health",
+      "Feeding multiple small meals daily to maintain stable blood sugar levels",
+      "Providing appropriate exercise to maintain healthy weight and joint function",
+      "Ensuring vaccinations and parasite control are up to date"
+    ],
+    "vet_checkups": "Annual veterinary exams are recommended, with more frequent visits as needed based on individual health concerns."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Йоркипу обычно здоровые собаки с продолжительностью жизни 12-15 лет, хотя они могут быть склонны к некоторым проблемам со здоровьем, характерным для мелких пород.",
+    "распространённые проблемы": [
+      "Зубные проблемы",
+      "Вывих надколенника",
+      "Гипогликемия",
+      "Болезнь Легга-Кальве-Пертеса",
+      "Портосистемный шунт"
+    ],
+    "советы по профилактике": [
+      "Регулярный уход за зубами, включая чистку и профессиональную чистку",
+      "Плановые ветеринарные осмотры для контроля состояния суставов",
+      "Кормление несколькими небольшими порциями в день для поддержания стабильного уровня сахара в крови",
+      "Обеспечение соответствующих физических нагрузок для поддержания здорового веса и функции суставов",
+      "Обеспечение своевременной вакцинации и контроля паразитов"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные ветеринарные осмотры, с более частыми визитами по мере необходимости в зависимости от индивидуальных проблем со здоровьем."
+  },
+  "care": {
+    "description": "Yorkipoos require regular grooming, moderate exercise, and consistent training to maintain their health and happiness.",
+    "behavior": "Early socialization and positive reinforcement training are essential to manage their intelligent and sometimes stubborn nature.",
+    "health": "Regular veterinary care and preventive measures are important to address common health issues in small breeds.",
+    "grooming": "Brush their coat 2-3 times per week to prevent matting; professional grooming every 4-8 weeks is recommended.",
+    "nutrition": "Feed a balanced diet appropriate for small breeds; multiple small meals per day can help prevent hypoglycemia."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Йоркипу требуют регулярного ухода за шерстью, умеренных физических нагрузок и последовательной дрессировки для поддержания их здоровья и счастья.",
+    "поведение и характер": "Ранняя социализация и дрессировка с положительным подкреплением необходимы для управления их умным и иногда упрямым характером.",
+    "здоровье и профилактика": "Регулярный ветеринарный уход и профилактические меры важны для предотвращения распространенных проблем со здоровьем у мелких пород.",
+    "груминг и уход": "Расчесывайте их шерсть 2-3 раза в неделю, чтобы предотвратить спутывание; рекомендуется профессиональный груминг каждые 4-8 недель.",
+    "питание и активность": "Кормите сбалансированным рационом, подходящим для мелких пород; несколько небольших приемов пищи в день могут помочь предотвратить гипогликемию."
+  },
+  "faq": [
+    {
+      "question": "Are Yorkipoos hypoallergenic?",
+      "answer": "Yorkipoos have low-shedding coats that may be suitable for individuals with mild allergies, but no dog is completely hypoallergenic."
+    },
+    {
+      "question": "How much exercise does a Yorkipoo need?",
+      "answer": "They require moderate exercise, such as 20-30 minutes of daily walks and playtime."
+    },
+    {
+      "question": "Are Yorkipoos good with children?",
+      "answer": "Yes, they are generally good with children, especially when socialized early; supervision is recommended due to their small size."
+    },
+    {
+      "question": "How often should a Yorkipoo be groomed?",
+      "answer": "Regular brushing 2-3 times per week and professional grooming every 4-8 weeks are recommended."
+    },
+    {
+      "question": "Do Yorkipoos suffer from separation anxiety?",
+      "answer": "They can develop separation anxiety if left alone for extended periods; they thrive on human companionship."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли йоркипу гипоаллергенными?",
+      "ответ": "Йоркипу имеют низколиняющую шерсть, которая может подходить для людей с легкими аллергиями, но ни одна собака не является полностью гипоаллергенной."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется йоркипу?",
+      "ответ": "Им требуется умеренная физическая нагрузка, такая как 20-30 минут ежедневных прогулок и игр."
+    },
+    {
+      "вопрос": "Хорошо ли йоркипу ладят с детьми?",
+      "ответ": "Да, они обычно хорошо ладят с детьми, особенно при ранней социализации; рекомендуется присмотр из-за их небольшого размера."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за йоркипу?",
+      "ответ": "Рекомендуется регулярное расчесывание 2-3 раза в неделю и профессиональный груминг каждые 4-8 недель."
+    },
+    {
+      "вопрос": "Страдают ли йоркипу от тревоги разлуки?",
+      "ответ": "Они могут развить тревогу разлуки, если остаются одни на длительные периоды; они процветают в обществе людей."
+    }
+  ],
+  "sources": [
+    "https://www.purina.ru/find-a-pet/dog-breeds/yorkipoo",
+    "https://kinpet.ru/rossiya/shchenok_yorki-pu/",
+    "https://kinpet.ru/leningradskaya-oblast/sobaki_yorki-pu/",
+    "https://zoobonus.ua/ru/breed/iorki-pu",
+    "https://sobaka.wiki/katalog-porod/yorkipoo/",
+    "https://vetprofi.by/knowledgebase/yorkipu/"
+  ]
+}

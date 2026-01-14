@@ -1,0 +1,84 @@
+{
+  "need_id": "long_lifespan",
+  "formula": "lifespan_long | lifespan_very_long | lifespan_long_or_more",
+  "formula_reasoning": "The need is for a dog with a longer expected lifespan. The features 'lifespan_long', 'lifespan_very_long', and 'lifespan_long_or_more' directly indicate breeds with longer-than-average life expectancy.",
+  "questions": [
+    {
+      "id": "long_lifespan_q1",
+      "text": "Хотели бы вы, чтобы ваша собака жила с вами как можно дольше?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = для пользователя важно, чтобы собака была с ним долгие годы. Нет = продолжительность жизни не важна."
+    },
+    {
+      "id": "long_lifespan_q2",
+      "text": "Планируете ли вы, чтобы собака стала членом вашей семьи на долгие годы вперёд?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = пользователь рассматривает собаку как долгосрочного компаньона. Нет = длительность жизни не приоритет."
+    },
+    {
+      "id": "long_lifespan_q3",
+      "text": "Для вас важно, чтобы собака прожила больше 12 лет?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = явно важна долгоживущая собака. Нет = срок жизни не критичен."
+    },
+    {
+      "id": "long_lifespan_q4",
+      "text": "Вы ищете питомца, который будет сопровождать вас на протяжении значительной части вашей жизни?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = пользователь хочет долгосрочного друга. Нет = короткий срок жизни не проблема."
+    },
+    {
+      "id": "long_lifespan_q5",
+      "text": "Вам ближе идея завести собаку, которая, как правило, живёт дольше других пород?",
+      "weight": 0.8,
+      "style": "indirect",
+      "verification": "Да = склонность к породам-долгожителям. Нет = этот фактор не имеет значения."
+    }
+  ],
+  "need_name": "Long Lifespan",
+  "need_description": "Longer expected lifespan",
+  "block": "health_allergies",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

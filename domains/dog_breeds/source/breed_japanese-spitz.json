@@ -1,0 +1,77 @@
+{
+  "id": "japanese-spitz",
+  "name": "Japanese Spitz",
+  "full_description": "<p>The Japanese Spitz is a small to medium-sized breed that exudes elegance and charm. Originating in Japan during the early 20th century, the breed was developed by crossbreeding various white Spitz-type dogs imported from countries such as Canada, the United States, Australia, and China. The goal was to create a companion dog that combined the desirable traits of these breeds. By 1948, the Japanese Spitz was officially recognized in Japan, and it has since gained popularity worldwide. Physically, the Japanese Spitz boasts a pure white, double-layered coat that stands off the body, giving it a fluffy appearance. The outer coat is straight and long, while the undercoat is soft and dense. They have a moderately broad and rounded skull, with small, triangular, pricked ears set high on the head. Their dark, almond-shaped eyes convey a keen and intelligent expression. The tail is high-set and carried curled over the back, adding to their distinctive silhouette. In terms of temperament, Japanese Spitz are known for their cheerful and intelligent nature. They are affectionate with their families and exhibit a keen alertness, making them excellent watchdogs. Despite their vigilance, they are not known to be excessively noisy. Their friendly disposition makes them well-suited for families, including those with children. Originally bred as companion animals, Japanese Spitz do not have a history of working roles. Their primary purpose has always been to provide companionship, and they excel in this role due to their loyal and loving nature. In modern times, the Japanese Spitz continues to be a beloved companion dog. Their adaptability allows them to thrive in various living environments, from apartments to houses with yards. Their striking appearance and friendly demeanor have contributed to their growing popularity in many countries. Notable characteristics of the breed include their pristine white coat, which requires regular grooming to maintain its beauty, and their spirited yet gentle personality. They are intelligent and eager to please, which makes training relatively straightforward. Their moderate size and adaptable nature make them suitable for a wide range of households.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "5-10 kg",
+    "height": "30-38 cm",
+    "coat": "double-layered, straight, long outer coat with a soft, dense undercoat",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing to maintain coat condition",
+    "lifespan": "12-14 years"
+  },
+  "behavior": {
+    "summary": "Japanese Spitz are intelligent, cheerful, and affectionate dogs known for their friendly disposition and alertness.",
+    "with_family": "They form strong bonds with family members and are known for their loyalty and affectionate nature.",
+    "with_children": "Japanese Spitz are gentle and playful with children, making them excellent family pets.",
+    "with_other_pets": "They generally get along well with other pets, especially when socialized from a young age.",
+    "with_strangers": "While alert and watchful, they are not aggressive and can be friendly towards strangers.",
+    "special_traits": [
+      "intelligent",
+      "cheerful",
+      "affectionate",
+      "alert",
+      "friendly"
+    ]
+  },
+  "health": {
+    "summary": "Japanese Spitz are generally healthy dogs with a lifespan of 12-14 years, though they can be prone to certain genetic conditions.",
+    "common_issues": [
+      "patellar luxation",
+      "runny eyes",
+      "dental issues"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain a healthy diet",
+      "ensure regular exercise",
+      "practice good dental hygiene",
+      "monitor for signs of joint issues"
+    ],
+    "vet_checkups": "annually, or more frequently as needed"
+  },
+  "care": {
+    "description": "Japanese Spitz require regular grooming, a balanced diet, and consistent exercise to maintain their health and happiness.",
+    "behavior": "They thrive on human companionship and enjoy interactive play and mental stimulation.",
+    "health": "Regular veterinary visits and preventive care are essential to monitor and maintain their overall health.",
+    "grooming": "Their double coat requires regular brushing to prevent matting and to keep it clean.",
+    "nutrition": "A balanced diet appropriate for their size and activity level is important to maintain optimal health."
+  },
+  "faq": [
+    {
+      "question": "Are Japanese Spitz good with children?",
+      "answer": "Yes, they are gentle and playful, making them excellent companions for children."
+    },
+    {
+      "question": "How much exercise does a Japanese Spitz need?",
+      "answer": "They require moderate daily exercise, such as walks and playtime, to stay healthy and happy."
+    },
+    {
+      "question": "Do Japanese Spitz shed a lot?",
+      "answer": "They shed moderately and require regular grooming to manage their coat."
+    },
+    {
+      "question": "Are Japanese Spitz easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, which makes training relatively straightforward."
+    },
+    {
+      "question": "Can Japanese Spitz live in apartments?",
+      "answer": "Yes, their adaptable nature makes them suitable for apartment living, provided they receive adequate exercise."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/japanese-spitz"
+  ]
+}

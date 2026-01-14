@@ -1,0 +1,165 @@
+{
+  "id": "schnoodle",
+  "name": "Schnoodle",
+  "name_rus": "Шнудель",
+  "full_description": "<p>The Schnoodle is a hybrid dog breed resulting from the cross between a Schnauzer and a Poodle. This designer breed was developed in the United States during the 1980s with the aim of combining the Poodle's hypoallergenic coat and intelligence with the Schnauzer's loyalty and alertness. Schnoodles come in various sizes, depending on the size of their parent breeds, ranging from Toy to Giant. Their coats are typically low-shedding and can be wavy or curly, available in colors such as black, gray, silver, brown, apricot, and white. They possess expressive faces with bright, alert eyes and often inherit the Schnauzer's distinctive beard. Schnoodles are known for their affectionate and intelligent nature, forming strong bonds with their families. They are energetic and require regular physical and mental stimulation to prevent boredom. Originally bred as companion animals, Schnoodles have also been utilized in therapy work due to their friendly disposition. Their popularity has grown over the years, especially among families seeking a low-shedding, intelligent, and loyal pet. Notable characteristics of the Schnoodle include their adaptability to various living environments, suitability for families with children, and their potential as watchdogs due to their alertness.</p>",
+  "full_description_rus": "<p>Шнудель — это гибридная порода собак, полученная в результате скрещивания шнауцера и пуделя. Эта дизайнерская порода была разработана в США в 1980-х годах с целью объединить гипоаллергенную шерсть и интеллект пуделя с преданностью и бдительностью шнауцера. Шнудели бывают различных размеров, в зависимости от размеров их родительских пород, варьируясь от той до гигантского. Их шерсть обычно мало линяет и может быть волнистой или кудрявой, представлена в таких цветах, как черный, серый, серебристый, коричневый, абрикосовый и белый. Они обладают выразительными лицами с яркими, бдительными глазами и часто наследуют характерную бороду шнауцера. Шнудели известны своей привязанностью и умом, формируя крепкие связи со своими семьями. Они энергичны и требуют регулярной физической и умственной стимуляции, чтобы избежать скуки. Изначально выведенные как компаньоны, шнудели также использовались в терапевтической работе благодаря своему дружелюбному характеру. Их популярность выросла за последние годы, особенно среди семей, ищущих мало линяющего, умного и преданного питомца. Заметные характеристики шнуделя включают их адаптивность к различным условиям проживания, пригодность для семей с детьми и их потенциал в качестве сторожевых собак благодаря их бдительности.</p>",
+  "parameters": {
+    "activity": "moderate to high",
+    "coat": "low-shedding, wavy to curly",
+    "grooming": "regular brushing; professional grooming every 6-8 weeks",
+    "height": "10-26 inches",
+    "lifespan": "12-15 years",
+    "size": "small to large",
+    "trainability": "high",
+    "weight": "6-75 pounds"
+  },
+  "parameters_rus": {
+    "size": "маленький до крупного",
+    "weight": "2,7-34 кг",
+    "height": "25-66 см",
+    "coat": "мало линяющая, волнистая или кудрявая",
+    "activity": "умеренная до высокой",
+    "trainability": "высокая",
+    "grooming": "регулярное расчесывание; профессиональный груминг каждые 6-8 недель",
+    "lifespan": "12-15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Affectionate and loyal",
+      "Energetic and playful",
+      "Alert and protective",
+      "Adaptable to various living situations"
+    ],
+    "summary": "Schnoodles are affectionate, intelligent, and energetic dogs that form strong bonds with their families. They are adaptable and thrive in various living environments.",
+    "with_children": "Schnoodles are generally good with children, displaying patience and playfulness, making them suitable companions for families.",
+    "with_family": "They are loyal and loving, often forming deep connections with family members and enjoying being involved in family activities.",
+    "with_other_pets": "With proper socialization, they can get along well with other pets, though their interactions should be supervised initially.",
+    "with_strangers": "They may be wary of strangers and can exhibit protective behaviors, making them effective watchdogs."
+  },
+  "behavior_rus": {
+    "summary": "Шнудели — это привязчивые, умные и энергичные собаки, которые формируют крепкие связи со своими семьями. Они адаптивны и хорошо чувствуют себя в различных условиях проживания.",
+    "with_family": "Они преданы и любящи, часто устанавливают глубокие связи с членами семьи и любят участвовать в семейных мероприятиях.",
+    "with_children": "Шнудели обычно хорошо ладят с детьми, проявляя терпение и игривость, что делает их подходящими компаньонами для семей.",
+    "with_other_pets": "При правильной социализации они могут хорошо уживаться с другими питомцами, хотя их взаимодействие следует сначала контролировать.",
+    "with_strangers": "Они могут быть насторожены к незнакомцам и проявлять защитные инстинкты, что делает их эффективными сторожевыми собаками.",
+    "special_traits": [
+      "Высокоинтеллектуальные и легко обучаемые",
+      "Привязчивые и преданные",
+      "Энергичные и игривые",
+      "Бдительные и защитные",
+      "Адаптивные к различным условиям проживания"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Diabetes",
+      "Epilepsy",
+      "Progressive retinal atrophy",
+      "Skin allergies",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight and joint health",
+      "Balanced diet to prevent obesity and manage diabetes risk",
+      "Routine ear cleaning to prevent infections",
+      "Regular grooming to manage skin health",
+      "Consistent veterinary check-ups for early detection of health issues"
+    ],
+    "summary": "Schnoodles are generally healthy but may inherit certain health issues from their parent breeds. Regular veterinary care and a healthy lifestyle can help manage these risks.",
+    "vet_checkups": "Bi-annual check-ups recommended"
+  },
+  "health_rus": {
+    "summary": "Шнудели в целом здоровы, но могут наследовать определенные проблемы со здоровьем от своих родительских пород. Регулярный ветеринарный уход и здоровый образ жизни помогут управлять этими рисками.",
+    "common_issues": [
+      "Дисплазия тазобедренных и локтевых суставов",
+      "Диабет",
+      "Эпилепсия",
+      "Прогрессирующая атрофия сетчатки",
+      "Кожные аллергии",
+      "Инфекции ушей"
+    ],
+    "prevention_tips": [
+      "Регулярные физические упражнения для поддержания здорового веса и здоровья суставов",
+      "Сбалансированная диета для предотвращения ожирения и управления риском диабета",
+      "Рутинная чистка ушей для предотвращения инфекций",
+      "Регулярный груминг для поддержания здоровья кожи",
+      "Постоянные ветеринарные осмотры для раннего выявления проблем со здоровьем"
+    ],
+    "vet_checkups": "Рекомендуются осмотры два раза в год"
+  },
+  "care": {
+    "behavior": "They thrive on human interaction and can develop separation anxiety if left alone for extended periods. Providing engaging activities and companionship is essential.",
+    "description": "Schnoodles require regular physical and mental stimulation, consistent grooming, and routine health care to maintain their well-being.",
+    "grooming": "Regular brushing several times a week and professional grooming every 6-8 weeks are necessary to keep their coat in good condition and prevent matting.",
+    "health": "Maintaining a healthy weight through diet and exercise is crucial to prevent joint issues and manage the risk of diabetes.",
+    "nutrition": "A balanced diet appropriate for their size and activity level is important. Monitoring food intake helps prevent obesity, which can lead to other health problems."
+  },
+  "care_rus": {
+    "description": "Шнудели требуют регулярной физической и умственной стимуляции, постоянного груминга и рутинного медицинского ухода для поддержания их благополучия.",
+    "behavior": "Они процветают при взаимодействии с людьми и могут развить тревогу разлуки, если остаются одни на длительные периоды. Обеспечение увлекательных занятий и компании необходимо.",
+    "health": "Поддержание здорового веса с помощью диеты и упражнений важно для предотвращения проблем с суставами и управления риском диабета.",
+    "grooming": "Регулярное расчесывание несколько раз в неделю и профессиональный груминг каждые 6-8 недель необходимы для поддержания шерсти в хорошем состоянии и предотвращения спутывания.",
+    "nutrition": "Сбалансированная диета, соответствующая их размеру и уровню активности, важна. Контроль потребления пищи помогает предотвратить ожирение, которое может привести к другим проблемам со здоровьем."
+  },
+  "faq": [
+    {
+      "answer": "While no dog is completely hypoallergenic, Schnoodles have low-shedding coats that may be suitable for some allergy sufferers.",
+      "question": "Are Schnoodles hypoallergenic?"
+    },
+    {
+      "answer": "They require daily walks and playtime, totaling about an hour of physical activity to stay healthy and happy.",
+      "question": "How much exercise does a Schnoodle need?"
+    },
+    {
+      "answer": "Yes, they are generally good with children, displaying patience and playfulness, making them suitable family pets.",
+      "question": "Are Schnoodles good with children?"
+    },
+    {
+      "answer": "Yes, regular brushing and professional grooming every 6-8 weeks are necessary to maintain their coat and prevent matting.",
+      "question": "Do Schnoodles require a lot of grooming?"
+    },
+    {
+      "answer": "Yes, smaller Schnoodles adapt well to apartment living if they receive sufficient exercise and mental stimulation.",
+      "question": "Can Schnoodles live in apartments?"
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Являются ли шнудели гипоаллергенными?",
+      "answer": "Хотя ни одна собака не является полностью гипоаллергенной, шнудели имеют мало линяющую шерсть, которая может быть подходящей для некоторых людей, страдающих аллергией."
+    },
+    {
+      "question": "Сколько упражнений требуется шнуделю?",
+      "answer": "Им необходимы ежедневные прогулки и игры, в общей сложности около часа физической активности, чтобы оставаться здоровыми и счастливыми."
+    },
+    {
+      "question": "Хорошо ли шнудели ладят с детьми?",
+      "answer": "Да, они обычно хорошо ладят с детьми, проявляя терпение и игривость, что делает их подходящими семейными питомцами."
+    },
+    {
+      "question": "Требуют ли шнудели много ухода за шерстью?",
+      "answer": "Да, регулярное расчесывание и профессиональный груминг каждые 6-8 недель необходимы для поддержания их шерсти и предотвращения спутывания."
+    },
+    {
+      "question": "Могут ли шнудели жить в квартирах?",
+      "answer": "Да, меньшие шнудели хорошо адаптируются к жизни в квартире, если они получают достаточное количество упражнений и умственной стимуляции."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/schnoodle",
+    "https://www.breedscout.com/breeds/schnoodle",
+    "https://homepetguide.com/dogs/schnoodle/schnoodle-breed-profile/",
+    "https://dogmixology.com/schnoodle/general-health",
+    "https://www.rover.com/blog/breeds/schnoodle/",
+    "https://www.dogzone.com/crossbreeds/schnoodle/",
+    "https://www.yahoo.com/lifestyle/schnoodle-dog-breed-characteristics-care-183653130.html",
+    "https://www.petzlover.com/us/information/schnoodle",
+    "https://mywoof.com/blogs/articles/designer-dog-breed-profile-schnoodle-mdash-smart-spirited-spot-on-for-your-home",
+    "https://www.fitpetgo.com/breeds/schnoodle",
+    "https://dogtime.com/dog-breeds/schnoodle/xwp_curated_content",
+    "https://pethotel.io/en/dog-search/schnoodle"
+  ]
+}

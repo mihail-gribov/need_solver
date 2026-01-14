@@ -1,0 +1,84 @@
+{
+  "need_id": "low_smell",
+  "formula": "~odor_level",
+  "formula_reasoning": "The primary determinant of a dog's natural odor is the 'odor_level' feature; a low value (~odor_level) directly corresponds to minimal body and coat smell, which is the user's need.",
+  "questions": [
+    {
+      "id": "low_smell_q1",
+      "text": "Вам важно, чтобы от собаки почти не было запаха в доме?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = критично минимальное наличие запаха, Нет = запах не играет роли."
+    },
+    {
+      "id": "low_smell_q2",
+      "text": "Вы чувствительны к запахам в доме или предпочитаете, чтобы воздух всегда оставался свежим?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = высокая чувствительность к запахам, Нет = запахи не беспокоят."
+    },
+    {
+      "id": "low_smell_q3",
+      "text": "У вас были неприятные ощущения из-за запаха животных у знакомых или родственников?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = запах животных вызывает дискомфорт, Нет = запах не беспокоит."
+    },
+    {
+      "id": "low_smell_q4",
+      "text": "В вашей семье есть люди, которые замечают даже слабые запахи?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = окружение чувствительно к запахам, Нет = никто не обращает внимания."
+    },
+    {
+      "id": "low_smell_q5",
+      "text": "Вы предпочитаете, чтобы после прогулки или дождя в квартире не оставался запах животного?",
+      "weight": 0.85,
+      "style": "direct",
+      "verification": "Да = важно отсутствие запаха даже после улицы, Нет = запах не мешает."
+    }
+  ],
+  "need_name": "Low Smell",
+  "need_description": "Minimal odor",
+  "block": "health_allergies",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

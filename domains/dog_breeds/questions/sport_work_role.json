@@ -1,0 +1,84 @@
+{
+  "need_id": "sport_work_role",
+  "formula": "working_drive & physical_strength",
+  "formula_reasoning": "For sport or working tasks, the breed must have a strong desire and motivation to perform work (working_drive) AND sufficient physical power and endurance (physical_strength). Both are essential for sports, training, or practical work roles.",
+  "questions": [
+    {
+      "id": "sport_work_role_q1",
+      "text": "Планируете ли вы заниматься с собакой спортивными или рабочими видами деятельности — например, аджилити, фрисби, дрессировка, поиск, пастьба или служебная работа?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = собака нужна для спорта/работы. Нет = обычный компаньон, рабочая роль не требуется."
+    },
+    {
+      "id": "sport_work_role_q2",
+      "text": "Хотели бы вы, чтобы собака участвовала в соревнованиях или выполняла полезные задачи (например, охрана, поиск, сопровождение)?",
+      "weight": 0.85,
+      "style": "direct",
+      "verification": "Да = интерес к спортивной/рабочей активности. Нет = таких целей нет."
+    },
+    {
+      "id": "sport_work_role_q3",
+      "text": "Есть ли у вас опыт регулярных тренировок с животными — например, в кинологическом клубе или на площадке?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = вероятно ищет собаку для спорта/работы. Нет = может быть новичок, рабочая роль не приоритет."
+    },
+    {
+      "id": "sport_work_role_q4",
+      "text": "Вам важно, чтобы собака могла сопровождать вас в длительных походах, пробежках или активных прогулках с высокой нагрузкой?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = нужна выносливая и сильная собака, склонная к работе. Нет = нагрузки не требуются."
+    },
+    {
+      "id": "sport_work_role_q5",
+      "text": "Планируете ли вы обучать собаку специальным командам или навыкам для выполнения определённых задач?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = задача требует рабочего потенциала и обучаемости. Нет = рабочая роль неактуальна."
+    }
+  ],
+  "need_name": "Sport/Work Role",
+  "need_description": "Sport or working tasks",
+  "block": "purpose_role",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

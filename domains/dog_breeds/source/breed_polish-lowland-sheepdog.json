@@ -1,0 +1,83 @@
+{
+  "id": "polish-lowland-sheepdog",
+  "name": "Polish Lowland Sheepdog",
+  "full_description": "<p>The Polish Lowland Sheepdog, known in its native Poland as Polski Owczarek Nizinny (PON), is a medium-sized, shaggy-coated herding breed with a rich history and distinctive appearance.</p>\n<p><strong>Origin and History</strong></p>\n<p>The PON's lineage traces back to at least the 13th century, with ancestors believed to include the Puli and Tibetan Terrier. These dogs were primarily developed for herding and guarding livestock in the lowland regions of Poland. The breed faced near extinction during World War II but was revitalized through dedicated breeding programs, notably by Dr. Danuta Hryniewicz and her dog, Smok, who is considered the progenitor of modern PONs.</p>\n<p><strong>Physical Appearance</strong></p>\n<p>The PON is a muscular, cobby dog with a rectangular body shape. Males typically stand between 45–50 cm (17.75–19.75 inches) at the withers, while females measure 42–47 cm (16.5–18.5 inches). Their weight ranges from 30 to 50 pounds, with males generally being heavier. The breed's double coat consists of a soft, dense undercoat and a long, shaggy outer coat that can be straight or slightly wavy. Common coat colors include white, gray, and brown, often with black, gray, or brown markings. The profuse hair around the head gives the impression of a larger head size and typically covers the eyes.</p>\n<p><strong>Temperament and Personality Traits</strong></p>\n<p>PONs are known for their lively yet self-controlled demeanor. They are intelligent, perceptive, and possess an excellent memory, making them highly trainable. However, they can be strong-willed and may attempt to dominate a less assertive owner. They are affectionate with family members but may be wary of strangers, making them effective watchdogs.</p>\n<p><strong>Working Abilities and Original Purpose</strong></p>\n<p>Originally bred for herding and guarding sheep, PONs are agile and hardworking. Their herding instincts are strong, and they can work independently, making decisions while managing livestock. Their protective nature also made them excellent guardians of the flock.</p>\n<p><strong>Modern Role and Popularity</strong></p>\n<p>Today, PONs serve as both companion animals and working dogs. They participate in various canine sports, including agility, obedience, and herding trials. While they remain most popular in Poland, their unique characteristics have garnered a dedicated following worldwide.</p>\n<p><strong>Notable Characteristics</strong></p>\n<ul>\n<li><strong>Intelligence and Memory</strong>: PONs are renowned for their sharp intellect and remarkable memory, which aid in training and working tasks.</li>\n<li><strong>Distinctive Coat</strong>: Their long, dense coat requires regular grooming but contributes to their distinctive appearance.</li>\n<li><strong>Protective Nature</strong>: They are naturally protective, making them excellent watchdogs.</li>\n<li><strong>Adaptability</strong>: PONs can adapt to various living conditions, including apartment living, provided they receive adequate exercise and mental stimulation.</li>\n<li><strong>Loyalty</strong>: They form strong bonds with their families and are known for their loyalty and affectionate nature.</li>\n</ul>",
+  "parameters": {
+    "size": "Medium",
+    "weight": "30–50 pounds",
+    "height": "Males: 45–50 cm (17.75–19.75 inches); Females: 42–47 cm (16.5–18.5 inches)",
+    "coat": "Long, dense, shaggy; double coat with soft undercoat and rough outer coat",
+    "activity": "Moderate to high",
+    "trainability": "High; intelligent and quick to learn but can be strong-willed",
+    "grooming": "Requires regular brushing to prevent matting; professional grooming may be beneficial",
+    "lifespan": "12–14 years"
+  },
+  "behavior": {
+    "summary": "Polish Lowland Sheepdogs are intelligent, lively, and self-confident, with a strong protective instinct and a tendency to be wary of strangers.",
+    "with_family": "Affectionate and loyal, forming strong bonds with family members; enjoys companionship and participation in family activities.",
+    "with_children": "Generally good with children, especially when socialized early; playful and patient but supervision is recommended.",
+    "with_other_pets": "Can coexist well with other pets if properly socialized; may exhibit herding behavior towards smaller animals.",
+    "with_strangers": "Wary and reserved around strangers; their protective nature makes them effective watchdogs.",
+    "special_traits": [
+      "Excellent memory",
+      "Strong herding instincts",
+      "Protective and alert",
+      "Independent thinker",
+      "Requires consistent training"
+    ]
+  },
+  "health": {
+    "summary": "Polish Lowland Sheepdogs are generally healthy but can be prone to certain genetic conditions; regular veterinary care and a balanced diet are essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive Retinal Atrophy (PRA)",
+      "Hypothyroidism"
+    ],
+    "prevention_tips": [
+      "Regular hip evaluations",
+      "Routine eye examinations",
+      "Thyroid function tests",
+      "Maintain a balanced diet",
+      "Provide regular exercise"
+    ],
+    "vet_checkups": "Annual checkups recommended; more frequent visits if health issues arise."
+  },
+  "care": {
+    "description": "Polish Lowland Sheepdogs require consistent training, regular exercise, and diligent grooming to maintain their health and well-being.",
+    "behavior": "Early socialization and obedience training are crucial to manage their strong-willed nature; positive reinforcement methods work best.",
+    "health": "Monitor for signs of common health issues; maintain a balanced diet and ensure regular physical activity.",
+    "grooming": "Brush several times a week to prevent matting; professional grooming may be beneficial, especially for trimming around the eyes.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; consult a veterinarian for specific dietary recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are Polish Lowland Sheepdogs good for first-time dog owners?",
+      "answer": "They can be challenging for first-time owners due to their strong-willed nature; consistent training and experience with dogs are beneficial."
+    },
+    {
+      "question": "Do Polish Lowland Sheepdogs shed a lot?",
+      "answer": "They shed minimally but require regular grooming to prevent matting and maintain coat health."
+    },
+    {
+      "question": "Are Polish Lowland Sheepdogs hypoallergenic?",
+      "answer": "No dog is truly hypoallergenic; while PONs shed less, they still produce allergens that may affect sensitive individuals."
+    },
+    {
+      "question": "How much exercise does a Polish Lowland Sheepdog need?",
+      "answer": "They require moderate to high levels of exercise, including daily walks and mental stimulation through training or play."
+    },
+    {
+      "question": "Can Polish Lowland Sheepdogs live in apartments?",
+      "answer": "Yes, they can adapt to apartment living if their exercise and mental stimulation needs are met."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polish_Lowland_Sheepdog",
+    "https://www.purina.com/dogs/dog-breeds/polish-lowland-sheepdog",
+    "https://www.westminsterkennelclub.org/breed/polish-lowland-sheepdog/",
+    "https://www.webmd.com/pets/dogs/what-to-know-polish-lowland-sheepdog",
+    "https://www.thekennelclub.org.uk/breed-standards/pastoral/polish-lowland-sheepdog/",
+    "https://www.petmd.com/dog/breeds/polish-lowland-sheepdog",
+    "https://www.akc.org/expert-advice/lifestyle/7-things-you-didnt-know-about-the-polish-lowland-sheepdog/"
+  ]
+}

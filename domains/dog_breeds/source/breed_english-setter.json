@@ -1,0 +1,83 @@
+{
+  "id": "english-setter",
+  "name": "English Setter",
+  "full_description": "<p>The English Setter is a distinguished breed with a rich history spanning over four centuries. Originating in England, these dogs were meticulously developed for hunting game birds such as quail, pheasant, and grouse. Their lineage traces back to the 19th century, with significant contributions from breeders like Edward Laverack and Richard Purcell Llewellin, who refined the breed's characteristics for both fieldwork and show purposes. Physically, English Setters are medium to large-sized dogs, exhibiting an elegant and athletic build. Males typically stand between 65-68 cm (25-27 inches) at the withers, while females range from 61-65 cm (24-26 inches). They possess a long, slightly domed head with a square muzzle, dark expressive eyes, and low-set ears that hang gracefully close to the cheeks. Their coat is long, silky, and slightly wavy, featuring distinctive feathering on the legs, tail, and underbelly. The breed's unique 'belton' color pattern includes combinations such as blue belton (white with black flecks), orange belton, lemon belton, liver belton, and tricolor variations. Temperamentally, English Setters are known for their gentle and friendly nature. They are affectionate with family members, sociable with strangers, and generally good with children and other pets. Their intelligence and eagerness to please make them responsive to training, though they can exhibit a degree of independence. Originally bred as gun dogs, English Setters excelled in locating and pointing game birds. Their keen sense of smell and methodical hunting style made them invaluable companions for hunters. In contemporary times, while they still participate in hunting and field trials, they are predominantly cherished as family companions due to their amiable disposition. Notable characteristics of the breed include their graceful movement, distinctive coat patterns, and a balanced combination of strength and elegance. Their sociable nature and adaptability have endeared them to dog enthusiasts worldwide.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "27-36 kg",
+    "height": "61-68 cm",
+    "coat": "long, silky, slightly wavy with feathering",
+    "activity": "high",
+    "trainability": "above average",
+    "grooming": "regular brushing; attention to ears",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "English Setters are gentle, friendly, and sociable dogs known for their affectionate nature and adaptability.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and a desire for companionship.",
+    "with_children": "Generally patient and gentle, making them suitable companions for children.",
+    "with_other_pets": "Typically get along well with other dogs and household pets, especially when socialized early.",
+    "with_strangers": "Sociable and welcoming, often greeting strangers with friendliness.",
+    "special_traits": [
+      "Affectionate and loyal",
+      "Intelligent and trainable",
+      "Energetic with a love for outdoor activities",
+      "Sensitive to tone of voice",
+      "May exhibit independence during training"
+    ]
+  },
+  "health": {
+    "summary": "English Setters are generally healthy but are predisposed to certain genetic conditions requiring attentive care.",
+    "common_issues": [
+      "Congenital deafness",
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Hypothyroidism",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide regular exercise",
+      "Clean ears regularly to prevent infections",
+      "Monitor for signs of thyroid issues"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "English Setters require regular exercise, grooming, and health monitoring to maintain their well-being.",
+    "behavior": "They thrive on human interaction and should not be left alone for extended periods.",
+    "health": "Regular veterinary visits and preventive care are essential to address breed-specific health concerns.",
+    "grooming": "Their long coat requires regular brushing to prevent matting; ears should be checked and cleaned routinely.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is crucial; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are English Setters good family pets?",
+      "answer": "Yes, they are affectionate and gentle, making them excellent companions for families."
+    },
+    {
+      "question": "How much exercise does an English Setter need?",
+      "answer": "They require at least two hours of exercise daily to meet their high energy levels."
+    },
+    {
+      "question": "Do English Setters shed a lot?",
+      "answer": "They shed moderately; regular grooming helps manage shedding and maintain coat health."
+    },
+    {
+      "question": "Are English Setters easy to train?",
+      "answer": "They are intelligent and trainable but may exhibit independence; positive reinforcement works best."
+    },
+    {
+      "question": "What is the lifespan of an English Setter?",
+      "answer": "They typically live between 10 to 12 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/English_Setter",
+    "https://www.purina.com/dogs/dog-breeds/english-setter",
+    "https://www.petmd.com/dog/breeds/english-setter",
+    "https://www.westminsterkennelclub.org/breed/english-setter/",
+    "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/large-dogs/english-setter"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "maltipoo",
+  "name": "Maltipoo",
+  "name_rus": "Мальтипу",
+  "full_description": "<p>The Maltipoo is a charming hybrid breed resulting from the cross between a Maltese and a Toy or Miniature Poodle. Developed in the United States during the early 2000s, breeders aimed to create a small companion dog that combined the affectionate nature of the Maltese with the intelligence and hypoallergenic coat of the Poodle. This designer breed quickly gained popularity, especially among individuals with mild allergies, due to its low-shedding coat.</p>\n<p>Physically, Maltipoos are small dogs, typically standing between 8 to 14 inches tall and weighing between 5 to 20 pounds. Their coats can be wavy or curly, with textures ranging from soft and silky to dense and wool-like. Common coat colors include white, cream, apricot, brown, black, and combinations thereof. Their expressive eyes and friendly demeanor contribute to their endearing appearance.</p>\n<p>Temperamentally, Maltipoos are known for their affectionate and sociable nature. They form strong bonds with their families and thrive on human companionship. Intelligent and eager to please, they respond well to positive reinforcement training methods. While they are playful and energetic, they also enjoy relaxing with their owners, making them adaptable to various living situations, including apartments.</p>\n<p>Originally bred as companion animals, Maltipoos do not have a history of working roles. Their primary purpose has always been to provide companionship, and they excel in this role due to their friendly and loving disposition.</p>\n<p>In modern times, Maltipoos have become increasingly popular as family pets. Their small size, combined with their friendly nature and low-shedding coats, makes them suitable for a wide range of households. However, potential owners should be aware that, despite their hypoallergenic reputation, no dog is entirely free of allergens.</p>\n<p>Notable characteristics of the Maltipoo include their adaptability to various living environments, their suitability for first-time dog owners, and their potential to serve as therapy dogs due to their gentle and affectionate nature. Regular grooming is essential to maintain their coat and overall health, and they require daily exercise to keep them mentally and physically stimulated.</p>",
+  "full_description_rus": "<p>Мальтипу — это очаровательная гибридная порода, полученная в результате скрещивания мальтийской болонки и той- или миниатюрного пуделя. Разведенная в США в начале 2000-х годов, цель состояла в создании небольшой собаки-компаньона, сочетающей в себе ласковый характер мальтийской болонки с интеллектом и гипоаллергенной шерстью пуделя. Эта дизайнерская порода быстро завоевала популярность, особенно среди людей с легкими формами аллергии, благодаря своей низколиняющей шерсти.</p>\n<p>Физически мальтипу — это небольшие собаки, обычно достигающие в высоту от 20 до 35 см и весящие от 2 до 7 кг. Их шерсть может быть волнистой или кудрявой, с текстурой от мягкой и шелковистой до плотной и шерстяной. Распространенные окрасы включают белый, кремовый, абрикосовый, коричневый, черный и их комбинации. Выразительные глаза и дружелюбное поведение придают им особую привлекательность.</p>\n<p>По темпераменту мальтипу известны своей ласковой и общительной натурой. Они формируют крепкие связи со своими семьями и процветают в обществе людей. Интеллектуальные и стремящиеся угодить, они хорошо реагируют на методы дрессировки с положительным подкреплением. Хотя они игривы и энергичны, они также любят отдыхать со своими владельцами, что делает их адаптивными к различным условиям проживания, включая квартиры.</p>\n<p>Изначально выведенные как компаньоны, мальтипу не имеют истории рабочих ролей. Их основное предназначение всегда заключалось в обеспечении компании, и они превосходно справляются с этой ролью благодаря своему дружелюбному и любящему характеру.</p>\n<p>В современное время мальтипу становятся все более популярными в качестве семейных питомцев. Их небольшой размер, дружелюбный характер и низколиняющая шерсть делают их подходящими для широкого круга домохозяйств. Однако потенциальные владельцы должны знать, что, несмотря на свою гипоаллергенную репутацию, ни одна собака не является полностью свободной от аллергенов.</p>\n<p>Значимые характеристики мальтипу включают их адаптивность к различным условиям проживания, их пригодность для владельцев собак впервые и их потенциал служить в качестве терапевтических собак благодаря своей нежной и ласковой натуре. Регулярный уход необходим для поддержания их шерсти и общего здоровья, и они требуют ежедневных упражнений для поддержания их умственной и физической активности.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "5-20 pounds",
+    "height": "8-14 inches",
+    "coat": "soft, wavy or curly; low-shedding",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "daily brushing; professional grooming every 4-6 weeks",
+    "lifespan": "10-15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "2-7 кг",
+    "рост": "20-35 см",
+    "шерсть": "мягкая, волнистая или кудрявая; низколиняющая",
+    "активность": "умеренная",
+    "обучаемость": "высокая",
+    "уход": "ежедневное расчесывание; профессиональный груминг каждые 4-6 недель",
+    "продолжительность жизни": "10-15 лет"
+  },
+  "behavior": {
+    "summary": "Maltipoos are affectionate, intelligent, and sociable dogs that thrive on human companionship and adapt well to various living environments.",
+    "with_family": "They form strong bonds with family members and enjoy participating in daily activities, often following their owners from room to room.",
+    "with_children": "Generally good with children, especially when socialized early, but due to their small size, interactions with very young children should be supervised to prevent accidental injury.",
+    "with_other_pets": "Typically friendly towards other pets, including dogs and cats, particularly when raised together or properly introduced.",
+    "with_strangers": "Usually friendly and welcoming to strangers, though some may be reserved initially; early socialization helps ensure a well-rounded temperament.",
+    "special_traits": [
+      "affectionate and loving",
+      "intelligent and trainable",
+      "adaptable to various living situations",
+      "low-shedding coat",
+      "prone to separation anxiety if left alone for extended periods"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Мальтипу — ласковые, умные и общительные собаки, которые процветают в обществе людей и хорошо адаптируются к различным условиям проживания.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи и любят участвовать в повседневных делах, часто следуя за владельцами из комнаты в комнату.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации, но из-за их небольшого размера взаимодействие с очень маленькими детьми должно быть под присмотром, чтобы предотвратить случайные травмы.",
+    "с другими животными": "Обычно дружелюбны к другим животным, включая собак и кошек, особенно если выросли вместе или были правильно представлены.",
+    "с незнакомцами": "Обычно дружелюбны и приветливы к незнакомцам, хотя некоторые могут быть изначально сдержанными; ранняя социализация помогает обеспечить уравновешенный темперамент.",
+    "особые черты": [
+      "ласковые и любящие",
+      "умные и легко обучаемые",
+      "адаптивные к различным условиям проживания",
+      "низколиняющая шерсть",
+      "склонны к тревоге при разлуке, если остаются одни на длительное время"
+    ]
+  },
+  "health": {
+    "summary": "Maltipoos are generally healthy but may inherit certain health issues common to their parent breeds; regular veterinary care and preventive measures are essential.",
+    "common_issues": [
+      "patellar luxation",
+      "progressive retinal atrophy (PRA)",
+      "dental problems",
+      "white shaker syndrome",
+      "tracheal collapse"
+    ],
+    "prevention_tips": [
+      "regular dental care, including daily brushing",
+      "routine eye examinations",
+      "maintaining a healthy weight to reduce joint stress",
+      "regular ear cleaning to prevent infections",
+      "consistent grooming to prevent skin issues"
+    ],
+    "vet_checkups": "at least once a year; more frequent visits for senior dogs or those with health concerns"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Мальтипу обычно здоровы, но могут наследовать некоторые проблемы со здоровьем, характерные для их родительских пород; регулярный ветеринарный уход и профилактические меры необходимы.",
+    "распространённые проблемы": [
+      "вывих надколенника",
+      "прогрессирующая атрофия сетчатки (PRA)",
+      "стоматологические проблемы",
+      "синдром белого шейкера",
+      "коллапс трахеи"
+    ],
+    "советы по профилактике": [
+      "регулярный уход за зубами, включая ежедневную чистку",
+      "плановые осмотры глаз",
+      "поддержание здорового веса для снижения нагрузки на суставы",
+      "регулярная чистка ушей для предотвращения инфекций",
+      "постоянный груминг для предотвращения проблем с кожей"
+    ],
+    "рекомендуемые осмотры": "не реже одного раза в год; более частые визиты для пожилых собак или тех, у кого есть проблемы со здоровьем"
+  },
+  "care": {
+    "description": "Maltipoos require attentive care, including regular grooming, daily exercise, and mental stimulation to maintain their health and happiness.",
+    "behavior": "They thrive on human interaction and can develop separation anxiety if left alone for long periods; providing companionship and engaging activities is crucial.",
+    "health": "Regular veterinary check-ups, a balanced diet, and preventive care are essential to address potential health issues and ensure a long, healthy life.",
+    "grooming": "Daily brushing to prevent matting, regular ear cleaning, and professional grooming every 4-6 weeks are recommended to maintain their coat and overall hygiene.",
+    "nutrition": "A balanced diet appropriate for their size, age, and activity level is important; consult with a veterinarian for specific dietary recommendations."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Мальтипу требуют внимательного ухода, включая регулярный груминг, ежедневные упражнения и умственную стимуляцию для поддержания их здоровья и счастья.",
+    "поведение и характер": "Они процветают в обществе людей и могут развить тревогу при разлуке, если остаются одни на длительное время; предоставление компании и увлекательных занятий крайне важно.",
+    "здоровье и профилактика": "Регулярные ветеринарные осмотры, сбалансированное питание и профилактический уход необходимы для предотвращения потенциальных проблем со здоровьем и обеспечения долгой, здоровой жизни.",
+    "груминг и уход": "Рекомендуется ежедневное расчесывание для предотвращения образования колтунов, регулярная чистка ушей и профессиональный груминг каждые 4-6 недель для поддержания их шерсти и общей гигиены.",
+    "питание и активность": "Важно сбалансированное питание, соответствующее их размеру, возрасту и уровню активности; проконсультируйтесь с ветеринаром для получения конкретных рекомендаций по питанию."
+  },
+  "faq": [
+    {
+      "question": "Are Maltipoos hypoallergenic?",
+      "answer": "Maltipoos have low-shedding coats, which may be suitable for some allergy sufferers, but no dog is completely hypoallergenic."
+    },
+    {
+      "question": "How much exercise does a Maltipoo need?",
+      "answer": "They require moderate exercise, such as daily walks and playtime, totaling about 30 to 60 minutes per day."
+    },
+    {
+      "question": "Do Maltipoos get along with other pets?",
+      "answer": "Yes, they are generally friendly with other pets, especially when socialized from a young age."
+    },
+    {
+      "question": "What is the lifespan of a Maltipoo?",
+      "answer": "Maltipoos typically live between 10 to 15 years with proper care."
+    },
+    {
+      "question": "Are Maltipoos easy to train?",
+      "answer": "Yes, they are intelligent and respond well to positive reinforcement training methods."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли мальтипу гипоаллергенными?",
+      "ответ": "Мальтипу имеют низколиняющую шерсть, что может быть подходящим для некоторых людей с аллергией, но ни одна собака не является полностью гипоаллергенной."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется мальтипу?",
+      "ответ": "Им требуется умеренная физическая нагрузка, такая как ежедневные прогулки и игры, в общей сложности около 30-60 минут в день."
+    },
+    {
+      "вопрос": "Ладят ли мальтипу с другими животными?",
+      "ответ": "Да, они обычно дружелюбны к другим животным, особенно при социализации с раннего возраста."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни мальтипу?",
+      "ответ": "При надлежащем уходе мальтипу обычно живут от 10 до 15 лет."
+    },
+    {
+      "вопрос": "Легко ли дрессировать мальтипу?",
+      "ответ": "Да, они умны и хорошо реагируют на методы дрессировки с положительным подкреплением."
+    }
+  ],
+  "sources": [
+    "https://www.petsradar.com/features/maltipoo-dog-breed-characteristics-care-and-what-you-need-to-know",
+    "https://www.lancasterpuppies.com/pet-advice/10-essential-things-to-know-about-maltipoos-before-you-buy.html",
+    "https://www.hillspet.com.au/dog-care/dog-breeds/maltipoo",
+    "https://www.petmd.com/dog/breeds/maltipoo",
+    "https://www.chewy.com/education/dog-breeds/maltipoo",
+    "https://maltipoo-family.ru/about-maltipoo",
+    "https://www.purinaone.ru/dog/articles/breeds/maltipu",
+    "https://zoobonus.ua/ru/breed/maltipu",
+    "https://petstime.ru/maltipu",
+    "https://ritmmsk.ru/articles/animals/dogs/maltipu-osobennosti-i-uhod-za-gibridnoy-sobakoy/",
+    "https://gafki.ru/sobaki/maltipu.html",
+    "https://www.kleo.ru/items/house/maltipu-poroda-sobaki.shtml",
+    "https://www.purina.ru/find-a-pet/dog-breeds/maltipoo",
+    "https://shop.purina.ru/article/maltipu",
+    "https://www.raiffeisen-media.ru/zhizn/osobennosti-porody-maltipu-chto-nuzhno-znat-budushhim-vladelczam/",
+    "https://dog-ville.ru/breed/maltipu",
+    "https://prohvost.club/sobaki/porody-sobak/maltipu-poroda-sobak.html"
+  ]
+}

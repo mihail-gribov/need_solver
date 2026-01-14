@@ -1,0 +1,87 @@
+{
+  "id": "pumi",
+  "name": "Pumi",
+  "full_description": "<p>The Pumi is a medium-sized herding dog originating from Hungary, developed in the 17th and 18th centuries through the crossbreeding of the Puli with German and French herding dogs. This blend resulted in a versatile and agile breed adept at managing livestock in Hungary's varied terrains. Physically, the Pumi presents a square, lean, and muscular build, standing between 15 to 18 inches tall and weighing approximately 22 to 29 pounds. Its distinctive features include a long, narrow head with a tapered muzzle, semi-erect ears that contribute to its alert expression, and a tail carried in a circle over its back. The breed's double coat is medium-length, wavy to curly, and comes in solid colors such as black, white, various shades of gray, and fawn. Pumis are known for their lively and energetic temperament, combining the intelligence of herding breeds with the alertness of terriers. They are quick learners, responsive to training, and maintain a playful demeanor into adulthood. Historically, Pumis were utilized for herding cattle, sheep, and pigs, excelling in driving livestock through narrow paths and dense vegetation. Today, they continue to serve as herding dogs and have gained popularity in dog sports like agility, obedience, and herding trials. Their unique combination of agility, intelligence, and spirited personality makes them well-suited for active families and individuals seeking an engaging companion. Notable characteristics of the Pumi include its expressive, whimsical appearance, high energy levels, and strong herding instincts, which may manifest in behaviors like nipping or attempting to herd people or other animals. Early socialization and consistent training are essential to channel these instincts appropriately. Overall, the Pumi is a dynamic and affectionate breed that thrives in environments where it can engage both mentally and physically.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "22–29 pounds",
+    "height": "15–18 inches",
+    "coat": "medium-length, wavy to curly, double coat",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing every 2 weeks; trimming every 2–4 months",
+    "lifespan": "12–14 years"
+  },
+  "behavior": {
+    "summary": "The Pumi is an energetic and intelligent breed, known for its alertness and playful nature. They form strong bonds with their families and require regular mental and physical stimulation to prevent boredom.",
+    "with_family": "Pumis are affectionate and loyal, often attaching closely to one person but also integrating well into family life when properly trained and socialized.",
+    "with_children": "They are good with children, especially when raised together, and enjoy engaging in play and activities.",
+    "with_other_pets": "With early socialization, Pumis can coexist peacefully with other pets, though their herding instincts may lead them to try to herd other animals.",
+    "with_strangers": "Pumis can be reserved or aloof with strangers, making them effective watchdogs. Proper socialization helps them become more accepting of unfamiliar people.",
+    "special_traits": [
+      "high energy levels",
+      "strong herding instincts",
+      "alert and vocal",
+      "playful and affectionate",
+      "intelligent and quick learners"
+    ]
+  },
+  "health": {
+    "summary": "The Pumi is generally a healthy breed with a lifespan of 12 to 14 years. While they are not predisposed to many health issues, responsible breeding practices include testing for certain conditions.",
+    "common_issues": [
+      "hip dysplasia",
+      "degenerative myelopathy",
+      "primary lens luxation",
+      "patellar luxation"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain a healthy weight",
+      "provide regular exercise",
+      "early health screenings",
+      "responsible breeding practices"
+    ],
+    "vet_checkups": "annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Pumis require consistent care, including regular exercise, mental stimulation, and grooming to maintain their health and well-being.",
+    "behavior": "Engage in daily activities like hiking, agility training, or interactive games to satisfy their high energy levels and intelligence.",
+    "health": "Monitor for signs of common health issues and consult a veterinarian for regular health assessments.",
+    "grooming": "Brush every 2 weeks to prevent matting; trim the coat every 2–4 months; avoid blow-drying to maintain natural curls.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; consult a veterinarian for specific dietary recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are Pumis good for first-time dog owners?",
+      "answer": "Pumis can be suitable for first-time owners who are active and committed to providing regular training and exercise."
+    },
+    {
+      "question": "Do Pumis shed a lot?",
+      "answer": "Pumis have a low-shedding coat but require regular grooming to prevent matting."
+    },
+    {
+      "question": "Are Pumis good with other dogs?",
+      "answer": "With proper socialization, Pumis can get along well with other dogs."
+    },
+    {
+      "question": "How much exercise does a Pumi need?",
+      "answer": "Pumis require daily physical and mental exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Pumis hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Pumis' low-shedding coats may be suitable for some allergy sufferers."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pumi_dog",
+    "https://www.petmd.com/dog/breeds/pumi",
+    "https://www.akc.org/expert-advice/lifestyle/meet-the-pumi-the-new-dog-on-the-block/",
+    "https://www.petfinder.com/dogs-and-puppies/breeds/pumi/",
+    "https://www.westminsterkennelclub.org/breeds/pumi",
+    "https://www.ukcdogs.com/pumi",
+    "https://www.wisdompanel.com/en-us/dog-breeds/pumi",
+    "https://www.petful.com/dog-breeds/pumi-breed-profile/",
+    "https://www.webmd.com/pets/dogs/what-to-know-pumi",
+    "https://www.akc.org/expert-advice/news/more-to-the-pumi-than-meets-the-eye/"
+  ]
+}

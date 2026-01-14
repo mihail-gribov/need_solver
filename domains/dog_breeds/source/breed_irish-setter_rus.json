@@ -1,0 +1,155 @@
+{
+  "id": "irish-setter",
+  "name": "Irish Setter",
+  "name_rus": "Ирландский сеттер",
+  "full_description": "<p>The Irish Setter, originating in Ireland during the 18th century, was developed by crossing spaniels, other setters, pointers, and the Irish Terrier to create an adept bird dog. Initially, both red and red-and-white varieties existed, but selective breeding led to the prominence of the solid red coat by the 19th century. This breed is renowned for its striking mahogany or rich chestnut red coat, which is moderately long, silky, and features feathering on the ears, chest, tail, and legs. Males typically stand around 27 inches tall and weigh approximately 70 pounds, while females are about 25 inches tall and weigh around 60 pounds. Irish Setters possess a lean, long head with a well-defined stop, dark to medium brown almond-shaped eyes, and ears set well back and low, lying close to the head. Their neck is strong and slightly arched, leading to a deep chest and well-sprung ribs. The tail is strong at the root, tapering to a fine point, and carried nearly level with the back. Known for their friendly and intelligent nature, Irish Setters exhibit a rollicking personality. They are energetic, affectionate, and thrive on human companionship, making them excellent family pets. Their sociable demeanor extends to children and other dogs, though their hunting instincts may require supervision around smaller animals. Originally bred for hunting, specifically for setting or locating and pointing upland gamebirds, Irish Setters are tireless, wide-ranging hunters well-suited to various terrains. In modern times, they continue to excel in field trials and are cherished as companion animals, therapy dogs, and participants in dog sports. Notable characteristics include their swift movement, graceful gait, and the ability to cover ground efficiently. Their keen sense of smell and natural pointing instincts make them exceptional in the field, while their affectionate nature endears them to families worldwide.</p>",
+  "full_description_rus": "<p>Ирландский сеттер, происходящий из Ирландии XVIII века, был выведен путем скрещивания спаниелей, других сеттеров, пойнтеров и ирландского терьера для создания искусного охотника на птиц. Изначально существовали как красные, так и красно-белые разновидности, но селекционное разведение привело к преобладанию сплошного красного окраса к XIX веку. Эта порода известна своим ярким махагониевым или насыщенным каштаново-красным окрасом, с умеренно длинной, шелковистой шерстью и очесами на ушах, груди, хвосте и ногах. Кобели обычно достигают роста около 68 см и весят примерно 32 кг, в то время как суки имеют рост около 63 см и весят около 27 кг. Ирландские сеттеры обладают стройной, длинной головой с четко выраженным переходом ото лба к морде, темно-карими или средне-карими миндалевидными глазами и ушами, посаженными низко и плотно прилегающими к голове. Их шея сильная и слегка изогнутая, переходящая в глубокую грудь и хорошо изогнутые ребра. Хвост крепкий у основания, сужающийся к тонкому кончику и несется почти на уровне спины. Известные своим дружелюбным и умным характером, ирландские сеттеры демонстрируют жизнерадостную личность. Они энергичны, ласковы и процветают в компании людей, что делает их отличными семейными питомцами. Их общительный нрав распространяется на детей и других собак, хотя их охотничьи инстинкты могут требовать присмотра при общении с мелкими животными. Изначально выведенные для охоты, особенно для поиска и указания на дичь, ирландские сеттеры являются неутомимыми, широко работающими охотниками, хорошо приспособленными к различным ландшафтам. В современное время они продолжают преуспевать в полевых испытаниях и ценятся как компаньоны, терапевтические собаки и участники собачьих видов спорта. Их отличительными чертами являются быстрая походка, грациозная поступь и способность эффективно покрывать большие расстояния. Их острое обоняние и природные инстинкты делают их исключительными в поле, а их ласковая натура завоевывает сердца семей по всему миру.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: approximately 70 pounds; Females: approximately 60 pounds",
+    "height": "Males: 27 inches; Females: 25 inches",
+    "coat": "Moderately long, silky, rich chestnut red with feathering on ears, chest, tail, and legs",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "Regular brushing to maintain coat condition and prevent matting",
+    "lifespan": "11-12 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "Кобели: около 32 кг; Суки: около 27 кг",
+    "рост": "Кобели: 68 см; Суки: 63 см",
+    "шерсть": "Умеренно длинная, шелковистая, насыщенного каштаново-красного цвета с очесами на ушах, груди, хвосте и ногах",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "Регулярное расчесывание для поддержания состояния шерсти и предотвращения спутывания",
+    "продолжительность жизни": "11-12 лет"
+  },
+  "behavior": {
+    "summary": "Irish Setters are energetic, friendly, and intelligent dogs with a playful and affectionate nature.",
+    "with_family": "They are affectionate and thrive on human companionship, making them excellent family pets.",
+    "with_children": "Generally good with children, displaying gentle and playful behavior.",
+    "with_other_pets": "Typically sociable with other dogs; supervision is advised around smaller animals due to hunting instincts.",
+    "with_strangers": "Friendly and welcoming towards strangers, not typically suited as guard dogs.",
+    "special_traits": [
+      "Energetic and playful",
+      "Affectionate and friendly",
+      "Intelligent and trainable",
+      "Sociable with other dogs",
+      "Requires regular exercise"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Ирландские сеттеры энергичны, дружелюбны и умны, обладают игривым и ласковым характером.",
+    "с семьёй": "Они ласковы и процветают в компании людей, что делает их отличными семейными питомцами.",
+    "с детьми": "Обычно хорошо ладят с детьми, проявляя нежное и игривое поведение.",
+    "с другими животными": "Как правило, общительны с другими собаками; рекомендуется присмотр при общении с мелкими животными из-за охотничьих инстинктов.",
+    "с незнакомцами": "Дружелюбны и приветливы к незнакомцам, обычно не подходят в качестве сторожевых собак.",
+    "особые черты": [
+      "Энергичны и игривы",
+      "Ласковы и дружелюбны",
+      "Умны и легко обучаемы",
+      "Общительны с другими собаками",
+      "Требуют регулярных физических нагрузок"
+    ]
+  },
+  "health": {
+    "summary": "Irish Setters are generally healthy but may be prone to certain conditions requiring attentive care.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Gastric dilatation-volvulus (bloat)",
+      "Hypothyroidism",
+      "Progressive retinal atrophy",
+      "Epilepsy"
+    ],
+    "prevention_tips": [
+      "Provide a balanced diet and monitor weight",
+      "Ensure regular exercise and mental stimulation",
+      "Schedule routine veterinary check-ups",
+      "Be vigilant for signs of bloat and seek immediate veterinary care if symptoms arise",
+      "Maintain dental hygiene to prevent periodontal disease"
+    ],
+    "vet_checkups": "Annually, or more frequently as advised by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Ирландские сеттеры в целом здоровы, но могут быть склонны к определенным заболеваниям, требующим внимательного ухода.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Синдром заворота желудка (вздутие)",
+      "Гипотиреоз",
+      "Прогрессирующая атрофия сетчатки",
+      "Эпилепсия"
+    ],
+    "советы по профилактике": [
+      "Обеспечьте сбалансированное питание и контролируйте вес",
+      "Обеспечьте регулярные физические и умственные нагрузки",
+      "Проводите плановые ветеринарные осмотры",
+      "Будьте внимательны к признакам вздутия и при их появлении немедленно обращайтесь к ветеринару",
+      "Поддерживайте гигиену полости рта для предотвращения заболеваний десен"
+    ],
+    "рекомендуемые осмотры": "Ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "Irish Setters require attentive care, including regular exercise, grooming, and health monitoring.",
+    "behavior": "Engage in daily physical activities and mental stimulation to prevent boredom and destructive behaviors.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits.",
+    "grooming": "Brush the coat several times a week to prevent matting and maintain its silky texture.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Ирландские сеттеры требуют внимательного ухода, включая регулярные физические нагрузки, груминг и мониторинг здоровья.",
+    "поведение и характер": "Ежедневно обеспечивайте физическую активность и умственные нагрузки, чтобы предотвратить скуку и деструктивное поведение.",
+    "здоровье и профилактика": "Следите за признаками распространенных заболеваний и регулярно посещайте ветеринара.",
+    "груминг и уход": "Расчесывайте шерсть несколько раз в неделю, чтобы предотвратить спутывание и сохранить ее шелковистую текстуру.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее возрасту, размеру и уровню активности; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Irish Setters good family pets?",
+      "answer": "Yes, they are affectionate and thrive in family environments, getting along well with children and other dogs."
+    },
+    {
+      "question": "How much exercise does an Irish Setter need?",
+      "answer": "They require daily, vigorous exercise to satisfy their high energy levels and maintain health."
+    },
+    {
+      "question": "Do Irish Setters shed a lot?",
+      "answer": "They shed moderately; regular brushing helps manage shedding and keeps the coat healthy."
+    },
+    {
+      "question": "Are Irish Setters easy to train?",
+      "answer": "Yes, they are intelligent and respond well to positive reinforcement training methods."
+    },
+    {
+      "question": "What is the lifespan of an Irish Setter?",
+      "answer": "Typically, they live between 11 to 12 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли ирландские сеттеры хорошими семейными питомцами?",
+      "ответ": "Да, они ласковы и процветают в семейной среде, хорошо ладят с детьми и другими собаками."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется ирландскому сеттеру?",
+      "ответ": "Им необходимы ежедневные интенсивные физические нагрузки для удовлетворения их высокого уровня энергии и поддержания здоровья."
+    },
+    {
+      "вопрос": "Сильно ли линяют ирландские сеттеры?",
+      "ответ": "Они линяют умеренно; регулярное расчесывание помогает контролировать линьку и поддерживать здоровье шерсти."
+    },
+    {
+      "вопрос": "Легко ли обучаются ирландские сеттеры?",
+      "ответ": "Да, они умны и хорошо реагируют на методы обучения с положительным подкреплением."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни ирландского сеттера?",
+      "ответ": "При надлежащем уходе они обычно живут от 11 до 12 лет."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/irish-setter",
+    "https://en.wikipedia.org/wiki/Irish_Setter",
+    "https://www.petmd.com/dog/breeds/irish-setter",
+    "https://irishsetterclub.org/wp-content/uploads/2024/12/Irish-Setter-Standard.pdf"
+  ]
+}

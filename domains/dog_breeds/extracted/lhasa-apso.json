@@ -1,0 +1,183 @@
+{
+  "breed_id": "lhasa-apso",
+  "features": {
+    "shedding": {
+      "value": 0.2,
+      "confidence": 0.9
+    },
+    "coat_type": {
+      "value": 1.0,
+      "confidence": 1.0
+    },
+    "dander_level": {
+      "value": 0.3,
+      "confidence": 0.7
+    },
+    "grooming": {
+      "value": 0.9,
+      "confidence": 1.0
+    },
+    "health_robustness": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "genetic_risk": {
+      "value": 0.3,
+      "confidence": 0.8
+    },
+    "apartment_ok": {
+      "value": 0.9,
+      "confidence": 0.9
+    },
+    "barking": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "energy": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "reactivity": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "noise_tolerance": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "exercise_need": {
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "alone_tolerance": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "separation_anxiety_risk": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "sitter_compatibility": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "adaptability": {
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "child_friendly": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "pet_friendly": {
+      "value": 0.6,
+      "confidence": 0.6
+    },
+    "stranger_friendly": {
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "territoriality": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "protectiveness": {
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "stress_sensitivity": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "affection_level": {
+      "value": 0.8,
+      "confidence": 0.7
+    },
+    "independence": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "playfulness": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "trainability": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "working_drive": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "behavior_management_need": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "mental_stimulation": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "prey_drive": {
+      "value": 0.3,
+      "confidence": 0.6
+    },
+    "hunting_instinct": {
+      "value": 0.2,
+      "confidence": 0.5
+    }
+  },
+  "parameters": {
+    "weight_kg": [
+      {
+        "value": 6.8,
+        "confidence": 0.9,
+        "source": "Britannica"
+      },
+      {
+        "value": 6.35,
+        "confidence": 0.8,
+        "source": "Petco"
+      },
+      {
+        "value": 6.8,
+        "confidence": 0.7,
+        "source": "National Kennel Club"
+      }
+    ],
+    "height_cm": [
+      {
+        "value": 27.5,
+        "confidence": 0.9,
+        "source": "Britannica"
+      },
+      {
+        "value": 27.5,
+        "confidence": 0.8,
+        "source": "Petco"
+      },
+      {
+        "value": 27.5,
+        "confidence": 0.7,
+        "source": "National Kennel Club"
+      }
+    ],
+    "lifespan_years": [
+      {
+        "value": 13.5,
+        "confidence": 0.9,
+        "source": "Britannica"
+      },
+      {
+        "value": 13.5,
+        "confidence": 0.8,
+        "source": "Petco"
+      },
+      {
+        "value": 13.5,
+        "confidence": 0.7,
+        "source": "National Kennel Club"
+      }
+    ]
+  },
+  "notes": "The Lhasa Apso is a small, sturdy breed with a long, dense double coat requiring regular grooming. They are known for their alert and protective nature, making them excellent watchdogs. While affectionate with family, they can be wary of strangers and may exhibit stubbornness, necessitating consistent training and socialization. Health-wise, they are generally robust but can be prone to certain genetic conditions, so regular veterinary check-ups are recommended."
+}

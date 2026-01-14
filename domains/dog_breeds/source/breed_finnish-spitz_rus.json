@@ -1,0 +1,157 @@
+{
+  "id": "finnish-spitz",
+  "name": "Finnish Spitz",
+  "name_rus": "Финский шпиц",
+  "full_description": "<p>The Finnish Spitz, known as Suomenpystykorva in its native Finland, is a breed with deep historical roots tracing back approximately 3,000 years. Originally brought to Finland by migrating tribes from central Russia, these dogs were primarily utilized for hunting a variety of game, ranging from small rodents to large predators like bears. Their primary hunting method involved 'bark pointing,' where the dog would locate game and bark to alert the hunter, a technique still valued in modern hunting practices. By the late 19th century, the breed faced near extinction due to crossbreeding. However, dedicated efforts by Finnish enthusiasts, notably Hugo Roos, led to the revival and standardization of the breed by 1892. Physically, the Finnish Spitz presents a fox-like appearance with a square, well-balanced body. Males typically stand between 17.5 to 20 inches tall, while females range from 15.5 to 18 inches. Their weight varies from 22 to 35 pounds, depending on gender. The breed boasts a dense double coat with a soft undercoat and longer, harsh guard hairs, predominantly in shades of golden-red. Notably, puppies are often born with darker coats that lighten as they mature. Temperamentally, Finnish Spitzes are lively, alert, and friendly. They form strong bonds with their families and are particularly good with children, often displaying patience and playfulness. While they are affectionate with familiar faces, they can be reserved around strangers, making them effective watchdogs. Their independent nature, combined with intelligence, means they respond best to positive reinforcement training methods. Historically bred for hunting, their keen senses and barking ability made them adept at locating and signaling the presence of game. In contemporary settings, while they still participate in hunting, many Finnish Spitzes serve as companion animals, cherished for their loyalty and spirited demeanor. The breed holds the esteemed title of Finland's national dog since 1979, reflecting its cultural significance. Notable characteristics include their distinctive barking, capable of reaching up to 160 barks per minute, a trait celebrated in Finnish barking competitions. Their fox-like expression, combined with their vibrant coat and curled tail, adds to their unique charm.</p>",
+  "full_description_rus": "<p>Финский шпиц, известный в Финляндии как Suomenpystykorva, — порода с глубокими историческими корнями, уходящими примерно на 3 000 лет назад. Изначально завезённые в Финляндию мигрирующими племенами из центральной России, эти собаки использовались для охоты на разнообразную дичь — от мелких грызунов до крупных хищников, таких как медведи. Их основной метод охоты заключался в 'лае на месте', когда собака обнаруживала дичь и лаем привлекала внимание охотника, что до сих пор ценится в современных охотничьих практиках. К концу XIX века порода оказалась на грани исчезновения из-за скрещивания с другими собаками. Однако благодаря усилиям финских энтузиастов, особенно Хуго Рооса, порода была возрождена и стандартизирована в 1892 году. Внешне финский шпиц напоминает лису с квадратным, хорошо сбалансированным телосложением. Рост кобелей обычно составляет от 44 до 50 см, сук — от 39 до 45 см. Вес варьируется от 10 до 15 кг в зависимости от пола. Порода обладает густой двойной шерстью с мягким подшерстком и более длинными, жёсткими остевыми волосами, преимущественно золотисто-рыжего оттенка. Примечательно, что щенки часто рождаются с более тёмной шерстью, которая светлеет по мере взросления. По характеру финские шпицы живые, бдительные и дружелюбные. Они формируют крепкие связи со своими семьями и особенно хорошо ладят с детьми, проявляя терпение и игривость. Хотя они привязаны к знакомым людям, могут быть сдержанными с незнакомцами, что делает их эффективными сторожевыми собаками. Их независимый характер в сочетании с интеллектом означает, что они лучше всего реагируют на методы обучения с положительным подкреплением. Исторически выведенные для охоты, их острые чувства и способность лаять делали их искусными в обнаружении и сигнализации о присутствии дичи. В современных условиях, хотя они всё ещё участвуют в охоте, многие финские шпицы служат компаньонами, ценимыми за их преданность и энергичный нрав. Порода носит почётный титул национальной собаки Финляндии с 1979 года, что отражает её культурное значение. Примечательные характеристики включают их отличительный лай, достигающий до 160 лаяний в минуту, что отмечается в финских соревнованиях по лаю. Их лисье выражение, в сочетании с яркой шерстью и закрученным хвостом, придаёт им уникальное очарование.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "22-35 pounds",
+    "height": "15.5-20 inches",
+    "coat": "double coat, dense undercoat with longer guard hairs, golden-red",
+    "activity": "high",
+    "trainability": "moderate",
+    "grooming": "regular brushing; moderate shedding",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "10-15 кг",
+    "рост": "39-50 см",
+    "шерсть": "двойная, густой подшерсток с более длинными остевыми волосами, золотисто-рыжая",
+    "активность": "высокая",
+    "обучаемость": "средняя",
+    "уход": "регулярное расчёсывание; умеренная линька",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "summary": "The Finnish Spitz is an active, alert, and friendly breed, known for its strong family bonds and distinctive barking.",
+    "with_family": "Affectionate and loyal, they thrive on companionship and are particularly good with children, often displaying patience and playfulness.",
+    "with_children": "They are gentle and playful with children, making them excellent family pets.",
+    "with_other_pets": "Generally gets along well with other dogs; however, due to their hunting background, caution is advised around small animals.",
+    "with_strangers": "Reserved but not aggressive; they make effective watchdogs due to their alertness.",
+    "special_traits": [
+      "Distinctive barking up to 160 times per minute",
+      "Strong hunting instincts",
+      "Independent yet loyal",
+      "Fox-like appearance",
+      "High energy levels"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Финский шпиц — активная, бдительная и дружелюбная порода, известная своей привязанностью к семье и характерным лаем.",
+    "с семьёй": "Ласковые и преданные, они нуждаются в общении и особенно хорошо ладят с детьми, часто проявляя терпение и игривость.",
+    "с детьми": "Они нежны и игривы с детьми, что делает их отличными семейными питомцами.",
+    "с другими животными": "Обычно хорошо уживаются с другими собаками; однако, из-за их охотничьего прошлого, следует проявлять осторожность с мелкими животными.",
+    "с незнакомцами": "Сдержанные, но не агрессивные; благодаря своей бдительности, они являются эффективными сторожевыми собаками.",
+    "особые черты": [
+      "Характерный лай до 160 раз в минуту",
+      "Сильные охотничьи инстинкты",
+      "Независимые, но преданные",
+      "Лисья внешность",
+      "Высокий уровень энергии"
+    ]
+  },
+  "health": {
+    "summary": "The Finnish Spitz is generally a healthy breed with a lifespan of 12 to 15 years, though they can be prone to certain hereditary conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Patellar luxation",
+      "Epilepsy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide regular exercise",
+      "Monitor for signs of joint issues",
+      "Early detection and management of epilepsy"
+    ],
+    "vet_checkups": "Annually, or more frequently as needed based on health status"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Финский шпиц обычно отличается хорошим здоровьем с продолжительностью жизни от 12 до 15 лет, хотя может быть склонен к некоторым наследственным заболеваниям.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Вывих надколенника",
+      "Эпилепсия"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здорового веса",
+      "Обеспечение регулярных физических нагрузок",
+      "Мониторинг признаков проблем с суставами",
+      "Раннее выявление и управление эпилепсией"
+    ],
+    "рекомендуемые осмотры": "Ежегодно, или чаще при необходимости в зависимости от состояния здоровья"
+  },
+  "care": {
+    "description": "Finnish Spitzes require regular exercise, mental stimulation, and consistent training to thrive as family companions.",
+    "behavior": "Early socialization and positive reinforcement training are essential to manage their independent nature and barking tendencies.",
+    "health": "Regular veterinary care and a balanced diet are crucial to maintain their overall health and manage potential hereditary conditions.",
+    "grooming": "Regular brushing is necessary to manage shedding and maintain coat health; they shed moderately throughout the year.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Финские шпицы нуждаются в регулярных физических нагрузках, умственной стимуляции и последовательной дрессировке для полноценной жизни в семье.",
+    "поведение и характер": "Ранняя социализация и обучение с положительным подкреплением необходимы для управления их независимым характером и склонностью к лаю.",
+    "здоровье и профилактика": "Регулярный ветеринарный уход и сбалансированное питание важны для поддержания общего здоровья и управления потенциальными наследственными заболеваниями.",
+    "груминг и уход": "Регулярное расчёсывание необходимо для контроля линьки и поддержания здоровья шерсти; они умеренно линяют в течение года.",
+    "питание и активность": "Сбалансированное питание, соответствующее их возрасту, размеру и уровню активности, необходимо; следите за потреблением пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Is the Finnish Spitz good with children?",
+      "answer": "Yes, they are known to be gentle and playful with children, making them excellent family pets."
+    },
+    {
+      "question": "How much exercise does a Finnish Spitz need?",
+      "answer": "They require regular daily exercise to manage their high energy levels and maintain health."
+    },
+    {
+      "question": "Do Finnish Spitzes bark a lot?",
+      "answer": "Yes, they are known for their distinctive barking, which was historically used in hunting to alert hunters to game."
+    },
+    {
+      "question": "Are Finnish Spitzes easy to train?",
+      "answer": "They are intelligent but can be independent; positive reinforcement methods work best for training."
+    },
+    {
+      "question": "What is the grooming requirement for a Finnish Spitz?",
+      "answer": "Regular brushing is needed to manage their double coat and moderate shedding."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Финский шпиц хорошо ладит с детьми?",
+      "ответ": "Да, они известны своей нежностью и игривостью с детьми, что делает их отличными семейными питомцами."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется финскому шпицу?",
+      "ответ": "Им необходимы регулярные ежедневные физические нагрузки для управления их высоким уровнем энергии и поддержания здоровья."
+    },
+    {
+      "вопрос": "Финские шпицы много лают?",
+      "ответ": "Да, они известны своим характерным лаем, который исторически использовался в охоте для привлечения внимания охотников к дичи."
+    },
+    {
+      "вопрос": "Финские шпицы легко поддаются дрессировке?",
+      "ответ": "Они умны, но могут быть независимыми; методы обучения с положительным подкреплением работают лучше всего."
+    },
+    {
+      "вопрос": "Какие требования к уходу за финским шпицем?",
+      "ответ": "Регулярное расчёсывание необходимо для ухода за их двойной шерстью и умеренной линьки."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Finnish_Spitz",
+    "https://www.akc.org/expert-advice/lifestyle/7-things-you-didnt-know-about-the-finnish-spitz/",
+    "https://www.westminsterkennelclub.org/breed/finnish-spitz/",
+    "https://www.vetstreet.com/dogs/finnish-spitz",
+    "https://www.hillspet.com/dog-care/dog-breeds/finnish-spitz",
+    "https://ru.wikipedia.org/wiki/Финский_шпиц",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/finnish_spitz",
+    "https://suomen.org/about/"
+  ]
+}

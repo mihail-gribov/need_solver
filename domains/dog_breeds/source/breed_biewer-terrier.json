@@ -1,0 +1,83 @@
+{
+  "id": "biewer-terrier",
+  "name": "Biewer Terrier",
+  "full_description": "<p>The Biewer Terrier is a charming and elegant toy breed that originated in Germany in the 1980s. Developed by breeders Werner and Gertrude Biewer, this breed emerged when two Yorkshire Terriers carrying a recessive piebald gene produced tricolor puppies. Captivated by their unique appearance, the Biewers dedicated themselves to refining and establishing the breed, which was officially recognized by the American Kennel Club (AKC) in 2021.</p>\n<p>Physically, the Biewer Terrier is a small, fine to medium-boned dog, standing between 7 to 11 inches tall and weighing 4 to 8 pounds. Its long, flowing, silky coat is straight and without an undercoat, parting down the middle and hanging evenly on both sides. The breed's distinctive tricolor pattern includes combinations of blue/black, gold/tan, and white, with specific color distributions on the head and body. The tail is set high, carried over the back in a teacup handle fashion, and adorned with a long, luxurious plume.</p>\n<p>Temperamentally, Biewer Terriers are intelligent, loyal, and devoted companions. They exhibit a fun-loving, childlike attitude, making them suitable for families and individuals alike. Their friendly disposition extends to other animals, and they are known for their sociable nature. While they can be mischievous at times, they are generally obedient and eager to please.</p>\n<p>Originally bred as companion animals, Biewer Terriers have no specific working abilities. Their primary purpose has always been to provide companionship, and they excel in this role due to their affectionate and playful nature. In modern times, their popularity has grown, especially after gaining recognition from major kennel clubs. They are cherished for their unique appearance and delightful personalities, making them a favored choice among toy breed enthusiasts.</p>\n<p>Notable characteristics of the Biewer Terrier include their distinctive tricolor coat, elegant appearance, and friendly demeanor. Their long, silky hair requires regular grooming to maintain its beauty and health. Despite their small size, they possess a confident and graceful movement, reflecting their spirited nature.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "4-8 pounds",
+    "height": "7-11 inches",
+    "coat": "long, silky, straight, tricolor",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "regular brushing; professional grooming recommended",
+    "lifespan": "12-16 years"
+  },
+  "behavior": {
+    "summary": "Biewer Terriers are affectionate, playful, and sociable dogs that form strong bonds with their families and get along well with other animals.",
+    "with_family": "They are loyal and devoted, often forming close attachments to family members and enjoying interactive play.",
+    "with_children": "Generally good with children, they appreciate gentle handling and can be playful companions for older kids.",
+    "with_other_pets": "Friendly towards other animals, they usually coexist peacefully with other pets in the household.",
+    "with_strangers": "They tend to be friendly and approachable, often welcoming strangers with curiosity and warmth.",
+    "special_traits": [
+      "Affectionate and loyal",
+      "Playful and energetic",
+      "Sociable with other animals",
+      "Intelligent and trainable",
+      "Confident and graceful"
+    ]
+  },
+  "health": {
+    "summary": "Biewer Terriers are generally healthy but may be prone to certain conditions common in small breeds.",
+    "common_issues": [
+      "Tracheal collapse",
+      "Bladder stones",
+      "Patellar luxation",
+      "Liver shunts (portosystemic shunts)",
+      "Hypoglycemia"
+    ],
+    "prevention_tips": [
+      "Use a harness instead of a collar to prevent tracheal damage",
+      "Provide a balanced diet to reduce the risk of bladder stones",
+      "Maintain a healthy weight to minimize joint stress",
+      "Regular veterinary check-ups to monitor liver health",
+      "Feed small, frequent meals to prevent hypoglycemia"
+    ],
+    "vet_checkups": "Regular annual check-ups; more frequent visits if health issues arise"
+  },
+  "care": {
+    "description": "Biewer Terriers require attentive care, including regular grooming, balanced nutrition, and routine health monitoring to ensure their well-being.",
+    "behavior": "They thrive on companionship and interactive play; regular mental stimulation and socialization are important.",
+    "health": "Monitor for signs of common health issues; maintain a healthy weight and provide preventive care as recommended by a veterinarian.",
+    "grooming": "Daily brushing to prevent tangles; professional grooming every 4-6 weeks is advisable.",
+    "nutrition": "Feed high-quality, age-appropriate dog food; small, frequent meals are beneficial for maintaining stable blood sugar levels."
+  },
+  "faq": [
+    {
+      "question": "Are Biewer Terriers hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Biewer Terriers have a low-shedding coat that may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Biewer Terrier need?",
+      "answer": "They require moderate exercise, such as daily walks and playtime, to stay healthy and happy."
+    },
+    {
+      "question": "Do Biewer Terriers get along with other pets?",
+      "answer": "Yes, they are generally friendly and can coexist well with other pets when properly socialized."
+    },
+    {
+      "question": "What is the lifespan of a Biewer Terrier?",
+      "answer": "Biewer Terriers typically live between 12 to 16 years with proper care."
+    },
+    {
+      "question": "Are Biewer Terriers easy to train?",
+      "answer": "They are intelligent and can be trained effectively with consistent, positive reinforcement methods."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/biewer-terrier",
+    "https://www.westminsterkennelclub.org/breed/biewer-terrier/",
+    "https://en.wikipedia.org/wiki/Biewer_Terrier",
+    "https://www.ukcdogs.com/biewer-terrier",
+    "https://biewerterrierclubofamerica.org/biewer-terrier-standard/"
+  ]
+}

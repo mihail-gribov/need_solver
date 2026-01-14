@@ -1,0 +1,82 @@
+{
+  "id": "manchester-terrier",
+  "name": "Manchester Terrier",
+  "full_description": "<p>The Manchester Terrier, originating in 19th-century England, was developed to control the burgeoning rat population in urban areas, particularly in Manchester. Breeders crossed the Black and Tan Terrier with the Whippet to create a dog that combined keen hunting instincts with speed and agility. This blend resulted in a breed adept at both ratting and coursing small game. Physically, the Manchester Terrier is a small, compact dog with a sleek, muscular build. Its coat is short, smooth, and glossy, predominantly jet black with rich mahogany tan markings. The head is long and wedge-shaped, featuring small, almond-shaped, dark eyes that convey a keen expression. Ears vary between the Standard and Toy varieties: the Standard may have naturally erect, cropped, or button ears, while the Toy's ears are naturally erect. The tail is moderately short, tapering to a point, and carried not higher than the back. Temperamentally, Manchester Terriers are alert, intelligent, and spirited. They form strong bonds with their families, displaying loyalty and affection. While they can be reserved around strangers, they are not typically aggressive. Their keen senses and alert nature make them excellent watchdogs. Originally bred for ratting and small game hunting, Manchester Terriers possess strong prey drives and quick reflexes. These traits made them invaluable in controlling vermin populations in 19th-century urban settings. In contemporary times, they have transitioned into companion roles, appreciated for their lively personalities and manageable size. They participate in various dog sports, including agility and obedience, showcasing their versatility. Notable characteristics of the breed include their distinctive black and tan coloration, sleek appearance, and energetic demeanor. Their intelligence and eagerness to please make them relatively easy to train, though they can exhibit a stubborn streak. Regular mental and physical stimulation is essential to keep them engaged and prevent boredom-related behaviors.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "Standard: 12-22 pounds; Toy: up to 12 pounds",
+    "height": "Standard: approximately 16 inches; Toy: proportionally smaller",
+    "coat": "short, smooth, and glossy",
+    "activity": "moderate to high",
+    "trainability": "high",
+    "grooming": "minimal; weekly brushing",
+    "lifespan": "over 12 years"
+  },
+  "behavior": {
+    "summary": "Manchester Terriers are alert, intelligent, and energetic dogs that form strong bonds with their families. They are loyal and affectionate, with a keen sense of awareness, making them excellent watchdogs.",
+    "with_family": "They are devoted and affectionate, often forming strong attachments to their family members. Their loyalty makes them excellent companions.",
+    "with_children": "Generally good with children, especially when raised together. Supervision is recommended to ensure positive interactions.",
+    "with_other_pets": "May coexist with other pets if socialized early, but their strong prey drive can be a concern with smaller animals.",
+    "with_strangers": "Can be reserved around strangers but are not typically aggressive. Proper socialization helps them become more comfortable.",
+    "special_traits": [
+      "alert and keen watchdog",
+      "strong prey drive",
+      "intelligent and trainable",
+      "energetic and playful",
+      "loyal and affectionate"
+    ]
+  },
+  "health": {
+    "summary": "Manchester Terriers are generally healthy but can be prone to certain genetic conditions. Regular health screenings and preventive care are essential to maintain their well-being.",
+    "common_issues": [
+      "von Willebrand disease",
+      "juvenile dilated cardiomyopathy",
+      "xanthinuria",
+      "eye disorders"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "genetic testing for known conditions",
+      "maintaining a healthy diet and weight",
+      "providing regular exercise",
+      "ensuring up-to-date vaccinations"
+    ],
+    "vet_checkups": "annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Manchester Terriers require regular exercise, mental stimulation, and minimal grooming. They thrive in environments where they can engage with their families and participate in activities.",
+    "behavior": "They are intelligent and energetic, benefiting from regular training sessions and interactive play to keep them mentally and physically stimulated.",
+    "health": "Regular health screenings and preventive care are essential to monitor and address potential genetic conditions.",
+    "grooming": "Their short coat requires minimal grooming; weekly brushing is sufficient to maintain coat health and reduce shedding.",
+    "nutrition": "A balanced diet appropriate for their size and activity level is crucial. Portion control helps prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Manchester Terriers good with children?",
+      "answer": "Yes, they are generally good with children, especially when raised together. Supervision is recommended to ensure positive interactions."
+    },
+    {
+      "question": "How much exercise does a Manchester Terrier need?",
+      "answer": "They require up to 1 hour of exercise per day to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Manchester Terriers shed a lot?",
+      "answer": "They have a short coat that sheds minimally. Regular weekly brushing helps manage shedding."
+    },
+    {
+      "question": "Are Manchester Terriers easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them relatively easy to train with consistent, positive reinforcement methods."
+    },
+    {
+      "question": "What is the lifespan of a Manchester Terrier?",
+      "answer": "They typically live over 12 years with proper care and a healthy lifestyle."
+    }
+  ],
+  "sources": [
+    "https://www.thekennelclub.org.uk/breed-standards/terrier/manchester-terrier/",
+    "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/manchester-terrier/",
+    "https://www.ukcdogs.com/manchester-terrier",
+    "https://www.vetstreet.com/dogs/manchester-terrier",
+    "https://www.akc.org/breeder-programs/breed-health-testing-requirements/terrier-group-health-testing-requirements/"
+  ]
+}

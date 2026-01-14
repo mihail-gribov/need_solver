@@ -1,0 +1,89 @@
+{
+  "id": "german-shorthaired-pointer",
+  "name": "German Shorthaired Pointer",
+  "full_description": "<p>The German Shorthaired Pointer (GSP) is a versatile and energetic gundog, renowned for its athleticism and eagerness to work. Originating in 19th-century Germany, the breed was developed to create an all-purpose hunting dog capable of performing various tasks, including pointing, retrieving, and tracking both furred and feathered game. The GSP's lineage traces back to the now-extinct Old Spanish Pointer, which was introduced to German-speaking regions and subsequently crossed with local breeds to enhance hunting capabilities. By the late 1800s, the breed's characteristics were standardized, leading to its recognition by the American Kennel Club in 1930. Physically, the GSP is a medium to large-sized dog, with males standing between 23 to 25 inches (58-64 cm) at the shoulder and females slightly smaller. They possess a lean, muscular build that exudes power and agility. Their coat is short, dense, and water-resistant, typically appearing in liver (brown), black, or combinations of these colors with white, often displaying distinctive patterns such as roan or ticking. The breed's head is well-defined, featuring a broad muzzle, dark almond-shaped eyes that convey intelligence, and ears set high and lying flat against the head. Temperamentally, GSPs are affectionate, intelligent, and highly energetic. They form strong bonds with their families and thrive on human companionship. Their friendly and outgoing nature makes them excellent family pets, though their high energy levels necessitate regular physical and mental stimulation. Originally bred for hunting, GSPs excel in various roles, including pointing, retrieving, and tracking. Their versatility allows them to work effectively on land and in water, making them suitable for hunting diverse game. In modern times, while they continue to be valued hunting companions, GSPs have also gained popularity in dog sports such as agility, obedience, and dock diving. Their keen sense of smell and trainability have made them assets in law enforcement for tasks like narcotics detection. Notable characteristics of the breed include their boundless energy, intelligence, and versatility. They are known for their strong prey drive and require consistent training and socialization from an early age. Their short coat is relatively low-maintenance, requiring regular brushing to keep it healthy. Overall, the German Shorthaired Pointer is a dynamic and loyal breed, well-suited to active families and individuals who can meet their exercise and companionship needs.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "20-32 kg",
+    "height": "53-64 cm",
+    "coat": "short, dense, water-resistant",
+    "activity": "very high",
+    "trainability": "very high",
+    "grooming": "low; regular brushing",
+    "lifespan": "10-14 years"
+  },
+  "behavior": {
+    "summary": "German Shorthaired Pointers are affectionate, intelligent, and highly energetic dogs that thrive on human companionship and require ample physical and mental stimulation.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and a desire to be involved in daily activities.",
+    "with_children": "Generally good with children, especially when socialized early, but their high energy levels may be overwhelming for very young kids.",
+    "with_other_pets": "Their strong prey drive can pose challenges with small pets; early socialization is crucial for harmonious coexistence.",
+    "with_strangers": "Typically friendly and outgoing, though they may be reserved without proper socialization.",
+    "special_traits": [
+      "High energy levels",
+      "Strong prey drive",
+      "Intelligent and trainable",
+      "Affectionate with family",
+      "Versatile working abilities"
+    ]
+  },
+  "health": {
+    "summary": "German Shorthaired Pointers are generally healthy but are predisposed to certain genetic conditions; regular veterinary care and preventive measures are essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy",
+      "Subaortic stenosis",
+      "Gastric dilatation-volvulus (bloat)",
+      "Hypothyroidism"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine eye examinations",
+      "Heart health monitoring",
+      "Feeding smaller, frequent meals to prevent bloat",
+      "Regular thyroid function tests"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues"
+  },
+  "care": {
+    "description": "German Shorthaired Pointers require consistent exercise, mental stimulation, and regular health monitoring to maintain their well-being.",
+    "behavior": "Provide daily physical activities like running or agility training to channel their energy positively.",
+    "health": "Schedule regular veterinary visits and stay vigilant for signs of common health issues.",
+    "grooming": "Brush their short coat weekly to remove loose hair and check ears regularly to prevent infections.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level; avoid overfeeding to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are German Shorthaired Pointers good family dogs?",
+      "answer": "Yes, they are affectionate and loyal, making them excellent family companions, especially for active households."
+    },
+    {
+      "question": "How much exercise does a GSP need?",
+      "answer": "They require at least two hours of vigorous exercise daily to stay healthy and happy."
+    },
+    {
+      "question": "Do GSPs get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, but their strong prey drive may pose challenges with small animals."
+    },
+    {
+      "question": "Are GSPs easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable, though consistent, positive reinforcement methods work best."
+    },
+    {
+      "question": "What are common health concerns in GSPs?",
+      "answer": "They are prone to hip dysplasia, eye conditions like progressive retinal atrophy, and heart issues such as subaortic stenosis."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/German_Shorthaired_Pointer",
+    "https://www.petsradar.com/dogs/dog-breeds/german-shorthaired-pointer-breed-profile",
+    "https://www.webmd.com/pets/dogs/what-to-know-german-shorthaired-pointer",
+    "https://www.petmd.com/dog/breeds/german-shorthaired-pointer",
+    "https://www.gspca.org/wp-content/uploads/2023/03/GSPCA-JE-GSP-Breed-History-0123.pdf",
+    "https://www.petful.com/dog-breeds/german-shorthaired-pointers/",
+    "https://www.gspca.org/wp-content/uploads/2023/03/GSPCA-JE-GSP-Desired-Characteristics23.pdf",
+    "https://www.gspca.org/all-missys-practice-pages/breed/",
+    "https://puppylist.com.au/breeds/german-shorthaired-pointer/health-issues/",
+    "https://www.houndsy.com/blogs/modern-tails/understanding-german-shorthaired-pointer-health-problems-a-comprehensive-guide",
+    "https://oxfordlabs.com/owners-and-breeders/how-common-thyroid-disease-my-breed/sporting/german-shorthaired-pointer"
+  ]
+}

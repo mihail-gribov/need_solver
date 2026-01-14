@@ -1,0 +1,83 @@
+{
+  "id": "bulldog",
+  "name": "Bulldog",
+  "full_description": "<p>The Bulldog, also known as the English Bulldog, is a medium-sized breed renowned for its distinctive appearance and gentle disposition. Originating in England, Bulldogs were initially bred for bull-baiting, a cruel sport that was eventually outlawed in the 19th century. Following the ban, breeders focused on developing a more docile and affectionate companion, leading to the modern Bulldog's amiable nature. Physically, Bulldogs possess a muscular, low-slung body with a broad chest and sturdy limbs. Their large, square heads feature a short muzzle, characteristic wrinkles, and a pronounced underbite. The breed's coat is short, smooth, and comes in various colors, including brindle, white, fawn, and piebald. Bulldogs are known for their calm and friendly temperament. They form strong bonds with their families and are particularly gentle with children, making them excellent family pets. Despite their somewhat stubborn nature, they respond well to patient and consistent training. Historically, Bulldogs were used in bull-baiting due to their strength and tenacity. Today, they serve primarily as companion animals, cherished for their loyalty and affectionate demeanor. Their popularity remains high, consistently ranking among the top breeds in various countries. Notable characteristics of Bulldogs include their distinctive facial wrinkles, which require regular cleaning to prevent infections, and their brachycephalic (short-nosed) structure, which can lead to breathing difficulties. Their low energy levels make them suitable for apartment living, but they still require regular, moderate exercise to maintain a healthy weight.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "18-25 kg",
+    "height": "31-40 cm",
+    "coat": "short, smooth",
+    "activity": "low",
+    "trainability": "moderate",
+    "grooming": "weekly brushing; daily wrinkle cleaning",
+    "lifespan": "8-10 years"
+  },
+  "behavior": {
+    "summary": "Bulldogs are affectionate, gentle, and loyal companions with a calm demeanor.",
+    "with_family": "They form strong bonds with family members and enjoy close companionship.",
+    "with_children": "Known for their patience and gentleness, Bulldogs are excellent with children.",
+    "with_other_pets": "Generally amicable, they can coexist well with other pets if properly socialized.",
+    "with_strangers": "Bulldogs are typically friendly towards strangers but can be protective if they sense a threat.",
+    "special_traits": [
+      "Affectionate",
+      "Gentle",
+      "Loyal",
+      "Calm",
+      "Protective"
+    ]
+  },
+  "health": {
+    "summary": "Bulldogs are prone to several health issues due to their unique physical structure.",
+    "common_issues": [
+      "Brachycephalic Obstructive Airway Syndrome (BOAS)",
+      "Skin fold dermatitis",
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Dental problems"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce joint stress",
+      "Clean and dry skin folds daily to prevent infections",
+      "Avoid strenuous exercise and heat exposure to mitigate breathing difficulties",
+      "Provide regular dental care to prevent oral health issues",
+      "Schedule regular veterinary check-ups to monitor overall health"
+    ],
+    "vet_checkups": "Every 6-12 months"
+  },
+  "care": {
+    "description": "Bulldogs require attentive care to manage their health and ensure a comfortable lifestyle.",
+    "behavior": "Consistent, patient training helps manage their stubbornness; they thrive on companionship and should not be left alone for extended periods.",
+    "health": "Regular veterinary visits are essential to monitor and address breed-specific health concerns.",
+    "grooming": "Weekly brushing and daily cleaning of facial wrinkles are necessary to maintain skin health.",
+    "nutrition": "A balanced diet tailored to their low activity level helps prevent obesity and related health issues."
+  },
+  "faq": [
+    {
+      "question": "Are Bulldogs good with children?",
+      "answer": "Yes, Bulldogs are known for their gentle and patient nature, making them excellent companions for children."
+    },
+    {
+      "question": "Do Bulldogs require a lot of exercise?",
+      "answer": "No, Bulldogs have low energy levels and require only moderate exercise to maintain a healthy weight."
+    },
+    {
+      "question": "Are Bulldogs prone to health issues?",
+      "answer": "Yes, due to their unique physical structure, Bulldogs are susceptible to several health problems, including breathing difficulties and joint issues."
+    },
+    {
+      "question": "How often should I clean my Bulldog's wrinkles?",
+      "answer": "Daily cleaning of facial wrinkles is recommended to prevent infections and maintain skin health."
+    },
+    {
+      "question": "Can Bulldogs live in apartments?",
+      "answer": "Yes, their low activity levels make Bulldogs well-suited for apartment living, provided they receive regular, moderate exercise."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/dog-breeds/bulldog/",
+    "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/medium-dogs/bulldog",
+    "https://houndsy.zendesk.com/hc/en-us/articles/38945355259163-What-Are-the-Most-Common-Health-Issues-in-Bulldogs-and-How-Can-I-Best-Care-for-My-Bulldog",
+    "https://www.nahf.org/article/healthy-english-bulldog",
+    "https://canna-pet.com/articles/english-bulldog-health-problems-issues/"
+  ]
+}

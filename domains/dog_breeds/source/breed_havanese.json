@@ -1,0 +1,91 @@
+{
+  "id": "havanese",
+  "name": "Havanese",
+  "full_description": "<p>The Havanese, a member of the Bichon family, is the national dog of Cuba. Originating from the now-extinct Blanquito de la Habana, which descended from the Bichón Tenerife, the breed was developed in Cuba as a companion for the island's aristocracy. Following the Cuban Revolution, the breed faced near extinction but was revitalized in the United States during the 1970s, leading to its recognition by the American Kennel Club (AKC) in 1996. Today, the Havanese is celebrated for its affectionate nature and distinctive appearance.</p>\n<p>Physically, the Havanese is a small, sturdy dog, standing between 9 to 11 inches at the withers and weighing approximately 7 to 13 pounds. Its body is slightly longer than its height, giving it a rectangular profile. The breed's most notable feature is its long, silky, and wavy double coat, which comes in a variety of colors and patterns. The coat is lightweight and soft, often described as \"cool to the touch.\" The Havanese's expressive eyes are almond-shaped and dark brown, except in chocolate-colored dogs, which may have lighter eyes. Its ears are set high, folding down close to the cheeks, and its tail is plumed, carried over the back in a gentle arc.</p>\n<p>Temperamentally, the Havanese is known for its friendly and outgoing personality. These dogs are highly social, thriving on human companionship and forming strong bonds with their families. They are intelligent and eager to please, making them highly trainable. Their playful and sometimes clownish behavior endears them to both adults and children. While they are alert and can serve as good watchdogs, they are generally not aggressive and tend to be welcoming to strangers.</p>\n<p>Historically, the Havanese was bred primarily as a companion dog for the Cuban elite, serving as a lapdog and family pet. Unlike some other breeds, it was not developed for specific working roles such as herding or hunting. In modern times, the Havanese has gained popularity worldwide as a beloved companion animal. Its adaptability makes it suitable for various living environments, from apartments to larger homes. The breed's hypoallergenic coat and minimal shedding also contribute to its appeal among dog enthusiasts.</p>\n<p>Notable characteristics of the Havanese include its unique gait, often described as springy or lively, reflecting its cheerful disposition. The breed's coat, while beautiful, requires regular grooming to prevent matting and tangling. Additionally, the Havanese's strong desire for human interaction means it does not do well when left alone for extended periods, as it can develop separation anxiety. Overall, the Havanese is a charming and affectionate breed, well-suited to families and individuals seeking a devoted and playful companion.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "7-13 pounds",
+    "height": "9-11 inches",
+    "coat": "long, silky, wavy double coat in various colors",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing and combing to prevent matting",
+    "lifespan": "14-16 years"
+  },
+  "behavior": {
+    "summary": "The Havanese is an affectionate, intelligent, and playful breed that thrives on human companionship and enjoys engaging in various activities with its family.",
+    "with_family": "Havanese dogs form strong bonds with their family members, displaying loyalty and a desire to be involved in daily activities.",
+    "with_children": "They are gentle and playful with children, making them excellent family pets when properly socialized.",
+    "with_other_pets": "Generally good with other pets, especially when introduced and socialized from a young age.",
+    "with_strangers": "Friendly and welcoming to strangers, though they may be reserved initially; proper socialization enhances their sociability.",
+    "special_traits": [
+      "Highly social and thrives on human interaction",
+      "Intelligent and eager to please, making training enjoyable",
+      "Playful and sometimes clownish behavior",
+      "Alert and can serve as a good watchdog",
+      "Sensitive and may develop separation anxiety if left alone for long periods"
+    ]
+  },
+  "health": {
+    "summary": "Havanese are generally a healthy breed with a lifespan of 14-16 years, but they are predisposed to certain genetic health conditions that owners should monitor.",
+    "common_issues": [
+      "Progressive Retinal Atrophy (PRA)",
+      "Cataracts",
+      "Patellar Luxation",
+      "Legg-Calve-Perthes Disease",
+      "Hip Dysplasia",
+      "Liver Shunt (Portosystemic Shunt)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups to monitor eye health and detect conditions like PRA and cataracts early",
+      "Maintain a healthy weight to reduce stress on joints and prevent conditions like hip dysplasia and patellar luxation",
+      "Provide a balanced diet rich in essential nutrients to support overall health",
+      "Engage in regular, moderate exercise to keep muscles and joints healthy",
+      "Ensure responsible breeding practices to reduce the risk of inherited health issues"
+    ],
+    "vet_checkups": "Annual veterinary check-ups are recommended, with more frequent visits as the dog ages or if health issues arise."
+  },
+  "care": {
+    "description": "Caring for a Havanese involves regular grooming, consistent training, and providing ample social interaction to ensure their well-being.",
+    "behavior": "Havanese thrive on human companionship and should not be left alone for extended periods to prevent separation anxiety.",
+    "health": "Regular veterinary visits and a balanced diet are essential to maintain the Havanese's health and detect any issues early.",
+    "grooming": "Their long, silky coat requires brushing and combing several times a week to prevent matting; professional grooming may be needed periodically.",
+    "nutrition": "Provide a high-quality, balanced diet appropriate for their age, size, and activity level to support overall health."
+  },
+  "faq": [
+    {
+      "question": "Are Havanese hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Havanese have a low-shedding coat that may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "Do Havanese require a lot of exercise?",
+      "answer": "Havanese have moderate exercise needs and enjoy daily walks and playtime to keep them physically and mentally stimulated."
+    },
+    {
+      "question": "Are Havanese easy to train?",
+      "answer": "Yes, Havanese are intelligent and eager to please, making them highly trainable with positive reinforcement methods."
+    },
+    {
+      "question": "How often should I groom my Havanese?",
+      "answer": "Their coat should be brushed and combed several times a week to prevent matting; regular grooming is essential."
+    },
+    {
+      "question": "Do Havanese get along with other pets?",
+      "answer": "Generally, Havanese are good with other pets, especially when socialized from a young age."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Havanese_dog",
+    "https://www.webmd.com/pets/dogs/what-to-know-havanese",
+    "https://www.petmd.com/dog/breeds/havanese",
+    "https://www.rover.com/blog/breeds/havanese/",
+    "https://clintonanimalcarecenter.com/client-resources/breed-info/havanese/",
+    "https://www.hillspet.com/dog-care/dog-breeds/havanese",
+    "https://www.metlifepetinsurance.com/blog/breed-spotlights/havanese/",
+    "https://havanesebreedsociety.org/health/",
+    "https://www.gallant.com/blog/5-common-havanese-health-concerns/",
+    "https://learn.heropethealth.com.au/blog/havanese-health-issues-every-owner-should-know-about",
+    "https://havaneseclubofamerica.org/health-issues-and-testing/",
+    "https://mail.havanese.org/documents/HCA_Brochure_bw.PDF"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "bernese-mountain-dog",
+  "name": "Bernese Mountain Dog",
+  "full_description": "<p>The Bernese Mountain Dog, also known as the Berner Sennenhund, is a large, sturdy breed originating from the Swiss Alps, particularly the canton of Bern. Developed over 2,000 years ago, these dogs were brought to Switzerland by invading Romans and were utilized as general-purpose farm dogs. Their primary roles included driving cattle, pulling carts laden with goods, and guarding farms against predators.</p>\n<p>Physically, Bernese Mountain Dogs are notable for their striking tri-colored coats: a jet-black base with rich rust markings on the cheeks, eyebrows, and limbs, complemented by white markings on the chest, nose, tail tip, and sometimes the feet. They possess a broad chest, strong loins, and a muscular build, with males typically standing 25 to 27.5 inches tall and weighing between 80 to 115 pounds, while females are slightly smaller at 23 to 26 inches tall and weighing 70 to 95 pounds.</p>\n<p>Temperamentally, Berners are affectionate, calm, and good-natured. They form strong bonds with their families and are particularly patient with children, making them excellent family companions. Their intelligence and eagerness to please render them highly trainable, though they can be somewhat reserved around strangers.</p>\n<p>Historically, Bernese Mountain Dogs were valued for their versatility on farms. They excelled in pulling carts, a task they performed with remarkable strength, and were adept at herding cattle. Their protective nature also made them reliable watchdogs. In modern times, while they are still capable of performing these tasks, they are primarily cherished as loyal family pets and companions.</p>\n<p>Notable characteristics of the breed include their thick, long coats, which provide insulation against cold weather but also result in significant shedding, especially during seasonal changes. They are known for their gentle disposition, making them suitable for families with children. However, potential owners should be aware of their relatively short lifespan, averaging 7 to 10 years, and their susceptibility to certain health issues, including hip and elbow dysplasia and specific cancers.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: 80-115 pounds; Females: 70-95 pounds",
+    "height": "Males: 25-27.5 inches; Females: 23-26 inches",
+    "coat": "long, thick, tri-colored (black, rust, and white)",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing; increased during shedding seasons",
+    "lifespan": "7-10 years"
+  },
+  "behavior": {
+    "summary": "Bernese Mountain Dogs are affectionate, calm, and good-natured, forming strong bonds with their families and displaying patience with children.",
+    "with_family": "They are deeply loyal and thrive on close companionship, often seeking to be near their family members.",
+    "with_children": "Known for their gentle and patient nature, they are excellent companions for children, often tolerating playful behavior.",
+    "with_other_pets": "Generally friendly towards other animals, especially when socialized from a young age.",
+    "with_strangers": "Can be reserved around strangers but are not typically aggressive; early socialization helps them become more comfortable.",
+    "special_traits": [
+      "Strong attachment to family",
+      "Gentle with children",
+      "Intelligent and trainable",
+      "Protective instincts",
+      "Calm demeanor"
+    ]
+  },
+  "health": {
+    "summary": "Bernese Mountain Dogs have a relatively short lifespan and are prone to certain health issues, necessitating proactive care and regular veterinary check-ups.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Certain cancers",
+      "Bloat (gastric dilatation-volvulus)",
+      "Progressive retinal atrophy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide appropriate exercise",
+      "Screen for genetic conditions",
+      "Monitor for signs of bloat"
+    ],
+    "vet_checkups": "At least once a year; more frequent as they age or if health issues arise."
+  },
+  "care": {
+    "description": "Bernese Mountain Dogs require attentive care, including regular grooming, exercise, and health monitoring to ensure their well-being.",
+    "behavior": "They thrive on companionship and should not be left alone for extended periods; regular interaction and mental stimulation are important.",
+    "health": "Be vigilant for signs of common health issues and consult a veterinarian promptly if concerns arise.",
+    "grooming": "Brush their coat several times a week to manage shedding and prevent matting; more frequent grooming is needed during seasonal shedding.",
+    "nutrition": "Provide a balanced diet suitable for large breeds; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Bernese Mountain Dogs good with children?",
+      "answer": "Yes, they are known for their gentle and patient nature, making them excellent companions for children."
+    },
+    {
+      "question": "How much exercise do Bernese Mountain Dogs need?",
+      "answer": "They require moderate daily exercise, such as walks or playtime, to maintain their health and happiness."
+    },
+    {
+      "question": "Do Bernese Mountain Dogs shed a lot?",
+      "answer": "Yes, they have a thick coat that sheds year-round, with increased shedding during spring and fall."
+    },
+    {
+      "question": "What is the average lifespan of a Bernese Mountain Dog?",
+      "answer": "Their average lifespan is between 7 to 10 years."
+    },
+    {
+      "question": "Are Bernese Mountain Dogs easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, which makes training relatively straightforward."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/Bernese-mountain-dog",
+    "https://www.purina.com/dogs/dog-breeds/bernese-mountain-dog",
+    "https://www.petmd.com/dog/breeds/bernese-mountain-dog",
+    "https://www.hillspet.com/dog-care/dog-breeds/bernese-mountain-dog"
+  ]
+}

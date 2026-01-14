@@ -1,0 +1,88 @@
+{
+  "id": "mastiff",
+  "name": "Mastiff",
+  "full_description": "<p>The Mastiff, also known as the English Mastiff, is a British breed renowned for its immense size and gentle temperament. Originating from ancient breeds like the Alaunt and Pugnaces Britanniae, the Mastiff's lineage was further refined in the 19th century with the Alpine Mastiff's influence. Historically, these dogs served as guardians and war dogs, valued for their strength and loyalty.</p>\n<p>Physically, Mastiffs are among the largest dog breeds, with males typically weighing between 150 to 230 pounds and standing up to 36 inches tall at the shoulder. They possess a massive, square-shaped head, broad skull, and a short, dense coat that comes in colors such as apricot, fawn, or brindle, always accompanied by a distinctive black mask. Their deep-set eyes and drooping jowls contribute to their characteristic expression.</p>\n<p>Despite their formidable appearance, Mastiffs are known for their gentle and affectionate nature. They are loyal to their families, often forming strong bonds with children and other pets. Their calm demeanor makes them excellent companions, though they can be reserved around strangers, displaying a protective instinct without unnecessary aggression.</p>\n<p>Originally bred for guarding estates and participating in battles, Mastiffs have a history of being both protectors and companions. Their imposing presence served as a deterrent to intruders, while their loyalty made them cherished family members.</p>\n<p>In modern times, Mastiffs are primarily kept as family pets and show dogs. Their popularity has grown worldwide, appreciated for their gentle disposition and protective nature. However, potential owners should be prepared for the responsibilities that come with such a large breed, including space requirements and health considerations.</p>\n<p>Notable characteristics of the Mastiff include their massive size, gentle temperament, and protective instincts. They are known to drool significantly, and their short coat requires regular grooming to manage shedding. Due to their size, they have a relatively short lifespan and are prone to certain health issues, necessitating attentive care and regular veterinary check-ups.</p>",
+  "parameters": {
+    "size": "giant",
+    "weight": "150-230 pounds",
+    "height": "up to 36 inches at the shoulder",
+    "coat": "short, dense, colors include apricot, fawn, or brindle with a black mask",
+    "activity": "moderate",
+    "trainability": "moderate; responds well to positive reinforcement",
+    "grooming": "weekly brushing; regular cleaning of facial wrinkles",
+    "lifespan": "6-10 years"
+  },
+  "behavior": {
+    "summary": "Mastiffs are gentle giants, known for their loyalty and protective nature. They form strong bonds with their families and are generally calm and affectionate.",
+    "with_family": "Highly devoted and affectionate, Mastiffs thrive on companionship and enjoy being part of family activities.",
+    "with_children": "Patient and gentle, they are typically good with children, often acting as protective guardians.",
+    "with_other_pets": "Generally tolerant, especially when raised together, but early socialization is important to ensure harmonious relationships.",
+    "with_strangers": "Reserved and watchful, they may be cautious around unfamiliar people, displaying protective instincts without aggression.",
+    "special_traits": [
+      "Gentle and affectionate",
+      "Protective without unnecessary aggression",
+      "Loyal and devoted to family",
+      "Patient with children",
+      "Reserved around strangers"
+    ]
+  },
+  "health": {
+    "summary": "Mastiffs are prone to several health issues common in large breeds, including joint problems and heart conditions. Regular veterinary care and a healthy lifestyle are essential.",
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Gastric dilatation-volvulus (bloat)",
+      "Heart disease (e.g., dilated cardiomyopathy)",
+      "Obesity",
+      "Eye conditions (e.g., entropion, ectropion)"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce joint stress",
+      "Feed multiple small meals daily to prevent bloat",
+      "Provide regular, moderate exercise",
+      "Regular grooming to prevent skin infections",
+      "Routine veterinary check-ups for early detection of issues"
+    ],
+    "vet_checkups": "At least twice a year, with additional visits as needed for specific health concerns"
+  },
+  "care": {
+    "description": "Caring for a Mastiff involves managing their size-related needs, ensuring regular health monitoring, and providing consistent training and socialization.",
+    "behavior": "Early socialization and consistent, positive reinforcement training are crucial to manage their protective instincts and ensure well-mannered behavior.",
+    "health": "Regular veterinary check-ups, a balanced diet, and appropriate exercise are key to maintaining their health and preventing common issues.",
+    "grooming": "Weekly brushing and regular cleaning of facial wrinkles are necessary to maintain skin health and manage shedding.",
+    "nutrition": "High-quality, large-breed dog food with controlled portions to prevent obesity and reduce the risk of bloat."
+  },
+  "faq": [
+    {
+      "question": "Are Mastiffs good with children?",
+      "answer": "Yes, Mastiffs are known for their gentle and patient nature, making them excellent companions for children."
+    },
+    {
+      "question": "How much exercise does a Mastiff need?",
+      "answer": "Moderate daily exercise, such as short walks and playtime, is sufficient to keep a Mastiff healthy and content."
+    },
+    {
+      "question": "Do Mastiffs require a lot of grooming?",
+      "answer": "Their short coat requires weekly brushing, but regular cleaning of facial wrinkles is important to prevent infections."
+    },
+    {
+      "question": "What is the average lifespan of a Mastiff?",
+      "answer": "Mastiffs typically live between 6 to 10 years."
+    },
+    {
+      "question": "Are Mastiffs prone to health issues?",
+      "answer": "Yes, they are susceptible to conditions like hip dysplasia, bloat, and heart disease, necessitating regular veterinary care."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/mastiff",
+    "https://dogacademy.org/breeds/english-mastiff",
+    "https://www.caninely.com/english-mastiff/",
+    "https://articles.hepper.com/english-mastiff-pros-cons/",
+    "https://www.webmd.com/pets/dogs/what-to-know-mastiffs",
+    "https://www.dialavet.com/blog/english-mastiff-breed-guide-health-tips-and-vet-advice",
+    "https://pawplanning.com/dogs/english-mastiff/english-mastiff-lifespan/",
+    "https://www.dialavet.com/blog/english-mastiff",
+    "https://www.nahf.org/article/mastiffs",
+    "https://spotpet.com/breeds/dog-breeds/english-mastiff"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "pekingese",
+  "name": "Pekingese",
+  "full_description": "<p>The Pekingese is an ancient toy breed originating from China, revered for centuries as a companion to Chinese royalty. Believed to have been bred to resemble the 'Foo Dog' or Chinese guardian lions, Pekingese were exclusive to the imperial court, symbolizing nobility and status. Their introduction to the Western world occurred in the mid-19th century when British forces brought them to England after the Second Opium War. Official recognition by the American Kennel Club (AKC) followed in 1906, cementing their global appeal.</p>\n<p>Physically, Pekingese are small yet sturdy dogs, standing between 6 to 9 inches (15–23 cm) tall at the shoulder and weighing between 7 to 14 pounds (3.2–6.4 kg). They possess a compact, muscular body with a broad chest and a distinctive rolling gait. Their large, round eyes and short, black muzzle contribute to their unique facial expression. The breed's double coat is long and flowing, forming a mane-like appearance around the neck and shoulders, reminiscent of a lion's mane. Coat colors are diverse, including fawn, black, cream, red, sable, white, and biscuit, often with black masks or white markings. Their heart-shaped ears hang close to the head with heavy feathering, and the tail is set high, carried over the back with a fringe.</p>\n<p>Temperamentally, Pekingese are dignified and confident, often exhibiting an independent and sometimes aloof demeanor. They are loyal and affectionate with their families but can be reserved around strangers. Their regal bearing reflects their historical status as companions to royalty. While they are intelligent, their strong-willed nature can make training a challenge; they respond best to positive reinforcement techniques.</p>\n<p>Originally bred as lapdogs and companions for Chinese emperors, Pekingese were not developed for specific working abilities. Their primary role was to provide companionship and serve as a status symbol within the imperial court. In modern times, they continue to fulfill this role, cherished as affectionate and loyal companions. Their small size and moderate exercise needs make them well-suited to apartment living, and they are often seen in dog shows, where their distinctive appearance and demeanor are celebrated.</p>\n<p>Notable characteristics of the Pekingese include their lion-like appearance, a testament to their breeding to resemble Chinese guardian lions. Their unique rolling gait and distinctive facial features set them apart from other breeds. Despite their small stature, they carry themselves with a sense of self-importance and dignity, embodying the noble heritage from which they descend.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "7–14 pounds (3.2–6.4 kg)",
+    "height": "6–9 inches (15–23 cm)",
+    "coat": "long, flowing double coat; outer coat is straight and coarse, undercoat is soft and dense",
+    "activity": "low to moderate",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "high; requires regular brushing to prevent matting",
+    "lifespan": "12–15 years"
+  },
+  "behavior": {
+    "summary": "Pekingese are dignified, confident, and loyal companions with an independent streak. They form strong bonds with their families but can be reserved around strangers.",
+    "with_family": "Affectionate and devoted, Pekingese thrive on close companionship with their family members, often forming particularly strong bonds with one or two individuals.",
+    "with_children": "Generally good with older children who understand their need for gentle handling; may not tolerate rough play from younger children.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though they may prefer the company of humans over other animals.",
+    "with_strangers": "Often reserved or aloof around strangers, reflecting their independent nature and historical role as royal companions.",
+    "special_traits": [
+      "Independent and strong-willed",
+      "Loyal and affectionate with family",
+      "Reserved around strangers",
+      "Low to moderate energy levels",
+      "Distinctive rolling gait"
+    ]
+  },
+  "health": {
+    "summary": "Pekingese are generally healthy but are prone to certain breed-specific health issues, particularly related to their brachycephalic (flat-faced) anatomy.",
+    "common_issues": [
+      "Brachycephalic syndrome (breathing difficulties)",
+      "Eye problems (corneal ulcers, dry eye)",
+      "Intervertebral disc disease (IVDD)",
+      "Patellar luxation",
+      "Skin fold dermatitis"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce strain on the back and joints",
+      "Regular eye examinations to detect and treat issues early",
+      "Keep facial folds clean and dry to prevent infections",
+      "Avoid excessive heat and humidity to reduce breathing difficulties",
+      "Provide moderate exercise to maintain overall health without overexertion"
+    ],
+    "vet_checkups": "Annual checkups recommended; more frequent visits if health issues arise"
+  },
+  "care": {
+    "description": "Pekingese require attentive care, including regular grooming, moderate exercise, and monitoring for breed-specific health issues to ensure a healthy and happy life.",
+    "behavior": "Early socialization and consistent, positive reinforcement training are essential to manage their independent nature and prevent behavioral issues.",
+    "health": "Regular veterinary care, including eye and respiratory assessments, is crucial due to their predisposition to certain health conditions.",
+    "grooming": "Daily brushing is recommended to prevent matting and maintain coat health; special attention should be given to cleaning facial folds and monitoring for skin issues.",
+    "nutrition": "A balanced diet appropriate for small breeds, with careful monitoring to prevent obesity, is essential for maintaining overall health."
+  },
+  "faq": [
+    {
+      "question": "Are Pekingese good with children?",
+      "answer": "Pekingese can be good with older children who handle them gently; they may not tolerate rough play from younger children."
+    },
+    {
+      "question": "How much exercise does a Pekingese need?",
+      "answer": "They require moderate exercise, such as short daily walks and play sessions, to maintain health without overexertion."
+    },
+    {
+      "question": "Do Pekingese shed a lot?",
+      "answer": "Yes, they have a long double coat that sheds; regular grooming helps manage shedding and prevent matting."
+    },
+    {
+      "question": "Are Pekingese easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training is most effective."
+    },
+    {
+      "question": "What are common health issues in Pekingese?",
+      "answer": "Common issues include breathing difficulties, eye problems, and back issues due to their brachycephalic anatomy."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/pekingese-history/",
+    "https://www.webmd.com/pets/dogs/what-to-know-pekingese/",
+    "https://www.petmd.com/dog/breeds/pekingese",
+    "https://vcahospitals.com/know-your-pet/dog-breeds/pekingese",
+    "https://www.akc.org/expert-advice/lifestyle/10-facts-about-pekingese-dogs/"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "soft-coated-wheaten-terrier",
+  "name": "Soft Coated Wheaten Terrier",
+  "full_description": "<p>The Soft Coated Wheaten Terrier, often referred to as the 'Wheaten' or 'Wheatie,' is a versatile and affectionate breed originating from Ireland. Developed over 200 years ago, these dogs were bred as all-purpose farm dogs, adept at herding, guarding livestock, and hunting vermin. Sharing ancestry with the Kerry Blue and Irish Terriers, Wheatens were commonly known as the 'Poor Man's Wolfhound' due to their utility and accessibility to the common folk. Despite their long history, the breed was officially recognized by the Irish Kennel Club in 1937 and by the American Kennel Club in 1973. Physically, Soft Coated Wheaten Terriers are medium-sized dogs, standing between 17 to 19 inches tall and weighing approximately 30 to 40 pounds. They possess a distinctive soft, silky, and wavy coat that comes in various shades of wheaten, ranging from pale beige to shimmering gold. This single-layer coat is known for minimal shedding, making them a suitable choice for individuals with mild allergies. Their expressive eyes and friendly demeanor contribute to their charming appearance. Temperamentally, Wheatens are known for their friendly, energetic, and playful nature. They are intelligent and eager to please, which makes them responsive to positive reinforcement training methods. However, their terrier lineage can make them somewhat stubborn, necessitating consistent and patient training. They are renowned for the 'Wheaten greetin',' an enthusiastic jumping behavior to welcome people. Originally bred for farm work, including herding and guarding, modern Wheatens have transitioned into beloved family companions. They excel in various canine sports such as agility, obedience, and tracking, and are also utilized in animal-assisted therapy due to their empathetic nature. Their adaptability allows them to thrive in both urban and rural settings, provided they receive adequate exercise and mental stimulation. Notable characteristics of the breed include their hypoallergenic coat, which requires regular grooming to prevent matting, and their enduring puppy-like exuberance that often persists into their senior years. Their strong prey drive necessitates caution around small animals, and early socialization is crucial to ensure harmonious interactions with other pets.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "30-40 pounds",
+    "height": "17-19 inches",
+    "coat": "soft, silky, wavy, single-layered",
+    "activity": "moderate to high",
+    "trainability": "moderate; responds well to positive reinforcement",
+    "grooming": "daily brushing; professional grooming every 4-6 weeks",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Soft Coated Wheaten Terriers are friendly, energetic, and affectionate dogs known for their playful nature and strong bonds with their families.",
+    "with_family": "They form close attachments to family members and thrive on companionship, often displaying a cheerful and loyal demeanor.",
+    "with_children": "Generally good with children, they enjoy playtime and can be gentle, but supervision is recommended to manage their exuberance.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other dogs; however, their prey drive may pose challenges with smaller animals.",
+    "with_strangers": "Typically friendly towards strangers, they may exhibit initial wariness but usually warm up quickly, especially with proper introductions.",
+    "special_traits": [
+      "enthusiastic 'Wheaten greetin' jumping behavior",
+      "persistent puppy-like playfulness",
+      "strong prey drive",
+      "alert and vocal tendencies",
+      "adaptability to various living environments"
+    ]
+  },
+  "health": {
+    "summary": "Soft Coated Wheaten Terriers are generally healthy but are predisposed to certain hereditary conditions that require proactive management.",
+    "common_issues": [
+      "protein-losing nephropathy (PLN)",
+      "protein-losing enteropathy (PLE)",
+      "renal dysplasia",
+      "Addison's disease",
+      "hypothyroidism"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "routine blood and urine tests to monitor kidney function",
+      "balanced diet tailored to their specific needs",
+      "consistent exercise to maintain healthy weight",
+      "early detection and management of symptoms"
+    ],
+    "vet_checkups": "bi-annual check-ups recommended; more frequent if managing existing health conditions"
+  },
+  "care": {
+    "description": "Soft Coated Wheaten Terriers require attentive care, including regular grooming, consistent training, and ample exercise to maintain their health and happiness.",
+    "behavior": "Early socialization and positive reinforcement training are essential to channel their energy and manage their strong prey drive effectively.",
+    "health": "Proactive health monitoring, including regular veterinary visits and awareness of breed-specific conditions, is crucial for their well-being.",
+    "grooming": "Daily brushing and professional grooming every 4-6 weeks are necessary to prevent matting and maintain their coat's health.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level supports their overall health; monitoring for food sensitivities is advisable."
+  },
+  "faq": [
+    {
+      "question": "Are Soft Coated Wheaten Terriers hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Wheatens have a low-shedding coat that may be suitable for individuals with mild allergies."
+    },
+    {
+      "question": "Do Soft Coated Wheaten Terriers get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other dogs; however, their prey drive may pose challenges with smaller animals."
+    },
+    {
+      "question": "How much exercise does a Soft Coated Wheaten Terrier need?",
+      "answer": "They require daily exercise, including walks and playtime, to maintain their physical and mental health."
+    },
+    {
+      "question": "What are common health issues in Soft Coated Wheaten Terriers?",
+      "answer": "They are prone to conditions like protein-losing nephropathy (PLN), protein-losing enteropathy (PLE), and renal dysplasia."
+    },
+    {
+      "question": "How often should a Soft Coated Wheaten Terrier be groomed?",
+      "answer": "Daily brushing and professional grooming every 4-6 weeks are recommended to maintain their coat's condition."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Soft-coated_Wheaten_Terrier",
+    "https://www.webmd.com/pets/dogs/know-about-soft-coated-wheaten-terriers",
+    "https://www.purina.com/dogs/dog-breeds/soft-coated-wheaten-terrier",
+    "https://www.westminsterkennelclub.org/breed/soft-coated-wheaten-terrier/",
+    "https://www.petmd.com/dog/breeds/soft-coated-wheaten-terrier",
+    "https://scwtca.org/breed/"
+  ]
+}

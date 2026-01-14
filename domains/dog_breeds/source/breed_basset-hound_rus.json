@@ -1,0 +1,156 @@
+{
+  "id": "basset-hound",
+  "name": "Basset Hound",
+  "name_rus": "Бассет-хаунд",
+  "full_description": "<p>The Basset Hound is a distinctive breed originating from France, developed primarily for hunting small game such as rabbits and hares. Their name derives from the French word 'bas,' meaning 'low,' reflecting their short stature. Basset Hounds are renowned for their exceptional sense of smell, second only to the Bloodhound, making them adept at ground-scenting. Physically, they possess a large, well-proportioned head with a length from occiput to muzzle greater than the width at the brow. Their long, velvety ears help stir up ground scents, and their loose, wrinkled skin around the neck, known as the dewlap, contributes to their characteristic sad expression. They have a short, dense coat that comes in various hound colors, including tricolor and bicolor patterns. In temperament, Basset Hounds are mild, never sharp or timid, and are known for their extreme devotion. They are capable of great endurance in the field, moving deliberately but not clumsily. Originally bred for hunting, they have transitioned into beloved family companions due to their gentle nature and sociable disposition. Notable characteristics include their heavy bone structure relative to size, their soulful expression, and their ability to follow a trail over and through difficult terrain.</p>",
+  "full_description_rus": "<p>Бассет-хаунд — это порода собак, выведенная в Англии, известная своим уникальным внешним видом и выдающимися охотничьими качествами. Название породы происходит от французского слова 'bas', что означает 'низкий', что отражает их короткие ноги и приземистое телосложение. Бассет-хаунды обладают исключительным обонянием, уступая в этом только бладхаундам, что делает их превосходными следопытами. Физически они характеризуются крупной, пропорциональной головой с длинными, бархатистыми ушами, которые помогают поднимать запахи с земли. Свободная, морщинистая кожа на шее, известная как подвес, придает им характерное 'грустное' выражение. Их короткая, плотная шерсть бывает различных окрасов, включая триколор и биколор. По характеру бассет-хаунды спокойные, дружелюбные и преданные. Они способны на длительную работу в поле, двигаясь размеренно, но уверенно. Первоначально выведенные для охоты на мелкую дичь, они стали популярными семейными компаньонами благодаря своему мягкому нраву и общительности. Среди их отличительных черт — массивный костяк относительно размера, выразительный взгляд и способность следовать по следу через сложную местность.</p>",
+  "parameters": {
+    "activity": "moderate",
+    "coat": "short, dense",
+    "grooming": "regular brushing",
+    "height": "33-38 cm",
+    "lifespan": "10-12 years",
+    "size": "medium",
+    "trainability": "moderate",
+    "weight": "20-29 kg"
+  },
+  "parameters_rus": {
+    "size": "средний",
+    "weight": "20-29 кг",
+    "height": "33-38 см",
+    "coat": "короткая, плотная",
+    "activity": "умеренная",
+    "trainability": "умеренная",
+    "grooming": "регулярное вычесывание",
+    "lifespan": "10-12 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Exceptional sense of smell",
+      "Persistent on the trail",
+      "Mild and gentle temperament"
+    ],
+    "summary": "Basset Hounds are gentle, friendly, and sociable dogs known for their mild temperament and extreme devotion.",
+    "with_children": "Basset Hounds are good with children, displaying patience and a gentle demeanor, making them suitable family pets.",
+    "with_family": "They are affectionate and form strong bonds with family members, often seeking companionship and attention.",
+    "with_other_pets": "They generally get along well with other dogs and pets, especially when socialized from a young age.",
+    "with_strangers": "Basset Hounds are typically friendly towards strangers, though they may be reserved initially."
+  },
+  "behavior_rus": {
+    "summary": "Бассет-хаунды — это дружелюбные, спокойные и общительные собаки, известные своим мягким нравом и преданностью.",
+    "with_family": "Они привязаны к семье, стремятся к общению и вниманию со стороны членов семьи.",
+    "with_children": "Бассет-хаунды хорошо ладят с детьми, проявляя терпение и мягкость, что делает их подходящими семейными питомцами.",
+    "with_other_pets": "Они обычно хорошо уживаются с другими собаками и животными, особенно при ранней социализации.",
+    "with_strangers": "Бассет-хаунды, как правило, дружелюбны к незнакомцам, хотя могут быть изначально сдержанными.",
+    "special_traits": [
+      "Исключительное обоняние",
+      "Настойчивость в следовании по следу",
+      "Мягкий и добрый характер"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Ear infections",
+      "Obesity",
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Gastric torsion (bloat)"
+    ],
+    "prevention_tips": [
+      "Regular ear cleaning to prevent infections",
+      "Controlled diet and regular exercise to maintain healthy weight",
+      "Routine veterinary check-ups to monitor joint health",
+      "Avoid overfeeding to prevent obesity",
+      "Provide appropriate exercise to maintain muscle tone"
+    ],
+    "summary": "Basset Hounds are generally healthy but are prone to certain conditions due to their unique physique and genetics.",
+    "vet_checkups": "Annual check-ups recommended; more frequent visits if health issues arise."
+  },
+  "health_rus": {
+    "summary": "Бассет-хаунды в целом здоровы, но из-за особенностей строения и генетики склонны к определённым заболеваниям.",
+    "common_issues": [
+      "Инфекции ушей",
+      "Ожирение",
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Скручивание желудка (вздутие)"
+    ],
+    "prevention_tips": [
+      "Регулярная чистка ушей для предотвращения инфекций",
+      "Контролируемая диета и регулярные физические нагрузки для поддержания здорового веса",
+      "Плановые визиты к ветеринару для мониторинга состояния суставов",
+      "Избегайте перекармливания для предотвращения ожирения",
+      "Обеспечьте адекватные физические нагрузки для поддержания мышечного тонуса"
+    ],
+    "vet_checkups": "Рекомендуются ежегодные осмотры; при возникновении проблем со здоровьем — более частые визиты."
+  },
+  "care": {
+    "behavior": "They benefit from consistent training and socialization to manage their independent nature.",
+    "description": "Basset Hounds require moderate exercise, regular grooming, and attentive health care to maintain their well-being.",
+    "grooming": "Regular brushing to manage shedding and routine ear cleaning to prevent infections.",
+    "health": "Monitor for signs of common health issues and maintain a healthy weight through diet and exercise.",
+    "nutrition": "Balanced diet with portion control to prevent obesity; consult a veterinarian for specific dietary needs."
+  },
+  "care_rus": {
+    "description": "Бассет-хаундам необходимы умеренные физические нагрузки, регулярный уход за шерстью и внимательное отношение к здоровью для поддержания их благополучия.",
+    "behavior": "Они выигрывают от последовательной дрессировки и социализации для управления их независимым характером.",
+    "health": "Следите за признаками распространённых проблем со здоровьем и поддерживайте здоровый вес с помощью диеты и упражнений.",
+    "grooming": "Регулярное вычесывание для контроля линьки и рутинная чистка ушей для предотвращения инфекций.",
+    "nutrition": "Сбалансированная диета с контролем порций для предотвращения ожирения; проконсультируйтесь с ветеринаром для определения специфических диетических потребностей."
+  },
+  "faq": [
+    {
+      "question": "Are Basset Hounds good apartment dogs?",
+      "answer": "Yes, their moderate size and activity level make them suitable for apartment living with regular exercise."
+    },
+    {
+      "question": "Do Basset Hounds bark a lot?",
+      "answer": "They can be vocal, especially when they pick up a scent, but are not excessive barkers."
+    },
+    {
+      "question": "Are Basset Hounds easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, patient training is recommended."
+    },
+    {
+      "question": "How much exercise do Basset Hounds need?",
+      "answer": "Moderate daily exercise, such as walks and playtime, is sufficient to keep them healthy."
+    },
+    {
+      "question": "Do Basset Hounds shed a lot?",
+      "answer": "They shed moderately; regular brushing helps manage shedding."
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Подходят ли бассет-хаунды для содержания в квартире?",
+      "answer": "Да, их умеренные размеры и уровень активности делают их подходящими для жизни в квартире при условии регулярных прогулок."
+    },
+    {
+      "question": "Много ли лают бассет-хаунды?",
+      "answer": "Они могут быть голосистыми, особенно когда берут след, но не склонны к чрезмерному лаю."
+    },
+    {
+      "question": "Легко ли дрессировать бассет-хаундов?",
+      "answer": "Они умны, но могут быть упрямыми; рекомендуется последовательная и терпеливая дрессировка."
+    },
+    {
+      "question": "Сколько упражнений требуется бассет-хаунду?",
+      "answer": "Умеренные ежедневные физические нагрузки, такие как прогулки и игры, достаточны для поддержания их здоровья."
+    },
+    {
+      "question": "Сильно ли линяют бассет-хаунды?",
+      "answer": "Они линяют умеренно; регулярное вычесывание помогает контролировать линьку."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/gazette/much-bone-correct-basset-hound/",
+    "https://www.westminsterkennelclub.org/breed/basset-hound/",
+    "https://www.thekennelclub.org.uk/breed-standards/hound/basset-hound/",
+    "https://en.wikipedia.org/wiki/Basset_Hound",
+    "https://www.akc.org/sports/field-events-hounds/basset-hound-field-trials/",
+    "https://basset-bhca.org/about-bassets/public-education/meet-the-breeds/",
+    "https://www.pedigree.ru/porody/basset-haund",
+    "https://www.purina.ru/find-a-pet/dog-breeds/basset-khaund",
+    "https://ru.wikipedia.org/wiki/Бассет-хаунд"
+  ]
+}

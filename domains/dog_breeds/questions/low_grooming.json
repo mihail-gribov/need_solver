@@ -1,0 +1,84 @@
+{
+  "need_id": "low_grooming",
+  "formula": "~grooming",
+  "formula_reasoning": "Low grooming need is directly represented by the 'grooming' feature: breeds with low required grooming frequency and effort (~grooming) best match users who want minimal coat care.",
+  "questions": [
+    {
+      "id": "low_grooming_q1",
+      "text": "У вас нет времени или желания регулярно ухаживать за шерстью собаки — расчёсывать, купать, водить к грумеру?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = человек ищет собаку с минимальным уходом за шерстью. Нет = готов регулярно ухаживать."
+    },
+    {
+      "id": "low_grooming_q2",
+      "text": "Вас устраивает собака, за которой не требуется специальный уход за шерстью в домашних условиях?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = минимальный уход в приоритете. Нет = готов к дополнительным процедурам."
+    },
+    {
+      "id": "low_grooming_q3",
+      "text": "Бывает ли так, что у вас не всегда есть возможность выделить время на уход за шерстью питомца?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = уход не приоритет, нужна простая собака. Нет = готов заботиться регулярно."
+    },
+    {
+      "id": "low_grooming_q4",
+      "text": "Хотели бы вы собаку, которую можно просто помыть и высушить без сложных процедур?",
+      "weight": 0.6,
+      "style": "situational",
+      "verification": "Да = ищет простоту в уходе. Нет = не против сложных процедур."
+    },
+    {
+      "id": "low_grooming_q5",
+      "text": "Вы когда-нибудь сталкивались с трудностями из‑за частого ухода за шерстью животных?",
+      "weight": 0.4,
+      "style": "indirect",
+      "verification": "Да = негативный опыт, вероятно нужен минимальный уход. Нет = либо не сталкивался, либо не проблема."
+    }
+  ],
+  "need_name": "Low Grooming",
+  "need_description": "Minimal grooming requirements",
+  "block": "health_allergies",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

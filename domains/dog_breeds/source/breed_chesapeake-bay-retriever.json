@@ -1,0 +1,83 @@
+{
+  "id": "chesapeake-bay-retriever",
+  "name": "Chesapeake Bay Retriever",
+  "full_description": "<p>The Chesapeake Bay Retriever, affectionately known as the 'Chessie,' is a robust and versatile breed originating from the United States in the early 19th century. Developed along the Chesapeake Bay area, this breed was specifically bred to retrieve waterfowl under harsh and icy conditions. The foundation of the breed traces back to two Newfoundland puppies rescued from a shipwreck off the Maryland coast in 1807. These dogs were bred with local retrievers, spaniels, and hounds, emphasizing their ability to work in cold waters and challenging terrains.</p>\n<p>Physically, the Chesapeake Bay Retriever is a medium to large-sized dog, with males standing between 23 to 26 inches tall and weighing 65 to 80 pounds, while females are slightly smaller at 21 to 24 inches in height and 55 to 70 pounds in weight. They possess a distinctive double coat: a dense, woolly undercoat and a harsh, oily outer coat that provides excellent water resistance. The coat is typically wavy on the shoulders, neck, back, and loins, and comes in various shades of brown, sedge, or deadgrass, allowing them to blend seamlessly into their natural surroundings. Their eyes are clear and of a yellowish or amber hue, contributing to their intelligent and alert expression.</p>\n<p>Temperamentally, Chessies are known for their bright and happy disposition, intelligence, and protective nature. They are deeply loyal to their families and can be reserved with strangers, making them excellent watchdogs. Unlike some other retriever breeds, they may exhibit a more independent and strong-willed personality, which requires consistent and patient training. Early socialization is crucial to ensure they develop well-rounded behaviors.</p>\n<p>Originally bred for retrieving waterfowl, Chesapeake Bay Retrievers are equipped with powerful hindquarters and webbed feet, enabling them to navigate through icy waters with ease. Their stamina and determination have been noted, with reports of some individuals retrieving hundreds of ducks in a single day. Beyond hunting, they have excelled in various roles, including search and rescue, therapy work, and competitive dog sports such as agility and obedience.</p>\n<p>In modern times, while they continue to be valued hunting companions, Chessies have also become cherished family pets. Their protective instincts and loyalty make them devoted to their households. However, potential owners should be prepared to meet their high exercise needs and provide consistent training. The breed's unique characteristics, such as their water-resistant coat and strong work ethic, set them apart from other retrievers. Notably, the Chesapeake Bay Retriever was declared the official state dog of Maryland in 1964, underscoring its significance and heritage in the region.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "Males: 65-80 pounds (29.5-36.3 kg); Females: 55-70 pounds (25-31.8 kg)",
+    "height": "Males: 23-26 inches (58-66 cm); Females: 21-24 inches (53-61 cm)",
+    "coat": "short, dense, water-resistant double coat; wavy on shoulders, neck, back, and loins",
+    "activity": "high",
+    "trainability": "moderate; intelligent but can be strong-willed",
+    "grooming": "weekly brushing; minimal bathing to preserve coat oils",
+    "lifespan": "10-13 years"
+  },
+  "behavior": {
+    "summary": "Chesapeake Bay Retrievers are intelligent, loyal, and protective dogs with a strong work ethic. They form deep bonds with their families and can be reserved with strangers. Early socialization and consistent training are essential to manage their independent nature.",
+    "with_family": "Deeply loyal and affectionate, Chessies thrive on close relationships with their family members. They are protective and may exhibit guarding behaviors, making them excellent watchdogs.",
+    "with_children": "Generally good with children, especially when raised together. Their energetic nature means interactions should be supervised to prevent accidental knocks or rough play.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets. However, their strong prey drive may lead them to chase smaller animals.",
+    "with_strangers": "Often reserved or cautious around strangers. Early exposure to various people can help them become more accepting.",
+    "special_traits": [
+      "Strong protective instincts",
+      "High energy and stamina",
+      "Independent and strong-willed",
+      "Exceptional swimming ability",
+      "Deep loyalty to family"
+    ]
+  },
+  "health": {
+    "summary": "Chesapeake Bay Retrievers are generally healthy but are predisposed to certain hereditary conditions. Regular veterinary care and preventive measures can help manage these risks.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy",
+      "Exercise-induced collapse",
+      "Von Willebrand's disease",
+      "Cataracts",
+      "Degenerative myelopathy"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine eye examinations",
+      "Genetic testing for hereditary conditions",
+      "Balanced diet to support joint health",
+      "Avoiding excessive strenuous activity in young dogs"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "Chesapeake Bay Retrievers require dedicated care, including regular exercise, consistent training, and attention to their health and grooming needs.",
+    "behavior": "Early socialization and obedience training are crucial to manage their independent nature. Positive reinforcement methods work best.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary checkups. Provide a balanced diet and ensure they receive appropriate exercise.",
+    "grooming": "Weekly brushing is sufficient to remove loose hair and maintain coat health. Minimal bathing is recommended to preserve the coat's natural oils.",
+    "nutrition": "Feed a high-quality diet appropriate for their age, size, and activity level. Monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Chesapeake Bay Retrievers good family pets?",
+      "answer": "Yes, with proper training and socialization, they are loyal and protective family companions."
+    },
+    {
+      "question": "Do they get along with other pets?",
+      "answer": "With early socialization, they can coexist with other pets, though their prey drive may lead them to chase smaller animals."
+    },
+    {
+      "question": "How much exercise do they need?",
+      "answer": "They require at least two hours of vigorous exercise daily to stay healthy and content."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "They are intelligent but can be strong-willed; consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "What are their grooming needs?",
+      "answer": "Weekly brushing and minimal bathing are sufficient to maintain their coat's health and water-resistant properties."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chesapeake_Bay_Retriever",
+    "https://www.purina.com/dogs/dog-breeds/chesapeake-bay-retriever",
+    "https://www.petplace.com/article/dogs/breeds/chesapeake-bay-retriever",
+    "https://www.westminsterkennelclub.org/breed/chesapeake-bay-retriever/"
+  ]
+}

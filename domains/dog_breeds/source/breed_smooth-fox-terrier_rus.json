@@ -1,0 +1,155 @@
+{
+  "id": "smooth-fox-terrier",
+  "name": "Smooth Fox Terrier",
+  "name_rus": "Гладкошерстный фокстерьер",
+  "full_description": "<p>The Smooth Fox Terrier, one of the oldest terrier breeds, originated in England during the 18th century. Developed primarily for fox hunting, these dogs were bred to be swift, agile, and courageous, capable of chasing foxes from their dens. Their lineage includes the now-extinct Old English White Terrier, Bull Terrier, and Beagle, contributing to their distinctive appearance and temperament.</p>\n<p>Physically, the Smooth Fox Terrier is a small, well-proportioned dog standing up to 39 cm (15.5 inches) at the withers and weighing between 7.5 to 8 kg (16-18 lbs) for males, with females slightly smaller. They possess a flat, moderately narrow skull that tapers towards the eyes, with a black nose and dark, circular eyes that exude intelligence. Their ears are small, V-shaped, and fold forward close to the cheeks. The neck is clean and muscular, leading to well-laid-back shoulders and straight, strong forelegs. The back is short and level, with a deep chest and powerful loin. Hindquarters are strong and muscular, with well-let-down hocks and a good turn of stifle. Their tail is set high and carried gaily but not over the back. The coat is straight, flat, smooth, hard, dense, and abundant, predominantly white with possible tan, black and tan, or black markings.</p>\n<p>Temperamentally, Smooth Fox Terriers are friendly, forthcoming, and fearless. They are alert, quick of movement, and keen of expression, always on tiptoe of expectation. Their original purpose was to work alongside foxhounds during hunts, entering dens to flush out foxes. This required a combination of courage, agility, and determination. In modern times, while their role in hunting has diminished, they have found popularity as companion animals due to their lively nature and affectionate disposition. However, their high energy levels and intelligence mean they thrive in active households that can provide ample physical and mental stimulation.</p>\n<p>Notable characteristics of the breed include their distinctive smooth coat, predominantly white coloration, and their balanced, athletic build. They are known for their boundless energy and require regular exercise to maintain their physical and mental well-being. Their keen intelligence makes them highly trainable, though they can exhibit a stubborn streak, necessitating consistent and patient training methods. Overall, the Smooth Fox Terrier is a spirited and affectionate breed, well-suited to active families who can meet their exercise and companionship needs.</p>",
+  "full_description_rus": "<p>Гладкошерстный фокстерьер — одна из старейших пород терьеров, возникшая в Англии в XVIII веке. Первоначально выведенные для охоты на лис, эти собаки были созданы для быстроты, ловкости и смелости, способные выгонять лис из их нор. Их происхождение включает ныне вымершего староанглийского белого терьера, бультерьера и бигля, что обусловило их уникальный внешний вид и темперамент.</p>\n<p>Физически гладкошерстный фокстерьер — небольшая, хорошо сложенная собака, достигающая в холке до 39 см и весом от 7,5 до 8 кг для кобелей; суки немного меньше. У них плоский, умеренно узкий череп, сужающийся к глазам, черный нос и темные, круглые глаза, выражающие интеллект. Уши небольшие, V-образные, свисают вперед, прилегая к щекам. Шея сухая и мускулистая, переходящая в хорошо поставленные плечи и прямые, сильные передние конечности. Спина короткая и ровная, с глубокой грудью и мощной поясницей. Задние конечности сильные и мускулистые, с хорошо опущенными скакательными суставами и хорошими углами. Хвост высоко посажен и весело несется, но не закидывается на спину. Шерсть прямая, гладкая, жесткая, плотная и обильная, преимущественно белая с возможными подпалом, черно-подпалыми или черными отметинами.</p>\n<p>По темпераменту гладкошерстные фокстерьеры дружелюбны, открыты и бесстрашны. Они бдительны, быстры в движениях и имеют живое выражение, всегда готовы к действию. Их первоначальная задача заключалась в работе вместе с гончими во время охоты, заходя в норы для выгона лис. Это требовало сочетания смелости, ловкости и решимости. В современное время, хотя их роль в охоте уменьшилась, они стали популярными компаньонами благодаря своему живому характеру и привязанности к хозяевам. Однако их высокий уровень энергии и интеллект означают, что они процветают в активных семьях, способных обеспечить им достаточную физическую и умственную стимуляцию.</p>\n<p>Отличительными чертами породы являются их гладкая шерсть, преимущественно белый окрас и сбалансированное, атлетичное телосложение. Они известны своей неуемной энергией и требуют регулярных физических нагрузок для поддержания физического и психического здоровья. Их острый ум делает их легко обучаемыми, хотя они могут проявлять упрямство, что требует последовательных и терпеливых методов дрессировки. В целом, гладкошерстный фокстерьер — энергичная и привязанная порода, идеально подходящая для активных семей, готовых удовлетворить их потребности в упражнениях и общении.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "7.5-8 kg (16-18 lbs)",
+    "height": "up to 39 cm (15.5 inches)",
+    "coat": "straight, flat, smooth, hard, dense, and abundant",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "once a week",
+    "lifespan": "over 12 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "7,5-8 кг",
+    "рост": "до 39 см",
+    "шерсть": "прямая, гладкая, жесткая, плотная и обильная",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "раз в неделю",
+    "продолжительность жизни": "более 12 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "high energy levels",
+      "intelligent and trainable",
+      "strong prey drive",
+      "alert and keen expression",
+      "affectionate with family"
+    ],
+    "summary": "Smooth Fox Terriers are energetic, intelligent, and fearless dogs with a friendly disposition. They are alert and quick-moving, always eager for activity and engagement.",
+    "with_children": "Generally good with children, especially when socialized early. Their playful and energetic demeanor aligns well with active kids.",
+    "with_family": "They form strong bonds with their family members, displaying loyalty and affection. Their lively nature makes them engaging companions.",
+    "with_other_pets": "May exhibit a strong prey drive; early socialization is crucial to ensure harmonious relationships with other household pets.",
+    "with_strangers": "Friendly and approachable, though their alertness makes them effective watchdogs."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Гладкошерстные фокстерьеры — энергичные, умные и бесстрашные собаки с дружелюбным характером. Они бдительны и быстры в движениях, всегда готовы к активности и взаимодействию.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя лояльность и привязанность. Их живой характер делает их увлекательными компаньонами.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации. Их игривый и энергичный нрав хорошо сочетается с активными детьми.",
+    "с другими животными": "Могут проявлять сильный охотничий инстинкт; ранняя социализация важна для обеспечения гармоничных отношений с другими домашними животными.",
+    "с незнакомцами": "Дружелюбны и общительны, хотя их бдительность делает их эффективными сторожевыми собаками.",
+    "особые черты": [
+      "высокий уровень энергии",
+      "умные и легко обучаемые",
+      "сильный охотничий инстинкт",
+      "бдительный и проницательный взгляд",
+      "привязаны к семье"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "deafness",
+      "lens luxation",
+      "legge-calve-perthes disease",
+      "patellar luxation"
+    ],
+    "prevention_tips": [
+      "regular hearing tests",
+      "routine eye examinations",
+      "maintain a healthy weight",
+      "provide regular exercise",
+      "ensure a balanced diet"
+    ],
+    "summary": "Generally a healthy breed with a lifespan exceeding 12 years. Regular veterinary care and a healthy lifestyle contribute to their well-being.",
+    "vet_checkups": "At least once a year, with more frequent visits as they age."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "В целом, порода отличается хорошим здоровьем с продолжительностью жизни более 12 лет. Регулярный ветеринарный уход и здоровый образ жизни способствуют их благополучию.",
+    "распространённые проблемы": [
+      "глухота",
+      "вывих хрусталика",
+      "болезнь Легга-Кальве-Пертеса",
+      "вывих коленной чашечки"
+    ],
+    "советы по профилактике": [
+      "регулярные проверки слуха",
+      "плановые осмотры глаз",
+      "поддержание здорового веса",
+      "обеспечение регулярных физических нагрузок",
+      "сбалансированное питание"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год, с более частыми визитами по мере старения."
+  },
+  "care": {
+    "behavior": "They are intelligent and energetic, benefiting from activities that challenge them both physically and mentally. Early socialization helps in developing well-rounded behavior.",
+    "description": "Smooth Fox Terriers require regular exercise, mental stimulation, and consistent training to thrive. Their grooming needs are minimal, but regular health check-ups are essential.",
+    "grooming": "Their short, smooth coat requires minimal grooming; a weekly brush is sufficient to keep it in good condition.",
+    "health": "Regular veterinary visits and preventive care are crucial to monitor and maintain their health. Being aware of breed-specific health issues allows for early detection and management.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level supports their overall health and energy needs."
+  },
+  "care_rus": {
+    "поведение и характер": "Они умны и энергичны, им полезны занятия, которые бросают вызов как физически, так и умственно. Ранняя социализация помогает в формировании всестороннего поведения.",
+    "краткое описание ухода": "Гладкошерстные фокстерьеры нуждаются в регулярных физических нагрузках, умственной стимуляции и последовательной дрессировке для полноценной жизни. Их потребности в уходе минимальны, но регулярные медицинские осмотры необходимы.",
+    "груминг и уход": "Их короткая, гладкая шерсть требует минимального ухода; достаточно еженедельного расчесывания для поддержания ее в хорошем состоянии.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход важны для мониторинга и поддержания их здоровья. Осведомленность о специфических для породы проблемах позволяет своевременно их выявлять и управлять ими.",
+    "питание и активность": "Сбалансированное питание, соответствующее их возрасту, размеру и уровню активности, поддерживает их общее здоровье и энергетические потребности."
+  },
+  "faq": [
+    {
+      "question": "Are Smooth Fox Terriers good with children?",
+      "answer": "Yes, they are generally good with children, especially when socialized early. Their playful nature aligns well with active kids."
+    },
+    {
+      "question": "How much exercise does a Smooth Fox Terrier need?",
+      "answer": "They require up to 1 hour of exercise per day to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Smooth Fox Terriers shed a lot?",
+      "answer": "They do shed, but their short coat requires minimal grooming, typically once a week."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "Yes, their intelligence makes them highly trainable, though they can be stubborn, requiring consistent training."
+    },
+    {
+      "question": "What is their average lifespan?",
+      "answer": "They typically live over 12 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Гладкошерстные фокстерьеры хорошо ладят с детьми?",
+      "ответ": "Да, они обычно хорошо ладят с детьми, особенно при ранней социализации. Их игривый характер хорошо сочетается с активными детьми."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется гладкошерстному фокстерьеру?",
+      "ответ": "Им требуется до 1 часа физических нагрузок в день для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Сильно ли линяют гладкошерстные фокстерьеры?",
+      "ответ": "Они линяют, но их короткая шерсть требует минимального ухода, обычно достаточно еженедельного расчесывания."
+    },
+    {
+      "вопрос": "Легко ли их дрессировать?",
+      "ответ": "Да, их интеллект делает их легко обучаемыми, хотя они могут быть упрямыми, что требует последовательной дрессировки."
+    },
+    {
+      "вопрос": "Какова их средняя продолжительность жизни?",
+      "ответ": "Они обычно живут более 12 лет при надлежащем уходе."
+    }
+  ],
+  "sources": [
+    "https://www.thekennelclub.org.uk/breed-standards/terrier/fox-terrier-smooth/",
+    "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/fox-terrier-smooth/",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/fox_terrier_smooth_coat",
+    "https://ru.wikipedia.org/wiki/Гладкошёрстный_фокстерьер",
+    "https://www.pedigree.ru/porody/foksteriergladkosherstnij",
+    "https://www.hillspet.ru/dog-care/dog-breeds/smooth-fox-terrier"
+  ]
+}

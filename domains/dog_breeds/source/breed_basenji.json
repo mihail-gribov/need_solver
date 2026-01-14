@@ -1,0 +1,81 @@
+{
+  "id": "basenji",
+  "name": "Basenji",
+  "full_description": "<p>The Basenji, often referred to as the \"African Barkless Dog,\" is a unique and ancient breed originating from Central Africa, particularly the Democratic Republic of the Congo. Historical evidence, including Egyptian artifacts dating back over 4,000 years, depicts dogs resembling the Basenji, suggesting its longstanding presence in human history. European explorers first documented the breed in the late 19th century, noting its use by local tribes for hunting due to its keen sight and scent abilities. The Basenji was introduced to the Western world in the early 20th century, with the American Kennel Club officially recognizing the breed in 1943. Physically, the Basenji is a small to medium-sized dog, standing approximately 16 to 17 inches tall and weighing between 20 to 24 pounds. It possesses a short, fine coat that comes in various colors, including red, black, tricolor, and brindle, all typically accompanied by white markings on the feet, chest, and tail tip. Distinctive features include a tightly curled tail, erect ears, and a wrinkled forehead, giving the breed an alert and inquisitive expression. The Basenji's temperament is marked by intelligence, independence, and curiosity. While affectionate with family members, they can be reserved around strangers. Their high energy levels and strong prey drive necessitate regular exercise and mental stimulation. Notably, Basenjis do not bark in the traditional sense; instead, they produce unique vocalizations often described as yodels or chortles, attributed to the unique structure of their larynx. Originally bred for hunting small game in dense African forests, Basenjis excelled in tracking and driving game into nets. Their keen senses and agility made them invaluable to hunters. In contemporary settings, while they are primarily kept as companion animals, their hunting instincts remain strong. The breed's popularity has fluctuated over the years, but it remains cherished by enthusiasts for its unique characteristics and history. Notable traits of the Basenji include its cat-like grooming habits, often cleaning itself meticulously, and its lack of the typical \"dog odor.\" Additionally, unlike most dog breeds that have multiple estrus cycles per year, female Basenjis typically come into heat only once annually, a trait they share with wild canids.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "20–24 pounds",
+    "height": "16–17 inches",
+    "coat": "short, fine, various colors with white markings",
+    "activity": "high",
+    "trainability": "moderate",
+    "grooming": "minimal; regular brushing",
+    "lifespan": "13–14 years"
+  },
+  "behavior": {
+    "summary": "Basenjis are intelligent, independent, and energetic dogs known for their unique vocalizations and strong prey drive.",
+    "with_family": "Affectionate and loyal, often forming strong bonds with family members.",
+    "with_children": "Generally good with children, especially when raised together, but supervision is recommended due to their energetic nature.",
+    "with_other_pets": "May not get along well with non-canine pets due to a strong prey drive; early socialization is crucial.",
+    "with_strangers": "Reserved around strangers; early socialization can help them become more accepting.",
+    "special_traits": [
+      "Does not bark traditionally; produces unique yodel-like sounds.",
+      "Cleans itself meticulously, similar to a cat.",
+      "Lacks the typical 'dog odor.'"
+    ]
+  },
+  "health": {
+    "summary": "Basenjis are generally healthy but are predisposed to certain genetic conditions requiring vigilant care.",
+    "common_issues": [
+      "Fanconi Syndrome",
+      "Progressive Retinal Atrophy (PRA)",
+      "Hip Dysplasia",
+      "Hypothyroidism",
+      "Immunoproliferative Small Intestinal Disease (IPSID)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups and screenings for genetic conditions.",
+      "Maintain a balanced diet and healthy weight.",
+      "Provide regular exercise to support joint health.",
+      "Early socialization and training to manage behavioral traits.",
+      "Regular eye examinations to detect early signs of PRA."
+    ],
+    "vet_checkups": "Annually, with additional screenings as recommended for genetic conditions."
+  },
+  "care": {
+    "description": "Basenjis require attentive care, including regular exercise, mental stimulation, and health monitoring to ensure a fulfilling life.",
+    "behavior": "Provide daily physical and mental activities to prevent boredom and destructive behaviors.",
+    "health": "Monitor for signs of genetic conditions; maintain regular veterinary visits for early detection and management.",
+    "grooming": "Minimal grooming needed; regular brushing suffices due to their short coat and self-cleaning habits.",
+    "nutrition": "Feed a balanced diet appropriate for their size and activity level; avoid overfeeding to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Do Basenjis bark?",
+      "answer": "No, Basenjis do not bark traditionally; they produce unique yodel-like sounds due to their unique larynx structure."
+    },
+    {
+      "question": "Are Basenjis good with other pets?",
+      "answer": "Basenjis have a strong prey drive and may not get along well with non-canine pets; early socialization is important."
+    },
+    {
+      "question": "How much exercise does a Basenji need?",
+      "answer": "Basenjis are high-energy dogs requiring daily physical and mental stimulation to stay healthy and happy."
+    },
+    {
+      "question": "Are Basenjis easy to train?",
+      "answer": "Basenjis are intelligent but independent, which can make training challenging; consistent, positive reinforcement methods work best."
+    },
+    {
+      "question": "Do Basenjis have a strong odor?",
+      "answer": "No, Basenjis lack the typical 'dog odor' and are known for their cleanliness."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basenji",
+    "https://www.petmd.com/dog/breeds/basenji",
+    "https://www.webmd.com/pets/dogs/what-to-know-basenjis",
+    "https://www.gooddog.com/breeds/basenji",
+    "https://www.basenji.org/index.php/health-issues"
+  ]
+}

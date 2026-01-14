@@ -1,0 +1,161 @@
+{
+  "id": "briard",
+  "name": "Briard",
+  "name_rus": "Бриар",
+  "full_description": "<p>The Briard, also known as the Berger de Brie, is a French breed of large shepherd dog with a rich history dating back to the 8th century. Originating in the Brie region of France, these dogs were traditionally used for herding and guarding sheep. Their versatility made them invaluable on farms, where they not only managed livestock but also protected the homestead. Notably, historical figures such as Napoleon and Thomas Jefferson were known to have owned Briards. During both World Wars, the Briard served as the official dog of the French army, performing roles such as carrying supplies, acting as sentries, and locating wounded soldiers on the battlefield. Physically, the Briard is a robust and muscular dog, standing between 22 to 27 inches tall and weighing between 55 to 100 pounds. They possess a distinctive long, wavy double coat that comes in colors like black, gray, and tawny. Their expressive eyes are often hidden beneath bushy eyebrows, and they have a characteristic shaggy beard. A unique feature of the breed is the presence of double dewclaws on each rear leg. Temperamentally, Briards are known for their intelligence, loyalty, and protective nature. They form strong bonds with their families and are particularly gentle with children. Their herding instincts make them vigilant and responsive, often displaying a keen sense of awareness of their surroundings. Originally bred for herding and guarding, Briards have a strong work ethic and excel in various canine sports and activities. In modern times, while they are still used in herding, they have also become cherished companion animals. Their affectionate nature and adaptability have contributed to their popularity in households worldwide. Notable characteristics of the Briard include their exceptional memory, agility, and a coat that requires regular grooming to maintain its health and appearance. Their combination of strength, intelligence, and devotion makes them a unique and cherished breed.</p>",
+  "full_description_rus": "<p>Бриар, также известный как французская овчарка (Berger de Brie), — это крупная пастушья собака с богатой историей, восходящей к VIII веку. Происходя из региона Бри во Франции, эти собаки традиционно использовались для выпаса и охраны овец. Их универсальность делала их незаменимыми на фермах, где они не только управляли скотом, но и защищали хозяйство. Известно, что такие исторические личности, как Наполеон и Томас Джефферсон, были владельцами бриаров. Во время обеих мировых войн бриар служил официальной собакой французской армии, выполняя роли по доставке припасов, службе часовыми и поиску раненых солдат на поле боя. Физически бриар — это крепкая и мускулистая собака, рост которой составляет от 56 до 69 см, а вес — от 25 до 45 кг. Они обладают характерной длинной, волнистой двойной шерстью, которая бывает черного, серого и палевого окраса. Их выразительные глаза часто скрыты под густыми бровями, а также у них есть характерная лохматая борода. Уникальной особенностью породы является наличие двойных прибылых пальцев на каждой задней лапе. По темпераменту бриары известны своим интеллектом, преданностью и защитным характером. Они формируют крепкие связи со своими семьями и особенно нежны с детьми. Их пастушьи инстинкты делают их бдительными и отзывчивыми, часто проявляя острое чувство осведомленности о своем окружении. Изначально выведенные для выпаса и охраны, бриары обладают сильной трудовой этикой и преуспевают в различных собачьих видах спорта и деятельности. В современное время, хотя они все еще используются в пастушьей работе, они также стали любимыми компаньонами. Их ласковая натура и адаптивность способствовали их популярности в домах по всему миру. Заметные характеристики бриара включают их исключительную память, ловкость и шерсть, требующую регулярного ухода для поддержания ее здоровья и внешнего вида. Их сочетание силы, интеллекта и преданности делает их уникальной и ценной породой.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "55-100 pounds",
+    "height": "22-27 inches",
+    "coat": "long, wavy double coat",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "daily brushing; regular grooming",
+    "lifespan": "10-12 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "25-45 кг",
+    "рост": "56-69 см",
+    "шерсть": "длинная, волнистая двойная шерсть",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "ежедневное расчесывание; регулярный груминг",
+    "продолжительность жизни": "10-12 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Strong protective instincts",
+      "Exceptional memory",
+      "High intelligence",
+      "Affectionate with family",
+      "Vigilant and alert"
+    ],
+    "summary": "Briards are intelligent, loyal, and protective dogs with a strong herding instinct. They form deep bonds with their families and are known for their gentle nature, especially with children.",
+    "with_children": "Known for their gentle and patient demeanor, Briards are excellent companions for children. Their protective nature ensures they are watchful over younger family members.",
+    "with_family": "Briards are affectionate and devoted to their families, often acting as vigilant guardians. They thrive on companionship and are happiest when involved in family activities.",
+    "with_other_pets": "With proper socialization, Briards can coexist peacefully with other pets. Their herding instincts may lead them to attempt to herd smaller animals.",
+    "with_strangers": "Briards can be reserved around strangers, often displaying a cautious demeanor. Early socialization helps them become more accepting of unfamiliar people."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Бриары — умные, преданные и защитные собаки с сильным пастушьим инстинктом. Они формируют глубокие связи со своими семьями и известны своей нежной натурой, особенно с детьми.",
+    "с семьёй": "Бриары ласковы и преданы своим семьям, часто выступая в роли бдительных стражей. Они процветают в компании и наиболее счастливы, когда участвуют в семейных мероприятиях.",
+    "с детьми": "Известные своей нежной и терпеливой натурой, бриары являются отличными компаньонами для детей. Их защитный характер гарантирует, что они внимательно следят за младшими членами семьи.",
+    "с другими животными": "При правильной социализации бриары могут мирно сосуществовать с другими животными. Их пастушьи инстинкты могут побуждать их пытаться пасти более мелких животных.",
+    "с незнакомцами": "Бриары могут быть сдержанными с незнакомцами, часто проявляя осторожное поведение. Ранняя социализация помогает им стать более восприимчивыми к незнакомым людям.",
+    "особые черты": [
+      "Сильные защитные инстинкты",
+      "Исключительная память",
+      "Высокий интеллект",
+      "Ласковы с семьёй",
+      "Бдительны и внимательны"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Congenital stationary night blindness",
+      "Cataracts",
+      "Bloat (gastric torsion)",
+      "Hypothyroidism"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy diet and weight",
+      "Provide regular exercise",
+      "Monitor for signs of bloat",
+      "Genetic testing for eye conditions"
+    ],
+    "summary": "Briards are generally healthy but are predisposed to certain conditions such as hip dysplasia, eye disorders, and bloat. Regular veterinary care and preventive measures are essential.",
+    "vet_checkups": "At least once a year; more frequently for puppies and senior dogs."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Бриары в целом здоровы, но склонны к определённым заболеваниям, таким как дисплазия тазобедренного сустава, глазные заболевания и заворот желудка. Регулярный ветеринарный уход и профилактические меры необходимы.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Врожденная стационарная ночная слепота",
+      "Катаракта",
+      "Заворот желудка (гастротоксия)",
+      "Гипотиреоз"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здоровой диеты и веса",
+      "Обеспечение регулярных физических нагрузок",
+      "Мониторинг признаков заворота желудка",
+      "Генетическое тестирование на глазные заболевания"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для щенков и пожилых собак."
+  },
+  "care": {
+    "behavior": "Due to their intelligence and energy, Briards need mental stimulation and physical activity. Training sessions and interactive play are beneficial.",
+    "description": "Briards require attentive care, including regular grooming, exercise, and health monitoring to ensure their well-being.",
+    "grooming": "Daily brushing is necessary to prevent matting of their long coat. Regular grooming sessions help maintain coat health and hygiene.",
+    "health": "Regular health screenings and preventive care are crucial to detect and manage breed-specific health issues early.",
+    "nutrition": "A balanced diet tailored to their size and activity level is essential. Monitoring food intake helps prevent obesity and related health issues."
+  },
+  "care_rus": {
+    "поведение и характер": "Благодаря своему интеллекту и энергии, бриары нуждаются в умственной стимуляции и физической активности. Тренировочные сессии и интерактивные игры полезны.",
+    "краткое описание ухода": "Бриары требуют внимательного ухода, включая регулярный груминг, физические упражнения и мониторинг здоровья для обеспечения их благополучия.",
+    "груминг и уход": "Ежедневное расчесывание необходимо для предотвращения спутывания их длинной шерсти. Регулярные сеансы груминга помогают поддерживать здоровье и гигиену шерсти.",
+    "здоровье и профилактика": "Регулярные медицинские осмотры и профилактический уход важны для раннего выявления и управления специфическими для породы проблемами со здоровьем.",
+    "питание и активность": "Сбалансированная диета, соответствующая их размеру и уровню активности, необходима. Мониторинг потребления пищи помогает предотвратить ожирение и связанные с ним проблемы со здоровьем."
+  },
+  "faq": [
+    {
+      "question": "Are Briards good with children?",
+      "answer": "Yes, Briards are known for their gentle and protective nature, making them excellent companions for children."
+    },
+    {
+      "question": "How much exercise does a Briard need?",
+      "answer": "Briards have high energy levels and require regular, vigorous exercise to stay healthy and happy."
+    },
+    {
+      "question": "Do Briards shed a lot?",
+      "answer": "Briards have a long coat that sheds minimally but requires regular grooming to prevent matting."
+    },
+    {
+      "question": "Are Briards easy to train?",
+      "answer": "Yes, their high intelligence and eagerness to please make them highly trainable, though they can be independent-minded."
+    },
+    {
+      "question": "What is the lifespan of a Briard?",
+      "answer": "Briards typically live between 10 to 12 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Бриары хорошо ладят с детьми?",
+      "ответ": "Да, бриары известны своей нежной и защитной натурой, что делает их отличными компаньонами для детей."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется бриару?",
+      "ответ": "Бриары обладают высоким уровнем энергии и нуждаются в регулярных, интенсивных физических нагрузках для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Бриары сильно линяют?",
+      "ответ": "Бриары имеют длинную шерсть, которая минимально линяет, но требует регулярного ухода для предотвращения спутывания."
+    },
+    {
+      "вопрос": "Бриары легко поддаются дрессировке?",
+      "ответ": "Да, их высокий интеллект и стремление угодить делают их легко обучаемыми, хотя они могут быть независимыми."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни бриара?",
+      "ответ": "Бриары обычно живут от 10 до 12 лет при надлежащем уходе."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/6-facts-about-the-briard/",
+    "https://www.petmd.com/dog/breeds/briard",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-briards",
+    "https://www.purina.com/dogs/dog-breeds/briard",
+    "https://www.westminsterkennelclub.org/breed/briard/",
+    "https://vcahospitals.com/know-your-pet/briard",
+    "https://briard.com/health.html",
+    "https://www.petguide.com/breeds/dog/briard/",
+    "https://www.chewy.com/education/dog-breeds/briard",
+    "https://www.breedscout.com/breeds/briard"
+  ]
+}

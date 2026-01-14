@@ -1,0 +1,174 @@
+{
+  "id": "saint-bernard",
+  "name": "Saint Bernard",
+  "name_rus": "Сенбернар",
+  "full_description": "<p>The Saint Bernard is a giant working dog breed originating from the Western Alps of Switzerland and Italy. Developed in the 17th century by monks at the Great St. Bernard Hospice, these dogs were initially bred for rescue operations in the treacherous mountain pass. Their keen sense of direction and ability to navigate deep snow made them invaluable in locating and saving lost travelers. Physically, Saint Bernards are massive and muscular, with males standing between 28 to 30 inches (71 to 76 cm) tall and weighing 140 to 180 pounds (63.5 to 81.5 kg), while females are slightly smaller at 26 to 28 inches (66 to 71 cm) tall and weighing 120 to 140 pounds (54.5 to 63.5 kg). They possess a broad head, deep chest, and a powerful build. Their coat can be either short-haired (smooth) or long-haired (rough), both featuring a dense double layer that is water-resistant. Common coat colors include white with red, red and brindle, or white with black markings. Temperamentally, Saint Bernards are known as gentle giants. They are calm, patient, and affectionate, making them excellent companions, especially for families with children. Their protective nature is evident, yet they are not aggressive, displaying a friendly demeanor towards strangers. Historically, their primary role was mountain rescue, utilizing their strength and endurance to traverse snowy terrains and locate stranded individuals. Today, while they are primarily cherished as family pets and show dogs, their legacy as rescue dogs remains a significant part of their identity. Notable characteristics of the breed include their impressive size, gentle temperament, and historical significance in alpine rescue missions.</p>",
+  "full_description_rus": "<p>Сенбернар — гигантская рабочая порода собак, происходящая из Западных Альп Швейцарии и Италии. Разведённые в XVII веке монахами в монастыре Святого Бернара, эти собаки изначально были предназначены для спасательных операций в опасных горных перевалах. Их острое чувство направления и способность передвигаться по глубокому снегу делали их незаменимыми при поиске и спасении заблудившихся путешественников. Физически сенбернары массивные и мускулистые: кобели достигают роста от 70 до 90 см и весят более 70 кг, суки немного меньше — от 65 до 80 см в высоту и весят более 70 кг. У них широкая голова, глубокая грудь и мощное телосложение. Шерсть может быть короткой (гладкой) или длинной (грубой), обе разновидности имеют плотный двойной слой, устойчивый к влаге. Обычные окрасы включают белый с красным, красный с тигровым или белый с чёрными отметинами. По темпераменту сенбернары известны как добрые гиганты. Они спокойны, терпеливы и ласковы, что делает их отличными компаньонами, особенно для семей с детьми. Их защитная природа очевидна, однако они не агрессивны, проявляя дружелюбие к незнакомцам. Исторически их основная роль заключалась в спасении в горах, используя свою силу и выносливость для преодоления снежных ландшафтов и поиска потерявшихся людей. Сегодня, хотя они в основном ценятся как семейные питомцы и выставочные собаки, их наследие как спасателей остаётся значимой частью их идентичности. Отличительными чертами породы являются их впечатляющий размер, добрый темперамент и историческая значимость в альпийских спасательных миссиях.</p>",
+  "parameters": {
+    "size": "giant",
+    "weight": "Males: 140-180 lbs (63.5-81.5 kg); Females: 120-140 lbs (54.5-63.5 kg)",
+    "height": "Males: 28-30 inches (71-76 cm); Females: 26-28 inches (66-71 cm)",
+    "coat": "Dense, double coat; short-haired (smooth) or long-haired (rough); colors include white with red, red and brindle, or white with black markings",
+    "activity": "Moderate; enjoys regular walks and outdoor playtime but not overly active",
+    "trainability": "Intelligent and eager to please; early training is essential due to their size",
+    "grooming": "Moderate; weekly brushing and occasional baths; more frequent grooming during shedding seasons",
+    "lifespan": "8-10 years"
+  },
+  "parameters_rus": {
+    "размер": "гигантский",
+    "вес": "Кобели: более 70 кг; Суки: более 70 кг",
+    "рост": "Кобели: 70-90 см; Суки: 65-80 см",
+    "шерсть": "Плотная, двойная; короткошерстная (гладкая) или длинношерстная (грубая); окрасы включают белый с красным, красный с тигровым или белый с чёрными отметинами",
+    "активность": "Умеренная; любит регулярные прогулки и игры на свежем воздухе, но не слишком активен",
+    "обучаемость": "Умный и стремящийся угодить; ранняя дрессировка необходима из-за их размера",
+    "уход": "Умеренный; еженедельное расчесывание и периодические купания; более частый уход во время линьки",
+    "продолжительность жизни": "8-10 лет"
+  },
+  "behavior": {
+    "summary": "Saint Bernards are gentle, affectionate, and patient dogs, known for their friendly nature and protective instincts without aggression.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and a desire to please.",
+    "with_children": "Excellent with children; their gentle and patient nature makes them ideal family pets.",
+    "with_other_pets": "Generally good with other pets, especially when socialized early.",
+    "with_strangers": "Friendly and welcoming towards strangers, though their size can be imposing.",
+    "special_traits": [
+      "Gentle and patient",
+      "Protective without aggression",
+      "Strong bond with family",
+      "Good with children",
+      "Generally good with other pets"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Сенбернары — добрые, ласковые и терпеливые собаки, известные своим дружелюбным характером и защитными инстинктами без агрессии.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя лояльность и стремление угодить.",
+    "с детьми": "Отлично ладят с детьми; их добрый и терпеливый характер делает их идеальными семейными питомцами.",
+    "с другими животными": "В целом хорошо уживаются с другими животными, особенно при ранней социализации.",
+    "с незнакомцами": "Дружелюбны и приветливы к незнакомцам, хотя их размер может быть внушительным.",
+    "особые черты": [
+      "Добрый и терпеливый",
+      "Защитный без агрессии",
+      "Крепкая связь с семьёй",
+      "Хорошо ладит с детьми",
+      "В целом хорошо уживается с другими животными"
+    ]
+  },
+  "health": {
+    "summary": "Saint Bernards are predisposed to certain health conditions common in large breeds, necessitating regular veterinary care and preventive measures.",
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Heart issues",
+      "Bloat",
+      "Eye conditions such as entropion"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide appropriate exercise",
+      "Monitor for signs of bloat",
+      "Regular eye examinations"
+    ],
+    "vet_checkups": "At least once a year; more frequent check-ups may be necessary for senior dogs or those with existing health conditions."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Сенбернары предрасположены к определённым заболеваниям, характерным для крупных пород, что требует регулярного ветеринарного ухода и профилактических мер.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренных и локтевых суставов",
+      "Проблемы с сердцем",
+      "Вздутие живота",
+      "Глазные заболевания, такие как энтропион"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здорового веса",
+      "Обеспечение адекватной физической нагрузки",
+      "Мониторинг признаков вздутия живота",
+      "Регулярные осмотры глаз"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые осмотры могут потребоваться для пожилых собак или тех, у кого уже есть проблемы со здоровьем."
+  },
+  "care": {
+    "description": "Saint Bernards require moderate exercise, regular grooming, and a balanced diet to maintain their health and well-being.",
+    "behavior": "Early socialization and consistent training are essential to manage their size and ensure good behavior.",
+    "health": "Regular veterinary care and preventive measures are crucial to address breed-specific health concerns.",
+    "grooming": "Weekly brushing and occasional baths are recommended; more frequent grooming may be needed during shedding seasons.",
+    "nutrition": "A balanced diet formulated for large breeds, with portion control to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Сенбернары требуют умеренной физической нагрузки, регулярного ухода за шерстью и сбалансированного питания для поддержания здоровья и благополучия.",
+    "поведение и характер": "Ранняя социализация и последовательная дрессировка необходимы для управления их размером и обеспечения хорошего поведения.",
+    "здоровье и профилактика": "Регулярный ветеринарный уход и профилактические меры важны для предотвращения специфических для породы проблем со здоровьем.",
+    "груминг и уход": "Рекомендуется еженедельное расчесывание и периодические купания; во время линьки может потребоваться более частый уход.",
+    "питание и активность": "Сбалансированное питание, разработанное для крупных пород, с контролем порций для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Saint Bernards good with children?",
+      "answer": "Yes, they are known for their gentle and patient nature, making them excellent companions for children."
+    },
+    {
+      "question": "Do Saint Bernards require a lot of exercise?",
+      "answer": "They have moderate exercise needs; regular walks and playtime are sufficient to keep them healthy."
+    },
+    {
+      "question": "Are Saint Bernards easy to train?",
+      "answer": "They are intelligent and eager to please, but early training is essential due to their large size."
+    },
+    {
+      "question": "Do Saint Bernards shed a lot?",
+      "answer": "They shed seasonally; regular grooming helps manage shedding and keeps their coat healthy."
+    },
+    {
+      "question": "What is the average lifespan of a Saint Bernard?",
+      "answer": "Their average lifespan is 8-10 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Сенбернары хорошо ладят с детьми?",
+      "ответ": "Да, они известны своим добрым и терпеливым характером, что делает их отличными компаньонами для детей."
+    },
+    {
+      "вопрос": "Сенбернарам требуется много физической нагрузки?",
+      "ответ": "У них умеренные потребности в физической активности; регулярные прогулки и игры достаточны для поддержания их здоровья."
+    },
+    {
+      "вопрос": "Сенбернары легко поддаются дрессировке?",
+      "ответ": "Они умны и стремятся угодить, но ранняя дрессировка необходима из-за их большого размера."
+    },
+    {
+      "вопрос": "Сенбернары сильно линяют?",
+      "ответ": "Они линяют сезонно; регулярный уход помогает контролировать линьку и поддерживать здоровье шерсти."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни сенбернара?",
+      "ответ": "Их средняя продолжительность жизни составляет 8-10 лет."
+    }
+  ],
+  "sources": [
+    "https://dogshowschool.org/breeds/saint-bernard",
+    "https://www.ukcdogs.com/saint-bernard",
+    "https://en.wikipedia.org/wiki/St._Bernard_(dog_breed)",
+    "https://dog-breeds.org/st-bernard/",
+    "https://www.americanbreeder.com/dog-guides/working-dog-breeds-guide/ultimate-saint-bernard-dog-guide-puppy-care-training-health-grooming",
+    "https://www.furrycritter.com/pages/descriptions/dogs/b/bernhardiner.htm",
+    "https://www.breedscout.com/breeds/saint-bernard",
+    "https://ngdc.cncb.ac.cn/idog/v1/breed/getBreedDetail.action?breedId=232",
+    "https://www.fondation-barry.ch/files/dossier_presse_10ppA4_EN.pdf",
+    "https://cdn.akc.org/SaintBernard-club-flier.pdf",
+    "https://www.newdoggy.com/saint-bernard-dog-breed-information/",
+    "https://www.thekennelclub.org.uk/breed-standards/working/st-bernard/",
+    "https://pawsomeauthority.com/dog-breeds/saint-bernard/profile/",
+    "https://www.petplace.com/article/dogs/breeds/saint-bernard-breed-guide",
+    "https://www.fci.be/nomenclature/Standards/061g02-en.pdf",
+    "https://www.hillspet.co.uk/dog-care/dog-breeds/saint-bernard",
+    "https://royalcanin.ru/dog-breed/st-bernard",
+    "https://pet-yes.com/breeds/senbernar",
+    "https://univet.ru/senbernar/",
+    "https://www.leyven.com.ua/ru/blog/senbernar-osobennosti-porody-vospitanie-i-istoriya-proishozhdeniya",
+    "https://breeds-info.ru/dogs/breed/senbernar-d-sh",
+    "https://www.pedigree.ru/porody/senbernar",
+    "https://zoogalaktika.ru/photos/pets/canis-familiaris/races/st-bernard",
+    "https://dogopedy.fandom.com/ru/wiki/Сенбернар",
+    "https://ru.wikipedia.org/wiki/Сенбернар"
+  ]
+}

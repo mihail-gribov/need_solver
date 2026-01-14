@@ -1,0 +1,84 @@
+{
+  "need_id": "not_dominant",
+  "formula": "~dominance & ~behavior_management_need",
+  "formula_reasoning": "Низкая склонность к доминантному поведению (~dominance) означает, что собака не будет стремиться доминировать над владельцем. Минимальная потребность в коррекции поведения (~behavior_management_need) указывает, что с управлением собакой будет проще, особенно для неопытных владельцев.",
+  "questions": [
+    {
+      "id": "not_dominant_q1",
+      "text": "Это будет ваша первая собака?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = человек не имеет опыта, важна простота в управлении. Нет = опыт есть, можно рассматривать более сложные породы."
+    },
+    {
+      "id": "not_dominant_q2",
+      "text": "Вам хотелось бы, чтобы собака была послушной и легко принимала ваши правила дома?",
+      "weight": 0.85,
+      "style": "situational",
+      "verification": "Да = приоритет простота управления, низкая доминантность. Нет = человек готов к сложным характерам."
+    },
+    {
+      "id": "not_dominant_q3",
+      "text": "В вашей семье есть дети или пожилые люди, которые будут контактировать с собакой?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = важно, чтобы собака не проявляла доминантности. Нет = меньше риска, можно сложнее характер."
+    },
+    {
+      "id": "not_dominant_q4",
+      "text": "Вы предпочли бы собаку, которой не нужно часто напоминать о правилах или проводить дополнительное обучение?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = хочет простое поведение, минимальная коррекция. Нет = готов к работе над поведением."
+    },
+    {
+      "id": "not_dominant_q5",
+      "text": "Вам важно, чтобы собака не пыталась устанавливать свои порядки в доме?",
+      "weight": 0.8,
+      "style": "indirect",
+      "verification": "Да = не хочет доминантного поведения. Нет = допускает или готов к лидерству собаки."
+    }
+  ],
+  "need_name": "Not Dominant",
+  "need_description": "Low dominance tendency (easier for first-time owners)",
+  "block": "behavior_character",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

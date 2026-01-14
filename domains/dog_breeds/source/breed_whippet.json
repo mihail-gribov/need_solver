@@ -1,0 +1,83 @@
+{
+  "id": "whippet",
+  "name": "Whippet",
+  "full_description": "<p>The Whippet is a British sighthound breed, developed in the 19th century by crossing Greyhounds with smaller terriers to create a swift, agile dog for hunting and racing. Often referred to as the \"poor man's racehorse,\" Whippets were prized for their speed and hunting prowess. They possess a sleek, aerodynamic build with a deep chest, long legs, and a narrow waist, standing between 18 to 22 inches tall and weighing 25 to 40 pounds. Their short, smooth coat comes in a variety of colors and patterns. Whippets are known for their gentle, affectionate nature, being calm indoors yet energetic outdoors. Originally bred for hunting and racing, they excel in activities like lure coursing and agility. Today, they are cherished as companion animals, valued for their adaptability and friendly demeanor. Notable characteristics include their remarkable speed, reaching up to 35 mph, and their strong prey drive, necessitating secure environments during exercise.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "25-40 pounds",
+    "height": "18-22 inches",
+    "coat": "short, smooth",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "minimal",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Whippets are gentle, affectionate, and adaptable dogs, known for their calm demeanor indoors and energetic bursts outdoors.",
+    "with_family": "They form strong bonds with family members, enjoying close companionship and often seeking physical closeness.",
+    "with_children": "Generally good with children, Whippets are patient and gentle, making them suitable family pets.",
+    "with_other_pets": "They can coexist peacefully with other dogs, but their strong prey drive may pose challenges with smaller animals.",
+    "with_strangers": "Typically friendly towards strangers, though some may be reserved; early socialization is beneficial.",
+    "special_traits": [
+      "Affectionate and loyal",
+      "Calm indoors, energetic outdoors",
+      "Strong prey drive",
+      "Minimal barking",
+      "Sensitive to cold temperatures"
+    ]
+  },
+  "health": {
+    "summary": "Whippets are generally healthy with a lifespan of 12 to 15 years, though they can be prone to certain health issues.",
+    "common_issues": [
+      "Cardiac conditions",
+      "Progressive retinal atrophy",
+      "Hip dysplasia",
+      "Patellar luxation",
+      "Idiopathic epilepsy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Annual eye examinations",
+      "Screening for hip and knee issues",
+      "Monitoring for seizure activity",
+      "Maintaining a healthy weight"
+    ],
+    "vet_checkups": "Annual wellness exams recommended"
+  },
+  "care": {
+    "description": "Whippets require minimal grooming, regular exercise, and thrive on human companionship.",
+    "behavior": "They need daily exercise to manage their energy levels and prevent boredom.",
+    "health": "Regular health screenings and a balanced diet are essential for their well-being.",
+    "grooming": "Their short coat requires occasional brushing and infrequent baths.",
+    "nutrition": "A high-quality diet appropriate for their size and activity level is recommended."
+  },
+  "faq": [
+    {
+      "question": "Are Whippets good apartment dogs?",
+      "answer": "Yes, with sufficient exercise, Whippets adapt well to apartment living due to their calm indoor nature."
+    },
+    {
+      "question": "Do Whippets get along with other pets?",
+      "answer": "They can coexist with other dogs but may chase smaller animals due to their prey drive."
+    },
+    {
+      "question": "How much exercise does a Whippet need?",
+      "answer": "Daily walks and opportunities to run in a secure area are ideal to meet their exercise needs."
+    },
+    {
+      "question": "Are Whippets easy to train?",
+      "answer": "They are intelligent but may have an independent streak; consistent, positive training methods work best."
+    },
+    {
+      "question": "Do Whippets shed a lot?",
+      "answer": "They shed minimally; their short coat is easy to maintain with occasional brushing."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Whippet",
+    "https://www.westminsterkennelclub.org/breed/whippet/",
+    "https://www.purina.com/dogs/dog-breeds/whippet",
+    "https://www.ukcdogs.com/breed-groups/whippet",
+    "https://www.akc.org/dog-breeds/whippet/"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "golden-retriever",
+  "name": "Golden Retriever",
+  "full_description": "<p>The Golden Retriever is a medium to large-sized breed renowned for its friendly disposition, intelligence, and striking golden coat. Originating in Scotland during the late 19th century, the breed was developed by Sir Dudley Marjoribanks, later known as Lord Tweedmouth. Aiming to create the ideal retriever suited for the Scottish Highlands' rugged terrain and wet conditions, he crossbred a yellow Wavy-Coated Retriever named Nous with a Tweed Water Spaniel named Belle. Subsequent infusions of Bloodhound, Irish Setter, and more Tweed Water Spaniels refined the breed, resulting in the versatile and affable Golden Retriever we know today. Recognized by the Kennel Club in 1913, the breed quickly gained popularity across the globe.</p>\n<p>Physically, Golden Retrievers exhibit a symmetrical and balanced build. Males typically stand between 23 to 24 inches (58 to 61 cm) at the withers, while females range from 21.5 to 22.5 inches (55 to 57 cm). Their weight varies, with males weighing between 65 to 75 pounds (29 to 34 kg) and females between 55 to 65 pounds (25 to 29 kg). The breed's most distinctive feature is its dense, water-repellent double coat, which can be wavy or straight and comes in various shades of gold. Feathering is present on the neck, legs, thighs, underside, and tail, adding to their elegant appearance.</p>\n<p>Golden Retrievers are celebrated for their gentle and friendly temperament. They are intelligent, eager to please, and highly trainable, making them excellent companions for families. Their patience and tolerance make them particularly good with children. While they are sociable and generally get along well with other animals, their friendly nature means they are not typically effective as guard dogs.</p>\n<p>Originally bred for retrieving game during hunting, Golden Retrievers possess a strong instinct to retrieve and an excellent sense of smell. These traits have made them invaluable in various working roles, including search and rescue, detection, and as guide dogs for the visually impaired. Their versatility and adaptability have contributed to their enduring popularity.</p>\n<p>In modern times, Golden Retrievers are among the most popular dog breeds worldwide. They excel in various canine sports, including obedience, agility, and field trials. Their friendly nature and intelligence also make them ideal therapy and assistance dogs. Notable Golden Retrievers include Liberty, the pet of U.S. President Gerald Ford, and Buddy, the canine actor from the 'Air Bud' film series.</p>\n<p>Distinctive characteristics of the breed include their 'soft mouth,' allowing them to carry game without damage, and their love for water, stemming from their origins as waterfowl retrievers. Their expressive eyes and ever-wagging tails further endear them to dog lovers everywhere.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "Males: 29-34 kg; Females: 25-29 kg",
+    "height": "Males: 58-61 cm; Females: 55-57 cm",
+    "coat": "dense, water-repellent double coat; wavy or straight; shades of gold",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; moderate shedding",
+    "lifespan": "10-13 years"
+  },
+  "behavior": {
+    "summary": "Golden Retrievers are friendly, intelligent, and eager to please, making them excellent family companions and highly trainable for various roles.",
+    "with_family": "They are affectionate and loyal, forming strong bonds with family members and thriving on human interaction.",
+    "with_children": "Known for their patience and gentleness, they are excellent companions for children, often displaying a nurturing attitude.",
+    "with_other_pets": "Generally sociable, they get along well with other dogs and pets, especially when properly socialized from a young age.",
+    "with_strangers": "Their friendly nature extends to strangers, making them poor guard dogs but excellent in social settings.",
+    "special_traits": [
+      "highly intelligent and trainable",
+      "strong retrieving instinct",
+      "affectionate and loyal",
+      "patient and gentle with children",
+      "sociable with other animals"
+    ]
+  },
+  "health": {
+    "summary": "Golden Retrievers are generally healthy but are predisposed to certain genetic conditions, necessitating regular veterinary care and a healthy lifestyle.",
+    "common_issues": [
+      "hip and elbow dysplasia",
+      "various cancers (e.g., hemangiosarcoma, lymphoma)",
+      "heart diseases (e.g., subvalvular aortic stenosis)",
+      "eye conditions (e.g., cataracts, progressive retinal atrophy)",
+      "skin allergies"
+    ],
+    "prevention_tips": [
+      "regular exercise to maintain healthy weight",
+      "balanced diet to support overall health",
+      "routine health screenings for early detection of issues",
+      "genetic testing of breeding stock to reduce hereditary conditions",
+      "consistent grooming to monitor skin and coat health"
+    ],
+    "vet_checkups": "bi-annual checkups recommended; more frequent visits for senior dogs or those with health concerns"
+  },
+  "care": {
+    "description": "Golden Retrievers require regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "behavior": "They thrive on companionship and should not be left alone for extended periods; regular interaction and training sessions are beneficial.",
+    "health": "A balanced diet, regular exercise, and routine veterinary care are essential to prevent common health issues.",
+    "grooming": "Regular brushing (at least twice a week) is necessary to manage shedding and maintain coat health; more frequent grooming during seasonal shedding periods.",
+    "nutrition": "Provide high-quality dog food appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Golden Retrievers good for first-time dog owners?",
+      "answer": "Yes, their friendly nature and trainability make them suitable for first-time owners."
+    },
+    {
+      "question": "Do Golden Retrievers require a lot of exercise?",
+      "answer": "Yes, they need regular physical activity to stay healthy and happy."
+    },
+    {
+      "question": "Are Golden Retrievers prone to health issues?",
+      "answer": "They can be susceptible to certain genetic conditions; regular vet checkups are important."
+    },
+    {
+      "question": "Do Golden Retrievers get along with other pets?",
+      "answer": "Generally, they are sociable and can coexist well with other pets when properly socialized."
+    },
+    {
+      "question": "How often should I groom my Golden Retriever?",
+      "answer": "Regular brushing at least twice a week is recommended; more during shedding seasons."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Golden_Retriever",
+    "https://grca.org/about-the-breed/",
+    "https://www.thekennelclub.org.uk/breed-standards/gundog/retriever-golden/",
+    "https://www.hillspet.com/dog-care/dog-breeds/golden-retriever",
+    "https://www.gooddog.com/breeds/golden-retriever"
+  ]
+}

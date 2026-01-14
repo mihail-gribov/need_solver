@@ -1,0 +1,84 @@
+{
+  "need_id": "affectionate",
+  "formula": "affection_level & ~independence",
+  "formula_reasoning": "Affectionate breeds have a high tendency to seek human contact (affection_level) and low independence (~independence), meaning they prefer being with people and are contact-oriented.",
+  "questions": [
+    {
+      "id": "affectionate_q1",
+      "text": "Вам приятно, когда собака часто находится рядом, любит обниматься и проявляет ласку?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = человек предпочитает очень контактную собаку. Нет = предпочитает менее навязчивую, самостоятельную собаку."
+    },
+    {
+      "id": "affectionate_q2",
+      "text": "Вы хотели бы, чтобы собака охотно проводила с вами много времени и искала общения?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = ищет максимально ориентированную на человека собаку. Нет = не нуждается в постоянном контакте."
+    },
+    {
+      "id": "affectionate_q3",
+      "text": "Для вас важно, чтобы собака встречала вас у двери, следовала за вами по дому и показывала свою привязанность?",
+      "weight": 0.85,
+      "style": "situational",
+      "verification": "Да = человек ждет от собаки ярких проявлений привязанности. Нет = предпочитает более независимую собаку."
+    },
+    {
+      "id": "affectionate_q4",
+      "text": "Вам комфортно, если питомец нуждается во внимании и часто хочет быть на руках или рядом?",
+      "weight": 0.75,
+      "style": "situational",
+      "verification": "Да = готов к собаке, которая требует много внимания. Нет = предпочитает менее контактного питомца."
+    },
+    {
+      "id": "affectionate_q5",
+      "text": "В вашей семье принято активно взаимодействовать с домашними животными — гладить, играть, разговаривать?",
+      "weight": 0.6,
+      "style": "indirect",
+      "verification": "Да = атмосфера в семье располагает к контактному питомцу. Нет = собака будет получать меньше внимания."
+    }
+  ],
+  "need_name": "Affectionate",
+  "need_description": "Contact-oriented, human-focused",
+  "block": "behavior_character",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

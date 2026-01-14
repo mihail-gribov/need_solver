@@ -1,0 +1,157 @@
+{
+  "id": "puggle",
+  "name": "Puggle",
+  "name_rus": "Пагль",
+  "full_description": "<p>The Puggle is a hybrid dog breed resulting from the cross between a Pug and a Beagle. This designer breed emerged in the United States during the 1980s, aiming to combine the Pug's affectionate nature with the Beagle's energetic disposition. Puggles typically exhibit a sturdy, compact body with a slightly elongated muzzle, which may help alleviate some of the breathing issues common in Pugs. Their coat is short and smooth, often displaying a variety of colors, including fawn, black, and tan. The ears are usually floppy, resembling those of the Beagle, and their expressive eyes convey a friendly demeanor. In terms of temperament, Puggles are known for their sociable and affectionate nature. They thrive on human companionship and are generally good with children and other pets. Their playful and energetic behavior makes them suitable for active families. However, they can inherit the Beagle's tendency to bark and the Pug's stubbornness, which may require patient training. Originally bred as companion animals, Puggles do not have a history of working roles. Today, they serve primarily as family pets, appreciated for their loving nature and adaptability to various living environments. Notable characteristics of the Puggle include their friendly disposition, moderate exercise needs, and a tendency to shed, which potential owners should consider.</p>",
+  "full_description_rus": "<p>Пагль — это гибридная порода собак, полученная в результате скрещивания мопса и бигля. Эта дизайнерская порода появилась в Соединённых Штатах в 1980-х годах с целью объединить привязанность мопса с энергичностью бигля. Пагли обычно имеют крепкое, компактное тело с немного удлинённой мордой, что может помочь уменьшить некоторые проблемы с дыханием, характерные для мопсов. Их шерсть короткая и гладкая, часто представлена в различных цветах, включая палевый, чёрный и рыжий. Уши обычно висячие, напоминающие уши бигля, а выразительные глаза передают дружелюбный характер. По темпераменту пагли известны своей общительностью и привязанностью. Они процветают в компании людей и обычно хорошо ладят с детьми и другими домашними животными. Их игривое и энергичное поведение делает их подходящими для активных семей. Однако они могут унаследовать склонность бигля к лаю и упрямство мопса, что может потребовать терпеливой дрессировки. Изначально выведенные как компаньоны, пагли не имеют истории рабочих ролей. Сегодня они служат в основном семейными питомцами, ценимыми за их любящий характер и адаптивность к различным условиям проживания. Ключевые характеристики пагля включают дружелюбный нрав, умеренные потребности в физических нагрузках и склонность к линьке, что потенциальные владельцы должны учитывать.</p>",
+  "parameters": {
+    "activity": "moderate",
+    "coat": "short and smooth",
+    "grooming": "regular brushing; moderate shedding",
+    "height": "10-15 inches",
+    "lifespan": "10-15 years",
+    "size": "small to medium",
+    "trainability": "moderate",
+    "weight": "15-30 pounds"
+  },
+  "parameters_rus": {
+    "size": "маленький / средний",
+    "weight": "7-14 кг",
+    "height": "25-38 см",
+    "coat": "короткая и гладкая",
+    "activity": "умеренная",
+    "trainability": "средняя",
+    "grooming": "регулярное расчесывание; умеренная линька",
+    "lifespan": "10-15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Affectionate and social",
+      "Playful and energetic",
+      "Moderate exercise needs",
+      "Tendency to bark",
+      "Potential for stubbornness"
+    ],
+    "summary": "Puggles are affectionate, social dogs that form strong bonds with their families, making them great companions for households looking for a loving pet.",
+    "with_children": "Puggles are typically gentle and patient, making them a good fit for families with children. Their playful nature means they can be a great companion for kids, as long as interactions are supervised, especially with very young children.",
+    "with_family": "They thrive on companionship and enjoy being involved in family activities, often seeking attention and affection from their owners.",
+    "with_other_pets": "Generally good with other pets, including dogs, and they thrive on companionship.",
+    "with_strangers": "Friendly and sociable, Puggles usually greet strangers with enthusiasm, making them poor guard dogs but excellent social companions."
+  },
+  "behavior_rus": {
+    "summary": "Пагли — это привязчивые и общительные собаки, которые формируют крепкие связи со своими семьями, делая их отличными компаньонами для тех, кто ищет любящего питомца.",
+    "with_family": "Они процветают в компании и любят участвовать в семейных мероприятиях, часто ищут внимания и привязанности от своих владельцев.",
+    "with_children": "Пагли обычно нежны и терпеливы, что делает их хорошим выбором для семей с детьми. Их игривый характер означает, что они могут быть отличными компаньонами для детей, при условии, что взаимодействия контролируются, особенно с очень маленькими детьми.",
+    "with_other_pets": "Обычно хорошо ладят с другими домашними животными, включая собак, и процветают в компании.",
+    "with_strangers": "Дружелюбные и общительные, пагли обычно встречают незнакомцев с энтузиазмом, что делает их плохими сторожевыми собаками, но отличными социальными компаньонами.",
+    "special_traits": [
+      "Привязчивые и общительные",
+      "Игривые и энергичные",
+      "Умеренные потребности в физических нагрузках",
+      "Склонность к лаю",
+      "Возможное упрямство"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Stenotic nares (pinched nostrils)",
+      "Obesity",
+      "Hip dysplasia",
+      "Eye problems",
+      "Allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Balanced diet and portion control",
+      "Consistent exercise routine",
+      "Monitoring for breathing difficulties",
+      "Regular eye examinations"
+    ],
+    "summary": "Puggles are generally healthy but can inherit health issues from their parent breeds, including breathing difficulties and obesity.",
+    "vet_checkups": "At least once a year, or more frequently if health issues arise."
+  },
+  "health_rus": {
+    "summary": "Пагли в целом здоровы, но могут унаследовать проблемы со здоровьем от родительских пород, включая затруднённое дыхание и ожирение.",
+    "common_issues": [
+      "Стеноз ноздрей (суженные ноздри)",
+      "Ожирение",
+      "Дисплазия тазобедренного сустава",
+      "Проблемы с глазами",
+      "Аллергии"
+    ],
+    "prevention_tips": [
+      "Регулярные ветеринарные осмотры",
+      "Сбалансированная диета и контроль порций",
+      "Постоянный режим физических упражнений",
+      "Мониторинг затруднённого дыхания",
+      "Регулярные осмотры глаз"
+    ],
+    "vet_checkups": "Не реже одного раза в год или чаще при возникновении проблем со здоровьем."
+  },
+  "care": {
+    "behavior": "Early socialization and consistent training are important to manage their energetic nature and potential stubbornness.",
+    "description": "Puggles require moderate care, including regular exercise, a balanced diet, and routine grooming to maintain their health and happiness.",
+    "grooming": "Regular brushing to manage shedding and occasional baths to keep their coat clean.",
+    "health": "Regular veterinary visits and monitoring for inherited health issues are essential for maintaining their well-being.",
+    "nutrition": "A balanced diet with portion control to prevent obesity, considering their tendency to overeat."
+  },
+  "care_rus": {
+    "description": "Пагли требуют умеренного ухода, включая регулярные физические нагрузки, сбалансированное питание и рутинный груминг для поддержания их здоровья и счастья.",
+    "behavior": "Ранняя социализация и последовательная дрессировка важны для управления их энергичным характером и возможным упрямством.",
+    "health": "Регулярные визиты к ветеринару и мониторинг наследственных проблем со здоровьем необходимы для поддержания их благополучия.",
+    "grooming": "Регулярное расчесывание для управления линькой и периодические купания для поддержания чистоты шерсти.",
+    "nutrition": "Сбалансированная диета с контролем порций для предотвращения ожирения, учитывая их склонность к перееданию."
+  },
+  "faq": [
+    {
+      "question": "How long do Puggles live?",
+      "answer": "Puggles typically have a lifespan of 10–15 years."
+    },
+    {
+      "question": "Do Puggles make good pets?",
+      "answer": "Yes, Puggles are affectionate and social, making them great companions for families and individuals alike."
+    },
+    {
+      "question": "Are Puggles healthier than Pugs?",
+      "answer": "Possibly. Due to their Beagle heritage, Puggles may avoid some issues experienced by Pugs, but health depends largely on breeding practices."
+    },
+    {
+      "question": "Do Puggles bark a lot?",
+      "answer": "Both Pugs and Beagles are talkative breeds, so Puggles may inherit this trait. Positive training can help manage excessive barking."
+    },
+    {
+      "question": "Are Puggles suitable for first-time dog owners?",
+      "answer": "Yes, their friendly nature and moderate care needs make them a good choice for first-time owners."
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Какова продолжительность жизни пагля?",
+      "answer": "Пагли обычно живут от 10 до 15 лет."
+    },
+    {
+      "question": "Подходят ли пагли в качестве домашних питомцев?",
+      "answer": "Да, пагли привязчивы и общительны, что делает их отличными компаньонами для семей и отдельных людей."
+    },
+    {
+      "question": "Здоровее ли пагли по сравнению с мопсами?",
+      "answer": "Возможно. Благодаря наследию бигля, пагли могут избежать некоторых проблем, характерных для мопсов, но здоровье во многом зависит от практики разведения."
+    },
+    {
+      "question": "Много ли лают пагли?",
+      "answer": "И мопсы, и бигли — разговорчивые породы, поэтому пагли могут унаследовать эту черту. Позитивная дрессировка может помочь управлять чрезмерным лаем."
+    },
+    {
+      "question": "Подходят ли пагли для владельцев собак без опыта?",
+      "answer": "Да, их дружелюбный характер и умеренные потребности в уходе делают их хорошим выбором для начинающих владельцев."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/puggle",
+    "https://dogtime.com/dog-breeds/puggle",
+    "https://www.vetstreet.com/dr-marty-becker/5-toy-breeds-this-vet-worries-about",
+    "https://www.purina.ru/find-a-pet/dog-breeds/puggle",
+    "https://doge.ru/poroda/pagl",
+    "https://zooclub.ru/dogs/porod/479.shtml"
+  ]
+}

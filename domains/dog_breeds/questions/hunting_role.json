@@ -1,0 +1,84 @@
+{
+  "need_id": "hunting_role",
+  "formula": "hunting_instinct & prey_drive & working_drive",
+  "formula_reasoning": "Для собак, подходящих для охоты, важны выраженный охотничий инстинкт (hunting_instinct), высокая тяга к преследованию добычи (prey_drive) и желание работать/выполнять задачи (working_drive). Эта комбинация отражает ключевые черты охотничьих пород.",
+  "questions": [
+    {
+      "id": "hunting_role_q1",
+      "text": "Планируете ли вы использовать собаку для охоты?",
+      "weight": 1.0,
+      "style": "direct",
+      "verification": "Да = собака нужна для охоты. Нет = охота не планируется."
+    },
+    {
+      "id": "hunting_role_q2",
+      "text": "У вас есть опыт участия в охоте с собаками?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = пользователь знаком с охотничьими собаками. Нет = опыта нет."
+    },
+    {
+      "id": "hunting_role_q3",
+      "text": "В вашей семье кто-то занимается охотой или рыбной ловлей?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = высокая вероятность, что собака нужна для охоты. Нет = такого занятия нет."
+    },
+    {
+      "id": "hunting_role_q4",
+      "text": "Часто ли вы бываете на природе с целью охоты или активного отдыха?",
+      "weight": 0.6,
+      "style": "situational",
+      "verification": "Да = возможна потребность в охотничьей собаке. Нет = редкие поездки."
+    },
+    {
+      "id": "hunting_role_q5",
+      "text": "Вам важно, чтобы собака могла сопровождать вас на охоте за дичью или птицей?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = собака для охоты актуальна. Нет = не требуется."
+    }
+  ],
+  "need_name": "Hunting Role",
+  "need_description": "Hunting purposes",
+  "block": "purpose_role",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

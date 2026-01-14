@@ -1,0 +1,84 @@
+{
+  "need_id": "first_time_friendly",
+  "formula": "trainability & ~dominance & ~behavior_management_need",
+  "formula_reasoning": "First-time owners need breeds that are easy to train (trainability), not prone to dominant behavior (~dominance), and don't require frequent behavioral correction (~behavior_management_need). These traits reduce the complexity of management for beginners.",
+  "questions": [
+    {
+      "id": "first_time_friendly_q1",
+      "text": "Это будет ваша первая собака?",
+      "weight": 1.0,
+      "style": "direct",
+      "verification": "Да = человек не имел опыта, нужна 'первая собака'. Нет = у пользователя был опыт, требование не критично."
+    },
+    {
+      "id": "first_time_friendly_q2",
+      "text": "Вы раньше не занимались самостоятельным воспитанием собаки?",
+      "weight": 0.85,
+      "style": "direct",
+      "verification": "Да = пользователь не имел опыта дрессировки, важна простота управления. Нет = есть опыт, проще справиться с трудной породой."
+    },
+    {
+      "id": "first_time_friendly_q3",
+      "text": "Вам важно, чтобы собака быстро училась простым командам?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = пользователь ищет легко обучаемую собаку. Нет = готов тратить больше времени на обучение."
+    },
+    {
+      "id": "first_time_friendly_q4",
+      "text": "Вы предпочли бы собаку, которой не требуется постоянное исправление поведения?",
+      "weight": 0.65,
+      "style": "situational",
+      "verification": "Да = человек хочет легкую в управлении собаку. Нет = готов к сложным ситуациям."
+    },
+    {
+      "id": "first_time_friendly_q5",
+      "text": "В вашей семье нет взрослых с опытом содержания собак?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = в семье никто не сталкивался с воспитанием, нужна простая порода. Нет = есть опыт, можно рассматривать более сложные варианты."
+    }
+  ],
+  "need_name": "First Time Friendly",
+  "need_description": "Suitable for first-time owners",
+  "block": "training_management",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

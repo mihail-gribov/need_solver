@@ -1,0 +1,82 @@
+{
+  "id": "maltese",
+  "name": "Maltese",
+  "full_description": "<p>The Maltese is an ancient toy breed, renowned for its long, silky white coat and affectionate nature. Originating over 2,000 years ago, the breed's exact beginnings are shrouded in history, but it is widely believed that the Phoenicians introduced these small dogs to Malta, where they became cherished companions. Greek and Roman aristocrats highly valued the Maltese, often depicting them in art and literature. Aristotle even referred to them as \"perfectly proportioned\" despite their diminutive size. Throughout the centuries, the Maltese has maintained its status as a beloved lapdog, symbolizing elegance and refinement.</p>\n<p>Physically, the Maltese is a small, compact dog with a proud carriage. Males typically stand between 8.25 to 10 inches at the withers, while females range from 7.5 to 9 inches. Their weight generally falls between 6 to 8 pounds. The breed's hallmark is its long, straight, silky white coat that drapes over the body, often reaching the ground. This luxurious coat lacks an undercoat, contributing to its fine texture. The Maltese's head is slightly rounded, with a well-defined stop and a muzzle that is slightly shorter than the skull. Their dark, oval eyes exude a gentle yet alert expression, and their ears are set high, hanging close to the head with long feathering that blends seamlessly with the rest of the coat.</p>\n<p>Temperamentally, the Maltese is lively, intelligent, and affectionate. They form strong bonds with their families and thrive on human companionship. Despite their small size, they possess a spirited and playful demeanor, often displaying a charming and endearing personality. Historically bred as companion animals, Maltese dogs excel in providing comfort and companionship. Their alertness also makes them effective watchdogs, as they are quick to sound the alarm when unfamiliar situations arise. In modern times, the Maltese continues to be a popular choice for those seeking a devoted and elegant companion. Their adaptability allows them to thrive in various living environments, from apartments to larger homes. Regular grooming is essential to maintain their coat's pristine condition, and they benefit from daily exercise to keep them mentally and physically stimulated. Notable characteristics of the Maltese include their hypoallergenic coat, which sheds minimally, making them suitable for allergy sufferers. Their long lifespan, often exceeding 12 years, allows for many years of companionship. Additionally, their keen intelligence and eagerness to please make them highly trainable, excelling in obedience and agility activities.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "6-8 pounds",
+    "height": "7.5-10 inches",
+    "coat": "long, silky, white, without undercoat",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "daily brushing; regular professional grooming recommended",
+    "lifespan": "over 12 years"
+  },
+  "behavior": {
+    "summary": "The Maltese is a lively and affectionate companion, known for its intelligence and alertness. They form strong bonds with their families and thrive on human interaction.",
+    "with_family": "Maltese dogs are deeply devoted to their families, often seeking constant companionship and affection.",
+    "with_children": "They can be good with children, especially when socialized early, but due to their small size, interactions should be supervised to prevent accidental injury.",
+    "with_other_pets": "Generally friendly with other pets, especially when raised together, but may exhibit jealousy if they feel their owner's attention is divided.",
+    "with_strangers": "Alert and wary of strangers, Maltese can be effective watchdogs, often barking to announce unfamiliar visitors.",
+    "special_traits": [
+      "affectionate and people-oriented",
+      "alert and responsive",
+      "playful and energetic",
+      "intelligent and trainable",
+      "prone to separation anxiety if left alone for extended periods"
+    ]
+  },
+  "health": {
+    "summary": "Maltese are generally healthy but can be prone to certain genetic and environmental health issues. Regular veterinary care and preventive measures are essential to maintain their well-being.",
+    "common_issues": [
+      "dental problems due to small mouths",
+      "patellar luxation (dislocation of the kneecap)",
+      "progressive retinal atrophy (PRA)",
+      "hypoglycemia, especially in puppies",
+      "tracheal collapse"
+    ],
+    "prevention_tips": [
+      "regular dental care, including brushing and professional cleanings",
+      "maintain a healthy weight to reduce stress on joints",
+      "routine eye examinations to detect early signs of PRA",
+      "monitor blood sugar levels in puppies to prevent hypoglycemia",
+      "use a harness instead of a collar to prevent tracheal damage"
+    ],
+    "vet_checkups": "semi-annual veterinary checkups are recommended to monitor and maintain overall health"
+  },
+  "care": {
+    "description": "Caring for a Maltese involves regular grooming, consistent training, and attentive health maintenance to ensure a happy and healthy companion.",
+    "behavior": "Early socialization and positive reinforcement training are crucial to develop a well-mannered and confident dog.",
+    "health": "Regular veterinary visits and preventive care are essential to address common health concerns and maintain overall well-being.",
+    "grooming": "Daily brushing and regular professional grooming are necessary to prevent matting and maintain the coat's health.",
+    "nutrition": "A balanced diet appropriate for small breeds, with portion control to prevent obesity, is important for their health."
+  },
+  "faq": [
+    {
+      "question": "Are Maltese hypoallergenic?",
+      "answer": "Yes, their low-shedding coat produces less dander, making them suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Maltese need?",
+      "answer": "Moderate daily exercise, such as short walks and playtime, is sufficient to keep them healthy and happy."
+    },
+    {
+      "question": "Do Maltese get along with other pets?",
+      "answer": "Generally, yes, especially when socialized early, but they may exhibit jealousy if they feel neglected."
+    },
+    {
+      "question": "Are Maltese easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable with positive reinforcement methods."
+    },
+    {
+      "question": "What is the lifespan of a Maltese?",
+      "answer": "Maltese dogs often live over 12 years, with proper care and a healthy lifestyle."
+    }
+  ],
+  "sources": [
+    "https://www.thekennelclub.org.uk/breed-standards/toy/maltese/",
+    "https://www.ukcdogs.com/maltese",
+    "https://www.akc.org/expert-advice/dog-breeds/maltese-history/",
+    "https://www.akc.org/expert-advice/dog-breeds/glamor-charm-8-fun-facts-maltese/"
+  ]
+}

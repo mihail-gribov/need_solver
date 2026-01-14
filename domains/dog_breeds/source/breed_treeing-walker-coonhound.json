@@ -1,0 +1,81 @@
+{
+  "id": "treeing-walker-coonhound",
+  "name": "Treeing Walker Coonhound",
+  "full_description": "<p>The Treeing Walker Coonhound is a distinguished American breed renowned for its exceptional hunting prowess and amiable disposition. Originating in the United States during the 19th century, this breed was developed by crossing English Foxhounds with native American hounds, aiming to create a dog adept at tracking and treeing game, particularly raccoons. The breed's name reflects its primary function: 'treeing' refers to its ability to chase prey up trees, while 'Walker' honors Thomas Walker, a key figure in the breed's development. Physically, the Treeing Walker Coonhound is a medium to large-sized dog, with males standing between 22 to 27 inches and females between 20 to 25 inches at the shoulder. They typically weigh between 50 to 70 pounds. Their coat is short, dense, and glossy, providing protection against rough terrain. The breed's coloration is predominantly tricolor—white with black and tan markings—though bicolor variations are also accepted. Notable physical features include a broad skull, long, hanging ears, and large, dark eyes that convey a gentle expression. Temperamentally, Treeing Walker Coonhounds are intelligent, energetic, and affectionate. They exhibit a strong desire to please, making them relatively easy to train, though their independent nature may require consistent guidance. Their original purpose as hunting dogs endowed them with remarkable endurance and a keen sense of smell, traits that remain evident today. In contemporary settings, while they continue to excel in hunting, they have also become cherished family companions. Their friendly and sociable nature makes them well-suited to active households that can provide ample exercise and mental stimulation. Notable characteristics of the breed include their distinctive 'bugle' bark, which they use to alert hunters when game is treed, and their exceptional tracking abilities, which have earned them a reputation as one of the most reliable coonhounds.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "50-70 pounds (23-32 kg)",
+    "height": "Males: 22-27 inches (56-69 cm); Females: 20-25 inches (51-64 cm)",
+    "coat": "short, dense, and glossy",
+    "activity": "high",
+    "trainability": "moderate to high",
+    "grooming": "weekly brushing; regular ear cleaning",
+    "lifespan": "12-13 years"
+  },
+  "behavior": {
+    "summary": "Treeing Walker Coonhounds are energetic, intelligent, and affectionate dogs with a strong hunting instinct and a friendly disposition.",
+    "with_family": "They are loyal and affectionate with family members, often forming strong bonds and enjoying interactive play.",
+    "with_children": "Generally good with children, displaying patience and playfulness, making them suitable companions for active kids.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other dogs; however, their hunting instincts may pose challenges with smaller pets.",
+    "with_strangers": "They are typically friendly towards strangers, though their alertness makes them effective watchdogs.",
+    "special_traits": [
+      "Exceptional tracking abilities",
+      "Distinctive 'bugle' bark",
+      "High energy levels",
+      "Strong hunting instinct",
+      "Affectionate nature"
+    ]
+  },
+  "health": {
+    "summary": "Treeing Walker Coonhounds are generally healthy, but they can be prone to certain conditions common in active, medium to large breeds.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Ear infections",
+      "Skin allergies",
+      "Minor injuries from hunting"
+    ],
+    "prevention_tips": [
+      "Regular ear cleaning to prevent infections",
+      "Routine veterinary check-ups",
+      "Balanced diet to maintain healthy weight",
+      "Adequate exercise to support joint health"
+    ],
+    "vet_checkups": "Annually, or more frequently if health concerns arise"
+  },
+  "care": {
+    "description": "Treeing Walker Coonhounds require regular exercise, mental stimulation, and consistent training to thrive as both hunting dogs and family companions.",
+    "behavior": "Due to their high energy and intelligence, they benefit from activities that challenge them physically and mentally, such as agility training or scent work.",
+    "health": "Maintaining a healthy weight through diet and exercise is crucial to prevent joint issues; regular ear checks are essential to avoid infections.",
+    "grooming": "Their short coat requires minimal grooming—weekly brushing is sufficient; however, their ears should be cleaned regularly to prevent infections.",
+    "nutrition": "A balanced diet appropriate for active, medium to large breeds is recommended; portion control is important to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Treeing Walker Coonhounds good family pets?",
+      "answer": "Yes, they are affectionate and friendly, making them excellent companions for active families."
+    },
+    {
+      "question": "Do they require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and need daily exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "They are intelligent and eager to please but can be independent; consistent training is recommended."
+    },
+    {
+      "question": "Do they get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other dogs; caution is advised with smaller pets due to their hunting instincts."
+    },
+    {
+      "question": "What is their lifespan?",
+      "answer": "They typically live between 12 to 13 years."
+    }
+  ],
+  "sources": [
+    "https://www.webmd.com/pets/dogs/what-to-know-treeing-walker-coonhound",
+    "https://nationalkennelclub.com/treeing-walker-coonhound/",
+    "https://www.chewy.com/education/dog-breeds/treeing-walker-coonhound",
+    "https://www.ukcdogs.com/treeing-walker-coonhound",
+    "https://vcahospitals.com/know-your-pet/treeing-walker-coonhound"
+  ]
+}

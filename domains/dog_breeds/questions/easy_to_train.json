@@ -1,0 +1,84 @@
+{
+  "need_id": "easy_to_train",
+  "formula": "trainability & ~dominance",
+  "formula_reasoning": "Easily trainable dogs are those with high trainability and low dominance; high trainability means the breed learns commands easily, while low dominance reduces the likelihood of stubborn or challenging behavior. This combination is especially important for first-time dog owners or those seeking a dog that's simple to manage.",
+  "questions": [
+    {
+      "id": "easy_to_train_q1",
+      "text": "Это будет ваша первая собака?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = пользователь неопытен, нужен легко обучаемый питомец. Нет = опыт есть, можно рассмотреть более сложные породы."
+    },
+    {
+      "id": "easy_to_train_q2",
+      "text": "Вам важно, чтобы собака быстро понимала новые команды и правила дома?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = пользователь ожидает простого обучения. Нет = готов к длительному обучению или сложностям."
+    },
+    {
+      "id": "easy_to_train_q3",
+      "text": "В вашей семье есть дети или пожилые люди, которые будут общаться с собакой?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = желательно легко управляемая собака. Нет = меньше ограничений по обучаемости."
+    },
+    {
+      "id": "easy_to_train_q4",
+      "text": "Планируете ли вы заниматься дрессировкой самостоятельно, без привлечения кинолога?",
+      "weight": 0.75,
+      "style": "direct",
+      "verification": "Да = лучше выбрать породу, которую легко учить. Нет = можно рассматривать менее обучаемых собак."
+    },
+    {
+      "id": "easy_to_train_q5",
+      "text": "Вы предпочитаете, чтобы собака сама быстро ориентировалась в новых ситуациях и слушалась с первого раза?",
+      "weight": 0.6,
+      "style": "indirect",
+      "verification": "Да = пользователь ценит легкость в управлении. Нет = готов к самостоятельности и упрямству собаки."
+    }
+  ],
+  "need_name": "Easy to Train",
+  "need_description": "Easily trainable",
+  "block": "training_management",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

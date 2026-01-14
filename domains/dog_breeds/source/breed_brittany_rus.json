@@ -1,0 +1,151 @@
+{
+  "id": "brittany",
+  "name": "Brittany",
+  "name_rus": "Бретонский эпаньоль",
+  "full_description": "<p>The Brittany, originating from the Brittany region in northwestern France, is a versatile and energetic gun dog developed primarily for bird hunting. Historical records, including 17th-century paintings and tapestries, depict Brittany-like dogs, indicating the breed's longstanding presence. The first written account dates back to 1850, describing small, bobtailed dogs adept at pointing and retrieving. Official recognition in France occurred in 1907, with the American Kennel Club (AKC) acknowledging the breed in 1934. In 1982, the AKC dropped 'Spaniel' from the breed's name to reflect its pointing rather than flushing abilities.</p>\n<p>Physically, the Brittany is a medium-sized, leggy dog standing between 17.5 to 20.5 inches at the shoulder and weighing 30 to 40 pounds. Its coat is dense and can be flat or wavy, commonly found in orange and white or liver and white combinations. Some Brittanys are born with a natural bobtail; others have tails docked to approximately four inches. The breed's expressive eyes, set under bushy eyebrows, are typically amber to hazel, complementing its keen and alert expression.</p>\n<p>Temperamentally, Brittanys are affectionate, intelligent, and eager to please. They exhibit a happy and alert demeanor, making them excellent companions for active families. Their high energy levels necessitate regular, vigorous exercise to prevent restlessness or undesirable behaviors. Early socialization and obedience training are recommended to harness their enthusiasm and ensure well-rounded behavior.</p>\n<p>Originally bred for hunting, Brittanys excel in pointing and retrieving game birds. Their keen sense of smell and agility make them proficient in various terrains, from woods to plains. In modern times, they continue to be favored by hunters and have also gained popularity in dog sports such as agility, flyball, and obedience competitions. Their friendly nature and manageable size have contributed to their status as beloved family pets.</p>\n<p>Notable characteristics of the Brittany include its exceptional versatility in hunting and sports, a compact and athletic build, and a coat that provides protection without excessive maintenance. Their boundless energy and affectionate nature make them well-suited for active households seeking an engaging and loyal companion.</p>",
+  "full_description_rus": "<p>Бретонский эпаньоль, происходящий из региона Бретань на северо-западе Франции, является универсальной и энергичной подружейной собакой, изначально выведенной для охоты на птицу. Исторические источники, включая картины и гобелены XVII века, изображают собак, похожих на бретонских эпаньолей, что свидетельствует о давней истории породы. Первое письменное упоминание датируется 1850 годом, описывая небольших собак с коротким хвостом, способных к стойке и апортировке. Официальное признание во Франции произошло в 1907 году, а Американский клуб собаководства (AKC) признал породу в 1934 году. В 1982 году AKC убрал слово \"спаниель\" из названия породы, чтобы подчеркнуть её способности к стойке, а не к вспугиванию дичи.</p>\n<p>Физически бретонский эпаньоль — это собака среднего размера с длинными ногами, ростом от 47 до 52 см в холке и весом от 14 до 18 кг. Её шерсть плотная, может быть прямой или волнистой, обычно встречается в сочетаниях оранжевого и белого или печёночного и белого цветов. Некоторые бретоны рождаются с естественным коротким хвостом; у других хвосты купируются до примерно 10 см. Выразительные глаза, расположенные под густыми бровями, обычно имеют янтарный или ореховый цвет, подчёркивая её острый и внимательный взгляд.</p>\n<p>По характеру бретонские эпаньоли ласковы, умны и стремятся угодить. Они проявляют радостное и бдительное поведение, что делает их отличными компаньонами для активных семей. Высокий уровень энергии требует регулярных, интенсивных физических нагрузок, чтобы предотвратить беспокойство или нежелательное поведение. Ранняя социализация и обучение послушанию рекомендуются для направленного использования их энтузиазма и обеспечения всестороннего поведения.</p>\n<p>Изначально выведенные для охоты, бретонские эпаньоли превосходно справляются с установкой стойки и апортировкой дичи. Их острое обоняние и ловкость делают их эффективными в различных условиях, от лесов до равнин. В современное время они продолжают быть популярными среди охотников, а также завоевали популярность в собачьих видах спорта, таких как аджилити, флайбол и соревнования по послушанию. Их дружелюбный характер и удобный размер способствовали их статусу любимых семейных питомцев.</p>\n<p>Отличительными чертами бретонского эпаньоля являются его исключительная универсальность в охоте и спорте, компактное и атлетичное телосложение, а также шерсть, обеспечивающая защиту без чрезмерного ухода. Их неуёмная энергия и ласковый характер делают их идеально подходящими для активных семей, ищущих увлекательного и преданного компаньона.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "30-40 pounds",
+    "height": "17.5-20.5 inches",
+    "coat": "dense, flat or wavy; commonly orange and white or liver and white",
+    "activity": "very high",
+    "trainability": "high",
+    "grooming": "regular brushing; minimal maintenance",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "14-18 кг",
+    "рост": "47-52 см",
+    "шерсть": "плотная, прямая или волнистая; обычно оранжево-белая или печёночно-белая",
+    "активность": "очень высокая",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчёсывание; минимальный уход",
+    "продолжительность жизни": "12-14 лет"
+  },
+  "behavior": {
+    "summary": "Brittanys are affectionate, intelligent, and energetic dogs, known for their eagerness to please and adaptability to various activities.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and a desire to participate in family activities.",
+    "with_children": "Generally good with children, Brittanys are playful and gentle, making them suitable companions for active kids.",
+    "with_other_pets": "With proper socialization, they coexist well with other pets, though their hunting instincts may prompt chasing behaviors.",
+    "with_strangers": "Typically friendly towards strangers, they may exhibit initial caution but warm up quickly.",
+    "special_traits": [
+      "high energy levels",
+      "eager to please",
+      "intelligent and trainable",
+      "affectionate with family",
+      "versatile in activities"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Бретонские эпаньоли ласковы, умны и энергичны, известны своим стремлением угодить и адаптироваться к различным видам деятельности.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя лояльность и желание участвовать в семейных мероприятиях.",
+    "с детьми": "Обычно хорошо ладят с детьми, бретонские эпаньоли игривы и нежны, что делает их подходящими компаньонами для активных детей.",
+    "с другими животными": "При правильной социализации они хорошо уживаются с другими животными, хотя их охотничьи инстинкты могут вызывать поведение преследования.",
+    "с незнакомцами": "Обычно дружелюбны к незнакомцам, могут проявлять начальную осторожность, но быстро привыкают.",
+    "особые черты": [
+      "высокий уровень энергии",
+      "стремление угодить",
+      "умны и легко обучаемы",
+      "ласковы с семьёй",
+      "универсальны в деятельности"
+    ]
+  },
+  "health": {
+    "summary": "Brittanys are generally healthy but can be prone to certain genetic conditions; regular veterinary care is essential.",
+    "common_issues": [
+      "hip dysplasia",
+      "epilepsy",
+      "ear infections",
+      "hypothyroidism"
+    ],
+    "prevention_tips": [
+      "regular exercise to maintain healthy weight",
+      "routine ear cleaning to prevent infections",
+      "balanced diet to support overall health",
+      "genetic screening for breeding dogs"
+    ],
+    "vet_checkups": "Annual checkups recommended; more frequent visits if health issues arise."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Бретонские эпаньоли в целом здоровы, но могут быть склонны к определённым генетическим заболеваниям; регулярный ветеринарный уход необходим.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренного сустава",
+      "эпилепсия",
+      "ушные инфекции",
+      "гипотиреоз"
+    ],
+    "советы по профилактике": [
+      "регулярные физические нагрузки для поддержания здорового веса",
+      "периодическая чистка ушей для предотвращения инфекций",
+      "сбалансированное питание для поддержания общего здоровья",
+      "генетический скрининг для племенных собак"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры; более частые визиты при возникновении проблем со здоровьем."
+  },
+  "care": {
+    "description": "Brittanys require regular exercise, mental stimulation, and routine grooming to maintain their health and happiness.",
+    "behavior": "Engage in daily physical activities and training sessions to channel their energy positively.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits.",
+    "grooming": "Brush their coat weekly and clean ears regularly to prevent infections.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Бретонские эпаньоли требуют регулярных физических нагрузок, умственной стимуляции и рутинного ухода для поддержания их здоровья и счастья.",
+    "поведение и характер": "Занимайтесь ежедневными физическими упражнениями и тренировками, чтобы направить их энергию в позитивное русло.",
+    "здоровье и профилактика": "Следите за признаками распространённых проблем со здоровьем и регулярно посещайте ветеринара.",
+    "груминг и уход": "Расчёсывайте их шерсть еженедельно и регулярно чистите уши для предотвращения инфекций.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их возрасту, размеру и уровню активности."
+  },
+  "faq": [
+    {
+      "question": "Are Brittanys good for first-time dog owners?",
+      "answer": "Yes, with proper training and exercise, they can be suitable for first-time owners."
+    },
+    {
+      "question": "Do Brittanys require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and need regular, vigorous exercise."
+    },
+    {
+      "question": "Are Brittanys hypoallergenic?",
+      "answer": "No, they are not considered hypoallergenic."
+    },
+    {
+      "question": "Can Brittanys live in apartments?",
+      "answer": "They can adapt to apartment living if provided with sufficient exercise."
+    },
+    {
+      "question": "Do Brittanys get along with other dogs?",
+      "answer": "Yes, with proper socialization, they generally get along well with other dogs."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли бретонские эпаньоли для владельцев без опыта?",
+      "ответ": "Да, при правильной дрессировке и физических нагрузках они могут быть подходящими для владельцев без опыта."
+    },
+    {
+      "вопрос": "Требуют ли бретонские эпаньоли много физических упражнений?",
+      "ответ": "Да, они обладают высоким уровнем энергии и нуждаются в регулярных, интенсивных физических нагрузках."
+    },
+    {
+      "вопрос": "Являются ли бретонские эпаньоли гипоаллергенными?",
+      "ответ": "Нет, они не считаются гипоаллергенными."
+    },
+    {
+      "вопрос": "Могут ли бретонские эпаньоли жить в квартирах?",
+      "ответ": "Они могут адаптироваться к жизни в квартире при условии достаточных физических нагрузок."
+    },
+    {
+      "вопрос": "Ладят ли бретонские эпаньоли с другими собаками?",
+      "ответ": "Да, при правильной социализации они обычно хорошо ладят с другими собаками."
+    }
+  ],
+  "sources": [
+    "https://www.purina.ru/find-a-pet/dog-breeds/bretonskiy-epanol",
+    "https://ru.wikipedia.org/wiki/Бретонский_эпаньоль",
+    "https://www.cacciapassione.com/ru/Epagneul-Breton/",
+    "https://rhm-magazine.ru/magazine/2012/08_2012/moya_okhotnichya_sobaka/"
+  ]
+}

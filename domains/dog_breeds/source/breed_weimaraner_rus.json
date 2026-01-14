@@ -1,0 +1,160 @@
+{
+  "id": "weimaraner",
+  "name": "Weimaraner",
+  "name_rus": "Веймаранер",
+  "full_description": "<p>The Weimaraner, often referred to as the \"Gray Ghost\" due to its distinctive silver-gray coat, is a versatile hunting dog originating from Germany. Developed in the early 19th century by the noblemen of the Court of Weimar, these dogs were initially bred for hunting large game such as deer, boar, and bear. As large game hunting declined, the breed adapted to hunting smaller game and birds, showcasing its versatility. Physically, Weimaraners are medium to large-sized dogs with a sleek, short coat that lies close to the body. Their coat colors range from mouse-gray to silver-gray, and they possess striking light amber, gray, or blue-gray eyes. Males typically stand between 25 to 27 inches at the shoulder and weigh between 70 to 90 pounds, while females are slightly smaller, standing 23 to 25 inches tall and weighing 55 to 70 pounds. The breed is known for its athletic build, deep chest, and long, high-set ears. Temperamentally, Weimaraners are intelligent, energetic, and affectionate. They form strong bonds with their families and are known for their loyalty. However, their high energy levels and intelligence require regular mental and physical stimulation to prevent boredom and potential behavioral issues. Originally bred as all-purpose gun dogs, Weimaraners excel in various hunting tasks, including tracking, pointing, and retrieving. Their keen sense of smell and strong prey drive make them adept hunters. In modern times, they have transitioned into roles as family companions, assistance dogs, and even police dogs, particularly in Europe and the UK. Notable characteristics of the breed include their need for consistent exercise, their tendency to be protective of their families, and their suitability for active owners who can meet their exercise and mental stimulation needs.</p>",
+  "full_description_rus": "<p>Веймаранер, известный также как \"серебряный призрак\" из-за своего характерного серебристо-серого окраса, — универсальная охотничья собака, происходящая из Германии. Разведённая в начале XIX века при дворе Веймара, эта порода изначально использовалась для охоты на крупную дичь, такую как олени, кабаны и медведи. С уменьшением популярности охоты на крупную дичь веймаранеры адаптировались к охоте на более мелкую дичь и птицу, демонстрируя свою универсальность. Физически веймаранеры — это собаки среднего и крупного размера с гладкой, короткой шерстью, плотно прилегающей к телу. Их окрас варьируется от мышино-серого до серебристо-серого, а глаза имеют светло-янтарный, серый или голубовато-серый оттенок. Кобели обычно достигают высоты в холке от 59 до 70 см и весят от 30 до 40 кг, суки немного меньше — от 57 до 65 см в высоту и весят от 25 до 35 кг. Порода известна своим атлетическим телосложением, глубокой грудью и длинными, высоко посаженными ушами. По характеру веймаранеры умны, энергичны и привязаны к своим владельцам. Они формируют крепкие связи с семьёй и известны своей преданностью. Однако их высокий уровень энергии и интеллект требуют регулярной умственной и физической стимуляции, чтобы предотвратить скуку и возможные поведенческие проблемы. Изначально выведенные как универсальные подружейные собаки, веймаранеры преуспевают в различных охотничьих задачах, включая выслеживание, указание и апортирование. Их острый нюх и сильный охотничий инстинкт делают их искусными охотниками. В современное время они также выполняют роли семейных компаньонов, собак-помощников и даже полицейских собак, особенно в Европе и Великобритании. Ключевые особенности породы включают необходимость в регулярных физических нагрузках, склонность к защите своей семьи и пригодность для активных владельцев, способных удовлетворить их потребности в упражнениях и умственной стимуляции.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "55-90 pounds",
+    "height": "23-27 inches",
+    "coat": "short, sleek, silver-gray",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "minimal; regular brushing",
+    "lifespan": "10-13 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "25-40 кг",
+    "рост": "57-70 см",
+    "шерсть": "короткая, гладкая, серебристо-серая",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "минимальный; регулярное расчёсывание",
+    "продолжительность жизни": "10-13 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "High energy levels",
+      "Strong prey drive",
+      "Intelligent and trainable",
+      "Loyal and protective",
+      "Requires regular exercise"
+    ],
+    "summary": "Weimaraners are energetic, intelligent, and affectionate dogs that form strong bonds with their families. They require regular mental and physical stimulation to prevent boredom and potential behavioral issues.",
+    "with_children": "Generally good with children, especially when raised together, but their high energy levels may be overwhelming for very young kids.",
+    "with_family": "They are loyal and protective, often forming close attachments to family members and thriving on companionship.",
+    "with_other_pets": "With proper socialization, they can coexist with other pets, though their strong prey drive may pose challenges with smaller animals.",
+    "with_strangers": "They can be reserved or cautious around strangers, making early socialization important to develop well-rounded behavior."
+  },
+  "behavior_rus": {
+    "особые черты": [
+      "Высокий уровень энергии",
+      "Сильный охотничий инстинкт",
+      "Умны и легко обучаемы",
+      "Преданы и защищают семью",
+      "Требуют регулярных физических нагрузок"
+    ],
+    "краткое описание поведения": "Веймаранеры — энергичные, умные и привязанные к своим владельцам собаки, которые формируют крепкие связи с семьёй. Им необходима регулярная умственная и физическая стимуляция, чтобы избежать скуки и возможных поведенческих проблем.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно если выросли вместе, но их высокий уровень энергии может быть чрезмерным для очень маленьких детей.",
+    "с семьёй": "Они преданы и защищают свою семью, часто формируя тесные связи с членами семьи и процветая в компании.",
+    "с другими животными": "При правильной социализации могут сосуществовать с другими животными, хотя их сильный охотничий инстинкт может создавать сложности с мелкими животными.",
+    "с незнакомцами": "Могут быть сдержанными или осторожными с незнакомцами, поэтому ранняя социализация важна для формирования уравновешенного поведения."
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Bloat (gastric torsion)",
+      "Entropion",
+      "Hypothyroidism",
+      "Mast cell tumors"
+    ],
+    "prevention_tips": [
+      "Provide regular exercise to maintain healthy weight",
+      "Feed smaller, frequent meals to reduce bloat risk",
+      "Regular eye examinations to detect entropion early",
+      "Routine veterinary check-ups for early detection of health issues",
+      "Maintain a balanced diet to support overall health"
+    ],
+    "summary": "Weimaraners are generally healthy but are prone to certain conditions such as hip dysplasia, bloat, and entropion. Regular veterinary care and preventive measures are essential.",
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health concerns"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Веймаранеры в целом здоровы, но склонны к определённым заболеваниям, таким как дисплазия тазобедренного сустава, заворот желудка и энтропион. Регулярный ветеринарный уход и профилактические меры необходимы.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Заворот желудка (гастродилатация-волвулюс)",
+      "Энтропион",
+      "Гипотиреоз",
+      "Мастоцитомы"
+    ],
+    "советы по профилактике": [
+      "Обеспечивайте регулярные физические нагрузки для поддержания здорового веса",
+      "Кормите небольшими, частыми порциями, чтобы снизить риск заворота желудка",
+      "Проводите регулярные осмотры глаз для раннего выявления энтропиона",
+      "Проводите плановые ветеринарные осмотры для раннего выявления проблем со здоровьем",
+      "Поддерживайте сбалансированное питание для общего здоровья"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "behavior": "Due to their intelligence and energy, they benefit from structured training and activities like agility or obedience to keep them engaged.",
+    "description": "Weimaraners require consistent exercise, mental stimulation, and companionship to thrive. They are best suited for active families or individuals who can meet their high energy needs.",
+    "grooming": "Their short coat requires minimal grooming; weekly brushing is sufficient to remove loose hair and maintain coat health.",
+    "health": "Regular veterinary visits and preventive care are crucial to monitor and maintain their health, especially concerning breed-specific issues.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential; consult a veterinarian for specific dietary recommendations."
+  },
+  "care_rus": {
+    "поведение и характер": "Благодаря своему уму и энергии, веймаранеры получают пользу от структурированной дрессировки и занятий, таких как аджилити или послушание, чтобы оставаться занятыми.",
+    "краткое описание ухода": "Веймаранерам необходимы регулярные физические нагрузки, умственная стимуляция и общение для полноценной жизни. Они лучше всего подходят для активных семей или людей, способных удовлетворить их высокие потребности в энергии.",
+    "груминг и уход": "Их короткая шерсть требует минимального ухода; еженедельное расчёсывание достаточно для удаления выпавших волос и поддержания здоровья шерсти.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход необходимы для мониторинга и поддержания их здоровья, особенно в отношении специфических для породы проблем.",
+    "питание и активность": "Сбалансированное питание, соответствующее их возрасту, размеру и уровню активности, необходимо; проконсультируйтесь с ветеринаром для получения конкретных рекомендаций по диете."
+  },
+  "faq": [
+    {
+      "question": "Are Weimaraners good family pets?",
+      "answer": "Yes, they are loyal and affectionate, making them excellent family companions for active households."
+    },
+    {
+      "question": "How much exercise does a Weimaraner need?",
+      "answer": "They require at least one to two hours of vigorous exercise daily to meet their high energy levels."
+    },
+    {
+      "question": "Do Weimaraners get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, though their prey drive may be a concern with smaller animals."
+    },
+    {
+      "question": "What are common health issues in Weimaraners?",
+      "answer": "They are prone to hip dysplasia, bloat, entropion, hypothyroidism, and mast cell tumors."
+    },
+    {
+      "question": "How long do Weimaraners typically live?",
+      "answer": "Their average lifespan is between 10 to 13 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли веймаранеры хорошими семейными питомцами?",
+      "ответ": "Да, они преданы и ласковы, что делает их отличными семейными компаньонами для активных домохозяйств."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется веймаранеру?",
+      "ответ": "Им необходимо не менее одного-двух часов интенсивных физических нагрузок ежедневно, чтобы удовлетворить их высокий уровень энергии."
+    },
+    {
+      "вопрос": "Ладят ли веймаранеры с другими животными?",
+      "ответ": "При правильной социализации они могут сосуществовать с другими животными, хотя их охотничий инстинкт может быть проблемой с мелкими животными."
+    },
+    {
+      "вопрос": "Какие распространённые проблемы со здоровьем у веймаранеров?",
+      "ответ": "Они склонны к дисплазии тазобедренного сустава, завороту желудка, энтропиону, гипотиреозу и мастоцитомам."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни веймаранера?",
+      "ответ": "Их средняя продолжительность жизни составляет от 10 до 13 лет."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Weimaraner",
+    "https://www.petmd.com/dog/breeds/weimaraner",
+    "https://www.purina.com/dogs/dog-breeds/weimaraner",
+    "https://www.westminsterkennelclub.org/breed/weimaraner/",
+    "https://www.petco.com/content/content-hub/home/breeds/dog-breeds/weimaraner.html",
+    "https://www.proplan.ru/dog/article/veymaraner",
+    "https://pets.mail.ru/dog-breeds/vejmaraner/",
+    "https://www.pedigree.ru/porody/veimaraner",
+    "https://ru.wikipedia.org/wiki/Веймаранер"
+  ]
+}

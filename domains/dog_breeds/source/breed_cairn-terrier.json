@@ -1,0 +1,83 @@
+{
+  "id": "cairn-terrier",
+  "name": "Cairn Terrier",
+  "full_description": "<p>The Cairn Terrier is a small, hardy breed originating from the Scottish Highlands and the Isle of Skye. Developed in the 17th century, these dogs were bred to control vermin populations threatening game on farms. Their name derives from 'cairns,' the stone piles common in the highlands, where they would flush out rodents. Physically, Cairn Terriers are compact and agile, standing approximately 28-31 cm (11-12 inches) tall and weighing between 6-7.5 kg (14-16 lbs). They possess a double coat: a harsh, weather-resistant outer layer and a soft undercoat, which can be cream, wheaten, red, grey, or nearly black, often with brindling. Their expressive eyes are dark hazel, set wide apart beneath shaggy eyebrows, and their small, pointed ears stand erect. Temperamentally, Cairns are fearless, assertive, and cheerful, embodying a 'gay disposition.' They are intelligent and curious, making them quick learners but sometimes stubborn. Originally, they excelled in hunting small prey, showcasing remarkable persistence and tenacity. Today, they are cherished as family companions, known for their affectionate nature and adaptability to various living environments. Notably, a Cairn Terrier named Toto gained fame in 'The Wizard of Oz,' highlighting the breed's enduring appeal.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "6-7.5 kg (14-16 lbs)",
+    "height": "28-31 cm (11-12 inches)",
+    "coat": "double-coated with a harsh, weather-resistant outer coat and a soft undercoat; colors include cream, wheaten, red, grey, or nearly black, often with brindling",
+    "activity": "moderate to high",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "requires regular brushing more than once a week",
+    "lifespan": "over 10 years"
+  },
+  "behavior": {
+    "summary": "Cairn Terriers are lively, intelligent, and assertive dogs with a fearless and cheerful disposition.",
+    "with_family": "Affectionate and loyal, they form strong bonds with family members and enjoy being involved in daily activities.",
+    "with_children": "Generally good with children, especially when socialized early, but supervision is recommended due to their energetic nature.",
+    "with_other_pets": "Can coexist with other pets if introduced properly, though their strong prey drive may lead to chasing smaller animals.",
+    "with_strangers": "Alert and wary of strangers, making them effective watchdogs without being overly aggressive.",
+    "special_traits": [
+      "Fearless and assertive",
+      "Highly intelligent and curious",
+      "Strong prey drive",
+      "Energetic and playful",
+      "Loyal and affectionate with family"
+    ]
+  },
+  "health": {
+    "summary": "Cairn Terriers are generally healthy with a lifespan over 10 years but may be prone to certain genetic conditions.",
+    "common_issues": [
+      "Globoid Cell Leukodystrophy (GLD)",
+      "Craniomandibular Osteopathy",
+      "Pyruvate Kinase Deficiency",
+      "Von Willebrand Disease Type I",
+      "Congenital Macrothrombocytopenia"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for known breed-specific conditions",
+      "Maintaining a healthy diet and weight",
+      "Providing regular exercise",
+      "Ensuring proper dental care"
+    ],
+    "vet_checkups": "At least once a year, with more frequent visits for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "Cairn Terriers require regular grooming, consistent training, and ample exercise to maintain their health and happiness.",
+    "behavior": "Early socialization and firm, consistent training are essential to manage their assertive nature and prevent undesirable behaviors.",
+    "health": "Regular health screenings and preventive care are crucial to detect and manage breed-specific health issues.",
+    "grooming": "Brush their double coat more than once a week to prevent matting and remove debris; occasional hand-stripping may be necessary.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Cairn Terriers good for first-time dog owners?",
+      "answer": "Yes, with proper training and socialization, they can be suitable for first-time owners."
+    },
+    {
+      "question": "Do Cairn Terriers shed a lot?",
+      "answer": "They shed minimally but require regular grooming to maintain their coat."
+    },
+    {
+      "question": "Are Cairn Terriers hypoallergenic?",
+      "answer": "No dog is completely hypoallergenic, but their low-shedding coat may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Cairn Terrier need?",
+      "answer": "They require up to 1 hour of exercise per day to stay healthy and happy."
+    },
+    {
+      "question": "Can Cairn Terriers live in apartments?",
+      "answer": "Yes, they adapt well to apartment living if they receive sufficient exercise and mental stimulation."
+    }
+  ],
+  "sources": [
+    "https://www.thekennelclub.org.uk/breed-standards/terrier/cairn-terrier/",
+    "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/cairn-terrier/",
+    "https://www.akc.org/expert-advice/lifestyle/fun-facts-cairn-terrier/",
+    "https://www.akc.org/breeder-programs/dna/dna-resource-center/akc-dna-health/breed-specific-dna-testing-recommendations/",
+    "https://cdn.akc.org/Marketplace/Health-Statement/Cairn-Terrier.pdf"
+  ]
+}

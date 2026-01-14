@@ -1,0 +1,159 @@
+{
+  "id": "alaskan-malamute",
+  "name": "Alaskan Malamute",
+  "name_rus": "Аляскинский маламут",
+  "full_description": "<p>The Alaskan Malamute is a powerful and enduring breed, originally developed by the Malimiut Inupiaq people of Alaska's Norton Sound region. These dogs were bred for their strength and stamina to haul heavy freight as sled dogs over long distances. Their lineage traces back over 4,500 years, making them one of the oldest Arctic sled dog breeds.</p>\n<p>Physically, Alaskan Malamutes are large, well-muscled dogs with a robust build. Males typically stand 25 inches tall and weigh around 85 pounds, while females are slightly smaller at 23 inches and 75 pounds. They possess a thick double coat, with a dense, woolly undercoat and a coarse outer guard coat, providing insulation against harsh Arctic conditions. Common coat colors include various shades of gray and white, sable and white, black and white, seal and white, red and white, or solid white. Their almond-shaped eyes are brown, conveying a friendly and intelligent expression.</p>\n<p>Alaskan Malamutes are known for their friendly and affectionate nature. They are loyal to their families and enjoy human companionship. While they are intelligent, they can also be independent and stubborn, which may present challenges during training. Early socialization and consistent, positive reinforcement training methods are essential to harness their intelligence and ensure well-mannered behavior.</p>\n<p>Historically, Malamutes were utilized for heavy freighting, pulling sleds loaded with supplies across vast Arctic terrains. Their strength and endurance made them invaluable to indigenous peoples and explorers alike. In modern times, while they are less commonly used for sledding, they participate in various canine sports such as weight pulling, backpacking, and recreational sledding. Their friendly disposition also makes them popular as family companions, though they require ample exercise and mental stimulation to remain content.</p>\n<p>Notable characteristics of the Alaskan Malamute include their remarkable strength, endurance, and resilience in cold climates. They have a strong prey drive and may chase smaller animals, so caution is advised when introducing them to other pets. Their thick coat requires regular grooming to manage shedding and maintain skin health. Additionally, they are known to be vocal, often expressing themselves through howls and 'talking' sounds, adding to their unique charm.</p>",
+  "full_description_rus": "<p>Аляскинский маламут — мощная и выносливая порода, изначально выведенная народом малемиутов, проживавшим в районе залива Нортон на Аляске. Эти собаки были предназначены для перевозки тяжелых грузов на большие расстояния в качестве ездовых собак. Их происхождение насчитывает более 4 500 лет, что делает их одной из древнейших арктических пород.</p>\n<p>Физически аляскинские маламуты — крупные, мускулистые собаки с крепким телосложением. Кобели обычно достигают 63 см в высоту и весят около 38 кг, суки немного меньше — 58 см и 34 кг соответственно. Они обладают густой двойной шерстью с плотным подшерстком и грубой внешней шерстью, обеспечивающей защиту от суровых арктических условий. Окрас может варьироваться от различных оттенков серого и белого до соболиного и белого, черно-белого, тюленьего и белого, красно-белого или чисто белого. Миндалевидные карие глаза придают им дружелюбное и умное выражение.</p>\n<p>Аляскинские маламуты известны своим дружелюбным и ласковым характером. Они преданы своей семье и любят человеческое общение. Несмотря на высокий интеллект, они могут быть независимыми и упрямыми, что может усложнять процесс дрессировки. Ранняя социализация и последовательные методы положительного подкрепления необходимы для развития их интеллекта и обеспечения хорошего поведения.</p>\n<p>Исторически маламуты использовались для перевозки тяжелых грузов, буксируя сани с припасами через обширные арктические территории. Их сила и выносливость делали их незаменимыми для коренных народов и исследователей. В современное время, хотя они реже используются для езды на санях, они участвуют в различных собачьих видах спорта, таких как перетягивание тяжестей, походы с рюкзаками и рекреационные катания на санях. Их дружелюбный нрав также делает их популярными семейными компаньонами, хотя они требуют значительных физических и умственных нагрузок для поддержания удовлетворенности.</p>\n<p>Отличительными чертами аляскинского маламута являются их выдающаяся сила, выносливость и устойчивость к холодному климату. Они обладают сильным охотничьим инстинктом и могут преследовать мелких животных, поэтому рекомендуется осторожность при знакомстве их с другими питомцами. Их густая шерсть требует регулярного ухода для управления линькой и поддержания здоровья кожи. Кроме того, они известны своей вокальностью, часто выражая себя через вой и «разговорные» звуки, что добавляет им уникального очарования.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "75-85 lbs (34-38 kg)",
+    "height": "23-25 inches (58-63 cm)",
+    "coat": "thick double coat with dense undercoat and coarse outer guard coat",
+    "activity": "high",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "regular brushing; more frequent during shedding seasons",
+    "lifespan": "10-14 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "34-38 кг",
+    "рост": "58-63 см",
+    "шерсть": "густая двойная шерсть с плотным подшерстком и грубой внешней шерстью",
+    "активность": "высокая",
+    "обучаемость": "средняя; умные, но могут быть упрямыми",
+    "уход": "регулярное расчесывание; более частое во время линьки",
+    "продолжительность жизни": "10-14 лет"
+  },
+  "behavior": {
+    "summary": "Alaskan Malamutes are friendly, loyal, and affectionate dogs with a strong work ethic and high energy levels.",
+    "with_family": "They form strong bonds with family members and thrive on companionship and attention.",
+    "with_children": "Generally good with children, especially when raised together, but supervision is recommended due to their size and strength.",
+    "with_other_pets": "May exhibit a strong prey drive; early socialization is crucial when introducing them to other pets.",
+    "with_strangers": "Typically friendly but can be reserved; proper socialization helps ensure well-mannered interactions.",
+    "special_traits": [
+      "high energy levels",
+      "strong prey drive",
+      "vocal tendencies",
+      "independent nature",
+      "affectionate with family"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Аляскинские маламуты — дружелюбные, преданные и ласковые собаки с сильной трудовой этикой и высоким уровнем энергии.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи и процветают в компании и внимании.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно если выросли вместе, но рекомендуется присмотр из-за их размера и силы.",
+    "с другими животными": "Могут проявлять сильный охотничий инстинкт; ранняя социализация важна при знакомстве с другими питомцами.",
+    "с незнакомцами": "Обычно дружелюбны, но могут быть сдержанными; правильная социализация помогает обеспечить хорошее поведение.",
+    "особые черты": [
+      "высокий уровень энергии",
+      "сильный охотничий инстинкт",
+      "склонность к вокализации",
+      "независимый характер",
+      "ласковость с семьёй"
+    ]
+  },
+  "health": {
+    "summary": "Alaskan Malamutes are generally healthy but are prone to certain genetic conditions that require attention and preventive care.",
+    "common_issues": [
+      "hip and elbow dysplasia",
+      "cataracts",
+      "hypothyroidism",
+      "chondrodysplasia",
+      "polyneuropathy"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "genetic testing for breeding dogs",
+      "maintaining a healthy weight",
+      "providing adequate exercise",
+      "monitoring for signs of common health issues"
+    ],
+    "vet_checkups": "annually, or more frequently as needed based on health status"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Аляскинские маламуты в целом здоровы, но склонны к определённым генетическим заболеваниям, требующим внимания и профилактики.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренных и локтевых суставов",
+      "катаракта",
+      "гипотиреоз",
+      "хондродисплазия",
+      "полинейропатия"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "генетическое тестирование для племенных собак",
+      "поддержание здорового веса",
+      "обеспечение достаточной физической нагрузки",
+      "мониторинг признаков распространённых заболеваний"
+    ],
+    "рекомендуемые осмотры": "ежегодно, или чаще при необходимости в зависимости от состояния здоровья"
+  },
+  "care": {
+    "description": "Alaskan Malamutes require dedicated care, including regular exercise, grooming, and health monitoring to ensure their well-being.",
+    "behavior": "Provide ample physical and mental stimulation to prevent boredom and destructive behaviors.",
+    "health": "Be vigilant for signs of common health issues and consult a veterinarian promptly if concerns arise.",
+    "grooming": "Brush their thick coat regularly, especially during shedding seasons, to manage hair and maintain skin health.",
+    "nutrition": "Feed a balanced diet appropriate for large, active breeds; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Аляскинские маламуты требуют тщательного ухода, включая регулярные физические нагрузки, груминг и мониторинг здоровья для обеспечения их благополучия.",
+    "поведение и характер": "Обеспечьте достаточную физическую и умственную стимуляцию, чтобы предотвратить скуку и разрушительное поведение.",
+    "здоровье и профилактика": "Будьте внимательны к признакам распространённых заболеваний и своевременно консультируйтесь с ветеринаром при возникновении проблем.",
+    "груминг и уход": "Регулярно расчесывайте их густую шерсть, особенно в периоды линьки, для управления выпадением волос и поддержания здоровья кожи.",
+    "питание и активность": "Кормите сбалансированным рационом, подходящим для крупных, активных пород; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Alaskan Malamutes good family pets?",
+      "answer": "Yes, they are loyal and affectionate with family members but require proper training and socialization."
+    },
+    {
+      "question": "Do Alaskan Malamutes get along with other pets?",
+      "answer": "They may have a strong prey drive; early socialization is important when introducing them to other animals."
+    },
+    {
+      "question": "How much exercise does an Alaskan Malamute need?",
+      "answer": "They require significant daily exercise to satisfy their high energy levels and prevent boredom."
+    },
+    {
+      "question": "What are common health issues in Alaskan Malamutes?",
+      "answer": "Common issues include hip dysplasia, cataracts, hypothyroidism, and polyneuropathy."
+    },
+    {
+      "question": "How often should I groom my Alaskan Malamute?",
+      "answer": "Regular brushing is needed, with increased frequency during shedding seasons to manage their thick coat."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли аляскинские маламуты хорошими семейными питомцами?",
+      "ответ": "Да, они преданы и ласковы с членами семьи, но требуют правильной дрессировки и социализации."
+    },
+    {
+      "вопрос": "Ладят ли аляскинские маламуты с другими животными?",
+      "ответ": "Они могут иметь сильный охотничий инстинкт; ранняя социализация важна при знакомстве с другими животными."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется аляскинскому маламуту?",
+      "ответ": "Им необходимы значительные ежедневные физические нагрузки для удовлетворения их высокого уровня энергии и предотвращения скуки."
+    },
+    {
+      "вопрос": "Какие распространённые проблемы со здоровьем встречаются у аляскинских маламутов?",
+      "ответ": "Распространённые проблемы включают дисплазию тазобедренных суставов, катаракту, гипотиреоз и полинейропатию."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за аляскинским маламутом?",
+      "ответ": "Необходимо регулярное расчесывание, с увеличением частоты в периоды линьки для управления их густой шерстью."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/alaskan-malamute",
+    "https://en.wikipedia.org/wiki/Alaskan_Malamute",
+    "https://www.petful.com/dog-breeds/alaskan-malamutes/",
+    "https://www.embracepetinsurance.com/dog-breeds/alaskan-malamute",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-alaskan-malamute",
+    "https://ru.wikipedia.org/wiki/Аляскинский_маламут",
+    "https://www.proplan.ru/dog/breeds/malamut",
+    "https://ria.ru/20210930/malamut-1752550971.html"
+  ]
+}

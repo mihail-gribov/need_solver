@@ -1,0 +1,84 @@
+{
+  "id": "rhodesian-ridgeback",
+  "name": "Rhodesian Ridgeback",
+  "full_description": "<p>The Rhodesian Ridgeback, also known as the African Lion Dog, is a distinguished breed originating from Southern Africa. Developed in the late 19th and early 20th centuries, this breed was created by crossing the indigenous ridged hunting dogs of the Khoikhoi people with European breeds such as Greyhounds, Mastiffs, and Bloodhounds. The primary goal was to produce a versatile hunting dog capable of tracking and baying large game, including lions, without engaging them directly. This unique lineage endowed the Rhodesian Ridgeback with exceptional endurance, agility, and a keen sense of smell. Physically, the Rhodesian Ridgeback is a large, muscular dog with a symmetrical and balanced build. Males typically stand between 25 to 27 inches (63 to 69 cm) at the shoulder, weighing around 85 pounds (36.5 kg), while females are slightly smaller, standing 24 to 26 inches (61 to 66 cm) tall and weighing approximately 70 pounds (32 kg). The breed's most distinctive feature is the ridge of hair along its back, growing in the opposite direction to the rest of the coat, which is short, dense, and sleek, ranging in color from light wheaten to red wheaten. Small white markings on the chest and toes are permissible, but excessive black hair throughout the coat is undesirable. Temperamentally, Rhodesian Ridgebacks are known for their loyalty, intelligence, and independence. They are typically reserved with strangers but are not aggressive without cause. Their strong-willed nature requires consistent training and early socialization, making them more suitable for experienced dog owners. Despite their hunting heritage, they are affectionate with family members and can be good with children when properly socialized. Originally bred for hunting large game, the Rhodesian Ridgeback's role has evolved over time. Today, they are valued as family companions, guard dogs, and participate in various canine sports such as obedience, tracking, and agility. Their versatility and adaptability have contributed to their popularity worldwide. Notable characteristics of the breed include their distinctive ridge, exceptional endurance, and a strong prey drive. They possess a dignified demeanor and are known for their ability to think independently, traits that served them well in their original hunting roles and continue to define the breed today.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: 85 pounds (36.5 kg); Females: 70 pounds (32 kg)",
+    "height": "Males: 25-27 inches (63-69 cm); Females: 24-26 inches (61-66 cm)",
+    "coat": "short, dense, sleek, and glossy",
+    "activity": "high",
+    "trainability": "moderate; requires consistent training and early socialization",
+    "grooming": "weekly brushing; occasional baths",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "Rhodesian Ridgebacks are loyal, intelligent, and independent dogs with a strong prey drive and reserved nature towards strangers.",
+    "with_family": "Affectionate and protective, they form strong bonds with family members and are known for their loyalty.",
+    "with_children": "Generally good with children when properly socialized, but their size and energy require supervision during interactions.",
+    "with_other_pets": "May coexist with other pets if raised together, but their strong prey drive can be a concern with smaller animals.",
+    "with_strangers": "Typically reserved and aloof with strangers, they are not aggressive without cause but are naturally protective.",
+    "special_traits": [
+      "Distinctive ridge along the back",
+      "Strong prey drive",
+      "Independent thinker",
+      "High endurance and agility",
+      "Loyal and protective nature"
+    ]
+  },
+  "health": {
+    "summary": "Rhodesian Ridgebacks are generally healthy but are predisposed to certain conditions requiring proactive care and regular veterinary checkups.",
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Dermoid sinus",
+      "Hypothyroidism",
+      "Bloat (gastric dilatation-volvulus)",
+      "Juvenile myoclonic epilepsy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary checkups",
+      "Screening for hereditary conditions",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Feeding a balanced diet"
+    ],
+    "vet_checkups": "Annual checkups recommended; more frequent visits if health issues arise"
+  },
+  "care": {
+    "description": "Rhodesian Ridgebacks require consistent training, regular exercise, and attentive health care to thrive as companions.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature and strong prey drive.",
+    "health": "Regular veterinary checkups and preventive care are crucial to monitor and address breed-specific health concerns.",
+    "grooming": "Minimal grooming needs; weekly brushing and occasional baths suffice to maintain their short coat.",
+    "nutrition": "A balanced diet appropriate for their size and activity level is essential; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Rhodesian Ridgebacks good family dogs?",
+      "answer": "Yes, with proper training and socialization, they are loyal and protective family companions."
+    },
+    {
+      "question": "Do Rhodesian Ridgebacks require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and need regular exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Rhodesian Ridgebacks easy to train?",
+      "answer": "They are intelligent but can be independent; consistent training and early socialization are important."
+    },
+    {
+      "question": "Do Rhodesian Ridgebacks get along with other pets?",
+      "answer": "They can coexist with other pets if raised together, but their strong prey drive may be a concern with smaller animals."
+    },
+    {
+      "question": "What is the lifespan of a Rhodesian Ridgeback?",
+      "answer": "They typically live between 10 to 12 years."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rhodesian_Ridgeback",
+    "https://www.petmd.com/dog/breeds/rhodesian-ridgeback",
+    "https://www.purina.com/dogs/dog-breeds/rhodesian-ridgeback",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-rhodesian-ridgebacks/",
+    "https://www.dogzone.com/breeds/rhodesian-ridgeback/",
+    "https://www.fci.be/nomenclature/Standards/146g06-en.pdf"
+  ]
+}

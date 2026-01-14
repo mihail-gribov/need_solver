@@ -1,0 +1,82 @@
+{
+  "id": "german-shepherd-dog",
+  "name": "German Shepherd Dog",
+  "full_description": "<p>The German Shepherd Dog (GSD), also known as the Alsatian in some regions, originated in Germany in the late 19th century. Developed by Captain Max von Stephanitz, the breed was intended to create the ideal herding dog, combining intelligence, strength, and obedience. The GSD quickly gained recognition for its versatility and has since been utilized in various roles beyond herding.</p>\n<p>Physically, German Shepherds are medium to large-sized dogs with a well-muscled, athletic build. Males typically stand between 60 to 65 cm (24 to 26 inches) at the withers, while females range from 55 to 60 cm (22 to 24 inches). Their weight varies from 30 to 40 kg (66 to 88 pounds) for males and 22 to 32 kg (49 to 71 pounds) for females. They possess a double coat consisting of a dense undercoat and a straight, harsh outer coat, which can be medium or long in length. Common coat colors include black and tan, sable, solid black, and bi-color.</p>\n<p>German Shepherds are renowned for their intelligence, loyalty, and courage. They are highly trainable and eager to work, making them suitable for a variety of tasks. Their temperament is generally confident and steady, though they can be reserved with strangers. Early socialization and consistent training are essential to develop a well-rounded companion.</p>\n<p>Originally bred for herding sheep, the GSD's working abilities have been recognized in numerous fields. They excel in roles such as police and military work, search and rescue operations, and as service dogs for individuals with disabilities. Their keen sense of smell and strong work ethic make them invaluable in these capacities.</p>\n<p>In modern times, the German Shepherd remains one of the most popular dog breeds worldwide. Their versatility and adaptability have ensured their continued presence in both working environments and as family companions. They are frequently featured in dog shows and have a notable presence in popular culture.</p>\n<p>Notable characteristics of the breed include their high energy levels, requiring regular physical and mental stimulation. They are known for their protective instincts, making them excellent guard dogs. However, their strong prey drive and territorial nature necessitate proper training and socialization to ensure they are well-behaved members of the household.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "Males: 30-40 kg; Females: 22-32 kg",
+    "height": "Males: 60-65 cm; Females: 55-60 cm",
+    "coat": "Double coat; medium or long; common colors include black and tan, sable, solid black, and bi-color",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; increased during shedding seasons",
+    "lifespan": "9-13 years"
+  },
+  "behavior": {
+    "summary": "German Shepherds are intelligent, loyal, and versatile dogs known for their strong work ethic and protective nature. They require consistent training and socialization to thrive as companions.",
+    "with_family": "They form strong bonds with family members and are known for their loyalty and protective instincts. They thrive in environments where they are included in daily activities.",
+    "with_children": "Generally good with children, especially when raised together. Supervision is recommended due to their size and energy levels.",
+    "with_other_pets": "Can coexist with other pets if properly socialized from a young age. Their prey drive may lead to chasing smaller animals.",
+    "with_strangers": "Often reserved or aloof with strangers. Early socialization helps in developing a more approachable demeanor.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Strong protective instincts",
+      "High energy and work drive",
+      "Loyal and devoted to family",
+      "Versatile in various working roles"
+    ]
+  },
+  "health": {
+    "summary": "German Shepherds are generally healthy but are predisposed to certain genetic and acquired health conditions. Regular veterinary care and a healthy lifestyle are essential for their well-being.",
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Degenerative myelopathy",
+      "Gastric dilatation-volvulus (bloat)",
+      "Skin conditions and allergies",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce joint stress",
+      "Provide regular exercise to promote joint health",
+      "Feed smaller, frequent meals to reduce bloat risk",
+      "Regular grooming to monitor skin and coat health",
+      "Routine ear cleaning to prevent infections"
+    ],
+    "vet_checkups": "Annual checkups; bi-annual for senior dogs or those with health issues"
+  },
+  "care": {
+    "description": "German Shepherds require dedicated care, including regular exercise, mental stimulation, grooming, and health monitoring to ensure a healthy and fulfilling life.",
+    "behavior": "Consistent training and early socialization are crucial to manage their protective instincts and high energy levels. Engage them in activities that challenge their intelligence.",
+    "health": "Regular veterinary visits are essential to monitor and manage breed-specific health concerns. Maintain a balanced diet and exercise regimen to support overall health.",
+    "grooming": "Brush their coat several times a week to manage shedding and prevent matting. Increase grooming frequency during seasonal shedding periods.",
+    "nutrition": "Provide a high-quality, age-appropriate diet. Avoid overfeeding to prevent obesity, and consider feeding smaller, frequent meals to reduce the risk of bloat."
+  },
+  "faq": [
+    {
+      "question": "Are German Shepherds good family pets?",
+      "answer": "Yes, with proper training and socialization, they are loyal and protective family companions."
+    },
+    {
+      "question": "How much exercise does a German Shepherd need?",
+      "answer": "They require at least 1-2 hours of physical activity daily, along with mental stimulation."
+    },
+    {
+      "question": "Do German Shepherds shed a lot?",
+      "answer": "Yes, they shed year-round, with increased shedding during seasonal changes."
+    },
+    {
+      "question": "Are German Shepherds easy to train?",
+      "answer": "Yes, they are highly intelligent and respond well to consistent, positive reinforcement training."
+    },
+    {
+      "question": "What is the average lifespan of a German Shepherd?",
+      "answer": "They typically live between 9 to 13 years."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/german-shepherd",
+    "https://www.purina.co.uk/articles/dogs/health/symptoms/german-shepherd-health-problems",
+    "https://www.petco.com/c/common-german-shepherd-health-issues",
+    "https://en.wikipedia.org/wiki/German_Shepherd"
+  ]
+}

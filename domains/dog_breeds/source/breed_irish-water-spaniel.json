@@ -1,0 +1,89 @@
+{
+  "id": "irish-water-spaniel",
+  "name": "Irish Water Spaniel",
+  "full_description": "<p>The Irish Water Spaniel, known as the tallest of the spaniel breeds, boasts a rich history and distinctive features. Developed in Ireland during the 1830s, the breed's exact lineage remains uncertain. However, it is believed to have evolved from native Irish water dogs, possibly influenced by breeds like the Poodle, Barbet, and Portuguese Water Dog. This combination resulted in a versatile hunting companion adept at retrieving waterfowl. Physically, the Irish Water Spaniel is medium to large, with males standing 22 to 24 inches tall and weighing between 55 to 65 pounds, while females are slightly smaller. Its dense, tight, and crisp ringlets of liver-colored fur, often with a purplish hue, provide water resistance. A notable feature is its 'rat tail'—smooth and hairless except at the base, which is covered with curls. The breed's expression is intelligent and alert, with small, almond-shaped eyes and long, low-set ears adorned with loose curls. Temperamentally, the Irish Water Spaniel is confident, cheerful, and affectionate with family members. Known for its endearing sense of humor, it often displays playful antics, earning the nickname 'clown' of the spaniels. While loyal and eager to please, early socialization is crucial, as some individuals may be wary of strangers or other animals. Originally bred for retrieving waterfowl, the breed's webbed feet and love for water make it an excellent swimmer. Today, the Irish Water Spaniel serves as both a diligent retriever in field trials and a beloved family pet. Despite its unique attributes, the breed remains relatively rare, highlighting the importance of responsible breeding to maintain its health and working capabilities. Notable characteristics include its hypoallergenic coat, minimal shedding, and distinctive 'rat tail,' setting it apart from other breeds.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "Males: 55–65 pounds (25–30 kg); Females: 45–58 pounds (20–26 kg)",
+    "height": "Males: 22–24 inches (56–61 cm); Females: 21–23 inches (53–58 cm)",
+    "coat": "Dense, tight, crisp ringlets; liver-colored with a purplish hue",
+    "activity": "High",
+    "trainability": "High",
+    "grooming": "Regular brushing and occasional trimming",
+    "lifespan": "12–13 years"
+  },
+  "behavior": {
+    "summary": "The Irish Water Spaniel is an intelligent, energetic, and affectionate breed known for its playful nature and loyalty to family members.",
+    "with_family": "Affectionate and loyal, often forming strong bonds with family members.",
+    "with_children": "Generally good with children, especially when socialized early.",
+    "with_other_pets": "May be reserved; early socialization is recommended.",
+    "with_strangers": "Can be wary; proper socialization helps in developing a friendly demeanor.",
+    "special_traits": [
+      "Playful and humorous",
+      "Intelligent and eager to please",
+      "Energetic with high exercise needs"
+    ]
+  },
+  "health": {
+    "summary": "Generally healthy with a lifespan of 12–13 years, but prone to certain conditions.",
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Hypothyroidism",
+      "Chronic ear infections",
+      "Seizures",
+      "Allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy diet and weight",
+      "Provide ample exercise",
+      "Regular ear cleaning",
+      "Early socialization and training"
+    ],
+    "vet_checkups": "Annually, or as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "The Irish Water Spaniel requires regular exercise, mental stimulation, and consistent grooming to maintain its health and happiness.",
+    "behavior": "Early socialization and training are essential to develop a well-mannered companion.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits.",
+    "grooming": "Regular brushing and occasional trimming are necessary to keep the coat in good condition.",
+    "nutrition": "Provide a balanced diet appropriate for the dog's age, size, and activity level."
+  },
+  "faq": [
+    {
+      "question": "Is the Irish Water Spaniel hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, the Irish Water Spaniel's minimal shedding may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does an Irish Water Spaniel need?",
+      "answer": "They require regular, vigorous exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Are Irish Water Spaniels good with children?",
+      "answer": "Yes, they are generally good with children, especially when socialized from a young age."
+    },
+    {
+      "question": "Do Irish Water Spaniels get along with other pets?",
+      "answer": "They may be reserved; early socialization is recommended to ensure positive interactions."
+    },
+    {
+      "question": "What is the lifespan of an Irish Water Spaniel?",
+      "answer": "They typically live between 12 to 13 years."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Irish_Water_Spaniel",
+    "https://www.westminsterkennelclub.org/breed/irish-water-spaniel/",
+    "https://www.thekennelclub.org.uk/breed-standards/gundog/spaniel-irish-water/",
+    "https://www.petmd.com/dog/breeds/irish-water-spaniel",
+    "https://iwsca.org/Health_Issues",
+    "https://www.purina.com/dogs/dog-breeds/irish-water-spaniel",
+    "https://www.wisdompanel.com/en-us/dog-breeds/irish-water-spaniel",
+    "https://www.akc.org/expert-advice/dog-breeds/irish-water-spaniel-history-behind-the-breed/",
+    "https://www.thepethealthclinic.com/client-resources/breed-info/irish-water-spaniel/",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-irish-water-spaniels",
+    "https://iwsca.org/Health_Overview",
+    "https://www.pets4homes.co.uk/pet-advice/irish-water-spaniel-health-issues.html",
+    "https://www.lancasterpuppies.com/dog-breeds/irish-water-spaniel/"
+  ]
+}

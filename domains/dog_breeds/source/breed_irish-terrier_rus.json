@@ -1,0 +1,150 @@
+{
+  "id": "irish-terrier",
+  "name": "Irish Terrier",
+  "name_rus": "Ирландский терьер",
+  "full_description": "<p>The Irish Terrier, one of the oldest terrier breeds, originated in Ireland and was officially recognized by the American Kennel Club in 1885. Initially bred as an all-purpose farm dog, they excelled in hunting vermin, guarding properties, and serving as loyal companions. During World War I, Irish Terriers demonstrated their bravery by acting as messengers in the trenches, showcasing their intelligence and courage.</p>\n<p>Physically, the Irish Terrier presents a racy, graceful outline, combining speed and endurance with power. They are medium-sized dogs, typically standing between 18 to 20 inches tall and weighing around 25 to 27 pounds. Their dense, wiry, and broken coat ranges in color from red to wheaten, providing protection against harsh weather conditions. The breed's head is long and narrow, with small, dark eyes that exude an intense expression, and small, V-shaped ears that fold forward.</p>\n<p>Temperamentally, Irish Terriers are fearless, fun-loving, and possess a mind of their own. They are extremely loyal and affectionate with their families, often forming strong bonds with their owners. While they are good-tempered and gentle pets, they can be tenacious and may not always get along with other dogs. Their high energy levels and intelligence require regular mental and physical stimulation to prevent boredom and potential mischief.</p>\n<p>Historically, Irish Terriers were versatile working dogs, adept at hunting foxes, otters, and other small mammals. Their keen senses and agility made them excellent hunters and reliable farm dogs. In modern times, they have transitioned into beloved family companions, known for their loyalty and spirited nature. Although their popularity has declined since the early 20th century, they remain cherished by enthusiasts who appreciate their unique characteristics.</p>\n<p>Notable for their adaptability, Irish Terriers can thrive in various environments, provided they receive adequate exercise and mental engagement. Their minimal grooming needs and robust health make them relatively low-maintenance compared to other breeds. However, their strong-willed nature necessitates consistent, positive reinforcement training from an early age to ensure they develop into well-mannered adults.</p>",
+  "full_description_rus": "<p>Ирландский терьер — одна из старейших пород терьеров, происходящая из Ирландии. Официально признана Американским клубом собаководства в 1885 году. Изначально выведенные как универсальные фермерские собаки, они отлично справлялись с охотой на вредителей, охраной имущества и служили верными компаньонами. Во время Первой мировой войны ирландские терьеры проявили свою храбрость, выступая в роли связных в окопах, демонстрируя свой интеллект и мужество.</p>\n<p>Физически ирландский терьер имеет стройный, грациозный силуэт, сочетающий скорость, выносливость и силу. Это собаки среднего размера, обычно достигающие в высоту 46–48 см и весящие около 11–12 кг. Их плотная, жесткая и ломаная шерсть варьируется по цвету от красного до пшеничного, обеспечивая защиту от суровых погодных условий. Голова длинная и узкая, с небольшими темными глазами, излучающими интенсивное выражение, и маленькими V-образными ушами, складывающимися вперед.</p>\n<p>По темпераменту ирландские терьеры бесстрашны, веселы и обладают независимым характером. Они чрезвычайно преданы и ласковы со своими семьями, часто формируя крепкие связи с владельцами. Хотя они добродушны и нежны, могут быть упрямыми и не всегда ладят с другими собаками. Их высокий уровень энергии и интеллект требуют регулярной умственной и физической стимуляции, чтобы предотвратить скуку и возможные шалости.</p>\n<p>Исторически ирландские терьеры были универсальными рабочими собаками, способными охотиться на лис, выдр и других мелких млекопитающих. Их острые чувства и ловкость делали их отличными охотниками и надежными фермерскими собаками. В современное время они превратились в любимых семейных компаньонов, известных своей преданностью и энергичным характером. Хотя их популярность снизилась с начала XX века, они остаются ценимыми энтузиастами, которые ценят их уникальные качества.</p>\n<p>Отличаясь адаптивностью, ирландские терьеры могут процветать в различных условиях, при условии, что они получают достаточную физическую нагрузку и умственную стимуляцию. Их минимальные потребности в уходе и крепкое здоровье делают их относительно неприхотливыми по сравнению с другими породами. Однако их сильный характер требует последовательной, положительной дрессировки с раннего возраста, чтобы они выросли воспитанными взрослыми собаками.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "25-27 pounds",
+    "height": "18-20 inches",
+    "coat": "dense, wiry, broken; red to wheaten color",
+    "activity": "high",
+    "trainability": "moderate; responds best to positive reinforcement",
+    "grooming": "regular brushing; occasional hand-stripping",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "11–12 кг",
+    "рост": "46–48 см",
+    "шерсть": "плотная, жесткая, ломаная; цвет от красного до пшеничного",
+    "активность": "высокая",
+    "обучаемость": "умеренная; лучше всего реагирует на положительное подкрепление",
+    "уход": "регулярное расчесывание; периодический тримминг",
+    "продолжительность жизни": "12–15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "fearless and courageous",
+      "high energy levels",
+      "strong-willed and independent",
+      "loyal and affectionate with family",
+      "requires consistent training and socialization"
+    ],
+    "summary": "Irish Terriers are fearless, energetic, and intelligent dogs, known for their loyalty and affectionate nature towards their families. They possess a strong-willed temperament and require consistent training and socialization.",
+    "with_children": "Generally good with children, especially when raised together. Supervision is recommended due to their energetic play style.",
+    "with_family": "They form strong bonds with family members, displaying deep loyalty and affection. Their playful and energetic nature makes them engaging companions.",
+    "with_other_pets": "May not get along well with other dogs or small animals due to their strong prey drive. Early socialization is crucial.",
+    "with_strangers": "Alert and protective, they can be wary of strangers. Proper socialization helps in developing a balanced approach."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Ирландские терьеры — бесстрашные, энергичные и умные собаки, известные своей преданностью и ласковым отношением к семье. Они обладают сильным характером и требуют последовательной дрессировки и социализации.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя глубокую преданность и любовь. Их игривый и энергичный характер делает их увлекательными компаньонами.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно если выросли вместе. Рекомендуется присмотр из-за их энергичного стиля игры.",
+    "с другими животными": "Могут не ладить с другими собаками или мелкими животными из-за сильного охотничьего инстинкта. Ранняя социализация имеет решающее значение.",
+    "с незнакомцами": "Бдительны и защитны, могут быть насторожены к незнакомцам. Правильная социализация помогает развить сбалансированное отношение.",
+    "особые черты": [
+      "бесстрашные и мужественные",
+      "высокий уровень энергии",
+      "сильный характер и независимость",
+      "преданны и ласковы с семьёй",
+      "требуют последовательной дрессировки и социализации"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "hip dysplasia",
+      "hypothyroidism",
+      "allergies",
+      "cataracts"
+    ],
+    "prevention_tips": [
+      "regular exercise to maintain healthy weight",
+      "balanced diet appropriate for age and activity level",
+      "routine grooming to monitor skin health",
+      "early socialization and training to prevent behavioral issues"
+    ],
+    "summary": "Irish Terriers are generally healthy dogs with a lifespan of 12 to 15 years. They are prone to certain genetic conditions and require regular veterinary care to maintain optimal health.",
+    "vet_checkups": "Annual veterinary checkups are recommended, with more frequent visits as the dog ages or if health concerns arise."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Ирландские терьеры обычно здоровы и живут от 12 до 15 лет. Однако они склонны к некоторым генетическим заболеваниям и требуют регулярного ветеринарного ухода для поддержания оптимального здоровья.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренного сустава",
+      "гипотиреоз",
+      "аллергии",
+      "катаракта"
+    ],
+    "советы по профилактике": [
+      "регулярные физические упражнения для поддержания здорового веса",
+      "сбалансированное питание, соответствующее возрасту и уровню активности",
+      "регулярный уход за шерстью для контроля состояния кожи",
+      "ранняя социализация и дрессировка для предотвращения поведенческих проблем"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные ветеринарные осмотры, с более частыми визитами по мере старения собаки или при возникновении проблем со здоровьем."
+  },
+  "care": {
+    "behavior": "Provide daily physical activities and mental stimulation to prevent boredom and destructive behaviors.",
+    "description": "Irish Terriers require regular exercise, consistent training, and routine grooming to maintain their physical and mental well-being.",
+    "grooming": "Brush their wiry coat weekly and perform occasional hand-stripping to maintain coat texture.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits for preventive care.",
+    "nutrition": "Feed a balanced diet suitable for their age, size, and activity level, and monitor their weight to prevent obesity."
+  },
+  "care_rus": {
+    "описание": "Ирландские терьеры требуют регулярных физических нагрузок, последовательной дрессировки и рутинного ухода для поддержания их физического и психического благополучия.",
+    "поведение и характер": "Обеспечивайте ежедневные физические упражнения и умственную стимуляцию, чтобы предотвратить скуку и разрушительное поведение.",
+    "здоровье и профилактика": "Следите за признаками распространённых проблем со здоровьем и регулярно посещайте ветеринара для профилактического ухода.",
+    "груминг и уход": "Расчесывайте их жесткую шерсть еженедельно и периодически проводите тримминг для поддержания текстуры шерсти.",
+    "питание и активность": "Кормите сбалансированным рационом, подходящим для их возраста, размера и уровня активности, и следите за их весом, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Irish Terriers good with children?",
+      "answer": "Yes, they are generally good with children, especially when raised together, but supervision is recommended due to their energetic nature."
+    },
+    {
+      "question": "Do Irish Terriers get along with other pets?",
+      "answer": "They may not get along well with other dogs or small animals due to their strong prey drive; early socialization is important."
+    },
+    {
+      "question": "How much exercise does an Irish Terrier need?",
+      "answer": "They require daily physical activities and mental stimulation to prevent boredom and maintain health."
+    },
+    {
+      "question": "What are common health issues in Irish Terriers?",
+      "answer": "Common issues include hip dysplasia, hypothyroidism, allergies, and cataracts."
+    },
+    {
+      "question": "How often should I groom my Irish Terrier?",
+      "answer": "Weekly brushing and occasional hand-stripping are recommended to maintain their coat."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Ладят ли ирландские терьеры с детьми?",
+      "ответ": "Да, они обычно хорошо ладят с детьми, особенно если выросли вместе, но рекомендуется присмотр из-за их энергичного характера."
+    },
+    {
+      "вопрос": "Ладят ли ирландские терьеры с другими животными?",
+      "ответ": "Они могут не ладить с другими собаками или мелкими животными из-за сильного охотничьего инстинкта; важна ранняя социализация."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется ирландскому терьеру?",
+      "ответ": "Им необходимы ежедневные физические нагрузки и умственная стимуляция, чтобы предотвратить скуку и поддерживать здоровье."
+    },
+    {
+      "вопрос": "Какие распространённые проблемы со здоровьем у ирландских терьеров?",
+      "ответ": "К распространённым проблемам относятся дисплазия тазобедренного сустава, гипотиреоз, аллергии и катаракта."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за ирландским терьером?",
+      "ответ": "Рекомендуется еженедельное расчесывание и периодический тримминг для поддержания состояния шерсти."
+    }
+  ],
+  "sources": [
+    "https://www.pedigree.ru/porody/irlandskij-terier",
+    "https://royalcanin.ru/dog-breed/irish-terrier",
+    "https://www.purina.ru/find-a-pet/dog-breeds/irlandskiy-terer"
+  ]
+}

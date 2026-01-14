@@ -1,0 +1,84 @@
+{
+  "need_id": "not_overprotective",
+  "formula": "~protectiveness & ~territoriality",
+  "formula_reasoning": "A breed that is not overprotective should have low levels of protectiveness (~protectiveness) and low territorial behavior (~territoriality), as both traits are key contributors to excessive guarding or possessiveness.",
+  "questions": [
+    {
+      "id": "not_overprotective_q1",
+      "text": "В вашей семье часто бывают гости или незнакомые люди?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = нужна собака, которая спокойно реагирует на гостей (не склонна к охране). Нет = гостей нет, можно рассмотреть более охранные породы."
+    },
+    {
+      "id": "not_overprotective_q2",
+      "text": "Планируете ли вы брать собаку с собой в общественные места, где будет много людей?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = важна дружелюбность к незнакомцам (неохранная). Нет = менее важно."
+    },
+    {
+      "id": "not_overprotective_q3",
+      "text": "У вас есть соседи, которые могут часто проходить мимо вашей двери или двора?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = собака не должна остро реагировать на чужих у границ (не склонна к территориальности). Нет = соседей нет, фактор менее критичен."
+    },
+    {
+      "id": "not_overprotective_q4",
+      "text": "Вам важно, чтобы собака легко контактировала с новыми людьми без настороженности?",
+      "weight": 0.85,
+      "style": "direct",
+      "verification": "Да = нужна собака без выраженного охранного инстинкта. Нет = допускается настороженность."
+    },
+    {
+      "id": "not_overprotective_q5",
+      "text": "Будет ли собака проводить время с разными членами семьи или друзьями, пока вас нет дома?",
+      "weight": 0.75,
+      "style": "situational",
+      "verification": "Да = важно, чтобы собака не проявляла излишней защищённости или агрессии к новым людям. Нет = контакт только с хозяином, можно рассматривать другие типы."
+    }
+  ],
+  "need_name": "Not Overprotective",
+  "need_description": "Not prone to excessive guarding",
+  "block": "family_social",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

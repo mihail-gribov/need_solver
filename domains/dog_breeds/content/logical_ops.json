@@ -1,0 +1,92 @@
+{
+  "description": "Logical operations for fuzzy evaluation (Goedel fuzzy logic)",
+  "note": "Used to express user needs through object features",
+  "operations": {
+    "NOT": {
+      "description": "Negation - the higher the value, the worse",
+      "formula": "NOT(x) = 1 - x",
+      "examples": [
+        {"input": 0.2, "output": 0.8},
+        {"input": 0.7, "output": 0.3},
+        {"input": 1.0, "output": 0.0}
+      ]
+    },
+    "AND": {
+      "description": "Conjunction - satisfies only if all conditions are met",
+      "formula": "AND(x1, x2, ..., xn) = min(x1, x2, ..., xn)",
+      "examples": [
+        {"inputs": [0.8, 0.6], "output": 0.6},
+        {"inputs": [0.9, 0.9, 0.3], "output": 0.3},
+        {"inputs": [1.0, 0.0], "output": 0.0}
+      ]
+    },
+    "OR": {
+      "description": "Disjunction - satisfies if at least one condition is met",
+      "formula": "OR(x1, x2, ..., xn) = max(x1, x2, ..., xn)",
+      "examples": [
+        {"inputs": [0.2, 0.7], "output": 0.7},
+        {"inputs": [0.0, 0.0], "output": 0.0},
+        {"inputs": [0.4, 0.4], "output": 0.4}
+      ]
+    },
+    "VAR": {
+      "description": "Direct variable reference - identity function",
+      "formula": "VAR(x) = x",
+      "examples": [
+        {"input": 0.5, "output": 0.5},
+        {"input": 1.0, "output": 1.0}
+      ]
+    }
+  },
+  "formula_types": {
+    "VAR": {
+      "description": "Direct reference to object feature",
+      "schema": {
+        "type": "VAR",
+        "operand": "feature_id"
+      }
+    },
+    "NOT": {
+      "description": "Negation of a single feature",
+      "schema": {
+        "type": "NOT",
+        "operand": "feature_id"
+      }
+    },
+    "AND": {
+      "description": "Conjunction of multiple operands",
+      "schema": {
+        "type": "AND",
+        "operands": ["formula | feature_id", "..."]
+      }
+    },
+    "OR": {
+      "description": "Disjunction of multiple operands",
+      "schema": {
+        "type": "OR",
+        "operands": ["formula | feature_id", "..."]
+      }
+    }
+  },
+  "semantics": {
+    "logic_type": "Goedel fuzzy logic",
+    "properties": [
+      "Simple and interpretable",
+      "Preserves strict logical meaning",
+      "Compatible with (t, f) user preference model"
+    ],
+    "intuition": {
+      "OR": "Suitable if at least one variant fits",
+      "AND": "Suitable only if everything fits",
+      "NOT": "The higher the value, the worse"
+    }
+  },
+  "user_vector_model": {
+    "description": "Each user axis is represented as (t, f) vector",
+    "states": {
+      "activated": "Answer sets non-zero t or f",
+      "unknown": "(0, 0) - axis not yet determined",
+      "conflict": "t ≈ f - contradictory preferences"
+    }
+  }
+}

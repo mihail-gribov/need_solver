@@ -1,0 +1,156 @@
+{
+  "id": "vizsla",
+  "name": "Vizsla",
+  "name_rus": "Венгерская выжла",
+  "full_description": "<p>The Vizsla, also known as the Hungarian Vizsla or Magyar Vizsla, is a distinguished sporting dog breed originating from Hungary. Its lineage traces back over a thousand years to the Magyar tribes who valued these dogs for their exceptional hunting abilities. Historically, Vizslas were bred to be versatile hunters, adept at pointing and retrieving game both on land and in water. Their prominence grew in the 18th century, and despite facing near extinction during World War II, dedicated breeding efforts revived the breed, leading to its global recognition today. Physically, the Vizsla is a medium-sized dog characterized by a lean, muscular build that exudes elegance and agility. Males typically stand between 22 to 24 inches (56-61 cm) at the shoulder, while females range from 21 to 23 inches (53-58 cm). Their weight varies from 44 to 60 pounds (20-27 kg). The breed's short, dense coat is a striking golden rust color, providing excellent camouflage in the field. Their eyes and nose harmoniously blend with the coat, enhancing their noble appearance. Temperamentally, Vizslas are affectionate, intelligent, and energetic. They form strong bonds with their families and thrive on human companionship, often displaying a desire to be close to their owners. This breed is known for its gentle demeanor, making it suitable for families with children. However, their high energy levels necessitate regular physical and mental stimulation to prevent boredom and associated behavioral issues. Originally bred for hunting, Vizslas possess an innate ability to point and retrieve game, showcasing their versatility in the field. Their keen sense of smell and natural instincts make them excellent companions for hunters. In contemporary settings, they excel in various canine sports, including agility, obedience, and field trials, reflecting their adaptability and eagerness to please. Today, the Vizsla enjoys popularity not only as a hunting companion but also as a beloved family pet. Their friendly nature and manageable size make them well-suited for active households. Notable characteristics of the breed include their minimal grooming needs due to their short coat, their propensity to form deep emotional connections with their owners, and their remarkable versatility in both work and play.</p>",
+  "full_description_rus": "<p>Венгерская выжла, также известная как мадьярская выжла или венгерская легавая, — это выдающаяся охотничья порода собак, происходящая из Венгрии. Ее история насчитывает более тысячи лет и восходит к племенам мадьяр, которые ценили этих собак за их исключительные охотничьи способности. Исторически выжлы были выведены как универсальные охотники, способные указывать и приносить дичь как на суше, так и на воде. Их популярность возросла в XVIII веке, и, несмотря на угрозу исчезновения во время Второй мировой войны, благодаря преданным усилиям по разведению порода была восстановлена и получила мировое признание. Физически выжла — это собака среднего размера с сухим и легким телосложением, излучающая элегантность и ловкость. Кобели обычно достигают высоты в холке от 58 до 64 см, суки — от 54 до 60 см. Вес кобелей составляет 25–27 кг, сук — 20–25 кг. Короткая, плотная шерсть золотисто-рыжего цвета обеспечивает отличную маскировку в поле. Глаза и нос гармонично сочетаются с окрасом шерсти, подчеркивая благородный вид собаки. По темпераменту выжлы ласковы, умны и энергичны. Они формируют крепкие связи со своими семьями и процветают в обществе людей, часто стремясь быть рядом с хозяевами. Эта порода известна своим мягким нравом, что делает ее подходящей для семей с детьми. Однако высокий уровень энергии требует регулярной физической и умственной стимуляции, чтобы предотвратить скуку и связанные с ней поведенческие проблемы. Первоначально выведенные для охоты, выжлы обладают врожденной способностью указывать и приносить дичь, демонстрируя свою универсальность в поле. Их острое обоняние и природные инстинкты делают их отличными спутниками для охотников. В современных условиях они преуспевают в различных собачьих видах спорта, включая аджилити, послушание и полевые испытания, отражая их адаптивность и стремление угодить. Сегодня выжла пользуется популярностью не только как охотничий компаньон, но и как любимый семейный питомец. Их дружелюбный характер и управляемый размер делают их хорошо подходящими для активных домохозяйств. Примечательные характеристики породы включают минимальные потребности в уходе благодаря короткой шерсти, склонность к глубоким эмоциональным связям с владельцами и замечательную универсальность как в работе, так и в игре.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "44-60 pounds (20-27 kg)",
+    "height": "21-24 inches (53-61 cm)",
+    "coat": "short, dense, golden rust color",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "minimal; occasional brushing",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "20–27 кг",
+    "рост": "54–64 см",
+    "шерсть": "короткая, плотная, золотисто-рыжего цвета",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "минимальный; периодическое расчесывание",
+    "продолжительность жизни": "12–14 лет"
+  },
+  "behavior": {
+    "summary": "Vizslas are affectionate, energetic, and intelligent dogs that form strong bonds with their families. They require regular physical and mental stimulation to stay happy and well-behaved.",
+    "with_family": "Vizslas are deeply loyal and thrive on close companionship with their family members, often seeking constant interaction and affection.",
+    "with_children": "They are gentle and patient with children, making them excellent family pets when properly socialized.",
+    "with_other_pets": "Generally friendly with other dogs and pets, especially when raised together, though early socialization is beneficial.",
+    "with_strangers": "Vizslas are typically friendly towards strangers but may exhibit a protective instinct, making them good watchdogs without being aggressive.",
+    "special_traits": [
+      "Highly energetic and requires ample exercise",
+      "Forms strong emotional bonds with owners",
+      "Intelligent and eager to please, facilitating training",
+      "Versatile in various canine sports and activities",
+      "Minimal grooming needs due to short coat"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Выжлы ласковы, энергичны и умны, формируют крепкие связи со своими семьями. Им необходима регулярная физическая и умственная стимуляция для поддержания счастья и хорошего поведения.",
+    "с семьёй": "Выжлы глубоко преданы и процветают в тесном общении с членами семьи, часто стремясь к постоянному взаимодействию и вниманию.",
+    "с детьми": "Они нежны и терпеливы с детьми, что делает их отличными семейными питомцами при правильной социализации.",
+    "с другими животными": "Обычно дружелюбны с другими собаками и животными, особенно если выросли вместе, хотя ранняя социализация полезна.",
+    "с незнакомцами": "Выжлы обычно дружелюбны к незнакомцам, но могут проявлять защитный инстинкт, что делает их хорошими сторожевыми собаками без агрессии.",
+    "особые черты": [
+      "Высокоэнергичны и требуют значительных физических нагрузок",
+      "Формируют сильные эмоциональные связи с владельцами",
+      "Умны и стремятся угодить, что облегчает обучение",
+      "Универсальны в различных собачьих видах спорта и активностях",
+      "Минимальные потребности в уходе благодаря короткой шерсти"
+    ]
+  },
+  "health": {
+    "summary": "Vizslas are generally healthy dogs with a lifespan of 12-14 years. However, they can be prone to certain hereditary conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Epilepsy",
+      "Cancer (e.g., mast cell tumors, hemangiosarcoma)",
+      "Sebaceous adenitis",
+      "Hypothyroidism"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a balanced diet and healthy weight",
+      "Provide adequate exercise to support joint health",
+      "Early detection through routine health screenings",
+      "Responsible breeding practices to reduce hereditary risks"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Выжлы обычно здоровы и живут 12–14 лет. Однако они могут быть склонны к определенным наследственным заболеваниям.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Эпилепсия",
+      "Рак (например, мастоцитомы, гемангиосаркома)",
+      "Себацейный аденит",
+      "Гипотиреоз"
+    ],
+    "советы по профилактике": [
+      "Регулярные визиты к ветеринару",
+      "Поддержание сбалансированного рациона и здорового веса",
+      "Обеспечение достаточной физической активности для поддержки здоровья суставов",
+      "Раннее выявление проблем через регулярные медицинские осмотры",
+      "Ответственное разведение для снижения наследственных рисков"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты для пожилых собак или имеющих проблемы со здоровьем."
+  },
+  "care": {
+    "description": "Vizslas require attentive care, including regular exercise, mental stimulation, and routine health maintenance to ensure their well-being.",
+    "behavior": "Due to their high energy levels, Vizslas need daily physical activities such as running, fetching, or agility training to prevent boredom and destructive behaviors.",
+    "health": "Regular veterinary visits and preventive care are essential to monitor and maintain their overall health, addressing any issues promptly.",
+    "grooming": "Their short coat requires minimal grooming; weekly brushing and occasional baths are sufficient to keep them clean and healthy.",
+    "nutrition": "A balanced diet tailored to their age, size, and activity level is crucial; consult with a veterinarian for specific dietary recommendations."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Выжлы требуют внимательного ухода, включая регулярные физические нагрузки, умственную стимуляцию и плановое медицинское обслуживание для обеспечения их благополучия.",
+    "поведение и характер": "Из-за высокого уровня энергии выжлам необходимы ежедневные физические активности, такие как бег, апортировка или тренировки по аджилити, чтобы предотвратить скуку и разрушительное поведение.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход необходимы для мониторинга и поддержания общего здоровья, своевременного решения возникающих проблем.",
+    "груминг и уход": "Их короткая шерсть требует минимального ухода; еженедельное расчесывание и периодические купания достаточны для поддержания чистоты и здоровья.",
+    "питание и активность": "Сбалансированный рацион, соответствующий возрасту, размеру и уровню активности, имеет решающее значение; проконсультируйтесь с ветеринаром для получения конкретных рекомендаций по питанию."
+  },
+  "faq": [
+    {
+      "question": "Are Vizslas good for first-time dog owners?",
+      "answer": "Vizslas can be suitable for first-time owners who lead active lifestyles and are committed to providing regular exercise and training."
+    },
+    {
+      "question": "Do Vizslas get along with other pets?",
+      "answer": "Yes, with proper socialization, Vizslas can coexist well with other pets, including dogs and cats."
+    },
+    {
+      "question": "How much exercise does a Vizsla need?",
+      "answer": "Vizslas require at least an hour of vigorous exercise daily to meet their high energy needs."
+    },
+    {
+      "question": "Are Vizslas prone to separation anxiety?",
+      "answer": "Yes, they form strong bonds with their owners and may experience separation anxiety if left alone for extended periods."
+    },
+    {
+      "question": "What is the grooming routine for a Vizsla?",
+      "answer": "Their short coat requires minimal grooming; weekly brushing and occasional baths are sufficient."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли выжлы для владельцев без опыта?",
+      "ответ": "Выжлы могут быть подходящими для владельцев без опыта, ведущих активный образ жизни и готовых обеспечивать регулярные физические нагрузки и обучение."
+    },
+    {
+      "вопрос": "Ладят ли выжлы с другими животными?",
+      "ответ": "Да, при правильной социализации выжлы могут хорошо уживаться с другими животными, включая собак и кошек."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется выжле ежедневно?",
+      "ответ": "Выжлам необходимо не менее часа интенсивных физических нагрузок ежедневно для удовлетворения их высоких энергетических потребностей."
+    },
+    {
+      "вопрос": "Склонны ли выжлы к тревоге при разлуке?",
+      "ответ": "Да, они формируют крепкие связи с владельцами и могут испытывать тревогу при длительном одиночестве."
+    },
+    {
+      "вопрос": "Каков уход за шерстью выжлы?",
+      "ответ": "Их короткая шерсть требует минимального ухода; еженедельное расчесывание и периодические купания достаточны."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/Vizsla",
+    "https://en.wikipedia.org/wiki/Vizsla",
+    "https://www.purina.com/dogs/dog-breeds/vizsla",
+    "https://www.petmd.com/dog/breeds/vizsla",
+    "https://www.dogbreedencyclopedia.com/breed/vizsla"
+  ]
+}

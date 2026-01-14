@@ -1,0 +1,161 @@
+{
+  "id": "silky-terrier",
+  "name": "Silky Terrier",
+  "name_rus": "Австралийский шелковистый терьер",
+  "full_description": "<p>The Silky Terrier, also known as the Australian Silky Terrier, is a small, energetic breed that embodies the true spirit of a terrier. Originating in Australia during the late 19th century, this breed was developed by crossing imported Yorkshire Terriers with native Australian Terriers to enhance coat color and texture. The result was a refined, silky-coated dog adept at hunting vermin.</p>\n<p>Physically, the Silky Terrier stands between 9 to 10 inches tall and weighs approximately 10 pounds. They possess a moderately low-set, slightly longer-than-tall body structure with refined bone. Their most distinctive feature is their fine, smooth, and silky coat, which comes in various color combinations, including black and tan, blue and tan, and silver and tan.</p>\n<p>Temperamentally, Silky Terriers are friendly, lively, and inquisitive. They exhibit a true terrier temperament with a zest for life, making them exceptional companions. Despite their small size, they are courageous and alert, often displaying a protective nature towards their families.</p>\n<p>Originally bred to hunt vermin, Silky Terriers are quick and alert, traits that made them effective in controlling rodent populations. Today, they have transitioned into beloved companion animals, especially suited for urban living due to their compact size and adaptable nature. Their playful and inquisitive demeanor endears them to families and individuals alike.</p>\n<p>Notable characteristics of the Silky Terrier include their low-shedding coat, which requires regular grooming to maintain its silky texture and prevent matting. They are also known for their intelligence and trainability, though they can exhibit a stubborn streak typical of terriers. Their alertness and tendency to bark make them effective watchdogs, despite their small stature.</p>",
+  "full_description_rus": "<p>Австралийский шелковистый терьер, также известный как силки-терьер, — это небольшая, энергичная порода, воплощающая истинный дух терьера. Порода была выведена в Австралии в конце XIX века путем скрещивания завезенных йоркширских терьеров с местными австралийскими терьерами для улучшения окраса и текстуры шерсти. Результатом стала изящная собака с шелковистой шерстью, способная охотиться на вредителей.</p>\n<p>Физически австралийский шелковистый терьер достигает роста от 23 до 26 см и весит около 4,5–5 кг. У них умеренно низко посаженное тело, немного длиннее, чем высота в холке, с изящным костяком. Самая отличительная черта — тонкая, гладкая и шелковистая шерсть, которая бывает различных цветовых комбинаций, включая голубой с подпалом, песочный, рыжий и серо-голубой с подпалом.</p>\n<p>По характеру австралийские шелковистые терьеры дружелюбны, живы и любознательны. Они демонстрируют истинный терьерский темперамент с жаждой жизни, что делает их отличными компаньонами. Несмотря на небольшой размер, они смелы и бдительны, часто проявляя защитные качества по отношению к своим семьям.</p>\n<p>Изначально выведенные для охоты на вредителей, австралийские шелковистые терьеры быстры и внимательны, что делало их эффективными в контроле популяции грызунов. Сегодня они превратились в любимых домашних животных, особенно подходящих для городской жизни благодаря своему компактному размеру и адаптивному характеру. Их игривый и любознательный нрав привлекает как семьи, так и одиноких людей.</p>\n<p>Заметные характеристики австралийского шелковистого терьера включают их низколиняющую шерсть, требующую регулярного ухода для поддержания шелковистой текстуры и предотвращения спутывания. Они также известны своим умом и обучаемостью, хотя могут проявлять упрямство, типичное для терьеров. Их бдительность и склонность к лаю делают их эффективными сторожевыми собаками, несмотря на небольшой рост.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "10 pounds",
+    "height": "9 to 10 inches",
+    "coat": "fine, smooth, and silky; various color combinations including black and tan, blue and tan, and silver and tan",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing and bathing to maintain coat quality",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "4,5–5 кг",
+    "рост": "23–26 см",
+    "шерсть": "тонкая, гладкая и шелковистая; различные цветовые комбинации, включая голубой с подпалом, песочный, рыжий и серо-голубой с подпалом",
+    "активность": "умеренная",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчесывание и купание для поддержания качества шерсти",
+    "продолжительность жизни": "12–15 лет"
+  },
+  "behavior": {
+    "summary": "Silky Terriers are friendly, lively, and inquisitive, embodying a true terrier temperament with a zest for life.",
+    "with_family": "They are affectionate and loyal, forming strong bonds with their family members.",
+    "with_children": "Generally good with children, especially when socialized early, but supervision is recommended due to their small size.",
+    "with_other_pets": "Can coexist with other pets if introduced properly, though their strong prey drive may lead them to chase smaller animals.",
+    "with_strangers": "Alert and vigilant, they may be reserved around strangers but are not typically aggressive.",
+    "special_traits": [
+      "alert and vigilant",
+      "strong prey drive",
+      "affectionate and loyal",
+      "intelligent and trainable",
+      "playful and inquisitive"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Австралийские шелковистые терьеры дружелюбны, живы и любознательны, воплощая истинный терьерский темперамент с жаждой жизни.",
+    "с семьёй": "Они привязаны и преданы, формируя крепкие связи с членами семьи.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации, но из-за их небольшого размера рекомендуется присмотр.",
+    "с другими животными": "Могут сосуществовать с другими животными при правильном знакомстве, хотя их сильный охотничий инстинкт может побуждать их преследовать мелких животных.",
+    "с незнакомцами": "Бдительны и насторожены, могут быть сдержанными с незнакомцами, но обычно не агрессивны.",
+    "особые черты": [
+      "бдительность и настороженность",
+      "сильный охотничий инстинкт",
+      "привязанность и преданность",
+      "ум и обучаемость",
+      "игривость и любознательность"
+    ]
+  },
+  "health": {
+    "summary": "Silky Terriers are generally healthy but can be prone to certain hereditary conditions.",
+    "common_issues": [
+      "cataracts",
+      "progressive retinal atrophy",
+      "dental disease",
+      "patellar luxation",
+      "Legg-Calve-Perthes disease",
+      "liver shunt"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "consistent dental care",
+      "maintaining a healthy weight",
+      "providing regular exercise",
+      "monitoring for signs of hereditary conditions"
+    ],
+    "vet_checkups": "every six to twelve months"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Австралийские шелковистые терьеры обычно здоровы, но могут быть склонны к некоторым наследственным заболеваниям.",
+    "распространённые проблемы": [
+      "катаракта",
+      "прогрессирующая атрофия сетчатки",
+      "заболевания зубов",
+      "вывих надколенника",
+      "болезнь Легга-Кальве-Пертеса",
+      "портосистемный шунт"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "постоянный уход за зубами",
+      "поддержание здорового веса",
+      "обеспечение регулярных физических нагрузок",
+      "мониторинг признаков наследственных заболеваний"
+    ],
+    "рекомендуемые осмотры": "каждые шесть-двенадцать месяцев"
+  },
+  "care": {
+    "description": "Silky Terriers require regular grooming, consistent training, and attentive health care to thrive as companions.",
+    "behavior": "Early socialization and positive reinforcement training are essential to manage their energetic and inquisitive nature.",
+    "health": "Regular veterinary visits and preventive care are crucial to monitor and address potential hereditary health issues.",
+    "grooming": "Their fine, silky coat necessitates regular brushing and occasional professional grooming to prevent matting.",
+    "nutrition": "A balanced diet appropriate for their size and activity level helps maintain optimal health and weight."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Австралийские шелковистые терьеры требуют регулярного ухода за шерстью, последовательной дрессировки и внимательного отношения к здоровью для полноценной жизни в качестве компаньонов.",
+    "поведение и характер": "Ранняя социализация и обучение с положительным подкреплением необходимы для управления их энергичным и любознательным характером.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход важны для мониторинга и предотвращения потенциальных наследственных заболеваний.",
+    "груминг и уход": "Их тонкая, шелковистая шерсть требует регулярного расчесывания и периодического профессионального груминга для предотвращения спутывания.",
+    "питание и активность": "Сбалансированная диета, соответствующая их размеру и уровню активности, помогает поддерживать оптимальное здоровье и вес."
+  },
+  "faq": [
+    {
+      "question": "Are Silky Terriers good for apartment living?",
+      "answer": "Yes, their small size and moderate energy levels make them well-suited for apartment living, provided they receive regular exercise."
+    },
+    {
+      "question": "Do Silky Terriers shed a lot?",
+      "answer": "No, they are low-shedding dogs, but their coat requires regular grooming to maintain its quality."
+    },
+    {
+      "question": "Are Silky Terriers easy to train?",
+      "answer": "Yes, they are intelligent and trainable, though they may exhibit a stubborn streak typical of terriers."
+    },
+    {
+      "question": "How much exercise does a Silky Terrier need?",
+      "answer": "They require moderate exercise, such as daily walks and playtime, to keep them healthy and happy."
+    },
+    {
+      "question": "Are Silky Terriers good with other pets?",
+      "answer": "They can coexist with other pets if properly introduced, but their strong prey drive may lead them to chase smaller animals."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли австралийские шелковистые терьеры для жизни в квартире?",
+      "ответ": "Да, их небольшой размер и умеренный уровень энергии делают их подходящими для жизни в квартире при условии регулярных физических нагрузок."
+    },
+    {
+      "вопрос": "Сильно ли линяют австралийские шелковистые терьеры?",
+      "ответ": "Нет, они мало линяют, но их шерсть требует регулярного ухода для поддержания качества."
+    },
+    {
+      "вопрос": "Легко ли обучаются австралийские шелковистые терьеры?",
+      "ответ": "Да, они умны и обучаемы, хотя могут проявлять упрямство, типичное для терьеров."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется австралийскому шелковистому терьеру?",
+      "ответ": "Им требуется умеренная физическая нагрузка, такая как ежедневные прогулки и игры, чтобы поддерживать их здоровье и счастье."
+    },
+    {
+      "вопрос": "Хорошо ли австралийские шелковистые терьеры ладят с другими животными?",
+      "ответ": "Они могут сосуществовать с другими животными при правильном знакомстве, но их сильный охотничий инстинкт может побуждать их преследовать мелких животных."
+    }
+  ],
+  "sources": [
+    "https://www.purina.com/dogs/dog-breeds/silky-terrier",
+    "https://www.petmd.com/dog/breeds/silky-terrier",
+    "https://www.webmd.com/pets/dogs/what-to-know-silky-terriers",
+    "https://www.westminsterkennelclub.org/breed/silky-terrier/",
+    "https://www.akc.org/expert-advice/lifestyle/5-facts-silky-terrier/",
+    "https://en.wikipedia.org/wiki/Australian_Silky_Terrier",
+    "https://www.purinaone.ru/dog/articles/breeds/avstralijskij-shelkovistyj-terer",
+    "https://royalcanin.ru/dog-breed/australian-silky-terrier"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "belgian-malinois",
+  "name": "Belgian Malinois",
+  "full_description": "<p>The Belgian Malinois, one of the four Belgian Shepherd breeds, originated in the late 19th century in the city of Malines (Mechelen) in Belgium. Developed primarily for herding and guarding livestock, the Malinois was bred for its intelligence, agility, and strong work ethic.</p>\n<p>Physically, the Belgian Malinois is a medium-to-large dog with a well-balanced, square build. Males typically stand between 24 to 26 inches tall, while females range from 22 to 24 inches. Their weight varies from 40 to 80 pounds, with males generally heavier than females. The breed's coat is short, dense, and weather-resistant, predominantly fawn to mahogany in color, often with black-tipped hairs and a characteristic black mask and ears.</p>\n<p>Temperamentally, Malinois are known for their high energy levels, intelligence, and strong desire to work. They are confident and alert, often reserved with strangers but affectionate with their families. Their protective nature makes them excellent watchdogs, and they thrive on having a job to do, whether it's herding, obedience, or protection work.</p>\n<p>Originally bred for herding, the Malinois has demonstrated exceptional versatility. Their keen intelligence and trainability have made them favorites in police and military roles worldwide. Notably, their lighter weight compared to breeds like the German Shepherd allows them to perform tasks such as skydiving more efficiently.</p>\n<p>In modern times, the Belgian Malinois has gained popularity not only as a working dog but also as a companion animal. Their athleticism and eagerness to please make them suitable for various dog sports, including agility, obedience, and dock diving. However, their high energy and need for mental stimulation mean they are best suited for active owners who can provide regular exercise and training.</p>\n<p>Notable characteristics of the breed include their unwavering loyalty, exceptional work ethic, and adaptability. Their keen senses and quick reflexes make them stand out in roles requiring precision and reliability. While they can be reserved with strangers, their bond with their families is profound, often forming deep connections with their owners.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "40-80 pounds",
+    "height": "22-26 inches",
+    "coat": "short, dense, weather-resistant; fawn to mahogany with black mask and ears",
+    "activity": "very high",
+    "trainability": "very high",
+    "grooming": "minimal; regular brushing",
+    "lifespan": "12-14 years"
+  },
+  "behavior": {
+    "summary": "The Belgian Malinois is an intelligent, energetic, and loyal breed, known for its strong work ethic and protective nature.",
+    "with_family": "Affectionate and deeply loyal, forming strong bonds with family members.",
+    "with_children": "Generally good with children, especially when raised together, but supervision is recommended due to their high energy.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though their herding instincts may lead to chasing behaviors.",
+    "with_strangers": "Often reserved or cautious around strangers, making them excellent watchdogs.",
+    "special_traits": [
+      "High intelligence and trainability",
+      "Strong protective instincts",
+      "Exceptional work ethic",
+      "High energy levels",
+      "Deep loyalty to family"
+    ]
+  },
+  "health": {
+    "summary": "The Belgian Malinois is generally a healthy breed with a lifespan of 12-14 years, though they can be prone to certain genetic health issues.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Progressive retinal atrophy",
+      "Epilepsy",
+      "Anesthesia sensitivity"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine veterinary check-ups",
+      "Genetic testing for breeding dogs",
+      "Balanced diet",
+      "Early socialization and training"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "The Belgian Malinois requires consistent mental and physical stimulation to maintain its health and happiness.",
+    "behavior": "Engage in regular training sessions and provide tasks to satisfy their working instincts.",
+    "health": "Monitor for signs of common health issues and maintain a regular veterinary care schedule.",
+    "grooming": "Brush weekly to manage shedding and maintain coat health; bathe as needed.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Is the Belgian Malinois suitable for first-time dog owners?",
+      "answer": "Due to their high energy and training needs, they are best suited for experienced owners."
+    },
+    {
+      "question": "How much exercise does a Belgian Malinois need?",
+      "answer": "They require at least 1-2 hours of vigorous exercise daily to stay healthy and happy."
+    },
+    {
+      "question": "Are Belgian Malinois good with other dogs?",
+      "answer": "With proper socialization, they can get along with other dogs, but their dominant nature may lead to conflicts."
+    },
+    {
+      "question": "Do Belgian Malinois shed a lot?",
+      "answer": "They shed moderately year-round, with increased shedding during seasonal changes."
+    },
+    {
+      "question": "Can Belgian Malinois live in apartments?",
+      "answer": "They can adapt to apartment living if provided with sufficient exercise and mental stimulation."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/belgian-malinois-history/",
+    "https://www.akc.org/expert-advice/dog-breeds/meet-belgian-breeds/",
+    "https://www.akc.org/expert-advice/dog-breeds/german-shepherd-dog-vs-belgian-malinois/",
+    "https://www.petmd.com/dog/breeds/belgian-malinois",
+    "https://vcahospitals.com/know-your-pet/belgian-malinois",
+    "https://www.akc.org/expert-advice/dog-breeds/belgian-malinois-right-for-you/",
+    "https://www.akc.org/expert-advice/sports/diving-dogs-challenge-2024-bullitt/"
+  ]
+}

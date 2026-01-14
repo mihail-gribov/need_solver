@@ -1,0 +1,156 @@
+{
+  "id": "american-eskimo-dog",
+  "name": "American Eskimo Dog",
+  "name_rus": "Американская эскимосская собака",
+  "full_description": "<p>The American Eskimo Dog, often referred to as the 'Eskie,' is a member of the Spitz family, characterized by its striking white coat and keen intelligence. Originating from the German Spitz, the breed was brought to the United States by German immigrants in the early 20th century. Due to anti-German sentiment during World War I, the breed's name was changed to American Eskimo Dog in 1917. Historically, Eskies gained popularity in the 1930s and 1940s as circus performers, showcasing their agility and trainability. Physically, the American Eskimo Dog boasts a thick, double-layered coat that is predominantly white, with some individuals displaying biscuit cream markings. Their wedge-shaped head features erect, triangular ears and distinctive black points on the nose, lips, and eye rims. The breed comes in three size varieties: Toy (9–12 inches in height), Miniature (12–15 inches), and Standard (15–19 inches). Temperamentally, Eskies are known for their friendly, outgoing, and intelligent nature. They are affectionate with family members and can be reserved around strangers, making them excellent watchdogs. Their high energy levels and eagerness to please make them highly trainable, though they can exhibit stubbornness if not properly guided. Originally bred as companion animals and watchdogs, their intelligence and agility made them ideal for circus performances. Today, they serve primarily as companion animals and excel in obedience and agility competitions. Notable characteristics of the breed include their alertness, agility, and striking appearance, often described as 'The Dog Beautiful.'</p>",
+  "full_description_rus": "<p>Американская эскимосская собака, часто называемая 'Эски', относится к семейству шпицев и известна своей ослепительно белой шерстью и высоким интеллектом. Происходя от немецкого шпица, порода была завезена в США немецкими иммигрантами в начале XX века. В связи с антинемецкими настроениями во время Первой мировой войны, в 1917 году порода была переименована в американскую эскимосскую собаку. В 1930-х и 1940-х годах 'Эски' приобрели популярность как цирковые артисты, демонстрируя свою ловкость и обучаемость. Физически американская эскимосская собака обладает густой, двойной шерстью, преимущественно белого цвета, иногда с кремовыми отметинами. Клиновидная голова с прямостоячими треугольными ушами и характерными черными точками на носу, губах и вокруг глаз придает породе выразительный вид. Порода представлена в трех размерах: той (рост 23–30 см), миниатюрный (30–38 см) и стандартный (38–48 см). По характеру 'Эски' дружелюбны, общительны и умны. Они привязаны к членам семьи и могут быть сдержанными с незнакомцами, что делает их отличными сторожевыми собаками. Высокий уровень энергии и стремление угодить хозяину делают их легкообучаемыми, хотя при недостаточном руководстве они могут проявлять упрямство. Изначально выведенные как компаньоны и сторожевые собаки, их интеллект и ловкость сделали их идеальными для цирковых выступлений. Сегодня они в основном служат компаньонами и преуспевают в соревнованиях по послушанию и аджилити. Отличительными чертами породы являются бдительность, ловкость и эффектная внешность, за что их часто называют 'Прекрасной собакой'.</p>",
+  "parameters": {
+    "size": "Small to medium",
+    "weight": "6–35 pounds",
+    "height": "9–19 inches",
+    "coat": "Thick, double-layered, predominantly white",
+    "activity": "Moderate to high",
+    "trainability": "High",
+    "grooming": "Regular brushing; moderate shedding",
+    "lifespan": "12–15 years"
+  },
+  "parameters_rus": {
+    "size": "Маленький / средний",
+    "weight": "3–16 кг",
+    "height": "23–48 см",
+    "coat": "Густая, двойная, преимущественно белая",
+    "activity": "Умеренная / высокая",
+    "trainability": "Высокая",
+    "grooming": "Регулярное расчесывание; умеренная линька",
+    "lifespan": "12–15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Highly intelligent",
+      "Energetic",
+      "Affectionate",
+      "Alert",
+      "Friendly"
+    ],
+    "summary": "American Eskimo Dogs are affectionate, intelligent, and energetic companions known for their alertness and friendly demeanor.",
+    "with_children": "Generally good with children, especially when socialized early.",
+    "with_family": "They form strong bonds with family members and thrive on companionship.",
+    "with_other_pets": "Can coexist well with other pets if introduced properly.",
+    "with_strangers": "May be reserved around strangers, making them effective watchdogs."
+  },
+  "behavior_rus": {
+    "summary": "Американские эскимосские собаки — ласковые, умные и энергичные компаньоны, известные своей бдительностью и дружелюбным нравом.",
+    "with_family": "Они формируют крепкие связи с членами семьи и процветают в компании близких.",
+    "with_children": "Обычно хорошо ладят с детьми, особенно при ранней социализации.",
+    "with_other_pets": "Могут хорошо уживаться с другими животными при правильном знакомстве.",
+    "with_strangers": "Могут быть сдержанными с незнакомцами, что делает их эффективными сторожевыми собаками.",
+    "special_traits": [
+      "Высокий интеллект",
+      "Энергичность",
+      "Ласковость",
+      "Бдительность",
+      "Дружелюбие"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Patellar luxation",
+      "Diabetes",
+      "Juvenile cataracts"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Balanced diet",
+      "Consistent exercise",
+      "Routine eye examinations",
+      "Genetic testing for breeding dogs"
+    ],
+    "summary": "American Eskimo Dogs are generally healthy but can be prone to certain genetic conditions.",
+    "vet_checkups": "Annually, or more frequently as needed"
+  },
+  "health_rus": {
+    "summary": "Американские эскимосские собаки в целом здоровы, но могут быть склонны к некоторым генетическим заболеваниям.",
+    "common_issues": [
+      "Дисплазия тазобедренного сустава",
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Вывих надколенника",
+      "Диабет",
+      "Ювенильная катаракта"
+    ],
+    "prevention_tips": [
+      "Регулярные ветеринарные осмотры",
+      "Сбалансированное питание",
+      "Постоянные физические нагрузки",
+      "Плановые осмотры глаз",
+      "Генетическое тестирование для племенных собак"
+    ],
+    "vet_checkups": "Ежегодно или чаще при необходимости"
+  },
+  "care": {
+    "behavior": "Provide daily physical and mental activities to prevent boredom and destructive behaviors.",
+    "description": "American Eskimo Dogs require regular exercise, mental stimulation, and consistent grooming to maintain their health and happiness.",
+    "grooming": "Brush their thick coat several times a week to manage shedding and prevent matting.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits.",
+    "nutrition": "Feed a balanced diet appropriate for their size and activity level to maintain optimal health."
+  },
+  "care_rus": {
+    "description": "Американские эскимосские собаки требуют регулярных физических нагрузок, умственной стимуляции и постоянного ухода за шерстью для поддержания их здоровья и счастья.",
+    "behavior": "Обеспечьте ежедневные физические и умственные нагрузки, чтобы предотвратить скуку и разрушительное поведение.",
+    "health": "Следите за признаками распространенных заболеваний и регулярно посещайте ветеринара.",
+    "grooming": "Расчесывайте густую шерсть несколько раз в неделю, чтобы контролировать линьку и предотвращать образование колтунов.",
+    "nutrition": "Кормите сбалансированным рационом, соответствующим их размеру и уровню активности, для поддержания оптимального здоровья."
+  },
+  "faq": [
+    {
+      "question": "Are American Eskimo Dogs good for first-time owners?",
+      "answer": "Yes, their intelligence and eagerness to please make them suitable for first-time owners who can provide consistent training and care."
+    },
+    {
+      "question": "Do American Eskimo Dogs shed a lot?",
+      "answer": "They have a moderate shedding level; regular brushing helps manage shedding and keeps their coat healthy."
+    },
+    {
+      "question": "Are American Eskimo Dogs hypoallergenic?",
+      "answer": "No, they are not considered hypoallergenic due to their shedding."
+    },
+    {
+      "question": "How much exercise do American Eskimo Dogs need?",
+      "answer": "They require regular daily exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Can American Eskimo Dogs live in apartments?",
+      "answer": "Yes, they can adapt to apartment living if provided with sufficient exercise and mental stimulation."
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Подходят ли американские эскимосские собаки для владельцев без опыта?",
+      "answer": "Да, их интеллект и стремление угодить делают их подходящими для владельцев без опыта, при условии обеспечения последовательной дрессировки и ухода."
+    },
+    {
+      "question": "Сильно ли линяют американские эскимосские собаки?",
+      "answer": "У них умеренная линька; регулярное расчесывание помогает контролировать линьку и поддерживать здоровье шерсти."
+    },
+    {
+      "question": "Являются ли американские эскимосские собаки гипоаллергенными?",
+      "answer": "Нет, они не считаются гипоаллергенными из-за линьки."
+    },
+    {
+      "question": "Сколько упражнений требуется американским эскимосским собакам?",
+      "answer": "Им необходимы регулярные ежедневные физические нагрузки для поддержания физического и психического здоровья."
+    },
+    {
+      "question": "Могут ли американские эскимосские собаки жить в квартирах?",
+      "answer": "Да, они могут адаптироваться к жизни в квартире при условии достаточных физических нагрузок и умственной стимуляции."
+    }
+  ],
+  "sources": [
+    "https://www.westminsterkennelclub.org/breed/american-eskimo-dog/",
+    "https://www.ukcdogs.com/american-eskimo",
+    "https://www.nylabone.com/dog101/american-eskimo-dog",
+    "https://www.hillspet.com/dog-care/dog-breeds/american-eskimo",
+    "https://www.akc.org/breeder-programs/breed-health-testing-requirements/non-sporting-group-health-testing-requirements/"
+  ]
+}

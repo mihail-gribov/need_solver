@@ -1,0 +1,155 @@
+{
+  "id": "scottish-terrier",
+  "name": "Scottish Terrier",
+  "name_rus": "Скотч-терьер",
+  "full_description": "<p>The Scottish Terrier, affectionately known as the 'Scottie,' is a breed with a rich heritage originating from Scotland. Developed in the 19th century, these dogs were bred for hunting vermin and small game, showcasing their tenacity and determination. Physically, Scotties are small, compact, and sturdy, standing about 10 inches tall and weighing between 19 to 23 pounds. They possess a distinctive long head, erect ears, and a dense, wiry double coat that comes in colors such as black, wheaten, or brindle. Their expression is keen and intelligent, reflecting their alert nature. Temperamentally, Scottish Terriers are known for their boldness, independence, and loyalty. They are dignified and reserved, yet courageous and highly intelligent. Originally bred for hunting, they exhibit strong working abilities and a natural instinct to chase and dig. In modern times, Scotties have transitioned into beloved companions, valued for their unique character and appearance. Notable characteristics include their distinctive silhouette, confident demeanor, and unwavering devotion to their families.</p>",
+  "full_description_rus": "<p>Скотч-терьер, или шотландский терьер, — порода собак с богатой историей, происходящая из Шотландии. Разведенные в XIX веке для охоты на вредителей и мелкую дичь, эти собаки демонстрируют настойчивость и решительность. Физически скотч-терьеры небольшие, компактные и крепкие, с ростом около 25–28 см и весом от 8 до 11 кг. Они обладают характерной длинной головой, стоячими ушами и плотной, жесткой двойной шерстью, которая бывает черного, пшеничного или тигрового окраса. Их выражение лица умное и внимательное, отражающее их бдительный характер. По темпераменту скотч-терьеры известны своей смелостью, независимостью и преданностью. Они сдержанны и достойны, но при этом отважны и высокоинтеллектуальны. Изначально выведенные для охоты, они проявляют сильные рабочие качества и природный инстинкт к преследованию и рытью. В современное время скотч-терьеры стали любимыми компаньонами, ценимыми за их уникальный характер и внешний вид. Отличительными чертами являются их узнаваемый силуэт, уверенная осанка и непоколебимая преданность своим семьям.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "19-23 pounds (8.5-10.5 kg)",
+    "height": "10 inches (25-28 cm)",
+    "coat": "dense, wiry double coat",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "regular brushing; professional grooming recommended",
+    "lifespan": "11-13 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "8,5–10,5 кг",
+    "рост": "25–28 см",
+    "шерсть": "плотная, жесткая двойная",
+    "активность": "умеренная",
+    "обучаемость": "средняя",
+    "уход": "регулярное расчесывание; рекомендуется профессиональный груминг",
+    "продолжительность жизни": "11–13 лет"
+  },
+  "behavior": {
+    "summary": "Scottish Terriers are bold, independent, and loyal dogs with a dignified demeanor. They are intelligent and courageous, making them excellent companions for those who appreciate their unique character.",
+    "with_family": "Scotties are deeply devoted to their families, forming strong bonds and often becoming particularly attached to one person.",
+    "with_children": "They can be good with children, especially when raised together, but their independent nature means interactions should be supervised.",
+    "with_other_pets": "Scotties may exhibit a strong prey drive, making them less compatible with smaller pets. Early socialization is key.",
+    "with_strangers": "They tend to be reserved around strangers, often displaying a cautious or aloof attitude until trust is established.",
+    "special_traits": [
+      "Independent and strong-willed",
+      "Loyal and protective",
+      "Alert and vigilant",
+      "Courageous and confident",
+      "Intelligent with a keen expression"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Скотч-терьеры — смелые, независимые и преданные собаки с достоинственной осанкой. Они умны и отважны, что делает их отличными компаньонами для тех, кто ценит их уникальный характер.",
+    "с семьёй": "Скотч-терьеры глубоко преданы своим семьям, формируя крепкие связи и часто особенно привязываясь к одному человеку.",
+    "с детьми": "Они могут хорошо ладить с детьми, особенно если выросли вместе, но их независимый характер требует наблюдения за взаимодействиями.",
+    "с другими животными": "Скотч-терьеры могут проявлять сильный охотничий инстинкт, что делает их менее совместимыми с мелкими животными. Ранняя социализация имеет ключевое значение.",
+    "с незнакомцами": "Они склонны быть сдержанными с незнакомцами, часто проявляя осторожность или отчужденность, пока не установится доверие.",
+    "особые черты": [
+      "Независимый и волевой",
+      "Преданный и защитный",
+      "Бдительный и внимательный",
+      "Отважный и уверенный",
+      "Умный с проницательным выражением"
+    ]
+  },
+  "health": {
+    "summary": "Scottish Terriers are generally healthy but are predisposed to certain conditions. Regular veterinary care and a healthy lifestyle can help mitigate potential health issues.",
+    "common_issues": [
+      "Bladder cancer",
+      "Von Willebrand's disease",
+      "Scottie cramp",
+      "Patellar luxation",
+      "Skin allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Balanced diet and regular exercise",
+      "Avoid exposure to pesticides and herbicides",
+      "Monitor for signs of skin issues",
+      "Genetic testing for hereditary conditions"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health concerns."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Скотч-терьеры в целом здоровы, но склонны к определенным заболеваниям. Регулярный ветеринарный уход и здоровый образ жизни могут помочь снизить риск возможных проблем со здоровьем.",
+    "распространённые проблемы": [
+      "Рак мочевого пузыря",
+      "Болезнь фон Виллебранда",
+      "Скотти крамп",
+      "Вывих надколенника",
+      "Кожные аллергии"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Сбалансированное питание и регулярные физические нагрузки",
+      "Избегание контакта с пестицидами и гербицидами",
+      "Мониторинг признаков кожных проблем",
+      "Генетическое тестирование на наследственные заболевания"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем."
+  },
+  "care": {
+    "description": "Scottish Terriers require attentive care to maintain their health and well-being, including regular grooming, exercise, and health monitoring.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature and prevent behavioral issues.",
+    "health": "Regular veterinary visits and preventive care are crucial to address breed-specific health concerns.",
+    "grooming": "Their dense, wiry coat requires regular brushing and professional grooming to prevent matting and maintain its characteristic texture.",
+    "nutrition": "A balanced diet tailored to their size and activity level helps maintain optimal health and weight."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Скотч-терьеры требуют внимательного ухода для поддержания их здоровья и благополучия, включая регулярный груминг, физические нагрузки и мониторинг состояния здоровья.",
+    "поведение и характер": "Ранняя социализация и последовательная дрессировка необходимы для управления их независимым характером и предотвращения поведенческих проблем.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход важны для решения специфических для породы проблем со здоровьем.",
+    "груминг и уход": "Их плотная, жесткая шерсть требует регулярного расчесывания и профессионального груминга для предотвращения спутывания и поддержания характерной текстуры.",
+    "питание и активность": "Сбалансированное питание, соответствующее их размеру и уровню активности, помогает поддерживать оптимальное здоровье и вес."
+  },
+  "faq": [
+    {
+      "question": "Are Scottish Terriers good with children?",
+      "answer": "Yes, with proper socialization, they can be good with children, but interactions should be supervised due to their independent nature."
+    },
+    {
+      "question": "Do Scottish Terriers shed a lot?",
+      "answer": "No, they shed minimally, but their coat requires regular grooming to maintain its condition."
+    },
+    {
+      "question": "Are Scottish Terriers easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training works best."
+    },
+    {
+      "question": "How much exercise do Scottish Terriers need?",
+      "answer": "Moderate daily exercise, such as walks and playtime, is sufficient to keep them healthy and happy."
+    },
+    {
+      "question": "Do Scottish Terriers get along with other pets?",
+      "answer": "They may have a strong prey drive; early socialization is important to promote harmony with other pets."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Хорошо ли скотч-терьеры ладят с детьми?",
+      "ответ": "Да, при правильной социализации они могут хорошо ладить с детьми, но взаимодействия следует контролировать из-за их независимого характера."
+    },
+    {
+      "вопрос": "Сильно ли линяют скотч-терьеры?",
+      "ответ": "Нет, они линяют минимально, но их шерсть требует регулярного ухода для поддержания хорошего состояния."
+    },
+    {
+      "вопрос": "Легко ли дрессировать скотч-терьеров?",
+      "ответ": "Они умны, но могут быть упрямыми; последовательная дрессировка с положительным подкреплением дает наилучшие результаты."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется скотч-терьерам?",
+      "ответ": "Умеренные ежедневные физические нагрузки, такие как прогулки и игры, достаточны для поддержания их здоровья и счастья."
+    },
+    {
+      "вопрос": "Ладят ли скотч-терьеры с другими животными?",
+      "ответ": "Они могут иметь сильный охотничий инстинкт; ранняя социализация важна для гармоничного сосуществования с другими животными."
+    }
+  ],
+  "sources": [
+    "https://www.pedigree.ru/porody/skotch-terier",
+    "https://www.purinaone.ru/dog/articles/breeds/skotch-terer",
+    "https://royalcanin.ru/dog-breed/scottish-terrier",
+    "https://www.cesar.ru/porody/skotch-terer/"
+  ]
+}

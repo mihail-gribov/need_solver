@@ -1,0 +1,168 @@
+{
+  "id": "beagle",
+  "name": "Beagle",
+  "name_rus": "Бигль",
+  "full_description": "<p>The Beagle is a small to medium-sized hound breed renowned for its keen sense of smell and tracking abilities. Originating in England during the 16th century, Beagles were developed primarily for hunting hare, a practice known as beagling. Their lineage traces back to ancient hounds used by the Romans and later refined in Britain to create a breed adept at scent tracking. Physically, Beagles possess a sturdy, compact build with a slightly domed skull and a straight, square-cut muzzle. Their expressive, large brown or hazel eyes convey a gentle and pleading expression. The ears are long, set low, and hang close to the cheeks, enhancing their acute sense of hearing. They have a short, dense, and weatherproof coat that comes in various colors, including tricolor (black, tan, and white), lemon and white, and red and white. The tail is moderately long, set high, and carried gaily, often with a white tip. Beagles are known for their amiable and alert temperament. They are friendly, curious, and merry, making them excellent companions for families and individuals alike. Their even disposition and lack of aggression or timidity contribute to their popularity as household pets. Originally bred for hunting, Beagles possess remarkable stamina and determination. Their primary function was to hunt hare by following a scent, utilizing their exceptional olfactory senses. This background contributes to their strong instinct to follow scents, which can sometimes lead them to wander if not properly supervised. In modern times, Beagles have transitioned from hunting companions to beloved family pets. Their manageable size, friendly nature, and adaptability make them suitable for various living environments, including apartments and houses with yards. They are also employed in roles that utilize their scent detection abilities, such as in customs and border protection services for detecting contraband. Notable characteristics of the Beagle include their distinctive baying howl, which they use during hunts and when they catch an interesting scent. They are also known for their food motivation, which can be advantageous during training but requires careful management to prevent obesity. Their sociable nature means they thrive on companionship and can experience separation anxiety if left alone for extended periods.</p>",
+  "full_description_rus": "<p>Бигль — это порода собак среднего размера, известная своим острым обонянием и способностью к выслеживанию. Порода была выведена в Англии в XVI веке, главным образом для охоты на зайцев, что получило название «биглинг». Их происхождение восходит к древним гончим, использовавшимся римлянами, и позже усовершенствованным в Британии для создания породы, способной к эффективному выслеживанию по запаху. Физически бигли обладают крепким, компактным телосложением с немного выпуклым черепом и прямой, квадратной мордой. Их выразительные, большие карие или ореховые глаза передают мягкое и умоляющее выражение. Уши длинные, низко посаженные и плотно прилегающие к щекам, что усиливает их острый слух. Шерсть короткая, густая и устойчивая к погодным условиям, представлена в различных окрасах, включая триколор (черный, рыжий и белый), лимонно-белый и рыже-белый. Хвост средней длины, высоко посажен и весело поднят, часто с белым кончиком. Бигли известны своим дружелюбным и бдительным характером. Они общительны, любопытны и веселы, что делает их отличными компаньонами для семей и отдельных людей. Их ровный нрав и отсутствие агрессии или робости способствуют их популярности в качестве домашних питомцев. Изначально выведенные для охоты, бигли обладают выдающейся выносливостью и решимостью. Их основная функция заключалась в охоте на зайцев путем следования по запаху, используя свои исключительные обонятельные способности. Это наследие способствует их сильному инстинкту следовать за запахами, что иногда может приводить к их склонности к блужданию, если их не контролировать должным образом. В современное время бигли превратились из охотничьих компаньонов в любимых семейных питомцев. Их удобный размер, дружелюбный характер и адаптивность делают их подходящими для различных условий проживания, включая квартиры и дома с дворами. Они также используются в ролях, требующих их способностей к обнаружению запахов, таких как службы таможни и пограничного контроля для обнаружения контрабанды. Примечательные черты бигля включают их характерный заливистый лай, который они используют во время охоты и при обнаружении интересного запаха. Они также известны своей мотивацией к еде, что может быть полезно при дрессировке, но требует тщательного контроля для предотвращения ожирения. Их общительная натура означает, что они процветают в компании и могут испытывать тревогу при разлуке, если остаются одни на длительные периоды.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "18-30 pounds",
+    "height": "13-15 inches",
+    "coat": "short, dense, weatherproof",
+    "activity": "high",
+    "trainability": "moderate",
+    "grooming": "minimal; regular ear cleaning required",
+    "lifespan": "10-15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький / средний",
+    "вес": "8-13 кг",
+    "рост": "33-40 см",
+    "шерсть": "короткая, густая, устойчивая к погодным условиям",
+    "активность": "высокая",
+    "обучаемость": "умеренная",
+    "уход": "минимальный; требуется регулярная чистка ушей",
+    "продолжительность жизни": "10-15 лет"
+  },
+  "behavior": {
+    "summary": "Beagles are friendly, curious, and energetic dogs with a strong instinct to follow scents. They are sociable and thrive on companionship, making them excellent family pets.",
+    "with_family": "Beagles are affectionate and enjoy being part of family activities. They form strong bonds with their owners and are known for their loyalty.",
+    "with_children": "Beagles are gentle and playful with children, making them suitable companions for families. Their sturdy build allows them to handle playtime well.",
+    "with_other_pets": "Generally good with other dogs and pets, especially when socialized early. Their hunting background may lead them to chase smaller animals.",
+    "with_strangers": "Beagles are typically friendly towards strangers, making them poor guard dogs but excellent companions in social settings.",
+    "special_traits": [
+      "strong scent drive",
+      "distinctive baying howl",
+      "food-motivated",
+      "prone to wandering",
+      "sociable and affectionate"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Бигли — дружелюбные, любопытные и энергичные собаки с сильным инстинктом следования за запахами. Они общительны и процветают в компании, что делает их отличными семейными питомцами.",
+    "с семьёй": "Бигли ласковы и любят участвовать в семейных мероприятиях. Они формируют крепкие связи со своими владельцами и известны своей преданностью.",
+    "с детьми": "Бигли нежны и игривы с детьми, что делает их подходящими компаньонами для семей. Их крепкое телосложение позволяет им хорошо переносить активные игры.",
+    "с другими животными": "Обычно хорошо ладят с другими собаками и животными, особенно при ранней социализации. Их охотничий инстинкт может побуждать их преследовать мелких животных.",
+    "с незнакомцами": "Бигли обычно дружелюбны к незнакомцам, что делает их плохими сторожевыми собаками, но отличными компаньонами в социальных ситуациях.",
+    "особые черты": [
+      "сильный инстинкт следования за запахами",
+      "характерный заливистый лай",
+      "мотивация к еде",
+      "склонность к блужданию",
+      "общительность и привязанность"
+    ]
+  },
+  "health": {
+    "summary": "Beagles are generally healthy but are prone to certain conditions such as ear infections, obesity, and epilepsy. Regular veterinary care and preventive measures can help maintain their health.",
+    "common_issues": [
+      "ear infections",
+      "obesity",
+      "epilepsy",
+      "hypothyroidism",
+      "allergies"
+    ],
+    "prevention_tips": [
+      "regular ear cleaning",
+      "controlled diet and regular exercise",
+      "routine veterinary check-ups",
+      "monitoring for signs of allergies",
+      "early detection and management of health issues"
+    ],
+    "vet_checkups": "annually, or more frequently as needed"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Бигли обычно здоровы, но склонны к определённым заболеваниям, таким как ушные инфекции, ожирение и эпилепсия. Регулярный ветеринарный уход и профилактические меры помогут поддерживать их здоровье.",
+    "распространённые проблемы": [
+      "ушные инфекции",
+      "ожирение",
+      "эпилепсия",
+      "гипотиреоз",
+      "аллергии"
+    ],
+    "советы по профилактике": [
+      "регулярная чистка ушей",
+      "контролируемая диета и регулярные физические нагрузки",
+      "плановые ветеринарные осмотры",
+      "наблюдение за признаками аллергий",
+      "раннее выявление и управление проблемами со здоровьем"
+    ],
+    "рекомендуемые осмотры": "ежегодно или чаще при необходимости"
+  },
+  "care": {
+    "description": "Beagles require regular exercise, mental stimulation, and companionship to maintain their physical and emotional well-being.",
+    "behavior": "Due to their strong scent drive, Beagles should be kept on a leash or in a secure area during walks to prevent them from wandering off.",
+    "health": "Regular veterinary check-ups and preventive care are essential to monitor and manage common health issues such as ear infections and obesity.",
+    "grooming": "Minimal grooming is needed; regular brushing and ear cleaning are important to prevent infections.",
+    "nutrition": "A balanced diet with portion control is crucial to prevent obesity, given their tendency to overeat."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Биглям необходимы регулярные физические нагрузки, умственная стимуляция и общение для поддержания их физического и эмоционального благополучия.",
+    "поведение и характер": "Из-за сильного инстинкта следования за запахами биглей следует выгуливать на поводке или в безопасной зоне, чтобы предотвратить их побеги.",
+    "здоровье и профилактика": "Регулярные ветеринарные осмотры и профилактический уход необходимы для мониторинга и управления распространёнными проблемами со здоровьем, такими как ушные инфекции и ожирение.",
+    "груминг и уход": "Требуется минимальный уход; регулярное вычёсывание и чистка ушей важны для предотвращения инфекций.",
+    "питание и активность": "Сбалансированная диета с контролем порций необходима для предотвращения ожирения, учитывая их склонность к перееданию."
+  },
+  "faq": [
+    {
+      "question": "Are Beagles good with children?",
+      "answer": "Yes, Beagles are gentle and playful, making them excellent companions for children."
+    },
+    {
+      "question": "Do Beagles require a lot of exercise?",
+      "answer": "Yes, Beagles have high energy levels and need regular exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Beagles easy to train?",
+      "answer": "Beagles are intelligent but can be stubborn; consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "Do Beagles shed a lot?",
+      "answer": "Beagles have a short coat that sheds moderately; regular brushing helps manage shedding."
+    },
+    {
+      "question": "Can Beagles live in apartments?",
+      "answer": "Yes, with sufficient exercise and mental stimulation, Beagles can adapt well to apartment living."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Бигли хорошо ладят с детьми?",
+      "ответ": "Да, бигли нежны и игривы, что делает их отличными компаньонами для детей."
+    },
+    {
+      "вопрос": "Биглям требуется много физических нагрузок?",
+      "ответ": "Да, бигли обладают высоким уровнем энергии и нуждаются в регулярных физических нагрузках для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Бигли легко поддаются дрессировке?",
+      "ответ": "Бигли умны, но могут быть упрямыми; последовательная дрессировка с положительным подкреплением эффективна."
+    },
+    {
+      "вопрос": "Бигли сильно линяют?",
+      "ответ": "Бигли имеют короткую шерсть, которая линяет умеренно; регулярное вычёсывание помогает контролировать линьку."
+    },
+    {
+      "вопрос": "Бигли могут жить в квартирах?",
+      "ответ": "Да, при достаточных физических нагрузках и умственной стимуляции бигли могут хорошо адаптироваться к жизни в квартире."
+    }
+  ],
+  "sources": [
+    "https://www.thekennelclub.org.uk/breed-standards/hound/beagle/",
+    "https://www.ukcdogs.com/breed-groups/beagle",
+    "https://www.petmd.com/dog/breeds/beagle",
+    "https://cgejournal.biomedcentral.com/articles/10.1186/s40575-024-00140-9",
+    "https://www.akc.org/wp-content/uploads/2021/07/breed-temperament-guide-akc-fss-July2021.pdf",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/beagle",
+    "https://www.rbc.ru/life/news/640b8ab09a7947bcbf98883c",
+    "https://pet-yes.com/breeds/bigl",
+    "https://www.proplan.ru/dog/breeds/bigl",
+    "https://www.cesar.ru/porody/bigl/",
+    "https://tomall.ru/dog/beagle",
+    "https://kinpet.ru/bigl/",
+    "https://dogfinder.ru/beagle",
+    "https://www.pedigree.ru/porody/bigl",
+    "https://petfood24.ru/wiki/porody-sobak/bigl/",
+    "https://ajo-pet.ru/blog/poroda-sobak-bigl---opisanie-harakteristika-porody/",
+    "https://ru.wikipedia.org/wiki/Бигль"
+  ]
+}

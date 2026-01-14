@@ -1,0 +1,159 @@
+{
+  "id": "newfoundland",
+  "name": "Newfoundland",
+  "name_rus": "Ньюфаундленд",
+  "full_description": "<p>The Newfoundland is a large, powerful working dog renowned for its gentle temperament and exceptional swimming abilities. Originating from the Canadian island of Newfoundland, this breed was developed to assist fishermen by hauling nets, pulling carts, and performing water rescues. Their history dates back to the 18th century, where they were indispensable companions to seafarers and settlers. Physically, Newfoundlands are imposing, with males standing 28 inches tall and weighing between 130-150 pounds. They possess a broad chest, muscular build, and a thick, water-resistant double coat that comes in black, brown, gray, and white &amp; black. Their webbed feet and strong tails serve as rudders, enhancing their swimming prowess. Temperamentally, Newfoundlands are gentle, patient, and affectionate, earning them the nickname 'nanny dog' for their protective nature towards children. They are intelligent and eager to please, making them highly trainable. Originally bred for water rescues and heavy labor, their natural swimming ability and strength made them invaluable to fishermen. Today, they continue to serve in water rescue operations and are cherished as loyal family companions. Notable characteristics include their calm demeanor, strong work ethic, and innate rescue instincts, which have saved numerous lives throughout history.</p>",
+  "full_description_rus": "<p>Ньюфаундленд — крупная рабочая собака, известная своим мягким нравом и выдающимися способностями к плаванию. Порода возникла на канадском острове Ньюфаундленд, где была выведена для помощи рыбакам: вытаскивания сетей, перевозки грузов и спасательных операций на воде. История породы восходит к XVIII веку, когда эти собаки были незаменимыми спутниками моряков и поселенцев. Физически ньюфаундленды внушительны: кобели достигают 71 см в высоту и весят от 59 до 68 кг. Они обладают широкой грудью, мускулистым телосложением и густой, водоотталкивающей двойной шерстью, которая бывает черного, коричневого, серого и черно-белого окраса. Перепончатые лапы и сильный хвост служат рулем, усиливая их способности к плаванию. По характеру ньюфаундленды мягкие, терпеливые и ласковые, за что получили прозвище «собаки-няни» за их защитную природу по отношению к детям. Они умны и стремятся угодить, что делает их легко обучаемыми. Изначально выведенные для спасательных операций на воде и тяжелой работы, их природные способности к плаванию и сила сделали их незаменимыми для рыбаков. Сегодня они продолжают служить в водных спасательных операциях и ценятся как преданные семейные компаньоны. Ключевые характеристики включают их спокойный нрав, сильную трудовую этику и врожденные спасательные инстинкты, которые спасли множество жизней на протяжении истории.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "130-150 pounds (males), 100-120 pounds (females)",
+    "height": "28 inches (males), 26 inches (females)",
+    "coat": "thick, water-resistant double coat; colors include black, brown, gray, and white & black",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing; attention to shedding and drooling",
+    "lifespan": "9-10 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "59-68 кг (кобели), 45-54 кг (суки)",
+    "рост": "71 см (кобели), 66 см (суки)",
+    "шерсть": "густая, водоотталкивающая двойная шерсть; окрасы: черный, коричневый, серый, черно-белый",
+    "активность": "умеренная",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчесывание; внимание к линьке и слюноотделению",
+    "продолжительность жизни": "9-10 лет"
+  },
+  "behavior": {
+    "summary": "Newfoundlands are gentle giants known for their calm and affectionate nature, making them excellent family companions and natural protectors.",
+    "with_family": "They are deeply devoted to their families, displaying unwavering loyalty and a protective instinct, especially towards children.",
+    "with_children": "Renowned for their patience and gentleness, Newfoundlands are often referred to as 'nanny dogs' due to their protective nature around children.",
+    "with_other_pets": "Generally sociable with other animals, they coexist well with other pets when properly socialized.",
+    "with_strangers": "Typically friendly and approachable, they may be reserved but are rarely aggressive towards strangers.",
+    "special_traits": [
+      "Exceptional swimming ability",
+      "Natural rescue instincts",
+      "Gentle and patient demeanor",
+      "Strong protective nature",
+      "High intelligence and trainability"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Ньюфаундленды — добродушные гиганты, известные своим спокойным и ласковым характером, что делает их отличными семейными компаньонами и естественными защитниками.",
+    "с семьёй": "Они глубоко преданы своей семье, проявляя непоколебимую лояльность и защитный инстинкт, особенно по отношению к детям.",
+    "с детьми": "Известные своей терпеливостью и мягкостью, ньюфаундленды часто называются «собаками-нянями» за их защитную природу по отношению к детям.",
+    "с другими животными": "Обычно дружелюбны с другими животными, хорошо уживаются с другими питомцами при правильной социализации.",
+    "с незнакомцами": "Обычно дружелюбны и общительны, могут быть сдержанными, но редко проявляют агрессию к незнакомцам.",
+    "особые черты": [
+      "Выдающиеся способности к плаванию",
+      "Врожденные спасательные инстинкты",
+      "Мягкий и терпеливый характер",
+      "Сильная защитная природа",
+      "Высокий интеллект и обучаемость"
+    ]
+  },
+  "health": {
+    "summary": "Newfoundlands are generally healthy but are predisposed to certain conditions due to their size and genetics.",
+    "common_issues": [
+      "Gastric Dilatation-Volvulus (bloat)",
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Dilated cardiomyopathy",
+      "Osteosarcoma (bone cancer)"
+    ],
+    "prevention_tips": [
+      "Provide a balanced diet to maintain a healthy weight",
+      "Regular, moderate exercise to support joint health",
+      "Routine veterinary check-ups for early detection of health issues",
+      "Consider prophylactic gastropexy to prevent bloat",
+      "Genetic screening for hereditary conditions"
+    ],
+    "vet_checkups": "Semi-annual check-ups are recommended to monitor and maintain overall health."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Ньюфаундленды в целом здоровы, но предрасположены к определенным заболеваниям из-за своих размеров и генетики.",
+    "распространённые проблемы": [
+      "Синдром заворота желудка (вздутие)",
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Дилатационная кардиомиопатия",
+      "Остеосаркома (рак костей)"
+    ],
+    "советы по профилактике": [
+      "Обеспечьте сбалансированное питание для поддержания здорового веса",
+      "Регулярные, умеренные физические нагрузки для поддержки здоровья суставов",
+      "Плановые ветеринарные осмотры для раннего выявления проблем со здоровьем",
+      "Рассмотрите возможность профилактической гастропексии для предотвращения вздутия",
+      "Генетический скрининг на наследственные заболевания"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются полугодовые осмотры для мониторинга и поддержания общего состояния здоровья."
+  },
+  "care": {
+    "description": "Newfoundlands require dedicated care, including regular grooming, exercise, and health monitoring to ensure their well-being.",
+    "behavior": "Early socialization and consistent training are essential to nurture their gentle nature and prevent potential behavioral issues.",
+    "health": "Monitor for signs of common health issues and maintain a healthy lifestyle to mitigate risks associated with their size.",
+    "grooming": "Regular brushing is necessary to manage shedding and maintain coat health; attention to drooling is also important.",
+    "nutrition": "Provide a balanced diet appropriate for large breeds to support overall health and prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Ньюфаундленды требуют тщательного ухода, включая регулярный груминг, физические нагрузки и мониторинг здоровья для обеспечения их благополучия.",
+    "поведение и характер": "Ранняя социализация и последовательная дрессировка необходимы для развития их мягкого характера и предотвращения возможных поведенческих проблем.",
+    "здоровье и профилактика": "Следите за признаками распространенных проблем со здоровьем и поддерживайте здоровый образ жизни, чтобы снизить риски, связанные с их размерами.",
+    "груминг и уход": "Регулярное расчесывание необходимо для контроля линьки и поддержания здоровья шерсти; также важно обращать внимание на слюноотделение.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее крупным породам, для поддержания общего здоровья и предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Newfoundlands good with children?",
+      "answer": "Yes, they are known for their gentle and protective nature, making them excellent companions for children."
+    },
+    {
+      "question": "Do Newfoundlands require a lot of exercise?",
+      "answer": "They need moderate exercise to maintain health but are not overly energetic; daily walks and playtime suffice."
+    },
+    {
+      "question": "How much grooming do Newfoundlands need?",
+      "answer": "Regular brushing is essential to manage their thick coat and shedding; they also drool, requiring routine cleaning."
+    },
+    {
+      "question": "Are Newfoundlands easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable with consistent, positive reinforcement."
+    },
+    {
+      "question": "What is the average lifespan of a Newfoundland?",
+      "answer": "They typically live between 9 to 10 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Ньюфаундленды хорошо ладят с детьми?",
+      "ответ": "Да, они известны своим мягким и защитным характером, что делает их отличными компаньонами для детей."
+    },
+    {
+      "вопрос": "Ньюфаундлендам требуется много физических нагрузок?",
+      "ответ": "Им необходимы умеренные физические нагрузки для поддержания здоровья, но они не слишком энергичны; достаточно ежедневных прогулок и игр."
+    },
+    {
+      "вопрос": "Сколько ухода за шерстью требуют ньюфаундленды?",
+      "ответ": "Регулярное расчесывание необходимо для контроля густой шерсти и линьки; они также склонны к слюноотделению, требующему регулярной чистки."
+    },
+    {
+      "вопрос": "Ньюфаундленды легко поддаются дрессировке?",
+      "ответ": "Да, они умны и стремятся угодить, что делает их легко обучаемыми при последовательном, положительном подкреплении."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни ньюфаундленда?",
+      "ответ": "Они обычно живут от 9 до 10 лет."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/newfoundland",
+    "https://www.akc.org/expert-advice/dog-breeds/newfoundland-history/",
+    "https://www.akc.org/expert-advice/lifestyle/facts-newfoundland/",
+    "https://www.akc.org/expert-advice/news/lifesaving-water-rescue/",
+    "https://www.proplan.ru/dog/breeds/nyufaundlend/",
+    "https://ru.wikipedia.org/wiki/Ньюфаундленд_(порода_собак)",
+    "https://www.purinaone.ru/dog/articles/breeds/nyufaundlend",
+    "https://royalcanin.ru/dog-breed/newfoundland"
+  ]
+}

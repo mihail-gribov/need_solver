@@ -1,0 +1,83 @@
+{
+  "id": "english-cocker-spaniel",
+  "name": "English Cocker Spaniel",
+  "full_description": "<p>The English Cocker Spaniel, often described as 'merry' and 'affectionate,' is a breed with a rich history and versatile capabilities. Originating in England, these dogs were developed to hunt woodcock, a game bird, which is reflected in their name. By the 19th century, they were recognized for their exceptional hunting skills, particularly in flushing and retrieving game. Physically, English Cocker Spaniels are compact and well-balanced, standing approximately 15 to 16 inches tall and weighing between 28 to 32 pounds. They possess a silky, flat or slightly wavy coat that comes in various colors, including solid shades like black, red, and golden, as well as parti-colors and roans. Their expressive, dark eyes and long, lobular ears contribute to their distinctive appearance. Temperamentally, they are gentle, affectionate, and full of life, making them excellent companions. Historically bred for hunting, they exhibit strong working abilities, excelling in flushing and retrieving game. In modern times, their friendly nature and adaptability have made them popular family pets worldwide. Notable characteristics include their ever-wagging tail, indicative of their cheerful disposition, and their versatility in both fieldwork and companionship roles.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "28-32 lbs",
+    "height": "15-16 inches",
+    "coat": "silky, flat or slightly wavy",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; attention to ears",
+    "lifespan": "12-14 years"
+  },
+  "behavior": {
+    "summary": "English Cocker Spaniels are cheerful, affectionate, and energetic dogs, known for their friendly disposition and eagerness to please.",
+    "with_family": "They form strong bonds with family members, often following them around and seeking companionship.",
+    "with_children": "Generally good with children, displaying patience and playfulness, making them suitable family pets.",
+    "with_other_pets": "They usually get along well with other pets, especially when socialized from a young age.",
+    "with_strangers": "Outgoing and friendly towards strangers, though early socialization is beneficial.",
+    "special_traits": [
+      "Merry and affectionate nature",
+      "High energy levels",
+      "Strong hunting instincts",
+      "Eagerness to please",
+      "Adaptability to various environments"
+    ]
+  },
+  "health": {
+    "summary": "English Cocker Spaniels are generally healthy but can be prone to certain hereditary conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Patellar luxation",
+      "Ear infections",
+      "Familial nephropathy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Routine ear cleaning",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Genetic testing for hereditary conditions"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "English Cocker Spaniels require regular grooming, exercise, and health monitoring to maintain their well-being.",
+    "behavior": "They thrive on companionship and should not be left alone for extended periods to prevent separation anxiety.",
+    "health": "Regular veterinary visits and preventive care are essential to address potential hereditary health issues.",
+    "grooming": "Their long, silky coat needs brushing two to three times a week to prevent matting; ears should be checked and cleaned regularly.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is crucial; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are English Cocker Spaniels good with children?",
+      "answer": "Yes, they are generally patient and playful, making them excellent companions for children."
+    },
+    {
+      "question": "How much exercise does an English Cocker Spaniel need?",
+      "answer": "They require daily exercise, such as long walks or energetic play sessions, to stay healthy and happy."
+    },
+    {
+      "question": "Do English Cocker Spaniels shed a lot?",
+      "answer": "They shed moderately; regular brushing helps manage shedding and keeps their coat healthy."
+    },
+    {
+      "question": "Are English Cocker Spaniels easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, responding well to positive reinforcement training methods."
+    },
+    {
+      "question": "What is the difference between an English Cocker Spaniel and an American Cocker Spaniel?",
+      "answer": "English Cocker Spaniels are slightly taller with a squarer shape, while American Cocker Spaniels are longer and have a denser coat."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/cocker-spaniel-vs-english-cocker-spaniel/",
+    "https://www.thekennelclub.org.uk/breed-standards/gundog/spaniel-cocker/",
+    "https://vcahospitals.com/know-your-pet/dog-breeds/english-cocker-spaniel",
+    "https://www.petmd.com/dog/breeds/english-cocker-spaniel",
+    "https://www.akc.org/expert-advice/dog-breeds/english-cocker-spaniel-history/"
+  ]
+}

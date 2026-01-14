@@ -1,0 +1,159 @@
+{
+  "id": "german-wirehaired-pointer",
+  "name": "German Wirehaired Pointer",
+  "name_rus": "Дратхаар",
+  "full_description": "<p>The German Wirehaired Pointer (GWP) is a versatile hunting dog developed in Germany during the late 19th century. Breeders aimed to create an all-purpose gun dog capable of hunting various game on diverse terrains. By crossbreeding the Wirehaired Pointing Griffon, German Shorthaired Pointer, Pudelpointer, and Stichelhaar, they achieved a breed adept at pointing, retrieving, and tracking both on land and in water.</p>\n<p>Physically, the GWP is a medium to large-sized dog, with males standing 24 to 26 inches tall and females at least 22 inches. Males typically weigh between 55 to 70 pounds, while females range from 45 to 60 pounds. Their most distinctive feature is their dense, wiry coat, which is weather-resistant and water-repellent, providing protection in harsh conditions. Common coat colors include liver and white, often with ticking or roan patterns. They also possess bushy eyebrows and a beard, giving them a characteristic facial expression.</p>\n<p>Temperamentally, GWPs are intelligent, energetic, and eager to please. They form strong bonds with their families and thrive on human companionship. Their high energy levels necessitate regular, vigorous exercise to keep them mentally and physically stimulated. While they are affectionate with family members, they can be reserved around strangers, making them effective watchdogs.</p>\n<p>Originally bred for versatility, GWPs excel in various hunting tasks, including pointing, retrieving, and tracking wounded game. Their webbed feet enhance their swimming abilities, making them proficient in waterfowl retrieval. In modern times, they continue to be valued hunting companions and have also found roles in dog sports such as agility, obedience, and field trials.</p>\n<p>Notable characteristics of the GWP include their adaptability to different hunting environments, strong work ethic, and loyalty to their owners. Their distinctive coat not only provides protection but also requires regular maintenance to keep it in optimal condition.</p>",
+  "full_description_rus": "<p>Дратхаар, или немецкая жесткошерстная легавая, — универсальная охотничья собака, выведенная в Германии в конце XIX века. Целью селекционеров было создание всесторонней подружейной собаки, способной охотиться на разнообразную дичь в различных условиях. Для этого скрещивали такие породы, как пудельпойнтер, штихельхаар, грифон Кортальса и немецкий короткошерстный пойнтер. В результате получилась порода, отлично справляющаяся с задачами по поиску, подаче и преследованию дичи как на суше, так и на воде.</p>\n<p>Физически дратхаар — собака среднего или крупного размера. Рост кобелей составляет 60–68 см, сук — 56–64 см. Вес взрослых собак варьируется от 27 до 32 кг. Отличительной чертой породы является плотная, жесткая шерсть, устойчивая к погодным условиям и воде, что обеспечивает защиту в суровых условиях. Окрас обычно коричневый с сединой или без нее, возможны пятна и крап. Также характерны густые брови и борода, придающие собаке выразительный вид.</p>\n<p>По характеру дратхаары умны, энергичны и преданы. Они формируют крепкие связи с семьей и нуждаются в постоянном общении с людьми. Высокий уровень энергии требует регулярных интенсивных физических нагрузок для поддержания их психического и физического здоровья. Хотя они ласковы с членами семьи, к незнакомцам могут относиться с настороженностью, что делает их эффективными сторожевыми собаками.</p>\n<p>Изначально выведенные для универсальности, дратхаары превосходно справляются с различными охотничьими задачами, включая поиск, подачу и преследование раненой дичи. Их перепончатые лапы улучшают способности к плаванию, что делает их отличными в подаче водоплавающей дичи. В современное время они продолжают цениться как охотничьи компаньоны и также участвуют в собачьих видах спорта, таких как аджилити, послушание и полевые испытания.</p>\n<p>Ключевые особенности дратхаара включают адаптивность к различным охотничьим условиям, сильную трудовую этику и преданность владельцам. Их уникальная шерсть не только обеспечивает защиту, но и требует регулярного ухода для поддержания в оптимальном состоянии.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "Males: 55-70 pounds; Females: 45-60 pounds",
+    "height": "Males: 24-26 inches; Females: at least 22 inches",
+    "coat": "dense, wiry, weather-resistant",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; occasional hand-stripping",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "Кобели: 27-32 кг; Суки: 23-27 кг",
+    "рост": "Кобели: 60-68 см; Суки: 56-64 см",
+    "шерсть": "плотная, жесткая, устойчивая к погодным условиям",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчесывание; периодический тримминг",
+    "продолжительность жизни": "12-14 лет"
+  },
+  "behavior": {
+    "summary": "German Wirehaired Pointers are intelligent, energetic, and loyal dogs that form strong bonds with their families. They require regular mental and physical stimulation to prevent boredom and destructive behaviors.",
+    "with_family": "Affectionate and devoted, GWPs thrive on human companionship and enjoy being involved in family activities.",
+    "with_children": "Generally good with children, especially when raised together, but their high energy levels may be overwhelming for very young kids.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though their strong prey drive may pose challenges with smaller animals.",
+    "with_strangers": "Often reserved around strangers, making them effective watchdogs, but early socialization can help them become more accepting.",
+    "special_traits": [
+      "Versatile hunting abilities",
+      "High energy and stamina",
+      "Strong loyalty to owners",
+      "Protective instincts",
+      "Intelligent and trainable"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Дратхаары — умные, энергичные и преданные собаки, которые формируют крепкие связи со своими семьями. Им необходима регулярная умственная и физическая стимуляция, чтобы предотвратить скуку и разрушительное поведение.",
+    "с семьёй": "Ласковые и преданные, дратхаары процветают в обществе людей и любят участвовать в семейных мероприятиях.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно если выросли вместе, но их высокий уровень энергии может быть чрезмерным для очень маленьких детей.",
+    "с другими животными": "Могут сосуществовать с другими животными при правильной социализации, хотя их сильный охотничий инстинкт может создавать сложности с мелкими животными.",
+    "с незнакомцами": "Часто сдержанны с незнакомцами, что делает их эффективными сторожевыми собаками, но ранняя социализация может помочь им стать более дружелюбными.",
+    "особые черты": [
+      "Универсальные охотничьи способности",
+      "Высокая энергия и выносливость",
+      "Сильная преданность владельцам",
+      "Защитные инстинкты",
+      "Ум и обучаемость"
+    ]
+  },
+  "health": {
+    "summary": "German Wirehaired Pointers are generally healthy but are prone to certain conditions such as bloat, hip dysplasia, and ear infections. Regular veterinary care and preventive measures can help maintain their health.",
+    "common_issues": [
+      "Bloat (Gastric Dilatation-Volvulus)",
+      "Hip dysplasia",
+      "Ear infections",
+      "Hypothyroidism",
+      "Progressive Retinal Atrophy (PRA)"
+    ],
+    "prevention_tips": [
+      "Feed smaller, frequent meals to reduce bloat risk",
+      "Provide regular exercise to maintain healthy weight",
+      "Clean ears regularly to prevent infections",
+      "Schedule routine veterinary check-ups",
+      "Ensure responsible breeding practices to reduce genetic disorders"
+    ],
+    "vet_checkups": "Annual check-ups recommended; more frequent visits for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Дратхаары в целом здоровы, но склонны к определенным заболеваниям, таким как вздутие желудка, дисплазия тазобедренного сустава и ушные инфекции. Регулярный ветеринарный уход и профилактические меры помогут поддерживать их здоровье.",
+    "распространённые проблемы": [
+      "Вздутие желудка (Гастродилатация-волвулюс)",
+      "Дисплазия тазобедренного сустава",
+      "Ушные инфекции",
+      "Гипотиреоз",
+      "Прогрессирующая атрофия сетчатки (PRA)"
+    ],
+    "советы по профилактике": [
+      "Кормите небольшими, частыми порциями, чтобы снизить риск вздутия",
+      "Обеспечьте регулярные физические нагрузки для поддержания здорового веса",
+      "Регулярно чистите уши, чтобы предотвратить инфекции",
+      "Проводите плановые ветеринарные осмотры",
+      "Обеспечьте ответственное разведение для снижения риска генетических заболеваний"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры; более частые визиты для пожилых собак или тех, у кого есть проблемы со здоровьем."
+  },
+  "care": {
+    "description": "German Wirehaired Pointers require consistent training, regular exercise, and proper grooming to stay healthy and happy.",
+    "behavior": "Provide ample physical and mental stimulation to prevent boredom; engage in activities like hunting, agility, or obedience training.",
+    "health": "Monitor for signs of common health issues; maintain a balanced diet and regular exercise routine.",
+    "grooming": "Brush the coat weekly; occasional hand-stripping may be needed to maintain coat texture; clean ears regularly to prevent infections.",
+    "nutrition": "Feed a high-quality diet appropriate for their age, size, and activity level; divide meals to reduce bloat risk."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Дратхаарам необходимы последовательная дрессировка, регулярные физические нагрузки и надлежащий уход за шерстью для поддержания здоровья и счастья.",
+    "поведение и характер": "Обеспечьте достаточную физическую и умственную стимуляцию, чтобы предотвратить скуку; занимайтесь такими видами активности, как охота, аджилити или тренировки по послушанию.",
+    "здоровье и профилактика": "Следите за признаками распространенных проблем со здоровьем; поддерживайте сбалансированную диету и регулярные физические нагрузки.",
+    "груминг и уход": "Расчесывайте шерсть еженедельно; периодически проводите тримминг для поддержания текстуры шерсти; регулярно чистите уши, чтобы предотвратить инфекции.",
+    "питание и активность": "Кормите высококачественным кормом, соответствующим возрасту, размеру и уровню активности; делите приемы пищи, чтобы снизить риск вздутия."
+  },
+  "faq": [
+    {
+      "question": "Are German Wirehaired Pointers good family dogs?",
+      "answer": "Yes, they are affectionate and loyal, making them excellent family companions when provided with sufficient exercise and training."
+    },
+    {
+      "question": "How much exercise does a GWP need?",
+      "answer": "They require at least one to two hours of vigorous exercise daily to meet their high energy levels."
+    },
+    {
+      "question": "Do GWPs shed a lot?",
+      "answer": "They shed lightly; regular brushing helps manage shedding and keeps their coat healthy."
+    },
+    {
+      "question": "Are GWPs easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable with consistent, positive reinforcement methods."
+    },
+    {
+      "question": "Can GWPs live in apartments?",
+      "answer": "They are best suited to homes with space to exercise; apartment living is possible if their exercise needs are met."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Дратхаары подходят для семей с детьми?",
+      "ответ": "Да, они ласковы и преданы, что делает их отличными семейными компаньонами при условии достаточных физических нагрузок и дрессировки."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется дратхаару?",
+      "ответ": "Им необходимо не менее одного-двух часов интенсивных физических нагрузок ежедневно, чтобы удовлетворить их высокий уровень энергии."
+    },
+    {
+      "вопрос": "Сильно ли линяют дратхаары?",
+      "ответ": "Они линяют умеренно; регулярное расчесывание помогает контролировать линьку и поддерживать здоровье шерсти."
+    },
+    {
+      "вопрос": "Легко ли дрессировать дратхааров?",
+      "ответ": "Да, они умны и стремятся угодить, что делает их высоко обучаемыми при использовании последовательных методов положительного подкрепления."
+    },
+    {
+      "вопрос": "Могут ли дратхаары жить в квартирах?",
+      "ответ": "Они лучше подходят для домов с пространством для упражнений; проживание в квартире возможно, если их потребности в физических нагрузках удовлетворяются."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/German_Wirehaired_Pointer",
+    "https://www.akc.org/expert-advice/lifestyle/fun-facts-german-wirehaired-pointer/",
+    "https://www.purina.com/dogs/dog-breeds/german-wirehaired-pointer",
+    "https://www.webmd.com/pets/dogs/what-to-know-german-wirehaired-pointers",
+    "https://www.westminsterkennelclub.org/breed/german-wirehaired-pointer/",
+    "https://www.proplan.ru/dog/breeds/drathaar",
+    "https://www.pedigree.ru/porody/drathaar",
+    "https://ru.wikipedia.org/wiki/Дратхаар"
+  ]
+}

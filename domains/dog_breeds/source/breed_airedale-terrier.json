@@ -1,0 +1,83 @@
+{
+  "id": "airedale-terrier",
+  "name": "Airedale Terrier",
+  "full_description": "<p>The Airedale Terrier, often referred to as the 'King of Terriers,' is the largest of the terrier breeds, originating from the Aire Valley in Yorkshire, England. Developed in the mid-19th century by crossing the Old English Black and Tan Terrier with the Otterhound, the breed was designed to create a versatile hunting and working dog capable of handling both land and water tasks. This combination resulted in a dog adept at hunting small game, such as rats and otters, while also serving as a reliable farm and guard dog. Physically, Airedales are medium to large-sized dogs, with males typically standing around 23 inches (58 cm) at the shoulder and weighing between 50 to 70 pounds (23 to 32 kg). Females are slightly smaller. They possess a dense, wiry coat that is predominantly tan with a black or grizzle saddle, and their expressive faces are framed by folded ears and a distinctive beard. Their tails are traditionally carried high and were historically docked, though this practice has become less common due to legal restrictions in many countries. Temperamentally, Airedales are known for their intelligence, confidence, and playful nature. They are loyal and protective of their families, making them excellent companions and watchdogs. Their energetic and curious disposition requires regular mental and physical stimulation to prevent boredom and potential behavioral issues. Originally bred for hunting and working purposes, Airedales have demonstrated versatility in various roles, including serving as war dogs, police dogs, and search and rescue animals. Their keen sense of smell and determination made them invaluable during World War I for delivering messages and locating wounded soldiers. In contemporary times, Airedales continue to be cherished as family pets, excelling in activities such as obedience, agility, and even therapy work. Their adaptability and engaging personalities have maintained their popularity among dog enthusiasts worldwide. Notable characteristics of the Airedale include their hypoallergenic coat, which sheds minimally but requires regular grooming to maintain its condition. They are also known for their problem-solving abilities and independent thinking, traits that can be both endearing and challenging for owners. With proper training and socialization, Airedales make affectionate and devoted companions, embodying a unique blend of tenacity and charm.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "50-70 pounds (23-32 kg)",
+    "height": "23 inches (58 cm)",
+    "coat": "dense, wiry, tan with black or grizzle saddle",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming recommended",
+    "lifespan": "11-14 years"
+  },
+  "behavior": {
+    "summary": "Airedale Terriers are intelligent, energetic, and confident dogs known for their loyalty and playful nature. They require regular mental and physical stimulation to prevent boredom and are generally good with families and children when properly trained.",
+    "with_family": "Airedales are affectionate and protective, forming strong bonds with family members. They thrive on companionship and enjoy participating in family activities.",
+    "with_children": "With proper socialization, Airedales are patient and playful with children, making them suitable family pets. Supervision is recommended to ensure positive interactions.",
+    "with_other_pets": "Airedales can coexist with other pets, especially when raised together. However, their strong prey drive may lead them to chase smaller animals.",
+    "with_strangers": "They are alert and may be reserved around strangers, making them effective watchdogs. Early socialization helps them become more accepting of unfamiliar people.",
+    "special_traits": [
+      "Intelligent and independent thinkers",
+      "Energetic and playful",
+      "Loyal and protective",
+      "Strong prey drive",
+      "Minimal shedding with regular grooming"
+    ]
+  },
+  "health": {
+    "summary": "Airedale Terriers are generally healthy but are prone to certain conditions such as hip dysplasia, hypothyroidism, and skin infections. Regular veterinary check-ups and preventive care are essential to maintain their health.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Hypothyroidism",
+      "Skin infections",
+      "Bloating (Gastric Dilatation Volvulus)",
+      "Dental issues"
+    ],
+    "prevention_tips": [
+      "Provide a balanced diet and regular exercise",
+      "Maintain proper grooming to prevent skin issues",
+      "Schedule regular veterinary check-ups",
+      "Monitor for signs of bloating and seek immediate care if symptoms arise",
+      "Implement routine dental care"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Airedale Terriers require consistent training, regular exercise, and proper grooming to maintain their health and happiness. They thrive in environments where they can engage both physically and mentally.",
+    "behavior": "Provide daily physical activities and mental challenges to prevent boredom and destructive behaviors. Early socialization and obedience training are crucial.",
+    "health": "Regular veterinary visits, a nutritious diet, and preventive measures are key to managing common health issues in Airedales.",
+    "grooming": "Brush their dense, wiry coat several times a week and schedule professional grooming every 6-8 weeks to maintain coat health and appearance.",
+    "nutrition": "Feed a high-quality diet appropriate for their age, size, and activity level. Monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Airedale Terriers good with children?",
+      "answer": "Yes, with proper socialization and training, Airedales are patient and playful with children, making them suitable family pets."
+    },
+    {
+      "question": "How much exercise does an Airedale Terrier need?",
+      "answer": "Airedales require daily physical activities and mental stimulation to stay healthy and prevent boredom."
+    },
+    {
+      "question": "Do Airedale Terriers shed a lot?",
+      "answer": "They have minimal shedding but require regular grooming to maintain their coat and prevent matting."
+    },
+    {
+      "question": "Are Airedale Terriers easy to train?",
+      "answer": "Yes, they are intelligent and respond well to consistent, positive reinforcement training methods."
+    },
+    {
+      "question": "What is the lifespan of an Airedale Terrier?",
+      "answer": "Airedale Terriers typically live between 11 to 14 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Airedale_Terrier",
+    "https://www.purina.com/dogs/dog-breeds/airedale-terrier",
+    "https://www.petmd.com/dog/breeds/airedale-terrier",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-airedale-terriers",
+    "https://www.petco.com/content/content-hub/home/breeds/dog-breeds/airedale-terrier.html"
+  ]
+}

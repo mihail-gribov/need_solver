@@ -1,0 +1,84 @@
+{
+  "need_id": "manageable_strength",
+  "formula": "(size_toy | size_small | size_medium) & ~physical_strength",
+  "formula_reasoning": "Breeds suitable for people who need manageable strength should be physically easier to control. This is best represented by choosing breeds that are toy, small, or medium in size (size_toy | size_small | size_medium) and have low physical power/pulling strength (~physical_strength).",
+  "questions": [
+    {
+      "id": "manageable_strength_q1",
+      "text": "В вашей семье есть пожилые люди или дети, которые будут гулять с собакой?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = есть риск, что сильная собака будет сложна для контроля. Нет = взрослые смогут справиться."
+    },
+    {
+      "id": "manageable_strength_q2",
+      "text": "Вам важно, чтобы собаку было легко удержать на поводке во время прогулок?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = нужен питомец с умеренной/низкой силой. Нет = готовы к более сильной собаке."
+    },
+    {
+      "id": "manageable_strength_q3",
+      "text": "Собаку будут выгуливать те, кто не привык иметь дело с крупными или очень активными животными?",
+      "weight": 0.75,
+      "style": "situational",
+      "verification": "Да = нужен питомец, которого легко контролировать. Нет = предполагается опытный взрослый."
+    },
+    {
+      "id": "manageable_strength_q4",
+      "text": "Вам комфортнее с собакой небольшого или среднего размера?",
+      "weight": 0.8,
+      "style": "preference",
+      "verification": "Да = предпочтение к маленьким/средним породам, обычно менее мощным. Нет = размер не ограничен."
+    },
+    {
+      "id": "manageable_strength_q5",
+      "text": "Вы планируете выгуливать собаку в городских условиях, где важно быстро реагировать и удерживать питомца под контролем?",
+      "weight": 0.65,
+      "style": "situational",
+      "verification": "Да = в городе легче с собакой умеренной силы. Нет = условия менее ограничены."
+    }
+  ],
+  "need_name": "Manageable Strength",
+  "need_description": "Not too strong to handle (important for elderly/children)",
+  "block": "size_constraints",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

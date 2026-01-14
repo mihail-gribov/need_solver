@@ -1,0 +1,79 @@
+{
+  "id": "bernedoodle",
+  "name": "Bernedoodle",
+  "full_description": "<p>The Bernedoodle is a hybrid dog breed resulting from the cross between a Bernese Mountain Dog and a Poodle. This intentional crossbreed was developed to combine the Bernese's affectionate and loyal nature with the Poodle's intelligence and hypoallergenic coat. The breed's origins trace back to the early 2000s in North America, where breeders aimed to create a companion dog that embodies the best traits of both parent breeds. Bernedoodles come in three primary sizes: Standard, Miniature, and Toy, depending on the size of the Poodle parent. Their coats are typically wavy or curly, reducing shedding and making them suitable for individuals with mild allergies. Common coat colors include tricolor (black, white, and brown), bicolor, or solid shades, influenced by their Poodle heritage. Temperamentally, Bernedoodles are known for their friendly, affectionate, and playful demeanor. They are highly social dogs that thrive on human interaction and are known to be good with children and other pets. Their intelligence, inherited from the Poodle, makes them highly trainable, though they may occasionally exhibit stubbornness from the Bernese side. Originally bred as companion animals, Bernedoodles do not have a history of specific working roles. However, their intelligence and temperament make them suitable for various activities, including therapy and assistance work. In modern times, Bernedoodles have gained popularity as family pets due to their adaptable nature and hypoallergenic coats. Notable characteristics of the breed include their teddy bear-like appearance, a blend of the Bernese's sturdy build and the Poodle's elegant features, and their ability to adapt to various living environments, from apartments to larger homes with yards.</p>",
+  "parameters": {
+    "size": "Varies by type: Standard, Miniature, and Toy",
+    "weight": "Standard: 61–100 lbs (28–45 kg); Miniature: 20–45 lbs (9–20 kg); Toy: <20 lbs (<9 kg)",
+    "height": "Standard: up to 29 inches (74 cm); Miniature: up to 22 inches (56 cm); Toy: 12–17 inches (30–43 cm)",
+    "coat": "Medium to long, wavy or curly; low-shedding",
+    "activity": "Moderate to high; requires daily exercise",
+    "trainability": "High; intelligent and eager to please",
+    "grooming": "Regular brushing (2–3 times per week); professional grooming every 6–8 weeks",
+    "lifespan": "Standard: 12–15 years; Miniature: 14–16 years; Toy: up to 18 years"
+  },
+  "behavior": {
+    "summary": "Bernedoodles are affectionate, playful, and intelligent dogs that thrive on human companionship and are well-suited for families.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and a desire to be involved in daily activities.",
+    "with_children": "Known for their gentle and patient nature, Bernedoodles are excellent companions for children of all ages.",
+    "with_other_pets": "Generally sociable with other animals, especially when properly socialized from a young age.",
+    "with_strangers": "May be reserved initially but typically warm up quickly, especially with proper socialization.",
+    "special_traits": [
+      "Highly social and thrive on human interaction",
+      "Intelligent and trainable, suitable for various roles",
+      "Adaptable to different living environments"
+    ]
+  },
+  "health": {
+    "summary": "Bernedoodles are generally healthy but can inherit certain conditions from their parent breeds.",
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Allergies",
+      "Gastric dilatation-volvulus (GDV)"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce joint stress",
+      "Regular eye examinations to detect early signs of PRA",
+      "Monitor for signs of allergies and consult a veterinarian for management",
+      "Feed smaller, more frequent meals to reduce GDV risk"
+    ],
+    "vet_checkups": "Annual wellness exams; more frequent visits as needed for specific health concerns"
+  },
+  "care": {
+    "description": "Bernedoodles require regular grooming, consistent training, and daily exercise to maintain their health and happiness.",
+    "behavior": "Early socialization and positive reinforcement training are essential to develop a well-mannered and confident dog.",
+    "health": "Regular veterinary check-ups and preventive care are crucial to monitor and maintain overall health.",
+    "grooming": "Brush 2–3 times per week to prevent matting; professional grooming every 6–8 weeks is recommended.",
+    "nutrition": "Provide a balanced diet appropriate for the dog's size, age, and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Bernedoodles hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Bernedoodles' low-shedding coats may be suitable for individuals with mild allergies."
+    },
+    {
+      "question": "How much exercise does a Bernedoodle need?",
+      "answer": "They require at least 30–60 minutes of daily exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Bernedoodles good with children?",
+      "answer": "Yes, they are known for their gentle and patient nature, making them excellent companions for children."
+    },
+    {
+      "question": "Do Bernedoodles require a lot of grooming?",
+      "answer": "Yes, regular brushing and professional grooming every 6–8 weeks are necessary to maintain their coat."
+    },
+    {
+      "question": "What is the lifespan of a Bernedoodle?",
+      "answer": "Depending on their size, Bernedoodles can live between 12 to 18 years."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/bernedoodle",
+    "https://www.chewy.com/education/dog-breeds/bernedoodle",
+    "https://www.betterpet.com/learn/bernedoodle",
+    "https://www.petsradar.com/advice/bernedoodle-breed-profile",
+    "https://www.caninebible.com/bernedoodle/"
+  ]
+}

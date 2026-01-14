@@ -1,0 +1,160 @@
+{
+  "id": "poodle",
+  "name": "Poodle",
+  "name_rus": "Пудель",
+  "full_description": "<p>The Poodle, known as 'Pudel' in German and 'Caniche' in French, is a breed of water dog that has been cherished for centuries. While its exact origins are debated, the breed likely originated in Germany, where it was used as a water retriever. The name 'Poodle' is derived from the German word 'pudeln,' meaning 'to splash.' In France, the breed is called 'Caniche,' meaning 'duck dog,' reflecting its proficiency in waterfowl hunting. Historically, larger Poodles were employed by hunters to retrieve game from water, while smaller varieties found roles as circus performers due to their intelligence and trainability.</p>\n<p>Physically, Poodles are distinguished by their thick, curly coats that come in a variety of colors, including black, white, brown, gray, and apricot. The breed is divided into four size categories: Standard, Medium, Miniature, and Toy. The Standard Poodle stands over 45 cm up to 60 cm at the shoulder, the Medium Poodle over 35 cm up to 45 cm, the Miniature Poodle over 28 cm up to 35 cm, and the Toy Poodle over 24 cm up to 28 cm. Despite size differences, all Poodles share a squarely built, well-proportioned body, exuding elegance and athleticism.</p>\n<p>Temperamentally, Poodles are renowned for their intelligence, making them highly trainable and eager to please. They are active dogs that thrive on mental and physical stimulation. Their friendly and sociable nature makes them excellent companions for families, and they generally get along well with children and other pets. Poodles are also known for their alertness, making them effective watchdogs.</p>\n<p>Originally bred for retrieving waterfowl, Poodles possess strong swimming abilities and a keen sense of smell. Their intelligence and versatility have allowed them to excel in various roles beyond hunting, including performing in circuses, serving as guide dogs, and participating in dog sports such as agility and obedience competitions.</p>\n<p>In modern times, Poodles have gained immense popularity as both show dogs and family pets. Their hypoallergenic coats make them a preferred choice for individuals with allergies. The breed's adaptability and affectionate nature have solidified its status as a beloved companion worldwide.</p>\n<p>Notable characteristics of the Poodle include its distinctive grooming styles, such as the 'Continental' and 'English Saddle' clips, which, while often seen as decorative, were originally designed to protect vital organs and joints in cold water. Additionally, Poodles have a long lifespan, typically ranging from 10 to 18 years, with smaller varieties often living longer than larger ones.</p>",
+  "full_description_rus": "<p>Пудель — порода собак, известная своим интеллектом, элегантностью и разнообразием размеров. Считается, что порода возникла в Германии, где использовалась в качестве водяной собаки для охоты на водоплавающую дичь. Название 'пудель' происходит от немецкого слова 'pudeln', означающего 'плескаться в воде'. Во Франции порода известна как 'caniche', что переводится как 'утка', отражая её первоначальное предназначение. Исторически крупные пудели использовались охотниками для извлечения добычи из воды, в то время как более мелкие разновидности нашли применение в цирковых представлениях благодаря своему уму и способности к обучению.</p>\n<p>Физически пудели отличаются густой, кудрявой шерстью, которая бывает различных окрасов, включая чёрный, белый, коричневый, серый и абрикосовый. Порода делится на четыре размерные категории: стандартный (45–60 см в холке), малый (35–45 см), карликовый (28–35 см) и той (до 28 см). Несмотря на различия в размере, все пудели имеют квадратное, пропорциональное телосложение, излучающее элегантность и атлетизм.</p>\n<p>По характеру пудели известны своим высоким интеллектом, что делает их легко обучаемыми и стремящимися угодить хозяину. Они активны и нуждаются в умственной и физической стимуляции. Дружелюбный и общительный нрав делает их отличными компаньонами для семей; они хорошо ладят с детьми и другими домашними животными. Пудели также известны своей бдительностью, что делает их эффективными сторожевыми собаками.</p>\n<p>Изначально выведенные для охоты на водоплавающую дичь, пудели обладают сильными плавательными способностями и острым обонянием. Их интеллект и универсальность позволили им преуспеть в различных ролях, включая работу в цирке, службу поводырями и участие в собачьих спортивных соревнованиях, таких как аджилити и послушание.</p>\n<p>В современное время пудели приобрели огромную популярность как выставочные собаки и семейные питомцы. Их гипоаллергенная шерсть делает их предпочтительным выбором для людей, страдающих аллергией. Адаптивность и привязанность к хозяевам закрепили за ними статус любимых компаньонов во всём мире.</p>\n<p>Примечательными особенностями пуделей являются их характерные стрижки, такие как 'континенталь' и 'английское седло', которые, хотя часто воспринимаются как декоративные, изначально были разработаны для защиты жизненно важных органов и суставов в холодной воде. Кроме того, пудели обладают продолжительной продолжительностью жизни, обычно от 10 до 18 лет, при этом более мелкие разновидности часто живут дольше крупных.</p>",
+  "parameters": {
+    "size": "Varies by variety: Standard, Medium, Miniature, Toy",
+    "weight": "Varies by variety: Standard (20–32 kg), Medium (15–19 kg), Miniature (12–14 kg), Toy (6–8 kg)",
+    "height": "Varies by variety: Standard (45–60 cm), Medium (35–45 cm), Miniature (28–35 cm), Toy (24–28 cm)",
+    "coat": "Thick, curly, and comes in various colors including black, white, brown, gray, and apricot",
+    "activity": "High; requires regular physical and mental stimulation",
+    "trainability": "Very high; intelligent and eager to please",
+    "grooming": "Requires regular grooming every 4 to 8 weeks to maintain coat health",
+    "lifespan": "10–18 years, with smaller varieties often living longer than larger ones"
+  },
+  "parameters_rus": {
+    "размер": "Зависит от разновидности: стандартный, малый, карликовый, той",
+    "вес": "Зависит от разновидности: стандартный (20–32 кг), малый (15–19 кг), карликовый (12–14 кг), той (6–8 кг)",
+    "рост": "Зависит от разновидности: стандартный (45–60 см), малый (35–45 см), карликовый (28–35 см), той (до 28 см)",
+    "шерсть": "Густая, кудрявая, различных окрасов, включая чёрный, белый, коричневый, серый и абрикосовый",
+    "активность": "Высокая; требует регулярной физической и умственной стимуляции",
+    "обучаемость": "Очень высокая; умны и стремятся угодить",
+    "уход": "Требует регулярного груминга каждые 4–8 недель для поддержания здоровья шерсти",
+    "продолжительность жизни": "10–18 лет, при этом более мелкие разновидности часто живут дольше крупных"
+  },
+  "behavior": {
+    "summary": "Poodles are intelligent, active, and sociable dogs that thrive on companionship and mental stimulation.",
+    "with_family": "They form strong bonds with family members and are known for their affectionate nature.",
+    "with_children": "Generally good with children, especially when socialized from a young age.",
+    "with_other_pets": "Typically get along well with other pets, including dogs and cats.",
+    "with_strangers": "Alert and may be reserved around strangers, making them effective watchdogs.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Active and require regular exercise",
+      "Hypoallergenic coat",
+      "Versatile in various roles (e.g., hunting, performing, service work)",
+      "Distinctive grooming styles"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Пудели — умные, активные и общительные собаки, которые нуждаются в компании и умственной стимуляции.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи и известны своей привязанностью.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации.",
+    "с другими животными": "Как правило, хорошо уживаются с другими питомцами, включая собак и кошек.",
+    "с незнакомцами": "Бдительны и могут быть сдержанными с незнакомцами, что делает их эффективными сторожевыми собаками.",
+    "особые черты": [
+      "Высокий интеллект и обучаемость",
+      "Активность и необходимость в регулярных физических нагрузках",
+      "Гипоаллергенная шерсть",
+      "Универсальность в различных ролях (например, охота, выступления, служебная работа)",
+      "Характерные стили стрижек"
+    ]
+  },
+  "health": {
+    "summary": "Poodles are generally healthy but can be prone to certain genetic health issues.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy",
+      "Epilepsy",
+      "Addison's disease",
+      "Bloat (gastric dilatation-volvulus)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintaining a healthy diet and weight",
+      "Regular exercise",
+      "Routine eye examinations",
+      "Genetic testing for inherited conditions"
+    ],
+    "vet_checkups": "Recommended annually, or more frequently for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Пудели в целом здоровы, но могут быть склонны к определённым генетическим заболеваниям.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Прогрессирующая атрофия сетчатки",
+      "Эпилепсия",
+      "Болезнь Аддисона",
+      "Вздутие желудка (гастродилатация-волвулус)"
+    ],
+    "советы по профилактике": [
+      "Регулярные визиты к ветеринару",
+      "Поддержание здоровой диеты и веса",
+      "Регулярные физические нагрузки",
+      "Плановые осмотры глаз",
+      "Генетическое тестирование на наследственные заболевания"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодно, или чаще для пожилых собак или имеющих проблемы со здоровьем."
+  },
+  "care": {
+    "description": "Poodles require attentive care, including regular grooming, exercise, and mental stimulation to maintain their health and happiness.",
+    "behavior": "Engage in daily activities such as walks, playtime, and training sessions to keep them mentally and physically stimulated.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits.",
+    "grooming": "Professional grooming every 4 to 8 weeks, along with regular at-home brushing to prevent matting.",
+    "nutrition": "Provide a balanced diet appropriate for their size, age, and activity level."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Пудели требуют внимательного ухода, включая регулярный груминг, физические нагрузки и умственную стимуляцию для поддержания их здоровья и счастья.",
+    "поведение и характер": "Участвуйте в ежедневных активностях, таких как прогулки, игры и тренировки, чтобы поддерживать их умственную и физическую активность.",
+    "здоровье и профилактика": "Следите за признаками распространённых проблем со здоровьем и регулярно посещайте ветеринара.",
+    "груминг и уход": "Профессиональный груминг каждые 4–8 недель, а также регулярное домашнее расчёсывание для предотвращения спутывания шерсти.",
+    "питание и активность": "Обеспечьте сбалансированную диету, соответствующую их размеру, возрасту и уровню активности."
+  },
+  "faq": [
+    {
+      "question": "Are Poodles hypoallergenic?",
+      "answer": "Yes, Poodles have a hypoallergenic coat that produces less dander, making them suitable for some allergy sufferers."
+    },
+    {
+      "question": "Do Poodles require a lot of exercise?",
+      "answer": "Yes, Poodles are active dogs that need regular physical and mental exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Poodles good with children?",
+      "answer": "Generally, Poodles are good with children, especially when socialized properly from a young age."
+    },
+    {
+      "question": "How often do Poodles need grooming?",
+      "answer": "Poodles require professional grooming every 4 to 8 weeks, along with regular at-home brushing."
+    },
+    {
+      "question": "What sizes do Poodles come in?",
+      "answer": "Poodles come in four sizes: Standard, Medium, Miniature, and Toy."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли пудели гипоаллергенными?",
+      "ответ": "Да, пудели имеют гипоаллергенную шерсть, которая производит меньше перхоти, что делает их подходящими для некоторых людей, страдающих аллергией."
+    },
+    {
+      "вопрос": "Требуют ли пудели много физических нагрузок?",
+      "ответ": "Да, пудели — активные собаки, которым необходимы регулярные физические и умственные нагрузки для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Хорошо ли пудели ладят с детьми?",
+      "ответ": "Обычно пудели хорошо ладят с детьми, особенно при правильной социализации с раннего возраста."
+    },
+    {
+      "вопрос": "Как часто пуделям требуется груминг?",
+      "ответ": "Пуделям требуется профессиональный груминг каждые 4–8 недель, а также регулярное домашнее расчёсывание."
+    },
+    {
+      "вопрос": "Какие размеры бывают у пуделей?",
+      "ответ": "Пудели бывают четырёх размеров: стандартный, малый, карликовый и той."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Poodle",
+    "https://www.fci.be/en/nomenclature/CANICHE-172.html",
+    "https://www.akc.org/expert-advice/dog-breeds/fun-facts-poodle/",
+    "https://poodleclubofamerica.org/akc-breed-standard/",
+    "https://ru.wikipedia.org/wiki/Пудель",
+    "https://www.pedigree.ru/porody/standartnijpudel",
+    "https://www.proplan.ru/dog/breeds/pudel",
+    "https://www.cesar.ru/porody/pudel/",
+    "https://www.hillspet.ru/dog-care/dog-breeds/poodle.html"
+  ]
+}

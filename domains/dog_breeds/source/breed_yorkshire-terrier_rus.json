@@ -1,0 +1,160 @@
+{
+  "id": "yorkshire-terrier",
+  "name": "Yorkshire Terrier",
+  "name_rus": "Йоркширский терьер",
+  "full_description": "<p>The Yorkshire Terrier, affectionately known as the Yorkie, is a small yet spirited breed that originated in the mid-19th century in the English county of Yorkshire. Developed by workers in cotton and woolen mills, the breed was created by crossing various terriers, including the Black-and-Tan Terrier, Paisley Terrier, and Clydesdale Terrier, with the primary goal of producing an adept ratter to control rodent populations in textile mills.</p>\n<p>Physically, the Yorkshire Terrier is diminutive, typically weighing no more than 3.2 kg (7 pounds). They possess a fine, straight, and silky coat that is traditionally grown long and parted down the middle of the back. The coat color is a distinctive combination of dark steel-blue on the body and rich tan on the head, chest, and legs. Their small, V-shaped ears stand erect, and they have a compact, well-proportioned body.</p>\n<p>Yorkies are known for their bold and confident temperament. Despite their small size, they exhibit the tenacity and courage typical of terriers. They are affectionate with their families, often forming strong bonds with their owners. Their energetic and playful nature makes them lively companions. However, they can be wary of strangers and may exhibit a protective demeanor.</p>\n<p>Originally bred for their working abilities in rat control, Yorkshire Terriers have transitioned into beloved companion animals. Their intelligence and eagerness to please make them relatively easy to train, though they can exhibit a stubborn streak. They excel in various canine sports and activities, including agility and obedience competitions.</p>\n<p>In modern times, the Yorkshire Terrier has become one of the most popular toy breeds worldwide. Their small size makes them well-suited for urban living, and their hypoallergenic coat appeals to individuals with allergies. They are often seen accompanying their owners in various settings, from city apartments to suburban homes.</p>\n<p>Notable characteristics of the breed include their long, flowing coat, which requires regular grooming to maintain its appearance and health. Their alert and inquisitive nature makes them excellent watchdogs, as they are quick to sound the alarm when they sense something amiss. Despite their delicate appearance, they are hardy and adaptable, embodying a blend of elegance and tenacity that endears them to dog enthusiasts around the globe.</p>",
+  "full_description_rus": "<p>Йоркширский терьер, ласково называемый йорком, — это небольшая, но энергичная порода, возникшая в середине XIX века в английском графстве Йоркшир. Порода была выведена рабочими хлопчатобумажных и шерстяных фабрик путем скрещивания различных терьеров, включая черно-подпалого терьера, пейсли-терьера и клайдсдейл-терьера, с основной целью создания эффективного крысолова для контроля популяции грызунов на текстильных фабриках.</p>\n<p>Физически йоркширский терьер — миниатюрная собака, обычно весом не более 3,2 кг. У них тонкая, прямая и шелковистая шерсть, традиционно отращиваемая длинной и разделенная пробором по середине спины. Окрас представляет собой характерное сочетание темно-стального синего на теле и насыщенного подпала на голове, груди и ногах. Маленькие V-образные уши стоят прямо, а тело компактное и пропорциональное.</p>\n<p>Йорки известны своим смелым и уверенным темпераментом. Несмотря на небольшой размер, они проявляют настойчивость и храбрость, типичные для терьеров. Они привязаны к своим семьям, часто формируя сильные связи с владельцами. Их энергичный и игривый характер делает их живыми компаньонами. Однако они могут быть насторожены к незнакомцам и проявлять защитное поведение.</p>\n<p>Изначально выведенные для работы по контролю грызунов, йоркширские терьеры превратились в любимых компаньонов. Их интеллект и стремление угодить делают их относительно легкими в обучении, хотя они могут проявлять упрямство. Они преуспевают в различных собачьих видах спорта и мероприятиях, включая аджилити и соревнования по послушанию.</p>\n<p>В современное время йоркширский терьер стал одной из самых популярных декоративных пород во всем мире. Их небольшой размер делает их хорошо подходящими для городской жизни, а гипоаллергенная шерсть привлекает людей с аллергией. Их часто можно увидеть сопровождающими своих владельцев в различных условиях, от городских квартир до загородных домов.</p>\n<p>Значительные характеристики породы включают их длинную, струящуюся шерсть, требующую регулярного ухода для поддержания внешнего вида и здоровья. Их бдительный и любознательный характер делает их отличными сторожевыми собаками, так как они быстро подают сигнал тревоги при обнаружении чего-то необычного. Несмотря на хрупкий внешний вид, они выносливы и адаптивны, сочетая элегантность и настойчивость, что привлекает любителей собак по всему миру.</p>",
+  "parameters": {
+    "size": "Toy",
+    "weight": "Up to 3.2 kg (7 pounds)",
+    "height": "Approximately 20-23 cm (8-9 inches)",
+    "coat": "Fine, straight, silky; dark steel-blue and rich tan coloration",
+    "activity": "Moderate",
+    "trainability": "Moderate; intelligent but can be stubborn",
+    "grooming": "High; requires regular brushing and professional grooming",
+    "lifespan": "11-15 years"
+  },
+  "parameters_rus": {
+    "размер": "Декоративный",
+    "вес": "До 3,2 кг",
+    "рост": "Около 20-23 см",
+    "шерсть": "Тонкая, прямая, шелковистая; темно-стально-синий и насыщенный подпал",
+    "активность": "Умеренная",
+    "обучаемость": "Средняя; умны, но могут быть упрямыми",
+    "уход": "Высокий; требует регулярного расчесывания и профессионального груминга",
+    "продолжительность жизни": "11-15 лет"
+  },
+  "behavior": {
+    "summary": "Yorkshire Terriers are energetic, affectionate, and confident dogs with a strong terrier heritage.",
+    "with_family": "They form strong bonds with family members and thrive on companionship.",
+    "with_children": "Generally good with older children who understand how to interact with small dogs.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though they may exhibit dominance.",
+    "with_strangers": "Often wary of strangers and may bark to alert their owners.",
+    "special_traits": [
+      "Alert and inquisitive",
+      "Loyal and affectionate",
+      "Bold and confident",
+      "Energetic and playful",
+      "Protective of their territory"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Йоркширские терьеры энергичны, привязаны к хозяевам и уверены в себе, с ярко выраженными терьерскими чертами.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи и нуждаются в постоянном внимании.",
+    "с детьми": "Обычно хорошо ладят со старшими детьми, которые понимают, как обращаться с маленькими собаками.",
+    "с другими животными": "Могут уживаться с другими питомцами при правильной социализации, хотя могут проявлять доминирование.",
+    "с незнакомцами": "Часто настороженно относятся к незнакомцам и могут лаять, чтобы предупредить хозяев.",
+    "особые черты": [
+      "Бдительные и любознательные",
+      "Преданные и ласковые",
+      "Смелые и уверенные",
+      "Энергичные и игривые",
+      "Защитники своей территории"
+    ]
+  },
+  "health": {
+    "summary": "Yorkshire Terriers are generally healthy but are prone to certain conditions common in small breeds.",
+    "common_issues": [
+      "Hypoglycemia",
+      "Dental disease",
+      "Patellar luxation",
+      "Tracheal collapse",
+      "Portosystemic shunt"
+    ],
+    "prevention_tips": [
+      "Provide regular, balanced meals to prevent hypoglycemia.",
+      "Maintain dental hygiene with daily brushing and regular dental check-ups.",
+      "Use a harness instead of a collar to reduce pressure on the trachea.",
+      "Monitor for signs of joint issues and consult a veterinarian if lameness occurs.",
+      "Regular veterinary check-ups to detect and manage health issues early."
+    ],
+    "vet_checkups": "Annually for adults; semi-annually for seniors or as recommended by a veterinarian."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Йоркширские терьеры в целом здоровы, но склонны к некоторым заболеваниям, характерным для мелких пород.",
+    "распространённые проблемы": [
+      "Гипогликемия",
+      "Заболевания зубов",
+      "Вывих надколенника",
+      "Коллапс трахеи",
+      "Портосистемный шунт"
+    ],
+    "советы по профилактике": [
+      "Обеспечивайте регулярное, сбалансированное питание для предотвращения гипогликемии.",
+      "Поддерживайте гигиену полости рта с помощью ежедневной чистки зубов и регулярных осмотров у ветеринара.",
+      "Используйте шлейку вместо ошейника, чтобы снизить давление на трахею.",
+      "Следите за признаками проблем с суставами и консультируйтесь с ветеринаром при появлении хромоты.",
+      "Регулярные ветеринарные осмотры для раннего выявления и лечения заболеваний."
+    ],
+    "рекомендуемые осмотры": "Ежегодно для взрослых; раз в полгода для пожилых собак или по рекомендации ветеринара."
+  },
+  "care": {
+    "description": "Yorkshire Terriers require attentive care, including regular grooming, balanced nutrition, and consistent training.",
+    "behavior": "Early socialization and positive reinforcement training are essential to manage their bold and confident nature.",
+    "health": "Regular veterinary visits and preventive care are crucial to maintain their health and detect issues early.",
+    "grooming": "Daily brushing and regular professional grooming are necessary to keep their long coat healthy and free of mats.",
+    "nutrition": "Feed high-quality, age-appropriate dog food in small, frequent meals to maintain energy levels and prevent hypoglycemia."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Йоркширские терьеры требуют внимательного ухода, включая регулярный груминг, сбалансированное питание и последовательное обучение.",
+    "поведение и характер": "Ранняя социализация и обучение с положительным подкреплением необходимы для управления их смелым и уверенным характером.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход важны для поддержания здоровья и раннего выявления проблем.",
+    "груминг и уход": "Ежедневное расчесывание и регулярный профессиональный груминг необходимы для поддержания здоровья и отсутствия колтунов в длинной шерсти.",
+    "питание и активность": "Кормите высококачественным, соответствующим возрасту кормом небольшими, частыми порциями для поддержания уровня энергии и предотвращения гипогликемии."
+  },
+  "faq": [
+    {
+      "question": "Are Yorkshire Terriers hypoallergenic?",
+      "answer": "Yes, their fine, silky coat produces less dander, making them suitable for some allergy sufferers."
+    },
+    {
+      "question": "Do Yorkies get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, though they may exhibit dominance."
+    },
+    {
+      "question": "How often should a Yorkshire Terrier be groomed?",
+      "answer": "Daily brushing and regular professional grooming are recommended to maintain their coat."
+    },
+    {
+      "question": "Are Yorkshire Terriers good with children?",
+      "answer": "They are generally good with older children who understand how to handle small dogs gently."
+    },
+    {
+      "question": "What is the average lifespan of a Yorkshire Terrier?",
+      "answer": "They typically live between 11 to 15 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли йоркширские терьеры гипоаллергенными?",
+      "ответ": "Да, их тонкая, шелковистая шерсть производит меньше перхоти, что делает их подходящими для некоторых людей с аллергией."
+    },
+    {
+      "вопрос": "Ладят ли йорки с другими животными?",
+      "ответ": "При правильной социализации они могут уживаться с другими питомцами, хотя могут проявлять доминирование."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за йоркширским терьером?",
+      "ответ": "Рекомендуется ежедневное расчесывание и регулярный профессиональный груминг для поддержания состояния шерсти."
+    },
+    {
+      "вопрос": "Хорошо ли йоркширские терьеры ладят с детьми?",
+      "ответ": "Они обычно хорошо ладят со старшими детьми, которые понимают, как аккуратно обращаться с маленькими собаками."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни йоркширского терьера?",
+      "ответ": "При надлежащем уходе они обычно живут от 11 до 15 лет."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yorkshire_Terrier",
+    "https://www.petmd.com/dog/breeds/yorkshire-terrier",
+    "https://www.webmd.com/pets/dogs/know-about-yorkshire-terriers",
+    "https://vcahospitals.com/know-your-pet/yorkshire-terrier",
+    "https://www.rbc.ru/life/news/640b76149a7947b75f78ff4e",
+    "https://lenta.ru/articles/2024/06/27/yorkshirskiy-terier/",
+    "https://pets.mail.ru/dog-breeds/yorkshirskij-terer/",
+    "https://www.perfectfit.ru/advice-detail/jorkshirskij-terer/",
+    "https://ru.wikipedia.org/wiki/Йоркширский_терьер"
+  ]
+}

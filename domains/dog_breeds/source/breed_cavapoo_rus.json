@@ -1,0 +1,158 @@
+{
+  "id": "cavapoo",
+  "name": "Cavapoo",
+  "name_rus": "Кавапу",
+  "full_description": "<p>The Cavapoo, also known as the Cavoodle, is a hybrid breed resulting from the cross between a Cavalier King Charles Spaniel and a Poodle, typically the Miniature or Toy variety. This designer breed emerged in Australia during the late 20th century, aiming to combine the gentle and affectionate nature of the Cavalier with the intelligence and hypoallergenic coat of the Poodle. Cavapoos have since gained popularity worldwide as companion animals due to their adaptable and friendly disposition.</p>\n<p>Physically, Cavapoos are small to medium-sized dogs, with adults typically weighing between 8 to 25 pounds (4 to 11 kg) and standing 9 to 14 inches (23 to 36 cm) tall at the shoulder. Their coats can vary from wavy to curly, often inheriting the low-shedding quality of the Poodle parent, making them a suitable choice for individuals with mild allergies. Common coat colors include cream, apricot, red, black, and tricolor combinations.</p>\n<p>Temperamentally, Cavapoos are known for their affectionate, friendly, and playful nature. They form strong bonds with their families and thrive on human companionship. Their intelligence and eagerness to please make them highly trainable, responding well to positive reinforcement techniques. Early socialization is crucial to ensure they develop into well-rounded adults comfortable with children, other pets, and strangers.</p>\n<p>Originally bred as companion animals, Cavapoos do not have a history of working roles. Their primary purpose has always been to serve as loving and loyal family pets. In modern times, they continue to excel in this role, often participating in therapy work due to their gentle demeanor and empathetic nature.</p>\n<p>Notable characteristics of the Cavapoo include their adaptability to various living environments, from apartments to houses with yards, as long as they receive adequate exercise and mental stimulation. Their moderate energy levels require daily physical activity, such as walks or play sessions, to maintain their health and happiness. Additionally, their low-shedding coats require regular grooming to prevent matting and maintain skin health.</p>",
+  "full_description_rus": "<p>Кавапу, также известная как кавудл, — это гибридная порода, полученная в результате скрещивания кавалер-кинг-чарльз-спаниеля и пуделя, обычно миниатюрного или той-размера. Эта дизайнерская порода появилась в Австралии в конце XX века с целью объединить нежный и ласковый характер кавалера с интеллектом и гипоаллергенной шерстью пуделя. С тех пор кавапу приобрели популярность во всем мире как собаки-компаньоны благодаря своей адаптивности и дружелюбному нраву.</p>\n<p>Физически кавапу — это собаки небольшого и среднего размера: взрослые особи обычно весят от 4 до 11 кг и достигают в холке 23–36 см. Их шерсть может быть волнистой или кудрявой, часто наследуя низкую линьку от пуделя, что делает их подходящими для людей с легкой аллергией. Распространенные окрасы включают кремовый, абрикосовый, красный, черный и трехцветные комбинации.</p>\n<p>По темпераменту кавапу известны своей ласковостью, дружелюбностью и игривостью. Они формируют крепкие связи со своими семьями и процветают в обществе людей. Их интеллект и стремление угодить делают их легко обучаемыми; они хорошо реагируют на методы положительного подкрепления. Ранняя социализация важна, чтобы они выросли уравновешенными взрослыми, комфортно чувствующими себя с детьми, другими животными и незнакомцами.</p>\n<p>Изначально выведенные как компаньоны, кавапу не имеют истории рабочих ролей. Их основное предназначение всегда заключалось в том, чтобы быть любящими и преданными семейными питомцами. В современное время они продолжают преуспевать в этой роли, часто участвуя в терапевтической работе благодаря своему мягкому нраву и эмпатии.</p>\n<p>Значительные характеристики кавапу включают их адаптивность к различным условиям проживания — от квартир до домов с дворами, при условии, что они получают достаточную физическую и умственную нагрузку. Их умеренный уровень энергии требует ежедневной физической активности, такой как прогулки или игровые сессии, для поддержания здоровья и счастья. Кроме того, их низколиняющая шерсть требует регулярного ухода, чтобы предотвратить спутывание и поддерживать здоровье кожи.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "8-25 pounds (4-11 kg)",
+    "height": "9-14 inches (23-36 cm)",
+    "coat": "wavy to curly, low-shedding",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming every 4-8 weeks",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "небольшой / средний",
+    "вес": "4-11 кг",
+    "рост": "23-36 см",
+    "шерсть": "волнистая или кудрявая, с низкой линькой",
+    "активность": "умеренная",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчесывание; профессиональный груминг каждые 4-8 недель",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "summary": "Cavapoos are affectionate, friendly, and playful dogs that form strong bonds with their families and thrive on human companionship.",
+    "with_family": "They are highly affectionate and enjoy spending time with family members, often seeking attention and companionship.",
+    "with_children": "Cavapoos are gentle and patient with children, making them excellent family pets when properly socialized.",
+    "with_other_pets": "They generally get along well with other pets, especially when introduced at a young age.",
+    "with_strangers": "Cavapoos are friendly towards strangers, though early socialization helps ensure they remain well-mannered.",
+    "special_traits": [
+      "affectionate",
+      "intelligent",
+      "playful",
+      "adaptable",
+      "sociable"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Кавапу — ласковые, дружелюбные и игривые собаки, которые формируют крепкие связи со своими семьями и процветают в обществе людей.",
+    "с семьёй": "Они очень привязаны к членам семьи и любят проводить с ними время, часто ищут внимания и общения.",
+    "с детьми": "Кавапу нежны и терпеливы с детьми, что делает их отличными семейными питомцами при правильной социализации.",
+    "с другими животными": "Они обычно хорошо ладят с другими животными, особенно если были знакомы с ними с раннего возраста.",
+    "с незнакомцами": "Кавапу дружелюбны к незнакомцам, хотя ранняя социализация помогает обеспечить их хорошее поведение.",
+    "особые черты": [
+      "ласковые",
+      "умные",
+      "игривые",
+      "адаптивные",
+      "общительные"
+    ]
+  },
+  "health": {
+    "summary": "Cavapoos are generally healthy but may inherit certain health issues from their parent breeds, necessitating regular veterinary care.",
+    "common_issues": [
+      "mitral valve disease",
+      "patellar luxation",
+      "hip dysplasia",
+      "progressive retinal atrophy",
+      "ear infections",
+      "dental problems"
+    ],
+    "prevention_tips": [
+      "regular veterinary checkups",
+      "balanced diet",
+      "consistent exercise",
+      "routine grooming",
+      "dental care"
+    ],
+    "vet_checkups": "annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Кавапу в целом здоровы, но могут наследовать некоторые проблемы со здоровьем от родительских пород, что требует регулярного ветеринарного наблюдения.",
+    "распространённые проблемы": [
+      "митральная болезнь клапана",
+      "вывих надколенника",
+      "дисплазия тазобедренного сустава",
+      "прогрессирующая атрофия сетчатки",
+      "ушные инфекции",
+      "зубные проблемы"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "сбалансированное питание",
+      "постоянная физическая активность",
+      "регулярный уход за шерстью",
+      "гигиена полости рта"
+    ],
+    "рекомендуемые осмотры": "ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "Cavapoos require regular grooming, consistent exercise, and mental stimulation to maintain their health and happiness.",
+    "behavior": "They thrive on human interaction and should not be left alone for extended periods to prevent separation anxiety.",
+    "health": "Regular veterinary visits and a balanced diet are essential to monitor and maintain their overall health.",
+    "grooming": "Brush their coat several times a week and schedule professional grooming every 4-8 weeks to prevent matting.",
+    "nutrition": "Provide a high-quality diet appropriate for their age, size, and activity level, and monitor their weight to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Кавапу требуют регулярного ухода за шерстью, постоянной физической активности и умственной стимуляции для поддержания здоровья и счастья.",
+    "поведение и характер": "Они процветают в обществе людей и не должны оставаться одни на длительное время, чтобы предотвратить тревогу разлуки.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и сбалансированное питание необходимы для контроля и поддержания общего состояния здоровья.",
+    "груминг и уход": "Расчесывайте их шерсть несколько раз в неделю и планируйте профессиональный груминг каждые 4-8 недель, чтобы предотвратить спутывание.",
+    "питание и активность": "Обеспечьте высококачественное питание, соответствующее их возрасту, размеру и уровню активности, и следите за их весом, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Cavapoos hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Cavapoos often inherit the low-shedding coat of the Poodle, making them more suitable for allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Cavapoo need?",
+      "answer": "Cavapoos require about 45-60 minutes of moderate exercise daily to maintain their health and prevent boredom."
+    },
+    {
+      "question": "Do Cavapoos get along with other pets?",
+      "answer": "Yes, Cavapoos generally get along well with other pets, especially when socialized from a young age."
+    },
+    {
+      "question": "What is the lifespan of a Cavapoo?",
+      "answer": "Cavapoos typically live between 12 to 15 years with proper care."
+    },
+    {
+      "question": "Are Cavapoos easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make Cavapoos highly trainable, responding well to positive reinforcement techniques."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли кавапу гипоаллергенными?",
+      "ответ": "Хотя ни одна собака не является полностью гипоаллергенной, кавапу часто наследуют низколиняющую шерсть пуделя, что делает их более подходящими для людей, страдающих аллергией."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется кавапу?",
+      "ответ": "Кавапу требуется около 45-60 минут умеренной физической активности ежедневно для поддержания здоровья и предотвращения скуки."
+    },
+    {
+      "вопрос": "Ладят ли кавапу с другими животными?",
+      "ответ": "Да, кавапу обычно хорошо ладят с другими животными, особенно если были социализированы с раннего возраста."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни кавапу?",
+      "ответ": "Кавапу обычно живут от 12 до 15 лет при надлежащем уходе."
+    },
+    {
+      "вопрос": "Легко ли обучать кавапу?",
+      "ответ": "Да, их интеллект и стремление угодить делают кавапу легко обучаемыми; они хорошо реагируют на методы положительного подкрепления."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/cavapoo",
+    "https://www.petscare.com/news/faq/what-is-a-cavapoo",
+    "https://www.lancasterpuppies.com/dog-breeds/cavapoo/",
+    "https://www.petguide.com/breeds/dog/cavapoo/",
+    "https://www.dogfoodadvisor.com/breeds/cavapoo-dog-breed-size-personality-and-more/"
+  ]
+}

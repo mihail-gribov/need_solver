@@ -1,0 +1,81 @@
+{
+  "id": "kangal-shepherd-dog",
+  "name": "Kangal Shepherd Dog",
+  "full_description": "<p>The Kangal Shepherd Dog, also known simply as the Kangal, is a traditional Turkish breed renowned for its exceptional livestock guarding abilities. Originating from the town of Kangal in Sivas Province, Turkey, this breed has been integral to rural life for centuries, protecting flocks from formidable predators such as wolves, bears, and jackals. The Kangal's lineage traces back to ancient times, with its development shaped by the challenging terrains and climatic conditions of Central Anatolia. Physically, the Kangal is a large, muscular dog with a well-proportioned body. Males typically stand between 28 to 34 inches (73 to 86 cm) at the shoulder, weighing between 110 to 145 pounds (50 to 66 kg), while females are slightly smaller, standing 27 to 31 inches (68 to 79 cm) tall and weighing 90 to 130 pounds (41 to 59 kg). The breed's coat is short to medium in length, dense, and weather-resistant, predominantly fawn to wolf sable in color, always accompanied by a distinctive black mask. The tail is thick and curls over the back, adding to its imposing appearance. Temperamentally, Kangals are known for their protective and devoted nature. They form deep bonds with their families and livestock, exhibiting calmness and gentleness when not threatened. However, they are naturally suspicious of strangers, making them exceptional guard dogs. Their intelligence and independence necessitate early socialization and consistent training to prevent over-guarding behaviors. Historically bred to protect sheep and goats from predators, Kangals possess remarkable strength and agility, capable of reaching speeds up to 35 mph (56 km/h). Their bite force is estimated to be over 700 PSI, one of the strongest among dog breeds. In modern times, their role has expanded beyond Turkey. Programs in countries like Namibia and Kenya have successfully employed Kangals to protect livestock from cheetahs, thereby contributing to the conservation of endangered big cat populations. Notable characteristics of the Kangal include its unwavering loyalty, formidable guarding instincts, and balanced temperament. Despite their imposing size and strength, they are gentle with children and can coexist peacefully with other animals when properly socialized. Their low-maintenance grooming needs and adaptability to various environments further enhance their appeal as both working dogs and family companions.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: 110-145 lbs (50-66 kg); Females: 90-130 lbs (41-59 kg)",
+    "height": "Males: 28-34 inches (73-86 cm); Females: 27-31 inches (68-79 cm)",
+    "coat": "Short to medium length, dense, weather-resistant, fawn to wolf sable with a black mask",
+    "activity": "Moderate to high",
+    "trainability": "Moderate; requires early socialization and consistent training",
+    "grooming": "Low maintenance; regular brushing, more frequent during shedding seasons",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Kangals are protective, loyal, and intelligent dogs with a calm demeanor, making them excellent guardians and companions.",
+    "with_family": "They form strong bonds with family members, displaying affection and loyalty.",
+    "with_children": "Gentle and tolerant, especially when raised with children; supervision is recommended due to their size.",
+    "with_other_pets": "Can coexist peacefully with other animals if properly socialized from a young age.",
+    "with_strangers": "Naturally suspicious of strangers, they may be reserved or aloof, making them effective guard dogs.",
+    "special_traits": [
+      "Exceptional guarding instincts",
+      "Independent and intelligent",
+      "Strong protective nature",
+      "Gentle with family",
+      "Low maintenance grooming"
+    ]
+  },
+  "health": {
+    "summary": "Kangals are generally healthy and robust, with a lifespan of 12-15 years, though they can be prone to certain health issues common in large breeds.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Entropion (eyelid disorder)",
+      "Obesity"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine veterinary check-ups",
+      "Balanced diet appropriate for large breeds",
+      "Early screening for hip dysplasia",
+      "Monitoring for signs of eye issues"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health concerns"
+  },
+  "care": {
+    "description": "Kangals require consistent training, regular exercise, and minimal grooming to maintain their health and well-being.",
+    "behavior": "Early socialization and consistent training are essential to manage their protective instincts and ensure well-rounded behavior.",
+    "health": "Regular veterinary check-ups and a balanced diet are crucial to prevent common health issues.",
+    "grooming": "Weekly brushing is sufficient, with increased frequency during shedding seasons; bathing only when necessary.",
+    "nutrition": "High-quality diet formulated for large breeds, with portion control to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Kangals good family pets?",
+      "answer": "Yes, with proper training and socialization, Kangals can be loyal and protective family companions."
+    },
+    {
+      "question": "Do Kangals require a lot of exercise?",
+      "answer": "Yes, they need daily exercise, such as long walks or space to roam, to stay healthy and content."
+    },
+    {
+      "question": "Are Kangals aggressive?",
+      "answer": "They are protective and may be reserved with strangers but are not inherently aggressive; proper training is key."
+    },
+    {
+      "question": "How do Kangals interact with other pets?",
+      "answer": "With early socialization, they can coexist peacefully with other animals."
+    },
+    {
+      "question": "What is the lifespan of a Kangal?",
+      "answer": "Kangals typically live between 12 to 15 years."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kangal_Shepherd_Dog",
+    "https://www.forbes.com/advisor/pet-insurance/pet-care/kangal-dog-size/",
+    "https://www.hillspet.com.au/dog-care/dog-breeds/kangal-shepherd",
+    "https://ckcusa.com/breeds/kangal-dog/",
+    "https://www.the-dog-republic.com/en/themes-we-offer/dogs-cynology/kangal-magnificent-shepherd-dog-from-anatolia/"
+  ]
+}

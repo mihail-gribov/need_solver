@@ -1,0 +1,183 @@
+{
+  "breed_id": "alaskan-malamute",
+  "features": {
+    "shedding": {
+      "value": 1.0,
+      "confidence": 1.0
+    },
+    "coat_type": {
+      "value": 1.0,
+      "confidence": 1.0
+    },
+    "dander_level": {
+      "value": 1.0,
+      "confidence": 1.0
+    },
+    "grooming": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "health_robustness": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "genetic_risk": {
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "apartment_ok": {
+      "value": 0.2,
+      "confidence": 0.9
+    },
+    "barking": {
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "energy": {
+      "value": 0.9,
+      "confidence": 0.9
+    },
+    "reactivity": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "noise_tolerance": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "exercise_need": {
+      "value": 1.0,
+      "confidence": 0.9
+    },
+    "alone_tolerance": {
+      "value": 0.3,
+      "confidence": 0.8
+    },
+    "separation_anxiety_risk": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "sitter_compatibility": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "adaptability": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "child_friendly": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "pet_friendly": {
+      "value": 0.5,
+      "confidence": 0.8
+    },
+    "stranger_friendly": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "territoriality": {
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "protectiveness": {
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "stress_sensitivity": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "affection_level": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "independence": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "playfulness": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "trainability": {
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "working_drive": {
+      "value": 0.9,
+      "confidence": 0.9
+    },
+    "behavior_management_need": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "mental_stimulation": {
+      "value": 0.9,
+      "confidence": 0.9
+    },
+    "prey_drive": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "hunting_instinct": {
+      "value": 0.7,
+      "confidence": 0.8
+    }
+  },
+  "parameters": {
+    "weight_kg": [
+      {
+        "value": 38,
+        "confidence": 0.9,
+        "source": "AKC"
+      },
+      {
+        "value": 36,
+        "confidence": 0.8,
+        "source": "PetMD"
+      },
+      {
+        "value": 37,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ],
+    "height_cm": [
+      {
+        "value": 63,
+        "confidence": 0.9,
+        "source": "AKC"
+      },
+      {
+        "value": 61,
+        "confidence": 0.8,
+        "source": "PetMD"
+      },
+      {
+        "value": 62,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ],
+    "lifespan_years": [
+      {
+        "value": 12,
+        "confidence": 0.9,
+        "source": "AKC"
+      },
+      {
+        "value": 11,
+        "confidence": 0.8,
+        "source": "PetMD"
+      },
+      {
+        "value": 12,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ]
+  },
+  "notes": "Data compiled from multiple reputable sources, including the American Kennel Club (AKC), PetMD, and Wikipedia. Variations in weight and height reflect differences between male and female Alaskan Malamutes."
+}

@@ -1,0 +1,83 @@
+{
+  "id": "chow-chow",
+  "name": "Chow Chow",
+  "full_description": "<p>The Chow Chow is an ancient breed originating from northern China, with a history tracing back to the Han dynasty (206 BCE–220 CE). Initially bred for various purposes, including hunting, guarding, and pulling carts, the Chow Chow has evolved into a companion animal known for its distinctive appearance and temperament. Physically, the Chow Chow is a medium-sized, sturdily built dog with a square profile. Males typically stand between 19 to 22 inches tall and weigh 57 to 70 pounds, while females are slightly smaller, measuring 18 to 20 inches in height and weighing 44 to 55 pounds. One of the breed's most notable features is its dense double coat, which can be either rough or smooth. The rough coat is thick and coarse, forming a lion-like mane around the head and neck, while the smooth coat is shorter but still dense. Coat colors include red, black, blue, cinnamon, and cream. Another distinctive characteristic is the breed's blue-black tongue, a trait shared only with the Shar Pei. The Chow Chow's eyes are deep-set and almond-shaped, contributing to its dignified expression. Temperamentally, Chow Chows are known for their independence and aloofness. They are loyal and devoted to their families but can be reserved or indifferent toward strangers. Early socialization and consistent training are essential to ensure they develop into well-mannered companions. While not overly energetic, they require regular, moderate exercise to maintain their health. Historically, Chow Chows served as versatile working dogs in China, fulfilling roles such as hunting, guarding, and pulling carts. Their strength and endurance made them valuable assets in various tasks. In modern times, they are primarily kept as companion animals, appreciated for their unique appearance and loyal nature. The breed has gained popularity worldwide, though it requires owners who understand and respect its independent temperament. Notable characteristics of the Chow Chow include its lion-like mane, blue-black tongue, and distinctive gait resulting from straight hind legs. These features, combined with its dignified demeanor, make the Chow Chow a unique and recognizable breed.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "Males: 57–70 pounds; Females: 44–55 pounds",
+    "height": "Males: 19–22 inches; Females: 18–20 inches",
+    "coat": "Dense double coat; rough or smooth; colors include red, black, blue, cinnamon, cream",
+    "activity": "Moderate",
+    "trainability": "Moderate; requires consistent training and early socialization",
+    "grooming": "Regular brushing; more frequent during shedding seasons",
+    "lifespan": "8–12 years"
+  },
+  "behavior": {
+    "summary": "Chow Chows are independent and aloof, showing loyalty to their families but often reserved with strangers.",
+    "with_family": "They are devoted to their families, forming strong bonds and displaying loyalty.",
+    "with_children": "Generally better suited to families with older children; early socialization is key.",
+    "with_other_pets": "Can coexist with other pets if raised together; may be territorial.",
+    "with_strangers": "Often reserved or indifferent; early socialization helps in managing their aloofness.",
+    "special_traits": [
+      "Independent",
+      "Loyal",
+      "Aloof",
+      "Territorial",
+      "Dignified"
+    ]
+  },
+  "health": {
+    "summary": "Chow Chows are prone to certain health issues and require regular veterinary care to maintain their well-being.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Entropion (eyelid disorder)",
+      "Hypothyroidism",
+      "Allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide a balanced diet",
+      "Ensure regular exercise",
+      "Monitor for signs of joint issues"
+    ],
+    "vet_checkups": "Annually; more frequent if health issues arise"
+  },
+  "care": {
+    "description": "Chow Chows require attentive care, including regular grooming, moderate exercise, and consistent training.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature.",
+    "health": "Regular veterinary visits and monitoring for common health issues are crucial.",
+    "grooming": "Regular brushing is necessary to maintain their dense coat and prevent matting.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level."
+  },
+  "faq": [
+    {
+      "question": "Are Chow Chows good with children?",
+      "answer": "They are generally better suited to families with older children; early socialization is important."
+    },
+    {
+      "question": "Do Chow Chows require a lot of grooming?",
+      "answer": "Yes, their dense double coat requires regular brushing to prevent matting."
+    },
+    {
+      "question": "Are Chow Chows aggressive?",
+      "answer": "They are typically aloof and reserved; proper training and socialization can prevent aggressive behavior."
+    },
+    {
+      "question": "Do Chow Chows get along with other pets?",
+      "answer": "They can coexist with other pets if raised together but may be territorial."
+    },
+    {
+      "question": "How much exercise does a Chow Chow need?",
+      "answer": "Moderate daily exercise, such as walks or play sessions, is sufficient."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/chow-chow",
+    "https://www.purina.com/dogs/dog-breeds/chow-chow",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-chow-chows",
+    "https://www.petmd.com/dog/breeds/chow-chow",
+    "https://www.akc.org/expert-advice/dog-breeds/chow-chow-right-for-you/"
+  ]
+}

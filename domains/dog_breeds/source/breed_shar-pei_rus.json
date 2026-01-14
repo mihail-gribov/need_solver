@@ -1,0 +1,155 @@
+{
+  "id": "shar-pei",
+  "name": "Chinese Shar-Pei",
+  "name_rus": "Китайский шарпей",
+  "full_description": "<p>The Chinese Shar-Pei is an ancient breed originating from Southern China, with historical records dating back to the Han Dynasty around 200 B.C. Initially bred for guarding, hunting, and later dog fighting, the breed's distinctive loose skin and bristly coat were advantageous in combat, preventing opponents from gaining a firm grip. The name 'Shar-Pei' translates to 'sand skin,' reflecting its unique coat texture. The breed faced near extinction during the 20th century but was revived through dedicated efforts in Hong Kong, Taiwan, and the United States. Recognized by the American Kennel Club in 1992, the Shar-Pei has since gained global popularity. Physically, the Shar-Pei is a medium-sized, compact dog with a square profile. Males typically stand between 18 to 20 inches at the withers and weigh 45 to 60 pounds, with females being slightly smaller. The breed's most notable features include a broad 'hippopotamus' muzzle, small high-set ears, and a high-set tail that curls over the back. Puppies exhibit abundant wrinkles covering their bodies, which become more concentrated around the head, neck, and shoulders as they mature. The coat is short, harsh, and bristly, coming in various solid colors. Temperamentally, the Shar-Pei is calm, independent, and devoted to its family. While affectionate with familiar people, they can be reserved or wary around strangers. Their strong-willed nature requires consistent, positive reinforcement training from an early age. Historically, the Shar-Pei served as a versatile working dog, excelling in guarding properties, hunting wild boar, and participating in dog fighting. Today, they are primarily companion animals, valued for their loyalty and distinctive appearance. Notable characteristics include their unique wrinkled skin, blue-black tongue, and the 'hippopotamus' muzzle, all contributing to their unmistakable identity.</p>",
+  "full_description_rus": "<p>Китайский шарпей — древняя порода, происходящая из южных провинций Китая, с историческими упоминаниями, датируемыми династией Хань (202 г. до н.э. — 220 г. н.э.). Первоначально выведенные для охраны, охоты и участия в собачьих боях, эти собаки обладали характерной свободной кожей и жесткой шерстью, что давало им преимущество в схватках, предотвращая надежный захват противником. Название 'шарпей' переводится как 'песчаная кожа', отражая уникальную текстуру их шерсти. В XX веке порода оказалась на грани исчезновения, но была возрождена благодаря усилиям энтузиастов в Гонконге, Тайване и США. В 1992 году шарпей был признан Американским клубом собаководства и с тех пор приобрел мировую популярность. Физически шарпей — это собака среднего размера с компактным, квадратным телосложением. Кобели обычно достигают высоты в холке от 46 до 51 см и весят от 25 до 30 кг, суки немного меньше. Отличительными чертами породы являются широкая 'бегемотовая' морда, маленькие высоко посаженные уши и высоко посаженный хвост, закрученный над спиной. Щенки рождаются с обильными складками кожи по всему телу, которые с возрастом концентрируются в основном вокруг головы, шеи и плеч. Шерсть короткая, жесткая и прямая, представлена в различных сплошных окрасах. По темпераменту шарпей спокоен, независим и предан своей семье. Хотя они ласковы с близкими людьми, могут быть сдержанными или настороженными по отношению к незнакомцам. Их сильный характер требует последовательной, позитивной дрессировки с раннего возраста. Исторически шарпеи служили универсальными рабочими собаками, отлично справляясь с охраной имущества, охотой на кабанов и участием в собачьих боях. Сегодня они в основном являются компаньонами, ценимыми за свою преданность и уникальный внешний вид. Ключевые особенности породы включают их уникальную морщинистую кожу, сине-черный язык и 'бегемотовую' морду, что придает им неповторимый облик.</p>",
+  "parameters": {
+    "size": "Medium",
+    "weight": "45-60 pounds",
+    "height": "18-20 inches",
+    "coat": "Short, harsh, bristly",
+    "activity": "Moderate",
+    "trainability": "Moderate",
+    "grooming": "Weekly brushing; regular ear cleaning",
+    "lifespan": "Over 10 years"
+  },
+  "parameters_rus": {
+    "размер": "Средний",
+    "вес": "25-30 кг",
+    "рост": "46-51 см",
+    "шерсть": "Короткая, жесткая, прямая",
+    "активность": "Умеренная",
+    "обучаемость": "Средняя",
+    "уход": "Еженедельное вычесывание; регулярная чистка ушей",
+    "продолжительность жизни": "Более 10 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Independent",
+      "Loyal",
+      "Reserved",
+      "Protective",
+      "Calm"
+    ],
+    "summary": "The Chinese Shar-Pei is a calm and independent breed, known for its devotion to family and reserved demeanor towards strangers.",
+    "with_children": "Generally tolerant but may not be overly playful; early socialization is recommended.",
+    "with_family": "Affectionate and loyal, forming strong bonds with family members.",
+    "with_other_pets": "Usually good with small family pets but may chase livestock and other animals.",
+    "with_strangers": "Reserved and sometimes wary; early socialization helps in managing this behavior."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Китайский шарпей — спокойная и независимая порода, известная своей преданностью семье и сдержанным отношением к незнакомцам.",
+    "с семьёй": "Ласков и предан, формирует крепкие связи с членами семьи.",
+    "с детьми": "В целом терпим, но может быть не слишком игрив; рекомендуется ранняя социализация.",
+    "с другими животными": "Обычно хорошо ладит с мелкими домашними животными, но может преследовать скот и других животных.",
+    "с незнакомцами": "Сдержан и иногда насторожен; ранняя социализация помогает управлять этим поведением.",
+    "особые черты": [
+      "Независимый",
+      "Преданный",
+      "Сдержанный",
+      "Защитный",
+      "Спокойный"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Skin infections",
+      "Entropion (eyelid disorder)",
+      "Hip dysplasia",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular skin cleaning to prevent infections",
+      "Routine eye examinations",
+      "Maintaining a healthy weight to reduce joint stress",
+      "Regular ear cleaning to prevent infections"
+    ],
+    "summary": "The Chinese Shar-Pei is generally healthy but prone to certain breed-specific conditions requiring attentive care.",
+    "vet_checkups": "At least once a year; more frequent visits for aging dogs or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Китайский шарпей в целом здоровая порода, но склонен к определённым специфическим заболеваниям, требующим внимательного ухода.",
+    "распространённые проблемы": [
+      "Кожные инфекции",
+      "Энтропион (заворот века)",
+      "Дисплазия тазобедренного сустава",
+      "Инфекции ушей"
+    ],
+    "советы по профилактике": [
+      "Регулярная чистка кожи для предотвращения инфекций",
+      "Периодические осмотры глаз",
+      "Поддержание здорового веса для снижения нагрузки на суставы",
+      "Регулярная чистка ушей для предотвращения инфекций"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "behavior": "Early socialization and firm, positive reinforcement training are essential due to their independent nature.",
+    "description": "The Chinese Shar-Pei requires moderate exercise, consistent training, and regular grooming to maintain health and well-being.",
+    "grooming": "Weekly brushing and regular ear cleaning are necessary to prevent infections.",
+    "health": "Regular veterinary check-ups and attentive care to skin, eyes, and ears are crucial.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is important; monitor for food allergies."
+  },
+  "care_rus": {
+    "поведение и характер": "Ранняя социализация и твёрдая, позитивная дрессировка необходимы из-за их независимого характера.",
+    "краткое описание ухода": "Китайский шарпей требует умеренных физических нагрузок, последовательной дрессировки и регулярного ухода для поддержания здоровья и благополучия.",
+    "груминг и уход": "Еженедельное вычесывание и регулярная чистка ушей необходимы для предотвращения инфекций.",
+    "здоровье и профилактика": "Регулярные ветеринарные осмотры и внимательный уход за кожей, глазами и ушами имеют решающее значение.",
+    "питание и активность": "Сбалансированная диета, соответствующая возрасту, размеру и уровню активности, важна; следует следить за возможными пищевыми аллергиями."
+  },
+  "faq": [
+    {
+      "question": "Are Chinese Shar-Peis good with children?",
+      "answer": "They are generally tolerant but may not be overly playful; early socialization is recommended."
+    },
+    {
+      "question": "How much exercise does a Shar-Pei need?",
+      "answer": "Moderate daily exercise, such as a leisurely walk or short play session, is sufficient."
+    },
+    {
+      "question": "Do Shar-Peis require a lot of grooming?",
+      "answer": "They need weekly brushing and regular ear cleaning to maintain health."
+    },
+    {
+      "question": "Are Shar-Peis easy to train?",
+      "answer": "They are independent and may be stubborn; consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "What is the lifespan of a Chinese Shar-Pei?",
+      "answer": "They typically live over 10 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Хорошо ли шарпеи ладят с детьми?",
+      "ответ": "Они в целом терпимы, но могут быть не слишком игривыми; рекомендуется ранняя социализация."
+    },
+    {
+      "вопрос": "Сколько физической активности требуется шарпею?",
+      "ответ": "Умеренные ежедневные нагрузки, такие как неспешная прогулка или короткая игровая сессия, достаточны."
+    },
+    {
+      "вопрос": "Требуют ли шарпеи много ухода за шерстью?",
+      "ответ": "Им необходимо еженедельное вычесывание и регулярная чистка ушей для поддержания здоровья."
+    },
+    {
+      "вопрос": "Легко ли дрессировать шарпеев?",
+      "ответ": "Они независимы и могут быть упрямыми; эффективна последовательная, позитивная дрессировка."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни китайского шарпея?",
+      "ответ": "При надлежащем уходе они обычно живут более 10 лет."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/chinese-shar-pei",
+    "https://www.thekennelclub.org.uk/breed-standards/utility/shar-pei/",
+    "https://vcahospitals.com/know-your-pet/dog-breeds/chinese-shar-pei",
+    "https://images.akc.org/pdf/breeds/standards/ChineseSharPei.pdf",
+    "https://ru.wikipedia.org/wiki/Шарпей",
+    "https://www.purinaone.ru/dog/articles/breeds/sharpey",
+    "https://www.proplan.ru/dog/breeds/sharpej",
+    "https://www.rbc.ru/life/news/667ecb779a7947d6bae06e67"
+  ]
+}

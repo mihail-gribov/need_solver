@@ -1,0 +1,159 @@
+{
+  "id": "miniature-schnauzer",
+  "name": "Miniature Schnauzer",
+  "name_rus": "Цвергшнауцер",
+  "full_description": "<p>The Miniature Schnauzer is a small, robust, and energetic breed that originated in Germany during the late 19th century. Developed by breeding the Standard Schnauzer with smaller breeds such as the Affenpinscher and Miniature Poodle, the goal was to create a compact and efficient ratter for farms and households. The breed was first recognized in Germany in 1898 and made its way to the United States in 1924, gaining American Kennel Club recognition in 1926. Physically, the Miniature Schnauzer stands between 12 to 14 inches tall and weighs approximately 11 to 20 pounds. It possesses a distinctive rectangular head adorned with bushy eyebrows, a prominent beard, and a mustache. The breed's double coat is wiry and comes in color patterns including salt and pepper, black and silver, and solid black. Known for its alert and spirited temperament, the Miniature Schnauzer is intelligent, obedient, and friendly. It exhibits a strong territorial instinct, making it an excellent watchdog, yet it is less aggressive compared to other terrier breeds. Originally bred for ratting and farm work, the Miniature Schnauzer has retained its working abilities and excels in various performance events. Today, it is primarily a companion dog, cherished for its affectionate nature and adaptability to different living environments. Notable characteristics include its human-like expression, low-shedding coat, and lively demeanor.</p>",
+  "full_description_rus": "<p>Цвергшнауцер — небольшая, крепкая и энергичная порода, возникшая в Германии в конце XIX века. Порода была выведена путем скрещивания стандартного шнауцера с более мелкими породами, такими как аффенпинчер и миниатюрный пудель, с целью создания компактной и эффективной собаки для охоты на крыс на фермах и в домах. Первое признание порода получила в Германии в 1898 году, а в США появилась в 1924 году, получив признание Американского клуба собаководства в 1926 году. Физически цвергшнауцер имеет рост от 30 до 35 см и весит примерно от 5 до 9 кг. У него характерная прямоугольная голова с густыми бровями, выразительной бородой и усами. Двойная шерсть жесткая и представлена в окрасках «перец с солью», черный с серебром и сплошной черный. Известный своим бдительным и живым темпераментом, цвергшнауцер отличается интеллектом, послушанием и дружелюбием. Он проявляет сильный территориальный инстинкт, что делает его отличным сторожем, но при этом он менее агрессивен по сравнению с другими терьерами. Изначально выведенный для охоты на крыс и работы на фермах, цвергшнауцер сохранил свои рабочие качества и преуспевает в различных спортивных мероприятиях. Сегодня он в основном является собакой-компаньоном, ценимой за свою привязанность и адаптивность к различным условиям жизни. Отличительными чертами породы являются ее «человеческое» выражение лица, низкая линька и энергичный характер.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "11-20 pounds (5-9 kg)",
+    "height": "12-14 inches (30-36 cm)",
+    "coat": "double coat with a wiry exterior and soft undercoat; colors include salt and pepper, black and silver, and solid black",
+    "activity": "moderate to high",
+    "trainability": "high",
+    "grooming": "regular grooming required; professional grooming recommended every 5-8 weeks",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "5-9 кг",
+    "рост": "30-36 см",
+    "шерсть": "двойная шерсть с жестким внешним слоем и мягким подшерстком; окрасы включают «перец с солью», черный с серебром и сплошной черный",
+    "активность": "умеренная до высокой",
+    "обучаемость": "высокая",
+    "уход": "требуется регулярный уход; рекомендуется профессиональный груминг каждые 5-8 недель",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "summary": "The Miniature Schnauzer is an intelligent, affectionate, and alert breed, known for its friendly disposition and strong territorial instincts.",
+    "with_family": "Highly devoted and enjoys being close to family members, often following them from room to room.",
+    "with_children": "Generally good with children, especially when socialized early; enjoys playtime and interaction.",
+    "with_other_pets": "Can coexist with other pets if introduced properly, though may exhibit a strong prey drive towards smaller animals.",
+    "with_strangers": "Aloof with strangers initially but becomes friendly once the owner welcomes the guest.",
+    "special_traits": [
+      "Excellent watchdog with strong territorial instincts",
+      "Highly intelligent and trainable",
+      "Affectionate and enjoys human companionship",
+      "Low-shedding coat suitable for allergy sufferers",
+      "Energetic and enjoys various activities"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Цвергшнауцер — умная, привязанная и бдительная порода, известная своим дружелюбным нравом и сильными территориальными инстинктами.",
+    "с семьёй": "Очень предан и любит быть рядом с членами семьи, часто следуя за ними из комнаты в комнату.",
+    "с детьми": "Обычно хорошо ладит с детьми, особенно при ранней социализации; любит игры и взаимодействие.",
+    "с другими животными": "Может уживаться с другими животными при правильном знакомстве, хотя может проявлять сильный охотничий инстинкт по отношению к мелким животным.",
+    "с незнакомцами": "Сначала насторожен с незнакомцами, но становится дружелюбным, когда хозяин приветствует гостя.",
+    "особые черты": [
+      "Отличный сторож с сильными территориальными инстинктами",
+      "Высокоинтеллектуален и легко обучаем",
+      "Привязан и любит человеческое общество",
+      "Низколиняющая шерсть, подходящая для аллергиков",
+      "Энергичен и любит различные виды активности"
+    ]
+  },
+  "health": {
+    "summary": "Generally a healthy breed with a lifespan of 12-15 years, though prone to certain hereditary conditions.",
+    "common_issues": [
+      "Pancreatitis",
+      "Diabetes",
+      "Bladder stones",
+      "Von Willebrand disease",
+      "Atopic dermatitis"
+    ],
+    "prevention_tips": [
+      "Maintain a balanced diet to prevent obesity",
+      "Regular exercise to promote overall health",
+      "Routine grooming to monitor skin health",
+      "Regular dental care to prevent oral diseases",
+      "Early socialization and training to promote mental well-being"
+    ],
+    "vet_checkups": "Recommended annually, with more frequent visits for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "В целом здоровая порода с продолжительностью жизни 12-15 лет, хотя склонна к некоторым наследственным заболеваниям.",
+    "распространённые проблемы": [
+      "Панкреатит",
+      "Диабет",
+      "Мочекаменная болезнь",
+      "Болезнь фон Виллебранда",
+      "Атопический дерматит"
+    ],
+    "советы по профилактике": [
+      "Поддерживайте сбалансированную диету для предотвращения ожирения",
+      "Регулярные физические нагрузки для поддержания общего здоровья",
+      "Постоянный уход за шерстью для контроля состояния кожи",
+      "Регулярный уход за зубами для предотвращения заболеваний полости рта",
+      "Ранняя социализация и обучение для поддержания психического благополучия"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры, с более частыми визитами для пожилых собак или имеющих проблемы со здоровьем."
+  },
+  "care": {
+    "description": "The Miniature Schnauzer requires regular grooming, balanced nutrition, and consistent exercise to maintain its health and happiness.",
+    "behavior": "Thrives on human companionship and enjoys participating in family activities; benefits from mental stimulation through training and play.",
+    "health": "Regular veterinary check-ups and preventive care are essential to monitor and maintain health.",
+    "grooming": "Requires regular brushing and professional grooming every 5-8 weeks to maintain coat health and appearance.",
+    "nutrition": "A balanced diet appropriate for its size, age, and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Цвергшнауцеру необходим регулярный уход за шерстью, сбалансированное питание и постоянные физические нагрузки для поддержания здоровья и счастья.",
+    "поведение и характер": "Любит человеческое общество и участие в семейных мероприятиях; нуждается в умственной стимуляции через обучение и игры.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход необходимы для контроля и поддержания здоровья.",
+    "груминг и уход": "Требуется регулярное расчесывание и профессиональный груминг каждые 5-8 недель для поддержания здоровья и внешнего вида шерсти.",
+    "питание и активность": "Сбалансированная диета, соответствующая размеру, возрасту и уровню активности; контроль потребления пищи для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Miniature Schnauzers hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Miniature Schnauzers have a low-shedding coat that may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "Do Miniature Schnauzers get along with other dogs?",
+      "answer": "With proper socialization, they can get along well with other dogs, though they may exhibit a strong prey drive towards smaller animals."
+    },
+    {
+      "question": "How much exercise does a Miniature Schnauzer need?",
+      "answer": "They require daily walks and moderate exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Are Miniature Schnauzers good for apartment living?",
+      "answer": "Yes, their small size and adaptable nature make them well-suited for apartment living, provided they receive adequate exercise."
+    },
+    {
+      "question": "How often should a Miniature Schnauzer be groomed?",
+      "answer": "Regular brushing and professional grooming every 5-8 weeks are recommended to maintain their coat."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли цвергшнауцеры гипоаллергенными?",
+      "ответ": "Хотя полностью гипоаллергенных собак не существует, цвергшнауцеры имеют низколиняющую шерсть, которая может подойти некоторым аллергикам."
+    },
+    {
+      "вопрос": "Ладят ли цвергшнауцеры с другими собаками?",
+      "ответ": "При правильной социализации они могут хорошо ладить с другими собаками, хотя могут проявлять сильный охотничий инстинкт по отношению к мелким животным."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется цвергшнауцеру?",
+      "ответ": "Им необходимы ежедневные прогулки и умеренные физические нагрузки для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Подходят ли цвергшнауцеры для жизни в квартире?",
+      "ответ": "Да, их небольшой размер и адаптивный характер делают их подходящими для жизни в квартире, при условии достаточной физической активности."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за цвергшнауцером?",
+      "ответ": "Рекомендуется регулярное расчесывание и профессиональный груминг каждые 5-8 недель для поддержания состояния шерсти."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/miniature-schnauzer",
+    "https://www.akc.org/expert-advice/dog-breeds/miniature-schnauzer-history/",
+    "https://en.wikipedia.org/wiki/Miniature_Schnauzer",
+    "https://amsc.us/all-about-miniature-schnauzers/history-of-the-miniature-schnauzer/",
+    "https://www.hillspet.com/dog-care/dog-breeds/miniature-schnauzer",
+    "https://ru.wikipedia.org/wiki/Цвергшнауцер",
+    "https://www.rbc.ru/life/news/6409c2629a79471659f2ee62",
+    "https://zoobonus.ua/ru/breed/miniatyurnyi-snaucer-cvergsnaucer"
+  ]
+}

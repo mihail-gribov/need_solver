@@ -1,0 +1,151 @@
+{
+  "id": "chinese-crested",
+  "name": "Chinese Crested",
+  "name_rus": "Китайская хохлатая собака",
+  "full_description": "<p>The Chinese Crested is a distinctive toy breed known for its two varieties: Hairless and Powderpuff. The Hairless variety features soft, smooth skin with tufts of hair on the head (crest), tail (plume), and feet (socks), while the Powderpuff is covered in a soft, silky double coat. Both types can appear in the same litter due to a genetic trait.</p>\n<p>Originating from Africa or Mexico, the breed was later associated with Chinese sailors who used them to control vermin on ships. These sailors traded the dogs at various ports, spreading the breed globally.</p>\n<p>Physically, Chinese Cresteds are fine-boned and slender, standing 11 to 13 inches tall and weighing between 7 to 12 pounds. They have large, erect ears and almond-shaped eyes, contributing to their alert and graceful appearance.</p>\n<p>Temperamentally, they are affectionate, lively, and playful, forming strong bonds with their families. They are intelligent and responsive to gentle training methods.</p>\n<p>Historically, they served as vermin hunters on ships. Today, they are primarily companion animals, cherished for their unique appearance and engaging personalities.</p>\n<p>Notable characteristics include their minimal shedding, making them suitable for allergy sufferers, and their adaptability to various living environments, including apartments.</p>",
+  "full_description_rus": "<p>Китайская хохлатая собака — это уникальная декоративная порода, представленная в двух разновидностях: голая и пуховая. Голая разновидность имеет мягкую, гладкую кожу с пучками волос на голове (хохолок), хвосте (плюмаж) и лапах (носочки), тогда как пуховая покрыта мягкой, шелковистой двойной шерстью. Обе разновидности могут появляться в одном помёте благодаря генетической особенности.</p>\n<p>Происхождение породы связывают с Африкой или Мексикой, однако позже она ассоциировалась с китайскими моряками, использовавшими этих собак для борьбы с грызунами на кораблях. Эти моряки распространяли породу, торгуя собаками в различных портах по всему миру.</p>\n<p>Физически китайские хохлатые собаки изящны и тонкокостны, достигая роста от 23 до 33 см и веса от 2,3 до 5,4 кг. У них большие, стоячие уши и миндалевидные глаза, придающие им бдительный и грациозный вид.</p>\n<p>По темпераменту они ласковы, жизнерадостны и игривы, формируя крепкие связи со своими семьями. Они умны и хорошо реагируют на мягкие методы дрессировки.</p>\n<p>Исторически они служили охотниками на вредителей на кораблях. Сегодня они в основном являются компаньонами, ценимыми за их уникальный внешний вид и привлекательный характер.</p>\n<p>Отличительными чертами являются минимальная линька, что делает их подходящими для людей, страдающих аллергией, а также их адаптивность к различным условиям проживания, включая квартиры.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "7-12 pounds",
+    "height": "11-13 inches",
+    "coat": "Hairless variety with tufts on head, tail, and feet; Powderpuff variety with soft, silky double coat",
+    "activity": "medium",
+    "trainability": "high",
+    "grooming": "regular skin care for Hairless; regular brushing for Powderpuff",
+    "lifespan": "13-18 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "2,3–5,4 кг",
+    "рост": "23–33 см",
+    "шерсть": "Голая разновидность с пучками волос на голове, хвосте и лапах; пуховая разновидность с мягкой, шелковистой двойной шерстью",
+    "активность": "средняя",
+    "обучаемость": "высокая",
+    "уход": "регулярный уход за кожей для голой разновидности; регулярное расчесывание для пуховой",
+    "продолжительность жизни": "13–18 лет"
+  },
+  "behavior": {
+    "summary": "Chinese Cresteds are affectionate, lively, and playful dogs that form strong bonds with their families. They are intelligent and respond well to gentle training methods.",
+    "with_family": "They thrive on human companionship and enjoy being close to their family members, often seeking attention and affection.",
+    "with_children": "Generally good with children, especially when socialized early, but supervision is recommended due to their small size and delicate build.",
+    "with_other_pets": "They usually get along well with other pets, particularly when raised together, though early socialization is beneficial.",
+    "with_strangers": "They can be reserved around strangers but are not typically aggressive, warming up once they feel comfortable.",
+    "special_traits": [
+      "Affectionate and loyal",
+      "Intelligent and trainable",
+      "Adaptable to various living environments"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Китайские хохлатые собаки ласковы, жизнерадостны и игривы, формируя крепкие связи со своими семьями. Они умны и хорошо реагируют на мягкие методы дрессировки.",
+    "с семьёй": "Они процветают в обществе людей и любят быть рядом с членами своей семьи, часто ищут внимания и ласки.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации, но рекомендуется присмотр из-за их небольшого размера и хрупкого телосложения.",
+    "с другими животными": "Обычно хорошо уживаются с другими питомцами, особенно если выросли вместе, хотя ранняя социализация полезна.",
+    "с незнакомцами": "Могут быть сдержанными с незнакомцами, но обычно не агрессивны, согреваются, когда чувствуют себя комфортно.",
+    "особые черты": [
+      "Ласковые и преданные",
+      "Умные и обучаемые",
+      "Адаптивны к различным условиям проживания"
+    ]
+  },
+  "health": {
+    "summary": "Chinese Cresteds are generally healthy but can be prone to certain conditions, particularly dental issues and skin problems in the Hairless variety.",
+    "common_issues": [
+      "Dental problems",
+      "Eye conditions (e.g., progressive retinal atrophy)",
+      "Patellar luxation",
+      "Skin issues in Hairless variety"
+    ],
+    "prevention_tips": [
+      "Regular dental care, including brushing and professional cleanings",
+      "Routine eye examinations",
+      "Monitoring for signs of joint issues",
+      "Proper skin care and sun protection for Hairless variety"
+    ],
+    "vet_checkups": "Annual checkups recommended; more frequent visits if health issues arise"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Китайские хохлатые собаки в целом здоровы, но могут быть склонны к определённым заболеваниям, особенно к проблемам с зубами и кожей у голой разновидности.",
+    "распространённые проблемы": [
+      "Проблемы с зубами",
+      "Заболевания глаз (например, прогрессирующая атрофия сетчатки)",
+      "Вывих надколенника",
+      "Проблемы с кожей у голой разновидности"
+    ],
+    "советы по профилактике": [
+      "Регулярный уход за зубами, включая чистку и профессиональную чистку",
+      "Периодические осмотры глаз",
+      "Мониторинг признаков проблем с суставами",
+      "Правильный уход за кожей и защита от солнца для голой разновидности"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры; более частые визиты при возникновении проблем со здоровьем"
+  },
+  "care": {
+    "description": "Chinese Cresteds require attentive care, including regular grooming, dental hygiene, and skin protection, to maintain their health and well-being.",
+    "behavior": "They benefit from consistent, gentle training and enjoy interactive play to keep them mentally stimulated.",
+    "health": "Regular veterinary visits and preventive care are essential to monitor and address potential health concerns.",
+    "grooming": "Hairless variety needs skin moisturizing and sun protection; Powderpuff requires regular brushing to prevent matting.",
+    "nutrition": "A balanced diet appropriate for small breeds, with portion control to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Китайские хохлатые собаки требуют внимательного ухода, включая регулярный груминг, гигиену полости рта и защиту кожи, для поддержания их здоровья и благополучия.",
+    "поведение и характер": "Они получают пользу от последовательной, мягкой дрессировки и наслаждаются интерактивными играми для поддержания умственной стимуляции.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход необходимы для мониторинга и решения потенциальных проблем со здоровьем.",
+    "груминг и уход": "Голая разновидность требует увлажнения кожи и защиты от солнца; пуховая нуждается в регулярном расчесывании для предотвращения спутывания шерсти.",
+    "питание и активность": "Сбалансированная диета, подходящая для мелких пород, с контролем порций для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Chinese Cresteds hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Chinese Cresteds are known to shed little, which may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "Do Chinese Cresteds require a lot of exercise?",
+      "answer": "They have moderate energy levels and enjoy daily walks and playtime but do not require extensive exercise."
+    },
+    {
+      "question": "Are Chinese Cresteds good for apartment living?",
+      "answer": "Yes, their small size and moderate activity level make them well-suited for apartment living."
+    },
+    {
+      "question": "How do I care for a Hairless Chinese Crested's skin?",
+      "answer": "Regular moisturizing and sun protection are essential to prevent dryness and sunburn in the Hairless variety."
+    },
+    {
+      "question": "Are Chinese Cresteds easy to train?",
+      "answer": "Yes, they are intelligent and respond well to gentle, consistent training methods."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли китайские хохлатые собаки гипоаллергенными?",
+      "ответ": "Хотя ни одна собака не является полностью гипоаллергенной, китайские хохлатые известны минимальной линькой, что может быть подходящим для некоторых людей, страдающих аллергией."
+    },
+    {
+      "вопрос": "Требуют ли китайские хохлатые собаки много физических нагрузок?",
+      "ответ": "Они имеют умеренный уровень энергии и наслаждаются ежедневными прогулками и играми, но не требуют интенсивных физических нагрузок."
+    },
+    {
+      "вопрос": "Подходят ли китайские хохлатые собаки для жизни в квартире?",
+      "ответ": "Да, их небольшой размер и умеренный уровень активности делают их хорошо подходящими для жизни в квартире."
+    },
+    {
+      "вопрос": "Как ухаживать за кожей голой китайской хохлатой собаки?",
+      "ответ": "Регулярное увлажнение и защита от солнца необходимы для предотвращения сухости и солнечных ожогов у голой разновидности."
+    },
+    {
+      "вопрос": "Легко ли дрессировать китайских хохлатых собак?",
+      "ответ": "Да, они умны и хорошо реагируют на мягкие, последовательные методы дрессировки."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chinese_Crested_Dog",
+    "https://www.purina.com/dogs/dog-breeds/chinese-crested",
+    "https://www.petmd.com/dog/breeds/chinese-crested",
+    "https://www.westminsterkennelclub.org/breed/chinese-crested/",
+    "https://www.purina.ru/find-a-pet/dog-breeds/kitayskaya-khokhlataya",
+    "https://www.hillspet.ru/dog-care/dog-breeds/chinese-crested",
+    "https://www.proplan.ru/dog/breeds/kitajskaya-hohlataya",
+    "https://ru.wikipedia.org/wiki/Китайская_хохлатая_собака"
+  ]
+}

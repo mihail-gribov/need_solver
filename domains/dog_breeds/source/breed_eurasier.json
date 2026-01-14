@@ -1,0 +1,83 @@
+{
+  "id": "eurasier",
+  "name": "Eurasier",
+  "full_description": "<p>The Eurasier is a medium-sized spitz-type dog breed that originated in Germany during the 1960s. Developed by Julius Wipfel, the breed was created by crossing the Chow Chow and Wolfspitz (Keeshond) to combine their desirable traits. Later, the Samoyed was introduced to enhance the breed's characteristics, resulting in the Eurasier we know today. Recognized by the Fédération Cynologique Internationale (FCI) in 1973, the Eurasier was bred primarily as a companion dog, emphasizing a strong bond with its family.</p>\n<p>Physically, Eurasiers are well-balanced and medium-sized, with males standing between 52 to 60 cm (20.5 to 23.5 inches) at the withers and weighing 23 to 32 kg (50.7 to 70.5 lbs), while females are slightly smaller, measuring 48 to 56 cm (19 to 22 inches) in height and weighing 18 to 26 kg (39.7 to 57.3 lbs). They possess a thick double coat that comes in various colors, including fawn, red, wolf-gray, solid black, and black and tan. Notably, pure white, white patches, or liver-colored coats are not permitted. Their ears are pricked, and they often have a pink, blue-black, or spotted tongue.</p>\n<p>Eurasiers are known for their calm and even-tempered nature. They are watchful and alert without being overly noisy, displaying a dignified reserve towards strangers while forming strong, affectionate bonds with their families. This breed is intelligent and trainable, responding well to positive reinforcement methods. They are sensitive to harsh discipline and thrive in environments where they are treated with understanding and consistency.</p>\n<p>Originally bred as companion dogs, Eurasiers do not have a strong hunting instinct and are not suited for roles such as guard or sled dogs. They excel in their role as family companions and can perform well as therapy dogs due to their empathetic nature. Their moderate energy levels make them suitable for various activities, including daily walks and playtime.</p>\n<p>In modern times, the Eurasier remains a cherished companion, particularly in Europe, where the breed is most prevalent. Their unique combination of physical beauty, balanced temperament, and strong family bonds has contributed to their growing popularity among dog enthusiasts.</p>\n<p>Notable characteristics of the Eurasier include their thick double coat, which requires regular grooming, their reserved yet affectionate demeanor, and their adaptability to family life. Their sensitivity to their environment and strong attachment to their owners make them exceptional companions for those who can provide the attention and care they require.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "Males: 23–32 kg; Females: 18–26 kg",
+    "height": "Males: 52–60 cm; Females: 48–56 cm",
+    "coat": "Thick double coat; colors include fawn, red, wolf-gray, solid black, and black and tan",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing; increased during shedding seasons",
+    "lifespan": "12–16 years"
+  },
+  "behavior": {
+    "summary": "Eurasiers are calm, even-tempered dogs that form strong bonds with their families. They are watchful and alert without being aggressive, displaying a dignified reserve towards strangers.",
+    "with_family": "Eurasiers are affectionate and loyal, thriving on close contact with their family members. They require constant companionship and do not do well when left alone for extended periods.",
+    "with_children": "They are gentle and patient with children, making them excellent family pets. Their calm demeanor allows them to interact well with kids of all ages.",
+    "with_other_pets": "Eurasiers generally get along well with other pets, especially when socialized from a young age. They do not possess a strong prey drive, which aids in harmonious multi-pet households.",
+    "with_strangers": "They are reserved but not aggressive towards strangers. While they may not seek out attention from unfamiliar people, they are not typically fearful or hostile.",
+    "special_traits": [
+      "Strong family bonds",
+      "Reserved with strangers",
+      "Sensitive to harsh discipline",
+      "Low hunting instinct",
+      "Adaptable to various living environments"
+    ]
+  },
+  "health": {
+    "summary": "Eurasiers are generally healthy dogs with a lifespan of 12–16 years. However, they are predisposed to certain hereditary health issues that require monitoring and preventive care.",
+    "common_issues": [
+      "Autoimmune thyroiditis",
+      "Hip dysplasia",
+      "Patellar luxation",
+      "Exocrine pancreatic insufficiency",
+      "Gastric dilatation-volvulus (bloat)"
+    ],
+    "prevention_tips": [
+      "Regular thyroid function testing",
+      "Hip and joint evaluations",
+      "Balanced diet and weight management",
+      "Regular exercise to maintain muscle tone",
+      "Routine veterinary check-ups"
+    ],
+    "vet_checkups": "Annual check-ups recommended; more frequent visits if health issues arise"
+  },
+  "care": {
+    "description": "Eurasiers require attentive care, including regular grooming, consistent training, and close companionship to ensure their well-being.",
+    "behavior": "They thrive on close contact with their families and should not be left alone for long periods. Positive reinforcement training methods are most effective due to their sensitive nature.",
+    "health": "Regular veterinary check-ups and preventive care are essential to monitor and manage potential hereditary health issues.",
+    "grooming": "Their thick double coat requires regular brushing, especially during seasonal shedding periods, to prevent matting and maintain skin health.",
+    "nutrition": "A balanced diet tailored to their size and activity level is crucial. Monitoring food intake helps prevent obesity, which can exacerbate health issues."
+  },
+  "faq": [
+    {
+      "question": "Are Eurasiers good with children?",
+      "answer": "Yes, Eurasiers are gentle and patient with children, making them excellent family pets."
+    },
+    {
+      "question": "Do Eurasiers require a lot of exercise?",
+      "answer": "They have moderate energy levels and enjoy daily walks and playtime but do not require excessive exercise."
+    },
+    {
+      "question": "Are Eurasiers easy to train?",
+      "answer": "Yes, they are intelligent and respond well to positive reinforcement training methods."
+    },
+    {
+      "question": "Do Eurasiers get along with other pets?",
+      "answer": "Generally, they do well with other pets, especially when socialized from a young age."
+    },
+    {
+      "question": "How often should Eurasiers be groomed?",
+      "answer": "Regular brushing several times a week is recommended, with increased frequency during shedding seasons."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/eurasier",
+    "https://en.wikipedia.org/wiki/Eurasier",
+    "https://www.dailypaws.com/dogs-puppies/dog-breeds/eurasier",
+    "https://www.petguide.com/breeds/dog/eurasier/",
+    "https://www.dialavet.com/blog/eurasier-dog-breed-characteristics-care"
+  ]
+}

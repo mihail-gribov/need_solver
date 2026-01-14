@@ -1,0 +1,82 @@
+{
+  "id": "poodle",
+  "name": "Poodle",
+  "full_description": "<p>The Poodle, known as 'Pudel' in German and 'Caniche' in French, is a breed of water dog that has been cherished for centuries. While its exact origins are debated, the breed likely originated in Germany, where it was used as a water retriever. The name 'Poodle' is derived from the German word 'pudeln,' meaning 'to splash.' In France, the breed is called 'Caniche,' meaning 'duck dog,' reflecting its proficiency in waterfowl hunting. Historically, larger Poodles were employed by hunters to retrieve game from water, while smaller varieties found roles as circus performers due to their intelligence and trainability.</p>\n<p>Physically, Poodles are distinguished by their thick, curly coats that come in a variety of colors, including black, white, brown, gray, and apricot. The breed is divided into four size categories: Standard, Medium, Miniature, and Toy. The Standard Poodle stands over 45 cm up to 60 cm at the shoulder, the Medium Poodle over 35 cm up to 45 cm, the Miniature Poodle over 28 cm up to 35 cm, and the Toy Poodle over 24 cm up to 28 cm. Despite size differences, all Poodles share a squarely built, well-proportioned body, exuding elegance and athleticism.</p>\n<p>Temperamentally, Poodles are renowned for their intelligence, making them highly trainable and eager to please. They are active dogs that thrive on mental and physical stimulation. Their friendly and sociable nature makes them excellent companions for families, and they generally get along well with children and other pets. Poodles are also known for their alertness, making them effective watchdogs.</p>\n<p>Originally bred for retrieving waterfowl, Poodles possess strong swimming abilities and a keen sense of smell. Their intelligence and versatility have allowed them to excel in various roles beyond hunting, including performing in circuses, serving as guide dogs, and participating in dog sports such as agility and obedience competitions.</p>\n<p>In modern times, Poodles have gained immense popularity as both show dogs and family pets. Their hypoallergenic coats make them a preferred choice for individuals with allergies. The breed's adaptability and affectionate nature have solidified its status as a beloved companion worldwide.</p>\n<p>Notable characteristics of the Poodle include its distinctive grooming styles, such as the 'Continental' and 'English Saddle' clips, which, while often seen as decorative, were originally designed to protect vital organs and joints in cold water. Additionally, Poodles have a long lifespan, typically ranging from 10 to 18 years, with smaller varieties often living longer than larger ones.</p>",
+  "parameters": {
+    "size": "Varies by variety: Standard, Medium, Miniature, Toy",
+    "weight": "Varies by variety: Standard (20–32 kg), Medium (15–19 kg), Miniature (12–14 kg), Toy (6–8 kg)",
+    "height": "Varies by variety: Standard (45–60 cm), Medium (35–45 cm), Miniature (28–35 cm), Toy (24–28 cm)",
+    "coat": "Thick, curly, and comes in various colors including black, white, brown, gray, and apricot",
+    "activity": "High; requires regular physical and mental stimulation",
+    "trainability": "Very high; intelligent and eager to please",
+    "grooming": "Requires regular grooming every 4 to 8 weeks to maintain coat health",
+    "lifespan": "10–18 years, with smaller varieties often living longer than larger ones"
+  },
+  "behavior": {
+    "summary": "Poodles are intelligent, active, and sociable dogs that thrive on companionship and mental stimulation.",
+    "with_family": "They form strong bonds with family members and are known for their affectionate nature.",
+    "with_children": "Generally good with children, especially when socialized from a young age.",
+    "with_other_pets": "Typically get along well with other pets, including dogs and cats.",
+    "with_strangers": "Alert and may be reserved around strangers, making them effective watchdogs.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Active and require regular exercise",
+      "Hypoallergenic coat",
+      "Versatile in various roles (e.g., hunting, performing, service work)",
+      "Distinctive grooming styles"
+    ]
+  },
+  "health": {
+    "summary": "Poodles are generally healthy but can be prone to certain genetic health issues.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy",
+      "Epilepsy",
+      "Addison's disease",
+      "Bloat (gastric dilatation-volvulus)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintaining a healthy diet and weight",
+      "Regular exercise",
+      "Routine eye examinations",
+      "Genetic testing for inherited conditions"
+    ],
+    "vet_checkups": "Recommended annually, or more frequently for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "Poodles require attentive care, including regular grooming, exercise, and mental stimulation to maintain their health and happiness.",
+    "behavior": "Engage in daily activities such as walks, playtime, and training sessions to keep them mentally and physically stimulated.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits.",
+    "grooming": "Professional grooming every 4 to 8 weeks, along with regular at-home brushing to prevent matting.",
+    "nutrition": "Provide a balanced diet appropriate for their size, age, and activity level."
+  },
+  "faq": [
+    {
+      "question": "Are Poodles hypoallergenic?",
+      "answer": "Yes, Poodles have a hypoallergenic coat that produces less dander, making them suitable for some allergy sufferers."
+    },
+    {
+      "question": "Do Poodles require a lot of exercise?",
+      "answer": "Yes, Poodles are active dogs that need regular physical and mental exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Poodles good with children?",
+      "answer": "Generally, Poodles are good with children, especially when socialized properly from a young age."
+    },
+    {
+      "question": "How often do Poodles need grooming?",
+      "answer": "Poodles require professional grooming every 4 to 8 weeks, along with regular at-home brushing."
+    },
+    {
+      "question": "What sizes do Poodles come in?",
+      "answer": "Poodles come in four sizes: Standard, Medium, Miniature, and Toy."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Poodle",
+    "https://www.fci.be/en/nomenclature/CANICHE-172.html",
+    "https://www.akc.org/expert-advice/dog-breeds/fun-facts-poodle/",
+    "https://poodleclubofamerica.org/akc-breed-standard/"
+  ]
+}

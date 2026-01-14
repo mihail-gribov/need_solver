@@ -1,0 +1,84 @@
+{
+  "need_id": "apartment_compatible",
+  "formula": "apartment_ok & (size_toy | size_small | size_medium) & ~barking",
+  "formula_reasoning": "Для жизни в квартире важна высокая совместимость с квартирой (apartment_ok), небольшие или средние размеры собаки (size_toy | size_small | size_medium) и низкая склонность к лаю (~barking), чтобы не мешать соседям и не испытывать дискомфорта из-за пространства.",
+  "questions": [
+    {
+      "id": "apartment_compatible_q1",
+      "text": "Собака будет жить в квартире?",
+      "weight": 1.0,
+      "style": "direct",
+      "verification": "Да = собака живёт в квартире, требуется совместимость. Нет = собака живёт не в квартире, фильтр не нужен."
+    },
+    {
+      "id": "apartment_compatible_q2",
+      "text": "В вашем доме нет отдельного двора или участка для выгула?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = собака будет гулять только вне дома (квартира). Нет = есть двор, больше пространства."
+    },
+    {
+      "id": "apartment_compatible_q3",
+      "text": "У вас ограничено пространство для размещения собаки дома?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = помещение небольшое, квартира. Нет = достаточно места (частный дом или большая квартира)."
+    },
+    {
+      "id": "apartment_compatible_q4",
+      "text": "Вы живёте в доме с соседями за стеной?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = шум и лай могут быть проблемой (квартира, таунхаус). Нет = отдельностоящий дом, соседи не мешают."
+    },
+    {
+      "id": "apartment_compatible_q5",
+      "text": "Вам важно, чтобы собака была комфортна в условиях городской квартиры?",
+      "weight": 0.6,
+      "style": "indirect",
+      "verification": "Да = пользователь ориентируется на проживание собаки в квартире. Нет = условия проживания менее важны."
+    }
+  ],
+  "need_name": "Apartment Compatible",
+  "need_description": "Suitable for apartment living",
+  "block": "housing_environment",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

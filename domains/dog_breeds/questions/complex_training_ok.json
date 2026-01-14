@@ -1,0 +1,84 @@
+{
+  "need_id": "complex_training_ok",
+  "formula": "behavior_management_need | mental_stimulation | ~trainability",
+  "formula_reasoning": "Complex training is acceptable if the owner is ready for breeds that require considerable behavior management (behavior_management_need), need a lot of mental stimulation (mental_stimulation), or are less easy to train (~trainability). These features indicate that the breed may be challenging for beginners, but are suitable if the user's situation allows for it.",
+  "questions": [
+    {
+      "id": "complex_training_ok_q1",
+      "text": "У вас уже был опыт дрессировки собак с непростым характером?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = человек знаком с трудностями сложных пород, готов к сложному обучению. Нет = опыта нет, сложные породы не подходят."
+    },
+    {
+      "id": "complex_training_ok_q2",
+      "text": "Вам интересно заниматься с собакой обучающими играми, трюками или спортом?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = человек готов уделять время дрессуре и развитию собаки. Нет = сложное обучение не подходит."
+    },
+    {
+      "id": "complex_training_ok_q3",
+      "text": "Работаете ли вы с кинологом или планируете привлекать специалиста для воспитания собаки?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = есть ресурсы для сложной дрессировки. Нет = поддержка отсутствует, сложные породы нежелательны."
+    },
+    {
+      "id": "complex_training_ok_q4",
+      "text": "Готовы ли вы уделять внимание корректировке поведения, если собака будет упрямой или независимой?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = человек готов работать с трудными моментами, подходит сложная дрессировка. Нет = нет готовности к сложностям."
+    },
+    {
+      "id": "complex_training_ok_q5",
+      "text": "Любите ли вы интеллектуальные задачи, где нужно проявлять терпение и последовательность?",
+      "weight": 0.5,
+      "style": "indirect",
+      "verification": "Да = склонность к обучению трудных собак выше. Нет = сигнал, что сложные задачи не по душе."
+    }
+  ],
+  "need_name": "Complex Training OK",
+  "need_description": "Complex training is acceptable",
+  "block": "training_management",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

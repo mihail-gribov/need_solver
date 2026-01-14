@@ -1,0 +1,159 @@
+{
+  "id": "belgian-tervuren",
+  "name": "Belgian Tervuren",
+  "name_rus": "Бельгийская овчарка тервюрен",
+  "full_description": "<p>The Belgian Tervuren, one of the four varieties of Belgian Shepherds, originated in Belgium in the late 19th century. Named after the village of Tervuren, this breed was developed by M.F. Corbeel, who bred a pair of fawn long-haired Belgian Shepherds, leading to the establishment of the Tervuren variety. Initially bred for herding and guarding livestock, the Tervuren has evolved into a versatile working dog, excelling in various roles such as police work, search and rescue, and service assistance. Physically, the Belgian Tervuren is a medium to large-sized dog with a well-balanced, square build. Males typically stand between 24 to 26 inches at the withers, weighing 60 to 75 pounds, while females are slightly smaller, standing 22 to 24 inches tall and weighing 40 to 55 pounds. The breed boasts a double coat with a dense undercoat and a long, straight, abundant outer coat. Coat colors range from rich fawn to russet mahogany, often with a black overlay and a distinctive black mask. The Tervuren's expression is intelligent and alert, with dark brown, almond-shaped eyes and erect, triangular ears. Known for their intelligence and high energy levels, Belgian Tervurens are affectionate and devoted to their families. They are protective and can be reserved around strangers, making early socialization crucial. Their strong work ethic and eagerness to please make them highly trainable, though they require consistent, positive reinforcement training methods. Originally bred for herding, the Tervuren's agility and stamina have made them adept in various working roles, including police and military work, search and rescue operations, and as service dogs. Their versatility extends to dog sports such as agility, obedience, and herding trials. In modern times, the Belgian Tervuren is appreciated both as a working dog and a family companion. While not as common as some other breeds, they have a dedicated following and are recognized for their versatility and loyalty. Notable characteristics of the breed include their elegant appearance, high intelligence, and strong protective instincts. Their boundless energy and need for mental stimulation make them best suited for active families or individuals who can provide ample exercise and engagement.</p>",
+  "full_description_rus": "<p>Бельгийская овчарка тервюрен — одна из четырёх разновидностей бельгийских овчарок, возникшая в Бельгии в конце XIX века. Название порода получила от деревни Тервюрен, где её вывел М.Ф. Корбил, скрестив пару длинношёрстных рыжих бельгийских овчарок, что привело к появлению тервюрена. Изначально предназначенные для пастьбы и охраны скота, тервюрены со временем стали универсальными рабочими собаками, успешно выполняющими роли в полиции, поисково-спасательных операциях и в качестве собак-поводырей. Физически бельгийский тервюрен — собака среднего или крупного размера с гармоничным, квадратным телосложением. Кобели обычно достигают роста 61–66 см в холке и весят 27,5–28,5 кг, суки немного меньше — 56–61 см и 20–30 кг соответственно. Порода обладает двойной шерстью с густым подшёрстком и длинным, прямым, обильным остевым волосом. Окрас варьируется от насыщенного рыжего до красновато-махагонового с чёрным налётом и характерной чёрной маской. Выражение морды умное и настороженное, с тёмно-коричневыми миндалевидными глазами и стоячими треугольными ушами. Известные своим интеллектом и высоким уровнем энергии, бельгийские тервюрены привязаны к своим семьям. Они обладают защитными инстинктами и могут быть сдержанными с незнакомцами, поэтому ранняя социализация крайне важна. Их сильная трудовая этика и стремление угодить делают их легко обучаемыми, хотя они требуют последовательных методов дрессировки с положительным подкреплением. Изначально выведенные для пастьбы, тервюрены благодаря своей ловкости и выносливости преуспевают в различных рабочих ролях, включая службу в полиции и армии, поисково-спасательные операции и работу в качестве служебных собак. Их универсальность распространяется и на собачьи виды спорта, такие как аджилити, послушание и пастушьи испытания. В современном мире бельгийский тервюрен ценится как рабочая собака и как семейный компаньон. Хотя они не так распространены, как некоторые другие породы, у них есть преданные поклонники, и они признаны за свою универсальность и преданность. Отличительными чертами породы являются их элегантный внешний вид, высокий интеллект и сильные защитные инстинкты. Их неуёмная энергия и потребность в умственной стимуляции делают их наиболее подходящими для активных семей или людей, способных обеспечить достаточные физические нагрузки и вовлечённость.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "Males: 60-75 pounds; Females: 40-55 pounds",
+    "height": "Males: 24-26 inches; Females: 22-24 inches",
+    "coat": "long, straight, abundant outer coat with a dense undercoat; colors range from fawn to russet mahogany with black overlay",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; more frequent during shedding seasons",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "Кобели: 27,5–28,5 кг; Суки: 20–30 кг",
+    "рост": "Кобели: 61–66 см; Суки: 56–61 см",
+    "шерсть": "длинная, прямая, обильная с густым подшёрстком; окрасы от насыщенного рыжего до красновато-махагонового с чёрным налётом",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "регулярное вычёсывание; более частое во время сезонной линьки",
+    "продолжительность жизни": "12–14 лет"
+  },
+  "behavior": {
+    "summary": "Belgian Tervurens are intelligent, energetic, and protective dogs, known for their loyalty and strong work ethic.",
+    "with_family": "They are affectionate and devoted to their families, forming strong bonds and often displaying a protective nature.",
+    "with_children": "Generally good with children, especially when raised with them, but their herding instincts may lead them to chase or nip during play.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though their strong prey drive may pose challenges with smaller animals.",
+    "with_strangers": "Tend to be reserved around strangers, making early socialization important to prevent overly protective behaviors.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Strong protective instincts",
+      "High energy levels requiring ample exercise",
+      "Affectionate with family members",
+      "Versatile in various working roles"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Бельгийские тервюрены — умные, энергичные и защитные собаки, известные своей преданностью и сильной трудовой этикой.",
+    "с семьёй": "Они привязаны и преданы своим семьям, формируя крепкие связи и часто проявляя защитные качества.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно если выросли вместе, но их пастушьи инстинкты могут побуждать их преследовать или слегка прикусывать во время игры.",
+    "с другими животными": "Могут уживаться с другими животными при правильной социализации, хотя их сильный охотничий инстинкт может создавать сложности с мелкими животными.",
+    "с незнакомцами": "Склонны быть сдержанными с незнакомцами, поэтому ранняя социализация важна для предотвращения чрезмерно защитного поведения.",
+    "особые черты": [
+      "Высокий интеллект и обучаемость",
+      "Сильные защитные инстинкты",
+      "Высокий уровень энергии, требующий значительных физических нагрузок",
+      "Привязанность к членам семьи",
+      "Универсальность в различных рабочих ролях"
+    ]
+  },
+  "health": {
+    "summary": "Belgian Tervurens are generally healthy but are predisposed to certain genetic conditions that owners should monitor.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy",
+      "Hypothyroidism",
+      "Gastric dilatation-volvulus (bloat)",
+      "Epilepsy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintaining a healthy weight",
+      "Providing a balanced diet",
+      "Ensuring regular exercise",
+      "Early detection through genetic testing"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with known health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Бельгийские тервюрены в целом здоровы, но склонны к некоторым генетическим заболеваниям, за которыми владельцам следует внимательно следить.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Прогрессирующая атрофия сетчатки",
+      "Гипотиреоз",
+      "Синдром заворота желудка (вздутие)",
+      "Эпилепсия"
+    ],
+    "советы по профилактике": [
+      "Регулярные визиты к ветеринару",
+      "Поддержание здорового веса",
+      "Обеспечение сбалансированного питания",
+      "Регулярные физические нагрузки",
+      "Ранняя диагностика с помощью генетического тестирования"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих известные проблемы со здоровьем"
+  },
+  "care": {
+    "description": "Belgian Tervurens require consistent training, regular exercise, and proper grooming to maintain their health and well-being.",
+    "behavior": "Early socialization and obedience training are essential to manage their protective instincts and high energy levels.",
+    "health": "Regular veterinary visits and preventive care are crucial to monitor and address potential health issues common in the breed.",
+    "grooming": "Weekly brushing is necessary to manage shedding and maintain coat health; more frequent grooming may be needed during seasonal shedding.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is important; portion control helps prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Бельгийские тервюрены требуют последовательной дрессировки, регулярных физических нагрузок и надлежащего ухода за шерстью для поддержания их здоровья и благополучия.",
+    "поведение и характер": "Ранняя социализация и обучение послушанию необходимы для управления их защитными инстинктами и высоким уровнем энергии.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход важны для мониторинга и решения потенциальных проблем со здоровьем, характерных для породы.",
+    "груминг и уход": "Еженедельное вычёсывание необходимо для контроля линьки и поддержания здоровья шерсти; во время сезонной линьки может потребоваться более частый уход.",
+    "питание и активность": "Сбалансированное питание, соответствующее возрасту, размеру и уровню активности, важно; контроль порций помогает предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Belgian Tervurens good family pets?",
+      "answer": "Yes, they are affectionate and loyal, but they require active families who can meet their exercise and mental stimulation needs."
+    },
+    {
+      "question": "How much exercise does a Belgian Tervuren need?",
+      "answer": "They require at least an hour of vigorous exercise daily to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Belgian Tervurens shed a lot?",
+      "answer": "Yes, they have a double coat and shed year-round, with increased shedding during seasonal changes."
+    },
+    {
+      "question": "Are Belgian Tervurens easy to train?",
+      "answer": "Yes, their high intelligence and eagerness to please make them highly trainable with consistent, positive reinforcement methods."
+    },
+    {
+      "question": "Do Belgian Tervurens get along with other dogs?",
+      "answer": "With proper socialization, they can get along with other dogs, though their protective nature may require careful introductions."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли бельгийские тервюрены для семей?",
+      "ответ": "Да, они привязаны и преданы, но требуют активных семей, способных удовлетворить их потребности в физических нагрузках и умственной стимуляции."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется бельгийскому тервюрену?",
+      "ответ": "Им необходимо не менее часа интенсивных физических нагрузок ежедневно для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Сильно ли линяют бельгийские тервюрены?",
+      "ответ": "Да, у них двойная шерсть, и они линяют круглый год, с усиленной линькой во время сезонных изменений."
+    },
+    {
+      "вопрос": "Легко ли дрессировать бельгийских тервюренов?",
+      "ответ": "Да, их высокий интеллект и стремление угодить делают их легко обучаемыми при использовании последовательных методов дрессировки с положительным подкреплением."
+    },
+    {
+      "вопрос": "Ладят ли бельгийские тервюрены с другими собаками?",
+      "ответ": "При правильной социализации они могут ладить с другими собаками, хотя их защитная природа может требовать осторожных знакомств."
+    }
+  ],
+  "sources": [
+    "https://www.webmd.com/pets/dogs/what-to-know-belgian-tervurens",
+    "https://www.westminsterkennelclub.org/breed/belgian-tervuren/",
+    "https://www.purina.com/dogs/dog-breeds/belgian-tervuren",
+    "https://www.petmd.com/dog/breeds/belgian-tervuren",
+    "https://abtc.org/about-the-tervuren/",
+    "https://ru.wikipedia.org/wiki/Бельгийская_овчарка",
+    "https://www.purina.ru/find-a-pet/dog-breeds/belgiyskaya-ovcharka-tervyuren",
+    "https://www.pedigree.ru/porody/tervyuren"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "boston-terrier",
+  "name": "Boston Terrier",
+  "full_description": "<p>The Boston Terrier, often referred to as the 'American Gentleman,' is a breed that originated in the United States in the late 19th century. Developed in Boston, Massachusetts, this breed was created by crossing the now-extinct White English Terrier with the English Bulldog, aiming to produce a companion dog with a gentle disposition and distinctive appearance. Recognized by the American Kennel Club (AKC) in 1893, the Boston Terrier has since become a beloved companion worldwide. Physically, Boston Terriers are small, compact dogs with a square build. They typically weigh between 15 to 25 pounds and stand about 15 to 17 inches tall at the withers. Their short, smooth coat comes in brindle, seal, or black, all with characteristic white markings that resemble a tuxedo. The breed's large, round eyes and erect ears contribute to their alert and friendly expression. Temperamentally, Boston Terriers are known for their affectionate and friendly nature. They are intelligent and eager to please, making them relatively easy to train. Their gentle disposition makes them excellent companions for families, including those with children and other pets. While they are generally sociable, early socialization is recommended to ensure well-rounded behavior. Originally bred for companionship, Boston Terriers have never been used extensively for work or sporting purposes. Their primary role has always been that of a companion animal, providing affection and companionship to their owners. In modern times, Boston Terriers continue to be popular pets due to their manageable size, friendly nature, and adaptability to various living situations, including apartment living. Notable characteristics of the breed include their distinctive 'tuxedo' coat pattern, expressive eyes, and a short, square muzzle. Their brachycephalic (short-nosed) facial structure gives them a unique appearance but also requires owners to be mindful of potential breathing difficulties, especially in hot or humid weather. Overall, the Boston Terrier is a charming and affectionate breed that thrives on human companionship and makes an excellent addition to many households.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "15-25 pounds",
+    "height": "15-17 inches",
+    "coat": "short, smooth, and sleek",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "minimal; weekly brushing",
+    "lifespan": "11-13 years"
+  },
+  "behavior": {
+    "summary": "Boston Terriers are affectionate, intelligent, and friendly dogs that thrive on human companionship. They are known for their gentle disposition and playful nature, making them excellent family pets.",
+    "with_family": "They form strong bonds with family members and enjoy participating in family activities. Their affectionate nature makes them loyal companions.",
+    "with_children": "Boston Terriers are generally good with children, displaying patience and playfulness. Supervision is recommended to ensure safe interactions.",
+    "with_other_pets": "With proper socialization, they get along well with other pets, including dogs and cats. Early introductions are beneficial.",
+    "with_strangers": "They are typically friendly towards strangers but may be reserved initially. Proper socialization helps them become more outgoing.",
+    "special_traits": [
+      "Affectionate and loyal",
+      "Intelligent and trainable",
+      "Playful and energetic",
+      "Adaptable to various living situations",
+      "Minimal grooming needs"
+    ]
+  },
+  "health": {
+    "summary": "Boston Terriers are generally healthy but are prone to certain breed-specific health issues due to their brachycephalic facial structure and compact build.",
+    "common_issues": [
+      "Brachycephalic syndrome",
+      "Patellar luxation",
+      "Eye problems (e.g., cataracts, corneal ulcers)",
+      "Allergies",
+      "Heart disease"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce strain on joints and respiratory system",
+      "Provide regular eye care and monitor for signs of irritation",
+      "Avoid excessive heat and humidity to prevent breathing difficulties",
+      "Regular dental care to prevent periodontal disease",
+      "Routine veterinary check-ups to monitor overall health"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with existing health conditions."
+  },
+  "care": {
+    "description": "Boston Terriers require moderate exercise, minimal grooming, and regular health monitoring to ensure a happy and healthy life.",
+    "behavior": "They thrive on human interaction and enjoy playtime and mental stimulation. Regular training sessions strengthen the bond between dog and owner.",
+    "health": "Be vigilant for signs of respiratory distress, eye issues, and joint problems. Prompt veterinary attention can prevent complications.",
+    "grooming": "Their short coat requires minimal grooming; weekly brushing is sufficient to remove loose hair and maintain coat health.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level. Monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Boston Terriers good apartment dogs?",
+      "answer": "Yes, their small size and moderate activity level make them well-suited for apartment living."
+    },
+    {
+      "question": "Do Boston Terriers get along with other pets?",
+      "answer": "With proper socialization, they can coexist peacefully with other pets."
+    },
+    {
+      "question": "How much exercise does a Boston Terrier need?",
+      "answer": "They require moderate daily exercise, such as short walks and play sessions."
+    },
+    {
+      "question": "Are Boston Terriers easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable."
+    },
+    {
+      "question": "Do Boston Terriers have health issues?",
+      "answer": "They can be prone to certain health problems like brachycephalic syndrome and eye issues."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Boston_Terrier",
+    "https://www.petmd.com/dog/breeds/boston-terrier",
+    "https://www.webmd.com/pets/dogs/what-to-know-boston-terrier/",
+    "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/small-dogs/boston-terrier",
+    "https://www.akc.org/dog-breeds/boston-terrier/"
+  ]
+}

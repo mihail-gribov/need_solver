@@ -1,0 +1,80 @@
+{
+  "id": "gordon-setter",
+  "name": "Gordon Setter",
+  "full_description": "<p>The Gordon Setter, originating from Scotland in the early 17th century, was developed primarily for hunting game birds such as partridge, grouse, pheasant, and quail. The breed was named after the 4th Duke of Gordon, who played a significant role in refining and promoting these dogs. Initially known as the black-and-tan setter, the breed was officially recognized as the Gordon Setter in 1924 by Britain's Kennel Club. Physically, the Gordon Setter is the largest of the setter breeds, with males standing between 24 to 27 inches tall and weighing 55 to 80 pounds, while females are slightly smaller. They possess a sturdy, well-muscled build, a deep chest, and a level topline. Their coat is medium-length, straight or slightly wavy, predominantly black with rich chestnut or mahogany markings. The feathering on their ears, chest, belly, and tail adds to their elegant appearance. Temperamentally, Gordon Setters are intelligent, bold, and outgoing. They are known for their loyalty and affectionate nature towards their families. While they can be reserved with strangers, they are not aggressive. Their strong hunting instincts make them alert and responsive. Originally bred as bird dogs, Gordon Setters excelled in locating and retrieving game. Their stamina and keen sense of smell made them invaluable to hunters. In modern times, while they still participate in hunting and field trials, they have also become cherished family companions and perform well in various dog sports, including obedience and agility. Notable characteristics of the breed include their distinctive black-and-tan coloration, exceptional memory, and a youthful spirit that often lasts well into their senior years.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "55-80 pounds (25-36 kg)",
+    "height": "24-27 inches (61-69 cm)",
+    "coat": "medium-length, straight or slightly wavy, black with rich chestnut or mahogany markings",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; more than once a week",
+    "lifespan": "over 10 years"
+  },
+  "behavior": {
+    "summary": "Gordon Setters are intelligent, loyal, and affectionate dogs with a strong hunting instinct. They are energetic and require regular mental and physical stimulation.",
+    "with_family": "They form strong bonds with their families and are known for their devotion and loyalty.",
+    "with_children": "Generally good with children, especially when raised together, displaying patience and playfulness.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though their hunting instincts may lead them to chase smaller animals.",
+    "with_strangers": "May be reserved around strangers but are not typically aggressive.",
+    "special_traits": [
+      "Intelligent and trainable",
+      "Energetic with high stamina",
+      "Affectionate and loyal",
+      "Strong hunting instincts",
+      "Youthful spirit into senior years"
+    ]
+  },
+  "health": {
+    "summary": "Gordon Setters are generally healthy but can be prone to certain genetic conditions. Regular veterinary care and a healthy lifestyle are essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy",
+      "Hypothyroidism",
+      "Bloat (gastric torsion)"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine eye examinations",
+      "Balanced diet",
+      "Avoiding rapid eating to prevent bloat"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues"
+  },
+  "care": {
+    "description": "Gordon Setters require regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "behavior": "They thrive on companionship and should not be left alone for extended periods. Engaging them in activities like fetch or agility can be beneficial.",
+    "health": "Monitor for signs of common health issues and maintain a regular schedule of veterinary checkups.",
+    "grooming": "Brush their coat more than once a week to prevent matting and remove debris. Regular ear checks are also important.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level. Monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Gordon Setters good family pets?",
+      "answer": "Yes, they are loyal and affectionate, making them excellent companions for active families."
+    },
+    {
+      "question": "How much exercise does a Gordon Setter need?",
+      "answer": "They require more than 2 hours of exercise per day to stay healthy and happy."
+    },
+    {
+      "question": "Do Gordon Setters shed a lot?",
+      "answer": "Yes, they do shed and require regular grooming to manage their coat."
+    },
+    {
+      "question": "Are Gordon Setters easy to train?",
+      "answer": "Yes, they are intelligent and respond well to consistent, positive training methods."
+    },
+    {
+      "question": "What is the lifespan of a Gordon Setter?",
+      "answer": "They typically live over 10 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/gordon-setter-history/",
+    "https://www.thekennelclub.org.uk/breed-standards/gundog/gordon-setter/",
+    "https://www.akc.org/expert-advice/lifestyle/things-didnt-know-gordon-setter/",
+    "https://www.akc.org/expert-advice/sports/kathy-hubbard-akc-rally-national-championship/"
+  ]
+}

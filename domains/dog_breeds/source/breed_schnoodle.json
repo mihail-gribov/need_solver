@@ -1,0 +1,91 @@
+{
+  "id": "schnoodle",
+  "name": "Schnoodle",
+  "full_description": "<p>The Schnoodle is a hybrid dog breed resulting from the cross between a Schnauzer and a Poodle. This designer breed was developed in the United States during the 1980s with the aim of combining the Poodle's hypoallergenic coat and intelligence with the Schnauzer's loyalty and alertness. Schnoodles come in various sizes, depending on the size of their parent breeds, ranging from Toy to Giant. Their coats are typically low-shedding and can be wavy or curly, available in colors such as black, gray, silver, brown, apricot, and white. They possess expressive faces with bright, alert eyes and often inherit the Schnauzer's distinctive beard. Schnoodles are known for their affectionate and intelligent nature, forming strong bonds with their families. They are energetic and require regular physical and mental stimulation to prevent boredom. Originally bred as companion animals, Schnoodles have also been utilized in therapy work due to their friendly disposition. Their popularity has grown over the years, especially among families seeking a low-shedding, intelligent, and loyal pet. Notable characteristics of the Schnoodle include their adaptability to various living environments, suitability for families with children, and their potential as watchdogs due to their alertness.</p>",
+  "parameters": {
+    "size": "small to large",
+    "weight": "6-75 pounds",
+    "height": "10-26 inches",
+    "coat": "low-shedding, wavy to curly",
+    "activity": "moderate to high",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming every 6-8 weeks",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Schnoodles are affectionate, intelligent, and energetic dogs that form strong bonds with their families. They are adaptable and thrive in various living environments.",
+    "with_family": "They are loyal and loving, often forming deep connections with family members and enjoying being involved in family activities.",
+    "with_children": "Schnoodles are generally good with children, displaying patience and playfulness, making them suitable companions for families.",
+    "with_other_pets": "With proper socialization, they can get along well with other pets, though their interactions should be supervised initially.",
+    "with_strangers": "They may be wary of strangers and can exhibit protective behaviors, making them effective watchdogs.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Affectionate and loyal",
+      "Energetic and playful",
+      "Alert and protective",
+      "Adaptable to various living situations"
+    ]
+  },
+  "health": {
+    "summary": "Schnoodles are generally healthy but may inherit certain health issues from their parent breeds. Regular veterinary care and a healthy lifestyle can help manage these risks.",
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Diabetes",
+      "Epilepsy",
+      "Progressive retinal atrophy",
+      "Skin allergies",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight and joint health",
+      "Balanced diet to prevent obesity and manage diabetes risk",
+      "Routine ear cleaning to prevent infections",
+      "Regular grooming to manage skin health",
+      "Consistent veterinary check-ups for early detection of health issues"
+    ],
+    "vet_checkups": "Bi-annual check-ups recommended"
+  },
+  "care": {
+    "description": "Schnoodles require regular physical and mental stimulation, consistent grooming, and routine health care to maintain their well-being.",
+    "behavior": "They thrive on human interaction and can develop separation anxiety if left alone for extended periods. Providing engaging activities and companionship is essential.",
+    "health": "Maintaining a healthy weight through diet and exercise is crucial to prevent joint issues and manage the risk of diabetes.",
+    "grooming": "Regular brushing several times a week and professional grooming every 6-8 weeks are necessary to keep their coat in good condition and prevent matting.",
+    "nutrition": "A balanced diet appropriate for their size and activity level is important. Monitoring food intake helps prevent obesity, which can lead to other health problems."
+  },
+  "faq": [
+    {
+      "question": "Are Schnoodles hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Schnoodles have low-shedding coats that may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Schnoodle need?",
+      "answer": "They require daily walks and playtime, totaling about an hour of physical activity to stay healthy and happy."
+    },
+    {
+      "question": "Are Schnoodles good with children?",
+      "answer": "Yes, they are generally good with children, displaying patience and playfulness, making them suitable family pets."
+    },
+    {
+      "question": "Do Schnoodles require a lot of grooming?",
+      "answer": "Yes, regular brushing and professional grooming every 6-8 weeks are necessary to maintain their coat and prevent matting."
+    },
+    {
+      "question": "Can Schnoodles live in apartments?",
+      "answer": "Yes, smaller Schnoodles adapt well to apartment living if they receive sufficient exercise and mental stimulation."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/schnoodle",
+    "https://www.breedscout.com/breeds/schnoodle",
+    "https://homepetguide.com/dogs/schnoodle/schnoodle-breed-profile/",
+    "https://dogmixology.com/schnoodle/general-health",
+    "https://www.rover.com/blog/breeds/schnoodle/",
+    "https://www.dogzone.com/crossbreeds/schnoodle/",
+    "https://www.yahoo.com/lifestyle/schnoodle-dog-breed-characteristics-care-183653130.html",
+    "https://www.petzlover.com/us/information/schnoodle",
+    "https://mywoof.com/blogs/articles/designer-dog-breed-profile-schnoodle-mdash-smart-spirited-spot-on-for-your-home",
+    "https://www.fitpetgo.com/breeds/schnoodle",
+    "https://dogtime.com/dog-breeds/schnoodle/xwp_curated_content",
+    "https://pethotel.io/en/dog-search/schnoodle"
+  ]
+}

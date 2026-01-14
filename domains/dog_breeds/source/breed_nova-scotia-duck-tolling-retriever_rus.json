@@ -1,0 +1,156 @@
+{
+  "id": "nova-scotia-duck-tolling-retriever",
+  "name": "Nova Scotia Duck Tolling Retriever",
+  "name_rus": "Новошотландский ретривер",
+  "full_description": "<p>The Nova Scotia Duck Tolling Retriever, commonly known as the Toller, originated in the early 19th century in the Little River district of Yarmouth County, Nova Scotia, Canada. Developed to lure and retrieve waterfowl, the breed's unique hunting method involves the dog playing along the shoreline to attract the curiosity of ducks, drawing them within range for hunters.</p>\n<p>Physically, Tollers are medium-sized, powerful, and compact, making them the smallest of the retriever breeds. Males typically stand between 18 to 21 inches at the withers, while females range from 17 to 20 inches. They possess a water-repellent double coat of medium length, varying in shades from golden red to dark copper, often with lighter featherings and white markings on the tail tip, feet, chest, or blaze.</p>\n<p>In terms of temperament, Tollers are intelligent, outgoing, and affectionate. They exhibit a playful demeanor and are known for their high energy levels. Their strong retrieving instinct and eagerness to please make them highly trainable, though they can display a mix of stubbornness and sensitivity, requiring consistent and positive training methods.</p>\n<p>Originally bred for tolling and retrieving waterfowl, Tollers are adept swimmers with webbed feet and a strong desire to work. Their agility and endurance have made them versatile in various canine sports and activities. In modern times, they serve as both hunting companions and family pets, participating in activities such as obedience, agility, and search and rescue. Their adaptability and friendly nature have contributed to their growing popularity among active families and outdoor enthusiasts.</p>\n<p>Notable characteristics of the breed include their unique tolling behavior, where their playful actions lure waterfowl, and their distinctive high-pitched bark, often referred to as the \"Toller scream,\" which they emit when excited. Additionally, their compact size combined with their strength and agility sets them apart from other retriever breeds.</p>",
+  "full_description_rus": "<p>Новошотландский ретривер, или Толлер, был выведен в начале XIX века в районе Литл-Ривер округа Ярмут, провинция Новая Шотландия, Канада. Порода была разработана для приманивания и апортировки водоплавающих птиц: собака играет на берегу, привлекая внимание уток, которые подплывают ближе, попадая в зону выстрела охотника.</p>\n<p>Физически Толлеры — это собаки среднего размера, мощные и компактные, являющиеся самыми маленькими среди ретриверов. Рост кобелей составляет от 48 до 53 см, сук — от 45 до 50 см. Они имеют водоотталкивающую двойную шерсть средней длины, окрашенную в оттенки от золотисто-красного до темно-медного, часто с более светлыми отметинами и белыми пятнами на кончике хвоста, лапах, груди или лбу.</p>\n<p>По характеру Толлеры умны, общительны и привязаны к владельцам. Они обладают игривым нравом и известны высоким уровнем энергии. Их сильный инстинкт апортировки и стремление угодить делают их легко обучаемыми, хотя они могут проявлять упрямство и чувствительность, требуя последовательных и позитивных методов дрессировки.</p>\n<p>Изначально выведенные для приманивания и апортировки водоплавающих птиц, Толлеры являются отличными пловцами с перепончатыми лапами и сильным желанием работать. Их ловкость и выносливость сделали их универсальными в различных собачьих видах спорта и активностях. В современное время они служат как охотничьими компаньонами, так и семейными питомцами, участвуя в таких мероприятиях, как послушание, аджилити и поисково-спасательные операции. Их адаптивность и дружелюбный характер способствовали росту их популярности среди активных семей и любителей активного отдыха.</p>\n<p>Особенностями породы являются их уникальное поведение приманивания, когда их игривые действия привлекают водоплавающих птиц, и их характерный высокий лай, часто называемый \"криком Толлера\", который они издают при возбуждении. Кроме того, их компактный размер в сочетании с силой и ловкостью отличает их от других пород ретриверов.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "males: 18-23 kg; females: 17-20 kg",
+    "height": "males: 48-53 cm; females: 45-50 cm",
+    "coat": "medium-length, water-repellent double coat in shades of red or orange with lighter featherings",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "weekly brushing; more frequent during shedding seasons",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "кобели: 18-23 кг; суки: 17-20 кг",
+    "рост": "кобели: 48-53 см; суки: 45-50 см",
+    "шерсть": "средней длины, водоотталкивающая двойная шерсть оттенков красного или оранжевого с более светлыми отметинами",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "еженедельное расчесывание; более частое во время линьки",
+    "продолжительность жизни": "12-14 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "high energy levels",
+      "strong retrieving instinct",
+      "distinctive high-pitched bark when excited",
+      "playful and agile",
+      "intelligent and trainable"
+    ],
+    "summary": "Tollers are energetic, intelligent, and affectionate dogs with a strong desire to work and please their owners. They are known for their playful nature and adaptability to various activities.",
+    "with_children": "Generally good with children, especially when socialized early. Their energetic nature aligns well with active play, but supervision is recommended to ensure positive interactions.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and affection. Their playful demeanor makes them excellent companions for active households.",
+    "with_other_pets": "With proper socialization, Tollers can coexist peacefully with other pets. Their hunting instincts may prompt chasing behaviors, so introductions should be managed carefully.",
+    "with_strangers": "They may be reserved around strangers but are not typically aggressive. Early socialization helps them become more comfortable in new situations."
+  },
+  "behavior_rus": {
+    "особые черты": [
+      "высокий уровень энергии",
+      "сильный инстинкт апортировки",
+      "характерный высокий лай при возбуждении",
+      "игривость и ловкость",
+      "ум и обучаемость"
+    ],
+    "краткое описание поведения": "Толлеры — энергичные, умные и привязанные к владельцам собаки с сильным желанием работать и угождать. Они известны своей игривой натурой и адаптивностью к различным видам деятельности.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации. Их энергичный характер соответствует активным играм, но рекомендуется присмотр для обеспечения положительных взаимодействий.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя лояльность и привязанность. Их игривый нрав делает их отличными компаньонами для активных семей.",
+    "с другими животными": "При правильной социализации Толлеры могут мирно сосуществовать с другими животными. Их охотничьи инстинкты могут вызывать поведение преследования, поэтому знакомства следует проводить осторожно.",
+    "с незнакомцами": "Они могут быть сдержанными с незнакомцами, но обычно не агрессивны. Ранняя социализация помогает им чувствовать себя более комфортно в новых ситуациях."
+  },
+  "health": {
+    "common_issues": [
+      "hip dysplasia",
+      "progressive retinal atrophy",
+      "autoimmune disorders",
+      "collie eye anomaly",
+      "addison's disease"
+    ],
+    "prevention_tips": [
+      "regular exercise to maintain healthy weight",
+      "balanced diet tailored to activity level",
+      "routine health screenings for early detection",
+      "genetic testing for breeding stock",
+      "consistent parasite prevention measures"
+    ],
+    "summary": "Tollers are generally healthy but are predisposed to certain genetic conditions. Responsible breeding and regular veterinary care are essential to maintain their well-being.",
+    "vet_checkups": "at least once a year; more frequent for senior dogs or those with health concerns"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Толлеры в целом здоровы, но склонны к определённым генетическим заболеваниям. Ответственное разведение и регулярный ветеринарный уход необходимы для поддержания их благополучия.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренных суставов",
+      "прогрессирующая атрофия сетчатки",
+      "аутоиммунные заболевания",
+      "аномалия глаз колли",
+      "болезнь Аддисона"
+    ],
+    "советы по профилактике": [
+      "регулярные физические нагрузки для поддержания здорового веса",
+      "сбалансированное питание, соответствующее уровню активности",
+      "плановые медицинские осмотры для раннего выявления проблем",
+      "генетическое тестирование племенного поголовья",
+      "постоянные меры по профилактике паразитов"
+    ],
+    "рекомендуемые осмотры": "не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "behavior": "Provide ample opportunities for physical activity and mental challenges to prevent boredom and destructive behaviors. Engage in interactive play and training sessions regularly.",
+    "description": "Tollers require regular exercise, mental stimulation, and grooming to maintain their health and happiness. They thrive in active environments where they can engage in various activities.",
+    "grooming": "Brush their coat weekly to manage shedding and prevent matting. During shedding seasons, increase brushing frequency. Pay special attention to the finer hair around and under the ears to prevent knotting.",
+    "health": "Monitor for signs of common health issues and maintain a schedule of regular veterinary checkups. Ensure vaccinations and preventive treatments are up to date.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level. Monitor food intake to prevent obesity, and provide fresh water at all times."
+  },
+  "care_rus": {
+    "поведение и характер": "Обеспечьте достаточные возможности для физической активности и умственных нагрузок, чтобы предотвратить скуку и разрушительное поведение. Регулярно участвуйте в интерактивных играх и тренировках.",
+    "краткое описание ухода": "Толлеры требуют регулярных физических упражнений, умственной стимуляции и ухода за шерстью для поддержания их здоровья и счастья. Они процветают в активной среде, где могут участвовать в различных мероприятиях.",
+    "груминг и уход": "Расчесывайте их шерсть еженедельно, чтобы контролировать линьку и предотвращать спутывание. В периоды линьки увеличьте частоту расчесывания. Особое внимание уделяйте более тонкой шерсти вокруг и под ушами, чтобы предотвратить образование узлов.",
+    "здоровье и профилактика": "Следите за признаками распространённых проблем со здоровьем и поддерживайте график регулярных ветеринарных осмотров. Убедитесь, что вакцинации и профилактические процедуры проводятся своевременно.",
+    "питание и активность": "Кормите сбалансированным рационом, соответствующим их возрасту, размеру и уровню активности. Контролируйте потребление пищи, чтобы предотвратить ожирение, и всегда обеспечивайте доступ к свежей воде."
+  },
+  "faq": [
+    {
+      "answer": "Yes, they are affectionate and energetic, making them suitable for active families. Early socialization is important.",
+      "question": "Are Tollers good family pets?"
+    },
+    {
+      "answer": "Yes, they have high energy levels and need regular physical and mental stimulation.",
+      "question": "Do Tollers require a lot of exercise?"
+    },
+    {
+      "answer": "They are intelligent and eager to please but can be stubborn. Consistent, positive training methods work best.",
+      "question": "Are Tollers easy to train?"
+    },
+    {
+      "answer": "With proper socialization, they can coexist well with other pets. Their hunting instincts may prompt chasing behaviors.",
+      "question": "Do Tollers get along with other pets?"
+    },
+    {
+      "answer": "It's a high-pitched bark they emit when excited, unique to the breed.",
+      "question": "What is the 'Toller scream'?"
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Толлеры подходят для семей с детьми?",
+      "ответ": "Да, они привязаны и энергичны, что делает их подходящими для активных семей. Важна ранняя социализация."
+    },
+    {
+      "вопрос": "Требуют ли Толлеры много физических упражнений?",
+      "ответ": "Да, они обладают высоким уровнем энергии и нуждаются в регулярной физической и умственной стимуляции."
+    },
+    {
+      "вопрос": "Легко ли обучать Толлеров?",
+      "ответ": "Они умны и стремятся угодить, но могут быть упрямыми. Последовательные, позитивные методы дрессировки наиболее эффективны."
+    },
+    {
+      "вопрос": "Ладят ли Толлеры с другими животными?",
+      "ответ": "При правильной социализации они могут хорошо уживаться с другими питомцами. Их охотничьи инстинкты могут вызывать поведение преследования."
+    },
+    {
+      "вопрос": "Что такое 'крик Толлера'?",
+      "ответ": "Это высокий лай, который они издают при возбуждении, уникальный для породы."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/nova-scotia-duck-tolling-retriever-history/",
+    "https://www.akc.org/expert-advice/dog-breeds/nova-scotia-duck-tolling-retriever-right-for-you/",
+    "https://www.akc.org/expert-advice/lifestyle/fun-facts-nova-scotia-duck-tolling-retriever/",
+    "https://www.nsdtrc-usa.org/breed/standard/",
+    "https://www.thekennelclub.org.uk/breed-standards/gundog/retriever-nova-scotia-duck-tolling/"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "cane-corso",
+  "name": "Cane Corso",
+  "name_rus": "Кане-корсо",
+  "full_description": "<p>The Cane Corso, also known as the Italian Mastiff, is a robust and muscular breed with deep historical roots in Italy. Originating from the Roman era, these dogs were initially bred as war dogs and later adapted to various roles such as hunting large game and guarding livestock. Their lineage traces back to ancient molossian dogs, and they have been integral to Italian rural life for centuries. Physically, the Cane Corso presents a powerful and athletic build. Males typically stand between 64–68 cm at the withers, while females measure slightly less. Their weight ranges from 40 to 50 kg, proportionate to their size. The breed's coat is short, dense, and lustrous, coming in colors like black, various shades of gray, fawn, and brindle. A distinctive feature is their large, broad head with a well-defined stop and a deep muzzle. Temperamentally, Cane Corsos are known for their loyalty, intelligence, and protective nature. They form strong bonds with their families and are naturally wary of strangers, making them excellent guard dogs. Their confident demeanor requires consistent training and socialization from an early age to ensure they are well-adjusted and obedient. Historically, their working abilities were diverse, ranging from guarding properties and livestock to hunting large game. In modern times, while they still serve as protectors, many Cane Corsos are cherished as family companions. Their popularity has been on the rise, with the breed climbing from nearly 50th to 14th place in the American Kennel Club's rankings over a decade. Notable characteristics of the Cane Corso include their keen intelligence, strong protective instincts, and a calm yet assertive presence. They thrive in environments where they have a clear role and benefit from regular mental and physical stimulation.</p>",
+  "full_description_rus": "<p>Кане-корсо, также известные как итальянские мастифы, — это мощные и мускулистые собаки с глубокими историческими корнями в Италии. Их происхождение восходит к римской эпохе, когда они использовались в качестве боевых собак, а позже адаптировались к различным ролям, таким как охота на крупную дичь и охрана скота. Их родословная прослеживается до древних молоссов, и они на протяжении веков были неотъемлемой частью итальянской сельской жизни. Физически кане-корсо обладают мощным и атлетичным телосложением. Кобели обычно достигают высоты в холке от 64 до 68 см, суки немного ниже. Их вес варьируется от 40 до 50 кг, пропорционально их размеру. Шерсть короткая, плотная и блестящая, встречаются окрасы черный, различные оттенки серого, палевый и тигровый. Отличительной чертой является большая, широкая голова с хорошо выраженным переходом ото лба к морде и глубокой мордой. По характеру кане-корсо известны своей преданностью, интеллектом и защитными инстинктами. Они формируют крепкие связи со своими семьями и естественно настороженно относятся к незнакомцам, что делает их отличными сторожевыми собаками. Их уверенный нрав требует последовательной дрессировки и социализации с раннего возраста, чтобы обеспечить их хорошую адаптацию и послушание. Исторически их рабочие способности были разнообразны, от охраны имущества и скота до охоты на крупную дичь. В современное время, хотя они по-прежнему служат защитниками, многие кане-корсо стали любимыми семейными компаньонами. Их популярность растет, и порода занимает высокие позиции в рейтингах. Ключевые характеристики кане-корсо включают острый ум, сильные защитные инстинкты и спокойное, но уверенное поведение. Они процветают в среде, где у них есть четкая роль, и получают регулярную умственную и физическую стимуляцию.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "40–50 kg",
+    "height": "64–68 cm",
+    "coat": "short, dense, lustrous",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "low; occasional brushing",
+    "lifespan": "9–12 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "40–50 кг",
+    "рост": "64–68 см",
+    "шерсть": "короткая, плотная, блестящая",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "низкий; периодическое вычесывание",
+    "продолжительность жизни": "9–12 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Strong protective instincts",
+      "Highly intelligent",
+      "Requires consistent training",
+      "Loyal to family",
+      "Naturally wary of strangers"
+    ],
+    "summary": "Cane Corsos are loyal, intelligent, and protective dogs with a strong guarding instinct. They form deep bonds with their families and require consistent training and socialization.",
+    "with_children": "With proper socialization, they can be gentle and patient with children, though supervision is recommended due to their size.",
+    "with_family": "They are affectionate and devoted to their family members, often acting as vigilant protectors.",
+    "with_other_pets": "They may coexist with other pets if raised together, but their strong prey drive can be a concern with smaller animals.",
+    "with_strangers": "Naturally wary of strangers, they require early socialization to ensure appropriate behavior in social settings."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Кане-корсо — преданные, умные и защитные собаки с сильным охранным инстинктом. Они формируют глубокие связи со своими семьями и требуют последовательной дрессировки и социализации.",
+    "с семьёй": "Они ласковы и преданы членам своей семьи, часто выступая в роли бдительных защитников.",
+    "с детьми": "При правильной социализации могут быть нежными и терпеливыми с детьми, однако из-за их размера рекомендуется присмотр.",
+    "с другими животными": "Могут сосуществовать с другими животными, если выросли вместе, но их сильный охотничий инстинкт может быть проблемой с мелкими животными.",
+    "с незнакомцами": "Естественно настороженно относятся к незнакомцам, требуют ранней социализации для обеспечения надлежащего поведения в социальных ситуациях.",
+    "особые черты": [
+      "Сильные защитные инстинкты",
+      "Высокий интеллект",
+      "Требуют последовательной дрессировки",
+      "Преданы семье",
+      "Естественно настороженно относятся к незнакомцам"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Gastric dilatation-volvulus (bloat)",
+      "Eyelid abnormalities (entropion, ectropion, cherry eye)",
+      "Idiopathic epilepsy",
+      "Demodectic mange"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce joint stress",
+      "Provide regular exercise to promote overall health",
+      "Feed smaller, frequent meals to minimize bloat risk",
+      "Regularly inspect eyes and skin for early signs of issues",
+      "Schedule routine veterinary check-ups"
+    ],
+    "summary": "Cane Corsos are generally healthy but are predisposed to certain conditions common in large breeds. Regular veterinary care and a balanced lifestyle are essential.",
+    "vet_checkups": "Annually, or more frequently if health issues arise"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Кане-корсо в целом здоровы, но склонны к определённым заболеваниям, характерным для крупных пород. Регулярный ветеринарный уход и сбалансированный образ жизни необходимы.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Синдром заворота желудка (вздутие)",
+      "Аномалии век (энтропион, эктропион, «вишнёвый глаз»)",
+      "Идиопатическая эпилепсия",
+      "Демодекоз"
+    ],
+    "советы по профилактике": [
+      "Поддерживайте здоровый вес для снижения нагрузки на суставы",
+      "Обеспечивайте регулярные физические нагрузки для поддержания общего здоровья",
+      "Кормите небольшими, частыми порциями для минимизации риска вздутия",
+      "Регулярно осматривайте глаза и кожу на предмет ранних признаков проблем",
+      "Проводите плановые ветеринарные осмотры"
+    ],
+    "рекомендуемые осмотры": "Ежегодно, или чаще при возникновении проблем со здоровьем"
+  },
+  "care": {
+    "behavior": "Early and ongoing socialization is crucial to develop a well-mannered and confident dog. Positive reinforcement training methods are recommended.",
+    "description": "Cane Corsos require dedicated care, including consistent training, regular exercise, and routine health monitoring to ensure their well-being.",
+    "grooming": "Their short coat requires minimal grooming; occasional brushing suffices. Regular ear checks are important to prevent infections.",
+    "health": "Regular veterinary visits and preventive care are essential to monitor and address potential health concerns common in the breed.",
+    "nutrition": "A balanced diet formulated for large breeds is essential. Feeding smaller, frequent meals can help reduce the risk of bloat."
+  },
+  "care_rus": {
+    "поведение и характер": "Ранняя и постоянная социализация необходима для формирования воспитанной и уверенной собаки. Рекомендуются методы дрессировки с положительным подкреплением.",
+    "краткое описание ухода": "Кане-корсо требуют внимательного ухода, включая последовательную дрессировку, регулярные физические нагрузки и плановый контроль здоровья для обеспечения их благополучия.",
+    "груминг и уход": "Их короткая шерсть требует минимального ухода; достаточно периодического вычесывания. Регулярные проверки ушей важны для предотвращения инфекций.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход необходимы для мониторинга и решения потенциальных проблем со здоровьем, характерных для породы.",
+    "питание и активность": "Сбалансированная диета, разработанная для крупных пород, необходима. Кормление небольшими, частыми порциями может помочь снизить риск вздутия."
+  },
+  "faq": [
+    {
+      "question": "Are Cane Corsos good family pets?",
+      "answer": "Yes, with proper training and socialization, they can be loyal and protective family members."
+    },
+    {
+      "question": "How much exercise does a Cane Corso need?",
+      "answer": "They require about two hours of daily exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Are Cane Corsos aggressive?",
+      "answer": "They are naturally protective and can be wary of strangers but are not inherently aggressive if properly trained."
+    },
+    {
+      "question": "Do Cane Corsos get along with other pets?",
+      "answer": "With early socialization, they can coexist with other pets, though caution is advised with smaller animals."
+    },
+    {
+      "question": "What is the lifespan of a Cane Corso?",
+      "answer": "Their average lifespan is between 9 to 12 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли кане-корсо для семей?",
+      "ответ": "Да, при правильной дрессировке и социализации они могут быть преданными и защитными членами семьи."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется кане-корсо?",
+      "ответ": "Им необходимо около двух часов ежедневных физических нагрузок для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Являются ли кане-корсо агрессивными?",
+      "ответ": "Они естественно защитные и могут быть настороженными к незнакомцам, но при правильной дрессировке не являются агрессивными."
+    },
+    {
+      "вопрос": "Ладят ли кане-корсо с другими животными?",
+      "ответ": "При ранней социализации они могут сосуществовать с другими животными, хотя с мелкими животными следует быть осторожными."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни кане-корсо?",
+      "ответ": "Их средняя продолжительность жизни составляет от 9 до 12 лет."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/cane-corso",
+    "https://www.forbes.com/advisor/pet-insurance/pet-care/cane-corso-temperament/",
+    "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/large-dogs/cane-corso",
+    "https://www.webmd.com/pets/dogs/what-to-know-cane-corsos",
+    "https://vcahospitals.com/know-your-pet/cane-corso",
+    "https://en.wikipedia.org/wiki/Cane_Corso"
+  ]
+}

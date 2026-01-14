@@ -1,0 +1,161 @@
+{
+  "id": "dogue-de-bordeaux",
+  "name": "Dogue de Bordeaux",
+  "name_rus": "Бордоский дог",
+  "full_description": "<p>The Dogue de Bordeaux, also known as the French Mastiff, is one of the oldest French breeds, with a history tracing back over 600 years. Its exact origins are somewhat obscure, but it is believed to have descended from ancient mastiff-type dogs that accompanied Roman armies through Europe. Historically, the Dogue de Bordeaux was utilized for various tasks, including guarding estates, hunting large game such as boar, and serving as a butcher's dog. The breed was officially named in 1863 during its first appearance at a canine exhibition in Paris. Despite facing near extinction during the two World Wars, the breed experienced a resurgence in the 1960s, thanks in part to the efforts of French professor Raymond Triquet, who played a pivotal role in revitalizing the breed and establishing its modern standard. Physically, the Dogue de Bordeaux is a massive, powerfully built dog with a muscular body and a short, fine coat that can range from light fawn to dark red. One of its most distinctive features is its large, broad head, which is furrowed with wrinkles and topped with small, pendant ears. The breed's serious expression, combined with its stocky and athletic build, gives it an imposing presence. Temperamentally, the Dogue de Bordeaux is known for its calm and affectionate nature. It is deeply devoted to its family, displaying a steady and docile demeanor. However, the breed can also exhibit a stubborn streak, necessitating early and consistent training. Its protective instincts make it an excellent guardian, though it is generally gentle and patient, especially with children. Originally bred for guarding and hunting, the Dogue de Bordeaux possesses significant strength and courage. In modern times, it has transitioned primarily into the role of a family companion and house guardian. The breed gained widespread recognition in the United States following its appearance in the 1989 movie \"Turner &amp; Hooch,\" where it was portrayed as a loyal and endearing companion. Notable characteristics of the Dogue de Bordeaux include its massive head, which is considered the largest in proportion to body size among dog breeds, and its tendency to drool profusely. Despite its formidable appearance, the breed is known for its gentle and affectionate nature, making it a beloved companion for those who appreciate its unique combination of strength and tenderness.</p>",
+  "full_description_rus": "<p>Бордоский дог, также известный как французский мастиф, является одной из старейших французских пород с историей, насчитывающей более 600 лет. Точные истоки породы остаются неясными, но считается, что она произошла от древних собак типа мастифов, сопровождавших римские армии по Европе. Исторически бордоские доги использовались для различных задач, включая охрану поместий, охоту на крупную дичь, такую как кабаны, и в качестве помощников мясников. Порода официально получила свое название в 1863 году во время первой выставки собак в Париже. Несмотря на угрозу исчезновения во время двух мировых войн, порода пережила возрождение в 1960-х годах, во многом благодаря усилиям французского профессора Раймона Трике, сыгравшего ключевую роль в восстановлении породы и установлении ее современного стандарта. Физически бордоский дог — это массивная, мощно сложенная собака с мускулистым телом и короткой, тонкой шерстью, цвет которой варьируется от светло-палевого до темно-красного. Одной из самых отличительных черт является большая, широкая голова с морщинами и небольшими висячими ушами. Серьезное выражение лица в сочетании с крепким и атлетичным телосложением придает собаке внушительный вид. По темпераменту бордоский дог известен своим спокойным и ласковым характером. Он глубоко предан своей семье, демонстрируя устойчивое и послушное поведение. Однако порода может проявлять упрямство, что требует ранней и последовательной дрессировки. Защитные инстинкты делают его отличным сторожем, хотя он обычно нежен и терпелив, особенно с детьми. Изначально выведенный для охраны и охоты, бордоский дог обладает значительной силой и мужеством. В современное время он в основном выполняет роль семейного компаньона и домашнего охранника. Порода получила широкую известность в США после появления в фильме 1989 года \"Тернер и Хуч\", где была показана как верный и обаятельный компаньон. Примечательные особенности бордоского дога включают его массивную голову, которая считается самой большой по отношению к размеру тела среди пород собак, и склонность к обильному слюноотделению. Несмотря на грозный внешний вид, порода известна своим нежным и ласковым характером, что делает ее любимым компаньоном для тех, кто ценит уникальное сочетание силы и нежности.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "99-110+ pounds (45-50+ kg)",
+    "height": "23-27 inches (58-69 cm)",
+    "coat": "short, fine, fawn-colored",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "low; regular brushing",
+    "lifespan": "5-8 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "45-50+ кг",
+    "рост": "58-69 см",
+    "шерсть": "короткая, тонкая, палевого цвета",
+    "активность": "умеренная",
+    "обучаемость": "средняя",
+    "уход": "низкий; регулярное расчесывание",
+    "продолжительность жизни": "5-8 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Protective",
+      "Affectionate",
+      "Stubborn",
+      "Loyal",
+      "Gentle"
+    ],
+    "summary": "The Dogue de Bordeaux is a calm, affectionate, and devoted companion with a protective instinct, making it an excellent family guardian.",
+    "with_children": "Generally gentle and patient, making it suitable for families with children; supervision is recommended due to its large size.",
+    "with_family": "Deeply loyal and affectionate, forming strong bonds with family members and often seeking their company.",
+    "with_other_pets": "Can coexist with other pets if socialized early, but may display dominance; caution is advised with smaller animals due to prey drive.",
+    "with_strangers": "Naturally protective and wary of strangers, but not aggressive without cause; proper socialization is important."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Бордоский дог — спокойный, ласковый и преданный компаньон с защитными инстинктами, что делает его отличным семейным охранником.",
+    "с семьёй": "Глубоко предан и ласков, формирует крепкие связи с членами семьи и часто ищет их общества.",
+    "с детьми": "Обычно нежен и терпелив, что делает его подходящим для семей с детьми; рекомендуется присмотр из-за его крупных размеров.",
+    "с другими животными": "Может уживаться с другими животными при ранней социализации, но может проявлять доминирование; следует быть осторожным с мелкими животными из-за охотничьего инстинкта.",
+    "с незнакомцами": "Естественно защищает и настороженно относится к незнакомцам, но не агрессивен без причины; важна правильная социализация.",
+    "особые черты": [
+      "Защитный",
+      "Ласковый",
+      "Упрямый",
+      "Преданный",
+      "Нежный"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Heart problems",
+      "Bloat (gastric torsion)",
+      "Skin infections"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide moderate exercise",
+      "Monitor for signs of bloat",
+      "Ensure proper nutrition"
+    ],
+    "summary": "The Dogue de Bordeaux is prone to certain health issues and has a relatively short lifespan; proactive care is essential.",
+    "vet_checkups": "At least twice a year"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Бордоский дог склонен к определённым проблемам со здоровьем и имеет относительно короткую продолжительность жизни; необходим проактивный уход.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Проблемы с сердцем",
+      "Вздутие желудка (гастротоксикоз)",
+      "Кожные инфекции"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здорового веса",
+      "Обеспечение умеренной физической активности",
+      "Мониторинг признаков вздутия",
+      "Обеспечение правильного питания"
+    ],
+    "рекомендуемые осмотры": "Не менее двух раз в год"
+  },
+  "care": {
+    "behavior": "Early socialization and consistent, positive reinforcement training are crucial to manage its stubbornness and ensure well-rounded behavior.",
+    "description": "The Dogue de Bordeaux requires attentive care, including regular health monitoring, consistent training, and proper socialization.",
+    "grooming": "Minimal grooming is needed; regular brushing and cleaning of facial wrinkles to prevent infections.",
+    "health": "Regular veterinary visits and proactive health management are necessary to address breed-specific health concerns.",
+    "nutrition": "A balanced diet tailored to large breeds, with portion control to prevent obesity and related health issues."
+  },
+  "care_rus": {
+    "описание": "Бордоский дог требует внимательного ухода, включая регулярный контроль здоровья, последовательную дрессировку и правильную социализацию.",
+    "поведение": "Ранняя социализация и последовательная, положительная дрессировка необходимы для управления упрямством и обеспечения всестороннего поведения.",
+    "здоровье": "Регулярные визиты к ветеринару и проактивное управление здоровьем необходимы для решения специфических проблем породы.",
+    "груминг": "Минимальный уход за шерстью; регулярное расчесывание и чистка складок на лице для предотвращения инфекций.",
+    "питание": "Сбалансированная диета, адаптированная для крупных пород, с контролем порций для предотвращения ожирения и связанных с ним проблем со здоровьем."
+  },
+  "faq": [
+    {
+      "question": "Is the Dogue de Bordeaux suitable for first-time dog owners?",
+      "answer": "Due to its size and strength, it's better suited for experienced owners who can provide firm, consistent training."
+    },
+    {
+      "question": "How much exercise does a Dogue de Bordeaux need?",
+      "answer": "Moderate daily exercise, such as walks and playtime, is sufficient to keep them healthy and content."
+    },
+    {
+      "question": "Does the Dogue de Bordeaux drool a lot?",
+      "answer": "Yes, the breed is known for heavy drooling, especially after eating or drinking."
+    },
+    {
+      "question": "Is the Dogue de Bordeaux good with children?",
+      "answer": "Generally gentle and patient with children, but supervision is recommended due to its large size."
+    },
+    {
+      "question": "What is the average lifespan of a Dogue de Bordeaux?",
+      "answer": "The breed typically lives between 5 to 8 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходит ли бордоский дог для владельцев без опыта?",
+      "ответ": "Из-за своих размеров и силы, он больше подходит для опытных владельцев, способных обеспечить твёрдую и последовательную дрессировку."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется бордоскому догу?",
+      "ответ": "Умеренные ежедневные упражнения, такие как прогулки и игры, достаточны для поддержания их здоровья и удовлетворения."
+    },
+    {
+      "вопрос": "Сильно ли слюнявит бордоский дог?",
+      "ответ": "Да, порода известна обильным слюноотделением, особенно после еды или питья."
+    },
+    {
+      "вопрос": "Хорошо ли бордоский дог ладит с детьми?",
+      "ответ": "Обычно нежен и терпелив с детьми, но рекомендуется присмотр из-за его крупных размеров."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни бордоского дога?",
+      "ответ": "Порода обычно живёт от 5 до 8 лет."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/press-releases/akc-welcomes-dogue-de-bordeaux-to-working-group/",
+    "https://www.ukcdogs.com/breed-groups/dogue-de-bordeaux",
+    "https://www.vetstreet.com/dogs/dogue-de-bordeaux",
+    "https://www.akc.org/expert-advice/lifestyle/dogue-de-bordeaux-facts/",
+    "https://www.akc.org/expert-advice/dog-breeds/dogue-de-bordeaux-history-behind-the-breed/",
+    "https://www.pedigree.ru/porody/bordoskij-dog",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/dogue_de_bordeaux",
+    "https://royalcanin.ru/dog-breed/dogue-de-bordeaux",
+    "https://kinpet.ru/bordoskiy-dog/",
+    "https://help.rkf.online/ru/knowledge_base/art/1251/cat/15/bordoskij-dog-116"
+  ]
+}

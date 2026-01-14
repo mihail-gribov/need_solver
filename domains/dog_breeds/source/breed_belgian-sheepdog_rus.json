@@ -1,0 +1,170 @@
+{
+  "id": "belgian-sheepdog",
+  "name": "Belgian Sheepdog",
+  "name_rus": "Бельгийская овчарка грюнендаль",
+  "full_description": "<p>The Belgian Sheepdog, also known as the Groenendael, is one of four varieties of Belgian herding dogs. Originating in Belgium, this breed was developed in the late 19th century by Nicolas Rose at his Château de Groenendael. Initially bred for herding and guarding livestock, the Belgian Sheepdog's versatility led to roles in police work and military service, notably during World War I as messengers and ambulance dogs. Physically, the Belgian Sheepdog is a medium to large-sized, square-proportioned dog with a proud carriage. Males typically stand between 24 to 26 inches tall and weigh 55 to 75 pounds, while females are slightly smaller, standing 22 to 24 inches tall and weighing 40 to 60 pounds. The breed is distinguished by its long, straight, black coat with a dense undercoat, providing protection against harsh weather. The head is elongated with almond-shaped eyes and erect, triangular ears, contributing to an alert and intelligent expression. Temperamentally, Belgian Sheepdogs are intelligent, alert, and protective. They form strong bonds with their families and are known for their loyalty and affection. Their high energy levels and eagerness to work make them well-suited for various tasks, including herding, obedience, and agility competitions. Their original purpose as herders and guardians has evolved; today, they excel in roles such as search and rescue, police work, and as service dogs. Their intelligence and trainability also make them popular in dog sports and as companions for active families. Notable characteristics of the Belgian Sheepdog include their unwavering loyalty, high intelligence, and versatility. They require regular mental and physical stimulation to prevent boredom and are best suited for owners who can provide consistent training and ample exercise.</p>",
+  "full_description_rus": "<p>Бельгийская овчарка грюнендаль — одна из четырёх разновидностей бельгийских овчарок, наряду с тервюреном, малинуа и лакенуа. Порода была выведена в конце XIX века в Бельгии, в замке Грюнендаль, откуда и получила своё название. Изначально грюнендали использовались для пастьбы и охраны скота, однако их универсальность позволила им успешно выполнять роли в полиции и армии, особенно во время Первой мировой войны, где они служили связными и санитарными собаками. Физически грюнендаль представляет собой собаку среднего или крупного размера с квадратным телосложением и гордой осанкой. Рост кобелей составляет 61–66 см, вес — 30–37 кг; суки немного меньше: рост 56–61 см, вес 25–30 кг. Отличительной чертой породы является длинная, прямая, чёрная шерсть с густым подшёрстком, обеспечивающая защиту от неблагоприятных погодных условий. Голова удлинённая, с миндалевидными глазами и стоячими треугольными ушами, что придаёт собаке бдительное и умное выражение. По характеру грюнендали умны, бдительны и защитны. Они формируют крепкие связи со своими семьями и известны своей преданностью и привязанностью. Высокий уровень энергии и стремление работать делают их подходящими для различных задач, включая пастьбу, послушание и соревнования по аджилити. Первоначально выполняя функции пастухов и охранников, сегодня они преуспевают в таких ролях, как поиск и спасение, работа в полиции и служебные собаки. Их интеллект и обучаемость также делают их популярными в собачьих видах спорта и в качестве компаньонов для активных семей. Ключевые характеристики грюнендаля включают непоколебимую преданность, высокий интеллект и универсальность. Они требуют регулярной умственной и физической стимуляции, чтобы избежать скуки, и лучше всего подходят владельцам, которые могут обеспечить последовательную дрессировку и достаточные физические нагрузки.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "40-75 lbs (18-34 kg)",
+    "height": "22-26 inches (56-66 cm)",
+    "coat": "long, straight, black with dense undercoat",
+    "activity": "very high",
+    "trainability": "very high",
+    "grooming": "regular brushing; increased during shedding seasons",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "25–37 кг",
+    "рост": "56–66 см",
+    "шерсть": "длинная, прямая, чёрная с густым подшёрстком",
+    "активность": "очень высокая",
+    "обучаемость": "очень высокая",
+    "уход": "регулярное вычёсывание; усиленный уход в периоды линьки",
+    "продолжительность жизни": "12–14 лет"
+  },
+  "behavior": {
+    "summary": "Belgian Sheepdogs are intelligent, alert, and protective, forming strong bonds with their families and excelling in various working roles.",
+    "with_family": "They are affectionate and loyal, often forming strong attachments to family members and thriving on companionship.",
+    "with_children": "Generally good with children, though their herding instincts may lead them to gently herd or nudge during play.",
+    "with_other_pets": "Can coexist well with other pets if socialized early, but may display dominance tendencies.",
+    "with_strangers": "Naturally wary of strangers, they are watchful and protective, making them excellent watchdogs.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Strong protective instincts",
+      "Energetic and requires ample exercise",
+      "Loyal and affectionate with family",
+      "Versatile in various working roles"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Грюнендали умны, бдительны и защитны, формируют крепкие связи со своими семьями и преуспевают в различных рабочих ролях.",
+    "с семьёй": "Они привязаны и преданны, часто формируют сильные привязанности к членам семьи и процветают в компании.",
+    "с детьми": "Обычно хорошо ладят с детьми, хотя их пастушьи инстинкты могут побуждать их мягко подталкивать или направлять во время игры.",
+    "с другими животными": "Могут хорошо уживаться с другими животными при ранней социализации, но могут проявлять склонность к доминированию.",
+    "с незнакомцами": "Естественно насторожены к незнакомцам, они бдительны и защитны, что делает их отличными сторожевыми собаками.",
+    "особые черты": [
+      "Высокий интеллект и обучаемость",
+      "Сильные защитные инстинкты",
+      "Энергичность и потребность в значительных физических нагрузках",
+      "Преданность и привязанность к семье",
+      "Универсальность в различных рабочих ролях"
+    ]
+  },
+  "health": {
+    "summary": "Belgian Sheepdogs are generally healthy but can be prone to certain genetic conditions; regular veterinary care is essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Progressive retinal atrophy",
+      "Epilepsy",
+      "Allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy diet and weight",
+      "Provide adequate exercise",
+      "Early screening for genetic conditions",
+      "Responsible breeding practices"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Грюнендали в целом здоровы, но могут быть склонны к определённым генетическим заболеваниям; регулярный ветеринарный уход необходим.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренных суставов",
+      "Дисплазия локтевых суставов",
+      "Прогрессирующая атрофия сетчатки",
+      "Эпилепсия",
+      "Аллергии"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здоровой диеты и веса",
+      "Обеспечение достаточных физических нагрузок",
+      "Ранний скрининг на генетические заболевания",
+      "Ответственные методы разведения"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем."
+  },
+  "care": {
+    "description": "Belgian Sheepdogs require consistent training, ample exercise, and regular grooming to maintain their health and well-being.",
+    "behavior": "Early socialization and obedience training are crucial to manage their intelligence and energy levels effectively.",
+    "health": "Regular veterinary visits and preventive care help in early detection and management of potential health issues.",
+    "grooming": "Weekly brushing is recommended, increasing during shedding seasons to manage their dense coat.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential; consult a veterinarian for specific recommendations."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Грюнендалям необходима последовательная дрессировка, достаточные физические нагрузки и регулярный уход за шерстью для поддержания их здоровья и благополучия.",
+    "поведение и характер": "Ранняя социализация и обучение послушанию необходимы для эффективного управления их интеллектом и уровнем энергии.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход помогают в раннем выявлении и управлении потенциальными проблемами со здоровьем.",
+    "груминг и уход": "Рекомендуется еженедельное вычёсывание, с увеличением частоты в периоды линьки для управления их густой шерстью.",
+    "питание и активность": "Сбалансированная диета, соответствующая их возрасту, размеру и уровню активности, необходима; проконсультируйтесь с ветеринаром для получения конкретных рекомендаций."
+  },
+  "faq": [
+    {
+      "question": "Are Belgian Sheepdogs good family pets?",
+      "answer": "Yes, they are loyal and affectionate, making them excellent companions for active families."
+    },
+    {
+      "question": "How much exercise does a Belgian Sheepdog need?",
+      "answer": "They require at least 40 minutes of vigorous exercise daily to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Belgian Sheepdogs get along with other pets?",
+      "answer": "With proper socialization, they can coexist well with other pets, though they may display dominance tendencies."
+    },
+    {
+      "question": "What is the grooming requirement for a Belgian Sheepdog?",
+      "answer": "Regular brushing, at least weekly, is needed to maintain their coat, with increased frequency during shedding seasons."
+    },
+    {
+      "question": "Are Belgian Sheepdogs easy to train?",
+      "answer": "Yes, their high intelligence and eagerness to please make them highly trainable, though consistent training is essential."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли грюнендали для семей с детьми?",
+      "ответ": "Да, они преданны и привязаны, что делает их отличными компаньонами для активных семей."
+    },
+    {
+      "вопрос": "Сколько физической нагрузки требуется грюнендалю?",
+      "ответ": "Им необходимо не менее 40 минут интенсивных физических упражнений ежедневно для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Ладят ли грюнендали с другими животными?",
+      "ответ": "При правильной социализации они могут хорошо уживаться с другими животными, хотя могут проявлять склонность к доминированию."
+    },
+    {
+      "вопрос": "Каков уход за шерстью грюнендаля?",
+      "ответ": "Регулярное вычёсывание, не реже одного раза в неделю, необходимо для поддержания их шерсти, с увеличением частоты в периоды линьки."
+    },
+    {
+      "вопрос": "Легко ли дрессировать грюнендаля?",
+      "ответ": "Да, их высокий интеллект и стремление угодить делают их легко обучаемыми, хотя последовательная дрессировка необходима."
+    }
+  ],
+  "sources": [
+    "https://www.hillspet.com/dog-care/dog-breeds/belgian-sheepdog",
+    "https://www.akc.org/expert-advice/dog-breeds/belgian-sheepdog-right-for-you/",
+    "https://bsca.info/judges-education/temperment/",
+    "https://vcahospitals.com/know-your-pet/belgian-sheepdog",
+    "https://www.westminsterkennelclub.org/breed/belgian-sheepdog/",
+    "https://www.purina.kz/dogs/dog-breeds/library/belgian_shepherd_groenendael",
+    "https://ru.wikipedia.org/wiki/Бельгийская_овчарка",
+    "https://www.rbc.ru/life/news/67408b339a794723f38de75f",
+    "https://www.pedigree.ru/porody/gryunendal",
+    "https://dog.adgth.ru/breed/belgian_sheepdog.htm",
+    "https://www.t.minsk.by/20770.html",
+    "https://www.kp.ru/family/domashnie-zhivotnye/gryunendal-sobaka/",
+    "https://petgu.ru/porody/belgijskaya-ovcharka-groenendael",
+    "https://petstory.ru/knowledge/dogs/dog-breeds/belgian-sheepdog/",
+    "https://royalcanin.ru/dog-breed/belgian-shepherd-dog",
+    "https://mypets.kz/dog/gryunendal/",
+    "https://ru.wikipedia.org/wiki/Грюнендаль_(порода_собак)",
+    "https://royalcanin.ru/dog-breed/gryunendal",
+    "https://sobakaevro.ru/gryunendal-4"
+  ]
+}

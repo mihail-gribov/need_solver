@@ -1,0 +1,76 @@
+{
+  "id": "american-staffordshire-terrier",
+  "name": "American Staffordshire Terrier",
+  "full_description": "<p>The American Staffordshire Terrier, commonly known as the AmStaff, traces its origins to the early 19th century in England. Breeders crossed Bulldogs with various Terriers to create a dog that combined strength and agility. These dogs were initially used for bull-baiting and later for dog fighting. By the mid-1800s, this breed type was brought to America, where it was further developed for hunting large game, guarding properties, and serving as loyal companions. The American Kennel Club (AKC) recognized the breed in 1936 under the name Staffordshire Terrier, which was changed to American Staffordshire Terrier in 1972 to distinguish it from the smaller Staffordshire Bull Terrier of England.</p>\n<p>Physically, the AmStaff is a medium-sized, muscular dog with a broad head and pronounced cheek muscles. Males typically stand between 18 to 19 inches tall, while females range from 17 to 18 inches. Their weight varies from 40 to 75 pounds. The breed's short, stiff coat comes in a variety of colors and patterns, including solid, parti-color, and patched.</p>\n<p>Temperamentally, American Staffordshire Terriers are known for their intelligence, confidence, and good-natured disposition. They are affectionate with family members and can be playful and gentle with children. However, due to their strong protective instincts, early socialization and consistent training are essential to ensure they are well-mannered and sociable.</p>\n<p>Historically bred for strength and tenacity, AmStaffs possess a strong work ethic and excel in various canine sports, including agility, obedience, and weight pulling. Their original purpose encompassed hunting large game and guarding homesteads, roles that showcased their versatility and loyalty.</p>\n<p>In modern times, the American Staffordshire Terrier serves primarily as a companion animal. Their loyalty and affectionate nature make them excellent family pets. Despite their historical association with dog fighting, responsible breeding and ownership have highlighted their positive traits, leading to a steady popularity among dog enthusiasts.</p>\n<p>Notable characteristics of the breed include their muscular build, strong jaws, and a confident demeanor. They are also recognized for their agility and athleticism, making them suitable for various dog sports and activities.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "40-75 pounds",
+    "height": "17-19 inches",
+    "coat": "short, stiff, single-layer",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "minimal; occasional brushing",
+    "lifespan": "11-12 years"
+  },
+  "behavior": {
+    "summary": "American Staffordshire Terriers are intelligent, confident, and affectionate dogs known for their loyalty and protective instincts.",
+    "with_family": "They form strong bonds with family members, displaying affectionate and playful behavior.",
+    "with_children": "Generally gentle and patient with children, but supervision is recommended due to their strength.",
+    "with_other_pets": "May exhibit dominance; early socialization is crucial for harmonious relationships.",
+    "with_strangers": "Can be reserved; proper socialization helps in developing friendly interactions.",
+    "special_traits": [
+      "Loyal and protective",
+      "Intelligent and trainable",
+      "Energetic and playful"
+    ]
+  },
+  "health": {
+    "summary": "Generally healthy, but prone to certain genetic conditions; regular veterinary care is essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Cataracts",
+      "Hypothyroidism"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine eye examinations",
+      "Thyroid function tests as recommended"
+    ],
+    "vet_checkups": "Annual checkups recommended; more frequent for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "American Staffordshire Terriers require regular exercise, consistent training, and minimal grooming to maintain their health and happiness.",
+    "behavior": "Early socialization and positive reinforcement training are crucial to develop well-mannered behavior.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits.",
+    "grooming": "Brush occasionally to remove dead hair; bathe every 4-6 weeks to maintain coat health.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are American Staffordshire Terriers aggressive?",
+      "answer": "With proper training and socialization, they are affectionate and friendly; aggression is not typical of the breed."
+    },
+    {
+      "question": "Do they get along with other dogs?",
+      "answer": "Early socialization is key; some may show dominance, so introductions should be managed carefully."
+    },
+    {
+      "question": "How much exercise do they need?",
+      "answer": "Moderate daily exercise, such as walks or play sessions, is sufficient to keep them healthy and happy."
+    },
+    {
+      "question": "Are they suitable for first-time dog owners?",
+      "answer": "They can be, provided the owner is committed to consistent training and socialization."
+    },
+    {
+      "question": "Do they require a lot of grooming?",
+      "answer": "No, their short coat requires minimal grooming; occasional brushing and regular baths suffice."
+    }
+  ],
+  "sources": [
+    "https://vcahospitals.com/know-your-pet/american-staffordshire-terrier",
+    "https://www.akc.org/expert-advice/dog-breeds/american-staffordshire-terrier-fun-facts/",
+    "https://www.akc.org/press-releases/akc-celebrates-all-american-breeds/",
+    "https://www.petmd.com/dog/breeds/american-staffordshire-terrier"
+  ]
+}

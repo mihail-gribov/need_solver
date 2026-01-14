@@ -1,0 +1,161 @@
+{
+  "id": "pekingese",
+  "name": "Pekingese",
+  "name_rus": "Пекинес",
+  "full_description": "<p>The Pekingese is an ancient toy breed originating from China, revered for centuries as a companion to Chinese royalty. Believed to have been bred to resemble the 'Foo Dog' or Chinese guardian lions, Pekingese were exclusive to the imperial court, symbolizing nobility and status. Their introduction to the Western world occurred in the mid-19th century when British forces brought them to England after the Second Opium War. Official recognition by the American Kennel Club (AKC) followed in 1906, cementing their global appeal.</p>\n<p>Physically, Pekingese are small yet sturdy dogs, standing between 6 to 9 inches (15–23 cm) tall at the shoulder and weighing between 7 to 14 pounds (3.2–6.4 kg). They possess a compact, muscular body with a broad chest and a distinctive rolling gait. Their large, round eyes and short, black muzzle contribute to their unique facial expression. The breed's double coat is long and flowing, forming a mane-like appearance around the neck and shoulders, reminiscent of a lion's mane. Coat colors are diverse, including fawn, black, cream, red, sable, white, and biscuit, often with black masks or white markings. Their heart-shaped ears hang close to the head with heavy feathering, and the tail is set high, carried over the back with a fringe.</p>\n<p>Temperamentally, Pekingese are dignified and confident, often exhibiting an independent and sometimes aloof demeanor. They are loyal and affectionate with their families but can be reserved around strangers. Their regal bearing reflects their historical status as companions to royalty. While they are intelligent, their strong-willed nature can make training a challenge; they respond best to positive reinforcement techniques.</p>\n<p>Originally bred as lapdogs and companions for Chinese emperors, Pekingese were not developed for specific working abilities. Their primary role was to provide companionship and serve as a status symbol within the imperial court. In modern times, they continue to fulfill this role, cherished as affectionate and loyal companions. Their small size and moderate exercise needs make them well-suited to apartment living, and they are often seen in dog shows, where their distinctive appearance and demeanor are celebrated.</p>\n<p>Notable characteristics of the Pekingese include their lion-like appearance, a testament to their breeding to resemble Chinese guardian lions. Their unique rolling gait and distinctive facial features set them apart from other breeds. Despite their small stature, they carry themselves with a sense of self-importance and dignity, embodying the noble heritage from which they descend.</p>",
+  "full_description_rus": "<p>Пекинес — древняя декоративная порода собак, происходящая из Китая, где на протяжении веков считалась священной и была привилегией исключительно императорской семьи. Считалось, что пекинесы были выведены для того, чтобы напоминать «собак Фу» или китайских львов-стражей, символизируя благородство и статус. В западный мир они попали в середине XIX века, когда британские войска привезли их в Англию после Второй опиумной войны. Официальное признание Американским клубом собаководства (AKC) последовало в 1906 году, что закрепило их популярность во всем мире.</p>\n<p>Физически пекинесы — небольшие, но крепкие собаки, ростом от 15 до 23 см в холке и весом от 3,2 до 6,4 кг. Они обладают компактным, мускулистым телосложением с широкой грудью и характерной покачивающейся походкой. Их большие, круглые глаза и короткая, черная морда придают им уникальное выражение лица. Двойная шерсть длинная и густая, образуя гриву вокруг шеи и плеч, напоминающую львиную. Окрас разнообразен: палевый, черный, кремовый, красный, соболиный, белый и бисквитный, часто с черными масками или белыми отметинами. Уши сердцевидной формы плотно прилегают к голове и покрыты густой шерстью, а хвост высоко посажен и изящно изогнут на спину с обильным украшающим волосом.</p>\n<p>По характеру пекинесы — достойные и уверенные в себе собаки, часто проявляющие независимость и иногда сдержанность. Они преданы и ласковы со своими семьями, но могут быть настороженными с незнакомцами. Их царственная осанка отражает исторический статус компаньонов императорской семьи. Хотя они умны, их упрямый характер может усложнять процесс обучения; они лучше всего реагируют на методы положительного подкрепления.</p>\n<p>Изначально выведенные как комнатные собаки и компаньоны китайских императоров, пекинесы не были предназначены для выполнения специфических рабочих функций. Их основная роль заключалась в обеспечении компании и служении символом статуса при императорском дворе. В современное время они продолжают выполнять эту роль, будучи любимыми и преданными компаньонами. Их небольшой размер и умеренные потребности в физической активности делают их подходящими для жизни в квартирах, и они часто участвуют в выставках собак, где ценится их уникальная внешность и поведение.</p>\n<p>Отличительными чертами пекинесов являются их львиный облик, свидетельствующий о селекции, направленной на сходство с китайскими львами-стражами. Их уникальная покачивающаяся походка и характерные черты лица выделяют их среди других пород. Несмотря на небольшой рост, они несут себя с чувством собственного достоинства и важности, воплощая благородное наследие, от которого происходят.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "7–14 pounds (3.2–6.4 kg)",
+    "height": "6–9 inches (15–23 cm)",
+    "coat": "long, flowing double coat; outer coat is straight and coarse, undercoat is soft and dense",
+    "activity": "low to moderate",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "high; requires regular brushing to prevent matting",
+    "lifespan": "12–15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "3,2–6,4 кг",
+    "рост": "15–23 см",
+    "шерсть": "длинная, густая двойная; наружный слой прямой и жесткий, подшерсток мягкий и плотный",
+    "активность": "низкая до умеренной",
+    "обучаемость": "средняя; умны, но могут быть упрямыми",
+    "уход": "высокий; требует регулярного расчесывания для предотвращения колтунов",
+    "продолжительность жизни": "12–15 лет"
+  },
+  "behavior": {
+    "summary": "Pekingese are dignified, confident, and loyal companions with an independent streak. They form strong bonds with their families but can be reserved around strangers.",
+    "with_family": "Affectionate and devoted, Pekingese thrive on close companionship with their family members, often forming particularly strong bonds with one or two individuals.",
+    "with_children": "Generally good with older children who understand their need for gentle handling; may not tolerate rough play from younger children.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though they may prefer the company of humans over other animals.",
+    "with_strangers": "Often reserved or aloof around strangers, reflecting their independent nature and historical role as royal companions.",
+    "special_traits": [
+      "Independent and strong-willed",
+      "Loyal and affectionate with family",
+      "Reserved around strangers",
+      "Low to moderate energy levels",
+      "Distinctive rolling gait"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Пекинесы — достойные, уверенные в себе и преданные компаньоны с независимым характером. Они формируют крепкие связи со своими семьями, но могут быть сдержанными с незнакомцами.",
+    "с семьёй": "Ласковые и преданные, пекинесы процветают в тесном общении с членами своей семьи, часто формируя особенно крепкие связи с одним или двумя людьми.",
+    "с детьми": "Обычно хорошо ладят со старшими детьми, которые понимают их потребность в бережном обращении; могут не терпеть грубых игр с младшими детьми.",
+    "с другими животными": "Могут сосуществовать с другими животными при правильной социализации, хотя могут предпочитать общество людей.",
+    "с незнакомцами": "Часто сдержанны или отчуждены с незнакомцами, что отражает их независимый характер и историческую роль королевских компаньонов.",
+    "особые черты": [
+      "Независимые и волевые",
+      "Преданные и ласковые с семьёй",
+      "Сдержанные с незнакомцами",
+      "Низкий до умеренного уровень энергии",
+      "Характерная покачивающаяся походка"
+    ]
+  },
+  "health": {
+    "summary": "Pekingese are generally healthy but are prone to certain breed-specific health issues, particularly related to their brachycephalic (flat-faced) anatomy.",
+    "common_issues": [
+      "Brachycephalic syndrome (breathing difficulties)",
+      "Eye problems (corneal ulcers, dry eye)",
+      "Intervertebral disc disease (IVDD)",
+      "Patellar luxation",
+      "Skin fold dermatitis"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce strain on the back and joints",
+      "Regular eye examinations to detect and treat issues early",
+      "Keep facial folds clean and dry to prevent infections",
+      "Avoid excessive heat and humidity to reduce breathing difficulties",
+      "Provide moderate exercise to maintain overall health without overexertion"
+    ],
+    "vet_checkups": "Annual checkups recommended; more frequent visits if health issues arise"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Пекинесы в целом здоровы, но склонны к определённым породным заболеваниям, особенно связанным с их брахицефалической (плоскомордой) анатомией.",
+    "распространённые проблемы": [
+      "Брахицефалический синдром (затруднённое дыхание)",
+      "Проблемы с глазами (роговичные язвы, сухой кератоконъюнктивит)",
+      "Межпозвоночная грыжа (IVDD)",
+      "Вывих надколенника",
+      "Дерматит кожных складок"
+    ],
+    "советы по профилактике": [
+      "Поддерживайте здоровый вес, чтобы снизить нагрузку на спину и суставы",
+      "Регулярные осмотры глаз для раннего выявления и лечения проблем",
+      "Держите кожные складки чистыми и сухими, чтобы предотвратить инфекции",
+      "Избегайте чрезмерной жары и влажности, чтобы уменьшить затруднения дыхания",
+      "Обеспечивайте умеренные физические нагрузки для поддержания общего здоровья без переутомления"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры; более частые визиты при возникновении проблем со здоровьем"
+  },
+  "care": {
+    "description": "Pekingese require attentive care, including regular grooming, moderate exercise, and monitoring for breed-specific health issues to ensure a healthy and happy life.",
+    "behavior": "Early socialization and consistent, positive reinforcement training are essential to manage their independent nature and prevent behavioral issues.",
+    "health": "Regular veterinary care, including eye and respiratory assessments, is crucial due to their predisposition to certain health conditions.",
+    "grooming": "Daily brushing is recommended to prevent matting and maintain coat health; special attention should be given to cleaning facial folds and monitoring for skin issues.",
+    "nutrition": "A balanced diet appropriate for small breeds, with careful monitoring to prevent obesity, is essential for maintaining overall health."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Пекинесы требуют внимательного ухода, включая регулярный груминг, умеренные физические нагрузки и мониторинг породных проблем со здоровьем для обеспечения здоровой и счастливой жизни.",
+    "поведение и характер": "Ранняя социализация и последовательное, положительное подкрепление в обучении необходимы для управления их независимым характером и предотвращения поведенческих проблем.",
+    "здоровье и профилактика": "Регулярный ветеринарный уход, включая осмотры глаз и дыхательной системы, важен из-за их предрасположенности к определённым заболеваниям.",
+    "груминг и уход": "Рекомендуется ежедневное расчесывание для предотвращения колтунов и поддержания здоровья шерсти; особое внимание следует уделять чистоте кожных складок и мониторингу кожных проблем.",
+    "питание и активность": "Сбалансированная диета, подходящая для мелких пород, с тщательным контролем веса для предотвращения ожирения, необходима для поддержания общего здоровья."
+  },
+  "faq": [
+    {
+      "question": "Are Pekingese good with children?",
+      "answer": "Pekingese can be good with older children who handle them gently; they may not tolerate rough play from younger children."
+    },
+    {
+      "question": "How much exercise does a Pekingese need?",
+      "answer": "They require moderate exercise, such as short daily walks and play sessions, to maintain health without overexertion."
+    },
+    {
+      "question": "Do Pekingese shed a lot?",
+      "answer": "Yes, they have a long double coat that sheds; regular grooming helps manage shedding and prevent matting."
+    },
+    {
+      "question": "Are Pekingese easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training is most effective."
+    },
+    {
+      "question": "What are common health issues in Pekingese?",
+      "answer": "Common issues include breathing difficulties, eye problems, and back issues due to their brachycephalic anatomy."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Пекинесы хорошо ладят с детьми?",
+      "ответ": "Пекинесы могут хорошо ладить со старшими детьми, которые обращаются с ними бережно; они могут не терпеть грубых игр с младшими детьми."
+    },
+    {
+      "вопрос": "Сколько физической активности требуется пекинесу?",
+      "ответ": "Им требуется умеренная физическая активность, такая как короткие ежедневные прогулки и игровые сессии, для поддержания здоровья без переутомления."
+    },
+    {
+      "вопрос": "Пекинесы сильно линяют?",
+      "ответ": "Да, у них длинная двойная шерсть, которая линяет; регулярный груминг помогает контролировать линьку и предотвращать образование колтунов."
+    },
+    {
+      "вопрос": "Пекинесы легко поддаются дрессировке?",
+      "ответ": "Они умны, но могут быть упрямыми; наиболее эффективны последовательные методы обучения с положительным подкреплением."
+    },
+    {
+      "вопрос": "Какие распространённые проблемы со здоровьем у пекинесов?",
+      "ответ": "Распространённые проблемы включают затруднённое дыхание, проблемы с глазами и спиной из-за их брахицефалической анатомии."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/pekingese-history/",
+    "https://www.webmd.com/pets/dogs/what-to-know-pekingese/",
+    "https://www.petmd.com/dog/breeds/pekingese",
+    "https://vcahospitals.com/know-your-pet/dog-breeds/pekingese",
+    "https://www.akc.org/expert-advice/lifestyle/10-facts-about-pekingese-dogs/",
+    "https://www.proplan.ru/dog/breeds/pekines",
+    "https://www.cesar.ru/porody/pekines/",
+    "https://woman.rambler.ru/psychology/48939974-sobaka-pekines-opisanie-i-harakteristika-porody/",
+    "https://kinpet.ru/pekines/",
+    "https://zoogalaktika.ru/photos/pets/canis-familiaris/races/pekingese"
+  ]
+}

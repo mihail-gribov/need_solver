@@ -1,0 +1,83 @@
+{
+  "id": "lhasa-apso",
+  "name": "Lhasa Apso",
+  "full_description": "<p>The Lhasa Apso is a small, hardy breed originating from Tibet, where it served as a sentinel in Buddhist monasteries and homes. Named after Tibet's capital city, Lhasa, and the Tibetan word 'apso,' meaning 'bearded,' this breed was revered as a symbol of good luck and often gifted to dignitaries. Physically, the Lhasa Apso stands about 10 to 11 inches tall and weighs between 12 to 18 pounds. It possesses a long, dense double coat that comes in various colors, including black, white, gold, and parti-color combinations. The breed's dark, oval-shaped eyes and feathered tail, which curls over its back, contribute to its distinctive appearance. Temperamentally, Lhasa Apsos are known for their alertness, intelligence, and independence. They are affectionate with family members but can be wary of strangers, a trait stemming from their watchdog origins. While they are playful and loyal, they may exhibit stubbornness, requiring consistent training and socialization. Historically, their primary role was to alert larger guard dogs to intruders, utilizing their keen hearing and sharp bark. In modern times, Lhasa Apsos have transitioned into companion animals, cherished for their loyal and protective nature. Notable characteristics include their longevity, with many living into their early 20s, and their minimal shedding, making them suitable for individuals with mild allergies.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "12-18 pounds",
+    "height": "10-11 inches",
+    "coat": "long, dense double coat",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "regular brushing; professional grooming recommended",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Lhasa Apsos are alert, intelligent, and independent dogs with a strong protective instinct.",
+    "with_family": "Affectionate and loyal, they form strong bonds with family members.",
+    "with_children": "Generally good with children when socialized early, but supervision is recommended due to their small size.",
+    "with_other_pets": "Can coexist with other pets if introduced properly, though they may exhibit dominance.",
+    "with_strangers": "Wary of strangers, often reserved or aloof until trust is established.",
+    "special_traits": [
+      "alert and protective",
+      "independent thinker",
+      "minimal shedding",
+      "long lifespan",
+      "requires consistent training"
+    ]
+  },
+  "health": {
+    "summary": "Lhasa Apsos are generally healthy but prone to certain genetic conditions.",
+    "common_issues": [
+      "progressive retinal atrophy",
+      "cataracts",
+      "patellar luxation",
+      "renal dysplasia",
+      "brachycephalic airway syndrome"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain healthy weight",
+      "daily dental care",
+      "monitor for eye issues",
+      "avoid overheating"
+    ],
+    "vet_checkups": "annually, or more frequently for senior dogs"
+  },
+  "care": {
+    "description": "Lhasa Apsos require attentive care, including regular grooming, health monitoring, and consistent training.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature.",
+    "health": "Regular vet visits and preventive care help maintain their overall health.",
+    "grooming": "Daily brushing and periodic professional grooming are necessary to prevent matting.",
+    "nutrition": "Balanced diet appropriate for small breeds; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Lhasa Apsos hypoallergenic?",
+      "answer": "They shed minimally, which may reduce allergens, but no breed is completely hypoallergenic."
+    },
+    {
+      "question": "Do Lhasa Apsos get along with other dogs?",
+      "answer": "With proper socialization, they can coexist with other dogs, though they may assert dominance."
+    },
+    {
+      "question": "How often should a Lhasa Apso be groomed?",
+      "answer": "Daily brushing is recommended, with professional grooming every 4-6 weeks."
+    },
+    {
+      "question": "Are Lhasa Apsos good for first-time dog owners?",
+      "answer": "Their independent nature can be challenging; consistent training is essential for first-time owners."
+    },
+    {
+      "question": "Do Lhasa Apsos bark a lot?",
+      "answer": "They have a strong watchdog instinct and may bark to alert owners of unfamiliar occurrences."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lhasa_Apso",
+    "https://www.petmd.com/dog/breeds/lhasa-apso",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-lhasa-apso-dogs",
+    "https://ckcusa.com/breeds/lhasa-apso/",
+    "https://www.hillspet.com/dog-care/dog-breeds/lhasa-apso"
+  ]
+}

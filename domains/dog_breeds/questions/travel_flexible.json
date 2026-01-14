@@ -1,0 +1,84 @@
+{
+  "need_id": "travel_flexible",
+  "formula": "alone_tolerance & ~separation_anxiety_risk & sitter_compatibility",
+  "formula_reasoning": "Owners who travel need breeds that can tolerate being alone (alone_tolerance), have a low risk of developing separation anxiety (~separation_anxiety_risk), and are comfortable staying with other people (sitter_compatibility) when their owner is away.",
+  "questions": [
+    {
+      "id": "travel_flexible_q1",
+      "text": "Бывает ли так, что вы уезжаете в командировки или отпуска на несколько дней?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = человек регулярно отсутствует дома, нужна гибкая собака. Нет = всегда дома, гибкость не критична."
+    },
+    {
+      "id": "travel_flexible_q2",
+      "text": "Оставляете ли вы иногда домашних животных у друзей или родственников во время поездок?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = животное может периодически находиться у других людей. Нет = не практикует, гибкость не нужна."
+    },
+    {
+      "id": "travel_flexible_q3",
+      "text": "Ваш образ жизни связан с внезапными отъездами или нерегулярным графиком?",
+      "weight": 0.85,
+      "style": "situational",
+      "verification": "Да = высокий уровень неопределённости, нужна устойчивая к переменам собака. Нет = стабильный распорядок."
+    },
+    {
+      "id": "travel_flexible_q4",
+      "text": "Часто ли дома никого не бывает в течение дня?",
+      "weight": 0.7,
+      "style": "direct",
+      "verification": "Да = собака остаётся одна, нужна высокая толерантность к одиночеству. Нет = всегда кто-то дома."
+    },
+    {
+      "id": "travel_flexible_q5",
+      "text": "Легко ли вам найти человека, который сможет присмотреть за собакой во время вашего отсутствия?",
+      "weight": 0.6,
+      "style": "indirect",
+      "verification": "Да = возможна смена окружения для собаки. Нет = опора только на самостоятельность животного."
+    }
+  ],
+  "need_name": "Travel Flexible",
+  "need_description": "Suitable for owners who travel",
+  "block": "daily_schedule",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

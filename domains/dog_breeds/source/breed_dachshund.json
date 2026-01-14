@@ -1,0 +1,88 @@
+{
+  "id": "dachshund",
+  "name": "Dachshund",
+  "full_description": "<p>The Dachshund, often referred to as the 'Wiener Dog' or 'Sausage Dog,' is a distinctive breed originating from Germany. Developed in the 17th century, their primary purpose was to hunt badgers, as indicated by their name—'Dachshund' translates to 'badger dog' in German. Their elongated bodies and short legs were specifically designed to dig into burrows and confront subterranean prey.</p>\n<p>Physically, Dachshunds are characterized by their long, muscular bodies, short legs, and deep chests. They possess a slightly arched muzzle and expressive eyes, with ears that are long and set near the top of the head. The breed comes in three coat varieties: smooth, long-haired, and wire-haired, each with its own unique texture and grooming needs. Common coat colors include red, black and tan, chocolate and tan, and dapple patterns.</p>\n<p>Temperamentally, Dachshunds are known for their cleverness, liveliness, and courage. They exhibit a playful and affectionate nature, often forming strong bonds with their families. Despite their small stature, they possess a bold and sometimes stubborn personality, which can make training a challenge. Their hunting heritage contributes to a strong prey drive and a tendency to dig.</p>\n<p>Originally bred for hunting, Dachshunds were adept at tracking and flushing out badgers and other burrowing animals. Their keen sense of smell and determination made them excellent hunters. In modern times, while some still participate in hunting and earthdog trials, the majority serve as companion animals, cherished for their unique appearance and spirited demeanor.</p>\n<p>The breed's popularity has remained strong over the years. As of 2024, the American Kennel Club ranked the Dachshund as the 6th most popular dog breed in the United States. Their manageable size and engaging personality make them suitable for various living environments, from apartments to homes with yards.</p>\n<p>Notable characteristics of the Dachshund include their distinctive body shape, which allows them to maneuver through tunnels and dense underbrush. Their vocal nature makes them effective watchdogs, alerting owners to unfamiliar sounds or visitors. Additionally, their loyalty and affectionate nature endear them to families, though their independent streak requires patient and consistent training.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "Standard: 16–32 lbs (7–14.5 kg); Miniature: up to 11 lbs (5 kg)",
+    "height": "Standard: 8–9 inches (20–23 cm); Miniature: 5–6 inches (13–15 cm)",
+    "coat": "Three varieties: smooth, long-haired, and wire-haired; colors include red, black and tan, chocolate and tan, and dapple patterns",
+    "activity": "moderate",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "varies by coat type; regular brushing required, especially for long-haired and wire-haired varieties",
+    "lifespan": "12–16 years"
+  },
+  "behavior": {
+    "summary": "Dachshunds are intelligent, lively, and courageous dogs with a strong prey drive and a tendency to dig.",
+    "with_family": "Affectionate and loyal, they form strong bonds with family members and enjoy being involved in daily activities.",
+    "with_children": "Generally good with children, especially when raised together, but supervision is recommended due to their bold nature.",
+    "with_other_pets": "Can coexist with other pets if socialized early, though their hunting instincts may lead them to chase smaller animals.",
+    "with_strangers": "Often wary of strangers, they may bark to alert their owners but can warm up with proper introductions.",
+    "special_traits": [
+      "Strong prey drive",
+      "Tendency to dig",
+      "Vocal nature",
+      "Independent streak",
+      "Affectionate with family"
+    ]
+  },
+  "health": {
+    "summary": "Dachshunds are generally healthy but are prone to certain conditions, particularly those affecting the spine due to their elongated bodies.",
+    "common_issues": [
+      "Intervertebral Disc Disease (IVDD)",
+      "Obesity",
+      "Dental issues",
+      "Patellar luxation",
+      "Progressive Retinal Atrophy (PRA)"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce strain on the spine",
+      "Avoid activities that involve jumping from heights",
+      "Provide regular dental care",
+      "Ensure regular, moderate exercise",
+      "Schedule routine veterinary check-ups"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with health issues"
+  },
+  "care": {
+    "description": "Dachshunds require attentive care to maintain their health and happiness, including regular exercise, proper grooming, and a balanced diet.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature and prevent undesirable behaviors.",
+    "health": "Regular veterinary visits and preventive measures are crucial to address breed-specific health concerns, particularly spinal issues.",
+    "grooming": "Grooming needs vary by coat type; smooth-coated Dachshunds require minimal grooming, while long-haired and wire-haired varieties need more frequent brushing.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is important; portion control is essential to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Dachshunds good apartment dogs?",
+      "answer": "Yes, their small size makes them suitable for apartments, but they need regular exercise and mental stimulation."
+    },
+    {
+      "question": "Do Dachshunds get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, though their hunting instincts may lead them to chase smaller animals."
+    },
+    {
+      "question": "How much exercise does a Dachshund need?",
+      "answer": "Moderate daily exercise, such as walks and playtime, is sufficient to keep them healthy and prevent boredom."
+    },
+    {
+      "question": "Are Dachshunds easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training methods work best."
+    },
+    {
+      "question": "What are common health issues in Dachshunds?",
+      "answer": "They are prone to spinal problems like IVDD, obesity, and dental issues; regular vet check-ups are important."
+    }
+  ],
+  "sources": [
+    "https://www.fci.be/nomenclature/Standards/148g04-en.pdf",
+    "https://en.wikipedia.org/wiki/Dachshund",
+    "https://images.akc.org/pdf/breeds/standards/Official_Standard_Dachshund.pdf",
+    "https://www.petco.com/content/content-hub/home/breeds/dog-breeds/dachshund.html",
+    "https://canna-pet.com/breed/dachshund/",
+    "https://www.dogfoodadvisor.com/breeds/dachshund/",
+    "https://www.wisdompanel.com/en-us/dog-breeds/dachshund",
+    "https://cdn.akc.org/Dachshund-club-flyer.pdf",
+    "https://www.petguide.com/breeds/dog/dachshund",
+    "https://www.1800petmeds.com/education/miscellaneous/all-about-your-dachshund-care-guide-and-breed-info.html"
+  ]
+}

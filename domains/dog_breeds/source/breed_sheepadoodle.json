@@ -1,0 +1,81 @@
+{
+  "id": "sheepadoodle",
+  "name": "Sheepadoodle",
+  "full_description": "<p>The Sheepadoodle is a designer dog breed resulting from the cross between an Old English Sheepdog and a Poodle, typically a Standard Poodle. This hybrid was initially developed in the 1960s by the U.S. Army for military purposes, aiming to combine the intelligence and hypoallergenic coat of the Poodle with the strength and loyalty of the Old English Sheepdog. However, their playful and gentle nature made them more suitable as family companions than military working dogs. The breed gained popularity in the late 20th century, especially in North America and Europe, as a loving and intelligent family pet. Physically, Sheepadoodles are medium to large-sized dogs, with males generally standing between 20 to 25.5 inches at the shoulder and weighing 60 to 88 pounds, while females are slightly smaller, standing 19 to 24.5 inches and weighing 55 to 84 pounds. Their coats are typically soft and wavy to curly, often resembling the Poodle's hypoallergenic fleece. Common coat colors include black and white, gray, cream, and occasionally merle or tri-color blends. Their expressive dark eyes and floppy ears contribute to their endearing appearance. Temperamentally, Sheepadoodles are known for their affectionate, intelligent, and playful nature. They form strong bonds with their families and are generally good with children and other pets. Their intelligence and eagerness to please make them highly trainable, excelling in obedience and agility activities. Originally bred for herding and retrieving, Sheepadoodles possess a strong work ethic and enjoy having tasks to perform. In modern times, they are primarily cherished as family companions and therapy dogs, valued for their friendly disposition and adaptability. Notable characteristics of the Sheepadoodle include their hypoallergenic coat, which sheds minimally, making them suitable for individuals with allergies. Their combination of intelligence, loyalty, and playfulness makes them well-suited for active families seeking an engaging and loving pet.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "55-88 pounds",
+    "height": "19-25.5 inches",
+    "coat": "soft, wavy to curly, hypoallergenic",
+    "activity": "moderate to high",
+    "trainability": "very high",
+    "grooming": "regular brushing; professional grooming every 6-8 weeks",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Sheepadoodles are affectionate, intelligent, and playful dogs that thrive on human companionship and are well-suited for active families.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and a desire to participate in family activities.",
+    "with_children": "Generally good with children, they are playful and gentle but should be supervised during interactions due to their size and energy.",
+    "with_other_pets": "Typically friendly towards other pets, especially when socialized early, though their herding instincts may lead to playful chasing.",
+    "with_strangers": "They are usually friendly towards strangers but may exhibit protective behaviors, making them effective watchdogs.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Affectionate and loyal",
+      "Playful and energetic",
+      "Hypoallergenic coat",
+      "Good with children and other pets"
+    ]
+  },
+  "health": {
+    "summary": "Sheepadoodles are generally healthy but may inherit certain health issues from their parent breeds.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Bloat (gastric dilatation-volvulus)",
+      "Progressive retinal atrophy",
+      "Hypothyroidism"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Balanced diet and regular exercise",
+      "Monitoring for signs of bloat",
+      "Genetic testing of breeding pairs"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health concerns."
+  },
+  "care": {
+    "description": "Sheepadoodles require regular grooming, consistent training, and ample exercise to maintain their health and happiness.",
+    "behavior": "Early socialization and obedience training are essential to manage their intelligence and energy levels effectively.",
+    "health": "Maintain a balanced diet and regular exercise routine to prevent obesity and related health issues.",
+    "grooming": "Daily brushing and professional grooming every 6-8 weeks are recommended to keep their coat healthy and prevent matting.",
+    "nutrition": "Provide high-quality dog food appropriate for their size, age, and activity level; monitor portion sizes to maintain a healthy weight."
+  },
+  "faq": [
+    {
+      "question": "Are Sheepadoodles hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Sheepadoodles tend to shed less due to their Poodle heritage, making them more suitable for allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Sheepadoodle need?",
+      "answer": "They require moderate to high levels of exercise, including daily walks and playtime, to keep them physically and mentally stimulated."
+    },
+    {
+      "question": "Are Sheepadoodles good with children?",
+      "answer": "Yes, they are generally good with children, being playful and gentle, but supervision is recommended due to their size and energy."
+    },
+    {
+      "question": "How often should a Sheepadoodle be groomed?",
+      "answer": "Daily brushing and professional grooming every 6-8 weeks are recommended to maintain their coat and prevent matting."
+    },
+    {
+      "question": "What is the lifespan of a Sheepadoodle?",
+      "answer": "Sheepadoodles typically live between 12 to 15 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/sheepadoodle",
+    "https://www.chewy.com/education/dog-breeds/sheepadoodle",
+    "https://www.breedscout.com/breeds/sheepadoodle",
+    "https://www.lancasterpuppies.com/dog-breeds/sheepadoodle/",
+    "https://www.dailypaws.com/sheepadoodle-dog-7491854"
+  ]
+}

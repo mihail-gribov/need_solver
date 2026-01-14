@@ -1,0 +1,81 @@
+{
+  "id": "australian-shepherd",
+  "name": "Australian Shepherd",
+  "full_description": "<p>The Australian Shepherd, commonly known as the 'Aussie,' is a versatile and intelligent herding dog that, despite its name, was developed in the United States during the 19th century. The breed's origins trace back to various herding dogs, including those brought by Spanish Conquistadors in the 1500s and British herding dogs that made their way to America through various routes. The Gold Rush era and post-Civil War period played crucial roles in cementing the breed's development, as the demand for sheep and skilled herding dogs increased dramatically.</p>\n<p>Physically, Australian Shepherds are medium-sized dogs, with males typically standing between 20 to 23 inches (51 to 58 cm) tall and females between 18 to 21 inches (46 to 53 cm). Their weight ranges from 40 to 65 pounds (18 to 29.5 kg). They possess a moderately long, double-layered coat that is weather-resistant, with color variations including blue merle, red merle, solid black, or solid red, often accompanied by white markings or tan points. Their eyes are notably expressive and can be brown, blue, or amber, with some individuals exhibiting heterochromia (each eye a different color).</p>\n<p>Temperamentally, Aussies are known for their high intelligence, strong work ethic, and energetic nature. They are loyal and affectionate with their families but can be reserved around strangers. Their herding instincts are deeply ingrained, making them excellent at tasks requiring agility and quick decision-making. Originally bred for herding livestock, they have a natural inclination to herd and may attempt to herd children or other pets.</p>\n<p>In modern times, Australian Shepherds have expanded their roles beyond herding. They excel in various activities such as search and rescue operations, police work, therapy and service animal duties, competitive dog sports, and as family companions. Their versatility and eagerness to work make them suitable for a wide range of tasks.</p>\n<p>Notable characteristics of the breed include their agility, intelligence, and distinctive coat patterns. Their unique appearance, combined with their energetic and trainable nature, has contributed to their popularity. As of 2024, the Australian Shepherd was ranked as the 12th most popular breed in the United States.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "40-65 pounds (18-29.5 kg)",
+    "height": "18-23 inches (46-58 cm)",
+    "coat": "moderately long, double-layered, weather-resistant",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; more frequent during shedding seasons",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Australian Shepherds are intelligent, energetic, and loyal dogs with strong herding instincts. They require regular mental and physical stimulation to prevent boredom and potential behavioral issues.",
+    "with_family": "Affectionate and devoted, Aussies form strong bonds with their family members and thrive on companionship.",
+    "with_children": "Generally good with children, but their herding instincts may lead them to nip at heels; supervision and training are recommended.",
+    "with_other_pets": "Can coexist well with other pets if properly socialized, though their herding behavior may manifest.",
+    "with_strangers": "Often reserved around strangers, making them effective watchdogs; early socialization can help them become more comfortable.",
+    "special_traits": [
+      "high intelligence",
+      "strong herding instincts",
+      "energetic and agile",
+      "loyal and affectionate",
+      "reserved with strangers"
+    ]
+  },
+  "health": {
+    "summary": "Australian Shepherds are generally healthy but are prone to certain genetic conditions. Regular veterinary care and preventive measures can help maintain their well-being.",
+    "common_issues": [
+      "hip dysplasia",
+      "cataracts",
+      "epilepsy",
+      "collie eye anomaly",
+      "progressive retinal atrophy"
+    ],
+    "prevention_tips": [
+      "regular exercise to maintain healthy weight",
+      "routine eye examinations",
+      "genetic testing for inherited conditions",
+      "balanced diet",
+      "avoid breeding merle-to-merle to prevent health issues"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health concerns."
+  },
+  "care": {
+    "description": "Australian Shepherds require consistent mental and physical stimulation, along with regular grooming and health care, to ensure a happy and healthy life.",
+    "behavior": "Engage in activities like agility training, obedience work, or herding exercises to satisfy their high energy levels and intelligence.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits for preventive care.",
+    "grooming": "Brush their coat at least once a week; increase frequency during shedding seasons to manage loose hair.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; consult a veterinarian for specific dietary recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are Australian Shepherds good family pets?",
+      "answer": "Yes, they are loyal and affectionate with family members but require active engagement and training."
+    },
+    {
+      "question": "Do Australian Shepherds require a lot of exercise?",
+      "answer": "Yes, they need substantial daily physical and mental stimulation to stay healthy and happy."
+    },
+    {
+      "question": "Are Australian Shepherds easy to train?",
+      "answer": "Yes, their high intelligence and eagerness to please make them highly trainable."
+    },
+    {
+      "question": "Do Australian Shepherds shed a lot?",
+      "answer": "They shed year-round, with increased shedding during seasonal changes; regular grooming helps manage this."
+    },
+    {
+      "question": "Can Australian Shepherds live in apartments?",
+      "answer": "They can adapt to apartment living if provided with sufficient exercise and mental stimulation."
+    }
+  ],
+  "sources": [
+    "https://www.petscare.com/news/post/aussie-dog-origin-characteristics",
+    "https://www.britannica.com/animal/Australian-shepherd",
+    "https://en.wikipedia.org/wiki/Australian_Shepherd"
+  ]
+}

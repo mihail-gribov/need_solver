@@ -1,0 +1,159 @@
+{
+  "id": "russell-terrier",
+  "name": "Russell Terrier",
+  "name_rus": "Джек-рассел-терьер",
+  "full_description": "<p>The Russell Terrier, also known as the Jack Russell Terrier, is a small, energetic breed with a rich history rooted in fox hunting. Originating in England during the early 19th century, the breed was developed by Reverend John Russell, an avid fox hunter, who sought a dog capable of pursuing foxes both above and below ground. The breed's development continued in Australia, where breeders refined its characteristics to create a compact, agile terrier adept at hunting vermin. Physically, Russell Terriers are small, standing between 10 to 12 inches tall and weighing approximately 9 to 15 pounds. They possess a predominantly white coat with tan and/or black markings, which can be smooth, broken, or rough in texture. Their bodies are slightly longer than they are tall, providing a rectangular profile that enhances their agility. The breed's head is flat with a moderate stop, featuring dark, almond-shaped eyes that exude intelligence and determination. Ears are small, V-shaped, and fold forward close to the head. Temperamentally, Russell Terriers are known for their high energy levels, intelligence, and playful nature. They are fearless, confident, and exhibit a strong hunting instinct. These traits make them excellent companions for active families but may pose challenges for first-time dog owners. Their original purpose was to hunt foxes and other small game, a task they performed with remarkable tenacity and skill. Today, while some still participate in hunting and earthdog trials, many Russell Terriers serve as beloved family pets, excelling in various dog sports such as agility, obedience, and tracking. Notable characteristics of the breed include their boundless energy, keen intelligence, and strong prey drive. They require ample physical and mental stimulation to prevent boredom and destructive behaviors. Their small, flexible chests allow them to navigate narrow tunnels during hunts, a trait that remains a hallmark of the breed. Despite their diminutive size, Russell Terriers possess a robust and sturdy build, enabling them to keep up with larger hounds during hunts. Their weatherproof coats require minimal grooming, making them relatively low-maintenance in terms of coat care.</p>",
+  "full_description_rus": "<p>Джек-рассел-терьер — небольшая, энергичная порода с богатой историей, связанной с охотой на лис. Порода была выведена в Англии в XIX веке для помощи в охоте на лис. Лисья охота широко практиковалась в Англии начиная с XVI века. Поначалу она была занятием фермеров и имела сугубо прикладную функцию (защита мелкого скота и домашней птицы от расплодившихся в сельской местности лис), но постепенно превратилась в любимое развлечение сельской знати, занимавшейся ею верхом и с собаками. К началу XIX века сформировался традиционный состав охотничьей своры, включавший несколько разных пород собак, в том числе фоксхаундов, биглей и терьеров. Джек-рассел-терьер — сильная и активная рабочая собака, порода отличается бесстрашием, живым характером и большой активностью. Рост в холке 25—30 см. Масса тела 5—6 кг, из расчёта 1 кг на 5 см роста. Окрас преимущественно белый с пятнами чёрного (темно-коричневого), каштанового или рыжего цвета. Согласно стандарту породы, не менее 51 % поверхности тела должны быть белыми (без учёта нижней поверхности живота). Джек-рассел-терьер обладает следующими качествами: хорошим зрением, агрессивностью по отношению к другим видам животных, силой, при беге развивает большую скорость, особенно на коротких дистанциях. Джек-рассел-терьер подходит для содержания в квартире — при условии хорошего воспитания, упорной дрессировки и активных прогулок. Подвижной собаке просто необходимо куда-то выплескивать свою энергию — и если она не будет это делать во время игры на свежем воздухе, то может нарушить порядок дома. Джек-рассел-терьеры обладают добрым характером. По отношению к людям они дружелюбны, общительны, любят компанию и совместное времяпрепровождение, поэтому хорошо подходят на роль собак-компаньонов. Представители данной породы не любят сидеть на месте, поэтому лучше всего заводить их в семье, в которой есть дети. Для пожилых людей со спокойной, размеренной жизнью, а также для тех, кто много времени уделяет работе и мало бывает дома, эта порода не подходит.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "9-15 pounds",
+    "height": "10-12 inches",
+    "coat": "smooth, broken, or rough; predominantly white with tan and/or black markings",
+    "activity": "high",
+    "trainability": "moderate to high",
+    "grooming": "minimal; regular brushing and occasional bathing",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "5-6 кг",
+    "рост": "25-30 см",
+    "шерсть": "гладкая, жесткая или с изломом; преимущественно белая с черными, каштановыми или рыжими пятнами",
+    "активность": "высокая",
+    "обучаемость": "средняя до высокой",
+    "уход": "минимальный; регулярное расчесывание и периодическое купание",
+    "продолжительность жизни": "12-14 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "High energy levels",
+      "Strong prey drive",
+      "Intelligent and trainable",
+      "Playful and affectionate",
+      "Requires ample mental and physical stimulation"
+    ],
+    "summary": "Russell Terriers are energetic, intelligent, and playful dogs with a strong hunting instinct. They are fearless and confident, making them excellent companions for active individuals or families.",
+    "with_children": "Generally good with children, especially when socialized early, but their high energy levels may be overwhelming for very young kids.",
+    "with_family": "They are affectionate and loyal to their family members, often forming strong bonds and enjoying interactive play.",
+    "with_other_pets": "Due to their strong prey drive, they may not coexist well with smaller pets; early socialization is crucial.",
+    "with_strangers": "Typically friendly towards strangers, though they can be reserved; proper socialization helps ensure well-mannered interactions."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Джек-рассел-терьеры — энергичные, умные и игривые собаки с сильным охотничьим инстинктом. Они бесстрашны и уверены в себе, что делает их отличными компаньонами для активных людей или семей.",
+    "с семьёй": "Они ласковы и преданны своим владельцам, часто формируют крепкие связи и любят совместные игры.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации, но их высокая энергия может быть чрезмерной для очень маленьких детей.",
+    "с другими животными": "Из-за сильного охотничьего инстинкта могут не уживаться с мелкими животными; ранняя социализация крайне важна.",
+    "с незнакомцами": "Обычно дружелюбны к незнакомцам, хотя могут быть сдержанными; правильная социализация помогает обеспечить хорошие манеры при встречах.",
+    "особые черты": [
+      "Высокий уровень энергии",
+      "Сильный охотничий инстинкт",
+      "Умны и поддаются дрессировке",
+      "Игривы и ласковы",
+      "Требуют значительной умственной и физической стимуляции"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Lens luxation",
+      "Patellar luxation",
+      "Deafness",
+      "Legg-Calvé-Perthes disease"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for breeding dogs",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Ensuring a balanced diet"
+    ],
+    "summary": "Russell Terriers are generally healthy dogs with a lifespan of 12-14 years. However, they can be prone to certain genetic health issues.",
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Джек-рассел-терьеры обычно здоровы и живут 12-14 лет. Однако они могут быть склонны к некоторым генетическим заболеваниям.",
+    "распространённые проблемы": [
+      "Вывих хрусталика",
+      "Вывих надколенника",
+      "Глухота",
+      "Болезнь Легга-Кальве-Пертеса"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Генетическое тестирование для племенных собак",
+      "Поддержание здорового веса",
+      "Обеспечение регулярных физических нагрузок",
+      "Сбалансированное питание"
+    ],
+    "рекомендуемые осмотры": "Ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "behavior": "Engage them in daily physical activities and mental challenges to prevent boredom and destructive behaviors.",
+    "description": "Russell Terriers require consistent care, including regular exercise, mental stimulation, and routine health maintenance to ensure their well-being.",
+    "grooming": "Brush their coat weekly and bathe as needed; check ears and trim nails regularly.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits for preventive care.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; avoid overfeeding to prevent obesity."
+  },
+  "care_rus": {
+    "описание": "Джек-рассел-терьеры требуют постоянного ухода, включая регулярные физические нагрузки, умственную стимуляцию и плановое медицинское обслуживание для обеспечения их благополучия.",
+    "поведение": "Занимайте их ежедневными физическими упражнениями и умственными задачами, чтобы предотвратить скуку и разрушительное поведение.",
+    "здоровье": "Следите за признаками распространённых заболеваний и регулярно посещайте ветеринара для профилактического осмотра.",
+    "груминг": "Расчесывайте шерсть еженедельно и купайте по мере необходимости; регулярно проверяйте уши и подстригайте когти.",
+    "питание": "Обеспечьте сбалансированное питание, соответствующее их возрасту, размеру и уровню активности; избегайте перекармливания, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Russell Terriers good for first-time dog owners?",
+      "answer": "They can be challenging due to their high energy and intelligence; experienced owners may find them more manageable."
+    },
+    {
+      "question": "Do Russell Terriers get along with other dogs?",
+      "answer": "With proper socialization, they can coexist with other dogs, but their strong prey drive may cause issues with smaller pets."
+    },
+    {
+      "question": "How much exercise does a Russell Terrier need?",
+      "answer": "They require at least an hour of vigorous exercise daily to meet their energy needs."
+    },
+    {
+      "question": "Are Russell Terriers prone to barking?",
+      "answer": "Yes, they can be vocal, especially if bored or not adequately exercised."
+    },
+    {
+      "question": "Do Russell Terriers shed a lot?",
+      "answer": "They shed moderately; regular brushing helps manage shedding."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли джек-рассел-терьеры для владельцев без опыта?",
+      "ответ": "Они могут быть сложными из-за своей высокой энергии и интеллекта; опытным владельцам будет легче с ними справляться."
+    },
+    {
+      "вопрос": "Ладят ли джек-рассел-терьеры с другими собаками?",
+      "ответ": "При правильной социализации они могут уживаться с другими собаками, но их сильный охотничий инстинкт может вызвать проблемы с мелкими животными."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется джек-рассел-терьеру?",
+      "ответ": "Им необходимо не менее часа интенсивных физических нагрузок ежедневно для удовлетворения их энергетических потребностей."
+    },
+    {
+      "вопрос": "Склонны ли джек-рассел-терьеры к лаю?",
+      "ответ": "Да, они могут быть голосистыми, особенно если им скучно или они недостаточно упражняются."
+    },
+    {
+      "вопрос": "Сильно ли линяют джек-рассел-терьеры?",
+      "ответ": "Они линяют умеренно; регулярное расчесывание помогает контролировать линьку."
+    }
+  ],
+  "sources": [
+    "https://ru.wikipedia.org/wiki/Джек-рассел-терьер",
+    "https://www.proplan.ru/dog/breeds/dzhek-rassel-terer",
+    "https://kinpet.ru/dzhek-rassel-terer/",
+    "https://journal.sovcombank.ru/pitomtsi/dzhek-rassel-terer-harakter-i-osobennosti-porodi",
+    "https://www.hillspet.ru/dog-care/dog-breeds/jack-russell-terrier",
+    "https://o-pets.ru/dogs-jack-russell-terrier/",
+    "https://petstory.ru/knowledge/dogs/dog-breeds/jack-russel-terrier/",
+    "https://tomall.ru/dog/Jack_Russell_Terrier",
+    "https://lisa.ru/moy-uyutnyy-dom/pitomcy/755692-sobaka-dzhek-rassel-terer-interesnye-fakty-i-opisanie-porody/",
+    "https://lenta.ru/articles/2024/06/27/dzhek-rassel-terier/"
+  ]
+}

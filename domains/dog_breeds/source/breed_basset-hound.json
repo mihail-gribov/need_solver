@@ -1,0 +1,82 @@
+{
+  "id": "basset-hound",
+  "name": "Basset Hound",
+  "full_description": "<p>The Basset Hound is a distinctive breed originating from France, developed primarily for hunting small game such as rabbits and hares. Their name derives from the French word 'bas,' meaning 'low,' reflecting their short stature. Basset Hounds are renowned for their exceptional sense of smell, second only to the Bloodhound, making them adept at ground-scenting. Physically, they possess a large, well-proportioned head with a length from occiput to muzzle greater than the width at the brow. Their long, velvety ears help stir up ground scents, and their loose, wrinkled skin around the neck, known as the dewlap, contributes to their characteristic sad expression. They have a short, dense coat that comes in various hound colors, including tricolor and bicolor patterns. In temperament, Basset Hounds are mild, never sharp or timid, and are known for their extreme devotion. They are capable of great endurance in the field, moving deliberately but not clumsily. Originally bred for hunting, they have transitioned into beloved family companions due to their gentle nature and sociable disposition. Notable characteristics include their heavy bone structure relative to size, their soulful expression, and their ability to follow a trail over and through difficult terrain.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "20-29 kg",
+    "height": "33-38 cm",
+    "coat": "short, dense",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "regular brushing",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "Basset Hounds are gentle, friendly, and sociable dogs known for their mild temperament and extreme devotion.",
+    "with_family": "They are affectionate and form strong bonds with family members, often seeking companionship and attention.",
+    "with_children": "Basset Hounds are good with children, displaying patience and a gentle demeanor, making them suitable family pets.",
+    "with_other_pets": "They generally get along well with other dogs and pets, especially when socialized from a young age.",
+    "with_strangers": "Basset Hounds are typically friendly towards strangers, though they may be reserved initially.",
+    "special_traits": [
+      "Exceptional sense of smell",
+      "Persistent on the trail",
+      "Mild and gentle temperament"
+    ]
+  },
+  "health": {
+    "summary": "Basset Hounds are generally healthy but are prone to certain conditions due to their unique physique and genetics.",
+    "common_issues": [
+      "Ear infections",
+      "Obesity",
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Gastric torsion (bloat)"
+    ],
+    "prevention_tips": [
+      "Regular ear cleaning to prevent infections",
+      "Controlled diet and regular exercise to maintain healthy weight",
+      "Routine veterinary check-ups to monitor joint health",
+      "Avoid overfeeding to prevent obesity",
+      "Provide appropriate exercise to maintain muscle tone"
+    ],
+    "vet_checkups": "Annual check-ups recommended; more frequent visits if health issues arise."
+  },
+  "care": {
+    "description": "Basset Hounds require moderate exercise, regular grooming, and attentive health care to maintain their well-being.",
+    "behavior": "They benefit from consistent training and socialization to manage their independent nature.",
+    "health": "Monitor for signs of common health issues and maintain a healthy weight through diet and exercise.",
+    "grooming": "Regular brushing to manage shedding and routine ear cleaning to prevent infections.",
+    "nutrition": "Balanced diet with portion control to prevent obesity; consult a veterinarian for specific dietary needs."
+  },
+  "faq": [
+    {
+      "question": "Are Basset Hounds good apartment dogs?",
+      "answer": "Yes, their moderate size and activity level make them suitable for apartment living with regular exercise."
+    },
+    {
+      "question": "Do Basset Hounds bark a lot?",
+      "answer": "They can be vocal, especially when they pick up a scent, but are not excessive barkers."
+    },
+    {
+      "question": "Are Basset Hounds easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, patient training is recommended."
+    },
+    {
+      "question": "How much exercise do Basset Hounds need?",
+      "answer": "Moderate daily exercise, such as walks and playtime, is sufficient to keep them healthy."
+    },
+    {
+      "question": "Do Basset Hounds shed a lot?",
+      "answer": "They shed moderately; regular brushing helps manage shedding."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/gazette/much-bone-correct-basset-hound/",
+    "https://www.westminsterkennelclub.org/breed/basset-hound/",
+    "https://www.thekennelclub.org.uk/breed-standards/hound/basset-hound/",
+    "https://en.wikipedia.org/wiki/Basset_Hound",
+    "https://www.akc.org/sports/field-events-hounds/basset-hound-field-trials/",
+    "https://basset-bhca.org/about-bassets/public-education/meet-the-breeds/"
+  ]
+}

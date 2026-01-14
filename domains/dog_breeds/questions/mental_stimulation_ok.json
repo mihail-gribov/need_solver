@@ -1,0 +1,84 @@
+{
+  "need_id": "mental_stimulation_ok",
+  "formula": "mental_stimulation",
+  "formula_reasoning": "Потребность в интеллектуальной стимуляции (mental_stimulation) отражает, что порода требует умственных нагрузок и задач. Пользователь, который готов занимать собаку играми, обучением и головоломками, подходит для пород с этим признаком.",
+  "questions": [
+    {
+      "id": "mental_stimulation_ok_q1",
+      "text": "Вам интересно заниматься обучением собаки новым командам и трюкам?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = пользователь готов к интеллектуальному взаимодействию. Нет = не заинтересован, не подходит для пород с высоким mental_stimulation."
+    },
+    {
+      "id": "mental_stimulation_ok_q2",
+      "text": "Планируете ли вы уделять время совместным играм-головоломкам или занятиям с собакой каждый день?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = пользователь готов к регулярной умственной активности. Нет = не готов, породы с высоким mental_stimulation не подходят."
+    },
+    {
+      "id": "mental_stimulation_ok_q3",
+      "text": "Вам нравится придумывать для питомца новые задачи, чтобы он не скучал?",
+      "weight": 0.7,
+      "style": "indirect",
+      "verification": "Да = склонен к интеллектуальному взаимодействию с собакой. Нет = не интересуется, породы с высокой потребностью не подходят."
+    },
+    {
+      "id": "mental_stimulation_ok_q4",
+      "text": "Считаете ли вы, что собака должна не только гулять, но и учиться новому?",
+      "weight": 0.7,
+      "style": "indirect",
+      "verification": "Да = пользователь ценит умственную нагрузку. Нет = не видит в этом необходимости, лучше обходиться породой без высокого mental_stimulation."
+    },
+    {
+      "id": "mental_stimulation_ok_q5",
+      "text": "Получаете ли вы удовольствие от совместных занятий или дрессировки животных?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = положительно относится к обучению и взаимодействию. Нет = не получает удовольствия, породы с высоким mental_stimulation не подойдут."
+    }
+  ],
+  "need_name": "Mental Stimulation OK",
+  "need_description": "Ready for intellectual engagement",
+  "block": "activity_lifestyle",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

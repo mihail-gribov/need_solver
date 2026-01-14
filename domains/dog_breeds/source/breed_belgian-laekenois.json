@@ -1,0 +1,83 @@
+{
+  "id": "belgian-laekenois",
+  "name": "Belgian Laekenois",
+  "full_description": "<p>The Belgian Laekenois, one of the four varieties of Belgian Shepherds, originates from Belgium and is named after the Château de Laeken. Developed primarily for guarding linen drying in fields and herding livestock, this breed has a rich history dating back to the Middle Ages. Physically, the Laekenois is a medium to large-sized dog, standing between 22 to 26 inches tall and weighing approximately 55 to 65 pounds. It possesses a distinctive rough, wiry coat that is reddish fawn with black shading, particularly around the muzzle and tail. The breed's square, athletic build exudes both elegance and strength. Temperamentally, the Laekenois is intelligent, alert, and naturally protective. It forms strong bonds with its family, displaying loyalty and affection, yet remains cautious around strangers. Historically utilized for herding and guarding, the breed's working abilities are evident in its agility and responsiveness. In modern times, while still relatively rare, the Laekenois is gaining recognition as both a working dog and a devoted family companion. Notable characteristics include its keen intelligence, high energy levels, and a strong desire to work, making it well-suited for active households.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "55-65 pounds",
+    "height": "22-26 inches",
+    "coat": "rough, wiry, reddish fawn with black shading",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "weekly brushing; occasional hand-stripping",
+    "lifespan": "10-14 years"
+  },
+  "behavior": {
+    "summary": "The Belgian Laekenois is an intelligent, alert, and protective breed that forms strong bonds with its family while remaining cautious around strangers.",
+    "with_family": "Affectionate and loyal, the Laekenois thrives on close relationships with family members and is naturally protective of them.",
+    "with_children": "With proper socialization, the Laekenois can be good with children, though supervision is recommended due to its protective nature.",
+    "with_other_pets": "Early socialization is key; the Laekenois can coexist with other pets but may display dominance if not properly introduced.",
+    "with_strangers": "Naturally wary of strangers, the Laekenois requires early socialization to prevent excessive suspicion or aggression.",
+    "special_traits": [
+      "Highly intelligent",
+      "Energetic and active",
+      "Strong protective instincts",
+      "Loyal and affectionate with family",
+      "Requires consistent training and socialization"
+    ]
+  },
+  "health": {
+    "summary": "The Belgian Laekenois is generally a healthy breed but may be prone to certain hereditary conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Progressive retinal atrophy",
+      "Epilepsy",
+      "Skin allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a balanced diet",
+      "Provide adequate exercise",
+      "Early health screenings",
+      "Responsible breeding practices"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "The Belgian Laekenois requires attentive care, including regular exercise, consistent training, and routine grooming to maintain its health and well-being.",
+    "behavior": "Due to its high energy and intelligence, the Laekenois benefits from structured training and ample mental stimulation to prevent boredom and destructive behaviors.",
+    "health": "Regular health screenings and preventive care are essential to monitor and address potential hereditary conditions common in the breed.",
+    "grooming": "Weekly brushing and occasional hand-stripping are necessary to maintain the coat's texture and health; excessive bathing should be avoided to preserve natural oils.",
+    "nutrition": "A balanced diet appropriate for a high-energy, medium to large-sized dog is crucial; portion control and regular feeding schedules help maintain optimal health."
+  },
+  "faq": [
+    {
+      "question": "Is the Belgian Laekenois suitable for first-time dog owners?",
+      "answer": "Due to its intelligence and energy, the Laekenois is best suited for experienced owners who can provide consistent training and ample exercise."
+    },
+    {
+      "question": "How much exercise does a Belgian Laekenois need?",
+      "answer": "The breed requires at least 1-2 hours of vigorous activity daily to stay healthy and content."
+    },
+    {
+      "question": "Does the Belgian Laekenois shed a lot?",
+      "answer": "The Laekenois sheds moderately year-round, with heavier shedding during seasonal changes; regular grooming helps manage this."
+    },
+    {
+      "question": "Is the Belgian Laekenois good with children?",
+      "answer": "With proper socialization, the Laekenois can be good with children, though supervision is recommended due to its protective nature."
+    },
+    {
+      "question": "What are common health issues in Belgian Laekenois?",
+      "answer": "Common health concerns include hip and elbow dysplasia, progressive retinal atrophy, epilepsy, and skin allergies."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/newest-recognized-breed-belgian-laekenois/",
+    "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/pastoral/belgian-shepherd-dog-laekenois/",
+    "https://www.purina.co.uk/find-a-pet/dog-breeds/belgian-shepherd-laekenois",
+    "https://www.omlet.us/breeds/dogs/belgian_shepherd_dog_%28laekenois%29/",
+    "https://www.petguide.com/breeds/dog/belgian-laekenois/"
+  ]
+}

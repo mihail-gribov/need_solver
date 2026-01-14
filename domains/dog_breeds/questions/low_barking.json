@@ -1,0 +1,84 @@
+{
+  "need_id": "low_barking",
+  "formula": "~barking",
+  "formula_reasoning": "Главный показатель — низкая склонность к лаю: ~barking (отрицание признака 'часто лает'). Другие признаки не применяются, так как потребность напрямую связана только с этим поведением.",
+  "questions": [
+    {
+      "id": "low_barking_q1",
+      "text": "В вашем доме слышимость между квартирами или комнатами высокая?",
+      "weight": 0.85,
+      "style": "situational",
+      "verification": "Да = любая громкость, в том числе лай, будет заметна/мешать. Нет = шумоизоляция хорошая, низкий лай менее критичен."
+    },
+    {
+      "id": "low_barking_q2",
+      "text": "Вас беспокоит возможность, что собака может мешать соседям шумом?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = пользователь опасается шума, нужен малолающий питомец. Нет = уровень шума не важен или дом изолирован."
+    },
+    {
+      "id": "low_barking_q3",
+      "text": "Среди ваших соседей есть дети, пожилые люди или люди, которым может мешать собачий лай?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = высока потребность в тихой собаке. Нет = лай не будет мешать близким."
+    },
+    {
+      "id": "low_barking_q4",
+      "text": "Вы предпочитаете спокойную домашнюю обстановку без лишнего шума?",
+      "weight": 0.6,
+      "style": "indirect",
+      "verification": "Да = пользователю важна тишина, лай нежелателен. Нет = шум не вызывает дискомфорта."
+    },
+    {
+      "id": "low_barking_q5",
+      "text": "Ваши рабочие или учебные занятия часто проходят дома и требуют тишины?",
+      "weight": 0.75,
+      "style": "situational",
+      "verification": "Да = тишина нужна для работы/учёбы, шумная собака будет мешать. Нет = работа вне дома или тишина не критична."
+    }
+  ],
+  "need_name": "Low Barking",
+  "need_description": "Rarely barks",
+  "block": "housing_environment",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

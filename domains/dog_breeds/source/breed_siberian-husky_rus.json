@@ -1,0 +1,159 @@
+{
+  "id": "siberian-husky",
+  "name": "Siberian Husky",
+  "name_rus": "Сибирский хаски",
+  "full_description": "<p>The Siberian Husky is a medium-sized working dog renowned for its endurance, intelligence, and friendly disposition. Originating from Northeast Asia, the breed was developed by the Chukchi people of Siberia for sled pulling and companionship. These dogs were integral to the Chukchi's nomadic lifestyle, assisting in transporting goods over vast, icy terrains. In the early 20th century, Siberian Huskies were introduced to Alaska during the Nome Gold Rush, where their sled-pulling capabilities were highly valued. Their fame escalated in 1925 during the 'Great Race of Mercy,' when teams of Huskies delivered life-saving diphtheria serum to Nome, Alaska, under treacherous conditions. Physically, Siberian Huskies possess a well-proportioned, athletic build with erect triangular ears and a dense double coat that provides insulation against harsh Arctic climates. Their almond-shaped eyes can be brown, blue, or heterochromatic, and their coats come in various colors, including black, gray, red, and pure white, often with distinctive facial markings. Temperamentally, they are friendly, gentle, and outgoing, making them excellent family companions. However, their independent and sometimes stubborn nature can pose challenges in training. Originally bred for endurance and speed, they excelled in pulling light loads over long distances in subzero temperatures. Today, while they continue to participate in sled racing and other canine sports, they are also popular as household pets worldwide. Notable characteristics include their high energy levels, intelligence, and a strong prey drive, which may lead them to chase smaller animals. They are also known for their vocalizations, often howling rather than barking, and their tendency to escape if not securely confined.</p>",
+  "full_description_rus": "<p>Сибирский хаски — это средняя по размеру рабочая собака, известная своей выносливостью, интеллектом и дружелюбным нравом. Порода была выведена народом чукчей на северо-востоке Сибири для перевозки грузов на санях и в качестве компаньона. Эти собаки играли ключевую роль в кочевом образе жизни чукчей, помогая транспортировать грузы по обширным ледяным просторам. В начале XX века сибирские хаски были завезены на Аляску во время золотой лихорадки в Номе, где их способности к тяге саней были высоко оценены. Их слава возросла в 1925 году во время 'Великой гонки милосердия', когда команды хаски доставили жизненно важную сыворотку против дифтерии в Ном, Аляска, в сложных условиях. Физически сибирские хаски обладают пропорциональным, атлетическим телосложением с прямостоячими треугольными ушами и густой двойной шерстью, обеспечивающей изоляцию от сурового арктического климата. Их миндалевидные глаза могут быть карими, голубыми или разного цвета, а шерсть представлена в различных окрасах, включая черный, серый, рыжий и чисто белый, часто с характерными отметинами на морде. По темпераменту они дружелюбны, нежны и общительны, что делает их отличными семейными компаньонами. Однако их независимый и иногда упрямый характер может создавать трудности в обучении. Изначально выведенные для выносливости и скорости, они превосходно справлялись с перевозкой легких грузов на большие расстояния при низких температурах. Сегодня, помимо участия в гонках на собачьих упряжках и других собачьих видах спорта, они также популярны в качестве домашних питомцев по всему миру. Отличительными чертами являются их высокий уровень энергии, интеллект и сильный охотничий инстинкт, который может побуждать их преследовать мелких животных. Они также известны своими вокализациями, часто воют, а не лают, и склонностью к побегам, если не содержатся в надежно огороженных местах.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "35-60 pounds (16-27 kg)",
+    "height": "20-23.5 inches (51-60 cm)",
+    "coat": "thick double coat, various colors",
+    "activity": "high",
+    "trainability": "moderate",
+    "grooming": "weekly brushing; more frequent during shedding seasons",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "16-27 кг",
+    "рост": "51-60 см",
+    "шерсть": "густая двойная шерсть, различные окрасы",
+    "активность": "высокая",
+    "обучаемость": "средняя",
+    "уход": "еженедельное расчесывание; более частое во время линьки",
+    "продолжительность жизни": "12-14 лет"
+  },
+  "behavior": {
+    "summary": "Siberian Huskies are friendly, energetic, and intelligent dogs with a strong independent streak. They are social animals that thrive on companionship and require regular mental and physical stimulation.",
+    "with_family": "They are affectionate and loyal to family members, often forming strong bonds with all household members.",
+    "with_children": "Generally good with children, displaying patience and playfulness, making them suitable family pets.",
+    "with_other_pets": "They can coexist with other dogs but may have a strong prey drive towards smaller animals, requiring supervision.",
+    "with_strangers": "Typically friendly and sociable with strangers, making them poor guard dogs.",
+    "special_traits": [
+      "high energy levels",
+      "independent nature",
+      "strong prey drive",
+      "vocal tendencies",
+      "escape artist behavior"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Сибирские хаски — дружелюбные, энергичные и умные собаки с выраженной независимостью. Они социальные животные, которые нуждаются в компании и требуют регулярной умственной и физической стимуляции.",
+    "с семьёй": "Они привязаны и преданы членам семьи, часто устанавливая крепкие связи со всеми домочадцами.",
+    "с детьми": "Обычно хорошо ладят с детьми, проявляя терпение и игривость, что делает их подходящими семейными питомцами.",
+    "с другими животными": "Могут сосуществовать с другими собаками, но из-за сильного охотничьего инстинкта по отношению к мелким животным требуется надзор.",
+    "с незнакомцами": "Обычно дружелюбны и общительны с незнакомцами, что делает их плохими сторожевыми собаками.",
+    "особые черты": [
+      "высокий уровень энергии",
+      "независимый характер",
+      "сильный охотничий инстинкт",
+      "склонность к вокализации",
+      "склонность к побегам"
+    ]
+  },
+  "health": {
+    "summary": "Siberian Huskies are generally healthy but can be prone to certain genetic conditions. Regular veterinary care and a healthy lifestyle are essential for their well-being.",
+    "common_issues": [
+      "hip dysplasia",
+      "eye disorders (e.g., juvenile cataracts, progressive retinal atrophy)",
+      "hypothyroidism",
+      "skin conditions",
+      "allergies"
+    ],
+    "prevention_tips": [
+      "regular exercise",
+      "balanced diet",
+      "routine veterinary check-ups",
+      "genetic screening for breeding dogs",
+      "maintaining a clean living environment"
+    ],
+    "vet_checkups": "at least once a year; more frequent for senior dogs or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Сибирские хаски в целом здоровы, но могут быть склонны к определённым генетическим заболеваниям. Регулярный ветеринарный уход и здоровый образ жизни необходимы для их благополучия.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренного сустава",
+      "глазные заболевания (например, ювенильная катаракта, прогрессирующая атрофия сетчатки)",
+      "гипотиреоз",
+      "кожные заболевания",
+      "аллергии"
+    ],
+    "советы по профилактике": [
+      "регулярные физические нагрузки",
+      "сбалансированное питание",
+      "плановые ветеринарные осмотры",
+      "генетический скрининг для племенных собак",
+      "поддержание чистоты в месте содержания"
+    ],
+    "рекомендуемые осмотры": "не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "description": "Siberian Huskies require dedicated care, including regular exercise, grooming, and mental stimulation to maintain their health and happiness.",
+    "behavior": "Due to their high energy and intelligence, they need daily physical activity and mental challenges to prevent boredom and destructive behavior.",
+    "health": "Regular veterinary visits and preventive care are crucial to monitor and maintain their overall health.",
+    "grooming": "Their thick double coat requires weekly brushing, with increased frequency during shedding seasons to manage hair loss.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential; consult a veterinarian for specific dietary recommendations."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Сибирские хаски требуют тщательного ухода, включая регулярные физические нагрузки, груминг и умственную стимуляцию для поддержания их здоровья и счастья.",
+    "поведение и характер": "Из-за высокого уровня энергии и интеллекта им необходимы ежедневные физические нагрузки и умственные задачи, чтобы предотвратить скуку и разрушительное поведение.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход необходимы для контроля и поддержания их общего здоровья.",
+    "груминг и уход": "Их густая двойная шерсть требует еженедельного расчесывания, с увеличением частоты во время сезонов линьки для управления выпадением шерсти.",
+    "питание и активность": "Сбалансированное питание, соответствующее их возрасту, размеру и уровню активности, необходимо; проконсультируйтесь с ветеринаром для получения конкретных рекомендаций по диете."
+  },
+  "faq": [
+    {
+      "question": "Are Siberian Huskies good for first-time dog owners?",
+      "answer": "Due to their independent nature and high energy levels, they may be challenging for first-time owners without prior experience."
+    },
+    {
+      "question": "Do Siberian Huskies require a lot of exercise?",
+      "answer": "Yes, they need substantial daily exercise to meet their physical and mental stimulation needs."
+    },
+    {
+      "question": "Are Siberian Huskies prone to escaping?",
+      "answer": "Yes, they are known as escape artists and require secure fencing and supervision."
+    },
+    {
+      "question": "Do Siberian Huskies get along with other pets?",
+      "answer": "They can coexist with other dogs but may have a strong prey drive towards smaller animals."
+    },
+    {
+      "question": "How often do Siberian Huskies shed?",
+      "answer": "They shed moderately year-round and heavily twice a year during seasonal changes."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли сибирские хаски для владельцев без опыта?",
+      "ответ": "Из-за их независимого характера и высокого уровня энергии они могут быть сложными для владельцев без предыдущего опыта."
+    },
+    {
+      "вопрос": "Требуют ли сибирские хаски много физических нагрузок?",
+      "ответ": "Да, им необходимы значительные ежедневные физические нагрузки для удовлетворения их потребностей в физической и умственной стимуляции."
+    },
+    {
+      "вопрос": "Склонны ли сибирские хаски к побегам?",
+      "ответ": "Да, они известны как мастера побегов и требуют надежного ограждения и надзора."
+    },
+    {
+      "вопрос": "Ладят ли сибирские хаски с другими животными?",
+      "ответ": "Они могут сосуществовать с другими собаками, но могут иметь сильный охотничий инстинкт по отношению к мелким животным."
+    },
+    {
+      "вопрос": "Как часто линяют сибирские хаски?",
+      "ответ": "Они умеренно линяют круглый год и сильно два раза в год во время сезонных изменений."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/Siberian-husky",
+    "https://en.wikipedia.org/wiki/Siberian_Husky",
+    "https://www.westminsterkennelclub.org/breed/siberian-husky/",
+    "https://www.purina.com/dogs/dog-breeds/siberian-husky",
+    "https://www.akc.org/expert-advice/dog-breeds/siberian-husky-right-for-you/",
+    "https://ru.wikipedia.org/wiki/Сибирский_хаски",
+    "https://www.purinaone.ru/dog/articles/breeds/sibirskiy-haski",
+    "https://www.pedigree.ru/porody/haski"
+  ]
+}

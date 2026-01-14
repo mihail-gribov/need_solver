@@ -1,0 +1,33 @@
+{
+  "breed": {
+    "name": "Пудель",
+    "score": 0.39
+  },
+  "top_matches": [
+    {
+      "need_name": "First Time Friendly",
+      "breed_score": 0.9
+    },
+    {
+      "need_name": "Child Friendly",
+      "breed_score": 0.72
+    },
+    {
+      "need_name": "Easy to Train",
+      "breed_score": 0.9
+    },
+    {
+      "need_name": "Low Shedding",
+      "breed_score": 0.54
+    }
+  ],
+  "weak_points": [],
+  "alternatives": [
+    {
+      "name": "Бостон-терьер"
+    },
+    {
+      "name": "Гаванский бишон"
+    }
+  ]
+}

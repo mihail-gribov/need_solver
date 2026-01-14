@@ -1,0 +1,156 @@
+{
+  "id": "papillon",
+  "name": "Papillon",
+  "name_rus": "Папильон",
+  "full_description": "<p>The Papillon, also known as the Continental Toy Spaniel, is a small, elegant toy breed distinguished by its butterfly-like ears, from which it derives its name—'Papillon' being French for 'butterfly'. Originating in Europe, particularly France and Belgium, the breed's history dates back to the 16th century, where it was a favored companion among royalty and nobility. Notably, the Papillon was depicted in artworks by renowned artists such as Titian and Watteau, often accompanying aristocratic figures.</p>\n<p>Physically, Papillons are small dogs, typically standing between 8 to 11 inches tall at the shoulder and weighing between 5 to 10 pounds. They possess a fine-boned structure with a long, flowing, single-layered coat that is predominantly white with patches of various colors, including black, red, and sable. The breed's most distinctive feature is its large, well-fringed ears that resemble the wings of a butterfly.</p>\n<p>In terms of temperament, Papillons are known for their happy, friendly, and adventurous nature. They are highly intelligent and eager to please, making them highly trainable and responsive to commands. Despite their small size, they exhibit a lively and energetic disposition, often displaying a strong desire for mental stimulation and physical activity.</p>\n<p>Historically, Papillons were bred primarily as companion animals for European nobility, serving as lapdogs and loyal companions. Their small size and affectionate nature made them ideal for this role. In modern times, they continue to excel as companion animals and have also gained popularity in dog sports such as agility and obedience competitions, where their intelligence and agility are showcased.</p>\n<p>Notable characteristics of the Papillon include their exceptional intelligence, ranking among the top ten brightest dog breeds. They are also known for their versatility, excelling in various canine activities beyond companionship, such as therapy work and competitive dog sports. Their elegant appearance, combined with their lively and affectionate personality, makes them a cherished breed among dog enthusiasts worldwide.</p>",
+  "full_description_rus": "<p>Папильон, также известный как континентальный той-спаниель, — это небольшая элегантная порода собак, отличающаяся своими ушами, напоминающими крылья бабочки, откуда и происходит её название: «папильон» в переводе с французского означает «бабочка». Порода возникла в Европе, особенно во Франции и Бельгии, и её история восходит к XVI веку, когда она была популярна среди королевских особ и знати. Папильоны часто изображались на картинах известных художников, таких как Тициан и Ватто, сопровождая аристократических персонажей.</p>\n<p>Физически папильоны — это небольшие собаки, обычно достигающие в холке 20–28 см и весящие от 2 до 5 кг. Они имеют изящное телосложение с длинной, шелковистой, однослойной шерстью, преимущественно белого цвета с пятнами различных оттенков, включая чёрный, рыжий и соболиный. Самой отличительной чертой породы являются её большие, хорошо опушённые уши, напоминающие крылья бабочки.</p>\n<p>По темпераменту папильоны известны своим весёлым, дружелюбным и авантюрным характером. Они обладают высоким интеллектом и стремлением угодить, что делает их легко обучаемыми и отзывчивыми на команды. Несмотря на свои небольшие размеры, они проявляют живой и энергичный нрав, часто демонстрируя сильное желание к умственной стимуляции и физической активности.</p>\n<p>Исторически папильоны были выведены в качестве компаньонов для европейской знати, служа в роли комнатных собак и верных спутников. Их небольшой размер и ласковый характер делали их идеальными для этой роли. В современное время они продолжают превосходно справляться с ролью компаньонов и также приобрели популярность в собачьих видах спорта, таких как аджилити и соревнования по послушанию, где демонстрируют свой интеллект и ловкость.</p>\n<p>Значительными характеристиками папильонов являются их исключительный интеллект, благодаря которому они входят в десятку самых умных пород собак. Они также известны своей универсальностью, преуспевая в различных видах деятельности, помимо компаньонства, таких как терапевтическая работа и спортивные соревнования. Их элегантный внешний вид, в сочетании с живым и ласковым характером, делает их любимой породой среди собаководов по всему миру.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "5-10 pounds",
+    "height": "8-11 inches",
+    "coat": "long, fine, single-layered",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; minimal shedding",
+    "lifespan": "14-16 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "2-5 кг",
+    "рост": "20-28 см",
+    "шерсть": "длинная, тонкая, однослойная",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "регулярное расчёсывание; минимальная линька",
+    "продолжительность жизни": "14-16 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Energetic and playful",
+      "Affectionate and loyal",
+      "Alert and attentive",
+      "Versatile in various canine activities"
+    ],
+    "summary": "Papillons are intelligent, energetic, and affectionate dogs that thrive on companionship and mental stimulation.",
+    "with_children": "Generally good with children, but supervision is recommended due to their small size.",
+    "with_family": "They form strong bonds with family members and enjoy being involved in daily activities.",
+    "with_other_pets": "Can coexist well with other pets if properly socialized, though caution is advised with larger animals.",
+    "with_strangers": "Friendly but may be reserved; early socialization helps in developing confidence around new people."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Папильоны — умные, энергичные и ласковые собаки, которые нуждаются в общении и умственной стимуляции.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи и любят участвовать в повседневных делах.",
+    "с детьми": "Обычно хорошо ладят с детьми, но из-за их небольшого размера рекомендуется присмотр.",
+    "с другими животными": "Могут хорошо уживаться с другими питомцами при правильной социализации, однако следует быть осторожными с более крупными животными.",
+    "с незнакомцами": "Дружелюбны, но могут быть сдержанными; ранняя социализация помогает развить уверенность при общении с новыми людьми.",
+    "особые черты": [
+      "Высокий интеллект и обучаемость",
+      "Энергичность и игривость",
+      "Ласковость и преданность",
+      "Бдительность и внимательность",
+      "Универсальность в различных видах деятельности"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Patellar luxation",
+      "Progressive retinal atrophy",
+      "Dental problems",
+      "Open fontanelle",
+      "Collapsing trachea"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Consistent dental care",
+      "Appropriate exercise to maintain joint health",
+      "Genetic testing for hereditary conditions",
+      "Avoiding rough play to prevent injuries"
+    ],
+    "summary": "Papillons are generally healthy with a long lifespan but are prone to certain hereditary conditions.",
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Папильоны обычно здоровы и имеют долгую продолжительность жизни, но склонны к некоторым наследственным заболеваниям.",
+    "распространённые проблемы": [
+      "Вывих надколенника",
+      "Прогрессирующая атрофия сетчатки",
+      "Проблемы с зубами",
+      "Открытый родничок",
+      "Коллапс трахеи"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Постоянный уход за зубами",
+      "Соответствующие физические нагрузки для поддержания здоровья суставов",
+      "Генетическое тестирование на наследственные заболевания",
+      "Избегание грубых игр для предотвращения травм"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем."
+  },
+  "care": {
+    "behavior": "They thrive on companionship and can develop separation anxiety if left alone for extended periods.",
+    "description": "Papillons require attentive care, including regular grooming, mental stimulation, and health monitoring.",
+    "grooming": "Brush their long coat several times a week to prevent tangles and mats; regular ear cleaning is essential.",
+    "health": "Maintain a balanced diet and regular exercise to support overall health and prevent obesity.",
+    "nutrition": "Provide high-quality dog food appropriate for their size, age, and activity level; monitor portion sizes to maintain a healthy weight."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Папильоны требуют внимательного ухода, включая регулярный груминг, умственную стимуляцию и контроль за здоровьем.",
+    "поведение и характер": "Они нуждаются в общении и могут развить тревогу разлуки, если остаются одни на длительное время.",
+    "здоровье и профилактика": "Поддерживайте сбалансированное питание и регулярные физические нагрузки для общего здоровья и предотвращения ожирения.",
+    "груминг и уход": "Расчесывайте их длинную шерсть несколько раз в неделю, чтобы предотвратить спутывание и колтуны; регулярная чистка ушей необходима.",
+    "питание и активность": "Обеспечьте высококачественный корм, соответствующий их размеру, возрасту и уровню активности; контролируйте порции для поддержания здорового веса."
+  },
+  "faq": [
+    {
+      "question": "Are Papillons good for first-time dog owners?",
+      "answer": "Yes, their intelligence and trainability make them suitable for first-time owners who can provide proper care and training."
+    },
+    {
+      "question": "Do Papillons get along with other pets?",
+      "answer": "With proper socialization, they can coexist well with other pets, though supervision is recommended."
+    },
+    {
+      "question": "How much exercise does a Papillon need?",
+      "answer": "They require daily walks and playtime to meet their high energy levels and mental stimulation needs."
+    },
+    {
+      "question": "Are Papillons hypoallergenic?",
+      "answer": "No, they are not considered hypoallergenic, but they have minimal shedding compared to some other breeds."
+    },
+    {
+      "question": "Can Papillons live in apartments?",
+      "answer": "Yes, their small size makes them well-suited for apartment living, provided they receive adequate exercise."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли папильоны для владельцев без опыта?",
+      "ответ": "Да, их интеллект и обучаемость делают их подходящими для владельцев без опыта, при условии обеспечения надлежащего ухода и дрессировки."
+    },
+    {
+      "вопрос": "Ладят ли папильоны с другими животными?",
+      "ответ": "При правильной социализации они могут хорошо уживаться с другими питомцами, хотя рекомендуется присмотр."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется папильону?",
+      "ответ": "Им необходимы ежедневные прогулки и игры для удовлетворения их высокой энергии и потребностей в умственной стимуляции."
+    },
+    {
+      "вопрос": "Являются ли папильоны гипоаллергенными?",
+      "ответ": "Нет, они не считаются гипоаллергенными, но имеют минимальную линьку по сравнению с некоторыми другими породами."
+    },
+    {
+      "вопрос": "Могут ли папильоны жить в квартирах?",
+      "ответ": "Да, их небольшой размер делает их хорошо подходящими для жизни в квартире, при условии обеспечения достаточной физической активности."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Papillon_dog",
+    "https://www.petmd.com/dog/breeds/papillon",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-papillons",
+    "https://www.akc.org/content/entertainment/articles/4-papillon-characteristics/",
+    "https://www.hillspet.com/dog-care/dog-breeds/papillon"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "old-english-sheepdog",
+  "name": "Old English Sheepdog",
+  "name_rus": "Староанглийская овчарка (бобтейл)",
+  "full_description": "<p>The Old English Sheepdog (OES) is a distinctive and versatile breed, renowned for its shaggy coat and amiable disposition. Originating in the early 19th century in the western counties of England, the OES was developed primarily as a drover's dog, tasked with driving sheep and cattle to market. Its lineage likely includes the Bearded Collie and possibly the Russian Owtcharka, contributing to its robust build and herding capabilities.</p>\n<p>Physically, the OES is a large, muscular dog with a square, compact frame. Males typically stand 24 inches or taller at the shoulder, while females are slightly shorter. They weigh between 70 to 100 pounds. The breed's most striking feature is its profuse double coat, which is shaggy and free from curl, coming in shades of gray, grizzle, blue, or blue merle, often with white markings. This dense coat provides insulation and protection against harsh weather conditions.</p>\n<p>Temperamentally, the OES is known for its gentle and friendly nature. They are intelligent, adaptable, and exhibit a playful demeanor, making them excellent companions for families. Their herding instincts may manifest as a tendency to herd children or other pets, but with proper training, this behavior can be managed effectively.</p>\n<p>Historically, the OES was valued for its herding and droving abilities, adept at moving livestock over long distances. Today, while they are less commonly used for herding, they have found roles as beloved family pets and participants in dog sports. Their distinctive appearance has also made them popular in media and advertising.</p>\n<p>Notable characteristics of the OES include its unique \"bear-like\" gait, a result of its distinctive topline that slopes from the loin to the withers. Additionally, the breed is sometimes referred to as the \"Bobtail\" due to the traditional practice of tail docking, which was historically done to denote working status and avoid taxation.</p>",
+  "full_description_rus": "<p>Староанглийская овчарка, также известная как бобтейл, — это крупная пастушья собака с густой, длинной шерстью, покрывающей коренастое тело. Хотя их глаза полностью скрыты под шерстью, они все прекрасно видят. Бобтейлы могут быть разных окрасов: любые оттенки серого или голубого с белыми отметинами или без них. Рост взрослых самцов — 61 см и выше, вес — от 36 кг, рост взрослых самок — 56 см, вес — от 30 кг.</p>\n<p>Бобтейлы славятся своей дружелюбностью и преданностью. Они отлично ладят с детьми и другими домашними животными, что делает их прекрасными семейными компаньонами. Однако их пастуший инстинкт может проявляться в попытках \"пасти\" членов семьи, что выражается в легком покусывании за ноги или стремлении контролировать передвижения.</p>\n<p>Уход за бобтейлом требует значительных усилий. Их густая шерсть нуждается в регулярном расчесывании 2–3 раза в неделю, чтобы избежать образования колтунов. Во время линьки, происходящей дважды в год, вычесывание должно быть более интенсивным. Также необходимо регулярно проверять и очищать глаза и уши собаки, чтобы предотвратить инфекции.</p>\n<p>Бобтейлы нуждаются в ежедневных прогулках и умеренных физических нагрузках. Они с удовольствием играют в мяч или бегают на свежем воздухе. Эти собаки хорошо адаптируются к жизни в квартире, но лучше всего чувствуют себя в загородном доме с просторным двором.</p>\n<p>В целом, бобтейлы — здоровая порода, но они склонны к некоторым заболеваниям, таким как дисплазия тазобедренного сустава, катаракта, гипотиреоз и вздутие живота (заворот кишок). Регулярные визиты к ветеринару, сбалансированное питание и достаточная физическая активность помогут поддерживать здоровье собаки на должном уровне.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "70-100 pounds",
+    "height": "22-26 inches",
+    "coat": "long, shaggy, double coat",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "high-maintenance; requires regular brushing",
+    "lifespan": "10-12 years"
+  },
+  "parameters_rus": {
+    "size": "крупный",
+    "weight": "от 30 до 46 кг",
+    "height": "от 56 до 61 см",
+    "coat": "длинная, густая, двойная шерсть",
+    "activity": "умеренная",
+    "trainability": "средняя",
+    "grooming": "требует регулярного ухода; необходимо частое расчесывание",
+    "lifespan": "10-12 лет"
+  },
+  "behavior": {
+    "summary": "The Old English Sheepdog is a gentle, friendly, and intelligent breed, known for its playful and adaptable nature.",
+    "with_family": "Devoted and protective, forming strong bonds with family members.",
+    "with_children": "Good with children, though their exuberance may be overwhelming for very young kids.",
+    "with_other_pets": "Generally good with other dogs and pets, especially when socialized early.",
+    "with_strangers": "Friendly towards strangers, though may be reserved initially.",
+    "special_traits": [
+      "Playful and energetic",
+      "Strong herding instincts",
+      "Affectionate and loyal",
+      "Intelligent and trainable",
+      "Requires regular mental and physical stimulation"
+    ]
+  },
+  "behavior_rus": {
+    "summary": "Староанглийская овчарка — это доброжелательная, дружелюбная и умная порода, известная своим игривым и адаптивным характером.",
+    "with_family": "Преданная и защитная, формирует крепкие связи с членами семьи.",
+    "with_children": "Хорошо ладит с детьми, хотя их энергичность может быть чрезмерной для очень маленьких детей.",
+    "with_other_pets": "В целом хорошо уживается с другими собаками и животными, особенно при ранней социализации.",
+    "with_strangers": "Дружелюбна к незнакомцам, хотя может быть изначально сдержанной.",
+    "special_traits": [
+      "Игривость и энергичность",
+      "Сильные пастушьи инстинкты",
+      "Ласковость и преданность",
+      "Ум и обучаемость",
+      "Требует регулярной умственной и физической стимуляции"
+    ]
+  },
+  "health": {
+    "summary": "The Old English Sheepdog is generally a healthy breed but is prone to certain genetic health issues common in large breeds.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Glaucoma",
+      "Cataracts",
+      "Progressive retinal atrophy",
+      "Hypothyroidism",
+      "Wobbler syndrome"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide regular exercise",
+      "Monitor for signs of eye issues",
+      "Ensure a balanced diet"
+    ],
+    "vet_checkups": "At least once a year, with more frequent visits as the dog ages or if health issues arise."
+  },
+  "health_rus": {
+    "summary": "Староанглийская овчарка в целом является здоровой породой, но склонна к некоторым генетическим заболеваниям, характерным для крупных пород.",
+    "common_issues": [
+      "Дисплазия тазобедренного сустава",
+      "Глаукома",
+      "Катаракта",
+      "Прогрессирующая атрофия сетчатки",
+      "Гипотиреоз",
+      "Синдром Вобблера"
+    ],
+    "prevention_tips": [
+      "Регулярные визиты к ветеринару",
+      "Поддержание здорового веса",
+      "Обеспечение регулярных физических нагрузок",
+      "Мониторинг признаков проблем с глазами",
+      "Обеспечение сбалансированного питания"
+    ],
+    "vet_checkups": "Не реже одного раза в год, с более частыми визитами по мере старения собаки или при возникновении проблем со здоровьем."
+  },
+  "care": {
+    "description": "Caring for an Old English Sheepdog requires commitment to regular grooming, exercise, and health monitoring to ensure a happy and healthy life.",
+    "behavior": "Provide consistent training to manage herding instincts and ensure proper socialization from a young age.",
+    "health": "Regular veterinary visits and attention to common health issues are essential for maintaining overall well-being.",
+    "grooming": "Daily brushing is recommended to prevent matting; professional grooming may be necessary periodically.",
+    "nutrition": "Feed a balanced diet appropriate for large breeds, monitoring food intake to prevent obesity."
+  },
+  "care_rus": {
+    "description": "Уход за староанглийской овчаркой требует приверженности к регулярному грумингу, физическим упражнениям и мониторингу здоровья для обеспечения счастливой и здоровой жизни.",
+    "behavior": "Обеспечьте последовательную дрессировку для управления пастушьими инстинктами и правильной социализации с раннего возраста.",
+    "health": "Регулярные визиты к ветеринару и внимание к распространенным проблемам со здоровьем необходимы для поддержания общего благополучия.",
+    "grooming": "Рекомендуется ежедневное расчесывание для предотвращения образования колтунов; периодически может потребоваться профессиональный груминг.",
+    "nutrition": "Кормите сбалансированным рационом, подходящим для крупных пород, контролируя потребление пищи для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Do Old English Sheepdogs shed a lot?",
+      "answer": "They shed minimally but require regular grooming to maintain their coat."
+    },
+    {
+      "question": "Are Old English Sheepdogs good for first-time dog owners?",
+      "answer": "They can be, provided the owner is prepared for their grooming needs and exercise requirements."
+    },
+    {
+      "question": "How much exercise does an Old English Sheepdog need?",
+      "answer": "They require moderate daily exercise, such as walks and play sessions."
+    },
+    {
+      "question": "Are Old English Sheepdogs hypoallergenic?",
+      "answer": "No, they are not considered hypoallergenic."
+    },
+    {
+      "question": "Can Old English Sheepdogs live in apartments?",
+      "answer": "They can adapt to apartment living if provided with sufficient exercise and mental stimulation."
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Сильно ли линяют староанглийские овчарки?",
+      "answer": "Они линяют умеренно, но требуют регулярного ухода за шерстью для поддержания ее состояния."
+    },
+    {
+      "question": "Подходят ли староанглийские овчарки для неопытных владельцев?",
+      "answer": "Они могут подойти, если владелец готов уделять время уходу за шерстью и обеспечивать достаточные физические нагрузки."
+    },
+    {
+      "question": "Сколько упражнений требуется староанглийской овчарке?",
+      "answer": "Им необходимы умеренные ежедневные физические нагрузки, такие как прогулки и игровые сессии."
+    },
+    {
+      "question": "Являются ли староанглийские овчарки гипоаллергенными?",
+      "answer": "Нет, они не считаются гипоаллергенными."
+    },
+    {
+      "question": "Могут ли староанглийские овчарки жить в квартирах?",
+      "answer": "Они могут адаптироваться к жизни в квартире при условии достаточных физических и умственных нагрузок."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/old-english-sheepdog",
+    "https://vcahospitals.com/know-your-pet/old-english-sheepdog",
+    "https://www.akc.org/expert-advice/dog-breeds/fun-facts-old-english-sheepdog/",
+    "https://oldenglishsheepdogclubofamerica.org/articles/article-the-old-english-sheepdog/",
+    "https://petstory.ru/knowledge/dogs/dog-breeds/bob-tailed-sheepdog/",
+    "https://www.purina.ru/find-a-pet/dog-breeds/bobteyl-staroangliyskaya-ovcharka",
+    "https://lapkins.ru/dog/bobteyl/"
+  ]
+}

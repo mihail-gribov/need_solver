@@ -1,0 +1,329 @@
+{
+  "description": "Breed/object characteristics basis - features used for matching user needs",
+  "features": [
+    {
+      "id": "shedding",
+      "name": "Shedding",
+      "description": "Amount of hair shedding",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "coat_type",
+      "name": "Coat Type",
+      "description": "Type of coat (affects grooming and allergenicity)",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "dander_level",
+      "name": "Dander Level",
+      "description": "Amount of dander produced (allergen factor)",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "grooming",
+      "name": "Grooming Needs",
+      "description": "Required grooming frequency and effort",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "odor_level",
+      "name": "Odor Level",
+      "description": "Natural body odor intensity (skin oils, coat smell)",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "health_robustness",
+      "name": "Health Robustness",
+      "description": "Overall breed health and genetic stability",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "genetic_risk",
+      "name": "Genetic Risk",
+      "description": "Risk of genetic health issues",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "apartment_ok",
+      "name": "Apartment Suitable",
+      "description": "Suitability for apartment living",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "barking",
+      "name": "Barking Tendency",
+      "description": "Frequency and intensity of barking",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "energy",
+      "name": "Energy Level",
+      "description": "Activity and energy level",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "reactivity",
+      "name": "Reactivity",
+      "description": "Reaction intensity to stimuli",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "noise_tolerance",
+      "name": "Noise Tolerance",
+      "description": "Tolerance to urban noise and sounds",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "exercise_need",
+      "name": "Exercise Need",
+      "description": "Required daily exercise amount",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "alone_tolerance",
+      "name": "Alone Tolerance",
+      "description": "Ability to stay alone",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "separation_anxiety_risk",
+      "name": "Separation Anxiety Risk",
+      "description": "Risk of separation anxiety",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "sitter_compatibility",
+      "name": "Sitter Compatibility",
+      "description": "Ease of staying with other people",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "adaptability",
+      "name": "Adaptability",
+      "description": "Ability to adapt to changes",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "child_friendly",
+      "name": "Child Friendly",
+      "description": "Safety and comfort with children",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "pet_friendly",
+      "name": "Pet Friendly",
+      "description": "Compatibility with other pets",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "stranger_friendly",
+      "name": "Stranger Friendly",
+      "description": "Friendliness toward strangers",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "territoriality",
+      "name": "Territoriality",
+      "description": "Territorial behavior intensity",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "protectiveness",
+      "name": "Protectiveness",
+      "description": "Protective instinct level",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "stress_sensitivity",
+      "name": "Stress Sensitivity",
+      "description": "Sensitivity to stressful situations",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "affection_level",
+      "name": "Affection Level",
+      "description": "Human orientation and affection",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "independence",
+      "name": "Independence",
+      "description": "Level of independence from owner",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "playfulness",
+      "name": "Playfulness",
+      "description": "Playfulness and game drive",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "trainability",
+      "name": "Trainability",
+      "description": "Ease of training",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "working_drive",
+      "name": "Working Drive",
+      "description": "Drive for work and tasks",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "behavior_management_need",
+      "name": "Behavior Management Need",
+      "description": "Need for behavior correction",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "mental_stimulation",
+      "name": "Mental Stimulation Need",
+      "description": "Need for mental engagement",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "prey_drive",
+      "name": "Prey Drive",
+      "description": "Hunting/prey instinct intensity",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "hunting_instinct",
+      "name": "Hunting Instinct",
+      "description": "Hunting behavior tendency",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "drooling",
+      "name": "Drooling",
+      "description": "Amount of drooling/slobber",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "physical_strength",
+      "name": "Physical Strength",
+      "description": "Physical power and pulling strength",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "dominance",
+      "name": "Dominance",
+      "description": "Tendency toward dominant behavior",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "heat_tolerance",
+      "name": "Heat Tolerance",
+      "description": "Tolerance to hot weather",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "cold_tolerance",
+      "name": "Cold Tolerance",
+      "description": "Tolerance to cold weather",
+      "type": "float01",
+      "range": [0, 1]
+    },
+    {
+      "id": "therapy_suitability",
+      "name": "Therapy Suitability",
+      "description": "Suitability for emotional support/therapy role",
+      "type": "float01",
+      "range": [0, 1]
+    }
+  ],
+  "size_group": {
+    "id": "size",
+    "name": "Size",
+    "description": "Adult dog size category based on weight",
+    "type": "onehot_soft",
+    "source_field": "parameters.weight",
+    "unit": "kg",
+    "values": [
+      {"id": "size_toy", "name": "Toy", "min": 0, "max": 5},
+      {"id": "size_small", "name": "Small", "min": 5, "max": 10},
+      {"id": "size_medium", "name": "Medium", "min": 10, "max": 25},
+      {"id": "size_large", "name": "Large", "min": 25, "max": 45},
+      {"id": "size_giant", "name": "Giant", "min": 45, "max": null}
+    ],
+    "derived": [
+      {"id": "size_small_or_less", "name": "Small or less", "formula": "size_toy | size_small"},
+      {"id": "size_medium_or_less", "name": "Medium or less", "formula": "size_toy | size_small | size_medium"},
+      {"id": "size_large_or_more", "name": "Large or more", "formula": "size_large | size_giant"}
+    ]
+  },
+  "height_group": {
+    "id": "height",
+    "name": "Height",
+    "description": "Adult dog height category at withers",
+    "type": "onehot_soft",
+    "source_field": "parameters.height",
+    "unit": "cm",
+    "values": [
+      {"id": "height_tiny", "name": "Tiny", "min": 0, "max": 25},
+      {"id": "height_small", "name": "Small", "min": 25, "max": 40},
+      {"id": "height_medium", "name": "Medium", "min": 40, "max": 55},
+      {"id": "height_large", "name": "Large", "min": 55, "max": 70},
+      {"id": "height_giant", "name": "Giant", "min": 70, "max": null}
+    ],
+    "derived": [
+      {"id": "height_small_or_less", "name": "Small or less", "formula": "height_tiny | height_small"},
+      {"id": "height_medium_or_less", "name": "Medium or less", "formula": "height_tiny | height_small | height_medium"},
+      {"id": "height_large_or_more", "name": "Large or more", "formula": "height_large | height_giant"}
+    ]
+  },
+  "lifespan_group": {
+    "id": "lifespan",
+    "name": "Lifespan",
+    "description": "Expected lifespan category",
+    "type": "onehot_soft",
+    "source_field": "parameters.lifespan",
+    "unit": "years",
+    "values": [
+      {"id": "lifespan_short", "name": "Short", "min": 0, "max": 9},
+      {"id": "lifespan_medium", "name": "Medium", "min": 9, "max": 12},
+      {"id": "lifespan_long", "name": "Long", "min": 12, "max": 15},
+      {"id": "lifespan_very_long", "name": "Very Long", "min": 15, "max": null}
+    ],
+    "derived": [
+      {"id": "lifespan_medium_or_more", "name": "Medium or longer", "formula": "lifespan_medium | lifespan_long | lifespan_very_long"},
+      {"id": "lifespan_long_or_more", "name": "Long-lived", "formula": "lifespan_long | lifespan_very_long"}
+    ]
+  }
+}

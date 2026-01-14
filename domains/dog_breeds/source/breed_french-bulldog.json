@@ -1,0 +1,91 @@
+{
+  "id": "french-bulldog",
+  "name": "French Bulldog",
+  "full_description": "<p>The French Bulldog, affectionately known as the 'Frenchie,' is a small, muscular dog with a smooth coat, compact build, and distinctive 'bat ears.' Originating in the 19th century, the breed was developed by lace workers in Nottingham, England, who migrated to France during the Industrial Revolution, bringing their small bulldogs with them. These dogs were then crossed with local breeds, resulting in the French Bulldog we know today.</p>\n<p>Physically, French Bulldogs are compact and muscular, typically weighing under 28 pounds. They have a short, smooth coat that comes in various colors, including brindle, fawn, cream, and white with brindle patches. Their most notable feature is their large, upright 'bat ears,' which contribute to their alert and expressive appearance.</p>\n<p>In terms of temperament, Frenchies are known for their affectionate and friendly nature. They form strong bonds with their families and are particularly good with children. Their playful and adaptable disposition makes them suitable for various living situations, from apartments to larger homes. While they are intelligent, they can also be a bit stubborn, which may require patience during training.</p>\n<p>Originally bred as companion animals, French Bulldogs have never been used for traditional working roles. Their primary purpose has always been to provide companionship, a role they continue to excel in today. Their popularity has surged in recent years, with the breed ranking as the most popular dog in the United States in 2024.</p>\n<p>Notable characteristics of the French Bulldog include their brachycephalic (short-nosed) facial structure, which contributes to their unique appearance but also predisposes them to certain health issues. Their compact size and moderate exercise needs make them ideal for urban living. However, potential owners should be aware of their sensitivity to heat and the importance of regular health check-ups to monitor for breed-specific health concerns.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "under 28 pounds",
+    "height": "11-12 inches",
+    "coat": "short, smooth, fine",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "weekly brushing; regular cleaning of skin folds",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "French Bulldogs are affectionate, friendly, and adaptable companions, known for their playful and sociable nature.",
+    "with_family": "They form strong bonds with family members, enjoying close companionship and often seeking attention.",
+    "with_children": "Frenchies are generally good with children, displaying patience and playfulness, making them excellent family pets.",
+    "with_other_pets": "They can get along well with other pets, especially when socialized from a young age, though some may exhibit territorial behavior.",
+    "with_strangers": "Typically friendly towards strangers, French Bulldogs may be reserved initially but warm up quickly.",
+    "special_traits": [
+      "Affectionate and loyal",
+      "Playful and sociable",
+      "Adaptable to various living environments",
+      "Moderate exercise needs",
+      "Sensitive to heat"
+    ]
+  },
+  "health": {
+    "summary": "French Bulldogs are prone to several health issues, primarily due to their brachycephalic anatomy, requiring attentive care and regular veterinary check-ups.",
+    "common_issues": [
+      "Brachycephalic Obstructive Airway Syndrome (BOAS)",
+      "Skin allergies and dermatitis",
+      "Ear infections",
+      "Spinal malformations",
+      "Eye conditions (e.g., cherry eye, corneal ulcers)"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce breathing difficulties",
+      "Regularly clean skin folds to prevent infections",
+      "Monitor for signs of allergies and seek veterinary advice",
+      "Avoid excessive heat and ensure a cool environment",
+      "Provide regular, gentle exercise to maintain overall health"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for monitoring breed-specific health concerns."
+  },
+  "care": {
+    "description": "French Bulldogs require attentive care, including regular grooming, health monitoring, and a balanced lifestyle to ensure their well-being.",
+    "behavior": "Consistent, positive reinforcement training helps manage their occasional stubbornness; socialization from a young age promotes well-rounded behavior.",
+    "health": "Regular veterinary check-ups are essential to monitor for common health issues; maintaining a healthy weight and avoiding overheating are crucial.",
+    "grooming": "Weekly brushing and regular cleaning of skin folds help prevent skin infections; routine ear cleaning reduces the risk of ear infections.",
+    "nutrition": "A balanced diet tailored to their age, size, and activity level supports overall health; portion control is important to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are French Bulldogs good for apartment living?",
+      "answer": "Yes, their small size and moderate exercise needs make them well-suited for apartment living."
+    },
+    {
+      "question": "Do French Bulldogs require a lot of exercise?",
+      "answer": "No, they have moderate exercise needs; daily short walks and play sessions are sufficient."
+    },
+    {
+      "question": "Are French Bulldogs prone to health issues?",
+      "answer": "Yes, they are susceptible to certain health problems, particularly related to their brachycephalic anatomy."
+    },
+    {
+      "question": "Do French Bulldogs get along with other pets?",
+      "answer": "Generally, yes; with proper socialization, they can coexist well with other pets."
+    },
+    {
+      "question": "Are French Bulldogs easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training is effective."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/French_Bulldog",
+    "https://www.petsradar.com/advice/six-common-french-bulldog-health-issues",
+    "https://www.petmd.com/dog/infographic/french-bulldog-field-guide",
+    "https://www.caninejournal.com/french-bulldog-health-issues/",
+    "https://www.petscare.com/news/post/french-bulldog-health-issues-guide",
+    "https://dogmatchup.com/breeds/french-bulldog/health",
+    "https://articles.hepper.com/french-bulldog-health-conditions/",
+    "https://www.splootvets.com/post/french-bulldog-health-issues-care-tips",
+    "https://vetnique.com/blogs/vets-corner/7-common-french-bulldog-health-issues-vetnique",
+    "https://www.petzooie.com/articles/do-french-bulldogs-have-health-issues",
+    "https://heartofharlemveterinaryclinic.com/client-resources/breed-info/french-bulldog/",
+    "https://www.theflockhouse.com/french-bulldog-health-issues-a-comprehensive-guide-for-owners/",
+    "https://www.everypaw.com/dog-insurance/dog-breed-guides/french-bulldog-insurance-care-and-health-advice"
+  ]
+}

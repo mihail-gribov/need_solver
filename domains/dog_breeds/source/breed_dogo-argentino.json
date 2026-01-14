@@ -1,0 +1,84 @@
+{
+  "id": "dogo-argentino",
+  "name": "Dogo Argentino",
+  "full_description": "<p>The Dogo Argentino, also known as the Argentine Mastiff, is a breed that originated in Argentina in 1928. Dr. Antonio Nores Martinez, a young Argentine physician, developed this breed by methodically crossing the now-extinct Old Fighting Dog of Cordoba with various breeds, including Mastiffs, Bulldogs, and Bull Terriers. His goal was to create a versatile hunting dog capable of pursuing big game such as wild boar and pumas, while also serving as a loyal family companion and guardian.</p>\n<p>Physically, the Dogo Argentino is a large, muscular dog with a powerful build. Males typically stand between 24 to 26.5 inches tall and weigh between 88 to 100 pounds, while females are slightly smaller, standing 24 to 25.5 inches tall and weighing 88 to 95 pounds. The breed is characterized by a short, smooth, and entirely white coat, which aids in distinguishing the dog from its prey during hunts. The head is broad with a slightly domed skull, and the ears may be cropped or left natural, hanging close to the skull.</p>\n<p>In terms of temperament, the Dogo Argentino is known for its courage, loyalty, and affectionate nature. They are social dogs that thrive on human interaction and are known to be friendly and playful with their families. However, they possess strong guarding instincts and can be protective and territorial, making early socialization and consistent training essential. Due to their strong-willed and active nature, they are best suited for experienced dog owners who can provide firm, confident, and consistent leadership.</p>\n<p>Originally bred for hunting large game, the Dogo Argentino exhibits remarkable tenacity, intelligence, and strength. These attributes make them well-suited for various roles beyond hunting, including search and rescue, military and police work, and even as service dogs. Their versatility and working abilities have contributed to their modern-day popularity in various fields.</p>\n<p>The breed was recognized by the Federación Cinológica Argentina in 1964 and by the Fédération Cynologique Internationale in 1973. In the United States, the Dogo Argentino was recognized by the United Kennel Club on January 1, 2001, and later by the American Kennel Club in 2020, becoming the 195th AKC-recognized breed.</p>\n<p>Notable characteristics of the Dogo Argentino include their impressive power and athleticism, strong guarding instincts, and a stable temperament that balances their hunting prowess with a friendly and affectionate nature towards their families. Their distinctive white coat not only serves a functional purpose during hunts but also adds to their striking appearance.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "88-100 pounds (males), 88-95 pounds (females)",
+    "height": "24-26.5 inches (males), 24-25.5 inches (females)",
+    "coat": "short, smooth, entirely white",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "weekly brushing; sun protection due to white coat",
+    "lifespan": "10-15 years"
+  },
+  "behavior": {
+    "summary": "The Dogo Argentino is a courageous, loyal, and affectionate breed with strong guarding instincts and a high energy level.",
+    "with_family": "Dogos are friendly and playful with their families, seeking close physical contact and inclusion in family activities.",
+    "with_children": "They can be affectionate and protective towards children, but due to their size and strength, interactions should be supervised.",
+    "with_other_pets": "Early socialization is crucial, as their strong prey drive may lead to chasing smaller animals.",
+    "with_strangers": "They are protective and territorial, often wary of strangers, making early socialization important.",
+    "special_traits": [
+      "courageous",
+      "loyal",
+      "affectionate",
+      "protective",
+      "high energy"
+    ]
+  },
+  "health": {
+    "summary": "The Dogo Argentino is generally a healthy breed but can be prone to certain genetic health issues.",
+    "common_issues": [
+      "deafness",
+      "hip dysplasia",
+      "elbow dysplasia",
+      "allergies",
+      "cardiac issues",
+      "eye problems"
+    ],
+    "prevention_tips": [
+      "regular health screenings",
+      "maintain a healthy diet",
+      "provide adequate exercise",
+      "protect from sun exposure",
+      "early socialization and training"
+    ],
+    "vet_checkups": "regular checkups as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "The Dogo Argentino requires consistent training, regular exercise, and socialization to thrive as a family companion.",
+    "behavior": "Early socialization and firm, consistent training are essential to manage their strong-willed nature.",
+    "health": "Regular health screenings and preventive care are important to address potential genetic health issues.",
+    "grooming": "Weekly brushing is sufficient, but sun protection is necessary due to their white coat.",
+    "nutrition": "A balanced diet appropriate for large, active breeds is recommended."
+  },
+  "faq": [
+    {
+      "question": "Is the Dogo Argentino suitable for first-time dog owners?",
+      "answer": "No, they are best suited for experienced owners due to their strong-willed and active nature."
+    },
+    {
+      "question": "Do Dogo Argentinos get along with other pets?",
+      "answer": "With early socialization, they can coexist with other pets, but their strong prey drive requires supervision."
+    },
+    {
+      "question": "How much exercise does a Dogo Argentino need?",
+      "answer": "They require a great deal of daily exercise and mental stimulation to stay healthy and happy."
+    },
+    {
+      "question": "Are Dogo Argentinos good with children?",
+      "answer": "They can be affectionate and protective towards children, but interactions should be supervised due to their size and strength."
+    },
+    {
+      "question": "What are common health issues in Dogo Argentinos?",
+      "answer": "Common issues include deafness, hip and elbow dysplasia, allergies, cardiac issues, and eye problems."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/dogo-argentino",
+    "https://www.akc.org/expert-advice/dog-breeds/7-things-to-know-about-the-dogo-argentino/",
+    "https://www.akc.org/press-releases/american-kennel-club-kicks-off-new-year-two-brand-new-breeds/",
+    "https://www.akc.org/expert-advice/dog-breeds/dogo-argentino-newest-recognized-breed/",
+    "https://www.akc.org/expert-advice/dog-breeds/dogo-argentino-history/"
+  ]
+}

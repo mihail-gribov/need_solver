@@ -1,0 +1,166 @@
+{
+  "id": "curly-coated-retriever",
+  "name": "Curly-Coated Retriever",
+  "name_rus": "Курчавошерстный ретривер",
+  "full_description": "<p>The Curly-Coated Retriever, often referred to as the 'Curly,' is one of the oldest retriever breeds, originating in England during the early 19th century. Developed through crosses of the English Water Spaniel, St. John's Newfoundland, and possibly the Irish Water Spaniel and Poodle, the breed was designed to be a versatile hunting companion, excelling in retrieving game from both land and water. Their distinctive, tight, water-resistant curls provided protection against harsh weather and dense underbrush, making them particularly suited for waterfowl hunting. Physically, Curlies are large, athletic dogs with males standing between 25 to 27 inches at the withers and females between 23 to 25 inches. They typically weigh around 65 pounds. Their most notable feature is their dense, curly coat, which comes in solid black or liver colors. The curls cover the body, head, ears, and tail, while the face and front of the legs have smooth hair. This unique coat not only offers protection but also gives the breed its elegant and distinctive appearance. Temperamentally, Curly-Coated Retrievers are known for their intelligence, confidence, and independence. They are affectionate with their families and can be playful and sometimes mischievous. While they are generally friendly, they may exhibit a degree of aloofness towards strangers, making early and consistent socialization important. Their original purpose as hunting retrievers endowed them with a strong work ethic and eagerness to please, though they can sometimes display a stubborn streak. In modern times, Curlies continue to be valued as hunting companions, particularly in waterfowl hunting, due to their endurance and swimming capabilities. They also participate in various canine sports such as agility, obedience, and tracking. Despite their many admirable qualities, the breed remains relatively rare, often overshadowed by more popular retrievers like the Labrador and Golden Retriever. Notable characteristics of the Curly-Coated Retriever include their distinctive curly coat, which requires minimal grooming; their versatility as both a hunting dog and family companion; and their playful yet independent nature. Their combination of intelligence, athleticism, and unique appearance makes them a cherished breed among enthusiasts.</p>",
+  "full_description_rus": "<p>Курчавошерстный ретривер, часто называемый 'Кёрли', является одной из старейших пород ретриверов, возникшей в Англии в начале XIX века. Порода была выведена путем скрещивания английского водяного спаниеля, ньюфаундленда и, возможно, ирландского водяного спаниеля и пуделя, с целью создания универсального охотничьего компаньона, способного эффективно работать как на суше, так и на воде. Их плотные, водоотталкивающие кудри обеспечивали защиту от суровых погодных условий и густых зарослей, что делало их особенно пригодными для охоты на водоплавающую дичь. Физически курчавошерстные ретриверы — это крупные, атлетически сложенные собаки: кобели достигают роста 64–69 см в холке, суки — 58–64 см. Вес кобелей составляет около 32–41 кг, сук — 23–32 кг. Их наиболее отличительной чертой является плотная, кудрявая шерсть, которая бывает сплошного черного или печеночного цвета. Кудри покрывают тело, голову, уши и хвост, в то время как лицо и передняя часть ног имеют гладкую шерсть. Эта уникальная шерсть не только обеспечивает защиту, но и придает породе элегантный и узнаваемый внешний вид. По характеру курчавошерстные ретриверы известны своим умом, уверенностью и независимостью. Они привязаны к своей семье, могут быть игривыми и иногда озорными. Хотя они обычно дружелюбны, могут проявлять сдержанность по отношению к незнакомцам, поэтому ранняя и последовательная социализация важна. Их первоначальное предназначение как охотничьих ретриверов наделило их сильной трудовой этикой и стремлением угодить, хотя иногда они могут проявлять упрямство. В современное время кёрли продолжают цениться как охотничьи компаньоны, особенно в охоте на водоплавающую дичь, благодаря своей выносливости и способности к плаванию. Они также участвуют в различных собачьих спортивных мероприятиях, таких как аджилити, послушание и трекинг. Несмотря на множество достоинств, порода остается относительно редкой, часто оставаясь в тени более популярных ретриверов, таких как лабрадор и золотистый ретривер. Отличительными чертами курчавошерстного ретривера являются их уникальная кудрявая шерсть, требующая минимального ухода; их универсальность как охотничьей собаки и семейного компаньона; а также их игривый, но независимый характер. Сочетание интеллекта, атлетизма и уникального внешнего вида делает их любимой породой среди энтузиастов.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "approximately 65 pounds",
+    "height": "males: 25-27 inches; females: 23-25 inches",
+    "coat": "dense, tight, water-resistant curls covering the body, head, ears, and tail; smooth hair on face and front of legs",
+    "activity": "high",
+    "trainability": "intelligent and eager to please, though can be independent and sometimes stubborn",
+    "grooming": "minimal; brushing can cause frizzing, so occasional wetting and air-drying is recommended",
+    "lifespan": "10-12 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "около 32–41 кг",
+    "рост": "кобели: 64–69 см; суки: 58–64 см",
+    "шерсть": "плотные, тугие, водоотталкивающие кудри, покрывающие тело, голову, уши и хвост; гладкая шерсть на лице и передней части ног",
+    "активность": "высокая",
+    "обучаемость": "умные и стремящиеся угодить, хотя могут быть независимыми и иногда упрямыми",
+    "уход": "минимальный; расчесывание может вызвать пушистость, поэтому рекомендуется периодическое смачивание и сушка на воздухе",
+    "продолжительность жизни": "10–12 лет"
+  },
+  "behavior": {
+    "summary": "Curly-Coated Retrievers are intelligent, confident, and affectionate dogs with a playful and sometimes mischievous nature. They are loyal to their families and can be reserved around strangers.",
+    "with_family": "Affectionate and loyal, they enjoy spending time with their family members and thrive on attention and interaction.",
+    "with_children": "Generally good with children, though their high energy levels may be overwhelming for very young kids; supervision is recommended.",
+    "with_other_pets": "Typically get along well with other pets, especially when raised together; early socialization is beneficial.",
+    "with_strangers": "Can be reserved or aloof around strangers; early and consistent socialization helps them become more comfortable.",
+    "special_traits": [
+      "Intelligent and independent",
+      "Playful and sometimes mischievous",
+      "Strong work ethic",
+      "Excellent swimming abilities",
+      "Protective of their family"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Курчавошерстные ретриверы — умные, уверенные в себе и ласковые собаки с игривым и иногда озорным характером. Они преданы своей семье и могут быть сдержанными с незнакомцами.",
+    "с семьёй": "Ласковые и преданные, они любят проводить время с членами семьи и процветают от внимания и взаимодействия.",
+    "с детьми": "В целом хорошо ладят с детьми, хотя их высокий уровень энергии может быть чрезмерным для очень маленьких детей; рекомендуется присмотр.",
+    "с другими животными": "Обычно хорошо уживаются с другими животными, особенно если выросли вместе; полезна ранняя социализация.",
+    "с незнакомцами": "Могут быть сдержанными или отчужденными с незнакомцами; ранняя и последовательная социализация помогает им чувствовать себя более комфортно.",
+    "особые черты": [
+      "Умные и независимые",
+      "Игривые и иногда озорные",
+      "Сильная трудовая этика",
+      "Отличные способности к плаванию",
+      "Защитники своей семьи"
+    ]
+  },
+  "health": {
+    "summary": "Curly-Coated Retrievers are generally healthy but are predisposed to certain genetic conditions. Regular veterinary care and preventive measures can help maintain their health.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Eye conditions (e.g., cataracts, progressive retinal atrophy)",
+      "Exercise-induced collapse",
+      "Glycogen storage disease type IIIa",
+      "Gastric dilatation-volvulus (bloat)",
+      "Certain cancers (e.g., osteosarcoma, mast cell tumors)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for known hereditary conditions",
+      "Maintaining a healthy weight through diet and exercise",
+      "Feeding multiple small meals to reduce bloat risk",
+      "Avoiding vigorous exercise immediately before or after meals"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Курчавошерстные ретриверы в целом здоровы, но предрасположены к определенным генетическим заболеваниям. Регулярный ветеринарный уход и профилактические меры помогут поддерживать их здоровье.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Заболевания глаз (например, катаракта, прогрессирующая атрофия сетчатки)",
+      "Коллапс, вызванный физической нагрузкой",
+      "Гликогеноз типа IIIa",
+      "Желудочное расширение-волвулюс (заворот желудка)",
+      "Некоторые виды рака (например, остеосаркома, опухоли тучных клеток)"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Генетическое тестирование на известные наследственные заболевания",
+      "Поддержание здорового веса через диету и физические упражнения",
+      "Кормление небольшими порциями несколько раз в день для снижения риска заворота желудка",
+      "Избегание интенсивных физических нагрузок непосредственно до или после еды"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты могут потребоваться для пожилых собак или тех, у кого есть проблемы со здоровьем."
+  },
+  "care": {
+    "description": "Curly-Coated Retrievers require regular exercise, minimal grooming, and consistent training to thrive as both companions and working dogs.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature and ensure they are well-mannered.",
+    "health": "Regular veterinary care, a balanced diet, and preventive measures are key to maintaining their health and longevity.",
+    "grooming": "Minimal grooming is needed; avoid brushing to prevent frizzing of curls. Occasional wetting and air-drying help maintain the coat's appearance.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Курчавошерстные ретриверы нуждаются в регулярных физических нагрузках, минимальном уходе за шерстью и последовательной дрессировке, чтобы успешно выполнять роль как компаньона, так и рабочей собаки.",
+    "поведение и характер": "Ранняя социализация и последовательная дрессировка необходимы для управления их независимым характером и обеспечения хороших манер.",
+    "здоровье и профилактика": "Регулярный ветеринарный уход, сбалансированное питание и профилактические меры являются ключевыми для поддержания их здоровья и долголетия.",
+    "груминг и уход": "Требуется минимальный уход за шерстью; избегайте расчесывания, чтобы предотвратить пушистость кудрей. Периодическое смачивание и сушка на воздухе помогают поддерживать внешний вид шерсти.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их возрасту, размеру и уровню активности; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Curly-Coated Retrievers good family pets?",
+      "answer": "Yes, they are affectionate and loyal, making them excellent family companions when properly trained and socialized."
+    },
+    {
+      "question": "How much exercise does a Curly-Coated Retriever need?",
+      "answer": "They require substantial daily exercise, including activities like swimming and fetching, to keep them physically and mentally stimulated."
+    },
+    {
+      "question": "Do Curly-Coated Retrievers shed a lot?",
+      "answer": "They shed moderately; males typically shed once a year, and females twice a year."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "They are intelligent and eager to please but can be independent; consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "What are common health issues in Curly-Coated Retrievers?",
+      "answer": "They may be prone to hip dysplasia, eye conditions, exercise-induced collapse, and certain cancers."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли курчавошерстные ретриверы хорошими семейными питомцами?",
+      "ответ": "Да, они ласковы и преданы, что делает их отличными семейными компаньонами при правильной дрессировке и социализации."
+    },
+    {
+      "вопрос": "Сколько физических нагрузок требуется курчавошерстному ретриверу?",
+      "ответ": "Им необходимы значительные ежедневные физические нагрузки, включая такие активности, как плавание и апортировка, чтобы поддерживать их физическое и умственное состояние."
+    },
+    {
+      "вопрос": "Сильно ли линяют курчавошерстные ретриверы?",
+      "ответ": "Они линяют умеренно; кобели обычно линяют раз в год, а суки — дважды в год."
+    },
+    {
+      "вопрос": "Легко ли поддаются дрессировке курчавошерстные ретриверы?",
+      "ответ": "Они умны и стремятся угодить, но могут быть независимыми; эффективна последовательная дрессировка с положительным подкреплением."
+    },
+    {
+      "вопрос": "Какие распространенные проблемы со здоровьем встречаются у курчавошерстных ретриверов?",
+      "ответ": "Они могут быть склонны к дисплазии тазобедренного сустава, заболеваниям глаз, коллапсу, вызванному физической нагрузкой, и некоторым видам рака."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/curly-coated-retriever",
+    "https://www.webmd.com/pets/dogs/what-to-know-curly-coated-retrievers",
+    "https://www.purina.com/dogs/dog-breeds/curly-coated-retriever",
+    "https://www.westminsterkennelclub.org/breed/curly-coated-retriever/",
+    "https://www.nylabone.com/dog101/curly-coated-retriever",
+    "https://www.akc.org/expert-advice/lifestyle/fun-facts-curly-coated-retriever/",
+    "https://www.thekennelclub.org.uk/breed-standards/gundog/retriever-curly-coated/",
+    "https://www.wisdompanel.com/en-us/dog-breeds/curly-coated-retriever",
+    "https://reagorpethospital.com/client-resources/breed-info/curly-coated-retriever/",
+    "https://www.petinsurancequotes.com/blog/dog-breeds/curly-coated-retriever",
+    "https://www.hillspet.com/dog-care/dog-breeds/curly-coated-retriever",
+    "https://nationalkennelclub.com/wp-content/uploads/2022/03/Curly-Coated-Retriever.pdf",
+    "https://en.wikipedia.org/wiki/Curly-coated_Retriever"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "italian-greyhound",
+  "name": "Italian Greyhound",
+  "full_description": "<p>The Italian Greyhound, the smallest member of the sighthound family, boasts a lineage tracing back over 2,000 years to the Mediterranean basin. Initially bred for hunting small game, they were cherished by nobility across Southern Europe during the Middle Ages and Renaissance, particularly in Italy, which bestowed upon them their name. By the 17th century, they had reached England, where their diminutive size and elegance made them favored companions during the Victorian era. Physically, Italian Greyhounds are slender and graceful, resembling a miniature Greyhound. They stand between 13 to 15 inches tall at the withers and weigh approximately 7 to 14 pounds. Their coat is short, glossy, and fine-textured, coming in various colors except for brindle and black-and-tan patterns, which are disqualifications. The breed's head is long and narrow with a slight stop, and their dark, intelligent eyes convey a keen alertness. Temperamentally, Italian Greyhounds are affectionate and intelligent, forming strong bonds with their families. They are sensitive and may be reserved around strangers, but they are never aggressive. Their playful and gentle nature makes them excellent companions. Historically, they were bred for hunting small game, utilizing their keen sight and speed. Today, they are primarily cherished as loving companions and excel in various canine sports such as agility, obedience, and lure coursing. Notable characteristics include their elegant appearance, affectionate disposition, and adaptability to various living environments.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "7-14 pounds",
+    "height": "13-15 inches",
+    "coat": "short, glossy, fine-textured",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "minimal; occasional brushing",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Italian Greyhounds are affectionate, intelligent, and sensitive dogs that form strong bonds with their families. They are playful and gentle, making them excellent companions.",
+    "with_family": "They are deeply devoted to their family members, often seeking close physical contact and enjoying interactive play.",
+    "with_children": "Generally good with children, especially when socialized early, but their delicate build requires supervision to prevent accidental injury.",
+    "with_other_pets": "They can coexist peacefully with other pets, particularly when raised together, though their sighthound instincts may prompt them to chase smaller animals.",
+    "with_strangers": "May be reserved around strangers, displaying a cautious demeanor without aggression.",
+    "special_traits": [
+      "Affectionate and loyal",
+      "Sensitive to cold temperatures",
+      "High prey drive",
+      "Enjoys burrowing under blankets",
+      "Prone to separation anxiety if left alone for extended periods"
+    ]
+  },
+  "health": {
+    "summary": "Italian Greyhounds are generally healthy but are predisposed to certain conditions due to their slender build and genetic factors.",
+    "common_issues": [
+      "Patellar luxation",
+      "Hip dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Hypothyroidism",
+      "Dental issues"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a balanced diet to prevent obesity",
+      "Provide regular dental care",
+      "Avoid rough play to protect fragile bones",
+      "Annual eye examinations"
+    ],
+    "vet_checkups": "Annually, with additional screenings for eyes and joints as recommended."
+  },
+  "care": {
+    "description": "Italian Greyhounds require attentive care to maintain their health and happiness, including proper nutrition, regular exercise, and protection from extreme temperatures.",
+    "behavior": "They thrive on companionship and may develop separation anxiety if left alone for long periods; providing mental stimulation and social interaction is essential.",
+    "health": "Due to their slender build, they are prone to fractures; handle them gently and avoid situations where they might jump from heights.",
+    "grooming": "Minimal grooming is needed; occasional brushing and regular nail trimming suffice.",
+    "nutrition": "Feed a high-quality diet appropriate for their size and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Italian Greyhounds good apartment dogs?",
+      "answer": "Yes, their small size and moderate activity level make them well-suited for apartment living."
+    },
+    {
+      "question": "Do Italian Greyhounds get along with other dogs?",
+      "answer": "Generally, they are sociable with other dogs, especially when socialized from a young age."
+    },
+    {
+      "question": "Are Italian Greyhounds hypoallergenic?",
+      "answer": "No, they are not considered hypoallergenic, though their short coat may produce less dander than some breeds."
+    },
+    {
+      "question": "How much exercise do Italian Greyhounds need?",
+      "answer": "They require daily walks and playtime but are also content to relax indoors."
+    },
+    {
+      "question": "Do Italian Greyhounds bark a lot?",
+      "answer": "They are not known to be excessive barkers but may alert their owners to unfamiliar sounds or visitors."
+    }
+  ],
+  "sources": [
+    "https://italiangreyhound.org/about-the-italian-greyhound/italian-greyhound-breed-history/",
+    "https://italiangreyhound.org/about-the-italian-greyhound/akc-breed-standard/",
+    "https://www.ukcdogs.com/italian-greyhound",
+    "https://italiangreyhound.org/wp-content/uploads/2023/11/IGCA-Judges-Education-Presentation-2023.pdf",
+    "https://cdn.akc.org/Marketplace/Health-Statement/Italian-Greyhound.pdf"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "shih-tzu",
+  "name": "Shih Tzu",
+  "name_rus": "Ши-тцу",
+  "full_description": "<p>The Shih Tzu, also known as the Chrysanthemum Dog, is a toy breed with a rich history and distinctive appearance. Originating from Tibet, these dogs were bred as companions for Chinese royalty, particularly during the Ming Dynasty. They are believed to be a cross between the Pekingese and Lhasa Apso breeds. Shih Tzus are small, sturdy dogs with a compact body, standing no more than 26.7 cm (10.5 inches) at the withers and weighing between 4 to 7.5 kg (9 to 16 pounds). They possess a broad, round head with a short muzzle, large dark eyes, and a distinctive underbite. Their ears are large and pendant, blending seamlessly with their long, flowing double coat that comes in various colors, including gold, white, and brown. The tail is heavily plumed and carried over the back. Known for their affectionate and outgoing nature, Shih Tzus are friendly, intelligent, and lively, making them excellent companions. They were originally bred solely for companionship and have no working or hunting background. In modern times, they continue to serve as beloved pets worldwide, ranking among the most popular toy breeds. Notable characteristics include their distinctive 'chrysanthemum' facial hair growth pattern and their association with Buddhist mythology, where they are considered sacred and symbolize royalty and bravery.</p>",
+  "full_description_rus": "<p>Ши-тцу, также известные как «собачки-хризантемы», — это декоративная порода с богатой историей и уникальной внешностью. Происходя из Тибета, эти собаки были выведены в качестве компаньонов для китайской знати, особенно во времена династии Мин. Считается, что ши-тцу являются результатом скрещивания пекинесов и лхасских апсо. Ши-тцу — небольшие, крепкие собаки с компактным телосложением, достигающие в холке не более 28 см и весящие от 4,5 до 8 кг. У них широкая, округлая голова с короткой мордой, большими темными глазами и характерным прикусом. Уши большие и висячие, гармонично сочетаются с длинной, шелковистой двойной шерстью, которая бывает различных окрасов, включая золотистый, белый и коричневый. Хвост густо опушен и изящно изогнут над спиной. Известные своей привязанностью и жизнерадостностью, ши-тцу дружелюбны, умны и энергичны, что делает их отличными компаньонами. Изначально выведенные исключительно для общения, они не имеют рабочего или охотничьего прошлого. В современном мире ши-тцу продолжают быть любимыми домашними питомцами, занимая одно из ведущих мест среди декоративных пород. Примечательными чертами являются их уникальный «хризантемный» рисунок роста шерсти на морде и связь с буддийской мифологией, где они считаются священными и символизируют королевскую власть и храбрость.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "4–7.5 kg (9–16 lbs)",
+    "height": "up to 26.7 cm (10.5 inches)",
+    "coat": "long, dense, double-layered",
+    "activity": "low",
+    "trainability": "moderate",
+    "grooming": "daily brushing; regular professional grooming",
+    "lifespan": "10–18 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "4,5–8 кг",
+    "рост": "до 28 см",
+    "шерсть": "длинная, густая, двойная",
+    "активность": "низкая",
+    "обучаемость": "средняя",
+    "уход": "ежедневное расчесывание; регулярный профессиональный груминг",
+    "продолжительность жизни": "10–19 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "affectionate",
+      "playful",
+      "intelligent",
+      "stubborn",
+      "alert"
+    ],
+    "summary": "Shih Tzus are affectionate, playful, and outgoing companions, known for their friendly and lively demeanor.",
+    "with_children": "Generally good with children, displaying patience and gentleness.",
+    "with_family": "They form strong bonds with family members, often seeking attention and affection.",
+    "with_other_pets": "Typically sociable with other pets, especially when socialized from a young age.",
+    "with_strangers": "Friendly towards strangers, though they may be reserved initially."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Ши-тцу — ласковые, игривые и общительные компаньоны, известные своим дружелюбным и жизнерадостным нравом.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, часто ищут внимания и ласки.",
+    "с детьми": "Обычно хорошо ладят с детьми, проявляя терпение и мягкость.",
+    "с другими животными": "Как правило, дружелюбны с другими животными, особенно при ранней социализации.",
+    "с незнакомцами": "Дружелюбны к незнакомцам, хотя могут быть немного сдержанными вначале.",
+    "особые черты": [
+      "ласковые",
+      "игривые",
+      "умные",
+      "упрямые",
+      "бдительные"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "brachycephalic airway syndrome",
+      "eye conditions (e.g., corneal dryness, cataracts)",
+      "hip dysplasia",
+      "patellar luxation",
+      "ear infections"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain healthy weight",
+      "daily grooming to prevent matting",
+      "monitor for signs of respiratory distress",
+      "keep ears clean and dry"
+    ],
+    "summary": "Shih Tzus are generally sturdy but prone to certain health issues due to their physical characteristics.",
+    "vet_checkups": "at least once a year; more frequent for senior dogs"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Ши-тцу в целом крепкие собаки, но склонны к определённым проблемам со здоровьем из-за своих физических особенностей.",
+    "распространённые проблемы": [
+      "брахицефалический синдром дыхательных путей",
+      "глазные заболевания (например, сухость роговицы, катаракта)",
+      "дисплазия тазобедренного сустава",
+      "вывих надколенника",
+      "ушные инфекции"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "поддержание здорового веса",
+      "ежедневный уход за шерстью для предотвращения колтунов",
+      "наблюдение за признаками дыхательных затруднений",
+      "содержание ушей в чистоте и сухости"
+    ],
+    "рекомендуемые осмотры": "не реже одного раза в год; чаще для пожилых собак"
+  },
+  "care": {
+    "behavior": "They thrive on human interaction and can develop separation anxiety if left alone for extended periods.",
+    "description": "Shih Tzus require attentive care, including regular grooming, health monitoring, and companionship.",
+    "grooming": "Daily brushing is essential to prevent matting; regular professional grooming is recommended.",
+    "health": "Due to their brachycephalic nature, they may experience breathing difficulties; avoid strenuous exercise and hot weather.",
+    "nutrition": "Provide a balanced diet appropriate for small breeds; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "поведение и характер": "Они нуждаются в постоянном общении с людьми и могут испытывать тревогу при длительном одиночестве.",
+    "краткое описание ухода": "Ши-тцу требуют внимательного ухода, включая регулярный груминг, контроль здоровья и постоянное общение.",
+    "груминг и уход": "Ежедневное расчесывание необходимо для предотвращения колтунов; рекомендуется регулярный профессиональный груминг.",
+    "здоровье и профилактика": "Из-за брахицефалического строения могут возникать проблемы с дыханием; следует избегать интенсивных нагрузок и жаркой погоды.",
+    "питание и активность": "Обеспечьте сбалансированное питание, подходящее для мелких пород; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Shih Tzus hypoallergenic?",
+      "answer": "No dog is completely hypoallergenic, but Shih Tzus shed minimally, which may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "How often should a Shih Tzu be groomed?",
+      "answer": "Daily brushing is recommended, along with professional grooming every 4–6 weeks."
+    },
+    {
+      "question": "Do Shih Tzus get along with other pets?",
+      "answer": "Yes, they are generally sociable with other pets, especially when socialized early."
+    },
+    {
+      "question": "Are Shih Tzus easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training works best."
+    },
+    {
+      "question": "What is the average lifespan of a Shih Tzu?",
+      "answer": "Shih Tzus typically live between 10 to 18 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли ши-тцу гипоаллергенными?",
+      "ответ": "Полностью гипоаллергенных собак не существует, но ши-тцу мало линяют, что может быть приемлемо для некоторых людей с аллергией."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за шерстью ши-тцу?",
+      "ответ": "Рекомендуется ежедневное расчесывание, а также профессиональный груминг каждые 4–6 недель."
+    },
+    {
+      "вопрос": "Ладят ли ши-тцу с другими животными?",
+      "ответ": "Да, они обычно дружелюбны с другими животными, особенно при ранней социализации."
+    },
+    {
+      "вопрос": "Легко ли дрессировать ши-тцу?",
+      "ответ": "Они умны, но могут быть упрямыми; лучше всего работает последовательная дрессировка с положительным подкреплением."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни ши-тцу?",
+      "ответ": "Ши-тцу обычно живут от 10 до 19 лет."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shih_Tzu",
+    "https://www.purina.com/dogs/dog-breeds/shih-tzu",
+    "https://www.petmd.com/dog/breeds/shih-tzu",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-shih-tzus",
+    "https://www.petco.com/c/common-shih-tzu-health-issues",
+    "https://ru.wikipedia.org/wiki/Ши-тцу",
+    "https://www.proplan.ru/dog/breeds/shi-tcu",
+    "https://www.cesar.ru/porody/shi-tcu/",
+    "https://www.rbc.ru/life/news/6409b4c39a79470fa9dc818f"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "newfoundland",
+  "name": "Newfoundland",
+  "full_description": "<p>The Newfoundland is a large, powerful working dog renowned for its gentle temperament and exceptional swimming abilities. Originating from the Canadian island of Newfoundland, this breed was developed to assist fishermen by hauling nets, pulling carts, and performing water rescues. Their history dates back to the 18th century, where they were indispensable companions to seafarers and settlers. Physically, Newfoundlands are imposing, with males standing 28 inches tall and weighing between 130-150 pounds. They possess a broad chest, muscular build, and a thick, water-resistant double coat that comes in black, brown, gray, and white &amp; black. Their webbed feet and strong tails serve as rudders, enhancing their swimming prowess. Temperamentally, Newfoundlands are gentle, patient, and affectionate, earning them the nickname 'nanny dog' for their protective nature towards children. They are intelligent and eager to please, making them highly trainable. Originally bred for water rescues and heavy labor, their natural swimming ability and strength made them invaluable to fishermen. Today, they continue to serve in water rescue operations and are cherished as loyal family companions. Notable characteristics include their calm demeanor, strong work ethic, and innate rescue instincts, which have saved numerous lives throughout history.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "130-150 pounds (males), 100-120 pounds (females)",
+    "height": "28 inches (males), 26 inches (females)",
+    "coat": "thick, water-resistant double coat; colors include black, brown, gray, and white & black",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing; attention to shedding and drooling",
+    "lifespan": "9-10 years"
+  },
+  "behavior": {
+    "summary": "Newfoundlands are gentle giants known for their calm and affectionate nature, making them excellent family companions and natural protectors.",
+    "with_family": "They are deeply devoted to their families, displaying unwavering loyalty and a protective instinct, especially towards children.",
+    "with_children": "Renowned for their patience and gentleness, Newfoundlands are often referred to as 'nanny dogs' due to their protective nature around children.",
+    "with_other_pets": "Generally sociable with other animals, they coexist well with other pets when properly socialized.",
+    "with_strangers": "Typically friendly and approachable, they may be reserved but are rarely aggressive towards strangers.",
+    "special_traits": [
+      "Exceptional swimming ability",
+      "Natural rescue instincts",
+      "Gentle and patient demeanor",
+      "Strong protective nature",
+      "High intelligence and trainability"
+    ]
+  },
+  "health": {
+    "summary": "Newfoundlands are generally healthy but are predisposed to certain conditions due to their size and genetics.",
+    "common_issues": [
+      "Gastric Dilatation-Volvulus (bloat)",
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Dilated cardiomyopathy",
+      "Osteosarcoma (bone cancer)"
+    ],
+    "prevention_tips": [
+      "Provide a balanced diet to maintain a healthy weight",
+      "Regular, moderate exercise to support joint health",
+      "Routine veterinary check-ups for early detection of health issues",
+      "Consider prophylactic gastropexy to prevent bloat",
+      "Genetic screening for hereditary conditions"
+    ],
+    "vet_checkups": "Semi-annual check-ups are recommended to monitor and maintain overall health."
+  },
+  "care": {
+    "description": "Newfoundlands require dedicated care, including regular grooming, exercise, and health monitoring to ensure their well-being.",
+    "behavior": "Early socialization and consistent training are essential to nurture their gentle nature and prevent potential behavioral issues.",
+    "health": "Monitor for signs of common health issues and maintain a healthy lifestyle to mitigate risks associated with their size.",
+    "grooming": "Regular brushing is necessary to manage shedding and maintain coat health; attention to drooling is also important.",
+    "nutrition": "Provide a balanced diet appropriate for large breeds to support overall health and prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Newfoundlands good with children?",
+      "answer": "Yes, they are known for their gentle and protective nature, making them excellent companions for children."
+    },
+    {
+      "question": "Do Newfoundlands require a lot of exercise?",
+      "answer": "They need moderate exercise to maintain health but are not overly energetic; daily walks and playtime suffice."
+    },
+    {
+      "question": "How much grooming do Newfoundlands need?",
+      "answer": "Regular brushing is essential to manage their thick coat and shedding; they also drool, requiring routine cleaning."
+    },
+    {
+      "question": "Are Newfoundlands easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable with consistent, positive reinforcement."
+    },
+    {
+      "question": "What is the average lifespan of a Newfoundland?",
+      "answer": "They typically live between 9 to 10 years."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/newfoundland",
+    "https://www.akc.org/expert-advice/dog-breeds/newfoundland-history/",
+    "https://www.akc.org/expert-advice/lifestyle/facts-newfoundland/",
+    "https://www.akc.org/expert-advice/news/lifesaving-water-rescue/"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "norwegian-elkhound",
+  "name": "Norwegian Elkhound",
+  "full_description": "<p>The Norwegian Elkhound is a robust and versatile breed with deep roots in Norway's history. As a member of the Spitz family, this medium-sized dog has been integral to Scandinavian culture for centuries. Archaeological findings suggest that ancestors of the Norwegian Elkhound date back to the Viking era, where they served as hunters, guardians, and companions. The breed's primary role was to track and hold large game such as moose (referred to as 'elg' in Norwegian), bears, and wolves at bay, allowing hunters to approach and make the kill. This required immense courage, agility, and stamina, traits that the breed continues to exhibit today. Physically, the Norwegian Elkhound presents a square and compact build, standing approximately 19.5 to 20.5 inches tall at the withers and weighing between 48 to 55 pounds. Their dense double coat is predominantly gray, with variations ranging from light silver to darker shades, and features black-tipped guard hairs. Distinctive markings include a black muzzle, ears, and tail tip, with lighter gray on the chest, mane, and underbelly. The breed's head is broad and wedge-shaped, complemented by dark brown, oval-shaped eyes that exude a keen and friendly expression. Erect, pointed ears and a tightly curled tail carried over the back are hallmark features. Temperamentally, Norwegian Elkhounds are known for their boldness, independence, and loyalty. They form strong bonds with their families and are particularly good with children, often displaying a playful and protective nature. Their independent streak can sometimes pose challenges in training, necessitating consistent, positive reinforcement methods. Historically bred for hunting, they possess a high energy level and require regular physical and mental stimulation to prevent boredom and associated behavioral issues. In contemporary settings, while some Norwegian Elkhounds still participate in hunting activities, many have transitioned into roles as family companions, excelling in various dog sports such as agility, obedience, and tracking. Their friendly disposition and alertness also make them effective watchdogs. Notable characteristics of the breed include their resilience in harsh weather conditions, thanks to their dense coat, and their vocal nature, often using barking to communicate or alert their owners. Their combination of strength, agility, and endurance, coupled with a friendly and loyal temperament, continues to endear them to dog enthusiasts worldwide.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "48-55 pounds",
+    "height": "19.5-20.5 inches",
+    "coat": "dense double coat, predominantly gray with black-tipped guard hairs",
+    "activity": "high",
+    "trainability": "moderate; intelligent but can be independent",
+    "grooming": "regular brushing; increased during shedding seasons",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Norwegian Elkhounds are energetic, loyal, and independent dogs known for their friendly disposition and strong protective instincts.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and affection, and often acting as protective companions.",
+    "with_children": "Generally good with children, they are playful and patient, making them suitable family pets.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets, though their hunting instincts may sometimes surface.",
+    "with_strangers": "They tend to be alert and may be reserved around strangers, often barking to alert their owners of unfamiliar presence.",
+    "special_traits": [
+      "Independent thinker",
+      "Vocal communicator",
+      "High energy levels",
+      "Strong hunting instincts",
+      "Loyal and protective nature"
+    ]
+  },
+  "health": {
+    "summary": "Norwegian Elkhounds are generally healthy but are predisposed to certain genetic conditions that owners should monitor.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Fanconi syndrome",
+      "Sebaceous cysts",
+      "Obesity"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy diet to prevent obesity",
+      "Provide adequate exercise to support joint health",
+      "Regular eye examinations to detect early signs of PRA",
+      "Monitor for skin abnormalities and consult a vet if cysts develop"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits for senior dogs or those with health issues"
+  },
+  "care": {
+    "description": "Norwegian Elkhounds require consistent care, including regular exercise, grooming, and health monitoring to ensure their well-being.",
+    "behavior": "Due to their independent nature, consistent training with positive reinforcement is essential; they thrive on mental and physical challenges.",
+    "health": "Regular veterinary visits are crucial to monitor for breed-specific health issues; maintaining a healthy weight is particularly important.",
+    "grooming": "Brush their dense coat several times a week, increasing frequency during shedding seasons; bathe only when necessary to preserve natural oils.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Norwegian Elkhounds good with children?",
+      "answer": "Yes, they are generally good with children, displaying a playful and patient nature, making them suitable family pets."
+    },
+    {
+      "question": "How much exercise does a Norwegian Elkhound need?",
+      "answer": "They require at least an hour of exercise daily, including walks, playtime, or other physical activities to keep them mentally and physically stimulated."
+    },
+    {
+      "question": "Do Norwegian Elkhounds shed a lot?",
+      "answer": "Yes, they shed moderately year-round and experience heavy shedding twice a year; regular brushing helps manage this."
+    },
+    {
+      "question": "Are Norwegian Elkhounds easy to train?",
+      "answer": "They are intelligent but have an independent streak, which can make training challenging; consistent, positive reinforcement methods are recommended."
+    },
+    {
+      "question": "What is the lifespan of a Norwegian Elkhound?",
+      "answer": "They typically live between 12 to 15 years with proper care and a healthy lifestyle."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/conformation-breed-standards/norwegian-elkhound",
+    "https://www.akc.org/wp-content/uploads/2021/12/2021-NOC-RNC-Catalog.pdf",
+    "https://en.wikipedia.org/wiki/Norwegian_Elkhound",
+    "https://www.petmd.com/dog/breeds/c_dg_norwegian_elkhound",
+    "https://www.webmd.com/pets/dogs/what-to-know-norwegian-elkhounds",
+    "https://vcahospitals.com/know-your-pet/norwegian-elkhound",
+    "https://www.embracepetinsurance.com/dog-breeds/norwegian-elkhound",
+    "https://www.care.com/family-pet-guide-dogs-hounds-norwegian-elkhound-p1104-q168387.html"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "bichon-frise",
+  "name": "Bichon Frise",
+  "full_description": "<p>The Bichon Frise is a small, cheerful dog breed known for its distinctive white, curly coat and affectionate nature. Originating from the Mediterranean region, the breed's history dates back to at least the 13th century. Sailors are believed to have introduced these dogs to Europe, where they became favorites among the nobility in Spain, Italy, and France. The breed's name, 'Bichon Frise,' translates from French to 'curly lap dog,' reflecting its primary role as a companion animal. Physically, the Bichon Frise stands between 9.5 to 11.5 inches tall at the shoulders and weighs approximately 12 to 18 pounds. Its plush, double-layered coat is always white, with a soft undercoat and a curly outer coat that gives it a powder-puff appearance. The breed's dark, round eyes and black nose contribute to its alert and friendly expression. Temperamentally, Bichons are gentle, playful, and affectionate. They thrive on human companionship and are known for their sociable nature, making them excellent family pets. Their intelligence and eagerness to please facilitate training, though they can exhibit a stubborn streak. Historically, the Bichon Frise served primarily as a companion dog, delighting European aristocracy with its charm and companionship. In modern times, the breed continues to excel as a family pet and has also found roles in therapy work due to its friendly disposition. Notable characteristics of the Bichon Frise include its hypoallergenic coat, which sheds minimally, making it suitable for allergy sufferers. Additionally, the breed's lively personality and adaptability make it well-suited for various living environments, from apartments to larger homes.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "12-18 lbs (5.4-8.2 kg)",
+    "height": "9.5-11.5 inches (24-29 cm)",
+    "coat": "medium length, silky with corkscrew curls",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "daily brushing; professional grooming every 4-6 weeks",
+    "lifespan": "14-15 years"
+  },
+  "behavior": {
+    "summary": "The Bichon Frise is a cheerful, affectionate, and playful breed that thrives on human companionship and enjoys social interactions.",
+    "with_family": "Bichons are deeply devoted to their families, forming strong bonds and often following family members around the home.",
+    "with_children": "They are gentle and playful with children, making them excellent companions for families with kids.",
+    "with_other_pets": "Generally sociable with other pets, Bichons can coexist peacefully with other dogs and cats when properly introduced.",
+    "with_strangers": "Friendly and approachable, Bichons typically greet strangers with enthusiasm, making them poor guard dogs but excellent companions.",
+    "special_traits": [
+      "Highly sociable",
+      "Playful and energetic",
+      "Intelligent and trainable",
+      "Minimal shedding",
+      "Adaptable to various living environments"
+    ]
+  },
+  "health": {
+    "summary": "Bichon Frises are generally healthy but are prone to certain conditions such as allergies, dental issues, and eye problems.",
+    "common_issues": [
+      "Allergies",
+      "Dental disease",
+      "Cataracts",
+      "Bladder stones",
+      "Diabetes mellitus"
+    ],
+    "prevention_tips": [
+      "Regular grooming to prevent skin issues",
+      "Daily dental care to maintain oral health",
+      "Routine eye examinations",
+      "Balanced diet to prevent obesity",
+      "Regular exercise to maintain overall health"
+    ],
+    "vet_checkups": "Annual checkups; bi-annual for senior dogs"
+  },
+  "care": {
+    "description": "Bichon Frises require attentive care, including regular grooming, exercise, and health monitoring to ensure a happy and healthy life.",
+    "behavior": "Engage in daily play and social activities to satisfy their energetic and sociable nature.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits for preventive care.",
+    "grooming": "Daily brushing and professional grooming every 4-6 weeks are essential to maintain their coat and prevent matting.",
+    "nutrition": "Provide a balanced diet appropriate for their size and activity level, avoiding overfeeding to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Bichon Frises hypoallergenic?",
+      "answer": "Yes, their minimal shedding makes them suitable for some allergy sufferers."
+    },
+    {
+      "question": "How often should a Bichon Frise be groomed?",
+      "answer": "Daily brushing and professional grooming every 4-6 weeks are recommended."
+    },
+    {
+      "question": "Are Bichon Frises good with children?",
+      "answer": "Yes, they are gentle and playful, making them excellent companions for children."
+    },
+    {
+      "question": "Do Bichon Frises require a lot of exercise?",
+      "answer": "They have moderate energy levels and benefit from daily walks and playtime."
+    },
+    {
+      "question": "What is the average lifespan of a Bichon Frise?",
+      "answer": "They typically live between 14 to 15 years."
+    }
+  ],
+  "sources": [
+    "https://www.purina.com/dogs/dog-breeds/bichon-frise",
+    "https://www.akc.org/expert-advice/dog-breeds/bichon-frise/",
+    "https://www.petmd.com/dog/breeds/bichon-frise",
+    "https://en.wikipedia.org/wiki/Bichon_Fris%C3%A9",
+    "https://www.petco.com/content/content-hub/home/breeds/dog-breeds/bichon-frise.html"
+  ]
+}

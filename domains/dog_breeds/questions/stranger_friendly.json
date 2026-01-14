@@ -1,0 +1,84 @@
+{
+  "need_id": "stranger_friendly",
+  "formula": "stranger_friendly",
+  "formula_reasoning": "Для пользователей, которым важно, чтобы собака была дружелюбна к незнакомцам, критически важна именно характеристика породы 'stranger_friendly'. Она напрямую отражает склонность собаки положительно реагировать на новых людей.",
+  "questions": [
+    {
+      "id": "stranger_friendly_q1",
+      "text": "К вам часто приходят гости или новые люди в дом?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = высокая вероятность контакта с незнакомцами, нужна дружелюбная собака. Нет = редкие контакты, можно рассматривать менее открытую к чужим породу."
+    },
+    {
+      "id": "stranger_friendly_q2",
+      "text": "Вам важно, чтобы собака спокойно реагировала на незнакомцев?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = требуется спокойная/дружелюбная к чужим собака. Нет = реакция на незнакомцев не принципиальна."
+    },
+    {
+      "id": "stranger_friendly_q3",
+      "text": "Вы планируете брать собаку с собой в общественные места, где будет много посторонних?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = собака часто сталкивается с незнакомцами, нужна открытая к людям порода. Нет = мало контактов, этот фактор не так важен."
+    },
+    {
+      "id": "stranger_friendly_q4",
+      "text": "У вас есть дети, которые часто приводят к вам друзей домой?",
+      "weight": 0.6,
+      "style": "situational",
+      "verification": "Да = много новых людей, лучше дружелюбная к чужим собака. Нет = детей или их друзей нет, этот фактор менее значим."
+    },
+    {
+      "id": "stranger_friendly_q5",
+      "text": "Вам комфортнее, если собака легко идёт на контакт с новыми людьми?",
+      "weight": 0.8,
+      "style": "indirect",
+      "verification": "Да = предпочтение к открытым собакам, склонным к дружелюбию. Нет = общительность собаки с чужими не важна."
+    }
+  ],
+  "need_name": "Stranger Friendly",
+  "need_description": "Friendly toward strangers",
+  "block": "family_social",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

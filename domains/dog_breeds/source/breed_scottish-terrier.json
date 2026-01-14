@@ -1,0 +1,82 @@
+{
+  "id": "scottish-terrier",
+  "name": "Scottish Terrier",
+  "full_description": "<p>The Scottish Terrier, affectionately known as the 'Scottie,' is a breed with a rich heritage originating from Scotland. Developed in the 19th century, these dogs were bred for hunting vermin and small game, showcasing their tenacity and determination. Physically, Scotties are small, compact, and sturdy, standing about 10 inches tall and weighing between 19 to 23 pounds. They possess a distinctive long head, erect ears, and a dense, wiry double coat that comes in colors such as black, wheaten, or brindle. Their expression is keen and intelligent, reflecting their alert nature. Temperamentally, Scottish Terriers are known for their boldness, independence, and loyalty. They are dignified and reserved, yet courageous and highly intelligent. Originally bred for hunting, they exhibit strong working abilities and a natural instinct to chase and dig. In modern times, Scotties have transitioned into beloved companions, valued for their unique character and appearance. Notable characteristics include their distinctive silhouette, confident demeanor, and unwavering devotion to their families.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "19-23 pounds (8.5-10.5 kg)",
+    "height": "10 inches (25-28 cm)",
+    "coat": "dense, wiry double coat",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "regular brushing; professional grooming recommended",
+    "lifespan": "11-13 years"
+  },
+  "behavior": {
+    "summary": "Scottish Terriers are bold, independent, and loyal dogs with a dignified demeanor. They are intelligent and courageous, making them excellent companions for those who appreciate their unique character.",
+    "with_family": "Scotties are deeply devoted to their families, forming strong bonds and often becoming particularly attached to one person.",
+    "with_children": "They can be good with children, especially when raised together, but their independent nature means interactions should be supervised.",
+    "with_other_pets": "Scotties may exhibit a strong prey drive, making them less compatible with smaller pets. Early socialization is key.",
+    "with_strangers": "They tend to be reserved around strangers, often displaying a cautious or aloof attitude until trust is established.",
+    "special_traits": [
+      "Independent and strong-willed",
+      "Loyal and protective",
+      "Alert and vigilant",
+      "Courageous and confident",
+      "Intelligent with a keen expression"
+    ]
+  },
+  "health": {
+    "summary": "Scottish Terriers are generally healthy but are predisposed to certain conditions. Regular veterinary care and a healthy lifestyle can help mitigate potential health issues.",
+    "common_issues": [
+      "Bladder cancer",
+      "Von Willebrand's disease",
+      "Scottie cramp",
+      "Patellar luxation",
+      "Skin allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Balanced diet and regular exercise",
+      "Avoid exposure to pesticides and herbicides",
+      "Monitor for signs of skin issues",
+      "Genetic testing for hereditary conditions"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health concerns."
+  },
+  "care": {
+    "description": "Scottish Terriers require attentive care to maintain their health and well-being, including regular grooming, exercise, and health monitoring.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature and prevent behavioral issues.",
+    "health": "Regular veterinary visits and preventive care are crucial to address breed-specific health concerns.",
+    "grooming": "Their dense, wiry coat requires regular brushing and professional grooming to prevent matting and maintain its characteristic texture.",
+    "nutrition": "A balanced diet tailored to their size and activity level helps maintain optimal health and weight."
+  },
+  "faq": [
+    {
+      "question": "Are Scottish Terriers good with children?",
+      "answer": "Yes, with proper socialization, they can be good with children, but interactions should be supervised due to their independent nature."
+    },
+    {
+      "question": "Do Scottish Terriers shed a lot?",
+      "answer": "No, they shed minimally, but their coat requires regular grooming to maintain its condition."
+    },
+    {
+      "question": "Are Scottish Terriers easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training works best."
+    },
+    {
+      "question": "How much exercise do Scottish Terriers need?",
+      "answer": "Moderate daily exercise, such as walks and playtime, is sufficient to keep them healthy and happy."
+    },
+    {
+      "question": "Do Scottish Terriers get along with other pets?",
+      "answer": "They may have a strong prey drive; early socialization is important to promote harmony with other pets."
+    }
+  ],
+  "sources": [
+    "https://www.thekennelclub.org.uk/breed-standards/terrier/scottish-terrier/",
+    "https://www.westminsterkennelclub.org/breed/scottish-terrier/",
+    "https://stca.biz/about-the-breed/breed-standard/",
+    "https://oxfordlabs.com/owners-and-breeders/how-common-thyroid-disease-my-breed/terrier/scottish-terrier"
+  ]
+}

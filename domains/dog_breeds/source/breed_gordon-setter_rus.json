@@ -1,0 +1,155 @@
+{
+  "id": "gordon-setter",
+  "name": "Gordon Setter",
+  "name_rus": "Гордон-сеттер",
+  "full_description": "<p>The Gordon Setter, originating from Scotland in the early 17th century, was developed primarily for hunting game birds such as partridge, grouse, pheasant, and quail. The breed was named after the 4th Duke of Gordon, who played a significant role in refining and promoting these dogs. Initially known as the black-and-tan setter, the breed was officially recognized as the Gordon Setter in 1924 by Britain's Kennel Club. Physically, the Gordon Setter is the largest of the setter breeds, with males standing between 24 to 27 inches tall and weighing 55 to 80 pounds, while females are slightly smaller. They possess a sturdy, well-muscled build, a deep chest, and a level topline. Their coat is medium-length, straight or slightly wavy, predominantly black with rich chestnut or mahogany markings. The feathering on their ears, chest, belly, and tail adds to their elegant appearance. Temperamentally, Gordon Setters are intelligent, bold, and outgoing. They are known for their loyalty and affectionate nature towards their families. While they can be reserved with strangers, they are not aggressive. Their strong hunting instincts make them alert and responsive. Originally bred as bird dogs, Gordon Setters excelled in locating and retrieving game. Their stamina and keen sense of smell made them invaluable to hunters. In modern times, while they still participate in hunting and field trials, they have also become cherished family companions and perform well in various dog sports, including obedience and agility. Notable characteristics of the breed include their distinctive black-and-tan coloration, exceptional memory, and a youthful spirit that often lasts well into their senior years.</p>",
+  "full_description_rus": "<p>Гордон-сеттер, известный также как шотландский сеттер, был выведен в Шотландии в начале XVII века для охоты на птиц, таких как куропатки, тетерева, фазаны и перепела. Порода получила своё название в честь 4-го герцога Гордона, сыгравшего ключевую роль в её развитии и популяризации. Изначально известная как черно-подпалая легавая, порода была официально признана как гордон-сеттер в 1924 году Британским кинологическим клубом. Физически гордон-сеттер является крупнейшим среди сеттеров: кобели достигают роста от 61 до 69 см и весят от 25 до 36 кг, суки немного меньше. Они обладают крепким, мускулистым телосложением, глубокой грудью и ровной линией верха. Шерсть средней длины, прямая или слегка волнистая, преимущественно черная с насыщенными каштановыми или махаоновыми отметинами. Украшающие очёсы на ушах, груди, животе и хвосте придают им элегантный вид. По характеру гордон-сеттеры умны, смелы и общительны. Они известны своей преданностью и привязанностью к семье. Хотя могут быть сдержанными с незнакомцами, агрессия для них не характерна. Сильные охотничьи инстинкты делают их бдительными и отзывчивыми. Изначально выведенные как птичьи собаки, гордон-сеттеры отлично справлялись с поиском и подачей дичи. Их выносливость и острое чутьё были незаменимы для охотников. В современное время, помимо участия в охоте и полевых испытаниях, они стали любимыми семейными компаньонами и успешно выступают в различных собачьих видах спорта, включая послушание и аджилити. Отличительными чертами породы являются их характерный черно-подпалый окрас, исключительная память и молодая энергия, сохраняющаяся до преклонных лет.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "55-80 pounds (25-36 kg)",
+    "height": "24-27 inches (61-69 cm)",
+    "coat": "medium-length, straight or slightly wavy, black with rich chestnut or mahogany markings",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; more than once a week",
+    "lifespan": "over 10 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "25-36 кг",
+    "рост": "61-69 см",
+    "шерсть": "средней длины, прямая или слегка волнистая, черная с насыщенными каштановыми или махаоновыми отметинами",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "регулярное вычесывание; более одного раза в неделю",
+    "продолжительность жизни": "более 10 лет"
+  },
+  "behavior": {
+    "summary": "Gordon Setters are intelligent, loyal, and affectionate dogs with a strong hunting instinct. They are energetic and require regular mental and physical stimulation.",
+    "with_family": "They form strong bonds with their families and are known for their devotion and loyalty.",
+    "with_children": "Generally good with children, especially when raised together, displaying patience and playfulness.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though their hunting instincts may lead them to chase smaller animals.",
+    "with_strangers": "May be reserved around strangers but are not typically aggressive.",
+    "special_traits": [
+      "Intelligent and trainable",
+      "Energetic with high stamina",
+      "Affectionate and loyal",
+      "Strong hunting instincts",
+      "Youthful spirit into senior years"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Гордон-сеттеры — умные, преданные и ласковые собаки с сильным охотничьим инстинктом. Они энергичны и нуждаются в регулярной умственной и физической стимуляции.",
+    "с семьёй": "Они формируют крепкие связи со своими семьями и известны своей преданностью и лояльностью.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно если выросли вместе, проявляя терпение и игривость.",
+    "с другими животными": "Могут сосуществовать с другими питомцами при правильной социализации, хотя их охотничьи инстинкты могут побуждать их преследовать мелких животных.",
+    "с незнакомцами": "Могут быть сдержанными с незнакомцами, но обычно не агрессивны.",
+    "особые черты": [
+      "Умные и обучаемые",
+      "Энергичные с высокой выносливостью",
+      "Ласковые и преданные",
+      "Сильные охотничьи инстинкты",
+      "Молодой дух до преклонных лет"
+    ]
+  },
+  "health": {
+    "summary": "Gordon Setters are generally healthy but can be prone to certain genetic conditions. Regular veterinary care and a healthy lifestyle are essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy",
+      "Hypothyroidism",
+      "Bloat (gastric torsion)"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine eye examinations",
+      "Balanced diet",
+      "Avoiding rapid eating to prevent bloat"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Гордон-сеттеры в целом здоровы, но могут быть склонны к определённым генетическим заболеваниям. Регулярный ветеринарный уход и здоровый образ жизни необходимы.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Прогрессирующая атрофия сетчатки",
+      "Гипотиреоз",
+      "Вздутие живота (желудочная торсия)"
+    ],
+    "советы по профилактике": [
+      "Регулярные физические нагрузки для поддержания здорового веса",
+      "Плановые осмотры глаз",
+      "Сбалансированное питание",
+      "Избегание быстрого поедания пищи для предотвращения вздутия"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "description": "Gordon Setters require regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "behavior": "They thrive on companionship and should not be left alone for extended periods. Engaging them in activities like fetch or agility can be beneficial.",
+    "health": "Monitor for signs of common health issues and maintain a regular schedule of veterinary checkups.",
+    "grooming": "Brush their coat more than once a week to prevent matting and remove debris. Regular ear checks are also important.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level. Monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Гордон-сеттеры требуют регулярных физических нагрузок, умственной стимуляции и ухода за шерстью для поддержания их здоровья и счастья.",
+    "поведение и характер": "Они нуждаются в компании и не должны оставаться одни на длительное время. Участие в таких занятиях, как апортировка или аджилити, может быть полезным.",
+    "здоровье и профилактика": "Следите за признаками распространённых проблем со здоровьем и поддерживайте регулярный график ветеринарных осмотров.",
+    "груминг и уход": "Вычёсывайте их шерсть более одного раза в неделю, чтобы предотвратить образование колтунов и удалить мусор. Регулярные проверки ушей также важны.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их возрасту, размеру и уровню активности. Контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Gordon Setters good family pets?",
+      "answer": "Yes, they are loyal and affectionate, making them excellent companions for active families."
+    },
+    {
+      "question": "How much exercise does a Gordon Setter need?",
+      "answer": "They require more than 2 hours of exercise per day to stay healthy and happy."
+    },
+    {
+      "question": "Do Gordon Setters shed a lot?",
+      "answer": "Yes, they do shed and require regular grooming to manage their coat."
+    },
+    {
+      "question": "Are Gordon Setters easy to train?",
+      "answer": "Yes, they are intelligent and respond well to consistent, positive training methods."
+    },
+    {
+      "question": "What is the lifespan of a Gordon Setter?",
+      "answer": "They typically live over 10 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Гордон-сеттеры подходят для семей?",
+      "ответ": "Да, они преданные и ласковые, что делает их отличными компаньонами для активных семей."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется гордон-сеттеру?",
+      "ответ": "Им требуется более 2 часов физических нагрузок в день для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Гордон-сеттеры сильно линяют?",
+      "ответ": "Да, они линяют и требуют регулярного ухода за шерстью."
+    },
+    {
+      "вопрос": "Гордон-сеттеры легко поддаются дрессировке?",
+      "ответ": "Да, они умны и хорошо реагируют на последовательные, позитивные методы обучения."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни гордон-сеттера?",
+      "ответ": "При надлежащем уходе они обычно живут более 10 лет."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/gordon-setter-history/",
+    "https://www.thekennelclub.org.uk/breed-standards/gundog/gordon-setter/",
+    "https://www.akc.org/expert-advice/lifestyle/things-didnt-know-gordon-setter/",
+    "https://www.akc.org/expert-advice/sports/kathy-hubbard-akc-rally-national-championship/",
+    "https://royalcanin.ru/dog-breed/gordon-setter",
+    "https://www.pedigree.ru/porody/gordon-setter",
+    "https://www.purina.ru/find-a-pet/dog-breeds/shotlandskiy-setter",
+    "https://ru.wikipedia.org/wiki/Шотландский_сеттер"
+  ]
+}

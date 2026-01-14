@@ -1,0 +1,440 @@
+{
+  "description": "User needs/axes - the user space basis for matching preferences to breeds",
+  "note": "Each axis represented as vector (t, f) where t=true intensity, f=false intensity",
+  "axis_types": ["desire", "prohibition", "contextual_fact", "environment_constraint"],
+  "formula_syntax": {
+    "operators": {
+      "&": "AND (conjunction) - min(x1, x2, ...)",
+      "|": "OR (disjunction) - max(x1, x2, ...)",
+      "~": "NOT (negation) - 1 - x"
+    },
+    "format": "CNF - Conjunctive Normal Form: clause1 & clause2 & ... where clause = literal | (lit1 | lit2 | ...)",
+    "variables": "Object feature identifiers from object_features.json"
+  },
+  "needs": [
+    {
+      "id": "low_shedding",
+      "block": "health_allergies",
+      "block_order": 1,
+      "name": "Low Shedding",
+      "description": "Minimal shedding / hair in the house",
+      "formula": "~shedding"
+    },
+    {
+      "id": "hypoallergenic",
+      "block": "health_allergies",
+      "block_order": 2,
+      "name": "Hypoallergenic",
+      "description": "Minimal allergenicity",
+      "formula": "~shedding & ~dander_level"
+    },
+    {
+      "id": "low_smell",
+      "block": "health_allergies",
+      "block_order": 3,
+      "name": "Low Smell",
+      "description": "Minimal odor",
+      "formula": "~odor_level"
+    },
+    {
+      "id": "health_robust",
+      "block": "health_allergies",
+      "block_order": 4,
+      "name": "Health Robust",
+      "description": "Robust breed health",
+      "formula": "health_robustness"
+    },
+    {
+      "id": "low_vet_costs",
+      "block": "health_allergies",
+      "block_order": 5,
+      "name": "Low Vet Costs",
+      "description": "Low expected veterinary expenses",
+      "formula": "health_robustness | ~genetic_risk"
+    },
+    {
+      "id": "apartment_compatible",
+      "block": "housing_environment",
+      "block_order": 6,
+      "name": "Apartment Compatible",
+      "description": "Suitable for apartment living",
+      "formula": "apartment_ok & ~barking"
+    },
+    {
+      "id": "small_space_ok",
+      "block": "housing_environment",
+      "block_order": 7,
+      "name": "Small Space OK",
+      "description": "Comfortable in limited space",
+      "formula": "size_toy | size_small"
+    },
+    {
+      "id": "low_barking",
+      "block": "housing_environment",
+      "block_order": 8,
+      "name": "Low Barking",
+      "description": "Rarely barks",
+      "formula": "~barking"
+    },
+    {
+      "id": "urban_tolerant",
+      "block": "housing_environment",
+      "block_order": 9,
+      "name": "Urban Tolerant",
+      "description": "Comfortable in urban environment",
+      "formula": "~reactivity | noise_tolerance"
+    },
+    {
+      "id": "yard_independent",
+      "block": "housing_environment",
+      "block_order": 10,
+      "name": "Yard Independent",
+      "description": "Does not require constant yard access",
+      "formula": "~exercise_need"
+    },
+    {
+      "id": "tolerates_daily_absence",
+      "block": "daily_schedule",
+      "block_order": 11,
+      "name": "Tolerates Daily Absence",
+      "description": "Tolerates daily solitude",
+      "formula": "alone_tolerance"
+    },
+    {
+      "id": "low_separation_anxiety",
+      "block": "daily_schedule",
+      "block_order": 12,
+      "name": "Low Separation Anxiety",
+      "description": "Low risk of separation anxiety",
+      "formula": "~separation_anxiety_risk"
+    },
+    {
+      "id": "sitter_compatible",
+      "block": "daily_schedule",
+      "block_order": 13,
+      "name": "Sitter Compatible",
+      "description": "Easily stays with other people",
+      "formula": "sitter_compatibility"
+    },
+    {
+      "id": "travel_flexible",
+      "block": "daily_schedule",
+      "block_order": 14,
+      "name": "Travel Flexible",
+      "description": "Suitable for owners who travel",
+      "formula": "sitter_compatibility & adaptability"
+    },
+    {
+      "id": "child_friendly",
+      "block": "family_social",
+      "block_order": 15,
+      "name": "Child Friendly",
+      "description": "Safe and comfortable with children",
+      "formula": "child_friendly"
+    },
+    {
+      "id": "pet_friendly",
+      "block": "family_social",
+      "block_order": 16,
+      "name": "Pet Friendly",
+      "description": "Gets along with other animals",
+      "formula": "pet_friendly"
+    },
+    {
+      "id": "stranger_friendly",
+      "block": "family_social",
+      "block_order": 17,
+      "name": "Stranger Friendly",
+      "description": "Friendly toward strangers",
+      "formula": "stranger_friendly"
+    },
+    {
+      "id": "not_overprotective",
+      "block": "family_social",
+      "block_order": 18,
+      "name": "Not Overprotective",
+      "description": "Not prone to excessive guarding",
+      "formula": "~protectiveness"
+    },
+    {
+      "id": "low_reactivity",
+      "block": "behavior_character",
+      "block_order": 19,
+      "name": "Low Reactivity",
+      "description": "Calm response to stimuli",
+      "formula": "~reactivity"
+    },
+    {
+      "id": "emotionally_stable",
+      "block": "behavior_character",
+      "block_order": 20,
+      "name": "Emotionally Stable",
+      "description": "Predictable temperament",
+      "formula": "~stress_sensitivity"
+    },
+    {
+      "id": "affectionate",
+      "block": "behavior_character",
+      "block_order": 21,
+      "name": "Affectionate",
+      "description": "Contact-oriented, human-focused",
+      "formula": "affection_level"
+    },
+    {
+      "id": "independent_ok",
+      "block": "behavior_character",
+      "block_order": 22,
+      "name": "Independent OK",
+      "description": "Independence is acceptable",
+      "formula": "independence"
+    },
+    {
+      "id": "playful",
+      "block": "behavior_character",
+      "block_order": 23,
+      "name": "Playful",
+      "description": "Playful nature",
+      "formula": "playfulness"
+    },
+    {
+      "id": "low_energy",
+      "block": "activity_lifestyle",
+      "block_order": 24,
+      "name": "Low Energy",
+      "description": "Low activity requirements",
+      "formula": "~energy"
+    },
+    {
+      "id": "high_energy",
+      "block": "activity_lifestyle",
+      "block_order": 25,
+      "name": "High Energy",
+      "description": "High activity is desirable",
+      "formula": "energy"
+    },
+    {
+      "id": "needs_long_walks_ok",
+      "block": "activity_lifestyle",
+      "block_order": 26,
+      "name": "Long Walks OK",
+      "description": "Suitable if long walks are needed",
+      "formula": "exercise_need"
+    },
+    {
+      "id": "mental_stimulation_ok",
+      "block": "activity_lifestyle",
+      "block_order": 27,
+      "name": "Mental Stimulation OK",
+      "description": "Ready for intellectual engagement",
+      "formula": "mental_stimulation"
+    },
+    {
+      "id": "easy_to_train",
+      "block": "training_management",
+      "block_order": 28,
+      "name": "Easy to Train",
+      "description": "Easily trainable",
+      "formula": "trainability"
+    },
+    {
+      "id": "first_time_friendly",
+      "block": "training_management",
+      "block_order": 29,
+      "name": "First Time Friendly",
+      "description": "Suitable for first-time owners",
+      "formula": "trainability"
+    },
+    {
+      "id": "complex_training_ok",
+      "block": "training_management",
+      "block_order": 30,
+      "name": "Complex Training OK",
+      "description": "Complex training is acceptable",
+      "formula": "trainability & working_drive"
+    },
+    {
+      "id": "behavior_management_easy",
+      "block": "training_management",
+      "block_order": 31,
+      "name": "Behavior Management Easy",
+      "description": "Does not require complex behavior correction",
+      "formula": "~behavior_management_need"
+    },
+    {
+      "id": "companion_role",
+      "block": "purpose_role",
+      "block_order": 32,
+      "name": "Companion Role",
+      "description": "Companion for living alongside",
+      "formula": "affection_level"
+    },
+    {
+      "id": "guard_role",
+      "block": "purpose_role",
+      "block_order": 33,
+      "name": "Guard Role",
+      "description": "Territory/home protection",
+      "formula": "protectiveness"
+    },
+    {
+      "id": "sport_work_role",
+      "block": "purpose_role",
+      "block_order": 34,
+      "name": "Sport/Work Role",
+      "description": "Sport or working tasks",
+      "formula": "working_drive"
+    },
+    {
+      "id": "hunting_role",
+      "block": "purpose_role",
+      "block_order": 35,
+      "name": "Hunting Role",
+      "description": "Hunting purposes",
+      "formula": "prey_drive & hunting_instinct"
+    },
+    {
+      "id": "small_size",
+      "block": "size_constraints",
+      "block_order": 36,
+      "name": "Small Size",
+      "description": "Small size required",
+      "formula": "size_toy | size_small"
+    },
+    {
+      "id": "medium_size",
+      "block": "size_constraints",
+      "block_order": 37,
+      "name": "Medium Size",
+      "description": "Medium size required",
+      "formula": "size_medium"
+    },
+    {
+      "id": "large_size_ok",
+      "block": "size_constraints",
+      "block_order": 38,
+      "name": "Large Size OK",
+      "description": "Large size is acceptable",
+      "formula": "size_large | size_giant"
+    },
+    {
+      "id": "low_drooling",
+      "block": "health_allergies",
+      "block_order": 6,
+      "name": "Low Drooling",
+      "description": "Minimal drooling/slobber",
+      "formula": "~drooling"
+    },
+    {
+      "id": "low_grooming",
+      "block": "health_allergies",
+      "block_order": 7,
+      "name": "Low Grooming",
+      "description": "Minimal grooming requirements",
+      "formula": "~grooming"
+    },
+    {
+      "id": "long_lifespan",
+      "block": "health_allergies",
+      "block_order": 8,
+      "name": "Long Lifespan",
+      "description": "Longer expected lifespan",
+      "formula": "lifespan_long | lifespan_very_long"
+    },
+    {
+      "id": "manageable_strength",
+      "block": "size_constraints",
+      "block_order": 39,
+      "name": "Manageable Strength",
+      "description": "Not too strong to handle (important for elderly/children)",
+      "formula": "~physical_strength"
+    },
+    {
+      "id": "not_dominant",
+      "block": "behavior_character",
+      "block_order": 24,
+      "name": "Not Dominant",
+      "description": "Low dominance tendency (easier for first-time owners)",
+      "formula": "~dominance"
+    },
+    {
+      "id": "heat_tolerant",
+      "block": "housing_environment",
+      "block_order": 11,
+      "name": "Heat Tolerant",
+      "description": "Tolerates hot weather well",
+      "formula": "heat_tolerance"
+    },
+    {
+      "id": "cold_tolerant",
+      "block": "housing_environment",
+      "block_order": 12,
+      "name": "Cold Tolerant",
+      "description": "Tolerates cold weather well",
+      "formula": "cold_tolerance"
+    },
+    {
+      "id": "therapy_role",
+      "block": "purpose_role",
+      "block_order": 36,
+      "name": "Therapy/Emotional Support",
+      "description": "Suitable for emotional support or therapy role",
+      "formula": "therapy_suitability"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "health_allergies",
+      "order": 1,
+      "name": "Health, Allergies, Physiology",
+      "description": "Not preferences but user facts - critical axes"
+    },
+    {
+      "id": "housing_environment",
+      "order": 2,
+      "name": "Housing and Physical Environment",
+      "description": "Living context - one of the strongest filters"
+    },
+    {
+      "id": "daily_schedule",
+      "order": 3,
+      "name": "Daily Schedule and Owner Absence",
+      "description": "One of the key failure zones in reality"
+    },
+    {
+      "id": "family_social",
+      "order": 4,
+      "name": "Family and Social Environment",
+      "description": "Family composition and social context"
+    },
+    {
+      "id": "behavior_character",
+      "order": 5,
+      "name": "Behavior and Character",
+      "description": "What user often feels as 'fits / does not fit'"
+    },
+    {
+      "id": "activity_lifestyle",
+      "order": 6,
+      "name": "Activity and Lifestyle",
+      "description": "Activity level preferences"
+    },
+    {
+      "id": "training_management",
+      "order": 7,
+      "name": "Training and Management",
+      "description": "Critical for first-time vs experienced match"
+    },
+    {
+      "id": "purpose_role",
+      "order": 8,
+      "name": "Purpose / Role",
+      "description": "Intended role for the dog"
+    },
+    {
+      "id": "size_constraints",
+      "order": 9,
+      "name": "Size and Physical Constraints",
+      "description": "Size preferences and limitations"
+    }
+  ]
+}

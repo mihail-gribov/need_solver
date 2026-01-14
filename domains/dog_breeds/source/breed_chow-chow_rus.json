@@ -1,0 +1,159 @@
+{
+  "id": "chow-chow",
+  "name": "Chow Chow",
+  "name_rus": "Чау-чау",
+  "full_description": "<p>The Chow Chow is an ancient breed originating from northern China, with a history tracing back to the Han dynasty (206 BCE–220 CE). Initially bred for various purposes, including hunting, guarding, and pulling carts, the Chow Chow has evolved into a companion animal known for its distinctive appearance and temperament. Physically, the Chow Chow is a medium-sized, sturdily built dog with a square profile. Males typically stand between 19 to 22 inches tall and weigh 57 to 70 pounds, while females are slightly smaller, measuring 18 to 20 inches in height and weighing 44 to 55 pounds. One of the breed's most notable features is its dense double coat, which can be either rough or smooth. The rough coat is thick and coarse, forming a lion-like mane around the head and neck, while the smooth coat is shorter but still dense. Coat colors include red, black, blue, cinnamon, and cream. Another distinctive characteristic is the breed's blue-black tongue, a trait shared only with the Shar Pei. The Chow Chow's eyes are deep-set and almond-shaped, contributing to its dignified expression. Temperamentally, Chow Chows are known for their independence and aloofness. They are loyal and devoted to their families but can be reserved or indifferent toward strangers. Early socialization and consistent training are essential to ensure they develop into well-mannered companions. While not overly energetic, they require regular, moderate exercise to maintain their health. Historically, Chow Chows served as versatile working dogs in China, fulfilling roles such as hunting, guarding, and pulling carts. Their strength and endurance made them valuable assets in various tasks. In modern times, they are primarily kept as companion animals, appreciated for their unique appearance and loyal nature. The breed has gained popularity worldwide, though it requires owners who understand and respect its independent temperament. Notable characteristics of the Chow Chow include its lion-like mane, blue-black tongue, and distinctive gait resulting from straight hind legs. These features, combined with its dignified demeanor, make the Chow Chow a unique and recognizable breed.</p>",
+  "full_description_rus": "<p>Чау-чау — древняя порода собак, происходящая из северного Китая, с историей, восходящей к династии Хань (206 г. до н.э. — 220 г. н.э.). Изначально использовались для охоты, охраны и перевозки грузов, со временем чау-чау стали компаньонами, известными своим уникальным внешним видом и характером. Физически чау-чау — собака среднего размера с крепким телосложением и квадратным профилем. Рост кобелей составляет 48–56 см, вес — 25–32 кг; суки немного меньше: рост 46–51 см, вес 20–27 кг. Одной из самых заметных особенностей породы является густая двойная шерсть, которая может быть жесткой или гладкой. Жесткая шерсть образует львиную гриву вокруг головы и шеи, в то время как гладкая шерсть короче, но также плотная. Окрасы включают черный, красный, голубой, коричный и кремовый. Еще одной отличительной чертой является сине-черный язык, что встречается только у чау-чау и шарпеев. Глаза глубоко посажены и миндалевидной формы, придавая собаке величественное выражение. По характеру чау-чау известны своей независимостью и сдержанностью. Они преданы своей семье, но могут быть равнодушны к незнакомцам. Ранняя социализация и последовательная дрессировка необходимы для воспитания хорошо воспитанного компаньона. Хотя они не слишком энергичны, им требуется регулярная умеренная физическая нагрузка для поддержания здоровья. Исторически чау-чау служили универсальными рабочими собаками в Китае, выполняя роли охотников, сторожей и перевозчиков грузов. Их сила и выносливость делали их ценными помощниками в различных задачах. В современное время они в основном содержатся как компаньоны, ценимые за их уникальный внешний вид и преданный характер. Порода приобрела популярность во всем мире, хотя требует владельцев, которые понимают и уважают ее независимый темперамент. Заметные характеристики чау-чау включают львиную гриву, сине-черный язык и особую походку, обусловленную прямыми задними ногами. Эти особенности, в сочетании с величественным поведением, делают чау-чау уникальной и узнаваемой породой.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "Males: 57–70 pounds; Females: 44–55 pounds",
+    "height": "Males: 19–22 inches; Females: 18–20 inches",
+    "coat": "Dense double coat; rough or smooth; colors include red, black, blue, cinnamon, cream",
+    "activity": "Moderate",
+    "trainability": "Moderate; requires consistent training and early socialization",
+    "grooming": "Regular brushing; more frequent during shedding seasons",
+    "lifespan": "8–12 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "Кобели: 25–32 кг; Суки: 20–27 кг",
+    "рост": "Кобели: 48–56 см; Суки: 46–51 см",
+    "шерсть": "Густая двойная шерсть; жесткая или гладкая; окрасы: черный, красный, голубой, коричный, кремовый",
+    "активность": "Умеренная",
+    "обучаемость": "Средняя; требует последовательной дрессировки и ранней социализации",
+    "уход": "Регулярное расчесывание; более частое во время линьки",
+    "продолжительность жизни": "8–12 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Independent",
+      "Loyal",
+      "Aloof",
+      "Territorial",
+      "Dignified"
+    ],
+    "summary": "Chow Chows are independent and aloof, showing loyalty to their families but often reserved with strangers.",
+    "with_children": "Generally better suited to families with older children; early socialization is key.",
+    "with_family": "They are devoted to their families, forming strong bonds and displaying loyalty.",
+    "with_other_pets": "Can coexist with other pets if raised together; may be territorial.",
+    "with_strangers": "Often reserved or indifferent; early socialization helps in managing their aloofness."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Чау-чау независимы и сдержанны, проявляют преданность к своей семье, но часто равнодушны к незнакомцам.",
+    "с семьёй": "Они преданы своей семье, формируют крепкие связи и демонстрируют лояльность.",
+    "с детьми": "Обычно лучше подходят для семей со старшими детьми; ранняя социализация важна.",
+    "с другими животными": "Могут уживаться с другими питомцами, если выросли вместе; могут быть территориальными.",
+    "с незнакомцами": "Часто сдержанны или равнодушны; ранняя социализация помогает управлять их отчужденностью.",
+    "особые черты": [
+      "Независимые",
+      "Преданные",
+      "Сдержанные",
+      "Территориальные",
+      "Величественные"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Entropion (eyelid disorder)",
+      "Hypothyroidism",
+      "Allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide a balanced diet",
+      "Ensure regular exercise",
+      "Monitor for signs of joint issues"
+    ],
+    "summary": "Chow Chows are prone to certain health issues and require regular veterinary care to maintain their well-being.",
+    "vet_checkups": "Annually; more frequent if health issues arise"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Чау-чау склонны к определенным проблемам со здоровьем и требуют регулярного ветеринарного ухода для поддержания благополучия.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Энтропион (заворот века)",
+      "Гипотиреоз",
+      "Аллергии"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здорового веса",
+      "Обеспечение сбалансированного питания",
+      "Регулярные физические нагрузки",
+      "Мониторинг признаков проблем с суставами"
+    ],
+    "рекомендуемые осмотры": "Ежегодно; чаще при возникновении проблем со здоровьем"
+  },
+  "care": {
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature.",
+    "description": "Chow Chows require attentive care, including regular grooming, moderate exercise, and consistent training.",
+    "grooming": "Regular brushing is necessary to maintain their dense coat and prevent matting.",
+    "health": "Regular veterinary visits and monitoring for common health issues are crucial.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level."
+  },
+  "care_rus": {
+    "поведение и характер": "Ранняя социализация и последовательная дрессировка необходимы для управления их независимым характером.",
+    "краткое описание ухода": "Чау-чау требуют внимательного ухода, включая регулярный груминг, умеренные физические нагрузки и последовательную дрессировку.",
+    "груминг и уход": "Регулярное расчесывание необходимо для поддержания их густой шерсти и предотвращения образования колтунов.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и мониторинг распространенных проблем со здоровьем крайне важны.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их возрасту, размеру и уровню активности."
+  },
+  "faq": [
+    {
+      "question": "Are Chow Chows good with children?",
+      "answer": "They are generally better suited to families with older children; early socialization is important."
+    },
+    {
+      "question": "Do Chow Chows require a lot of grooming?",
+      "answer": "Yes, their dense double coat requires regular brushing to prevent matting."
+    },
+    {
+      "question": "Are Chow Chows aggressive?",
+      "answer": "They are typically aloof and reserved; proper training and socialization can prevent aggressive behavior."
+    },
+    {
+      "question": "Do Chow Chows get along with other pets?",
+      "answer": "They can coexist with other pets if raised together but may be territorial."
+    },
+    {
+      "question": "How much exercise does a Chow Chow need?",
+      "answer": "Moderate daily exercise, such as walks or play sessions, is sufficient."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Хорошо ли чау-чау ладят с детьми?",
+      "ответ": "Они обычно лучше подходят для семей со старшими детьми; ранняя социализация важна."
+    },
+    {
+      "вопрос": "Требуют ли чау-чау много ухода за шерстью?",
+      "ответ": "Да, их густая двойная шерсть требует регулярного расчесывания для предотвращения образования колтунов."
+    },
+    {
+      "вопрос": "Являются ли чау-чау агрессивными?",
+      "ответ": "Они обычно сдержанны и равнодушны; правильная дрессировка и социализация могут предотвратить агрессивное поведение."
+    },
+    {
+      "вопрос": "Ладят ли чау-чау с другими животными?",
+      "ответ": "Они могут уживаться с другими питомцами, если выросли вместе, но могут быть территориальными."
+    },
+    {
+      "вопрос": "Сколько физической нагрузки требуется чау-чау?",
+      "ответ": "Умеренные ежедневные упражнения, такие как прогулки или игровые сессии, достаточны."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/chow-chow",
+    "https://www.purina.com/dogs/dog-breeds/chow-chow",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-chow-chows",
+    "https://www.petmd.com/dog/breeds/chow-chow",
+    "https://www.akc.org/expert-advice/dog-breeds/chow-chow-right-for-you/",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/chow_chow_rough",
+    "https://www.rbc.ru/life/news/672cd12f9a79471059da74fe",
+    "https://ru.wikipedia.org/wiki/Чау-чау"
+  ]
+}

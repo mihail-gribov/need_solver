@@ -1,0 +1,84 @@
+{
+  "need_id": "small_space_ok",
+  "formula": "(size_toy | size_small | size_small_or_less) & apartment_ok & ~energy & ~exercise_need",
+  "formula_reasoning": "Для жизни в ограниченном пространстве подходят породы, которые: 1) небольшие по размеру (size_toy | size_small | size_small_or_less), 2) хорошо чувствуют себя в квартире (apartment_ok), 3) не отличаются высокой активностью (~energy), 4) не нуждаются в большом количестве физической нагрузки (~exercise_need).",
+  "questions": [
+    {
+      "id": "small_space_ok_q1",
+      "text": "У вас небольшая квартира или ограниченное жизненное пространство?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = ограниченное пространство, нужен компактный и спокойный пёс. Нет = пространство не ограничено."
+    },
+    {
+      "id": "small_space_ok_q2",
+      "text": "Собака будет жить в одной комнате с вами, без отдельного вольера или двора?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = пространство ограничено, важна компактность. Нет = есть отдельное место/двор."
+    },
+    {
+      "id": "small_space_ok_q3",
+      "text": "Вы бы предпочли собаку, которой комфортно в небольшом помещении и не нужно много места для игр?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = важна адаптация к малому пространству. Нет = место не ограничено."
+    },
+    {
+      "id": "small_space_ok_q4",
+      "text": "В вашем доме нет двора или отдельной территории для выгула собаки?",
+      "weight": 0.85,
+      "style": "direct",
+      "verification": "Да = выгул только на улице, пространство ограничено. Нет = есть двор/участок."
+    },
+    {
+      "id": "small_space_ok_q5",
+      "text": "Вам важно, чтобы собака могла спокойно жить в условиях города или плотной застройки?",
+      "weight": 0.75,
+      "style": "indirect",
+      "verification": "Да = городской стиль жизни, малое пространство. Нет = возможно частный дом, больше места."
+    }
+  ],
+  "need_name": "Small Space OK",
+  "need_description": "Comfortable in limited space",
+  "block": "housing_environment",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "wire-fox-terrier",
+  "name": "Wire Fox Terrier",
+  "full_description": "<p>The Wire Fox Terrier, originating in England during the 17th century, was developed to assist in fox hunting by flushing foxes from their dens. Descended from rough-coated black and tan terriers of Wales, Derbyshire, and Durham, this breed was bred for its agility and determination. Physically, the Wire Fox Terrier is a small to medium-sized dog, standing up to 15.5 inches (39 cm) at the withers and weighing between 15 to 19 pounds (6.8 to 8.6 kg). It possesses a dense, wiry coat predominantly white with black and/or tan markings, and features a flat skull, V-shaped ears folding forward, and dark, keen eyes. Temperamentally, the breed is energetic, intelligent, and friendly, requiring regular mental and physical stimulation to prevent boredom. Originally bred to chase foxes from their dens, the Wire Fox Terrier's working abilities include agility and a strong prey drive. In modern times, they serve as companion animals and excel in dog sports like agility and obedience. Notable characteristics include their distinctive wiry coat, high energy levels, and a history of success in dog shows, having won more Best in Show titles at the Westminster Kennel Club Dog Show than any other breed.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "15-19 pounds (6.8-8.6 kg)",
+    "height": "up to 15.5 inches (39 cm)",
+    "coat": "dense, wiry, predominantly white with black and/or tan markings",
+    "activity": "high",
+    "trainability": "moderate to high",
+    "grooming": "regular brushing; professional grooming recommended",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "The Wire Fox Terrier is an energetic and intelligent breed, known for its friendly and playful nature. They require regular mental and physical stimulation to prevent boredom and associated behavioral issues.",
+    "with_family": "Affectionate and loyal, they thrive on interaction and enjoy being part of family activities.",
+    "with_children": "Generally good with children, especially when socialized early, but their high energy levels may be overwhelming for very young kids.",
+    "with_other_pets": "May exhibit a strong prey drive; early socialization is essential to foster positive relationships with other pets.",
+    "with_strangers": "Alert and friendly, they can be sociable with strangers but may also be protective of their family.",
+    "special_traits": [
+      "High energy levels",
+      "Strong prey drive",
+      "Intelligent and independent",
+      "Requires regular mental stimulation",
+      "Can be vocal"
+    ]
+  },
+  "health": {
+    "summary": "Wire Fox Terriers are generally healthy with a lifespan of 12-15 years. They are prone to certain genetic conditions, so regular veterinary care is important.",
+    "common_issues": [
+      "Primary lens luxation",
+      "Legg-Calvé-Perthes disease",
+      "Patellar luxation",
+      "Dental disease"
+    ],
+    "prevention_tips": [
+      "Regular eye examinations",
+      "Maintain a healthy weight to reduce joint stress",
+      "Daily dental care",
+      "Provide regular exercise to maintain joint health"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits for senior dogs or those with health issues"
+  },
+  "care": {
+    "description": "Wire Fox Terriers require consistent care, including regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "behavior": "Provide daily physical activities and mental challenges to prevent boredom and destructive behaviors.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary checkups.",
+    "grooming": "Regular brushing and professional grooming are recommended to maintain their wiry coat.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Wire Fox Terriers good with children?",
+      "answer": "Yes, they are generally good with children, especially when socialized early, but their high energy may be overwhelming for very young kids."
+    },
+    {
+      "question": "Do Wire Fox Terriers require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and require regular physical and mental stimulation to stay healthy and happy."
+    },
+    {
+      "question": "Are Wire Fox Terriers hypoallergenic?",
+      "answer": "No dog is truly hypoallergenic, but their wiry coat sheds minimally, which may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "Can Wire Fox Terriers live in apartments?",
+      "answer": "Yes, they can adapt to apartment living if provided with sufficient exercise and mental stimulation."
+    },
+    {
+      "question": "Do Wire Fox Terriers get along with other pets?",
+      "answer": "They may have a strong prey drive; early socialization is essential to foster positive relationships with other pets."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wire_Fox_Terrier",
+    "https://www.petmd.com/dog/breeds/wire-fox-terrier",
+    "https://www.purina.com/dogs/dog-breeds/wire-fox-terrier",
+    "https://www.ukcdogs.com/wire-fox-terrier",
+    "https://www.petfinder.com/dog-breeds/wire-fox-terrier/"
+  ]
+}

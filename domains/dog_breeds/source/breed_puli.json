@@ -1,0 +1,82 @@
+{
+  "id": "puli",
+  "name": "Puli",
+  "full_description": "<p>The Puli is a medium-sized Hungarian herding dog renowned for its distinctive corded coat, which resembles dreadlocks. This breed's origins trace back over a thousand years to the Magyar tribes who brought their sheepdogs to Hungary. The Puli was primarily developed for herding and guarding livestock, particularly sheep, on the expansive Hungarian plains. Its agility, intelligence, and resilience made it an invaluable asset to shepherds. Physically, the Puli stands approximately 16 to 17 inches tall at the withers and weighs between 25 to 35 pounds. Its most striking feature is its dense, weather-resistant coat that naturally forms cords. This coat can be black, white, gray, or a shade of fawn, with black being the most common. The Puli's eyes are dark brown, and its ears are medium-sized and V-shaped, hanging down close to the head. The tail curls over the back, blending seamlessly with the profuse coat. Temperamentally, the Puli is energetic, intelligent, and affectionate. It forms strong bonds with its family and is known for its loyalty and protective nature. This breed is alert and can be wary of strangers, making it an excellent watchdog. Its herding instincts are strong, and it often exhibits a desire to control the movements of people and other animals. Historically, the Puli was bred for herding and guarding livestock. Its agility and quick reflexes allowed it to manage flocks efficiently, while its protective nature ensured the safety of the herd. In modern times, while some Pulik still work as herding dogs, many have transitioned into companion roles. They excel in various canine sports, including agility, obedience, and herding trials, showcasing their versatility and intelligence. Notable characteristics of the Puli include its unique corded coat, which provides protection against harsh weather and potential predators. This breed is also known for its agility and distinctive, light-footed movement, often described as a bouncing trot. The Puli's keen intelligence and problem-solving abilities make it both a delightful companion and a capable working dog.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "25–35 pounds",
+    "height": "16–17 inches",
+    "coat": "dense, corded, weather-resistant",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular maintenance of corded coat; daily separation of cords; bathing as needed",
+    "lifespan": "10–15 years"
+  },
+  "behavior": {
+    "summary": "The Puli is an energetic and intelligent breed, known for its loyalty and protective nature. It forms strong bonds with its family and exhibits a playful demeanor throughout its life.",
+    "with_family": "Pulik are affectionate and devoted to their families, often forming close bonds with all members. They thrive on companionship and enjoy participating in family activities.",
+    "with_children": "Generally good with children, Pulik are playful and patient. However, their herding instincts may lead them to try to herd young children, so supervision is recommended.",
+    "with_other_pets": "With proper socialization, Pulik can coexist peacefully with other pets. Their herding background may cause them to attempt to herd other animals.",
+    "with_strangers": "Pulik are naturally wary of strangers and can be protective. Early socialization helps them distinguish between friend and foe, reducing unnecessary aggression.",
+    "special_traits": [
+      "highly intelligent",
+      "energetic and agile",
+      "strong herding instincts",
+      "protective of family",
+      "playful and affectionate"
+    ]
+  },
+  "health": {
+    "summary": "Pulik are generally a healthy and hardy breed with a lifespan of 10 to 15 years. However, they are predisposed to certain genetic health conditions that owners should monitor.",
+    "common_issues": [
+      "hip dysplasia",
+      "patellar luxation",
+      "progressive retinal atrophy (PRA)",
+      "degenerative myelopathy"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain a healthy weight",
+      "provide regular exercise",
+      "conduct genetic testing for known conditions",
+      "ensure proper grooming to prevent skin issues"
+    ],
+    "vet_checkups": "annually, or more frequently as the dog ages or if health issues arise"
+  },
+  "care": {
+    "description": "Caring for a Puli involves regular grooming, consistent exercise, and mental stimulation to keep them healthy and happy.",
+    "behavior": "Pulik require daily physical activity and mental challenges to prevent boredom and destructive behaviors. Engaging in activities like agility or herding can be beneficial.",
+    "health": "Regular veterinary visits are essential to monitor for common health issues. Maintaining a balanced diet and healthy weight helps prevent joint problems.",
+    "grooming": "The Puli's corded coat requires daily maintenance to prevent matting. Bathing should be done as needed, with thorough drying to prevent mildew.",
+    "nutrition": "Feed a high-quality diet appropriate for the dog's age, size, and activity level. Avoid overfeeding to prevent obesity, which can exacerbate health issues."
+  },
+  "faq": [
+    {
+      "question": "Is the Puli hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, the Puli's non-shedding coat produces fewer allergens, making it more suitable for allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Puli need?",
+      "answer": "Pulik are high-energy dogs that require at least one hour of physical activity daily to stay healthy and content."
+    },
+    {
+      "question": "Are Pulik good with children?",
+      "answer": "Yes, Pulik are generally good with children, being playful and patient. However, supervision is recommended due to their herding instincts."
+    },
+    {
+      "question": "How often should a Puli be groomed?",
+      "answer": "Daily maintenance of the corded coat is necessary to prevent matting. Bathing should be done as needed, with thorough drying."
+    },
+    {
+      "question": "Do Pulik get along with other pets?",
+      "answer": "With proper socialization, Pulik can coexist peacefully with other pets, though their herding instincts may lead them to try to herd other animals."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/puli",
+    "https://en.wikipedia.org/wiki/Puli_dog",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-puli",
+    "https://vcahospitals.com/know-your-pet/puli",
+    "https://www.akc.org/dog-breeds/puli/"
+  ]
+}

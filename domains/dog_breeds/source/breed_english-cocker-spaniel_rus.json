@@ -1,0 +1,156 @@
+{
+  "id": "english-cocker-spaniel",
+  "name": "English Cocker Spaniel",
+  "name_rus": "Английский кокер-спаниель",
+  "full_description": "<p>The English Cocker Spaniel, often described as 'merry' and 'affectionate,' is a breed with a rich history and versatile capabilities. Originating in England, these dogs were developed to hunt woodcock, a game bird, which is reflected in their name. By the 19th century, they were recognized for their exceptional hunting skills, particularly in flushing and retrieving game. Physically, English Cocker Spaniels are compact and well-balanced, standing approximately 15 to 16 inches tall and weighing between 28 to 32 pounds. They possess a silky, flat or slightly wavy coat that comes in various colors, including solid shades like black, red, and golden, as well as parti-colors and roans. Their expressive, dark eyes and long, lobular ears contribute to their distinctive appearance. Temperamentally, they are gentle, affectionate, and full of life, making them excellent companions. Historically bred for hunting, they exhibit strong working abilities, excelling in flushing and retrieving game. In modern times, their friendly nature and adaptability have made them popular family pets worldwide. Notable characteristics include their ever-wagging tail, indicative of their cheerful disposition, and their versatility in both fieldwork and companionship roles.</p>",
+  "full_description_rus": "<p>Английский кокер-спаниель — это порода собак с богатой историей и универсальными способностями. Изначально выведенные в Англии для охоты на вальдшнепа, эти собаки получили своё название от английского слова 'woodcock', означающего 'вальдшнеп'. К XIX веку они были признаны за свои выдающиеся охотничьи навыки, особенно в поднятии и подаче дичи. Физически английские кокер-спаниели компактны и гармонично сложены, их рост составляет примерно 39–41 см, а вес — от 13 до 15 кг. Они обладают шелковистой, прямой или слегка волнистой шерстью, которая бывает различных окрасов, включая однотонные (чёрный, рыжий, золотистый) и пятнистые (двухцветные и трёхцветные комбинации). Их выразительные тёмные глаза и длинные висячие уши придают им характерный внешний вид. По темпераменту они нежные, ласковые и жизнерадостные, что делает их отличными компаньонами. Исторически выведенные для охоты, они демонстрируют сильные рабочие качества, особенно в поднятии и подаче дичи. В современном мире их дружелюбный характер и адаптивность сделали их популярными семейными питомцами во всём мире. Особенностями породы являются постоянно виляющий хвост, отражающий их весёлый нрав, и универсальность как в полевых работах, так и в роли компаньона.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "28-32 lbs",
+    "height": "15-16 inches",
+    "coat": "silky, flat or slightly wavy",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; attention to ears",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "13–15 кг",
+    "рост": "39–41 см",
+    "шерсть": "шелковистая, прямая или слегка волнистая",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчёсывание; внимание к ушам",
+    "продолжительность жизни": "12–14 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Merry and affectionate nature",
+      "High energy levels",
+      "Strong hunting instincts",
+      "Eagerness to please",
+      "Adaptability to various environments"
+    ],
+    "summary": "English Cocker Spaniels are cheerful, affectionate, and energetic dogs, known for their friendly disposition and eagerness to please.",
+    "with_children": "Generally good with children, displaying patience and playfulness, making them suitable family pets.",
+    "with_family": "They form strong bonds with family members, often following them around and seeking companionship.",
+    "with_other_pets": "They usually get along well with other pets, especially when socialized from a young age.",
+    "with_strangers": "Outgoing and friendly towards strangers, though early socialization is beneficial."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Английские кокер-спаниели — весёлые, ласковые и энергичные собаки, известные своим дружелюбным нравом и стремлением угодить.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, часто следуют за ними и ищут общения.",
+    "с детьми": "Обычно хорошо ладят с детьми, проявляя терпение и игривость, что делает их подходящими семейными питомцами.",
+    "с другими животными": "Обычно хорошо уживаются с другими животными, особенно при ранней социализации.",
+    "с незнакомцами": "Дружелюбны и открыты к незнакомцам, хотя ранняя социализация будет полезна.",
+    "особые черты": [
+      "Весёлый и ласковый характер",
+      "Высокий уровень энергии",
+      "Сильные охотничьи инстинкты",
+      "Стремление угодить",
+      "Адаптивность к различным условиям"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Patellar luxation",
+      "Ear infections",
+      "Familial nephropathy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Routine ear cleaning",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Genetic testing for hereditary conditions"
+    ],
+    "summary": "English Cocker Spaniels are generally healthy but can be prone to certain hereditary conditions.",
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Английские кокер-спаниели в целом здоровы, но могут быть склонны к некоторым наследственным заболеваниям.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Вывих надколенника",
+      "Инфекции ушей",
+      "Семейная нефропатия"
+    ],
+    "советы по профилактике": [
+      "Регулярные визиты к ветеринару",
+      "Рутинная чистка ушей",
+      "Поддержание здорового веса",
+      "Обеспечение регулярных физических нагрузок",
+      "Генетическое тестирование на наследственные заболевания"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем."
+  },
+  "care": {
+    "behavior": "They thrive on companionship and should not be left alone for extended periods to prevent separation anxiety.",
+    "description": "English Cocker Spaniels require regular grooming, exercise, and health monitoring to maintain their well-being.",
+    "grooming": "Their long, silky coat needs brushing two to three times a week to prevent matting; ears should be checked and cleaned regularly.",
+    "health": "Regular veterinary visits and preventive care are essential to address potential hereditary health issues.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is crucial; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "поведение и характер": "Они нуждаются в постоянном общении и не должны оставаться одни на длительное время, чтобы избежать тревоги разлуки.",
+    "краткое описание ухода": "Английские кокер-спаниели требуют регулярного ухода за шерстью, физических упражнений и контроля здоровья для поддержания их благополучия.",
+    "груминг и уход": "Их длинная, шелковистая шерсть нуждается в расчёсывании два-три раза в неделю для предотвращения спутывания; уши следует регулярно проверять и чистить.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход необходимы для предотвращения возможных наследственных заболеваний.",
+    "питание и активность": "Сбалансированная диета, соответствующая их возрасту, размеру и уровню активности, крайне важна; следите за потреблением пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are English Cocker Spaniels good with children?",
+      "answer": "Yes, they are generally patient and playful, making them excellent companions for children."
+    },
+    {
+      "question": "How much exercise does an English Cocker Spaniel need?",
+      "answer": "They require daily exercise, such as long walks or energetic play sessions, to stay healthy and happy."
+    },
+    {
+      "question": "Do English Cocker Spaniels shed a lot?",
+      "answer": "They shed moderately; regular brushing helps manage shedding and keeps their coat healthy."
+    },
+    {
+      "question": "Are English Cocker Spaniels easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, responding well to positive reinforcement training methods."
+    },
+    {
+      "question": "What is the difference between an English Cocker Spaniel and an American Cocker Spaniel?",
+      "answer": "English Cocker Spaniels are slightly taller with a squarer shape, while American Cocker Spaniels are longer and have a denser coat."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Хорошо ли английские кокер-спаниели ладят с детьми?",
+      "ответ": "Да, они обычно терпеливы и игривы, что делает их отличными компаньонами для детей."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется английскому кокер-спаниелю?",
+      "ответ": "Им необходимы ежедневные физические нагрузки, такие как длительные прогулки или энергичные игры, чтобы оставаться здоровыми и счастливыми."
+    },
+    {
+      "вопрос": "Сильно ли линяют английские кокер-спаниели?",
+      "ответ": "Они линяют умеренно; регулярное расчёсывание помогает контролировать линьку и поддерживать здоровье шерсти."
+    },
+    {
+      "вопрос": "Легко ли обучаются английские кокер-спаниели?",
+      "ответ": "Да, они умны и стремятся угодить, хорошо реагируют на методы обучения с положительным подкреплением."
+    },
+    {
+      "вопрос": "В чём разница между английским и американским кокер-спаниелем?",
+      "ответ": "Английские кокер-спаниели немного выше и имеют более квадратную форму, тогда как американские кокер-спаниели длиннее и имеют более густую шерсть."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/cocker-spaniel-vs-english-cocker-spaniel/",
+    "https://www.thekennelclub.org.uk/breed-standards/gundog/spaniel-cocker/",
+    "https://vcahospitals.com/know-your-pet/dog-breeds/english-cocker-spaniel",
+    "https://www.petmd.com/dog/breeds/english-cocker-spaniel",
+    "https://www.akc.org/expert-advice/dog-breeds/english-cocker-spaniel-history/"
+  ]
+}

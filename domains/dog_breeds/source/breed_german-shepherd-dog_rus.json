@@ -1,0 +1,162 @@
+{
+  "id": "german-shepherd-dog",
+  "name": "German Shepherd Dog",
+  "name_rus": "Немецкая овчарка",
+  "full_description": "<p>The German Shepherd Dog (GSD), also known as the Alsatian in some regions, originated in Germany in the late 19th century. Developed by Captain Max von Stephanitz, the breed was intended to create the ideal herding dog, combining intelligence, strength, and obedience. The GSD quickly gained recognition for its versatility and has since been utilized in various roles beyond herding.</p>\n<p>Physically, German Shepherds are medium to large-sized dogs with a well-muscled, athletic build. Males typically stand between 60 to 65 cm (24 to 26 inches) at the withers, while females range from 55 to 60 cm (22 to 24 inches). Their weight varies from 30 to 40 kg (66 to 88 pounds) for males and 22 to 32 kg (49 to 71 pounds) for females. They possess a double coat consisting of a dense undercoat and a straight, harsh outer coat, which can be medium or long in length. Common coat colors include black and tan, sable, solid black, and bi-color.</p>\n<p>German Shepherds are renowned for their intelligence, loyalty, and courage. They are highly trainable and eager to work, making them suitable for a variety of tasks. Their temperament is generally confident and steady, though they can be reserved with strangers. Early socialization and consistent training are essential to develop a well-rounded companion.</p>\n<p>Originally bred for herding sheep, the GSD's working abilities have been recognized in numerous fields. They excel in roles such as police and military work, search and rescue operations, and as service dogs for individuals with disabilities. Their keen sense of smell and strong work ethic make them invaluable in these capacities.</p>\n<p>In modern times, the German Shepherd remains one of the most popular dog breeds worldwide. Their versatility and adaptability have ensured their continued presence in both working environments and as family companions. They are frequently featured in dog shows and have a notable presence in popular culture.</p>\n<p>Notable characteristics of the breed include their high energy levels, requiring regular physical and mental stimulation. They are known for their protective instincts, making them excellent guard dogs. However, their strong prey drive and territorial nature necessitate proper training and socialization to ensure they are well-behaved members of the household.</p>",
+  "full_description_rus": "<p>Немецкая овчарка — порода собак, выведенная в Германии в конце XIX века. Капитан Макс фон Штефаниц стремился создать идеальную пастушью собаку, сочетающую интеллект, силу и послушание. Порода быстро завоевала признание благодаря своей универсальности и с тех пор используется в различных сферах помимо пастушьей службы.</p>\n<p>Физически немецкие овчарки — это собаки среднего и крупного размера с хорошо развитой мускулатурой и атлетическим телосложением. Рост кобелей составляет от 60 до 65 см, сук — от 55 до 60 см. Вес кобелей варьируется от 30 до 40 кг, сук — от 22 до 32 кг. Они обладают двойной шерстью: плотным подшерстком и прямой, жесткой остью, которая может быть средней или длинной. Распространенные окрасы включают черно-подпалый, зонарный, сплошной черный и двухцветный.</p>\n<p>Немецкие овчарки известны своим интеллектом, преданностью и смелостью. Они легко поддаются дрессировке и стремятся к работе, что делает их подходящими для выполнения различных задач. Их темперамент обычно уверен и уравновешен, хотя они могут быть сдержанными с незнакомцами. Ранняя социализация и последовательная дрессировка необходимы для формирования всесторонне развитого компаньона.</p>\n<p>Изначально выведенные для выпаса овец, рабочие качества немецких овчарок были признаны во многих сферах. Они отлично проявляют себя в роли полицейских и военных собак, в поисково-спасательных операциях, а также в качестве собак-поводырей для людей с ограниченными возможностями. Их острое обоняние и сильная трудовая этика делают их незаменимыми в этих областях.</p>\n<p>В настоящее время немецкая овчарка остается одной из самых популярных пород собак в мире. Их универсальность и адаптивность обеспечили им постоянное присутствие как в рабочих условиях, так и в качестве семейных компаньонов. Они часто участвуют в выставках собак и имеют заметное присутствие в популярной культуре.</p>\n<p>Отличительными чертами породы являются высокий уровень энергии, требующий регулярной физической и умственной стимуляции. Они известны своими охранными инстинктами, что делает их отличными сторожевыми собаками. Однако их сильный охотничий инстинкт и территориальность требуют надлежащей дрессировки и социализации, чтобы обеспечить их хорошее поведение в семье.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "Males: 30-40 kg; Females: 22-32 kg",
+    "height": "Males: 60-65 cm; Females: 55-60 cm",
+    "coat": "Double coat; medium or long; common colors include black and tan, sable, solid black, and bi-color",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; increased during shedding seasons",
+    "lifespan": "9-13 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "Кобели: 30-40 кг; Суки: 22-32 кг",
+    "рост": "Кобели: 60-65 см; Суки: 55-60 см",
+    "шерсть": "Двойная шерсть; средняя или длинная; распространенные окрасы: черно-подпалый, зонарный, сплошной черный и двухцветный",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "регулярное вычесывание; усиленный уход в периоды линьки",
+    "продолжительность жизни": "9-13 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Strong protective instincts",
+      "High energy and work drive",
+      "Loyal and devoted to family",
+      "Versatile in various working roles"
+    ],
+    "summary": "German Shepherds are intelligent, loyal, and versatile dogs known for their strong work ethic and protective nature. They require consistent training and socialization to thrive as companions.",
+    "with_children": "Generally good with children, especially when raised together. Supervision is recommended due to their size and energy levels.",
+    "with_family": "They form strong bonds with family members and are known for their loyalty and protective instincts. They thrive in environments where they are included in daily activities.",
+    "with_other_pets": "Can coexist with other pets if properly socialized from a young age. Their prey drive may lead to chasing smaller animals.",
+    "with_strangers": "Often reserved or aloof with strangers. Early socialization helps in developing a more approachable demeanor."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Немецкие овчарки — умные, преданные и универсальные собаки, известные своей трудовой этикой и охранными инстинктами. Для полноценной жизни им необходимы последовательная дрессировка и социализация.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи и известны своей преданностью и охранными инстинктами. Они процветают в среде, где их включают в повседневную деятельность.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно если растут вместе. Рекомендуется присмотр из-за их размера и уровня энергии.",
+    "с другими животными": "Могут сосуществовать с другими животными при правильной социализации с раннего возраста. Их охотничий инстинкт может привести к преследованию мелких животных.",
+    "с незнакомцами": "Часто сдержанны или насторожены с незнакомцами. Ранняя социализация помогает развить более дружелюбное поведение.",
+    "особые черты": [
+      "Высокий интеллект и обучаемость",
+      "Сильные охранные инстинкты",
+      "Высокий уровень энергии и трудолюбие",
+      "Преданность и привязанность к семье",
+      "Универсальность в различных рабочих ролях"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Degenerative myelopathy",
+      "Gastric dilatation-volvulus (bloat)",
+      "Skin conditions and allergies",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce joint stress",
+      "Provide regular exercise to promote joint health",
+      "Feed smaller, frequent meals to reduce bloat risk",
+      "Regular grooming to monitor skin and coat health",
+      "Routine ear cleaning to prevent infections"
+    ],
+    "summary": "German Shepherds are generally healthy but are predisposed to certain genetic and acquired health conditions. Regular veterinary care and a healthy lifestyle are essential for their well-being.",
+    "vet_checkups": "Annual checkups; bi-annual for senior dogs or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Немецкие овчарки в целом здоровы, но склонны к определенным генетическим и приобретенным заболеваниям. Регулярный ветеринарный уход и здоровый образ жизни необходимы для их благополучия.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренных и локтевых суставов",
+      "Дегенеративная миелопатия",
+      "Синдром заворота желудка (вздутие)",
+      "Кожные заболевания и аллергии",
+      "Инфекции ушей"
+    ],
+    "советы по профилактике": [
+      "Поддерживайте здоровый вес, чтобы снизить нагрузку на суставы",
+      "Обеспечивайте регулярные физические нагрузки для поддержания здоровья суставов",
+      "Кормите небольшими, частыми порциями, чтобы снизить риск вздутия",
+      "Регулярно ухаживайте за шерстью для контроля состояния кожи и шерсти",
+      "Проводите регулярную чистку ушей для предотвращения инфекций"
+    ],
+    "рекомендуемые осмотры": "Ежегодные осмотры; дважды в год для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "behavior": "Consistent training and early socialization are crucial to manage their protective instincts and high energy levels. Engage them in activities that challenge their intelligence.",
+    "description": "German Shepherds require dedicated care, including regular exercise, mental stimulation, grooming, and health monitoring to ensure a healthy and fulfilling life.",
+    "grooming": "Brush their coat several times a week to manage shedding and prevent matting. Increase grooming frequency during seasonal shedding periods.",
+    "health": "Regular veterinary visits are essential to monitor and manage breed-specific health concerns. Maintain a balanced diet and exercise regimen to support overall health.",
+    "nutrition": "Provide a high-quality, age-appropriate diet. Avoid overfeeding to prevent obesity, and consider feeding smaller, frequent meals to reduce the risk of bloat."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Немецкие овчарки требуют тщательного ухода, включающего регулярные физические нагрузки, умственную стимуляцию, уход за шерстью и мониторинг здоровья для обеспечения здоровой и полноценной жизни.",
+    "поведение и характер": "Последовательная дрессировка и ранняя социализация необходимы для управления их охранными инстинктами и высоким уровнем энергии. Вовлекайте их в занятия, стимулирующие интеллект.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару необходимы для мониторинга и управления специфическими для породы проблемами здоровья. Поддерживайте сбалансированную диету и режим физических нагрузок для общего здоровья.",
+    "груминг и уход": "Вычесывайте шерсть несколько раз в неделю для контроля линьки и предотвращения образования колтунов. Увеличьте частоту ухода в периоды сезонной линьки.",
+    "питание и активность": "Обеспечьте высококачественное, соответствующее возрасту питание. Избегайте перекармливания, чтобы предотвратить ожирение, и рассмотрите возможность кормления небольшими, частыми порциями для снижения риска вздутия."
+  },
+  "faq": [
+    {
+      "question": "Are German Shepherds good family pets?",
+      "answer": "Yes, with proper training and socialization, they are loyal and protective family companions."
+    },
+    {
+      "question": "How much exercise does a German Shepherd need?",
+      "answer": "They require at least 1-2 hours of physical activity daily, along with mental stimulation."
+    },
+    {
+      "question": "Do German Shepherds shed a lot?",
+      "answer": "Yes, they shed year-round, with increased shedding during seasonal changes."
+    },
+    {
+      "question": "Are German Shepherds easy to train?",
+      "answer": "Yes, they are highly intelligent and respond well to consistent, positive reinforcement training."
+    },
+    {
+      "question": "What is the average lifespan of a German Shepherd?",
+      "answer": "They typically live between 9 to 13 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли немецкие овчарки хорошими семейными питомцами?",
+      "ответ": "Да, при правильной дрессировке и социализации они становятся преданными и охраняющими членами семьи."
+    },
+    {
+      "вопрос": "Сколько физических нагрузок требуется немецкой овчарке?",
+      "ответ": "Им необходимо не менее 1-2 часов физической активности ежедневно, а также умственная стимуляция."
+    },
+    {
+      "вопрос": "Сильно ли линяют немецкие овчарки?",
+      "ответ": "Да, они линяют круглый год, с усилением линьки в периоды сезонных изменений."
+    },
+    {
+      "вопрос": "Легко ли дрессировать немецких овчарок?",
+      "ответ": "Да, они обладают высоким интеллектом и хорошо реагируют на последовательную, положительную дрессировку."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни немецкой овчарки?",
+      "ответ": "Они обычно живут от 9 до 13 лет."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/german-shepherd",
+    "https://www.purina.co.uk/articles/dogs/health/symptoms/german-shepherd-health-problems",
+    "https://www.petco.com/c/common-german-shepherd-health-issues",
+    "https://en.wikipedia.org/wiki/German_Shepherd",
+    "https://ru.wikipedia.org/wiki/Немецкая_овчарка",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/german_shepherd",
+    "https://royalcanin.ru/dog-breed/german-shepherd",
+    "https://www.pedigree.ru/porody/nemeckayaovcharka",
+    "https://www.purinaone.ru/dog/articles/breeds/nemetskaya-ovcharka",
+    "https://kinpet.ru/nemetskaya-ovcharka/",
+    "https://lapkins.ru/dog/nemetskaya-ovcharka/"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "portuguese-water-dog",
+  "name": "Portuguese Water Dog",
+  "full_description": "<p>The Portuguese Water Dog (PWD) is a robust, medium-sized breed with a rich history as a fisherman's companion along Portugal's coast. Originating in the Algarve region, these dogs were integral to fishing operations, performing tasks such as herding fish into nets, retrieving lost equipment, and delivering messages between boats. Their webbed feet and waterproof coats made them exceptional swimmers, capable of enduring long hours in the water. Physically, PWDs exhibit a sturdy, square-shaped build with well-developed muscles. Males typically stand between 50-57 cm (19.5-22.5 inches) tall and weigh 19-25 kg (42-55 lbs), while females are slightly smaller, measuring 43-52 cm (17-20.5 inches) in height and weighing 16-22 kg (35-48 lbs). Their dense, profuse coats come in two varieties: curly and wavy, and are commonly found in black, white, or various shades of brown. Notably, their coats lack an undercoat, contributing to their low-shedding nature. Temperamentally, PWDs are intelligent, energetic, and affectionate. They form strong bonds with their families and are known for their loyalty and protective instincts. Their high energy levels and keen intellect necessitate regular mental and physical stimulation to prevent boredom and associated behavioral issues. Historically bred for demanding tasks, PWDs possess remarkable working abilities. Their original roles required strength, endurance, and problem-solving skills, traits that remain evident today. In contemporary settings, they excel in various canine sports, including agility, obedience, and water trials, showcasing their versatility and eagerness to work. In recent years, the breed has gained popularity as a family companion, partly due to their hypoallergenic coats and engaging personalities. Notably, PWDs have been part of prominent households, such as the Obama family, further elevating their profile. Despite their modern roles, they retain the distinctive characteristics that made them invaluable to Portuguese fishermen: a strong work ethic, adaptability, and a love for water.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "16-25 kg",
+    "height": "43-57 cm",
+    "coat": "dense, profuse, curly or wavy, without undercoat",
+    "activity": "very high",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming recommended",
+    "lifespan": "10-14 years"
+  },
+  "behavior": {
+    "summary": "Portuguese Water Dogs are intelligent, energetic, and affectionate, forming strong bonds with their families and requiring regular mental and physical stimulation.",
+    "with_family": "They are loyal and protective, often becoming deeply attached to family members and thriving on companionship.",
+    "with_children": "Generally good with children, especially when socialized early, displaying patience and playfulness.",
+    "with_other_pets": "Can coexist well with other pets if introduced properly, though their strong personalities may require supervision.",
+    "with_strangers": "Typically reserved around strangers, they may be cautious but are not aggressive, often alerting their owners to unfamiliar presences.",
+    "special_traits": [
+      "high intelligence",
+      "strong work ethic",
+      "love for water",
+      "protective nature",
+      "energetic disposition"
+    ]
+  },
+  "health": {
+    "summary": "Portuguese Water Dogs are generally healthy but are predisposed to certain genetic conditions; regular veterinary care and preventive measures are essential.",
+    "common_issues": [
+      "hip dysplasia",
+      "progressive retinal atrophy",
+      "GM1 storage disease",
+      "juvenile dilated cardiomyopathy"
+    ],
+    "prevention_tips": [
+      "regular exercise to maintain healthy weight",
+      "routine eye examinations",
+      "genetic testing for known hereditary conditions",
+      "balanced diet",
+      "consistent veterinary check-ups"
+    ],
+    "vet_checkups": "semi-annual"
+  },
+  "care": {
+    "description": "Portuguese Water Dogs require attentive care, including regular exercise, mental stimulation, and consistent grooming to maintain their health and happiness.",
+    "behavior": "Due to their high energy and intelligence, they thrive on engaging activities and benefit from structured training sessions.",
+    "health": "Monitoring for breed-specific health issues and maintaining a proactive approach to veterinary care is crucial.",
+    "grooming": "Their dense coats necessitate regular brushing to prevent matting; professional grooming every 6-8 weeks is recommended.",
+    "nutrition": "A balanced diet tailored to their activity level and age supports overall health; portion control helps prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Portuguese Water Dogs hypoallergenic?",
+      "answer": "Yes, their low-shedding coats are considered hypoallergenic, making them suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Portuguese Water Dog need?",
+      "answer": "They require at least an hour of vigorous exercise daily to meet their high energy levels."
+    },
+    {
+      "question": "Are Portuguese Water Dogs good for first-time dog owners?",
+      "answer": "Due to their intelligence and energy, they may be challenging for first-time owners without prior dog experience."
+    },
+    {
+      "question": "Do Portuguese Water Dogs get along with other pets?",
+      "answer": "With proper socialization, they can coexist well with other pets, though supervision is recommended."
+    },
+    {
+      "question": "What are common health issues in Portuguese Water Dogs?",
+      "answer": "They are prone to hip dysplasia, progressive retinal atrophy, and certain genetic conditions; regular vet check-ups are important."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/portuguese-water-dog-facts/",
+    "https://www.thekennelclub.org.uk/breed-standards/working/portuguese-water-dog/",
+    "https://www.petmd.com/dog/breeds/portuguese-water-dog",
+    "https://vcahospitals.com/know-your-pet/portuguese-water-dog",
+    "https://www.akc.org/expert-advice/dog-breeds/portuguese-water-dog-history-the-fishermans-loyal-working-dog/"
+  ]
+}

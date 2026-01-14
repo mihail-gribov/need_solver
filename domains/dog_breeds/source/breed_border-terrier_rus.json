@@ -1,0 +1,159 @@
+{
+  "id": "border-terrier",
+  "name": "Border Terrier",
+  "name_rus": "Бордер-терьер",
+  "full_description": "<p>The Border Terrier is a small, energetic breed originating from the Anglo-Scottish border region. Developed in the 18th century, these dogs were bred to assist in fox hunting, possessing the agility to keep up with horses and the size to follow foxes into their dens. They share ancestry with the Dandie Dinmont and Bedlington Terriers. Physically, Border Terriers are characterized by their distinctive 'otter head,' with a broad skull and short muzzle. They have a double coat: a dense, soft undercoat and a harsh, wiry outer coat that comes in colors such as red, grizzle and tan, blue and tan, or wheaten. Males typically weigh between 13 to 15.5 pounds and stand about 11 inches tall, while females weigh 11.5 to 14 pounds and stand around 10 inches tall. Temperamentally, Border Terriers are affectionate, intelligent, and eager to please. They are known for their friendly disposition, making them excellent companions for families. Their working heritage endows them with a strong prey drive and a penchant for digging. Originally, they were used to hunt foxes and control vermin, showcasing their determination and agility. In modern times, they excel in various canine sports, including agility and obedience trials, and are cherished as family pets. Notable characteristics include their adaptability to different living environments, moderate grooming needs, and a lifespan of 12 to 15 years.</p>",
+  "full_description_rus": "<p>Бордер-терьер — небольшая, энергичная порода, происходящая из пограничных районов Англии и Шотландии. Разведённые в XVIII веке, эти собаки были предназначены для охоты на лис, обладая ловкостью, чтобы не отставать от лошадей, и компактными размерами, позволяющими проникать в лисьи норы. Они имеют общих предков с денди-динмонт-терьерами и бедлингтон-терьерами. Физически бордер-терьеры характеризуются своей отличительной «выдровой» головой с широким черепом и короткой мордой. У них двойная шерсть: плотный, мягкий подшерсток и жёсткий, проволокообразный остевой волос, окрасы включают рыжий, серо-подпалый, голубо-подпалый и пшеничный. Кобели обычно весят от 5,9 до 7,1 кг и достигают роста около 28 см, суки весят от 5,1 до 6,4 кг и имеют рост около 25 см. По темпераменту бордер-терьеры ласковы, умны и стремятся угодить. Они известны своим дружелюбным нравом, что делает их отличными компаньонами для семей. Их рабочее наследие наделяет их сильным охотничьим инстинктом и склонностью к копанию. Изначально использовались для охоты на лис и контроля над вредителями, демонстрируя свою решительность и ловкость. В современное время они преуспевают в различных собачьих видах спорта, включая аджилити и соревнования по послушанию, и ценятся как семейные питомцы. Примечательные характеристики включают их адаптивность к различным условиям проживания, умеренные потребности в уходе и продолжительность жизни от 12 до 15 лет.</p>",
+  "parameters": {
+    "activity": "moderate to high",
+    "coat": "double coat with a dense, soft undercoat and a harsh, wiry outer coat",
+    "grooming": "weekly brushing; coat stripping twice a year",
+    "height": "10–11 inches",
+    "lifespan": "12–15 years",
+    "size": "small",
+    "trainability": "high",
+    "weight": "11.5–15.5 pounds"
+  },
+  "parameters_rus": {
+    "size": "маленький",
+    "weight": "5,1–7,1 кг",
+    "height": "25–28 см",
+    "coat": "двойная шерсть с плотным, мягким подшерстком и жёстким, проволокообразным остевым волосом",
+    "activity": "умеренная до высокой",
+    "trainability": "высокая",
+    "grooming": "еженедельное расчесывание; стриппинг два раза в год",
+    "lifespan": "12–15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "strong prey drive",
+      "tendency to dig",
+      "affectionate nature",
+      "intelligence",
+      "energy"
+    ],
+    "summary": "Border Terriers are affectionate, intelligent, and energetic dogs with a strong prey drive and a tendency to dig.",
+    "with_children": "Generally good with children, especially when socialized early.",
+    "with_family": "They form strong bonds with family members and thrive on companionship.",
+    "with_other_pets": "Can coexist with other dogs; caution is advised with small pets due to their hunting instincts.",
+    "with_strangers": "Friendly but may be reserved initially; proper socialization is beneficial."
+  },
+  "behavior_rus": {
+    "summary": "Бордер-терьеры — ласковые, умные и энергичные собаки с сильным охотничьим инстинктом и склонностью к копанию.",
+    "with_family": "Они формируют крепкие связи с членами семьи и процветают в компании.",
+    "with_children": "Обычно хорошо ладят с детьми, особенно при ранней социализации.",
+    "with_other_pets": "Могут сосуществовать с другими собаками; следует проявлять осторожность с мелкими животными из-за их охотничьих инстинктов.",
+    "with_strangers": "Дружелюбны, но могут быть сдержанными вначале; полезна правильная социализация.",
+    "special_traits": [
+      "сильный охотничий инстинкт",
+      "склонность к копанию",
+      "ласковый характер",
+      "интеллект",
+      "энергичность"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "hip dysplasia",
+      "progressive retinal atrophy",
+      "canine epileptoid cramping syndrome",
+      "heart defects"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "balanced diet",
+      "adequate exercise",
+      "genetic screening for breeding dogs"
+    ],
+    "summary": "Border Terriers are generally healthy but can be prone to certain genetic conditions.",
+    "vet_checkups": "annually, or more frequently as needed"
+  },
+  "health_rus": {
+    "summary": "Бордер-терьеры в целом здоровы, но могут быть склонны к определённым генетическим заболеваниям.",
+    "common_issues": [
+      "дисплазия тазобедренного сустава",
+      "прогрессирующая атрофия сетчатки",
+      "синдром эпилептоидных судорог у собак",
+      "пороки сердца"
+    ],
+    "prevention_tips": [
+      "регулярные ветеринарные осмотры",
+      "сбалансированное питание",
+      "достаточная физическая активность",
+      "генетический скрининг для племенных собак"
+    ],
+    "vet_checkups": "ежегодно или чаще при необходимости"
+  },
+  "care": {
+    "behavior": "Provide daily physical activity and mental challenges to prevent boredom and destructive behaviors.",
+    "description": "Border Terriers require regular exercise, mental stimulation, and consistent grooming to maintain their health and happiness.",
+    "grooming": "Brush weekly and strip the coat twice a year to maintain its texture and health.",
+    "health": "Monitor for signs of common health issues and maintain a healthy weight through proper diet and exercise.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "description": "Бордер-терьеры требуют регулярных физических нагрузок, умственной стимуляции и постоянного ухода для поддержания их здоровья и счастья.",
+    "behavior": "Обеспечивайте ежедневную физическую активность и умственные задачи, чтобы предотвратить скуку и разрушительное поведение.",
+    "health": "Следите за признаками распространённых проблем со здоровьем и поддерживайте здоровый вес с помощью правильного питания и упражнений.",
+    "grooming": "Расчесывайте еженедельно и проводите стриппинг два раза в год для поддержания текстуры и здоровья шерсти.",
+    "nutrition": "Кормите сбалансированным рационом, соответствующим их возрасту, размеру и уровню активности; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "answer": "Yes, they are generally good with children, especially when socialized early.",
+      "question": "Are Border Terriers good with children?"
+    },
+    {
+      "answer": "They require weekly brushing and coat stripping twice a year to maintain their coat's health.",
+      "question": "Do Border Terriers require a lot of grooming?"
+    },
+    {
+      "answer": "Yes, they can adapt to apartment living if they receive sufficient exercise and mental stimulation.",
+      "question": "Can Border Terriers live in apartments?"
+    },
+    {
+      "answer": "No dog is completely hypoallergenic, but their wiry coat may produce fewer allergens.",
+      "question": "Are Border Terriers hypoallergenic?"
+    },
+    {
+      "answer": "They can coexist with other dogs; caution is advised with small pets due to their hunting instincts.",
+      "question": "Do Border Terriers get along with other pets?"
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Бордер-терьеры хорошо ладят с детьми?",
+      "answer": "Да, они обычно хорошо ладят с детьми, особенно при ранней социализации."
+    },
+    {
+      "question": "Требуют ли бордер-терьеры много ухода за шерстью?",
+      "answer": "Они требуют еженедельного расчесывания и стриппинга два раза в год для поддержания здоровья шерсти."
+    },
+    {
+      "question": "Могут ли бордер-терьеры жить в квартирах?",
+      "answer": "Да, они могут адаптироваться к жизни в квартире при условии достаточных физических и умственных нагрузок."
+    },
+    {
+      "question": "Являются ли бордер-терьеры гипоаллергенными?",
+      "answer": "Ни одна собака не является полностью гипоаллергенной, но их жёсткая шерсть может вызывать меньше аллергических реакций."
+    },
+    {
+      "question": "Ладят ли бордер-терьеры с другими животными?",
+      "answer": "Они могут сосуществовать с другими собаками; следует проявлять осторожность с мелкими животными из-за их охотничьих инстинктов."
+    }
+  ],
+  "sources": [
+    "https://www.hillspet.com/dog-care/dog-breeds/border-terrier",
+    "https://www.petmd.com/dog/breeds/border-terrier",
+    "https://www.dailypaws.com/dogs-puppies/dog-breeds/border-terrier",
+    "https://en.wikipedia.org/wiki/Border_Terrier",
+    "https://btcoa.org/faqs-about-border-terriers/",
+    "https://www.pedigree.ru/porody/borderteryer",
+    "https://www.hillspet.ru/dog-care/dog-breeds/border-terrier",
+    "https://ru.wikipedia.org/wiki/Бордер-терьер",
+    "https://royalcanin.ru/dog-breed/border-terrier",
+    "https://www.syl.ru/article/389657/border-terer-opisanie-porodyi-harakter-dressirovka-osobennosti-soderjaniya-i-uhoda",
+    "https://doge.ru/poroda/border-terer",
+    "https://vogdog.com/ru/border-terer/"
+  ]
+}

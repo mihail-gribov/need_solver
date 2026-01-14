@@ -1,0 +1,158 @@
+{
+  "id": "bedlington-terrier",
+  "name": "Bedlington Terrier",
+  "name_rus": "Бедлингтон-терьер",
+  "full_description": "<p>The Bedlington Terrier, originating in the late 18th century in Northumberland, England, was developed by local miners for hunting vermin and game. Crossbreeding with breeds like the Whippet contributed to its distinctive body type and speed.</p>\n<p>Physically, the Bedlington Terrier is a graceful, well-balanced dog with a unique lamb-like appearance. It has a narrow, deep, and rounded head adorned with a lighter-colored topknot. The breed's arched loin and lithe build enable it to gallop at great speeds. Its coat is a mixture of hard and soft hair, giving it a wool-like texture that stands away from the body.</p>\n<p>Temperamentally, Bedlington Terriers are confident, intelligent, and affectionate. They exhibit a mild and gentle expression when at rest but become alert and energetic when aroused. Known for their courage and endurance, they are keen hunters with a dignified nature.</p>\n<p>Originally bred for hunting vermin and game, Bedlington Terriers were prized by miners for their gameness and efficiency in controlling pests. Their speed and agility also made them suitable for racing.</p>\n<p>In modern times, Bedlington Terriers serve as affectionate companions and excel in various dog sports, including agility and rally. Their unique appearance and engaging personality have earned them a dedicated following, though they remain relatively rare.</p>\n<p>Notable characteristics of the breed include their distinctive lamb-like appearance, a combination of speed and endurance, and a coat that is both unique in texture and hypoallergenic. Their affectionate and dignified nature makes them excellent companions for families and individuals alike.</p>",
+  "full_description_rus": "<p>Бедлингтон-терьер — порода собак, выведенная в конце XVIII века в Нортумберленде, Англия. Первоначально разводилась местными шахтёрами для охоты на вредителей и мелкую дичь. Скрещивание с такими породами, как уиппет, придало бедлингтону его характерное телосложение и скорость.</p>\n<p>Физически бедлингтон-терьер — грациозная, хорошо сбалансированная собака с уникальной внешностью, напоминающей ягнёнка. У неё узкая, глубокая и округлая голова, украшенная светлым хохолком. Изогнутая поясница и стройное телосложение позволяют ей развивать большую скорость. Шерсть представляет собой смесь жёстких и мягких волос, придающих ей текстуру, похожую на овечью.</p>\n<p>По характеру бедлингтон-терьеры уверенные в себе, умные и ласковые. В спокойном состоянии они имеют мягкое и нежное выражение, но становятся бдительными и энергичными при возбуждении. Известны своей храбростью и выносливостью, являются отличными охотниками с достоинственным нравом.</p>\n<p>Изначально выведенные для охоты на вредителей и мелкую дичь, бедлингтон-терьеры ценились шахтёрами за их азарт и эффективность в контроле популяции вредителей. Их скорость и ловкость также делали их подходящими для гонок.</p>\n<p>В современное время бедлингтон-терьеры служат ласковыми компаньонами и преуспевают в различных собачьих видах спорта, включая аджилити и ралли. Их уникальная внешность и привлекательная личность завоевали им преданных поклонников, хотя они остаются относительно редкими.</p>\n<p>Отличительными чертами породы являются их уникальная внешность, напоминающая ягнёнка, сочетание скорости и выносливости, а также шерсть с уникальной текстурой, считающаяся гипоаллергенной. Их ласковый и достойный характер делает их отличными компаньонами для семей и отдельных людей.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "17-23 pounds",
+    "height": "15.5-16.5 inches",
+    "coat": "mixture of hard and soft hair, wool-like texture",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular grooming required",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "size": "средний",
+    "weight": "8-10 кг",
+    "height": "38-43 см",
+    "coat": "смесь жёстких и мягких волос, текстура, похожая на овечью",
+    "activity": "высокая",
+    "trainability": "высокая",
+    "grooming": "регулярный уход за шерстью",
+    "lifespan": "12-14 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "affectionate and gentle with family",
+      "intelligent and trainable",
+      "energetic and playful",
+      "courageous and protective",
+      "adaptable to various living situations"
+    ],
+    "summary": "Bedlington Terriers are affectionate, intelligent, and energetic dogs known for their gentle demeanor and courageous spirit. They form strong bonds with their families and are adaptable to various living situations.",
+    "with_children": "Bedlington Terriers have a gentle way with children, especially if raised with them, making them excellent family pets.",
+    "with_family": "They are affectionate and form strong bonds with family members, often seeking companionship and involvement in family activities.",
+    "with_other_pets": "While they have strong hunting instincts, they can usually be trained to tolerate other pets, including cats, if socialized properly.",
+    "with_strangers": "They are generally friendly towards strangers but can be protective of their family, displaying courage when necessary."
+  },
+  "behavior_rus": {
+    "summary": "Бедлингтон-терьеры — ласковые, умные и энергичные собаки, известные своим мягким нравом и храбростью. Они формируют крепкие связи с семьёй и адаптируются к различным условиям жизни.",
+    "with_family": "Они ласковы и формируют крепкие связи с членами семьи, часто стремясь к общению и участию в семейных мероприятиях.",
+    "with_children": "Бедлингтон-терьеры нежны с детьми, особенно если выросли вместе с ними, что делает их отличными семейными питомцами.",
+    "with_other_pets": "Хотя у них сильные охотничьи инстинкты, при правильной социализации они обычно могут уживаться с другими животными, включая кошек.",
+    "with_strangers": "Они обычно дружелюбны к незнакомцам, но могут быть защитниками своей семьи, проявляя храбрость при необходимости.",
+    "special_traits": [
+      "ласковые и нежные с семьёй",
+      "умные и легко обучаемые",
+      "энергичные и игривые",
+      "храбрые и защитные",
+      "адаптируются к различным условиям жизни"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Copper toxicosis",
+      "Retinal dysplasia",
+      "Patellar luxation",
+      "Hip dysplasia",
+      "Thyroid issues"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for inherited conditions",
+      "Balanced diet and regular exercise",
+      "Routine eye examinations",
+      "Monitoring for signs of joint issues"
+    ],
+    "summary": "Bedlington Terriers are generally healthy but are prone to certain genetic conditions. Regular veterinary care and preventive measures can help maintain their health.",
+    "vet_checkups": "At least once a year, with more frequent visits for senior dogs or those with health concerns."
+  },
+  "health_rus": {
+    "summary": "Бедлингтон-терьеры в целом здоровы, но склонны к некоторым генетическим заболеваниям. Регулярный ветеринарный уход и профилактические меры помогут поддерживать их здоровье.",
+    "common_issues": [
+      "Медный токсикоз",
+      "Дисплазия сетчатки",
+      "Вывих надколенника",
+      "Дисплазия тазобедренного сустава",
+      "Проблемы с щитовидной железой"
+    ],
+    "prevention_tips": [
+      "Регулярные ветеринарные осмотры",
+      "Генетическое тестирование на наследственные заболевания",
+      "Сбалансированное питание и регулярные физические нагрузки",
+      "Плановые осмотры глаз",
+      "Мониторинг признаков проблем с суставами"
+    ],
+    "vet_checkups": "Не реже одного раза в год, с более частыми визитами для пожилых собак или имеющих проблемы со здоровьем."
+  },
+  "care": {
+    "behavior": "They thrive on companionship and should not be left alone for extended periods. Early socialization and training are essential to develop well-mannered behavior.",
+    "description": "Bedlington Terriers require regular grooming, consistent training, and adequate exercise to maintain their health and happiness.",
+    "grooming": "Their unique coat requires regular grooming, including brushing and professional trimming, to prevent matting and maintain its characteristic appearance.",
+    "health": "Regular veterinary check-ups and preventive care are crucial to monitor and manage potential health issues.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential. Portion control is important to prevent obesity."
+  },
+  "care_rus": {
+    "description": "Бедлингтон-терьеры требуют регулярного ухода за шерстью, последовательной дрессировки и достаточной физической активности для поддержания здоровья и счастья.",
+    "behavior": "Они нуждаются в общении и не должны оставаться одни на длительное время. Ранняя социализация и обучение необходимы для формирования хорошего поведения.",
+    "health": "Регулярные ветеринарные осмотры и профилактический уход важны для мониторинга и управления потенциальными проблемами со здоровьем.",
+    "grooming": "Их уникальная шерсть требует регулярного ухода, включая расчёсывание и профессиональную стрижку, чтобы предотвратить спутывание и сохранить характерный вид.",
+    "nutrition": "Сбалансированное питание, соответствующее их возрасту, размеру и уровню активности, необходимо. Контроль порций важен для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Bedlington Terriers hypoallergenic?",
+      "answer": "Yes, their unique coat is considered hypoallergenic, making them suitable for some allergy sufferers."
+    },
+    {
+      "question": "Do Bedlington Terriers get along with other pets?",
+      "answer": "With proper training and socialization, they can coexist with other pets, though their hunting instincts may lead them to chase smaller animals."
+    },
+    {
+      "question": "How much exercise does a Bedlington Terrier need?",
+      "answer": "They are energetic and require regular exercise, including daily walks and playtime, to stay healthy and happy."
+    },
+    {
+      "question": "Are Bedlington Terriers easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable with consistent, positive reinforcement methods."
+    },
+    {
+      "question": "What is the lifespan of a Bedlington Terrier?",
+      "answer": "They typically live between 12 to 14 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Являются ли бедлингтон-терьеры гипоаллергенными?",
+      "answer": "Да, их уникальная шерсть считается гипоаллергенной, что делает их подходящими для некоторых людей, страдающих аллергией."
+    },
+    {
+      "question": "Ладят ли бедлингтон-терьеры с другими животными?",
+      "answer": "При правильной дрессировке и социализации они могут уживаться с другими животными, хотя их охотничьи инстинкты могут побуждать их преследовать мелких животных."
+    },
+    {
+      "question": "Сколько упражнений требуется бедлингтон-терьеру?",
+      "answer": "Они энергичны и требуют регулярных физических нагрузок, включая ежедневные прогулки и игры, чтобы оставаться здоровыми и счастливыми."
+    },
+    {
+      "question": "Легко ли дрессировать бедлингтон-терьеров?",
+      "answer": "Да, они умны и стремятся угодить, что делает их легко обучаемыми при использовании последовательных методов положительного подкрепления."
+    },
+    {
+      "question": "Какова продолжительность жизни бедлингтон-терьера?",
+      "answer": "При надлежащем уходе они обычно живут от 12 до 14 лет."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/bedlington-terrier",
+    "https://vcahospitals.com/know-your-pet/bedlington-terrier",
+    "https://www.akc.org/expert-advice/lifestyle/5-things-bedlington-terriers/",
+    "https://www.akc.org/expert-advice/news/akc-rally-national-championship-bedlington-terrier-breitling/",
+    "https://www.akc.org/expert-advice/lifestyle/bedlington-terrier-night-rocket/",
+    "https://www.akc.org/expert-advice/dog-breeds/bedlington-terrier-history/",
+    "https://www.akc.org/expert-advice/dog-breeds/hypoallergenic-dog-breeds/"
+  ]
+}

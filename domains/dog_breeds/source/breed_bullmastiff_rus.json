@@ -1,0 +1,160 @@
+{
+  "id": "bullmastiff",
+  "name": "Bullmastiff",
+  "name_rus": "Бульмастиф",
+  "full_description": "<p>The Bullmastiff is a large, powerful breed developed in 19th-century England to assist gamekeepers in protecting estates from poachers. By crossing the English Mastiff with the now-extinct Old English Bulldog, breeders aimed to create a dog that combined the size and strength of the Mastiff with the agility and tenacity of the Bulldog. This deliberate mix resulted in a breed that was 60% Mastiff and 40% Bulldog, known for its ability to track, apprehend, and hold intruders without inflicting serious injury. Recognized by The Kennel Club in 1924 and the American Kennel Club in 1934, the Bullmastiff has since become a valued companion and guardian worldwide.</p>\n<p>Physically, the Bullmastiff presents a nearly square appearance, with males standing 25 to 27 inches tall and weighing between 110 to 130 pounds, while females are slightly smaller at 24 to 26 inches in height and 100 to 120 pounds in weight. Their short, dense coat comes in fawn, red, or brindle, often accompanied by a black mask and darker ears. The breed's broad skull, short muzzle, and V-shaped ears contribute to its distinctive, imposing look.</p>\n<p>Temperamentally, Bullmastiffs are known for their reliability, devotion, and protective nature. They are alert and fearless yet exhibit a calm and docile demeanor, making them excellent family companions. Their original purpose as estate guardians has endowed them with a natural instinct to protect their home and loved ones.</p>\n<p>Historically, Bullmastiffs were bred to guard estates, utilizing their strength and agility to deter poachers. Their role required them to be powerful enough to apprehend intruders but controlled enough not to cause undue harm. In modern times, while they continue to serve as effective guard dogs, Bullmastiffs have also gained popularity as loyal family pets, appreciated for their gentle disposition and unwavering loyalty.</p>\n<p>Notable characteristics of the Bullmastiff include their keen intelligence, strong protective instincts, and affectionate nature towards their families. Despite their formidable appearance, they are known to be gentle with children and can coexist peacefully with other pets when properly socialized. Their low grooming needs and moderate exercise requirements make them suitable for various living situations, provided they receive adequate mental and physical stimulation.</p>",
+  "full_description_rus": "<p>Бульмастиф — крупная, мощная порода, выведенная в Англии в XIX веке для помощи егерям в защите поместий от браконьеров. Путем скрещивания английского мастифа с ныне вымершим староанглийским бульдогом заводчики стремились создать собаку, сочетающую размер и силу мастифа с ловкостью и настойчивостью бульдога. Этот целенаправленный микс привел к появлению породы, состоящей на 60% из мастифа и на 40% из бульдога, известной своей способностью отслеживать, задерживать и удерживать нарушителей без нанесения серьезных травм. Порода была признана Британским клубом собаководства в 1924 году и Американским клубом собаководства в 1934 году, с тех пор бульмастиф стал ценным компаньоном и охранником во всем мире.</p>\n<p>Физически бульмастиф имеет почти квадратное телосложение: кобели достигают 64–69 см в высоту и весят от 50 до 59 кг, суки немного меньше — 61–66 см в высоту и 41–50 кг веса. Их короткая, плотная шерсть бывает палевого, красного или тигрового окраса, часто сопровождается черной маской и темными ушами. Широкий череп, короткая морда и V-образные уши придают породе характерный, внушительный вид.</p>\n<p>По темпераменту бульмастифы известны своей надежностью, преданностью и защитной натурой. Они бдительны и бесстрашны, но при этом проявляют спокойный и уравновешенный характер, что делает их отличными семейными компаньонами. Их первоначальное предназначение в качестве охранников поместий наделило их природным инстинктом защищать свой дом и близких.</p>\n<p>Исторически бульмастифы были выведены для охраны поместий, используя свою силу и ловкость для отпугивания браконьеров. Их роль требовала быть достаточно мощными, чтобы задерживать нарушителей, но при этом контролируемыми, чтобы не причинять чрезмерного вреда. В современное время, помимо эффективных сторожевых функций, бульмастифы приобрели популярность как верные семейные питомцы, ценимые за их мягкий нрав и непоколебимую преданность.</p>\n<p>Отличительными чертами бульмастифа являются их острый ум, сильные защитные инстинкты и привязанность к семье. Несмотря на грозный внешний вид, они известны своей нежностью к детям и могут мирно сосуществовать с другими животными при правильной социализации. Низкие требования к уходу за шерстью и умеренные потребности в физических нагрузках делают их подходящими для различных условий проживания, при условии обеспечения достаточной умственной и физической стимуляции.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "100-130 lbs (45-59 kg)",
+    "height": "24-27 inches (61-69 cm)",
+    "coat": "short, dense, weather-resistant",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "low; regular brushing",
+    "lifespan": "8-10 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "45-59 кг",
+    "рост": "61-69 см",
+    "шерсть": "короткая, плотная, устойчивая к погодным условиям",
+    "активность": "умеренная",
+    "обучаемость": "умеренная",
+    "уход": "низкий; регулярное расчесывание",
+    "продолжительность жизни": "8-10 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Protective instincts",
+      "Gentle with family",
+      "Loyal and devoted",
+      "Calm demeanor",
+      "Alert and fearless"
+    ],
+    "summary": "Bullmastiffs are loyal, protective, and affectionate dogs, known for their calm demeanor and strong guarding instincts.",
+    "with_children": "Generally good with children, especially when raised together, but supervision is recommended due to their size.",
+    "with_family": "They form strong bonds with family members, displaying devotion and a gentle nature.",
+    "with_other_pets": "Can coexist with other pets if socialized early; may exhibit dominance towards unfamiliar animals.",
+    "with_strangers": "Naturally wary of strangers, they are protective but not aggressive without cause."
+  },
+  "behavior_rus": {
+    "особые черты": [
+      "Защитные инстинкты",
+      "Нежны с семьей",
+      "Преданны и лояльны",
+      "Спокойный характер",
+      "Бдительны и бесстрашны"
+    ],
+    "краткое описание поведения": "Бульмастифы — преданные, защитные и ласковые собаки, известные своим спокойным нравом и сильными охранными инстинктами.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно если выросли вместе, но из-за их размера рекомендуется присмотр.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя преданность и мягкость.",
+    "с другими животными": "Могут сосуществовать с другими питомцами при ранней социализации; могут проявлять доминирование по отношению к незнакомым животным.",
+    "с незнакомцами": "Естественно насторожены к незнакомцам, они защитны, но не агрессивны без причины."
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Bloat",
+      "Progressive retinal atrophy",
+      "Cancer (e.g., lymphoma, mast cell tumors)"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine veterinary check-ups",
+      "Screening for hereditary conditions",
+      "Balanced diet",
+      "Early socialization and training"
+    ],
+    "summary": "Bullmastiffs are generally healthy but prone to certain hereditary conditions; regular veterinary care is essential.",
+    "vet_checkups": "At least once a year; more frequent for seniors or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Бульмастифы в целом здоровы, но склонны к некоторым наследственным заболеваниям; регулярный ветеринарный уход необходим.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Вздутие желудка",
+      "Прогрессирующая атрофия сетчатки",
+      "Рак (например, лимфома, мастоцитомы)"
+    ],
+    "советы по профилактике": [
+      "Регулярные физические нагрузки для поддержания здорового веса",
+      "Плановые ветеринарные осмотры",
+      "Скрининг на наследственные заболевания",
+      "Сбалансированное питание",
+      "Ранняя социализация и обучение"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем."
+  },
+  "care": {
+    "behavior": "Early socialization and obedience training are crucial to manage their protective instincts and ensure well-mannered behavior.",
+    "description": "Bullmastiffs require moderate exercise, regular grooming, and consistent training to thrive as companions.",
+    "grooming": "Weekly brushing to manage shedding; regular ear cleaning and dental care.",
+    "health": "Monitor for signs of common health issues; maintain a healthy weight through diet and exercise.",
+    "nutrition": "Provide a balanced diet appropriate for large breeds; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "поведение и характер": "Ранняя социализация и обучение послушанию необходимы для управления их защитными инстинктами и обеспечения хорошего поведения.",
+    "краткое описание ухода": "Бульмастифам требуется умеренная физическая активность, регулярный уход за шерстью и последовательное обучение для полноценной жизни в качестве компаньонов.",
+    "груминг и уход": "Еженедельное расчесывание для контроля линьки; регулярная чистка ушей и уход за зубами.",
+    "здоровье и профилактика": "Следите за признаками распространенных проблем со здоровьем; поддерживайте здоровый вес с помощью диеты и упражнений.",
+    "питание и активность": "Обеспечьте сбалансированное питание, подходящее для крупных пород; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Bullmastiffs good family dogs?",
+      "answer": "Yes, they are loyal and protective, making them excellent family companions."
+    },
+    {
+      "question": "Do Bullmastiffs require a lot of exercise?",
+      "answer": "They need moderate exercise to stay healthy and prevent boredom."
+    },
+    {
+      "question": "Are Bullmastiffs aggressive?",
+      "answer": "They are protective but not aggressive without cause; proper training is essential."
+    },
+    {
+      "question": "Do Bullmastiffs get along with other pets?",
+      "answer": "With early socialization, they can coexist peacefully with other pets."
+    },
+    {
+      "question": "What is the lifespan of a Bullmastiff?",
+      "answer": "Typically, they live between 8 to 10 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Бульмастифы хорошие семейные собаки?",
+      "ответ": "Да, они преданны и защитны, что делает их отличными семейными компаньонами."
+    },
+    {
+      "вопрос": "Требуют ли бульмастифы много физических нагрузок?",
+      "ответ": "Им необходима умеренная физическая активность для поддержания здоровья и предотвращения скуки."
+    },
+    {
+      "вопрос": "Бульмастифы агрессивны?",
+      "ответ": "Они защитны, но не агрессивны без причины; правильное обучение необходимо."
+    },
+    {
+      "вопрос": "Ладят ли бульмастифы с другими животными?",
+      "ответ": "При ранней социализации они могут мирно сосуществовать с другими питомцами."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни бульмастифа?",
+      "ответ": "Обычно они живут от 8 до 10 лет."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/bullmastiff-history/",
+    "https://www.akc.org/dog-breeds/bullmastiff/",
+    "https://www.thekennelclub.org.uk/breed-standards/working/bullmastiff/",
+    "https://www.ukcdogs.com/bullmastiff",
+    "https://bullmastiff.us/about-the-breed/",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/bullmastiff",
+    "https://www.pedigree.ru/porody/bulmastif",
+    "https://royalcanin.ru/dog-breed/bullmastiff",
+    "https://ru.wikipedia.org/wiki/Бульмастиф"
+  ]
+}

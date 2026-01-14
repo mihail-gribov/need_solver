@@ -1,0 +1,183 @@
+{
+  "breed_id": "pomsky",
+  "features": {
+    "shedding": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "coat_type": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "dander_level": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "grooming": {
+      "value": 0.7,
+      "confidence": 0.9
+    },
+    "health_robustness": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "genetic_risk": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "apartment_ok": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "barking": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "energy": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "reactivity": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "noise_tolerance": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "exercise_need": {
+      "value": 0.7,
+      "confidence": 0.9
+    },
+    "alone_tolerance": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "separation_anxiety_risk": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "sitter_compatibility": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "adaptability": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "child_friendly": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "pet_friendly": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "stranger_friendly": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "territoriality": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "protectiveness": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "stress_sensitivity": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "affection_level": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "independence": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "playfulness": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "trainability": {
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "working_drive": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "behavior_management_need": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "mental_stimulation": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "prey_drive": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "hunting_instinct": {
+      "value": 0.6,
+      "confidence": 0.7
+    }
+  },
+  "parameters": {
+    "weight_kg": [
+      {
+        "value": 11.34,
+        "confidence": 0.8,
+        "source": "Hill's Pet"
+      },
+      {
+        "value": 11.34,
+        "confidence": 0.7,
+        "source": "Paws 'N' Pups"
+      },
+      {
+        "value": 11.34,
+        "confidence": 0.6,
+        "source": "PetMD"
+      }
+    ],
+    "height_cm": [
+      {
+        "value": 30.48,
+        "confidence": 0.8,
+        "source": "Hill's Pet"
+      },
+      {
+        "value": 30.48,
+        "confidence": 0.7,
+        "source": "Paws 'N' Pups"
+      },
+      {
+        "value": 30.48,
+        "confidence": 0.6,
+        "source": "PetMD"
+      }
+    ],
+    "lifespan_years": [
+      {
+        "value": 14,
+        "confidence": 0.8,
+        "source": "Hill's Pet"
+      },
+      {
+        "value": 14,
+        "confidence": 0.7,
+        "source": "Paws 'N' Pups"
+      },
+      {
+        "value": 14,
+        "confidence": 0.6,
+        "source": "PetMD"
+      }
+    ]
+  },
+  "notes": "Data compiled from multiple sources; variations exist due to the breed's hybrid nature."
+}

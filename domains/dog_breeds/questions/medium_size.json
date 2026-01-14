@@ -1,0 +1,84 @@
+{
+  "need_id": "medium_size",
+  "formula": "size_medium",
+  "formula_reasoning": "Для потребности в собаке среднего размера используется признак size_medium, который отражает соответствие породы категории веса 10-25 кг. Это наиболее прямой и однозначный индикатор соответствия запросу на средний размер.",
+  "questions": [
+    {
+      "id": "medium_size_q1",
+      "text": "Вам важно, чтобы собака не была ни слишком маленькой, ни слишком крупной по размеру?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = нужен средний размер. Нет = устраивают другие размеры."
+    },
+    {
+      "id": "medium_size_q2",
+      "text": "Планируете ли вы гулять с собакой в городе, где удобнее средний размер?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = городской образ жизни, средний размер предпочтителен. Нет = возможно подходят и маленькие/крупные собаки."
+    },
+    {
+      "id": "medium_size_q3",
+      "text": "В вашей семье есть подростки или взрослые, которые будут выгуливать собаку?",
+      "weight": 0.5,
+      "style": "indirect",
+      "verification": "Да = средний размер удобен для всех возрастов. Нет = возможно предпочтение маленьким или очень крупным породам."
+    },
+    {
+      "id": "medium_size_q4",
+      "text": "Вам удобно поднимать собаку на руки при необходимости (например, в лифте или транспорте)?",
+      "weight": 0.6,
+      "style": "situational",
+      "verification": "Да = возможен выбор средних и малых пород. Нет = средний размер оптимален, слишком крупную поднять сложно."
+    },
+    {
+      "id": "medium_size_q5",
+      "text": "В вашем доме ограничено пространство для собаки, но хочется не совсем маленькую породу?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = средний размер наиболее уместен. Нет = пространство не ограничено или устраивают другие размеры."
+    }
+  ],
+  "need_name": "Medium Size",
+  "need_description": "Medium size required",
+  "block": "size_constraints",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

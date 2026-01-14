@@ -1,0 +1,82 @@
+{
+  "id": "komondor",
+  "name": "Komondor",
+  "full_description": "<p>The Komondor, also known as the Hungarian Sheepdog, is a large, powerfully built breed renowned for its distinctive corded white coat. Originating from Hungary, the Komondor's ancestors are believed to have arrived with the migrating Cumans, a Turkic-speaking nomadic people, during the 12th and 13th centuries. The breed's primary role was to guard livestock, particularly sheep, from predators such as wolves. The earliest written mention of the Komondor dates back to 1544, highlighting its longstanding presence in Hungarian culture. Physically, the Komondor is imposing, with males standing at least 27.5 inches (70 cm) tall and females at least 25.5 inches (65 cm). Males typically weigh between 110 to 132 pounds (50 to 60 kg), while females range from 88 to 110 pounds (40 to 50 kg). The breed's most striking feature is its dense, corded coat, which serves as camouflage among sheep and provides protection against harsh weather and predator attacks. This coat requires meticulous care to maintain its unique appearance and functionality. Temperamentally, the Komondor is calm, steady, and highly protective. Bred to work independently, they possess strong guarding instincts and are naturally wary of strangers. However, they are affectionate and loyal to their families, often forming strong bonds with children and other household members. Their original purpose as livestock guardians has transitioned into roles such as property protection and companionship. Despite their working origins, Komondors can adapt to family life, provided they receive proper training and socialization. Notable characteristics of the breed include their independence, intelligence, and unwavering loyalty. Their unique appearance and protective nature make them both a visual and functional standout among dog breeds.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: 50-60 kg; Females: 40-50 kg",
+    "height": "Males: 70-80 cm; Females: 65-70 cm",
+    "coat": "long, dense, corded, white",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "high maintenance; requires regular care to maintain corded coat",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "The Komondor is a calm and steady breed, known for its strong protective instincts and loyalty to its family.",
+    "with_family": "Affectionate and devoted, forming strong bonds with family members.",
+    "with_children": "Gentle and protective, often acting as a guardian to children.",
+    "with_other_pets": "Generally good with other household pets, especially if raised together.",
+    "with_strangers": "Naturally wary and protective, requiring proper socialization to accept strangers.",
+    "special_traits": [
+      "Independent thinker",
+      "Strong guarding instincts",
+      "Loyal and affectionate with family",
+      "Requires early socialization",
+      "Protective of territory"
+    ]
+  },
+  "health": {
+    "summary": "The Komondor is generally a healthy breed but can be prone to certain genetic conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Bloat (gastric torsion)",
+      "Entropion (eyelid disorder)",
+      "Skin issues due to dense coat"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy diet and weight",
+      "Provide regular exercise",
+      "Monitor for signs of bloat",
+      "Ensure proper grooming to prevent skin issues"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "Komondors require dedicated care, particularly in grooming and socialization, to ensure they are well-adjusted and healthy.",
+    "behavior": "Early and consistent socialization is crucial to manage their protective instincts and ensure they are comfortable around strangers and other animals.",
+    "health": "Regular health screenings and preventive care are essential to address breed-specific health concerns.",
+    "grooming": "The corded coat requires meticulous maintenance to prevent matting and skin issues; regular separation of cords and bathing are necessary.",
+    "nutrition": "A balanced diet appropriate for large breeds is important; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Is the Komondor suitable for first-time dog owners?",
+      "answer": "Due to their independent nature and grooming needs, they are better suited for experienced owners."
+    },
+    {
+      "question": "How much exercise does a Komondor need?",
+      "answer": "Moderate daily exercise, such as walks and playtime, is sufficient to keep them healthy."
+    },
+    {
+      "question": "Are Komondors good with children?",
+      "answer": "Yes, they are gentle and protective, making them good companions for children."
+    },
+    {
+      "question": "Do Komondors shed a lot?",
+      "answer": "They shed minimally, but their coat requires regular maintenance to prevent matting."
+    },
+    {
+      "question": "Can Komondors live in apartments?",
+      "answer": "Due to their size and activity level, they are better suited to homes with ample space."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/fun-facts-komondor/",
+    "https://www.westminsterkennelclub.org/breeds/komondor",
+    "https://en.wikipedia.org/wiki/Komondor",
+    "https://www.akc.org/expert-advice/dog-breeds/komondor-history/",
+    "https://dogshowschool.org/breeds/komondor"
+  ]
+}

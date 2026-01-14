@@ -1,0 +1,84 @@
+{
+  "need_id": "playful",
+  "formula": "playfulness",
+  "formula_reasoning": "Playfulness is directly represented by the 'playfulness' feature, which measures a breed's tendency to enjoy games, interaction, and lively behavior. High playfulness means the dog is likely to enjoy and initiate play frequently.",
+  "questions": [
+    {
+      "id": "playful_q1",
+      "text": "Вам хотелось бы, чтобы собака с удовольствием играла с вами дома и на улице?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = ожидают активную, игривую собаку. Нет = активные игры не важны."
+    },
+    {
+      "id": "playful_q2",
+      "text": "Часто ли вы играете в подвижные игры дома или на прогулках с детьми или друзьями?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = есть привычка к активным играм, собака-игрун будет уместна. Нет = игры нечасты."
+    },
+    {
+      "id": "playful_q3",
+      "text": "Вы рассчитываете, что собака будет вовлекать вас в игры и приносить игрушки?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = ждут игривого поведения. Нет = такие проявления не обязательны."
+    },
+    {
+      "id": "playful_q4",
+      "text": "В вашей семье есть дети, которые любят играть с животными?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = детям нужен игривый компаньон. Нет = детские игры не актуальны."
+    },
+    {
+      "id": "playful_q5",
+      "text": "Хотели бы вы, чтобы собака поддерживала активное настроение дома?",
+      "weight": 0.85,
+      "style": "indirect",
+      "verification": "Да = ценят веселую, игривую атмосферу. Нет = предпочитают спокойствие."
+    }
+  ],
+  "need_name": "Playful",
+  "need_description": "Playful nature",
+  "block": "behavior_character",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

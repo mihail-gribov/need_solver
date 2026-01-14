@@ -1,0 +1,158 @@
+{
+  "id": "shetland-sheepdog",
+  "name": "Shetland Sheepdog",
+  "name_rus": "Шетландская овчарка",
+  "full_description": "<p>The Shetland Sheepdog, affectionately known as the Sheltie, originated in the rugged Shetland Islands of Scotland during the 1800s. Developed by crossing small, intelligent, longhaired breeds with the Border Collie, the Sheltie was bred to herd sheep, ponies, and chickens, effectively keeping them away from cultivated fields in a land with few fences. The harsh terrain and sparse vegetation of the islands favored smaller livestock, necessitating a compact yet agile herding dog. Early Shelties were notably smaller, standing 8 to 10 inches at the withers, but selective breeding increased their size to the current standard of 13 to 16 inches.</p>\n<p>Physically, the Sheltie presents a refined, symmetrical appearance reminiscent of a miniature Rough Collie. They possess a long, blunt wedge-shaped head with a flat skull and a slight but definite stop. Their almond-shaped eyes, set somewhat obliquely, convey an alert and intelligent expression. Ears are small, moderately wide at the base, and carried semi-erect with the top one-fourth tipping forward when alert. The double coat consists of a long, harsh, straight outer coat and a short, dense undercoat, providing protection against harsh weather. Common coat colors include sable, black, and blue merle, often with white markings.</p>\n<p>Temperamentally, Shelties are affectionate, loyal, and highly intelligent, making them eager to please and responsive to training. They are known for their sensitivity to their family's moods and are often described as 'shadow' dogs, following their owners closely. While they are gentle and playful with children, they can be reserved or shy around strangers, making early socialization crucial. Their herding instincts may manifest as nipping at heels during play, a behavior that should be managed through training.</p>\n<p>Originally bred for herding, Shelties excel in various canine sports such as agility, obedience, and herding trials. Their intelligence and eagerness to learn make them suitable for roles as service and therapy dogs. In modern times, they have become popular family companions, ranking consistently among the top breeds in registration statistics. Their compact size, combined with their energetic and affectionate nature, makes them well-suited for both urban and rural living environments.</p>\n<p>Notable characteristics of the Shetland Sheepdog include their keen intelligence, agility, and strong herding instincts. They are known for their vocal nature, often barking to alert their owners of strangers or unusual occurrences. Their beautiful, flowing coat requires regular grooming to maintain its condition and prevent matting. Overall, the Sheltie is a versatile and devoted breed, thriving in environments where they can engage both their minds and bodies.</p>",
+  "full_description_rus": "<p>Шетландская овчарка, или шелти, возникла на суровых Шетландских островах Шотландии в XIX веке. Порода была выведена путем скрещивания небольших, умных, длинношерстных пород с бордер-колли для выпаса овец, пони и кур, эффективно удерживая их подальше от возделываемых полей в условиях отсутствия заборов. Суровый рельеф и скудная растительность островов способствовали разведению более мелкого скота, что требовало компактной, но ловкой пастушьей собаки. Первоначально шелти были значительно меньше, их рост составлял 20–25 см в холке, но в результате селекционного разведения их размер увеличился до нынешнего стандарта 33–41 см.</p>\n<p>Внешне шелти представляют собой изящную, симметричную собаку, напоминающую миниатюрного длинношерстного колли. У них длинная, тупая клиновидная голова с плоским черепом и легким, но четко выраженным переходом ото лба к морде. Миндалевидные глаза, посаженные несколько косо, придают им бдительное и умное выражение. Уши небольшие, умеренно широкие у основания, в состоянии настороженности стоят полуэректно, с загнутыми вперед верхними четвертями. Двойная шерсть состоит из длинного, жесткого, прямого покровного волоса и короткого, плотного подшерстка, обеспечивающего защиту от неблагоприятных погодных условий. Распространенные окрасы включают соболиный, черный и голубой мраморный, часто с белыми отметинами.</p>\n<p>По характеру шелти ласковые, преданные и высокоинтеллектуальные собаки, стремящиеся угодить и легко поддающиеся дрессировке. Они известны своей чувствительностью к настроению семьи и часто описываются как «тени», следуя за своими владельцами повсюду. Хотя они нежны и игривы с детьми, могут быть сдержанными или застенчивыми с незнакомцами, поэтому ранняя социализация крайне важна. Их пастушьи инстинкты могут проявляться в виде покусывания за пятки во время игры, что следует корректировать с помощью обучения.</p>\n<p>Изначально выведенные для пастьбы, шелти преуспевают в различных собачьих видах спорта, таких как аджилити, послушание и пастушьи испытания. Их интеллект и стремление к обучению делают их подходящими для ролей служебных и терапевтических собак. В современное время они стали популярными семейными компаньонами, стабильно занимая высокие позиции в статистике регистрации пород. Их компактный размер, в сочетании с энергичным и ласковым характером, делает их подходящими как для городской, так и для сельской среды.</p>\n<p>Отличительными чертами шетландской овчарки являются их острый ум, ловкость и сильные пастушьи инстинкты. Они известны своей вокальностью, часто лаем предупреждая владельцев о незнакомцах или необычных событиях. Их красивая, струящаяся шерсть требует регулярного ухода для поддержания ее состояния и предотвращения образования колтунов. В целом, шелти — это универсальная и преданная порода, процветающая в условиях, где они могут задействовать как умственные, так и физические способности.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "15-25 pounds",
+    "height": "13-16 inches",
+    "coat": "long, harsh, straight outer coat with a short, dense undercoat",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing every other day to prevent mats",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "6–12 кг",
+    "рост": "33–41 см",
+    "шерсть": "длинная, жесткая, прямая с коротким, плотным подшерстком",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "регулярное вычесывание через день для предотвращения колтунов",
+    "продолжительность жизни": "12–14 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "highly intelligent",
+      "eager to please",
+      "sensitive to owner's emotions",
+      "strong herding instinct",
+      "vocal and alert"
+    ],
+    "summary": "Shelties are affectionate, intelligent, and loyal dogs with strong herding instincts. They are eager to please and highly trainable but can be reserved around strangers. Early socialization is important to develop a well-rounded temperament.",
+    "with_children": "They are gentle and playful with children, making excellent companions. However, their herding instinct may lead them to nip at heels during play, which should be managed through training.",
+    "with_family": "Shelties are deeply devoted to their families, often following members from room to room. They thrive on companionship and are sensitive to their owners' emotions.",
+    "with_other_pets": "Generally good with other dogs and pets, especially when raised together. Their herding instinct may cause them to try to herd other animals.",
+    "with_strangers": "Shelties can be reserved or shy around strangers. Early and consistent socialization helps them become more comfortable with new people."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Шелти — ласковые, умные и преданные собаки с сильными пастушьими инстинктами. Они стремятся угодить и легко поддаются дрессировке, но могут быть сдержанными с незнакомцами. Ранняя социализация важна для формирования уравновешенного характера.",
+    "с семьёй": "Шелти глубоко преданы своей семье, часто следуют за членами семьи из комнаты в комнату. Они процветают в компании и чувствительны к эмоциям своих владельцев.",
+    "с детьми": "Они нежны и игривы с детьми, становясь отличными компаньонами. Однако их пастуший инстинкт может привести к покусыванию за пятки во время игры, что следует корректировать с помощью обучения.",
+    "с другими животными": "В целом хорошо ладят с другими собаками и животными, особенно если выросли вместе. Их пастуший инстинкт может побуждать их пытаться пасти других животных.",
+    "с незнакомцами": "Шелти могут быть сдержанными или застенчивыми с незнакомцами. Ранняя и последовательная социализация помогает им чувствовать себя более комфортно с новыми людьми.",
+    "особые черты": [
+      "высокий интеллект",
+      "стремление угодить",
+      "чувствительность к эмоциям владельца",
+      "сильный пастуший инстинкт",
+      "вокальность и бдительность"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "hip dysplasia",
+      "thyroid disease",
+      "eye diseases",
+      "dermatomyositis (Sheltie Skin Syndrome)",
+      "von Willebrand's disease",
+      "epilepsy"
+    ],
+    "prevention_tips": [
+      "obtain puppies from reputable breeders who perform health screenings",
+      "regular veterinary check-ups",
+      "maintain a healthy diet and weight",
+      "provide regular exercise",
+      "monitor for signs of genetic conditions"
+    ],
+    "summary": "Shelties are generally healthy but can be prone to certain genetic conditions. Responsible breeding and regular veterinary care are essential to maintain their health.",
+    "vet_checkups": "Annual check-ups are recommended, with more frequent visits if health issues arise."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Шелти в целом здоровы, но могут быть склонны к определенным генетическим заболеваниям. Ответственное разведение и регулярный ветеринарный уход необходимы для поддержания их здоровья.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренного сустава",
+      "заболевания щитовидной железы",
+      "глазные заболевания",
+      "дерматомиозит (синдром кожи шелти)",
+      "болезнь фон Виллебранда",
+      "эпилепсия"
+    ],
+    "советы по профилактике": [
+      "приобретайте щенков у проверенных заводчиков, проводящих медицинские обследования",
+      "регулярные визиты к ветеринару",
+      "поддерживайте здоровую диету и вес",
+      "обеспечивайте регулярные физические нагрузки",
+      "следите за признаками генетических заболеваний"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры, с более частыми визитами при возникновении проблем со здоровьем."
+  },
+  "care": {
+    "behavior": "They are intelligent and eager to learn, responding well to positive reinforcement training methods. Early socialization is crucial to prevent shyness.",
+    "description": "Shelties require regular grooming, consistent training, and ample exercise to maintain their physical and mental well-being.",
+    "grooming": "Their long double coat requires brushing every other day to prevent mats and tangles. Increased grooming is needed during shedding seasons.",
+    "health": "Regular veterinary care and attention to genetic health concerns are important. A balanced diet and regular exercise help maintain overall health.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential. Monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "описание": "Шелти требуют регулярного ухода за шерстью, последовательной дрессировки и достаточных физических нагрузок для поддержания физического и психического здоровья.",
+    "поведение и характер": "Они умны и стремятся учиться, хорошо реагируют на методы дрессировки с положительным подкреплением. Ранняя социализация крайне важна для предотвращения застенчивости.",
+    "здоровье и профилактика": "Регулярный ветеринарный уход и внимание к генетическим проблемам здоровья важны. Сбалансированная диета и регулярные физические нагрузки помогают поддерживать общее здоровье.",
+    "груминг и уход": "Их длинная двойная шерсть требует вычесывания через день для предотвращения колтунов и спутывания. В периоды линьки требуется более интенсивный уход.",
+    "питание и активность": "Сбалансированная диета, соответствующая возрасту, размеру и уровню активности, необходима. Контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Shelties good with children?",
+      "answer": "Yes, they are gentle and playful with children but may try to herd them, which should be managed through training."
+    },
+    {
+      "question": "Do Shelties require a lot of exercise?",
+      "answer": "Yes, they are high-energy dogs that need regular physical and mental stimulation."
+    },
+    {
+      "question": "Are Shelties easy to train?",
+      "answer": "Yes, they are highly intelligent and eager to please, making them very trainable."
+    },
+    {
+      "question": "Do Shelties shed a lot?",
+      "answer": "Yes, they have a double coat and shed, especially during seasonal changes."
+    },
+    {
+      "question": "Are Shelties good watchdogs?",
+      "answer": "Yes, they are alert and vocal, often barking to alert their owners of strangers."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Шелти хорошо ладят с детьми?",
+      "ответ": "Да, они нежны и игривы с детьми, но могут пытаться пасти их, что следует корректировать с помощью обучения."
+    },
+    {
+      "вопрос": "Требуют ли шелти много физических нагрузок?",
+      "ответ": "Да, это энергичные собаки, которым необходимы регулярные физические и умственные нагрузки."
+    },
+    {
+      "вопрос": "Легко ли дрессировать шелти?",
+      "ответ": "Да, они очень умны и стремятся угодить, что делает их легко обучаемыми."
+    },
+    {
+      "вопрос": "Сильно ли линяют шелти?",
+      "ответ": "Да, у них двойная шерсть, и они линяют, особенно в периоды сезонных изменений."
+    },
+    {
+      "вопрос": "Хорошие ли сторожевые собаки из шелти?",
+      "ответ": "Да, они бдительны и вокальны, часто лаем предупреждают владельцев о незнакомцах."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/shetland-sheepdog-history/",
+    "https://www.ukcdogs.com/breed-standards/shetland-sheepdog",
+    "https://www.akc.org/expert-advice/lifestyle/7-facts-shetland-sheepdogs/",
+    "https://vcahospitals.com/know-your-pet/dog-breeds/shetland-sheepdog",
+    "https://cdn.akc.org/Marketplace/Health-Statement/Shetland-Sheepdog.pdf"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "kooikerhondje",
+  "name": "Nederlandse Kooikerhondje",
+  "full_description": "<p>The Nederlandse Kooikerhondje, pronounced 'Netherlands-e Coy-ker-hond-tsje,' is a small, spaniel-type breed originating from the Netherlands in the 16th century. Developed as a duck decoy dog, it played a crucial role in the traditional hunting method known as 'Eendenkooi,' where the dog's lively movements and distinctive tail lured ducks into traps. This breed was also favored by Dutch nobility and frequently depicted in paintings by artists like Rembrandt and Vermeer. By the mid-20th century, the Kooikerhondje faced near extinction but was revived through dedicated breeding programs, notably by Baroness van Hardenbroek van Ammerstol in the 1940s. The American Kennel Club (AKC) officially recognized the breed in 2018.</p>\n<p>Physically, the Kooikerhondje is harmoniously built with almost square body proportions. Males typically stand at 16 inches tall, while females are about 15 inches. They possess a medium-length, water-repellent double coat with distinctive orange-red patches on a white background. The well-feathered tail is carried level with or above the topline, and the ears, set above eye level, often feature black tips known as 'earrings.'</p>\n<p>In terms of temperament, the Kooikerhondje is lively, agile, and self-confident. They are good-natured and alert, forming strong bonds with their families. While friendly and easy-going with familiar people, they can be reserved around strangers. Their intelligence and eagerness to please make them highly trainable, though their sensitive nature requires gentle training methods.</p>\n<p>Originally bred for duck decoy work, the Kooikerhondje's agility and attentiveness made it adept at luring ducks into traps. Today, while no longer commonly used for hunting, they excel in various dog sports, including agility, obedience, and scent work. Their versatility and cheerful character have also made them cherished companions worldwide.</p>\n<p>Notable characteristics of the breed include their distinctive 'earrings,' the black tips on their ears, and their fox-like appearance, which historically played a role in their hunting technique. Their well-feathered, waving tail is another hallmark, used historically to attract ducks and now a charming feature in companionship.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "20-30 pounds",
+    "height": "15-16 inches",
+    "coat": "medium-length, water-repellent double coat with orange-red patches on white",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "weekly brushing; regular ear cleaning",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "The Nederlandse Kooikerhondje is a lively, intelligent, and affectionate breed known for its agility and eagerness to please. They form strong bonds with their families and are alert and good-natured.",
+    "with_family": "Kooikerhondjes are devoted and affectionate with family members, often forming strong attachments and enjoying close companionship.",
+    "with_children": "They do well with older children who understand respectful interactions but may be less tolerant of rough play from younger children.",
+    "with_other_pets": "Generally friendly with other pets, especially when socialized early, though their hunting instincts may lead them to chase smaller animals.",
+    "with_strangers": "They can be reserved around strangers, often displaying a cautious demeanor until properly introduced.",
+    "special_traits": [
+      "Sensitive and responsive to training",
+      "High prey drive",
+      "Alert and watchful",
+      "Enjoys interactive play",
+      "Can be reserved with unfamiliar people"
+    ]
+  },
+  "health": {
+    "summary": "The Nederlandse Kooikerhondje is generally a healthy breed with a lifespan of 12-15 years. However, they are prone to certain hereditary health issues that prospective owners should be aware of.",
+    "common_issues": [
+      "Patellar luxation",
+      "Hip dysplasia",
+      "Hereditary necrotizing myelopathy",
+      "Von Willebrand's disease",
+      "Eye disorders"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for known hereditary conditions",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Ensuring a balanced diet"
+    ],
+    "vet_checkups": "Annual check-ups are recommended, with more frequent visits if health issues arise."
+  },
+  "care": {
+    "description": "Caring for a Nederlandse Kooikerhondje involves regular exercise, mental stimulation, and routine grooming to maintain their health and happiness.",
+    "behavior": "They thrive on interactive play and training sessions that challenge their intelligence and agility.",
+    "health": "Regular health screenings and preventive care are essential to monitor and address potential hereditary conditions.",
+    "grooming": "Weekly brushing is necessary to keep their coat free of tangles and mats; regular ear cleaning helps prevent infections.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level supports overall health and energy."
+  },
+  "faq": [
+    {
+      "question": "Is the Nederlandse Kooikerhondje suitable for apartment living?",
+      "answer": "Yes, with sufficient exercise and mental stimulation, they can adapt well to apartment living."
+    },
+    {
+      "question": "How much exercise does a Kooikerhondje need?",
+      "answer": "They require moderate daily exercise, including walks and playtime, to stay healthy and happy."
+    },
+    {
+      "question": "Are Kooikerhondjes easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable with positive reinforcement methods."
+    },
+    {
+      "question": "Do they get along with other dogs?",
+      "answer": "Generally, they are friendly with other dogs, especially when socialized from a young age."
+    },
+    {
+      "question": "What is the grooming requirement for a Kooikerhondje?",
+      "answer": "Weekly brushing and regular ear cleaning are recommended to maintain their coat and ear health."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/c_dg_nederlandse-kooikerhondje",
+    "https://www.akc.org/expert-advice/dog-breeds/behind-the-breed-kooiker-history/",
+    "https://www.akc.org/expert-advice/dog-breeds/fun-facts-nederlandse-kooikerhondje/",
+    "https://www.thekennelclub.org.uk/breed-standards/utility/kooikerhondje/",
+    "https://www.ukcdogs.com/breed-groups/kooikerhondje"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "siberian-husky",
+  "name": "Siberian Husky",
+  "full_description": "<p>The Siberian Husky is a medium-sized working dog renowned for its endurance, intelligence, and friendly disposition. Originating from Northeast Asia, the breed was developed by the Chukchi people of Siberia for sled pulling and companionship. These dogs were integral to the Chukchi's nomadic lifestyle, assisting in transporting goods over vast, icy terrains. In the early 20th century, Siberian Huskies were introduced to Alaska during the Nome Gold Rush, where their sled-pulling capabilities were highly valued. Their fame escalated in 1925 during the 'Great Race of Mercy,' when teams of Huskies delivered life-saving diphtheria serum to Nome, Alaska, under treacherous conditions. Physically, Siberian Huskies possess a well-proportioned, athletic build with erect triangular ears and a dense double coat that provides insulation against harsh Arctic climates. Their almond-shaped eyes can be brown, blue, or heterochromatic, and their coats come in various colors, including black, gray, red, and pure white, often with distinctive facial markings. Temperamentally, they are friendly, gentle, and outgoing, making them excellent family companions. However, their independent and sometimes stubborn nature can pose challenges in training. Originally bred for endurance and speed, they excelled in pulling light loads over long distances in subzero temperatures. Today, while they continue to participate in sled racing and other canine sports, they are also popular as household pets worldwide. Notable characteristics include their high energy levels, intelligence, and a strong prey drive, which may lead them to chase smaller animals. They are also known for their vocalizations, often howling rather than barking, and their tendency to escape if not securely confined.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "35-60 pounds (16-27 kg)",
+    "height": "20-23.5 inches (51-60 cm)",
+    "coat": "thick double coat, various colors",
+    "activity": "high",
+    "trainability": "moderate",
+    "grooming": "weekly brushing; more frequent during shedding seasons",
+    "lifespan": "12-14 years"
+  },
+  "behavior": {
+    "summary": "Siberian Huskies are friendly, energetic, and intelligent dogs with a strong independent streak. They are social animals that thrive on companionship and require regular mental and physical stimulation.",
+    "with_family": "They are affectionate and loyal to family members, often forming strong bonds with all household members.",
+    "with_children": "Generally good with children, displaying patience and playfulness, making them suitable family pets.",
+    "with_other_pets": "They can coexist with other dogs but may have a strong prey drive towards smaller animals, requiring supervision.",
+    "with_strangers": "Typically friendly and sociable with strangers, making them poor guard dogs.",
+    "special_traits": [
+      "high energy levels",
+      "independent nature",
+      "strong prey drive",
+      "vocal tendencies",
+      "escape artist behavior"
+    ]
+  },
+  "health": {
+    "summary": "Siberian Huskies are generally healthy but can be prone to certain genetic conditions. Regular veterinary care and a healthy lifestyle are essential for their well-being.",
+    "common_issues": [
+      "hip dysplasia",
+      "eye disorders (e.g., juvenile cataracts, progressive retinal atrophy)",
+      "hypothyroidism",
+      "skin conditions",
+      "allergies"
+    ],
+    "prevention_tips": [
+      "regular exercise",
+      "balanced diet",
+      "routine veterinary check-ups",
+      "genetic screening for breeding dogs",
+      "maintaining a clean living environment"
+    ],
+    "vet_checkups": "at least once a year; more frequent for senior dogs or those with health issues"
+  },
+  "care": {
+    "description": "Siberian Huskies require dedicated care, including regular exercise, grooming, and mental stimulation to maintain their health and happiness.",
+    "behavior": "Due to their high energy and intelligence, they need daily physical activity and mental challenges to prevent boredom and destructive behavior.",
+    "health": "Regular veterinary visits and preventive care are crucial to monitor and maintain their overall health.",
+    "grooming": "Their thick double coat requires weekly brushing, with increased frequency during shedding seasons to manage hair loss.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential; consult a veterinarian for specific dietary recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are Siberian Huskies good for first-time dog owners?",
+      "answer": "Due to their independent nature and high energy levels, they may be challenging for first-time owners without prior experience."
+    },
+    {
+      "question": "Do Siberian Huskies require a lot of exercise?",
+      "answer": "Yes, they need substantial daily exercise to meet their physical and mental stimulation needs."
+    },
+    {
+      "question": "Are Siberian Huskies prone to escaping?",
+      "answer": "Yes, they are known as escape artists and require secure fencing and supervision."
+    },
+    {
+      "question": "Do Siberian Huskies get along with other pets?",
+      "answer": "They can coexist with other dogs but may have a strong prey drive towards smaller animals."
+    },
+    {
+      "question": "How often do Siberian Huskies shed?",
+      "answer": "They shed moderately year-round and heavily twice a year during seasonal changes."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/Siberian-husky",
+    "https://en.wikipedia.org/wiki/Siberian_Husky",
+    "https://www.westminsterkennelclub.org/breed/siberian-husky/",
+    "https://www.purina.com/dogs/dog-breeds/siberian-husky",
+    "https://www.akc.org/expert-advice/dog-breeds/siberian-husky-right-for-you/"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "welsh-terrier",
+  "name": "Welsh Terrier",
+  "full_description": "<p>The Welsh Terrier, often referred to as the 'Welshie,' is a breed with deep roots in Wales, dating back to the 1700s. Originally bred for hunting foxes, rodents, and badgers in the rugged terrains of northern Wales, they have evolved into both show dogs and cherished companions. Despite their transition to domestic life, Welsh Terriers have retained their strong hunting instincts and energetic nature. Physically, they are sturdy and compact, standing about 15 inches (38 cm) tall and weighing approximately 20 pounds (9 kg). Their distinctive appearance includes a hard, wiry coat, typically black-and-tan, with wide-set eyes and a flat skull that imparts an intelligent expression. Temperamentally, Welsh Terriers are lively, intelligent, and loyal. They exhibit a friendly and outgoing demeanor, making them excellent family pets. Their energetic disposition necessitates regular exercise to prevent boredom and potential mischief. Historically, their working abilities were honed for hunting small game, and they have maintained a strong prey drive. In modern times, they are appreciated for their companionship and adaptability, fitting well into various family settings. Notable characteristics of the breed include their minimal shedding, making them suitable for individuals with mild allergies, and their resemblance to a smaller version of the Airedale Terrier.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "18-20 pounds (8-9 kg)",
+    "height": "14-15.5 inches (35-39 cm)",
+    "coat": "hard, wiry, dense; black-and-tan or grizzle-and-tan",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming every 2-3 months",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Welsh Terriers are energetic, intelligent, and friendly dogs with a strong prey drive and a playful nature.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and affection.",
+    "with_children": "Generally good with children, especially when socialized early; their playful nature aligns well with active kids.",
+    "with_other_pets": "May exhibit a strong prey drive; early socialization is crucial for harmonious relationships with other pets.",
+    "with_strangers": "Typically friendly and outgoing, though they can be reserved initially.",
+    "special_traits": [
+      "Energetic and playful",
+      "Strong prey drive",
+      "Intelligent and trainable",
+      "Loyal and affectionate",
+      "Minimal shedding"
+    ]
+  },
+  "health": {
+    "summary": "Welsh Terriers are generally healthy but can be prone to certain genetic conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Primary lens luxation",
+      "Glaucoma",
+      "Atopic dermatitis",
+      "Addison's disease"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide a balanced diet",
+      "Ensure regular exercise",
+      "Monitor for signs of skin or eye issues"
+    ],
+    "vet_checkups": "Annually, or more frequently if health issues arise"
+  },
+  "care": {
+    "description": "Welsh Terriers require regular exercise, mental stimulation, and consistent grooming to maintain their health and happiness.",
+    "behavior": "Engage in daily activities like walks, play sessions, and training to keep them mentally and physically stimulated.",
+    "health": "Monitor for common health issues and maintain regular veterinary visits to ensure overall well-being.",
+    "grooming": "Brush their coat several times a week and schedule professional grooming every 2-3 months to maintain coat health.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; consult a veterinarian for specific dietary recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are Welsh Terriers good with children?",
+      "answer": "Yes, they are generally good with children, especially when socialized early."
+    },
+    {
+      "question": "Do Welsh Terriers shed a lot?",
+      "answer": "No, they have minimal shedding but require regular grooming."
+    },
+    {
+      "question": "How much exercise does a Welsh Terrier need?",
+      "answer": "They require daily exercise to meet their high energy levels."
+    },
+    {
+      "question": "Are Welsh Terriers easy to train?",
+      "answer": "Yes, they are intelligent and respond well to consistent training."
+    },
+    {
+      "question": "Do Welsh Terriers get along with other pets?",
+      "answer": "Early socialization is key, as they have a strong prey drive."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/Welsh-terrier",
+    "https://en.wikipedia.org/wiki/Welsh_Terrier",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-welsh-terriers",
+    "https://www.petmd.com/dog/breeds/welsh-terrier",
+    "https://www.purina.com/dogs/dog-breeds/welsh-terrier",
+    "https://www.westminsterkennelclub.org/breed/welsh-terrier/",
+    "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/medium-dogs/welsh-terrier",
+    "https://www.villageanimalclinic.org/client-resources/breed-info/welsh-terrier/",
+    "https://www.petgov.com/dog-breeds/welsh-terrier.html",
+    "https://www.akc.org/expert-advice/lifestyle/10-facts-about-welsh-terriers/"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "briard",
+  "name": "Briard",
+  "full_description": "<p>The Briard, also known as the Berger de Brie, is a French breed of large shepherd dog with a rich history dating back to the 8th century. Originating in the Brie region of France, these dogs were traditionally used for herding and guarding sheep. Their versatility made them invaluable on farms, where they not only managed livestock but also protected the homestead. Notably, historical figures such as Napoleon and Thomas Jefferson were known to have owned Briards. During both World Wars, the Briard served as the official dog of the French army, performing roles such as carrying supplies, acting as sentries, and locating wounded soldiers on the battlefield. Physically, the Briard is a robust and muscular dog, standing between 22 to 27 inches tall and weighing between 55 to 100 pounds. They possess a distinctive long, wavy double coat that comes in colors like black, gray, and tawny. Their expressive eyes are often hidden beneath bushy eyebrows, and they have a characteristic shaggy beard. A unique feature of the breed is the presence of double dewclaws on each rear leg. Temperamentally, Briards are known for their intelligence, loyalty, and protective nature. They form strong bonds with their families and are particularly gentle with children. Their herding instincts make them vigilant and responsive, often displaying a keen sense of awareness of their surroundings. Originally bred for herding and guarding, Briards have a strong work ethic and excel in various canine sports and activities. In modern times, while they are still used in herding, they have also become cherished companion animals. Their affectionate nature and adaptability have contributed to their popularity in households worldwide. Notable characteristics of the Briard include their exceptional memory, agility, and a coat that requires regular grooming to maintain its health and appearance. Their combination of strength, intelligence, and devotion makes them a unique and cherished breed.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "55-100 pounds",
+    "height": "22-27 inches",
+    "coat": "long, wavy double coat",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "daily brushing; regular grooming",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "Briards are intelligent, loyal, and protective dogs with a strong herding instinct. They form deep bonds with their families and are known for their gentle nature, especially with children.",
+    "with_family": "Briards are affectionate and devoted to their families, often acting as vigilant guardians. They thrive on companionship and are happiest when involved in family activities.",
+    "with_children": "Known for their gentle and patient demeanor, Briards are excellent companions for children. Their protective nature ensures they are watchful over younger family members.",
+    "with_other_pets": "With proper socialization, Briards can coexist peacefully with other pets. Their herding instincts may lead them to attempt to herd smaller animals.",
+    "with_strangers": "Briards can be reserved around strangers, often displaying a cautious demeanor. Early socialization helps them become more accepting of unfamiliar people.",
+    "special_traits": [
+      "Strong protective instincts",
+      "Exceptional memory",
+      "High intelligence",
+      "Affectionate with family",
+      "Vigilant and alert"
+    ]
+  },
+  "health": {
+    "summary": "Briards are generally healthy but are predisposed to certain conditions such as hip dysplasia, eye disorders, and bloat. Regular veterinary care and preventive measures are essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Congenital stationary night blindness",
+      "Cataracts",
+      "Bloat (gastric torsion)",
+      "Hypothyroidism"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy diet and weight",
+      "Provide regular exercise",
+      "Monitor for signs of bloat",
+      "Genetic testing for eye conditions"
+    ],
+    "vet_checkups": "At least once a year; more frequently for puppies and senior dogs."
+  },
+  "care": {
+    "description": "Briards require attentive care, including regular grooming, exercise, and health monitoring to ensure their well-being.",
+    "behavior": "Due to their intelligence and energy, Briards need mental stimulation and physical activity. Training sessions and interactive play are beneficial.",
+    "health": "Regular health screenings and preventive care are crucial to detect and manage breed-specific health issues early.",
+    "grooming": "Daily brushing is necessary to prevent matting of their long coat. Regular grooming sessions help maintain coat health and hygiene.",
+    "nutrition": "A balanced diet tailored to their size and activity level is essential. Monitoring food intake helps prevent obesity and related health issues."
+  },
+  "faq": [
+    {
+      "question": "Are Briards good with children?",
+      "answer": "Yes, Briards are known for their gentle and protective nature, making them excellent companions for children."
+    },
+    {
+      "question": "How much exercise does a Briard need?",
+      "answer": "Briards have high energy levels and require regular, vigorous exercise to stay healthy and happy."
+    },
+    {
+      "question": "Do Briards shed a lot?",
+      "answer": "Briards have a long coat that sheds minimally but requires regular grooming to prevent matting."
+    },
+    {
+      "question": "Are Briards easy to train?",
+      "answer": "Yes, their high intelligence and eagerness to please make them highly trainable, though they can be independent-minded."
+    },
+    {
+      "question": "What is the lifespan of a Briard?",
+      "answer": "Briards typically live between 10 to 12 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/6-facts-about-the-briard/",
+    "https://www.petmd.com/dog/breeds/briard",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-briards",
+    "https://www.purina.com/dogs/dog-breeds/briard",
+    "https://www.westminsterkennelclub.org/breed/briard/",
+    "https://vcahospitals.com/know-your-pet/briard",
+    "https://briard.com/health.html",
+    "https://www.petguide.com/breeds/dog/briard/",
+    "https://www.chewy.com/education/dog-breeds/briard",
+    "https://www.breedscout.com/breeds/briard"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "leonberger",
+  "name": "Leonberger",
+  "full_description": "<p>The Leonberger is a majestic giant breed originating from Leonberg, Germany, in the mid-19th century. Developed by Heinrich Essig, the breed was created by crossing a female Landseer Newfoundland with a male from the Great St. Bernard Hospice and Monastery, later incorporating the Pyrenean Mountain Dog. This deliberate breeding aimed to produce a dog resembling the lion on the town's crest. The Leonberger quickly gained favor among European royalty, including Empress Elisabeth of Austria and Napoleon III. Physically, Leonbergers are large, muscular dogs with a balanced build. Males typically stand between 28 to 31.5 inches at the shoulder, while females range from 25.5 to 29.5 inches. Their weight is proportionate to their size, with males weighing between 110 to 170 pounds and females between 90 to 140 pounds. They possess a medium to long, water-resistant double coat that comes in colors from golden yellow to red, always accompanied by a black mask. Males often exhibit a lion-like mane around the neck and chest. Temperamentally, Leonbergers are known for their calm, friendly, and gentle nature. They are affectionate with family members, including children, and are generally sociable with other animals. Their intelligence and eagerness to please make them highly trainable. Originally bred for companionship, they have also been utilized in roles such as water rescue and draft work. In modern times, Leonbergers serve as versatile working dogs and devoted family companions. Notable characteristics include their imposing yet graceful presence, webbed paws aiding in swimming, and a distinctive black mask that enhances their expressive faces.</p>",
+  "parameters": {
+    "size": "giant",
+    "weight": "Males: 110-170 pounds; Females: 90-140 pounds",
+    "height": "Males: 28-31.5 inches; Females: 25.5-29.5 inches",
+    "coat": "Medium to long, water-resistant double coat; colors range from golden yellow to red with a black mask",
+    "activity": "Moderate to high",
+    "trainability": "High",
+    "grooming": "Regular brushing required; daily during shedding seasons",
+    "lifespan": "8-10 years"
+  },
+  "behavior": {
+    "summary": "Leonbergers are gentle giants known for their affectionate and friendly nature. They are intelligent, eager to please, and adapt well to family life, making them excellent companions.",
+    "with_family": "Highly affectionate and loyal, Leonbergers form strong bonds with family members and thrive on companionship.",
+    "with_children": "Known for their patience and gentleness, they are excellent with children, often acting as protective yet playful companions.",
+    "with_other_pets": "Generally sociable with other animals, especially when properly socialized from a young age.",
+    "with_strangers": "Friendly and approachable, though they may be cautious initially; proper socialization ensures they are well-mannered with new people.",
+    "special_traits": [
+      "Affectionate and loyal",
+      "Intelligent and trainable",
+      "Gentle with children",
+      "Sociable with other animals",
+      "Calm and friendly demeanor"
+    ]
+  },
+  "health": {
+    "summary": "Leonbergers are generally healthy but, like many large breeds, are prone to certain health issues. Regular veterinary care and a healthy lifestyle can help manage these risks.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Osteochondritis",
+      "Addison's disease",
+      "Bloat (gastric torsion)"
+    ],
+    "prevention_tips": [
+      "Provide a balanced diet to maintain healthy weight",
+      "Ensure regular, moderate exercise",
+      "Schedule routine veterinary check-ups",
+      "Monitor for signs of bloat and seek immediate veterinary care if symptoms arise",
+      "Consider genetic screening for hereditary conditions"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with health concerns."
+  },
+  "care": {
+    "description": "Leonbergers require attentive care, including regular grooming, exercise, and health monitoring to ensure their well-being.",
+    "behavior": "Early socialization and consistent training are essential to develop well-mannered and confident dogs.",
+    "health": "Regular veterinary visits and preventive care are crucial to manage potential health issues common in large breeds.",
+    "grooming": "Daily brushing is recommended during shedding seasons to manage their thick double coat; regular ear cleaning and nail trimming are also important.",
+    "nutrition": "A balanced diet appropriate for large breeds, divided into two meals per day to reduce the risk of bloat."
+  },
+  "faq": [
+    {
+      "question": "Are Leonbergers good with children?",
+      "answer": "Yes, they are known for their gentle and patient nature, making them excellent companions for children."
+    },
+    {
+      "question": "How much exercise does a Leonberger need?",
+      "answer": "They require moderate to high levels of exercise, including daily walks and playtime to maintain their health and happiness."
+    },
+    {
+      "question": "Do Leonbergers shed a lot?",
+      "answer": "Yes, they have a thick double coat and shed heavily, especially during seasonal changes; regular grooming helps manage shedding."
+    },
+    {
+      "question": "Are Leonbergers easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, which makes them highly trainable with consistent, positive reinforcement methods."
+    },
+    {
+      "question": "What is the average lifespan of a Leonberger?",
+      "answer": "Leonbergers typically live between 8 to 10 years."
+    }
+  ],
+  "sources": [
+    "https://www.petco.com/content/content-hub/home/breeds/dog-breeds/leonberger.html",
+    "https://en.wikipedia.org/wiki/Leonberger",
+    "https://www.hillspet.com/dog-care/dog-breeds/leonberger",
+    "https://www.vdh.de/welpen/mein-welpe/leonberger",
+    "https://www.fci.be/Nomenclature/Standards/145g02-en.pdf",
+    "https://www.akc.org/dog-breeds/leonberger/"
+  ]
+}

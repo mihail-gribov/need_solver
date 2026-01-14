@@ -1,0 +1,83 @@
+{
+  "id": "cardigan-welsh-corgi",
+  "name": "Cardigan Welsh Corgi",
+  "full_description": "<p>The Cardigan Welsh Corgi is one of the oldest herding breeds, originating in Wales over 3,000 years ago. Brought by Celtic tribes migrating from Central Europe, these dogs were developed to herd cattle and guard farms. Their low stature allowed them to nip at the heels of cattle while avoiding kicks. Historically, the Cardigan and Pembroke Welsh Corgis were considered a single breed until 1934, when they were recognized as distinct breeds by The Kennel Club in the UK. Physically, the Cardigan Welsh Corgi is a small to medium-sized dog with a sturdy build. Males typically weigh between 30 to 38 pounds (13.6 to 17.2 kg), while females range from 25 to 34 pounds (11.3 to 15.4 kg). They stand about 10.5 to 12.5 inches (26.7 to 31.8 cm) tall at the withers. The breed is characterized by its long body, short legs, large rounded ears, and a bushy tail resembling that of a fox. Their double coat is weather-resistant, with a hard-textured outer layer and a soft undercoat, coming in various colors including red, sable, brindle, black, and blue merle, often with white markings. Temperamentally, Cardigans are intelligent, loyal, and affectionate. They are known for their even-tempered nature and adaptability, making them suitable for both city and country living. While they can be reserved around strangers, they are devoted to their families and can be playful once comfortable. Their herding instincts may manifest in behaviors like nipping at running children, which requires proper training to manage. Originally bred for herding and guarding livestock, Cardigans are agile and capable of great power and endurance. Today, they excel in various canine sports such as agility, obedience, and herding trials. Their versatility and trainability make them excellent companions for active families. Notable characteristics of the breed include their distinctive long tail, which sets them apart from the Pembroke Welsh Corgi, and their wide range of coat colors. Their combination of intelligence, loyalty, and adaptability has contributed to their enduring popularity as both working dogs and family pets.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "Males: 30-38 lbs (13.6-17.2 kg); Females: 25-34 lbs (11.3-15.4 kg)",
+    "height": "10.5-12.5 inches (26.7-31.8 cm)",
+    "coat": "Double coat; hard-textured outer layer with a soft undercoat; colors include red, sable, brindle, black, and blue merle, often with white markings",
+    "activity": "medium",
+    "trainability": "high",
+    "grooming": "regular brushing; moderate shedding",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Cardigan Welsh Corgis are intelligent, loyal, and adaptable dogs with a strong herding instinct. They are affectionate with their families and can be reserved around strangers.",
+    "with_family": "Devoted and affectionate, forming strong bonds with family members. They thrive on companionship and enjoy participating in family activities.",
+    "with_children": "Generally good with children, especially when raised together. Their herding instincts may lead to nipping behaviors, which should be addressed through training.",
+    "with_other_pets": "Can coexist well with other pets if properly socialized. Their herding background may cause them to attempt to herd other animals.",
+    "with_strangers": "Tend to be reserved or cautious around strangers, making them effective watchdogs. Early socialization can help them become more comfortable with new people.",
+    "special_traits": [
+      "Strong herding instinct",
+      "Loyal and affectionate",
+      "Intelligent and trainable",
+      "Adaptable to various living environments",
+      "Alert and vigilant"
+    ]
+  },
+  "health": {
+    "summary": "Cardigan Welsh Corgis are generally healthy but are prone to certain hereditary conditions. Regular veterinary care and preventive measures can help maintain their well-being.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Degenerative myelopathy",
+      "Intervertebral disc disease (IVDD)",
+      "Dental disease"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain a healthy weight",
+      "Routine eye examinations to detect early signs of PRA",
+      "Genetic testing for degenerative myelopathy",
+      "Avoiding excessive jumping to reduce the risk of IVDD",
+      "Consistent dental care, including brushing and professional cleanings"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with existing health conditions."
+  },
+  "care": {
+    "description": "Cardigan Welsh Corgis require regular exercise, mental stimulation, and consistent grooming to maintain their health and happiness.",
+    "behavior": "Provide daily physical and mental activities to prevent boredom and manage their herding instincts. Training should be consistent and positive.",
+    "health": "Monitor for signs of common health issues and maintain a healthy weight through diet and exercise. Regular veterinary checkups are essential.",
+    "grooming": "Brush their double coat at least once a week to manage shedding and maintain coat health. Increase frequency during seasonal shedding periods.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level. Monitor food intake to prevent obesity, which can exacerbate health issues."
+  },
+  "faq": [
+    {
+      "question": "Are Cardigan Welsh Corgis good with children?",
+      "answer": "Yes, they are generally good with children, especially when raised together. Supervision and training are recommended to manage their herding instincts."
+    },
+    {
+      "question": "How much exercise does a Cardigan Welsh Corgi need?",
+      "answer": "They require moderate daily exercise, such as walks and playtime, to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Cardigan Welsh Corgis shed a lot?",
+      "answer": "They have a double coat and shed moderately year-round, with increased shedding during seasonal changes. Regular brushing helps manage this."
+    },
+    {
+      "question": "Are Cardigan Welsh Corgis easy to train?",
+      "answer": "Yes, they are intelligent and respond well to positive reinforcement training methods. Consistency is key."
+    },
+    {
+      "question": "What is the difference between a Cardigan and a Pembroke Welsh Corgi?",
+      "answer": "The Cardigan has a long tail, larger ears, and a more robust build compared to the Pembroke, which typically has a docked tail and smaller ears."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cardigan_Welsh_Corgi",
+    "https://www.petmd.com/dog/breeds/cardigan-welsh-corgi",
+    "https://www.purina.com/dogs/dog-breeds/cardigan-welsh-corgi",
+    "https://audubonanimalclinic.com/client-resources/breed-info/cardigan-welsh-corgi/",
+    "https://www.lancasterpuppies.com/pet-advice/corgi-health-problems-pembroke-cardigan-welsh-corgis-guide.html"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "american-pit-bull-terrier",
+  "name": "American Pit Bull Terrier",
+  "full_description": "<p>The American Pit Bull Terrier (APBT) is a medium-sized, solidly built dog with a short, smooth coat and well-defined musculature. Originating in the United States in the late 19th century, the breed was developed from a mix of Old English Bulldogs and Old English Terriers, aiming to combine the strength and tenacity of the bulldog with the agility and gameness of the terrier. Historically, APBTs were bred for bull-baiting and later for dog fighting, but over time, they transitioned into roles as farm dogs and family companions. Physically, the APBT exhibits a broad, flat skull with a wide, deep muzzle. Their eyes are round to almond-shaped, and their ears are small to medium in size, set high on the head, and may be natural or cropped. The tail is relatively short, set low, thick at the base, and tapers to a point. The breed's coat is glossy, smooth, short, and stiff to the touch, coming in all colors and color patterns except merle. Males typically stand between 18–21 inches (45–53 cm) at the withers and weigh around 35–60 pounds (15–27 kg), while females are slightly smaller, standing 17–20 inches (43–50 cm) tall and weighing 30–50 pounds (13–22 kg). Temperamentally, APBTs are known for their strength, confidence, and eagerness to please. They are affectionate, joyful dogs that form strong bonds with their families and are particularly loving and protective around children. Their friendly nature often extends to strangers, making them less suitable as guard dogs. The breed's natural agility and intelligence make them excel in various performance events, including weight pulling, agility, flyball, and obedience competitions. In modern times, APBTs serve as companion animals and working dogs in roles such as search and rescue, police work, and therapy. Notable characteristics of the breed include their athleticism, loyalty, and versatility. However, it's important to note that the breed has faced breed-specific legislation in various countries and regions due to concerns about aggression, often stemming from irresponsible ownership and lack of proper training and socialization.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "30–60 pounds (13–27 kg)",
+    "height": "17–21 inches (43–53 cm)",
+    "coat": "short, smooth, glossy",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "minimal; regular brushing",
+    "lifespan": "12–14 years"
+  },
+  "behavior": {
+    "summary": "Affectionate and loyal, the American Pit Bull Terrier forms strong bonds with its family and exhibits a friendly demeanor.",
+    "with_family": "APBTs are devoted to their families, displaying affectionate and protective behaviors.",
+    "with_children": "Known for their love of children, they are gentle and patient, making them excellent companions for kids.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets, though their strong prey drive requires supervision.",
+    "with_strangers": "Generally friendly towards strangers, they may not be effective as guard dogs due to their sociable nature.",
+    "special_traits": [
+      "Highly intelligent",
+      "Eager to please",
+      "Energetic and playful",
+      "Strong prey drive",
+      "Requires consistent training"
+    ]
+  },
+  "health": {
+    "summary": "The American Pit Bull Terrier is generally a healthy breed with a lifespan of 12–14 years, though they are prone to certain genetic conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Degenerative myelopathy",
+      "Skin allergies",
+      "Thyroid dysfunction"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Balanced diet to support overall health",
+      "Routine veterinary check-ups",
+      "Early screening for genetic conditions",
+      "Proper grooming to prevent skin issues"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "The American Pit Bull Terrier requires consistent training, regular exercise, and proper socialization to thrive as a family companion.",
+    "behavior": "Early socialization and obedience training are essential to ensure well-mannered behavior.",
+    "health": "Maintain a healthy lifestyle with regular exercise and a balanced diet to prevent common health issues.",
+    "grooming": "Minimal grooming is needed; regular brushing helps maintain coat health and reduces shedding.",
+    "nutrition": "Provide a high-quality diet appropriate for their age, size, and activity level."
+  },
+  "faq": [
+    {
+      "question": "Are American Pit Bull Terriers good with children?",
+      "answer": "Yes, they are known for their affectionate and gentle nature with children, making them excellent family pets."
+    },
+    {
+      "question": "Do APBTs require a lot of exercise?",
+      "answer": "Yes, they are energetic dogs that benefit from regular physical activity to maintain their health and happiness."
+    },
+    {
+      "question": "Are American Pit Bull Terriers aggressive?",
+      "answer": "With proper training and socialization, they are friendly and non-aggressive; aggression often results from irresponsible ownership."
+    },
+    {
+      "question": "Do they get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, but supervision is recommended due to their prey drive."
+    },
+    {
+      "question": "What is the lifespan of an American Pit Bull Terrier?",
+      "answer": "They typically live between 12 to 14 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/American_Pit_Bull_Terrier",
+    "https://www.ukcdogs.com/american-pit-bull-terrier",
+    "https://www.wisdompanel.com/en-gb/dog-breeds/american-pit-bull-terrier",
+    "https://www.gooddog.com/breeds/american-pit-bull-terrier"
+  ]
+}

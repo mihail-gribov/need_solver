@@ -1,0 +1,163 @@
+{
+  "id": "spanish-water-dog",
+  "name": "Spanish Water Dog",
+  "name_rus": "Испанская водяная собака",
+  "full_description": "<p>The Spanish Water Dog (SWD) is a versatile and rustic breed originating from the Iberian Peninsula, particularly Spain. Historically, these dogs were bred for a multitude of tasks, including herding livestock such as sheep and goats, assisting fishermen by retrieving nets and lost tackle, and hunting game in marshlands. Their adaptability made them invaluable companions in various working environments. Physically, the SWD is a medium-sized, well-proportioned dog with a sturdy and athletic build. Males typically stand between 17.5 to 19.75 inches (44.5 to 50 cm) at the withers, while females range from 15.75 to 18 inches (40 to 45.7 cm). Their weight is proportionate to their height, generally falling between 30 to 50 pounds (13.6 to 22.7 kg). One of the breed's most distinctive features is its curly, woolly coat, which can form cords when left untrimmed. This single-layer coat comes in solid colors such as black, brown, beige, or white, as well as bicolor combinations where one color is white. The coat is adapted to the varying humidity and drought conditions of their homeland and should always be maintained in its natural state without aesthetic grooming. Temperamentally, Spanish Water Dogs are known for their intelligence, loyalty, and affectionate nature. They are vigilant and naturally protective, making them excellent watchdogs. Their high energy levels and eagerness to please contribute to their trainability, though they require consistent and structured training routines. Socialization from an early age is crucial to ensure they are well-adjusted and comfortable in various settings. Originally, the SWD's primary roles included herding livestock, assisting fishermen, and hunting. Their keen sense of smell and strong work ethic made them adept at these tasks. In contemporary times, while they still participate in herding and hunting activities, they have also become popular as companion animals and excel in various dog sports and performance events due to their agility and intelligence. Notable characteristics of the breed include their hypoallergenic coat, which sheds minimally, making them suitable for individuals with allergies. Their versatility in various roles, combined with their affectionate and loyal nature, has contributed to their growing popularity worldwide. However, potential owners should be prepared to meet their exercise and mental stimulation needs to ensure a happy and well-balanced dog.</p>",
+  "full_description_rus": "<p>Испанская водяная собака (ИВС) — универсальная и выносливая порода, происходящая с Пиренейского полуострова, особенно из Испании. Исторически эти собаки выполняли множество задач, включая выпас овец и коз, помощь рыбакам в извлечении сетей и потерянных снастей, а также охоту на дичь в болотистых местностях. Их адаптивность делала их незаменимыми компаньонами в различных рабочих условиях. Физически ИВС — собака среднего размера с крепким и атлетичным телосложением. Рост кобелей обычно составляет от 44 до 50 см в холке, сук — от 40 до 46 см. Вес пропорционален росту и обычно находится в диапазоне от 14 до 22 кг. Одной из самых отличительных черт породы является ее кудрявая, шерстяная шерсть, которая при отсутствии стрижки может образовывать шнуры. Эта однослойная шерсть бывает однотонных окрасов, таких как черный, коричневый, белый, а также двухцветных комбинаций, где один из цветов — белый. Шерсть адаптирована к различным условиям влажности и засухи их родины и должна поддерживаться в естественном состоянии без эстетического груминга. По темпераменту испанские водяные собаки известны своим интеллектом, преданностью и ласковым характером. Они бдительны и естественно защищают свою семью, что делает их отличными сторожевыми собаками. Высокий уровень энергии и стремление угодить способствуют их обучаемости, хотя они требуют последовательных и структурированных тренировок. Социализация с раннего возраста крайне важна для обеспечения их комфортного поведения в различных ситуациях. Первоначально основные роли ИВС включали выпас скота, помощь рыбакам и охоту. Их острое обоняние и сильная трудовая этика делали их искусными в этих задачах. В современное время, хотя они все еще участвуют в пастушьих и охотничьих мероприятиях, они также стали популярными компаньонами и преуспевают в различных собачьих видах спорта и соревнованиях благодаря своей ловкости и интеллекту. Примечательные характеристики породы включают их гипоаллергенную шерсть, которая минимально линяет, что делает их подходящими для людей с аллергией. Их универсальность в различных ролях, в сочетании с их ласковым и преданным характером, способствовала росту их популярности во всем мире. Однако потенциальные владельцы должны быть готовы удовлетворять их потребности в физических упражнениях и умственной стимуляции, чтобы обеспечить счастливую и уравновешенную собаку.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "30-50 pounds (13.6-22.7 kg)",
+    "height": "15.75-19.75 inches (40-50 cm)",
+    "coat": "curly, woolly, single-layer; colors include solid black, brown, beige, white, or bicolor with white",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "minimal; annual shearing recommended; avoid brushing or combing",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "14-22 кг",
+    "рост": "40-50 см",
+    "шерсть": "кудрявая, шерстяная, однослойная; окрасы: однотонные черный, коричневый, белый, а также двухцветные с белым",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "минимальный; рекомендуется ежегодная стрижка; избегать расчесывания или вычесывания",
+    "продолжительность жизни": "12-14 лет"
+  },
+  "behavior": {
+    "summary": "Spanish Water Dogs are intelligent, loyal, and energetic, thriving on companionship and structured activities.",
+    "with_family": "They form strong bonds with family members, displaying affection and a desire to be involved in daily activities.",
+    "with_children": "Generally good with children, especially when socialized early; supervision is recommended to manage their herding instincts.",
+    "with_other_pets": "Can coexist well with other pets if introduced properly; their herding background may lead to attempts to herd other animals.",
+    "with_strangers": "Naturally protective and may be reserved around strangers; early socialization helps in developing a well-mannered demeanor.",
+    "special_traits": [
+      "High intelligence and trainability",
+      "Strong herding instincts",
+      "Affectionate and loyal nature",
+      "Energetic and playful",
+      "Protective of their family"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Испанские водяные собаки умны, преданны и энергичны, процветают в компании и при структурированных занятиях.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя привязанность и желание участвовать в повседневной жизни.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации; рекомендуется наблюдение для управления их пастушьими инстинктами.",
+    "с другими животными": "Могут хорошо уживаться с другими питомцами при правильном знакомстве; их пастушье прошлое может побуждать их пытаться пасти других животных.",
+    "с незнакомцами": "Естественно защищают и могут быть сдержанными с незнакомцами; ранняя социализация помогает развить хорошее поведение.",
+    "особые черты": [
+      "Высокий интеллект и обучаемость",
+      "Сильные пастушьи инстинкты",
+      "Ласковый и преданный характер",
+      "Энергичность и игривость",
+      "Защитное отношение к семье"
+    ]
+  },
+  "health": {
+    "summary": "Spanish Water Dogs are generally healthy but are predisposed to certain genetic conditions; regular health screenings are essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Hypothyroidism",
+      "Congenital hypothyroidism with goiter (CHG)",
+      "Allergies",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for known hereditary conditions",
+      "Maintaining a healthy diet and weight",
+      "Routine ear cleaning to prevent infections",
+      "Providing adequate exercise and mental stimulation"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Испанские водяные собаки в целом здоровы, но склонны к определённым генетическим заболеваниям; регулярные медицинские осмотры необходимы.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Гипотиреоз",
+      "Врожденный гипотиреоз с зобом (CHG)",
+      "Аллергии",
+      "Инфекции ушей"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Генетическое тестирование на известные наследственные заболевания",
+      "Поддержание здоровой диеты и веса",
+      "Рутинная чистка ушей для предотвращения инфекций",
+      "Обеспечение достаточных физических упражнений и умственной стимуляции"
+    ],
+    "рекомендуемые осмотры": "Ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "Spanish Water Dogs require consistent care, including regular exercise, mental stimulation, and minimal grooming to maintain their health and happiness.",
+    "behavior": "They thrive on structured routines and tasks; providing jobs or activities can prevent boredom and destructive behaviors.",
+    "health": "Regular health screenings and preventive care are crucial to identify and manage potential genetic health issues.",
+    "grooming": "Their curly coat should be sheared at least once a year; avoid brushing or combing to maintain the natural texture.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential; consult a veterinarian for specific dietary recommendations."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Испанские водяные собаки требуют постоянного ухода, включая регулярные физические нагрузки, умственную стимуляцию и минимальный груминг для поддержания их здоровья и счастья.",
+    "поведение и характер": "Они процветают при структурированных распорядках и задачах; предоставление работы или занятий может предотвратить скуку и разрушительное поведение.",
+    "здоровье и профилактика": "Регулярные медицинские осмотры и профилактический уход необходимы для выявления и управления потенциальными генетическими проблемами со здоровьем.",
+    "груминг и уход": "Их кудрявая шерсть должна подстригаться не реже одного раза в год; избегайте расчесывания или вычесывания, чтобы сохранить естественную текстуру.",
+    "питание и активность": "Сбалансированная диета, соответствующая их возрасту, размеру и уровню активности, необходима; проконсультируйтесь с ветеринаром для получения конкретных рекомендаций по питанию."
+  },
+  "faq": [
+    {
+      "question": "Are Spanish Water Dogs hypoallergenic?",
+      "answer": "Yes, their curly, single-layer coat sheds minimally, making them suitable for some individuals with allergies."
+    },
+    {
+      "question": "How much exercise does a Spanish Water Dog need?",
+      "answer": "They require regular, vigorous exercise and mental stimulation to stay healthy and happy."
+    },
+    {
+      "question": "Is the Spanish Water Dog good for first-time dog owners?",
+      "answer": "They can be suitable for first-time owners who are committed to providing consistent training and ample exercise."
+    },
+    {
+      "question": "Do Spanish Water Dogs get along with other pets?",
+      "answer": "With proper socialization, they can coexist well with other pets, though their herding instincts may lead them to try to herd other animals."
+    },
+    {
+      "question": "What is the grooming requirement for a Spanish Water Dog?",
+      "answer": "Minimal grooming is needed; their coat should be sheared annually, and brushing or combing should be avoided to maintain its natural state."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли испанские водяные собаки гипоаллергенными?",
+      "ответ": "Да, их кудрявая, однослойная шерсть минимально линяет, что делает их подходящими для некоторых людей с аллергией."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется испанской водяной собаке?",
+      "ответ": "Им необходимы регулярные, интенсивные физические нагрузки и умственная стимуляция для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Подходит ли испанская водяная собака для владельцев без опыта?",
+      "ответ": "Они могут быть подходящими для владельцев без опыта, которые готовы обеспечить последовательное обучение и достаточные физические нагрузки."
+    },
+    {
+      "вопрос": "Ладят ли испанские водяные собаки с другими питомцами?",
+      "ответ": "При правильной социализации они могут хорошо уживаться с другими питомцами, хотя их пастушьи инстинкты могут побуждать их пытаться пасти других животных."
+    },
+    {
+      "вопрос": "Каковы требования к уходу за испанской водяной собакой?",
+      "ответ": "Требуется минимальный уход; их шерсть следует подстригать ежегодно, а расчесывание или вычесывание следует избегать для сохранения ее естественного состояния."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/dog-breeds/spanish-water-dog/",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-spanish-water-dogs",
+    "https://www.petmd.com/dog/breeds/spanish-water-dog",
+    "https://www.swdclub.org/swdhealth.html",
+    "https://en.wikipedia.org/wiki/Spanish_Water_Dog",
+    "https://royalcanin.ru/dog-breed/spanish-water-dog",
+    "https://www.purina.ru/find-a-pet/dog-breeds/ispanskaya-vodyanaya-sobaka",
+    "https://kinpet.ru/ispanskaya-vodnaya-sobaka/",
+    "https://petstory.ru/knowledge/dogs/dog-breeds/spanish-water-dog/",
+    "https://moya-planeta.ru/video/view/planeta_sobak_ispanskaya_vodyanaya_sobaka_17372"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "cavalier-king-charles-spaniel",
+  "name": "Cavalier King Charles Spaniel",
+  "full_description": "<p>The Cavalier King Charles Spaniel is a British toy breed with a rich history dating back to the 17th century. Originally bred as companion dogs for royalty, particularly King Charles II, these spaniels were cherished for their affectionate nature and elegant appearance. Over time, the breed evolved, and in the 1920s, efforts were made to recreate the original type depicted in historical paintings, leading to the modern Cavalier King Charles Spaniel.</p>\n<p>Physically, Cavaliers are small, well-balanced dogs standing 12 to 13 inches tall at the withers and weighing between 13 and 18 pounds. They possess a moderately long, silky coat that comes in four recognized color patterns: Blenheim (chestnut and white), Tricolor (black/white/tan), Black and Tan, and Ruby. Their large, dark eyes and gentle expression contribute to their endearing appearance.</p>\n<p>Temperamentally, Cavaliers are known for their affectionate, playful, and patient nature. They are highly social and thrive on human companionship, making them excellent family pets. Their adaptability allows them to fit well into various living situations, from apartments to larger homes. While they have a sporting heritage, their primary role has always been that of a companion, and they excel in providing comfort and companionship.</p>\n<p>In modern times, the Cavalier King Charles Spaniel has gained popularity worldwide, ranking as the 13th most popular purebred in the United States as of 2022. Their gentle disposition and adaptability make them suitable for families, singles, and seniors alike. Notable characteristics include their eagerness to please, making them relatively easy to train, and their tendency to form strong bonds with their owners, often following them from room to room.</p>\n<p>Despite their many positive traits, potential owners should be aware of certain health concerns prevalent in the breed, such as mitral valve disease and syringomyelia. Regular veterinary check-ups and responsible breeding practices are essential to ensure the health and longevity of these beloved companions.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "13-18 lbs",
+    "height": "12-13 inches",
+    "coat": "moderately long, silky, four color patterns",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "weekly brushing; no trimming",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Affectionate and sociable, Cavaliers thrive on human companionship and adapt well to various living situations.",
+    "with_family": "They form strong bonds with family members, often following them around the house and seeking constant companionship.",
+    "with_children": "Gentle and patient, making them excellent companions for children; however, supervision is recommended to ensure mutual respect.",
+    "with_other_pets": "Generally friendly towards other pets, including dogs and cats, especially when socialized from a young age.",
+    "with_strangers": "Typically friendly and welcoming to strangers, making them poor guard dogs but excellent social companions.",
+    "special_traits": [
+      "Highly affectionate",
+      "Adaptable to various living environments",
+      "Eager to please",
+      "Good with children",
+      "Social with other animals"
+    ]
+  },
+  "health": {
+    "summary": "Cavaliers are prone to certain genetic health issues, necessitating regular veterinary care and responsible breeding practices.",
+    "common_issues": [
+      "Mitral valve disease",
+      "Syringomyelia",
+      "Hip dysplasia",
+      "Patellar luxation",
+      "Eye conditions (e.g., cataracts, dry eye)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Screening breeding stock for genetic conditions",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Monitoring for early signs of health issues"
+    ],
+    "vet_checkups": "At least once a year; more frequent for seniors or those with known health issues"
+  },
+  "care": {
+    "description": "Cavaliers require attentive care, including regular grooming, exercise, and health monitoring to ensure a happy and healthy life.",
+    "behavior": "They thrive on companionship and should not be left alone for extended periods; regular interaction and mental stimulation are essential.",
+    "health": "Be vigilant for signs of common health issues; early detection and treatment can significantly improve outcomes.",
+    "grooming": "Weekly brushing to prevent matting; regular ear cleaning to prevent infections; no trimming required.",
+    "nutrition": "Balanced diet appropriate for their size and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Cavaliers good for first-time dog owners?",
+      "answer": "Yes, their friendly nature and adaptability make them suitable for first-time owners."
+    },
+    {
+      "question": "Do Cavaliers require a lot of exercise?",
+      "answer": "They need moderate exercise, such as daily walks and playtime, to stay healthy and happy."
+    },
+    {
+      "question": "Are Cavaliers hypoallergenic?",
+      "answer": "No, they are not considered hypoallergenic and may not be suitable for individuals with severe allergies."
+    },
+    {
+      "question": "Can Cavaliers live in apartments?",
+      "answer": "Yes, their small size and adaptable nature make them well-suited for apartment living."
+    },
+    {
+      "question": "How often should I groom my Cavalier?",
+      "answer": "Weekly brushing is recommended to maintain their coat and prevent matting."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel",
+    "https://www.petmd.com/dog/breeds/cavalier-king-charles-spaniel",
+    "https://www.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+    "https://www.cavalierhealth.org/index.html",
+    "https://hwy5animalhospital.com/client-resources/breed-info/cavalier-king-charles-spaniel/"
+  ]
+}

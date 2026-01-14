@@ -1,0 +1,82 @@
+{
+  "id": "russell-terrier",
+  "name": "Russell Terrier",
+  "full_description": "<p>The Russell Terrier, also known as the Jack Russell Terrier, is a small, energetic breed with a rich history rooted in fox hunting. Originating in England during the early 19th century, the breed was developed by Reverend John Russell, an avid fox hunter, who sought a dog capable of pursuing foxes both above and below ground. The breed's development continued in Australia, where breeders refined its characteristics to create a compact, agile terrier adept at hunting vermin. Physically, Russell Terriers are small, standing between 10 to 12 inches tall and weighing approximately 9 to 15 pounds. They possess a predominantly white coat with tan and/or black markings, which can be smooth, broken, or rough in texture. Their bodies are slightly longer than they are tall, providing a rectangular profile that enhances their agility. The breed's head is flat with a moderate stop, featuring dark, almond-shaped eyes that exude intelligence and determination. Ears are small, V-shaped, and fold forward close to the head. Temperamentally, Russell Terriers are known for their high energy levels, intelligence, and playful nature. They are fearless, confident, and exhibit a strong hunting instinct. These traits make them excellent companions for active families but may pose challenges for first-time dog owners. Their original purpose was to hunt foxes and other small game, a task they performed with remarkable tenacity and skill. Today, while some still participate in hunting and earthdog trials, many Russell Terriers serve as beloved family pets, excelling in various dog sports such as agility, obedience, and tracking. Notable characteristics of the breed include their boundless energy, keen intelligence, and strong prey drive. They require ample physical and mental stimulation to prevent boredom and destructive behaviors. Their small, flexible chests allow them to navigate narrow tunnels during hunts, a trait that remains a hallmark of the breed. Despite their diminutive size, Russell Terriers possess a robust and sturdy build, enabling them to keep up with larger hounds during hunts. Their weatherproof coats require minimal grooming, making them relatively low-maintenance in terms of coat care.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "9-15 pounds",
+    "height": "10-12 inches",
+    "coat": "smooth, broken, or rough; predominantly white with tan and/or black markings",
+    "activity": "high",
+    "trainability": "moderate to high",
+    "grooming": "minimal; regular brushing and occasional bathing",
+    "lifespan": "12-14 years"
+  },
+  "behavior": {
+    "summary": "Russell Terriers are energetic, intelligent, and playful dogs with a strong hunting instinct. They are fearless and confident, making them excellent companions for active individuals or families.",
+    "with_family": "They are affectionate and loyal to their family members, often forming strong bonds and enjoying interactive play.",
+    "with_children": "Generally good with children, especially when socialized early, but their high energy levels may be overwhelming for very young kids.",
+    "with_other_pets": "Due to their strong prey drive, they may not coexist well with smaller pets; early socialization is crucial.",
+    "with_strangers": "Typically friendly towards strangers, though they can be reserved; proper socialization helps ensure well-mannered interactions.",
+    "special_traits": [
+      "High energy levels",
+      "Strong prey drive",
+      "Intelligent and trainable",
+      "Playful and affectionate",
+      "Requires ample mental and physical stimulation"
+    ]
+  },
+  "health": {
+    "summary": "Russell Terriers are generally healthy dogs with a lifespan of 12-14 years. However, they can be prone to certain genetic health issues.",
+    "common_issues": [
+      "Lens luxation",
+      "Patellar luxation",
+      "Deafness",
+      "Legg-Calvé-Perthes disease"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for breeding dogs",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Ensuring a balanced diet"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Russell Terriers require consistent care, including regular exercise, mental stimulation, and routine health maintenance to ensure their well-being.",
+    "behavior": "Engage them in daily physical activities and mental challenges to prevent boredom and destructive behaviors.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits for preventive care.",
+    "grooming": "Brush their coat weekly and bathe as needed; check ears and trim nails regularly.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; avoid overfeeding to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Russell Terriers good for first-time dog owners?",
+      "answer": "They can be challenging due to their high energy and intelligence; experienced owners may find them more manageable."
+    },
+    {
+      "question": "Do Russell Terriers get along with other dogs?",
+      "answer": "With proper socialization, they can coexist with other dogs, but their strong prey drive may cause issues with smaller pets."
+    },
+    {
+      "question": "How much exercise does a Russell Terrier need?",
+      "answer": "They require at least an hour of vigorous exercise daily to meet their energy needs."
+    },
+    {
+      "question": "Are Russell Terriers prone to barking?",
+      "answer": "Yes, they can be vocal, especially if bored or not adequately exercised."
+    },
+    {
+      "question": "Do Russell Terriers shed a lot?",
+      "answer": "They shed moderately; regular brushing helps manage shedding."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/press-releases/american-kennel-club-welcomes-a-new-terrier-to-the-family/",
+    "https://www.westminsterkennelclub.org/breed/russell-terrier/",
+    "https://www.purina.com/dogs/dog-breeds/russell-terrier-dog-breed",
+    "https://www.brrtc.org/",
+    "https://www.britannica.com/animal/Jack-Russell-terrier"
+  ]
+}

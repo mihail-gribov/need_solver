@@ -1,0 +1,84 @@
+{
+  "need_id": "emotionally_stable",
+  "formula": "~reactivity & ~stress_sensitivity & ~behavior_management_need",
+  "formula_reasoning": "Эмоционально стабильные породы характеризуются низкой реактивностью (~reactivity), низкой чувствительностью к стрессу (~stress_sensitivity) и минимальной потребностью в коррекции поведения (~behavior_management_need). Это позволяет обеспечить предсказуемый и спокойный характер собаки.",
+  "questions": [
+    {
+      "id": "emotionally_stable_q1",
+      "text": "В вашей семье есть маленькие дети, которые будут общаться с собакой?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = важно, чтобы собака была предсказуемой и спокойной. Нет = больше вариантов."
+    },
+    {
+      "id": "emotionally_stable_q2",
+      "text": "Часто ли в вашем доме бывают гости или меняется обстановка?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = нужна собака с устойчивой психикой, не склонная к стрессу. Нет = меньше факторов для тревоги у собаки."
+    },
+    {
+      "id": "emotionally_stable_q3",
+      "text": "Вы предпочли бы собаку с ровным характером, без неожиданных всплесков эмоций?",
+      "weight": 0.7,
+      "style": "direct",
+      "verification": "Да = ищет предсказуемый темперамент. Нет = допускает эмоциональные особенности."
+    },
+    {
+      "id": "emotionally_stable_q4",
+      "text": "В вашей семье бывают шумные ситуации — праздники, активные дети, громкая музыка?",
+      "weight": 0.6,
+      "style": "situational",
+      "verification": "Да = нужна устойчивая к стрессу собака. Нет = среда спокойная, меньше требований."
+    },
+    {
+      "id": "emotionally_stable_q5",
+      "text": "Вы не планируете заниматься специальной дрессировкой или коррекцией поведения собаки?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = желает собаку, не требующую коррекции поведения. Нет = готов к коррекции или обучению."
+    }
+  ],
+  "need_name": "Emotionally Stable",
+  "need_description": "Predictable temperament",
+  "block": "behavior_character",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

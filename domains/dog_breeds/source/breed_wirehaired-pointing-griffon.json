@@ -1,0 +1,83 @@
+{
+  "id": "wirehaired-pointing-griffon",
+  "name": "Wirehaired Pointing Griffon",
+  "full_description": "<p>The Wirehaired Pointing Griffon, also known as the Korthals Griffon, is a versatile hunting dog developed in the late 19th century by Dutch breeder Eduard Korthals. Aiming to create an all-terrain hunting companion, Korthals selectively bred dogs with exceptional scenting abilities, strength, endurance, and water-resistant coats. The resulting breed excels in both pointing and retrieving game on land and in water. Physically, the Wirehaired Pointing Griffon is a medium-sized dog with a noble, square-shaped head and a slightly longer-than-tall body proportion. Males typically stand 22 to 24 inches tall, while females range from 20 to 22 inches. Their distinctive double coat consists of a harsh, wiry outer layer and a soft, dense undercoat, providing protection against harsh weather and rough terrain. The coat is commonly steel gray with brown markings, and the breed is known for its expressive facial furnishings, including bushy eyebrows and a prominent mustache. Temperamentally, Wirehaired Pointing Griffons are friendly, eager, and quick-witted. They form strong bonds with their families and are known for their cooperative nature, making them relatively easy to train. Their original purpose as versatile gundogs required them to work closely with hunters, a trait that translates into a strong desire to please their owners. In the field, they are renowned for their exceptional scenting abilities and adaptability to various terrains, from dense forests to wetlands. In modern times, the Wirehaired Pointing Griffon continues to be a favored companion for hunters due to its versatility and reliability. While not as widely popular as some other breeds, it has a dedicated following among enthusiasts who appreciate its unique qualities. Notably, the breed's adaptability and friendly nature have also made it a cherished family pet for active households. Distinctive characteristics of the Wirehaired Pointing Griffon include its unkempt appearance due to the wiry coat, webbed toes that aid in swimming, and a strong, muscular build that reflects its working heritage. These features, combined with its amiable disposition and intelligence, contribute to the breed's reputation as the 'supreme gundog.'</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "35-70 pounds",
+    "height": "20-24 inches",
+    "coat": "harsh, wiry outer coat with a soft, dense undercoat",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; occasional hand-stripping",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Wirehaired Pointing Griffons are friendly, intelligent, and eager to please, making them excellent companions for active families and hunters alike.",
+    "with_family": "They form strong bonds with their families and thrive on companionship, often displaying affectionate and loyal behavior.",
+    "with_children": "Generally good with children, they are patient and gentle, making them suitable playmates for kids.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets, though their hunting instincts may lead them to chase smaller animals.",
+    "with_strangers": "Typically reserved but not aggressive towards strangers, they may be cautious initially but warm up with proper introductions.",
+    "special_traits": [
+      "Versatile hunting abilities",
+      "Strong desire to please",
+      "Adaptable to various terrains",
+      "Affectionate with family",
+      "Intelligent and quick-witted"
+    ]
+  },
+  "health": {
+    "summary": "Wirehaired Pointing Griffons are generally healthy dogs with a lifespan of 12 to 15 years, though they may be prone to certain hereditary conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Eye disorders",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine ear cleaning to prevent infections",
+      "Annual eye examinations",
+      "Balanced diet to support overall health"
+    ],
+    "vet_checkups": "Annual checkups recommended; more frequent visits for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "Wirehaired Pointing Griffons require regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "behavior": "They thrive on human interaction and should not be left alone for extended periods; regular training sessions help keep their minds engaged.",
+    "health": "Maintain a consistent exercise routine and monitor for signs of common health issues; provide a balanced diet appropriate for their activity level.",
+    "grooming": "Brush their coat weekly to prevent matting and remove debris; occasional hand-stripping may be necessary to maintain coat texture.",
+    "nutrition": "Feed a high-quality diet formulated for active breeds; monitor food intake to prevent obesity, especially in less active individuals."
+  },
+  "faq": [
+    {
+      "question": "Are Wirehaired Pointing Griffons good family pets?",
+      "answer": "Yes, they are affectionate and loyal, making them excellent companions for active families."
+    },
+    {
+      "question": "Do they require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and need regular, vigorous exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable."
+    },
+    {
+      "question": "Do they shed a lot?",
+      "answer": "They have a low-shedding coat but require regular grooming to maintain its condition."
+    },
+    {
+      "question": "Are they suitable for apartment living?",
+      "answer": "Due to their high energy levels, they are better suited to homes with ample space and access to outdoor areas."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/5-things-you-didnt-know/",
+    "https://www.akc.org/dog-breeds/wirehaired-pointing-griffon/pictures",
+    "https://www.akc.org/expert-advice/dog-breeds/pointing-breeds-differences/",
+    "https://www.akc.org/sports/pointing-breeds/hunt-tests/eligibility/",
+    "https://images.akc.org/pdf/breeds/standards/WirehairedPointingGriffon.pdf",
+    "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/gundog/korthals-griffon-imp/",
+    "https://images.akc.org/pdf/gazette/july-2025.pdf"
+  ]
+}

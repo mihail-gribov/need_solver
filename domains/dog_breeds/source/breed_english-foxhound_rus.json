@@ -1,0 +1,158 @@
+{
+  "id": "english-foxhound",
+  "name": "English Foxhound",
+  "name_rus": "Английский фоксхаунд",
+  "full_description": "<p>The English Foxhound is a distinguished breed with a rich heritage dating back to the 13th century in Great Britain. Developed specifically for the purpose of trailing the red fox during mounted hunts, this breed was meticulously crafted by crossing St. Hubert/Bloodhound types with swifter hounds, possibly including the Greyhound, to achieve a balance of endurance and speed.</p>\n<p>Physically, the English Foxhound presents a well-balanced, powerful, and clean-cut appearance. Males typically stand between 23 to 25 inches at the shoulder, with females slightly smaller. They possess a flat skull, long square muzzle, and moderately developed flews. Their ears are set high, pendant, and lie close to the head. The breed's coat is short, dense, and weatherproof, commonly found in any hound color, including combinations of black, tan, and white.</p>\n<p>Temperamentally, English Foxhounds are friendly, sociable, and outgoing. Bred to work in packs, they exhibit a natural affinity for companionship, both with other dogs and humans. Their energetic and enthusiastic nature makes them excellent companions for active families.</p>\n<p>Originally, the English Foxhound was bred for foxhunting, a sport where horse-mounted riders chased wild quarry with a pack of hounds. The hounds would track the fox, and the riders would follow, listening for the hounds' vocalizations upon locating the prey. In modern times, while traditional foxhunting has declined, the breed's exceptional scenting abilities and stamina have found roles in various canine sports and activities, including agility and field trials. Despite their historical significance, English Foxhounds remain one of the rarer breeds in the United States, with fewer than 50 new registrations each year with the American Kennel Club.</p>\n<p>Notable characteristics of the English Foxhound include their remarkable stamina, keen sense of smell, and determination. These traits, combined with their friendly and sociable demeanor, make them both excellent working dogs and companions for those who can meet their exercise and socialization needs.</p>",
+  "full_description_rus": "<p>Английский фоксхаунд — порода гончих собак с богатой историей, восходящей к XIII веку в Великобритании. Изначально выведенные для охоты на лис, эти собаки были созданы путем скрещивания гончих типа Святого Губерта с более быстрыми породами, такими как грейхаунд, чтобы достичь баланса между выносливостью и скоростью.</p>\n<p>Физически английский фоксхаунд представляет собой хорошо сбалансированную, мощную собаку с четкими линиями. Рост кобелей обычно составляет от 58 до 64 см в холке, суки немного ниже. У них плоский череп, длинная квадратная морда и умеренно развитые губы. Уши высоко посажены, висячие, плотно прилегают к голове. Шерсть короткая, плотная и водоотталкивающая, окрас может быть любым, характерным для гончих, включая сочетания черного, рыжего и белого.</p>\n<p>По темпераменту английские фоксхаунды дружелюбны, общительны и энергичны. Будучи выведенными для работы в стае, они проявляют естественную склонность к общению как с другими собаками, так и с людьми. Их энергичный и жизнерадостный характер делает их отличными компаньонами для активных семей.</p>\n<p>Изначально английский фоксхаунд был выведен для охоты на лис, где всадники преследовали добычу с помощью стаи гончих. Собаки выслеживали лису, а охотники следовали за ними, ориентируясь на голос собак при обнаружении добычи. В современное время, несмотря на снижение популярности традиционной охоты на лис, исключительные обонятельные способности и выносливость этой породы нашли применение в различных собачьих видах спорта и мероприятиях, включая аджилити и полевые испытания.</p>\n<p>Отличительными чертами английского фоксхаунда являются их выдающаяся выносливость, острое обоняние и решительность. Эти качества, в сочетании с их дружелюбным и общительным нравом, делают их как отличными рабочими собаками, так и компаньонами для тех, кто может обеспечить им необходимую физическую нагрузку и социализацию.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "55-75 pounds",
+    "height": "23-25 inches",
+    "coat": "short, dense, weatherproof",
+    "activity": "very high",
+    "trainability": "moderate",
+    "grooming": "minimal; weekly brushing",
+    "lifespan": "10-13 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "25-34 кг",
+    "рост": "58-64 см",
+    "шерсть": "короткая, плотная, водоотталкивающая",
+    "активность": "очень высокая",
+    "обучаемость": "средняя",
+    "уход": "минимальный; еженедельное расчесывание",
+    "продолжительность жизни": "10-13 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "High energy levels",
+      "Strong hunting instincts",
+      "Sociable with other dogs",
+      "Requires ample exercise",
+      "Independent yet trainable"
+    ],
+    "summary": "English Foxhounds are friendly, sociable, and energetic dogs that thrive in active environments and enjoy companionship.",
+    "with_children": "Generally good with children, displaying patience and playfulness.",
+    "with_family": "They form strong bonds with family members and are affectionate and loyal.",
+    "with_other_pets": "Their pack-oriented nature makes them compatible with other dogs; early socialization is recommended for other pets.",
+    "with_strangers": "Typically friendly and welcoming towards strangers."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Английские фоксхаунды — дружелюбные, общительные и энергичные собаки, которые процветают в активной среде и любят компанию.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя привязанность и преданность.",
+    "с детьми": "Обычно хорошо ладят с детьми, проявляя терпение и игривость.",
+    "с другими животными": "Их стайный характер делает их совместимыми с другими собаками; рекомендуется ранняя социализация с другими питомцами.",
+    "с незнакомцами": "Обычно дружелюбны и приветливы к незнакомцам.",
+    "особые черты": [
+      "Высокий уровень энергии",
+      "Сильные охотничьи инстинкты",
+      "Общительны с другими собаками",
+      "Требуют значительных физических нагрузок",
+      "Независимы, но поддаются дрессировке"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Gastric dilatation-volvulus (bloat)",
+      "Ear infections",
+      "Dental disease"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine ear cleaning to prevent infections",
+      "Dental care including regular brushing",
+      "Feeding smaller, frequent meals to reduce bloat risk"
+    ],
+    "summary": "English Foxhounds are generally healthy but may be prone to certain conditions common in active, deep-chested breeds.",
+    "vet_checkups": "Annual checkups recommended; more frequent for senior dogs or if health issues arise."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Английские фоксхаунды в целом здоровы, но могут быть склонны к определенным заболеваниям, характерным для активных собак с глубокой грудной клеткой.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Вздутие желудка (заворот)",
+      "Инфекции ушей",
+      "Заболевания зубов"
+    ],
+    "советы по профилактике": [
+      "Регулярные физические нагрузки для поддержания здорового веса",
+      "Периодическая чистка ушей для предотвращения инфекций",
+      "Уход за зубами, включая регулярную чистку",
+      "Кормление небольшими, частыми порциями для снижения риска вздутия"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры; более частые для пожилых собак или при возникновении проблем со здоровьем."
+  },
+  "care": {
+    "behavior": "Due to their high energy, they need daily vigorous exercise and mental stimulation to prevent boredom.",
+    "description": "English Foxhounds require dedicated care, including ample exercise, regular grooming, and attentive health monitoring.",
+    "grooming": "Minimal grooming needs; weekly brushing suffices to manage shedding and maintain coat health.",
+    "health": "Maintain a balanced diet and monitor for signs of common health issues; ensure regular veterinary visits.",
+    "nutrition": "Provide a high-quality diet appropriate for active breeds; monitor portion sizes to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Английские фоксхаунды требуют тщательного ухода, включая достаточные физические нагрузки, регулярный груминг и внимательный контроль за здоровьем.",
+    "поведение и характер": "Из-за высокого уровня энергии им необходимы ежедневные интенсивные физические нагрузки и умственная стимуляция для предотвращения скуки.",
+    "здоровье и профилактика": "Поддерживайте сбалансированную диету и следите за признаками распространенных заболеваний; обеспечьте регулярные визиты к ветеринару.",
+    "груминг и уход": "Минимальные потребности в уходе; еженедельное расчесывание достаточно для контроля линьки и поддержания здоровья шерсти.",
+    "питание и активность": "Обеспечьте высококачественное питание, соответствующее активным породам; контролируйте размер порций для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are English Foxhounds good family pets?",
+      "answer": "Yes, they are friendly and sociable, making them good companions for active families."
+    },
+    {
+      "question": "How much exercise does an English Foxhound need?",
+      "answer": "They require significant daily exercise, including long walks or runs, to satisfy their high energy levels."
+    },
+    {
+      "question": "Do English Foxhounds get along with other dogs?",
+      "answer": "Yes, their pack-oriented nature makes them sociable with other dogs."
+    },
+    {
+      "question": "What are common health issues in English Foxhounds?",
+      "answer": "They may be prone to hip dysplasia, bloat, ear infections, and dental disease."
+    },
+    {
+      "question": "How often should I groom my English Foxhound?",
+      "answer": "Weekly brushing is sufficient to maintain their short, dense coat."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли английские фоксхаунды для семей с детьми?",
+      "ответ": "Да, они дружелюбны и общительны, что делает их хорошими компаньонами для активных семей."
+    },
+    {
+      "вопрос": "Сколько физической активности требуется английскому фоксхаунду?",
+      "ответ": "Им необходимы значительные ежедневные физические нагрузки, включая длительные прогулки или пробежки, чтобы удовлетворить их высокий уровень энергии."
+    },
+    {
+      "вопрос": "Ладят ли английские фоксхаунды с другими собаками?",
+      "ответ": "Да, их стайный характер делает их общительными с другими собаками."
+    },
+    {
+      "вопрос": "Какие распространенные проблемы со здоровьем встречаются у английских фоксхаундов?",
+      "ответ": "Они могут быть склонны к дисплазии тазобедренного сустава, вздутию желудка, инфекциям ушей и заболеваниям зубов."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за шерстью английского фоксхаунда?",
+      "ответ": "Еженедельное расчесывание достаточно для поддержания их короткой, плотной шерсти в хорошем состоянии."
+    }
+  ],
+  "sources": [
+    "https://www.westminsterkennelclub.org/breed/english-foxhound/",
+    "https://www.akc.org/expert-advice/lifestyle/8-facts-about-the-english-foxhound/",
+    "https://www.ukcdogs.com/english-foxhound",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-english-foxhounds",
+    "https://www.purina.com/dogs/dog-breeds/english-foxhound",
+    "https://vcahospitals.com/know-your-pet/english-foxhound",
+    "https://www.dailypaws.com/dogs-puppies/dog-breeds/english-foxhound",
+    "https://basepaws.com/dog-breeds/english-foxhound",
+    "https://ru.wikipedia.org/wiki/Английский_фоксхаунд",
+    "https://royalcanin.ru/dog-breed/english-foxhound",
+    "https://pets.mail.ru/dog-breeds/anglijskij-fokshaund/"
+  ]
+}

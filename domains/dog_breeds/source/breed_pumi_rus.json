@@ -1,0 +1,163 @@
+{
+  "id": "pumi",
+  "name": "Pumi",
+  "name_rus": "Пуми",
+  "full_description": "<p>The Pumi is a medium-sized herding dog originating from Hungary, developed in the 17th and 18th centuries through the crossbreeding of the Puli with German and French herding dogs. This blend resulted in a versatile and agile breed adept at managing livestock in Hungary's varied terrains. Physically, the Pumi presents a square, lean, and muscular build, standing between 15 to 18 inches tall and weighing approximately 22 to 29 pounds. Its distinctive features include a long, narrow head with a tapered muzzle, semi-erect ears that contribute to its alert expression, and a tail carried in a circle over its back. The breed's double coat is medium-length, wavy to curly, and comes in solid colors such as black, white, various shades of gray, and fawn. Pumis are known for their lively and energetic temperament, combining the intelligence of herding breeds with the alertness of terriers. They are quick learners, responsive to training, and maintain a playful demeanor into adulthood. Historically, Pumis were utilized for herding cattle, sheep, and pigs, excelling in driving livestock through narrow paths and dense vegetation. Today, they continue to serve as herding dogs and have gained popularity in dog sports like agility, obedience, and herding trials. Their unique combination of agility, intelligence, and spirited personality makes them well-suited for active families and individuals seeking an engaging companion. Notable characteristics of the Pumi include its expressive, whimsical appearance, high energy levels, and strong herding instincts, which may manifest in behaviors like nipping or attempting to herd people or other animals. Early socialization and consistent training are essential to channel these instincts appropriately. Overall, the Pumi is a dynamic and affectionate breed that thrives in environments where it can engage both mentally and physically.</p>",
+  "full_description_rus": "<p>Пуми — это пастушья собака среднего размера, происходящая из Венгрии. Порода была выведена в XVII–XVIII веках путем скрещивания пули с немецкими и французскими пастушьими собаками. В результате получилась универсальная и ловкая порода, способная эффективно управлять скотом в разнообразных ландшафтах Венгрии. Физически пуми имеет квадратное, сухое и мускулистое телосложение, рост в холке составляет от 38 до 47 см, а вес — от 8 до 15 кг. Отличительными чертами являются длинная узкая голова с заостренной мордой, полустоячие уши, придающие собаке настороженное выражение, и хвост, свернутый в кольцо над спиной. Двойная шерсть средней длины, волнистая или кудрявая, представлена в сплошных окрасках, таких как черный, белый, различные оттенки серого и палевый. Пуми известны своим живым и энергичным темпераментом, сочетая интеллект пастушьих пород с бдительностью терьеров. Они быстро обучаются, хорошо реагируют на дрессировку и сохраняют игривость во взрослом возрасте. Исторически пуми использовались для пастьбы крупного рогатого скота, овец и свиней, особенно преуспевая в проведении скота через узкие тропы и густую растительность. Сегодня они продолжают служить пастушьими собаками и приобрели популярность в собачьих видах спорта, таких как аджилити, обидиенс и пастушьи испытания. Их уникальное сочетание ловкости, интеллекта и энергичного характера делает их подходящими для активных семей и людей, ищущих увлекательного компаньона. Особенности пуми включают выразительную, причудливую внешность, высокий уровень энергии и сильные пастушьи инстинкты, которые могут проявляться в виде покусывания или попыток пасти людей или других животных. Ранняя социализация и последовательная дрессировка необходимы для правильного направления этих инстинктов. В целом, пуми — это динамичная и привязанная порода, которая процветает в условиях, где может быть задействована как умственно, так и физически.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "22–29 pounds",
+    "height": "15–18 inches",
+    "coat": "medium-length, wavy to curly, double coat",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing every 2 weeks; trimming every 2–4 months",
+    "lifespan": "12–14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "8–13 кг",
+    "рост": "38–47 см",
+    "шерсть": "средней длины, волнистая или кудрявая, двойная",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "регулярное расчесывание каждые 2 недели; стрижка каждые 2–4 месяца",
+    "продолжительность жизни": "12–14 лет"
+  },
+  "behavior": {
+    "summary": "The Pumi is an energetic and intelligent breed, known for its alertness and playful nature. They form strong bonds with their families and require regular mental and physical stimulation to prevent boredom.",
+    "with_family": "Pumis are affectionate and loyal, often attaching closely to one person but also integrating well into family life when properly trained and socialized.",
+    "with_children": "They are good with children, especially when raised together, and enjoy engaging in play and activities.",
+    "with_other_pets": "With early socialization, Pumis can coexist peacefully with other pets, though their herding instincts may lead them to try to herd other animals.",
+    "with_strangers": "Pumis can be reserved or aloof with strangers, making them effective watchdogs. Proper socialization helps them become more accepting of unfamiliar people.",
+    "special_traits": [
+      "high energy levels",
+      "strong herding instincts",
+      "alert and vocal",
+      "playful and affectionate",
+      "intelligent and quick learners"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Пуми — энергичная и умная порода, известная своей бдительностью и игривым характером. Они формируют крепкие связи с семьей и требуют регулярной умственной и физической стимуляции, чтобы избежать скуки.",
+    "с семьёй": "Пуми привязчивы и лояльны, часто привязываются к одному человеку, но также хорошо интегрируются в семейную жизнь при правильной дрессировке и социализации.",
+    "с детьми": "Они хорошо ладят с детьми, особенно если выросли вместе, и любят участвовать в играх и активностях.",
+    "с другими животными": "При ранней социализации пуми могут мирно сосуществовать с другими животными, хотя их пастушьи инстинкты могут побуждать их пытаться пасти других животных.",
+    "с незнакомцами": "Пуми могут быть сдержанными или настороженными с незнакомцами, что делает их эффективными сторожевыми собаками. Правильная социализация помогает им стать более восприимчивыми к незнакомым людям.",
+    "особые черты": [
+      "высокий уровень энергии",
+      "сильные пастушьи инстинкты",
+      "бдительные и голосистые",
+      "игривые и привязчивые",
+      "умные и быстро обучаемые"
+    ]
+  },
+  "health": {
+    "summary": "The Pumi is generally a healthy breed with a lifespan of 12 to 14 years. While they are not predisposed to many health issues, responsible breeding practices include testing for certain conditions.",
+    "common_issues": [
+      "hip dysplasia",
+      "degenerative myelopathy",
+      "primary lens luxation",
+      "patellar luxation"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain a healthy weight",
+      "provide regular exercise",
+      "early health screenings",
+      "responsible breeding practices"
+    ],
+    "vet_checkups": "annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Пуми в целом здоровая порода с продолжительностью жизни от 12 до 14 лет. Хотя они не склонны к многим заболеваниям, ответственные методы разведения включают тестирование на определенные состояния.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренного сустава",
+      "дегенеративная миелопатия",
+      "первичная люксация хрусталика",
+      "вывих надколенника"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "поддержание здорового веса",
+      "обеспечение регулярных физических нагрузок",
+      "ранние медицинские обследования",
+      "ответственные методы разведения"
+    ],
+    "рекомендуемые осмотры": "ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "Pumis require consistent care, including regular exercise, mental stimulation, and grooming to maintain their health and well-being.",
+    "behavior": "Engage in daily activities like hiking, agility training, or interactive games to satisfy their high energy levels and intelligence.",
+    "health": "Monitor for signs of common health issues and consult a veterinarian for regular health assessments.",
+    "grooming": "Brush every 2 weeks to prevent matting; trim the coat every 2–4 months; avoid blow-drying to maintain natural curls.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; consult a veterinarian for specific dietary recommendations."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Пуми требуют постоянного ухода, включая регулярные физические нагрузки, умственную стимуляцию и груминг для поддержания их здоровья и благополучия.",
+    "поведение и характер": "Участвуйте в ежедневных активностях, таких как походы, тренировки по аджилити или интерактивные игры, чтобы удовлетворить их высокий уровень энергии и интеллект.",
+    "здоровье и профилактика": "Следите за признаками распространённых проблем со здоровьем и консультируйтесь с ветеринаром для регулярных оценок состояния здоровья.",
+    "груминг и уход": "Расчесывайте каждые 2 недели, чтобы предотвратить образование колтунов; стригите шерсть каждые 2–4 месяца; избегайте сушки феном, чтобы сохранить естественные кудри.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их возрасту, размеру и уровню активности; консультируйтесь с ветеринаром для получения конкретных рекомендаций по питанию."
+  },
+  "faq": [
+    {
+      "question": "Are Pumis good for first-time dog owners?",
+      "answer": "Pumis can be suitable for first-time owners who are active and committed to providing regular training and exercise."
+    },
+    {
+      "question": "Do Pumis shed a lot?",
+      "answer": "Pumis have a low-shedding coat but require regular grooming to prevent matting."
+    },
+    {
+      "question": "Are Pumis good with other dogs?",
+      "answer": "With proper socialization, Pumis can get along well with other dogs."
+    },
+    {
+      "question": "How much exercise does a Pumi need?",
+      "answer": "Pumis require daily physical and mental exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Pumis hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Pumis' low-shedding coats may be suitable for some allergy sufferers."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли пуми для владельцев без опыта?",
+      "ответ": "Пуми могут быть подходящими для владельцев без опыта, если они активны и готовы обеспечить регулярную дрессировку и физические нагрузки."
+    },
+    {
+      "вопрос": "Сильно ли линяют пуми?",
+      "ответ": "Пуми имеют шерсть с низким уровнем линьки, но требуют регулярного ухода, чтобы предотвратить образование колтунов."
+    },
+    {
+      "вопрос": "Ладят ли пуми с другими собаками?",
+      "ответ": "При правильной социализации пуми могут хорошо ладить с другими собаками."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется пуми?",
+      "ответ": "Пуми требуют ежедневных физических и умственных упражнений, чтобы оставаться здоровыми и счастливыми."
+    },
+    {
+      "вопрос": "Являются ли пуми гипоаллергенными?",
+      "ответ": "Хотя ни одна собака не является полностью гипоаллергенной, низколиняющая шерсть пуми может быть подходящей для некоторых людей, страдающих аллергией."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pumi_dog",
+    "https://www.petmd.com/dog/breeds/pumi",
+    "https://www.akc.org/expert-advice/lifestyle/meet-the-pumi-the-new-dog-on-the-block/",
+    "https://www.petfinder.com/dogs-and-puppies/breeds/pumi/",
+    "https://www.westminsterkennelclub.org/breeds/pumi",
+    "https://www.ukcdogs.com/pumi",
+    "https://www.wisdompanel.com/en-us/dog-breeds/pumi",
+    "https://www.petful.com/dog-breeds/pumi-breed-profile/",
+    "https://www.webmd.com/pets/dogs/what-to-know-pumi",
+    "https://www.akc.org/expert-advice/news/more-to-the-pumi-than-meets-the-eye/",
+    "https://ru.wikipedia.org/wiki/Пуми_(порода_собак)",
+    "https://petstory.ru/knowledge/dogs/dog-breeds/pumi/",
+    "https://doge.ru/poroda/pumi",
+    "https://kinpet.ru/pumi/"
+  ]
+}

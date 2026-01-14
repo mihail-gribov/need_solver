@@ -1,0 +1,157 @@
+{
+  "id": "soft-coated-wheaten-terrier",
+  "name": "Soft Coated Wheaten Terrier",
+  "name_rus": "Ирландский мягкошерстный пшеничный терьер",
+  "full_description": "<p>The Soft Coated Wheaten Terrier, often referred to as the 'Wheaten' or 'Wheatie,' is a versatile and affectionate breed originating from Ireland. Developed over 200 years ago, these dogs were bred as all-purpose farm dogs, adept at herding, guarding livestock, and hunting vermin. Sharing ancestry with the Kerry Blue and Irish Terriers, Wheatens were commonly known as the 'Poor Man's Wolfhound' due to their utility and accessibility to the common folk. Despite their long history, the breed was officially recognized by the Irish Kennel Club in 1937 and by the American Kennel Club in 1973. Physically, Soft Coated Wheaten Terriers are medium-sized dogs, standing between 17 to 19 inches tall and weighing approximately 30 to 40 pounds. They possess a distinctive soft, silky, and wavy coat that comes in various shades of wheaten, ranging from pale beige to shimmering gold. This single-layer coat is known for minimal shedding, making them a suitable choice for individuals with mild allergies. Their expressive eyes and friendly demeanor contribute to their charming appearance. Temperamentally, Wheatens are known for their friendly, energetic, and playful nature. They are intelligent and eager to please, which makes them responsive to positive reinforcement training methods. However, their terrier lineage can make them somewhat stubborn, necessitating consistent and patient training. They are renowned for the 'Wheaten greetin',' an enthusiastic jumping behavior to welcome people. Originally bred for farm work, including herding and guarding, modern Wheatens have transitioned into beloved family companions. They excel in various canine sports such as agility, obedience, and tracking, and are also utilized in animal-assisted therapy due to their empathetic nature. Their adaptability allows them to thrive in both urban and rural settings, provided they receive adequate exercise and mental stimulation. Notable characteristics of the breed include their hypoallergenic coat, which requires regular grooming to prevent matting, and their enduring puppy-like exuberance that often persists into their senior years. Their strong prey drive necessitates caution around small animals, and early socialization is crucial to ensure harmonious interactions with other pets.</p>",
+  "full_description_rus": "<p>Ирландский мягкошерстный пшеничный терьер, часто называемый 'Уитен' или 'Уити', — универсальная и привязанная к человеку порода, происходящая из Ирландии. Разведенные более 200 лет назад, эти собаки использовались как универсальные фермерские помощники, способные пасти скот, охранять хозяйство и охотиться на вредителей. Имея общих предков с керри-блю-терьерами и ирландскими терьерами, Уитены были известны как 'Волчья собака бедняка' из-за своей полезности и доступности для простых людей. Несмотря на долгую историю, порода была официально признана Ирландским кеннел-клубом в 1937 году и Американским кеннел-клубом в 1973 году. Физически ирландские мягкошерстные пшеничные терьеры — собаки среднего размера, ростом от 43 до 48 см и весом примерно от 14 до 18 кг. Они обладают характерной мягкой, шелковистой и волнистой шерстью различных оттенков пшеничного цвета, от светло-бежевого до золотистого. Эта однослойная шерсть практически не линяет, что делает их подходящими для людей с легкими аллергиями. Их выразительные глаза и дружелюбный нрав придают им особое очарование. По темпераменту Уитены известны своей дружелюбностью, энергичностью и игривостью. Они умны и стремятся угодить, что делает их восприимчивыми к методам обучения с положительным подкреплением. Однако их терьерское наследие может проявляться в некоторой упрямости, требующей последовательного и терпеливого обучения. Они знамениты 'Уитенским приветствием' — восторженным прыжком при встрече с людьми. Первоначально выведенные для фермерской работы, включая пастьбу и охрану, современные Уитены стали любимыми семейными компаньонами. Они преуспевают в различных собачьих видах спорта, таких как аджилити, послушание и трекинг, а также используются в терапии благодаря своей эмпатии. Их адаптивность позволяет им комфортно жить как в городских, так и в сельских условиях, при условии достаточной физической и умственной нагрузки. Особенности породы включают гипоаллергенную шерсть, требующую регулярного ухода для предотвращения спутывания, и сохраняющуюся на протяжении всей жизни щенячью жизнерадостность. Их сильный охотничий инстинкт требует осторожности в присутствии мелких животных, а ранняя социализация важна для гармоничного сосуществования с другими питомцами.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "30-40 pounds",
+    "height": "17-19 inches",
+    "coat": "soft, silky, wavy, single-layered",
+    "activity": "moderate to high",
+    "trainability": "moderate; responds well to positive reinforcement",
+    "grooming": "daily brushing; professional grooming every 4-6 weeks",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "14-18 кг",
+    "рост": "43-48 см",
+    "шерсть": "мягкая, шелковистая, волнистая, однослойная",
+    "активность": "умеренная до высокой",
+    "обучаемость": "средняя; хорошо реагирует на положительное подкрепление",
+    "уход": "ежедневное расчесывание; профессиональный груминг каждые 4-6 недель",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "summary": "Soft Coated Wheaten Terriers are friendly, energetic, and affectionate dogs known for their playful nature and strong bonds with their families.",
+    "with_family": "They form close attachments to family members and thrive on companionship, often displaying a cheerful and loyal demeanor.",
+    "with_children": "Generally good with children, they enjoy playtime and can be gentle, but supervision is recommended to manage their exuberance.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other dogs; however, their prey drive may pose challenges with smaller animals.",
+    "with_strangers": "Typically friendly towards strangers, they may exhibit initial wariness but usually warm up quickly, especially with proper introductions.",
+    "special_traits": [
+      "enthusiastic 'Wheaten greetin' jumping behavior",
+      "persistent puppy-like playfulness",
+      "strong prey drive",
+      "alert and vocal tendencies",
+      "adaptability to various living environments"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Ирландские мягкошерстные пшеничные терьеры — дружелюбные, энергичные и привязанные к хозяевам собаки, известные своей игривостью и сильной привязанностью к семье.",
+    "с семьёй": "Они формируют тесные связи с членами семьи и процветают в компании, часто проявляя веселый и преданный характер.",
+    "с детьми": "Обычно хорошо ладят с детьми, любят совместные игры и могут быть нежными, но рекомендуется присмотр для контроля их бурной энергии.",
+    "с другими животными": "При правильной социализации могут мирно сосуществовать с другими собаками; однако их охотничий инстинкт может создавать сложности с мелкими животными.",
+    "с незнакомцами": "Обычно дружелюбны к незнакомцам, могут проявлять начальную настороженность, но быстро привыкают, особенно при правильном знакомстве.",
+    "особые черты": [
+      "восторженное 'Уитенское приветствие' с прыжками",
+      "постоянная щенячья игривость",
+      "сильный охотничий инстинкт",
+      "бдительность и склонность к лаю",
+      "адаптивность к различным условиям проживания"
+    ]
+  },
+  "health": {
+    "summary": "Soft Coated Wheaten Terriers are generally healthy but are predisposed to certain hereditary conditions that require proactive management.",
+    "common_issues": [
+      "protein-losing nephropathy (PLN)",
+      "protein-losing enteropathy (PLE)",
+      "renal dysplasia",
+      "Addison's disease",
+      "hypothyroidism"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "routine blood and urine tests to monitor kidney function",
+      "balanced diet tailored to their specific needs",
+      "consistent exercise to maintain healthy weight",
+      "early detection and management of symptoms"
+    ],
+    "vet_checkups": "bi-annual check-ups recommended; more frequent if managing existing health conditions"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Ирландские мягкошерстные пшеничные терьеры в целом здоровы, но склонны к некоторым наследственным заболеваниям, требующим проактивного управления.",
+    "распространённые проблемы": [
+      "нефропатия с потерей белка (PLN)",
+      "энтеропатия с потерей белка (PLE)",
+      "дисплазия почек",
+      "болезнь Аддисона",
+      "гипотиреоз"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "периодические анализы крови и мочи для контроля функции почек",
+      "сбалансированное питание, соответствующее их потребностям",
+      "постоянные физические нагрузки для поддержания здорового веса",
+      "раннее выявление и управление симптомами"
+    ],
+    "рекомендуемые осмотры": "рекомендуются осмотры два раза в год; чаще при наличии существующих заболеваний"
+  },
+  "care": {
+    "description": "Soft Coated Wheaten Terriers require attentive care, including regular grooming, consistent training, and ample exercise to maintain their health and happiness.",
+    "behavior": "Early socialization and positive reinforcement training are essential to channel their energy and manage their strong prey drive effectively.",
+    "health": "Proactive health monitoring, including regular veterinary visits and awareness of breed-specific conditions, is crucial for their well-being.",
+    "grooming": "Daily brushing and professional grooming every 4-6 weeks are necessary to prevent matting and maintain their coat's health.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level supports their overall health; monitoring for food sensitivities is advisable."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Ирландские мягкошерстные пшеничные терьеры требуют внимательного ухода, включая регулярный груминг, последовательное обучение и достаточные физические нагрузки для поддержания их здоровья и счастья.",
+    "поведение и характер": "Ранняя социализация и обучение с положительным подкреплением необходимы для направления их энергии и эффективного управления сильным охотничьим инстинктом.",
+    "здоровье и профилактика": "Проактивный мониторинг здоровья, включая регулярные визиты к ветеринару и осведомленность о породных заболеваниях, имеет решающее значение для их благополучия.",
+    "груминг и уход": "Ежедневное расчесывание и профессиональный груминг каждые 4-6 недель необходимы для предотвращения спутывания и поддержания здоровья их шерсти.",
+    "питание и активность": "Сбалансированное питание, соответствующее их возрасту, размеру и уровню активности, поддерживает их общее здоровье; рекомендуется следить за возможными пищевыми чувствительностями."
+  },
+  "faq": [
+    {
+      "question": "Are Soft Coated Wheaten Terriers hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Wheatens have a low-shedding coat that may be suitable for individuals with mild allergies."
+    },
+    {
+      "question": "Do Soft Coated Wheaten Terriers get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other dogs; however, their prey drive may pose challenges with smaller animals."
+    },
+    {
+      "question": "How much exercise does a Soft Coated Wheaten Terrier need?",
+      "answer": "They require daily exercise, including walks and playtime, to maintain their physical and mental health."
+    },
+    {
+      "question": "What are common health issues in Soft Coated Wheaten Terriers?",
+      "answer": "They are prone to conditions like protein-losing nephropathy (PLN), protein-losing enteropathy (PLE), and renal dysplasia."
+    },
+    {
+      "question": "How often should a Soft Coated Wheaten Terrier be groomed?",
+      "answer": "Daily brushing and professional grooming every 4-6 weeks are recommended to maintain their coat's condition."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли ирландские мягкошерстные пшеничные терьеры гипоаллергенными?",
+      "ответ": "Хотя полностью гипоаллергенных собак не существует, Уитены имеют мало линяющую шерсть, что может быть подходящим для людей с легкими аллергиями."
+    },
+    {
+      "вопрос": "Ладят ли ирландские мягкошерстные пшеничные терьеры с другими животными?",
+      "ответ": "При правильной социализации они могут мирно сосуществовать с другими собаками; однако их охотничий инстинкт может создавать сложности с мелкими животными."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется ирландскому мягкошерстному пшеничному терьеру?",
+      "ответ": "Им необходимы ежедневные физические нагрузки, включая прогулки и игры, для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Какие распространенные проблемы со здоровьем у ирландских мягкошерстных пшеничных терьеров?",
+      "ответ": "Они склонны к таким заболеваниям, как нефропатия с потерей белка (PLN), энтеропатия с потерей белка (PLE) и дисплазия почек."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за ирландским мягкошерстным пшеничным терьером?",
+      "ответ": "Рекомендуется ежедневное расчесывание и профессиональный груминг каждые 4-6 недель для поддержания состояния их шерсти."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Soft-coated_Wheaten_Terrier",
+    "https://www.webmd.com/pets/dogs/know-about-soft-coated-wheaten-terriers",
+    "https://www.purina.com/dogs/dog-breeds/soft-coated-wheaten-terrier",
+    "https://www.westminsterkennelclub.org/breed/soft-coated-wheaten-terrier/",
+    "https://www.petmd.com/dog/breeds/soft-coated-wheaten-terrier",
+    "https://scwtca.org/breed/"
+  ]
+}

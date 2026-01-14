@@ -1,0 +1,152 @@
+{
+  "id": "sheepadoodle",
+  "name": "Sheepadoodle",
+  "name_rus": "Шипадудль",
+  "full_description": "<p>The Sheepadoodle is a designer dog breed resulting from the cross between an Old English Sheepdog and a Poodle, typically a Standard Poodle. This hybrid was initially developed in the 1960s by the U.S. Army for military purposes, aiming to combine the intelligence and hypoallergenic coat of the Poodle with the strength and loyalty of the Old English Sheepdog. However, their playful and gentle nature made them more suitable as family companions than military working dogs. The breed gained popularity in the late 20th century, especially in North America and Europe, as a loving and intelligent family pet. Physically, Sheepadoodles are medium to large-sized dogs, with males generally standing between 20 to 25.5 inches at the shoulder and weighing 60 to 88 pounds, while females are slightly smaller, standing 19 to 24.5 inches and weighing 55 to 84 pounds. Their coats are typically soft and wavy to curly, often resembling the Poodle's hypoallergenic fleece. Common coat colors include black and white, gray, cream, and occasionally merle or tri-color blends. Their expressive dark eyes and floppy ears contribute to their endearing appearance. Temperamentally, Sheepadoodles are known for their affectionate, intelligent, and playful nature. They form strong bonds with their families and are generally good with children and other pets. Their intelligence and eagerness to please make them highly trainable, excelling in obedience and agility activities. Originally bred for herding and retrieving, Sheepadoodles possess a strong work ethic and enjoy having tasks to perform. In modern times, they are primarily cherished as family companions and therapy dogs, valued for their friendly disposition and adaptability. Notable characteristics of the Sheepadoodle include their hypoallergenic coat, which sheds minimally, making them suitable for individuals with allergies. Their combination of intelligence, loyalty, and playfulness makes them well-suited for active families seeking an engaging and loving pet.</p>",
+  "full_description_rus": "<p>Шипадудль — это дизайнерская порода собак, полученная в результате скрещивания староанглийской овчарки и пуделя, обычно стандартного пуделя. Этот гибрид был первоначально разработан в 1960-х годах армией США для военных целей, стремясь объединить интеллект и гипоаллергенную шерсть пуделя с силой и преданностью староанглийской овчарки. Однако их игривый и нежный характер сделал их более подходящими в качестве семейных компаньонов, чем военных служебных собак. Порода приобрела популярность в конце XX века, особенно в Северной Америке и Европе, как любящая и умная семейная собака. Физически шипадудли — это собаки среднего и крупного размера: кобели обычно достигают высоты в холке от 51 до 65 см и весят от 27 до 40 кг, в то время как суки немного меньше, с ростом от 48 до 62 см и весом от 25 до 38 кг. Их шерсть обычно мягкая и волнистая или кудрявая, часто напоминающая гипоаллергенный флис пуделя. Распространенные окрасы включают черно-белый, серый, кремовый, а также иногда мерле или триколор. Их выразительные темные глаза и висячие уши придают им очаровательный вид. По темпераменту шипадудли известны своей привязанностью, интеллектом и игривостью. Они формируют крепкие связи со своими семьями и обычно хорошо ладят с детьми и другими домашними животными. Их интеллект и стремление угодить делают их легко обучаемыми, они преуспевают в послушании и аджилити. Изначально выведенные для пастьбы и апортировки, шипадудли обладают сильной трудовой этикой и любят выполнять задачи. В современное время они в основном ценятся как семейные компаньоны и терапевтические собаки, благодаря своему дружелюбному характеру и адаптивности. Особенностью шипадудлей является их гипоаллергенная шерсть, которая минимально линяет, что делает их подходящими для людей с аллергией. Их сочетание интеллекта, преданности и игривости делает их идеальными для активных семей, ищущих энергичного и любящего питомца.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "55-88 pounds",
+    "height": "19-25.5 inches",
+    "coat": "soft, wavy to curly, hypoallergenic",
+    "activity": "moderate to high",
+    "trainability": "very high",
+    "grooming": "regular brushing; professional grooming every 6-8 weeks",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "size": "средний / крупный",
+    "weight": "25-40 кг",
+    "height": "48-65 см",
+    "coat": "мягкая, волнистая или кудрявая, гипоаллергенная",
+    "activity": "умеренная / высокая",
+    "trainability": "очень высокая",
+    "grooming": "регулярное расчесывание; профессиональный груминг каждые 6-8 недель",
+    "lifespan": "12-15 лет"
+  },
+  "behavior": {
+    "summary": "Sheepadoodles are affectionate, intelligent, and playful dogs that thrive on human companionship and are well-suited for active families.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and a desire to participate in family activities.",
+    "with_children": "Generally good with children, they are playful and gentle but should be supervised during interactions due to their size and energy.",
+    "with_other_pets": "Typically friendly towards other pets, especially when socialized early, though their herding instincts may lead to playful chasing.",
+    "with_strangers": "They are usually friendly towards strangers but may exhibit protective behaviors, making them effective watchdogs.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Affectionate and loyal",
+      "Playful and energetic",
+      "Hypoallergenic coat",
+      "Good with children and other pets"
+    ]
+  },
+  "behavior_rus": {
+    "summary": "Шипадудли — это ласковые, умные и игривые собаки, которые процветают в обществе людей и отлично подходят для активных семей.",
+    "with_family": "Они формируют крепкие связи с членами семьи, проявляя преданность и желание участвовать в семейных мероприятиях.",
+    "with_children": "Обычно хорошо ладят с детьми, они игривы и нежны, но из-за их размера и энергии рекомендуется присмотр во время взаимодействий.",
+    "with_other_pets": "Как правило, дружелюбны к другим животным, особенно при ранней социализации, хотя их пастушьи инстинкты могут приводить к игривой погоне.",
+    "with_strangers": "Обычно дружелюбны к незнакомцам, но могут проявлять защитные качества, что делает их эффективными сторожевыми собаками.",
+    "special_traits": [
+      "Высокий интеллект и обучаемость",
+      "Ласковость и преданность",
+      "Игривость и энергичность",
+      "Гипоаллергенная шерсть",
+      "Хорошо ладят с детьми и другими животными"
+    ]
+  },
+  "health": {
+    "summary": "Sheepadoodles are generally healthy but may inherit certain health issues from their parent breeds.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Bloat (gastric dilatation-volvulus)",
+      "Progressive retinal atrophy",
+      "Hypothyroidism"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Balanced diet and regular exercise",
+      "Monitoring for signs of bloat",
+      "Genetic testing of breeding pairs"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health concerns."
+  },
+  "health_rus": {
+    "summary": "Шипадудли в целом здоровы, но могут наследовать некоторые заболевания от родительских пород.",
+    "common_issues": [
+      "Дисплазия тазобедренного сустава",
+      "Вздутие желудка (гастродилатация-волвулюс)",
+      "Прогрессирующая атрофия сетчатки",
+      "Гипотиреоз"
+    ],
+    "prevention_tips": [
+      "Регулярные ветеринарные осмотры",
+      "Сбалансированное питание и регулярные физические нагрузки",
+      "Мониторинг признаков вздутия",
+      "Генетическое тестирование племенных пар"
+    ],
+    "vet_checkups": "Не реже одного раза в год; чаще для пожилых собак или при наличии проблем со здоровьем."
+  },
+  "care": {
+    "description": "Sheepadoodles require regular grooming, consistent training, and ample exercise to maintain their health and happiness.",
+    "behavior": "Early socialization and obedience training are essential to manage their intelligence and energy levels effectively.",
+    "health": "Maintain a balanced diet and regular exercise routine to prevent obesity and related health issues.",
+    "grooming": "Daily brushing and professional grooming every 6-8 weeks are recommended to keep their coat healthy and prevent matting.",
+    "nutrition": "Provide high-quality dog food appropriate for their size, age, and activity level; monitor portion sizes to maintain a healthy weight."
+  },
+  "care_rus": {
+    "description": "Шипадудли требуют регулярного ухода за шерстью, последовательной дрессировки и достаточных физических нагрузок для поддержания здоровья и счастья.",
+    "behavior": "Ранняя социализация и обучение послушанию необходимы для эффективного управления их интеллектом и уровнем энергии.",
+    "health": "Поддерживайте сбалансированное питание и регулярные физические упражнения, чтобы предотвратить ожирение и связанные с ним проблемы со здоровьем.",
+    "grooming": "Рекомендуется ежедневное расчесывание и профессиональный груминг каждые 6-8 недель для поддержания здоровья шерсти и предотвращения спутывания.",
+    "nutrition": "Обеспечьте высококачественный корм, соответствующий их размеру, возрасту и уровню активности; контролируйте порции для поддержания здорового веса."
+  },
+  "faq": [
+    {
+      "question": "Are Sheepadoodles hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Sheepadoodles tend to shed less due to their Poodle heritage, making them more suitable for allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Sheepadoodle need?",
+      "answer": "They require moderate to high levels of exercise, including daily walks and playtime, to keep them physically and mentally stimulated."
+    },
+    {
+      "question": "Are Sheepadoodles good with children?",
+      "answer": "Yes, they are generally good with children, being playful and gentle, but supervision is recommended due to their size and energy."
+    },
+    {
+      "question": "How often should a Sheepadoodle be groomed?",
+      "answer": "Daily brushing and professional grooming every 6-8 weeks are recommended to maintain their coat and prevent matting."
+    },
+    {
+      "question": "What is the lifespan of a Sheepadoodle?",
+      "answer": "Sheepadoodles typically live between 12 to 15 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Являются ли шипадудли гипоаллергенными?",
+      "answer": "Хотя полностью гипоаллергенных собак не существует, шипадудли склонны меньше линять благодаря наследственности от пуделя, что делает их более подходящими для людей с аллергией."
+    },
+    {
+      "question": "Сколько упражнений требуется шипадудлю?",
+      "answer": "Им необходимы умеренные или высокие физические нагрузки, включая ежедневные прогулки и игры, чтобы поддерживать физическую и умственную стимуляцию."
+    },
+    {
+      "question": "Хорошо ли шипадудли ладят с детьми?",
+      "answer": "Да, они обычно хорошо ладят с детьми, будучи игривыми и нежными, но рекомендуется присмотр из-за их размера и энергии."
+    },
+    {
+      "question": "Как часто следует ухаживать за шерстью шипадудля?",
+      "answer": "Рекомендуется ежедневное расчесывание и профессиональный груминг каждые 6-8 недель для поддержания шерсти и предотвращения спутывания."
+    },
+    {
+      "question": "Какова продолжительность жизни шипадудля?",
+      "answer": "При надлежащем уходе шипадудли обычно живут от 12 до 15 лет."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/sheepadoodle",
+    "https://www.chewy.com/education/dog-breeds/sheepadoodle",
+    "https://www.breedscout.com/breeds/sheepadoodle",
+    "https://www.lancasterpuppies.com/dog-breeds/sheepadoodle/",
+    "https://www.dailypaws.com/sheepadoodle-dog-7491854"
+  ]
+}

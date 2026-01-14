@@ -1,0 +1,157 @@
+{
+  "id": "american-bulldog",
+  "name": "American Bulldog",
+  "name_rus": "Американский бульдог",
+  "full_description": "<p>The American Bulldog is a robust and muscular breed with deep roots in American history. Originating from the Old English Bulldog, these dogs were brought to the United States by early settlers and primarily used for farm work, including guarding property and hunting game. Over time, they evolved into versatile working dogs, adept at various tasks on farms and ranches. Physically, American Bulldogs are large and athletic, typically standing between 20 to 28 inches tall and weighing between 60 to 120 pounds. They possess a strong, stocky build with a broad chest and powerful limbs. Their short, smooth coat is predominantly white, often with patches of red, brindle, or fawn. The breed's head is large and square-shaped, featuring a pronounced jaw and a black nose. Their eyes are usually brown, conveying an alert and confident expression. Temperamentally, American Bulldogs are known for their loyalty, courage, and protective nature. They form strong bonds with their families and are often affectionate and gentle with children. However, their protective instincts make them wary of strangers, necessitating proper socialization from an early age. Historically bred for tasks such as catching livestock and guarding property, they exhibit high energy levels and require regular physical and mental stimulation. In modern times, American Bulldogs have transitioned into roles as family companions, guard dogs, and participants in canine sports. Their versatility and adaptability have contributed to their steady popularity among dog enthusiasts. Notable characteristics of the breed include their unwavering loyalty, intelligence, and strong work ethic. They are also recognized for their distinctive appearance, combining strength and agility, which reflects their working heritage.</p>",
+  "full_description_rus": "<p>Американский бульдог — крепкая и мускулистая порода с глубокими историческими корнями в США. Происходя от староанглийского бульдога, эти собаки были завезены в Америку первыми поселенцами и использовались преимущественно для фермерских работ, включая охрану имущества и охоту на дичь. Со временем они превратились в универсальных рабочих собак, способных выполнять различные задачи на фермах и ранчо. Физически американские бульдоги крупные и атлетичные, их рост составляет от 51 до 71 см, а вес — от 27 до 54 кг. Они обладают крепким, коренастым телосложением с широкой грудью и мощными конечностями. Их короткая, гладкая шерсть преимущественно белого цвета, часто с пятнами рыжего, тигрового или палевого оттенков. Голова крупная и квадратная, с выраженной челюстью и черным носом. Глаза обычно карие, выражающие настороженность и уверенность. По характеру американские бульдоги известны своей преданностью, смелостью и защитными инстинктами. Они формируют крепкие связи со своими семьями и часто проявляют нежность и заботу к детям. Однако их защитная натура делает их настороженными к незнакомцам, что требует правильной социализации с раннего возраста. Исторически выведенные для таких задач, как ловля скота и охрана имущества, они обладают высоким уровнем энергии и нуждаются в регулярной физической и умственной стимуляции. В современное время американские бульдоги стали семейными компаньонами, сторожевыми собаками и участниками собачьих спортивных мероприятий. Их универсальность и адаптивность способствовали их устойчивой популярности среди любителей собак. Отличительными чертами породы являются их непоколебимая преданность, интеллект и сильная трудовая этика. Они также признаны за свой характерный внешний вид, сочетающий силу и ловкость, что отражает их рабочее наследие.</p>",
+  "parameters": {
+    "activity": "high",
+    "coat": "short, smooth",
+    "grooming": "low maintenance; regular brushing",
+    "height": "20-28 inches",
+    "lifespan": "10-15 years",
+    "size": "large",
+    "trainability": "moderate to high",
+    "weight": "60-120 pounds"
+  },
+  "parameters_rus": {
+    "size": "крупный",
+    "weight": "27–54 кг",
+    "height": "51–71 см",
+    "coat": "короткая, гладкая",
+    "activity": "высокая",
+    "trainability": "от умеренной до высокой",
+    "grooming": "минимальный уход; регулярное расчесывание",
+    "lifespan": "10–15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Protective instincts",
+      "High energy levels",
+      "Strong work ethic",
+      "Affectionate with family",
+      "Intelligent and trainable"
+    ],
+    "summary": "American Bulldogs are loyal, protective, and energetic dogs that form strong bonds with their families. They require proper socialization and training to ensure well-rounded behavior.",
+    "with_children": "Generally gentle and patient with children, making them suitable family pets when properly socialized.",
+    "with_family": "They are affectionate and devoted to family members, often seeking attention and companionship.",
+    "with_other_pets": "Can coexist with other pets if introduced properly, though their strong prey drive may require supervision.",
+    "with_strangers": "Wary of strangers due to their protective nature; early socialization helps in developing appropriate responses."
+  },
+  "behavior_rus": {
+    "summary": "Американские бульдоги — преданные, защитные и энергичные собаки, которые формируют крепкие связи со своими семьями. Им необходима правильная социализация и обучение для обеспечения сбалансированного поведения.",
+    "with_family": "Они ласковы и преданы членам семьи, часто ищут внимания и общения.",
+    "with_children": "Обычно нежны и терпеливы с детьми, что делает их подходящими семейными питомцами при правильной социализации.",
+    "with_other_pets": "Могут сосуществовать с другими животными при правильном знакомстве, хотя их сильный охотничий инстинкт может требовать наблюдения.",
+    "with_strangers": "Настороженно относятся к незнакомцам из-за своей защитной натуры; ранняя социализация помогает в развитии адекватных реакций.",
+    "special_traits": [
+      "Защитные инстинкты",
+      "Высокий уровень энергии",
+      "Сильная трудовая этика",
+      "Ласковы с семьей",
+      "Умны и обучаемы"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Allergies",
+      "Ichthyosis",
+      "Respiratory issues",
+      "Obesity"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight through diet and exercise",
+      "Regular veterinary check-ups",
+      "Monitor for signs of allergies and seek prompt treatment",
+      "Provide a balanced diet rich in essential nutrients",
+      "Ensure regular physical activity to prevent obesity"
+    ],
+    "summary": "American Bulldogs are generally healthy but can be prone to certain genetic and environmental health issues. Regular veterinary care and a healthy lifestyle are essential.",
+    "vet_checkups": "At least once a year; more frequent visits for senior dogs or those with health issues"
+  },
+  "health_rus": {
+    "summary": "Американские бульдоги в целом здоровы, но могут быть склонны к определенным генетическим и экологическим проблемам со здоровьем. Регулярный ветеринарный уход и здоровый образ жизни необходимы.",
+    "common_issues": [
+      "Дисплазия тазобедренных и локтевых суставов",
+      "Аллергии",
+      "Ихтиоз",
+      "Респираторные проблемы",
+      "Ожирение"
+    ],
+    "prevention_tips": [
+      "Поддерживайте здоровый вес с помощью диеты и упражнений",
+      "Регулярные визиты к ветеринару",
+      "Следите за признаками аллергий и своевременно обращайтесь за лечением",
+      "Обеспечьте сбалансированное питание, богатое необходимыми питательными веществами",
+      "Обеспечьте регулярную физическую активность для предотвращения ожирения"
+    ],
+    "vet_checkups": "Не реже одного раза в год; более частые визиты для пожилых собак или тех, у кого есть проблемы со здоровьем"
+  },
+  "care": {
+    "behavior": "Early socialization and obedience training are crucial to manage their protective instincts and ensure good behavior.",
+    "description": "American Bulldogs require consistent training, regular exercise, and proper health care to thrive as family companions.",
+    "grooming": "Their short coat requires minimal grooming; regular brushing helps reduce shedding and maintain skin health.",
+    "health": "Regular veterinary visits and preventive care help in early detection and management of potential health issues.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level supports overall health and energy needs."
+  },
+  "care_rus": {
+    "description": "Американские бульдоги требуют последовательного обучения, регулярных физических нагрузок и надлежащего ухода за здоровьем для процветания в качестве семейных компаньонов.",
+    "behavior": "Ранняя социализация и обучение послушанию необходимы для управления их защитными инстинктами и обеспечения хорошего поведения.",
+    "health": "Регулярные визиты к ветеринару и профилактический уход помогают в раннем выявлении и управлении потенциальными проблемами со здоровьем.",
+    "grooming": "Их короткая шерсть требует минимального ухода; регулярное расчесывание помогает уменьшить линьку и поддерживать здоровье кожи.",
+    "nutrition": "Сбалансированная диета, соответствующая их возрасту, размеру и уровню активности, поддерживает общее здоровье и энергетические потребности."
+  },
+  "faq": [
+    {
+      "answer": "Yes, they are generally gentle and patient with children when properly socialized.",
+      "question": "Are American Bulldogs good with children?"
+    },
+    {
+      "answer": "They require regular physical activity to maintain health and prevent boredom.",
+      "question": "How much exercise does an American Bulldog need?"
+    },
+    {
+      "answer": "They can be prone to hip dysplasia, allergies, and respiratory issues; regular vet check-ups are recommended.",
+      "question": "Do American Bulldogs have common health issues?"
+    },
+    {
+      "answer": "They are intelligent and trainable but require consistent, positive reinforcement methods.",
+      "question": "Are American Bulldogs easy to train?"
+    },
+    {
+      "answer": "They typically live between 10 to 15 years with proper care.",
+      "question": "What is the lifespan of an American Bulldog?"
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Американские бульдоги хорошо ладят с детьми?",
+      "answer": "Да, при правильной социализации они обычно нежны и терпеливы с детьми."
+    },
+    {
+      "question": "Сколько физической активности требуется американскому бульдогу?",
+      "answer": "Им необходима регулярная физическая активность для поддержания здоровья и предотвращения скуки."
+    },
+    {
+      "question": "Какие распространенные проблемы со здоровьем у американских бульдогов?",
+      "answer": "Они могут быть склонны к дисплазии тазобедренных суставов, аллергиям и респираторным проблемам; рекомендуется регулярный ветеринарный контроль."
+    },
+    {
+      "question": "Легко ли дрессировать американских бульдогов?",
+      "answer": "Они умны и обучаемы, но требуют последовательных методов положительного подкрепления."
+    },
+    {
+      "question": "Какова продолжительность жизни американского бульдога?",
+      "answer": "При надлежащем уходе они обычно живут от 10 до 15 лет."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/American_Bulldog",
+    "https://www.petmd.com/dog/breeds/c_dg_american_bulldog",
+    "https://www.breedscout.com/breeds/american-bulldog",
+    "https://www.purinaone.ru/dog/articles/breeds/amerikanskij-buldog",
+    "https://www.pedigree.ru/porody/amerikanskiybuldog",
+    "https://www.hillspet.ru/dog-care/dog-breeds/american-bulldog"
+  ]
+}

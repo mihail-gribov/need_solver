@@ -1,0 +1,161 @@
+{
+  "id": "whippet",
+  "name": "Whippet",
+  "name_rus": "Уиппет",
+  "full_description": "<p>The Whippet is a British sighthound breed, developed in the 19th century by crossing Greyhounds with smaller terriers to create a swift, agile dog for hunting and racing. Often referred to as the \"poor man's racehorse,\" Whippets were prized for their speed and hunting prowess. They possess a sleek, aerodynamic build with a deep chest, long legs, and a narrow waist, standing between 18 to 22 inches tall and weighing 25 to 40 pounds. Their short, smooth coat comes in a variety of colors and patterns. Whippets are known for their gentle, affectionate nature, being calm indoors yet energetic outdoors. Originally bred for hunting and racing, they excel in activities like lure coursing and agility. Today, they are cherished as companion animals, valued for their adaptability and friendly demeanor. Notable characteristics include their remarkable speed, reaching up to 35 mph, and their strong prey drive, necessitating secure environments during exercise.</p>",
+  "full_description_rus": "<p>Уиппет — британская порода борзых собак, выведенная в XIX веке путем скрещивания грейхаундов с более мелкими терьерами для создания быстрой и ловкой собаки, предназначенной для охоты и гонок. Часто называемые «скаковой лошадью бедняка», уиппеты ценились за свою скорость и охотничьи способности. Они обладают стройным, аэродинамическим телосложением с глубокой грудью, длинными ногами и узкой талией, достигая роста от 47 до 56 см и веса от 11 до 18 кг. Их короткая, гладкая шерсть представлена в разнообразных окрасах и узорах. Уиппеты известны своим нежным, ласковым характером, будучи спокойными в доме и энергичными на улице. Изначально выведенные для охоты и гонок, они преуспевают в таких видах спорта, как курсинг и аджилити. Сегодня они ценятся как компаньоны, благодаря своей адаптивности и дружелюбному нраву. Примечательными чертами являются их выдающаяся скорость, достигающая до 56 км/ч, и сильный охотничий инстинкт, требующий обеспечения безопасных условий во время прогулок.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "25-40 pounds",
+    "height": "18-22 inches",
+    "coat": "short, smooth",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "minimal",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "11-18 кг",
+    "рост": "47-56 см",
+    "шерсть": "короткая, гладкая",
+    "активность": "умеренная",
+    "обучаемость": "умеренная",
+    "уход": "минимальный",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Affectionate and loyal",
+      "Calm indoors, energetic outdoors",
+      "Strong prey drive",
+      "Minimal barking",
+      "Sensitive to cold temperatures"
+    ],
+    "summary": "Whippets are gentle, affectionate, and adaptable dogs, known for their calm demeanor indoors and energetic bursts outdoors.",
+    "with_children": "Generally good with children, Whippets are patient and gentle, making them suitable family pets.",
+    "with_family": "They form strong bonds with family members, enjoying close companionship and often seeking physical closeness.",
+    "with_other_pets": "They can coexist peacefully with other dogs, but their strong prey drive may pose challenges with smaller animals.",
+    "with_strangers": "Typically friendly towards strangers, though some may be reserved; early socialization is beneficial."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Уиппеты — нежные, ласковые и адаптивные собаки, известные своим спокойным поведением в доме и энергичными всплесками на улице.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, наслаждаются близким общением и часто ищут физической близости.",
+    "с детьми": "Обычно хорошо ладят с детьми, уиппеты терпеливы и нежны, что делает их подходящими семейными питомцами.",
+    "с другими животными": "Могут мирно сосуществовать с другими собаками, но их сильный охотничий инстинкт может создавать сложности с мелкими животными.",
+    "с незнакомцами": "Обычно дружелюбны к незнакомцам, хотя некоторые могут быть сдержанными; ранняя социализация полезна.",
+    "особые черты": [
+      "Ласковые и преданные",
+      "Спокойны в доме, энергичны на улице",
+      "Сильный охотничий инстинкт",
+      "Минимальный лай",
+      "Чувствительны к холодным температурам"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Cardiac conditions",
+      "Progressive retinal atrophy",
+      "Hip dysplasia",
+      "Patellar luxation",
+      "Idiopathic epilepsy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Annual eye examinations",
+      "Screening for hip and knee issues",
+      "Monitoring for seizure activity",
+      "Maintaining a healthy weight"
+    ],
+    "summary": "Whippets are generally healthy with a lifespan of 12 to 15 years, though they can be prone to certain health issues.",
+    "vet_checkups": "Annual wellness exams recommended"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Уиппеты в целом здоровы и имеют продолжительность жизни от 12 до 15 лет, хотя могут быть склонны к определённым заболеваниям.",
+    "распространённые проблемы": [
+      "Сердечно-сосудистые заболевания",
+      "Прогрессирующая атрофия сетчатки",
+      "Дисплазия тазобедренного сустава",
+      "Вывих надколенника",
+      "Идиопатическая эпилепсия"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Ежегодные проверки зрения",
+      "Скрининг на проблемы с тазобедренными и коленными суставами",
+      "Мониторинг на предмет судорожной активности",
+      "Поддержание здорового веса"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные профилактические осмотры"
+  },
+  "care": {
+    "behavior": "They need daily exercise to manage their energy levels and prevent boredom.",
+    "description": "Whippets require minimal grooming, regular exercise, and thrive on human companionship.",
+    "grooming": "Their short coat requires occasional brushing and infrequent baths.",
+    "health": "Regular health screenings and a balanced diet are essential for their well-being.",
+    "nutrition": "A high-quality diet appropriate for their size and activity level is recommended."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Уиппеты требуют минимального ухода за шерстью, регулярных физических нагрузок и процветают в обществе людей.",
+    "поведение и характер": "Им необходимы ежедневные упражнения для поддержания уровня энергии и предотвращения скуки.",
+    "здоровье и профилактика": "Регулярные медицинские осмотры и сбалансированное питание необходимы для их благополучия.",
+    "груминг и уход": "Их короткая шерсть требует периодического расчесывания и редких купаний.",
+    "питание и активность": "Рекомендуется высококачественный рацион, соответствующий их размеру и уровню активности."
+  },
+  "faq": [
+    {
+      "question": "Are Whippets good apartment dogs?",
+      "answer": "Yes, with sufficient exercise, Whippets adapt well to apartment living due to their calm indoor nature."
+    },
+    {
+      "question": "Do Whippets get along with other pets?",
+      "answer": "They can coexist with other dogs but may chase smaller animals due to their prey drive."
+    },
+    {
+      "question": "How much exercise does a Whippet need?",
+      "answer": "Daily walks and opportunities to run in a secure area are ideal to meet their exercise needs."
+    },
+    {
+      "question": "Are Whippets easy to train?",
+      "answer": "They are intelligent but may have an independent streak; consistent, positive training methods work best."
+    },
+    {
+      "question": "Do Whippets shed a lot?",
+      "answer": "They shed minimally; their short coat is easy to maintain with occasional brushing."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли уиппеты для содержания в квартире?",
+      "ответ": "Да, при достаточных физических нагрузках уиппеты хорошо адаптируются к жизни в квартире благодаря своему спокойному поведению в помещении."
+    },
+    {
+      "вопрос": "Ладят ли уиппеты с другими животными?",
+      "ответ": "Они могут мирно сосуществовать с другими собаками, но могут преследовать мелких животных из-за своего охотничьего инстинкта."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется уиппету?",
+      "ответ": "Ежедневные прогулки и возможность побегать в безопасной зоне идеальны для удовлетворения их потребностей в физических нагрузках."
+    },
+    {
+      "вопрос": "Легко ли дрессировать уиппетов?",
+      "ответ": "Они умны, но могут быть независимыми; последовательные, позитивные методы обучения наиболее эффективны."
+    },
+    {
+      "вопрос": "Сильно ли линяют уиппеты?",
+      "ответ": "Они линяют минимально; их короткая шерсть легко поддерживается с помощью периодического расчесывания."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Whippet",
+    "https://www.westminsterkennelclub.org/breed/whippet/",
+    "https://www.purina.com/dogs/dog-breeds/whippet",
+    "https://www.ukcdogs.com/breed-groups/whippet",
+    "https://www.akc.org/dog-breeds/whippet/",
+    "https://www.pedigree.ru/porody/uippet",
+    "https://kinpet.ru/whippet/",
+    "https://www.purina.ru/find-a-pet/dog-breeds/uippet",
+    "https://ru.wikipedia.org/wiki/Уиппет",
+    "https://royalcanin.ru/dog-breed/whippet"
+  ]
+}

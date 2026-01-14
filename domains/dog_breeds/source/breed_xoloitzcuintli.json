@@ -1,0 +1,83 @@
+{
+  "id": "xoloitzcuintli",
+  "name": "Xoloitzcuintli",
+  "full_description": "<p>The Xoloitzcuintli, often referred to as the Xolo or Mexican Hairless Dog, is an ancient breed with a history spanning over 3,000 years. Originating in Mexico, the Xolo was revered by the Aztecs and other indigenous cultures, who believed the breed had spiritual significance, including guiding souls to the afterlife. Archaeological findings, such as ceramic sculptures, depict Xolos, underscoring their deep-rooted presence in Mesoamerican societies. Physically, the Xoloitzcuintli presents in three sizes: Toy (10–14 inches tall), Miniature (14–18 inches tall), and Standard (18–23 inches tall). The breed is unique in offering both hairless and coated varieties. The hairless Xolos have smooth, tough skin, often with a few coarse hairs on the head, tail, and feet, while the coated variety boasts a short, sleek coat. Their appearance is marked by large, bat-like ears, almond-shaped eyes, and a graceful, athletic build. Temperamentally, Xolos are known for their calm, attentive, and loyal nature. They form strong bonds with their families and are often reserved around strangers, making them excellent watchdogs. Their intelligence and eagerness to please contribute to their trainability. Historically, Xolos served as companions, hunters, and even healers, with their warm bodies believed to alleviate ailments. In contemporary times, they are cherished as loyal companions and have gained recognition in dog shows and as cultural symbols in Mexico. Notably, the Xoloitzcuintli was designated as a \"cultural heritage and symbol\" of Mexico City in 2016. Distinctive characteristics of the breed include their hairless variety's unique skin care needs, their ancient lineage, and their adaptability to various living environments.</p>",
+  "parameters": {
+    "size": "Toy, Miniature, and Standard",
+    "weight": "4.5–25 kg",
+    "height": "25–58 cm",
+    "coat": "Hairless or short, sleek coat",
+    "activity": "Moderate",
+    "trainability": "High",
+    "grooming": "Minimal for coated; regular skin care for hairless",
+    "lifespan": "13–18 years"
+  },
+  "behavior": {
+    "summary": "Xoloitzcuintlis are calm, attentive, and loyal dogs that form strong bonds with their families. They are intelligent and eager to please, making them highly trainable. Their reserved nature around strangers makes them excellent watchdogs.",
+    "with_family": "Xolos are affectionate and devoted to their family members, often forming strong, lifelong bonds. They thrive on companionship and enjoy being involved in family activities.",
+    "with_children": "Generally good with children, Xolos are gentle and patient. Early socialization ensures they interact well with younger family members.",
+    "with_other_pets": "With proper introduction and socialization, Xolos can coexist peacefully with other pets. Their hunting instincts may require supervision around smaller animals.",
+    "with_strangers": "Typically reserved around strangers, Xolos are naturally protective, making them effective watchdogs. Early socialization helps them become more accepting of unfamiliar people.",
+    "special_traits": [
+      "Ancient lineage",
+      "Hairless variety requires unique skin care",
+      "Highly adaptable to various living environments",
+      "Strong protective instincts",
+      "Minimal grooming needs for coated variety"
+    ]
+  },
+  "health": {
+    "summary": "Xoloitzcuintlis are generally a healthy and hardy breed with a lifespan of 13–18 years. Their natural development has limited the occurrence of many common canine health issues. However, they are prone to certain conditions, especially related to their skin and dental health.",
+    "common_issues": [
+      "Skin conditions (acne, sunburn)",
+      "Dental issues (missing premolars)",
+      "Hip dysplasia",
+      "Patellar luxation",
+      "Obesity"
+    ],
+    "prevention_tips": [
+      "Regular skin care and moisturizing for hairless variety",
+      "Routine dental check-ups and care",
+      "Maintain a balanced diet to prevent obesity",
+      "Provide moderate exercise to support joint health",
+      "Regular veterinary check-ups to monitor overall health"
+    ],
+    "vet_checkups": "Annually, or more frequently as needed"
+  },
+  "care": {
+    "description": "Xoloitzcuintlis are low-maintenance dogs with specific care needs, especially for the hairless variety. Regular skin care, dental hygiene, and moderate exercise contribute to their overall well-being.",
+    "behavior": "Xolos thrive on companionship and should not be left alone for extended periods. They respond well to positive reinforcement training methods.",
+    "health": "Regular veterinary check-ups, a balanced diet, and routine exercise are essential to maintain the Xolo's health and prevent common issues.",
+    "grooming": "Coated Xolos require minimal grooming, while hairless Xolos need regular skin care, including moisturizing and sun protection.",
+    "nutrition": "Provide a balanced diet appropriate for the dog's size and activity level. Monitor food intake to prevent obesity, as Xolos have a tendency to overeat."
+  },
+  "faq": [
+    {
+      "question": "Are Xoloitzcuintlis hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, many people with allergies find Xolos more tolerable due to their minimal shedding."
+    },
+    {
+      "question": "Do Xolos require a lot of exercise?",
+      "answer": "Xolos have moderate exercise needs and enjoy daily walks and playtime but do not require extensive physical activity."
+    },
+    {
+      "question": "How do I care for a hairless Xolo's skin?",
+      "answer": "Regular moisturizing, sun protection, and gentle bathing are essential to maintain healthy skin in hairless Xolos."
+    },
+    {
+      "question": "Are Xolos good with children?",
+      "answer": "Yes, with proper socialization, Xolos are gentle and patient with children, making them good family pets."
+    },
+    {
+      "question": "Do Xolos bark a lot?",
+      "answer": "Xolos are not excessive barkers but will alert their owners to unfamiliar situations or strangers."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Xoloitzcuintle",
+    "https://www.akc.org/expert-advice/dog-breeds/10-facts-about-xoloitzcuintlis/",
+    "https://www.petmd.com/dog/breeds/xoloitzcuintli",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-xoloitzcuintli",
+    "https://www.xoloitzcuintliclubofamerica.org/health-genetics"
+  ]
+}

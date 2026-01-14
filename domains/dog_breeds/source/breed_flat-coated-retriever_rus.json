@@ -1,0 +1,161 @@
+{
+  "id": "flat-coated-retriever",
+  "name": "Flat-Coated Retriever",
+  "name_rus": "Прямошёрстный ретривер",
+  "full_description": "<p>The Flat-Coated Retriever, originating in mid-19th century England, was developed as a versatile hunting companion adept at retrieving game both on land and in water. Its ancestry likely includes the Newfoundland, various spaniel-type water dogs, setters, and sheepdogs, contributing to its exceptional retrieving abilities. Initially known as the \"Wavy-Coated Retriever,\" the breed gained popularity among gamekeepers for its proficiency in retrieving shot game. However, its prominence declined in the early 20th century, overshadowed by the rise of the Labrador and Golden Retrievers. Post-World War II, dedicated breeding efforts revitalized the Flat-Coated Retriever, restoring its status as a cherished companion and working dog. Physically, the Flat-Coated Retriever is a medium to large-sized dog, with males standing between 23 to 24.5 inches tall and females slightly shorter at 22 to 23.5 inches. Their weight ranges from 60 to 80 pounds, with females typically on the lighter end. The breed's most distinctive feature is its glossy, flat-lying coat, which can be solid black or liver in color. This medium-length coat is straight or slightly wavy, providing protection against various weather conditions. Feathering is present on the ears, chest, legs, and tail, adding to the breed's elegant appearance. The head is long and \"of one piece,\" with a minimal stop and a backskull approximately equal in length to the muzzle. Dark brown, almond-shaped eyes convey an intelligent and friendly expression, while small, pendant ears lie close to the head. The Flat-Coated Retriever is renowned for its cheerful and outgoing personality. Often described as the \"Peter Pan\" of retrievers due to their prolonged youthful exuberance, they are affectionate, friendly, and eager to please. This breed thrives on human companionship and is known for its playful nature, often retaining a puppy-like demeanor well into adulthood. Their intelligence and adaptability make them excellent family pets, though their high energy levels require regular mental and physical stimulation. Originally bred for retrieving game, the Flat-Coated Retriever excels in both land and water retrieval tasks. Their keen sense of smell, combined with boundless energy and a strong desire to please, makes them proficient in hunting scenarios. In modern times, while they continue to participate in hunting and field trials, they have also found roles in search and rescue operations, therapy work, and as loyal family companions. Despite their many virtues, Flat-Coated Retrievers are less common than some other retriever breeds, contributing to their unique appeal among enthusiasts. Notable characteristics of the breed include their ever-wagging tail, indicative of their happy disposition, and their versatility in various canine sports and activities. Their combination of elegance, intelligence, and affability makes them a cherished breed among those who appreciate an active and engaging canine companion.</p>",
+  "full_description_rus": "<p>Прямошёрстный ретривер, известный также как флет-коутед ретривер, был выведен в середине XIX века в Англии как универсальная охотничья собака, способная эффективно работать как на суше, так и на воде. В его происхождении прослеживаются такие породы, как ньюфаундленд, различные водяные спаниели, сеттеры и овчарки, что обусловило его выдающиеся способности к апортировке. Изначально известный как \"волнистошёрстный ретривер\", он завоевал популярность среди егерьских хозяйств благодаря своей эффективности в подаче подстреленной дичи. Однако в начале XX века его популярность снизилась из-за роста популярности лабрадоров и золотистых ретриверов. После Второй мировой войны целенаправленные усилия заводчиков возродили породу, вернув ей статус любимой компаньонской и рабочей собаки. Физически прямошёрстный ретривер представляет собой собаку среднего или крупного размера: кобели достигают роста 58–62 см, суки — 56–60 см. Вес варьируется от 27 до 36 кг, при этом суки обычно легче. Отличительной чертой породы является её блестящая, прилегающая шерсть, которая может быть чёрного или печёночного окраса. Эта шерсть средней длины, прямая или слегка волнистая, обеспечивает защиту от различных погодных условий. Украшающие очёсы присутствуют на ушах, груди, ногах и хвосте, придавая породе элегантный вид. Голова длинная и гармоничная, с минимальным переходом от лба к морде; длина черепа примерно равна длине морды. Тёмно-карие, миндалевидные глаза выражают интеллект и дружелюбие, а небольшие висячие уши плотно прилегают к голове. Прямошёрстный ретривер известен своим жизнерадостным и общительным характером. Часто его называют \"Питером Пэном\" среди ретриверов из-за длительной юношеской игривости. Эти собаки ласковы, дружелюбны и стремятся угодить хозяину. Они процветают в обществе людей и сохраняют щенячью непосредственность даже во взрослом возрасте. Их интеллект и адаптивность делают их отличными семейными питомцами, хотя высокий уровень энергии требует регулярной умственной и физической активности. Изначально выведенные для апортировки дичи, прямошёрстные ретриверы превосходно работают как на суше, так и на воде. Их острое обоняние, неутомимая энергия и желание угодить делают их эффективными в охотничьих ситуациях. В современное время, помимо участия в охоте и полевых испытаниях, они также находят применение в поисково-спасательных операциях, терапевтической работе и как преданные семейные компаньоны. Несмотря на множество достоинств, прямошёрстные ретриверы менее распространены, чем некоторые другие породы ретриверов, что придаёт им особую привлекательность среди энтузиастов. Характерными чертами породы являются постоянно виляющий хвост, свидетельствующий о радостном нраве, и универсальность в различных собачьих видах спорта и активностях. Их сочетание элегантности, интеллекта и дружелюбия делает их ценимой породой среди тех, кто ищет активного и увлекательного собачьего компаньона.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "27-36 kg",
+    "height": "56-62 cm",
+    "coat": "medium-length, straight or slightly wavy, glossy, flat-lying",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; minimal trimming",
+    "lifespan": "8-10 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "27-36 кг",
+    "рост": "56-62 см",
+    "шерсть": "средней длины, прямая или слегка волнистая, блестящая, прилегающая",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "регулярное расчёсывание; минимальная стрижка",
+    "продолжительность жизни": "8-10 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Prolonged youthful exuberance",
+      "Strong desire to please",
+      "High energy levels",
+      "Affectionate and friendly",
+      "Intelligent and adaptable"
+    ],
+    "summary": "Flat-Coated Retrievers are cheerful, affectionate, and intelligent dogs known for their playful and friendly nature. They thrive on human companionship and require regular mental and physical stimulation to remain happy and well-behaved.",
+    "with_children": "Known for their gentle and playful nature, Flat-Coated Retrievers are generally good with children, often engaging in interactive play and showing patience.",
+    "with_family": "They form strong bonds with family members, displaying unwavering loyalty and affection. Their friendly disposition makes them excellent companions for active households.",
+    "with_other_pets": "They typically get along well with other dogs and pets, especially when socialized from a young age. Their friendly nature often extends to other animals in the household.",
+    "with_strangers": "Flat-Coated Retrievers are usually friendly towards strangers, often greeting new people with enthusiasm. While they may alert their owners to unfamiliar visitors, they are not known for aggressive guarding behaviors."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Прямошёрстные ретриверы — жизнерадостные, ласковые и умные собаки, известные своей игривостью и дружелюбным нравом. Они процветают в обществе людей и нуждаются в регулярной умственной и физической активности для поддержания счастья и хорошего поведения.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя безграничную преданность и любовь. Их дружелюбный характер делает их отличными компаньонами для активных семей.",
+    "с детьми": "Известные своей нежностью и игривостью, прямошёрстные ретриверы обычно хорошо ладят с детьми, часто участвуя в совместных играх и проявляя терпение.",
+    "с другими животными": "Они обычно хорошо уживаются с другими собаками и питомцами, особенно при социализации с раннего возраста. Их дружелюбный характер часто распространяется на других животных в доме.",
+    "с незнакомцами": "Прямошёрстные ретриверы обычно дружелюбны к незнакомцам, часто встречая новых людей с энтузиазмом. Хотя они могут предупредить владельцев о незнакомых посетителях, они не известны агрессивным охранным поведением.",
+    "особые черты": [
+      "Продолжительная юношеская игривость",
+      "Сильное желание угодить",
+      "Высокий уровень энергии",
+      "Ласковый и дружелюбный",
+      "Умный и адаптивный"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Cancer (e.g., malignant histiocytosis, hemangiosarcoma, osteosarcoma)",
+      "Hip dysplasia",
+      "Patellar luxation",
+      "Glaucoma",
+      "Gastric dilatation-volvulus (bloat)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Screening for hereditary conditions",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Monitoring for early signs of health issues"
+    ],
+    "summary": "Flat-Coated Retrievers are generally healthy but have a predisposition to certain health issues, notably various forms of cancer. Regular veterinary check-ups and preventive care are essential to maintain their well-being.",
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with known health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Прямошёрстные ретриверы в целом здоровы, но имеют предрасположенность к определённым заболеваниям, особенно к различным формам рака. Регулярные ветеринарные осмотры и профилактический уход необходимы для поддержания их благополучия.",
+    "распространённые проблемы": [
+      "Рак (например, злокачественный гистиоцитоз, гемангиосаркома, остеосаркома)",
+      "Дисплазия тазобедренного сустава",
+      "Вывих надколенника",
+      "Глаукома",
+      "Синдром заворота желудка (вздутие)"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Скрининг на наследственные заболевания",
+      "Поддержание здорового веса",
+      "Обеспечение регулярной физической активности",
+      "Мониторинг ранних признаков проблем со здоровьем"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или тех, у кого известны проблемы со здоровьем"
+  },
+  "care": {
+    "description": "Flat-Coated Retrievers require regular exercise, mental stimulation, and grooming to maintain their health and happiness. Their friendly and energetic nature makes them well-suited for active families.",
+    "behavior": "Engage in daily activities such as fetch, swimming, or agility training to satisfy their high energy levels and prevent boredom-related behaviors.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits to ensure early detection and management of potential problems.",
+    "grooming": "Brush their coat at least once a week to manage shedding and maintain coat health; more frequent brushing may be needed during seasonal shedding periods.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; consult with a veterinarian for specific dietary recommendations."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Прямошёрстные ретриверы требуют регулярных физических нагрузок, умственной стимуляции и ухода за шерстью для поддержания здоровья и счастья. Их дружелюбный и энергичный характер делает их подходящими для активных семей.",
+    "поведение и характер": "Участвуйте в ежедневных активностях, таких как апортировка, плавание или тренировки по аджилити, чтобы удовлетворить их высокий уровень энергии и предотвратить поведенческие проблемы, связанные со скукой.",
+    "здоровье и профилактика": "Следите за признаками распространённых проблем со здоровьем и регулярно посещайте ветеринара для раннего выявления и управления потенциальными заболеваниями.",
+    "груминг и уход": "Расчёсывайте их шерсть не реже одного раза в неделю для контроля линьки и поддержания здоровья шерсти; в периоды сезонной линьки может потребоваться более частое расчёсывание.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их возрасту, размеру и уровню активности; проконсультируйтесь с ветеринаром для получения конкретных рекомендаций по диете."
+  },
+  "faq": [
+    {
+      "question": "Are Flat-Coated Retrievers good family pets?",
+      "answer": "Yes, their friendly and affectionate nature makes them excellent companions for active families."
+    },
+    {
+      "question": "How much exercise does a Flat-Coated Retriever need?",
+      "answer": "They require at least 90 minutes of high-impact exercise daily to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Flat-Coated Retrievers shed a lot?",
+      "answer": "They shed moderately year-round, with increased shedding during seasonal changes; regular brushing helps manage this."
+    },
+    {
+      "question": "Are Flat-Coated Retrievers easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable, though consistent, positive reinforcement methods are recommended."
+    },
+    {
+      "question": "What is the average lifespan of a Flat-Coated Retriever?",
+      "answer": "The average lifespan is 8 to 10 years, though some may live longer with proper care and regular veterinary check-ups."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли прямошёрстные ретриверы хорошими семейными питомцами?",
+      "ответ": "Да, их дружелюбный и ласковый характер делает их отличными компаньонами для активных семей."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется прямошёрстному ретриверу?",
+      "ответ": "Им необходимо не менее 90 минут интенсивных физических нагрузок ежедневно для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Сильно ли линяют прямошёрстные ретриверы?",
+      "ответ": "Они умеренно линяют круглый год, с увеличением линьки в периоды сезонных изменений; регулярное расчёсывание помогает контролировать этот процесс."
+    },
+    {
+      "вопрос": "Легко ли обучаются прямошёрстные ретриверы?",
+      "ответ": "Да, их интеллект и стремление угодить делают их легко обучаемыми, хотя рекомендуется использовать последовательные методы положительного подкрепления."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни прямошёрстного ретривера?",
+      "ответ": "Средняя продолжительность жизни составляет 8–10 лет, хотя некоторые могут жить дольше при надлежащем уходе и регулярных ветеринарных осмотрах."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/facts-about-flat-coated-retriever/",
+    "https://en.wikipedia.org/wiki/Flat-coated_Retriever",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-flat-coated-retrievers",
+    "https://www.purina.com/dogs/dog-breeds/flat-coated-retriever-dog-breed",
+    "https://fcrsa.org/about-flat-coats/",
+    "https://www.orvis.com/flat-coated-retriever",
+    "https://www.hillspet.com/dog-care/dog-breeds/flat-coated-retriever",
+    "https://www.hillspet.ru/dog-care/dog-breeds/flat-coated-retriever",
+    "https://ru.wikipedia.org/wiki/Прямошёрстный_ретривер",
+    "https://nkpflat.orgs.biz/"
+  ]
+}

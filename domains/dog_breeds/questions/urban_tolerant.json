@@ -1,0 +1,84 @@
+{
+  "need_id": "urban_tolerant",
+  "formula": "apartment_ok & noise_tolerance & adaptability",
+  "formula_reasoning": "A breed comfortable in an urban environment must tolerate living in apartments (apartment_ok), be resilient to urban noises (noise_tolerance), and adapt well to frequent changes and stimuli (adaptability). These features together reflect a dog's ability to thrive in a typical city setting.",
+  "questions": [
+    {
+      "id": "urban_tolerant_q1",
+      "text": "Вы живёте в городе с оживлённым движением и большим количеством людей?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = городской образ жизни, нужна устойчивая к городским условиям собака. Нет = деревня или пригород."
+    },
+    {
+      "id": "urban_tolerant_q2",
+      "text": "Ваш дом находится рядом с шумными улицами или проезжей частью?",
+      "weight": 0.75,
+      "style": "situational",
+      "verification": "Да = собака будет сталкиваться с шумом, нужна высокая терпимость к городским условиям. Нет = тишина, требования ниже."
+    },
+    {
+      "id": "urban_tolerant_q3",
+      "text": "Вам важно, чтобы собака хорошо себя чувствовала в условиях города — с лифтами, машинами, соседями и постоянными переменами?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = приоритет комфорт в городе, нужна адаптивная порода. Нет = не критично, можно рассмотреть менее устойчивые породы."
+    },
+    {
+      "id": "urban_tolerant_q4",
+      "text": "Вы часто перемещаетесь по городу вместе с собакой — на транспорте, по людным улицам, в парках?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = собака будет часто сталкиваться с городской средой, нужна устойчивость. Нет = прогулки более уединённые, требования ниже."
+    },
+    {
+      "id": "urban_tolerant_q5",
+      "text": "В вашем доме часто бывают гости или меняется обстановка?",
+      "weight": 0.6,
+      "style": "indirect",
+      "verification": "Да = собака должна быть адаптивна и стрессоустойчива. Нет = спокойная обстановка, требования к адаптивности ниже."
+    }
+  ],
+  "need_name": "Urban Tolerant",
+  "need_description": "Comfortable in urban environment",
+  "block": "housing_environment",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

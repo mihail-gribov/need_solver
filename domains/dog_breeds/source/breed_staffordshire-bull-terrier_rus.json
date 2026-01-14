@@ -1,0 +1,165 @@
+{
+  "id": "staffordshire-bull-terrier",
+  "name": "Staffordshire Bull Terrier",
+  "name_rus": "Стаффордширский бультерьер",
+  "full_description": "<p>The Staffordshire Bull Terrier, affectionately known as the 'Staffy' or 'Staffie,' is a robust and muscular breed originating from the United Kingdom. Developed in the 19th century by crossing Bulldogs with various terriers, the breed was initially bred for bull-baiting and dog fighting. However, with the decline of these blood sports, the Staffordshire Bull Terrier transitioned into a loyal and affectionate companion dog. Physically, Staffies are compact and powerful, standing between 14 to 16 inches (35.5 to 40.5 cm) tall and weighing between 24 to 38 pounds (11 to 17 kg). They possess a broad head with pronounced cheek muscles, a short muzzle, and distinctive 'rose' or half-pricked ears. Their short, smooth coat comes in various colors, including red, fawn, white, black, blue, and brindle, with or without white markings. Temperamentally, Staffordshire Bull Terriers are known for their courage, intelligence, and affectionate nature. They form strong bonds with their families and are particularly gentle with children, earning them the nickname 'nanny dogs.' While they are generally friendly, early socialization is crucial to ensure they get along well with other animals and strangers. Originally bred for their tenacity and strength, modern Staffies have retained their energetic and playful demeanor. They excel in various canine sports and activities, showcasing their agility and determination. Today, the Staffordshire Bull Terrier is cherished as a devoted family pet, known for its loving nature and unwavering loyalty. Their notable characteristics include a strong desire to please, high energy levels, and a protective instinct towards their loved ones.</p>",
+  "full_description_rus": "<p>Стаффордширский бультерьер, ласково называемый 'стаффи', — крепкая и мускулистая порода, происходящая из Великобритании. Разведённая в XIX веке путём скрещивания бульдогов с различными терьерами, порода изначально предназначалась для травли быков и собачьих боёв. Однако с запретом этих кровавых развлечений стаффордширский бультерьер превратился в преданного и ласкового компаньона. Физически стаффи компактны и мощны, их рост составляет от 35 до 41 см, а вес — от 11 до 17 кг. Они обладают широкой головой с выраженными щёчными мышцами, короткой мордой и характерными 'розовыми' или полустоячими ушами. Их короткая, гладкая шерсть бывает различных окрасов, включая рыжий, палевый, белый, чёрный, голубой и тигровый, с белыми отметинами или без них. По темпераменту стаффордширские бультерьеры известны своей смелостью, интеллектом и ласковым характером. Они формируют крепкие связи со своими семьями и особенно нежны с детьми, за что получили прозвище 'собаки-няни'. Хотя они обычно дружелюбны, ранняя социализация необходима, чтобы они хорошо ладили с другими животными и незнакомцами. Первоначально выведенные за их настойчивость и силу, современные стаффи сохранили свою энергичность и игривость. Они преуспевают в различных собачьих видах спорта и мероприятиях, демонстрируя свою ловкость и решимость. Сегодня стаффордширский бультерьер ценится как преданный семейный питомец, известный своей любовью и непоколебимой преданностью. Их отличительными чертами являются сильное желание угодить, высокий уровень энергии и защитный инстинкт по отношению к своим близким.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "24-38 pounds (11-17 kg)",
+    "height": "14-16 inches (35.5-40.5 cm)",
+    "coat": "short, smooth, and close-fitting",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "minimal; regular brushing and occasional baths",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "size": "средний",
+    "weight": "11-17 кг",
+    "height": "35-41 см",
+    "coat": "короткая, гладкая, плотно прилегающая",
+    "activity": "высокая",
+    "trainability": "высокая",
+    "grooming": "минимальный; регулярное расчёсывание и периодические купания",
+    "lifespan": "12-14 лет"
+  },
+  "behavior": {
+    "summary": "Staffordshire Bull Terriers are affectionate, intelligent, and energetic dogs known for their loyalty and strong bonds with their families.",
+    "with_family": "They are deeply devoted to their families, often seeking close physical contact and enjoying interactive play.",
+    "with_children": "Known as 'nanny dogs,' they are gentle and patient with children, making them excellent family companions.",
+    "with_other_pets": "Early socialization is essential; while they can coexist peacefully with other pets, some may exhibit dog-aggressive tendencies.",
+    "with_strangers": "Generally friendly towards strangers, but their protective nature may lead to wariness without proper socialization.",
+    "special_traits": [
+      "Highly affectionate",
+      "Energetic and playful",
+      "Strong protective instincts",
+      "Intelligent and eager to please",
+      "Requires early socialization"
+    ]
+  },
+  "behavior_rus": {
+    "summary": "Стаффордширские бультерьеры — ласковые, умные и энергичные собаки, известные своей преданностью и крепкими связями с семьёй.",
+    "with_family": "Они глубоко привязаны к своей семье, часто ищут близкого физического контакта и любят совместные игры.",
+    "with_children": "Известные как 'собаки-няни', они нежны и терпеливы с детьми, что делает их отличными семейными компаньонами.",
+    "with_other_pets": "Ранняя социализация необходима; хотя они могут мирно сосуществовать с другими животными, некоторые могут проявлять агрессию к другим собакам.",
+    "with_strangers": "Обычно дружелюбны к незнакомцам, но их защитная натура может вызывать настороженность без должной социализации.",
+    "special_traits": [
+      "Очень ласковые",
+      "Энергичные и игривые",
+      "Сильные защитные инстинкты",
+      "Умные и стремящиеся угодить",
+      "Требуют ранней социализации"
+    ]
+  },
+  "health": {
+    "summary": "Staffordshire Bull Terriers are generally healthy but are predisposed to certain genetic conditions.",
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Juvenile hereditary cataracts",
+      "L-2-Hydroxyglutaric Aciduria (L-2-HGA)",
+      "Patellar luxation",
+      "Progressive retinal atrophy (PRA)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for hereditary conditions",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Ensuring a balanced diet"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues"
+  },
+  "health_rus": {
+    "summary": "Стаффордширские бультерьеры в целом здоровы, но склонны к некоторым генетическим заболеваниям.",
+    "common_issues": [
+      "Дисплазия тазобедренных и локтевых суставов",
+      "Ювенильные наследственные катаракты",
+      "L-2-гидроксиглутаровая ацидурия (L-2-HGA)",
+      "Вывих надколенника",
+      "Прогрессирующая атрофия сетчатки (PRA)"
+    ],
+    "prevention_tips": [
+      "Регулярные ветеринарные осмотры",
+      "Генетическое тестирование на наследственные заболевания",
+      "Поддержание здорового веса",
+      "Обеспечение регулярных физических нагрузок",
+      "Сбалансированное питание"
+    ],
+    "vet_checkups": "Не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "description": "Staffordshire Bull Terriers require consistent training, regular exercise, and minimal grooming to maintain their health and happiness.",
+    "behavior": "Early socialization and positive reinforcement training are crucial to manage their energetic and sometimes stubborn nature.",
+    "health": "Regular veterinary visits and preventive care are essential to monitor and address potential health concerns.",
+    "grooming": "Their short coat requires minimal grooming; regular brushing and occasional baths suffice.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is vital; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "description": "Стаффордширские бультерьеры требуют последовательной дрессировки, регулярных физических нагрузок и минимального ухода за шерстью для поддержания их здоровья и счастья.",
+    "behavior": "Ранняя социализация и обучение с положительным подкреплением необходимы для управления их энергичным и иногда упрямым характером.",
+    "health": "Регулярные визиты к ветеринару и профилактический уход важны для мониторинга и решения потенциальных проблем со здоровьем.",
+    "grooming": "Их короткая шерсть требует минимального ухода; достаточно регулярного расчёсывания и периодических купаний.",
+    "nutrition": "Сбалансированное питание, соответствующее их возрасту, размеру и уровню активности, жизненно важно; следите за потреблением пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Staffordshire Bull Terriers good with children?",
+      "answer": "Yes, they are known for their gentle and patient nature with children, often referred to as 'nanny dogs.'"
+    },
+    {
+      "question": "Do they require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and benefit from at least an hour of exercise daily."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable with consistent, positive methods."
+    },
+    {
+      "question": "Do they get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, though some may show dog-aggressive tendencies."
+    },
+    {
+      "question": "What is their average lifespan?",
+      "answer": "They typically live between 12 to 14 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Хорошо ли стаффордширские бультерьеры ладят с детьми?",
+      "answer": "Да, они известны своей нежной и терпеливой натурой по отношению к детям, часто их называют 'собаками-нянями'."
+    },
+    {
+      "question": "Требуют ли они много физических нагрузок?",
+      "answer": "Да, у них высокий уровень энергии, и им необходимо как минимум час физических упражнений ежедневно."
+    },
+    {
+      "question": "Легко ли их дрессировать?",
+      "answer": "Да, они умны и стремятся угодить, что делает их легко обучаемыми при последовательных и положительных методах."
+    },
+    {
+      "question": "Ладят ли они с другими животными?",
+      "answer": "При правильной социализации они могут мирно сосуществовать с другими животными, хотя некоторые могут проявлять агрессию к другим собакам."
+    },
+    {
+      "question": "Какова их средняя продолжительность жизни?",
+      "answer": "Они обычно живут от 12 до 14 лет."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Staffordshire_Bull_Terrier",
+    "https://www.petsradar.com/features/staffordshire-bull-terrier-breed-profile",
+    "https://www.petmd.com/dog/breeds/staffordshire-bull-terrier",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-staffordshire-bull-terriers",
+    "https://www.breedscout.com/breeds/staffordshire-bull-terrier",
+    "https://smithandshedd.com/client-resources/breed-info/staffordshire-bull-terrier/",
+    "https://sbtca.com/health/",
+    "https://www.dutch.com/blogs/dogs/staffordshire-bull-terrier",
+    "https://www.zoetispetcare.com/breed-explorer/breed/staffordshire-bull-terrier",
+    "https://www.wisdompanel.com/en-us/dog-breeds/staffordshire-bull-terrier",
+    "https://ru.wikipedia.org/wiki/Стаффордширский_бультерьер",
+    "https://www.pedigree.ru/porody/staffordshirskij-bulterier",
+    "https://www.purina.ru/find-a-pet/dog-breeds/staffordshirskiy-bulterer",
+    "https://royalcanin.ru/dog-breed/staffordshire-bull-terrier"
+  ]
+}

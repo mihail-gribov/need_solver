@@ -1,0 +1,157 @@
+{
+  "id": "west-highland-white-terrier",
+  "name": "West Highland White Terrier",
+  "name_rus": "Вест-хайленд-уайт-терьер",
+  "full_description": "<p>The West Highland White Terrier, affectionately known as the Westie, is a small, sturdy breed originating from Scotland's western Highlands. Developed in the 17th century, these terriers were bred to hunt rodents that threatened grain stores and spread disease. Their distinctive white coat was intentionally selected to distinguish them from prey during hunts. Physically, Westies are compact dogs standing about 10 to 11 inches tall and weighing between 13 to 22 pounds. They possess a double coat: a rough, hard outer layer and a soft, dense undercoat, both pure white. Their dark, almond-shaped eyes and erect ears give them an alert and lively expression. Temperamentally, Westies are known for their friendly, confident, and playful nature. They are intelligent and quick learners but can exhibit a stubborn streak, making consistent training essential. Originally bred for hunting, they retain a strong prey drive and require regular exercise to stay content. In modern times, Westies have transitioned from hunters to beloved companions, excelling in activities like agility and obedience. Their charming appearance and spirited personality have made them popular worldwide. Notable characteristics include their distinctive white coat, energetic disposition, and adaptability to various living environments.</p>",
+  "full_description_rus": "<p>Вест-хайленд-уайт-терьер, ласково называемый «вести», — небольшая, но крепкая порода, происходящая из западных горных районов Шотландии. Разведённые в XVII веке, эти терьеры были предназначены для охоты на грызунов, угрожавших зернохранилищам и распространявших болезни. Их характерная белая шерсть была специально выбрана, чтобы отличать их от добычи во время охоты. Физически вестики — компактные собаки, ростом около 25–28 см и весом от 6 до 10 кг. Они обладают двойной шерстью: жёстким, грубым внешним слоем и мягким, плотным подшёрстком, оба чисто белого цвета. Их тёмные, миндалевидные глаза и стоячие уши придают им бдительный и живой вид. По темпераменту вестики известны своим дружелюбным, уверенным и игривым характером. Они умны и быстро обучаются, но могут проявлять упрямство, поэтому необходима последовательная дрессировка. Изначально выведенные для охоты, они сохраняют сильный охотничий инстинкт и нуждаются в регулярных физических нагрузках для поддержания удовлетворённости. В современное время вестики превратились из охотников в любимых компаньонов, преуспевая в таких видах деятельности, как аджилити и послушание. Их очаровательный внешний вид и энергичный характер сделали их популярными во всём мире. Отличительными чертами являются их характерная белая шерсть, энергичное поведение и адаптивность к различным условиям проживания.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "13-22 pounds",
+    "height": "10-11 inches",
+    "coat": "double; rough, hard outer coat and soft, dense undercoat; pure white",
+    "activity": "medium",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "regular brushing; coat trimming every 4-6 weeks",
+    "lifespan": "13-15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "6–10 кг",
+    "рост": "25–28 см",
+    "шерсть": "двойная; жёсткий, грубый внешний слой и мягкий, плотный подшёрсток; чисто белая",
+    "активность": "средняя",
+    "обучаемость": "умеренная; умны, но могут быть упрямыми",
+    "уход": "регулярное расчёсывание; стрижка шерсти каждые 4–6 недель",
+    "продолжительность жизни": "13–15 лет"
+  },
+  "behavior": {
+    "summary": "Westies are friendly, confident, and playful dogs with a strong prey drive and independent nature.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and affection.",
+    "with_children": "Generally good with children, especially when socialized early, but may not tolerate rough handling.",
+    "with_other_pets": "May coexist with other pets if introduced properly, though their hunting instincts can pose challenges.",
+    "with_strangers": "Typically friendly but can be reserved; early socialization helps in developing good manners.",
+    "special_traits": [
+      "energetic and playful",
+      "independent and confident",
+      "strong prey drive",
+      "alert and good watchdog",
+      "intelligent but sometimes stubborn"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Вестики — дружелюбные, уверенные в себе и игривые собаки с сильным охотничьим инстинктом и независимым характером.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя лояльность и привязанность.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации, но могут не терпеть грубого обращения.",
+    "с другими животными": "Могут сосуществовать с другими животными при правильном знакомстве, хотя их охотничьи инстинкты могут создавать сложности.",
+    "с незнакомцами": "Обычно дружелюбны, но могут быть сдержанными; ранняя социализация помогает в развитии хороших манер.",
+    "особые черты": [
+      "энергичные и игривые",
+      "независимые и уверенные в себе",
+      "сильный охотничий инстинкт",
+      "бдительные и хорошие сторожевые собаки",
+      "умные, но иногда упрямые"
+    ]
+  },
+  "health": {
+    "summary": "Westies are generally healthy but can be prone to certain genetic and skin conditions.",
+    "common_issues": [
+      "allergies and skin conditions",
+      "craniomandibular osteopathy (Westie jaw)",
+      "patellar luxation",
+      "dry eye (keratoconjunctivitis sicca)"
+    ],
+    "prevention_tips": [
+      "regular grooming to monitor skin health",
+      "balanced diet to maintain overall health",
+      "routine exercise to prevent obesity",
+      "early socialization and training",
+      "regular dental care"
+    ],
+    "vet_checkups": "at least once a year; more frequent for senior dogs or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Вестики в целом здоровы, но могут быть склонны к определённым генетическим и кожным заболеваниям.",
+    "распространённые проблемы": [
+      "аллергии и кожные заболевания",
+      "краниомандибулярная остеопатия (челюсть вестика)",
+      "вывих надколенника",
+      "сухой кератоконъюнктивит (сухой глаз)"
+    ],
+    "советы по профилактике": [
+      "регулярный уход за шерстью для контроля состояния кожи",
+      "сбалансированное питание для поддержания общего здоровья",
+      "регулярные физические нагрузки для предотвращения ожирения",
+      "ранняя социализация и дрессировка",
+      "регулярный уход за зубами"
+    ],
+    "рекомендуемые осмотры": "не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "description": "Westies require regular grooming, consistent training, and daily exercise to maintain their health and happiness.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature and strong prey drive.",
+    "health": "Regular veterinary checkups and preventive care help in early detection and management of potential health issues.",
+    "grooming": "Daily brushing and coat trimming every 4-6 weeks are recommended to keep their coat in good condition.",
+    "nutrition": "A balanced diet appropriate for their size and activity level helps maintain optimal health."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Вестики требуют регулярного ухода за шерстью, последовательной дрессировки и ежедневных физических нагрузок для поддержания здоровья и счастья.",
+    "поведение и характер": "Ранняя социализация и последовательная дрессировка необходимы для управления их независимым характером и сильным охотничьим инстинктом.",
+    "здоровье и профилактика": "Регулярные ветеринарные осмотры и профилактический уход помогают в раннем выявлении и управлении потенциальными проблемами со здоровьем.",
+    "груминг и уход": "Рекомендуется ежедневное расчёсывание и стрижка шерсти каждые 4–6 недель для поддержания её в хорошем состоянии.",
+    "питание и активность": "Сбалансированное питание, соответствующее их размеру и уровню активности, помогает поддерживать оптимальное здоровье."
+  },
+  "faq": [
+    {
+      "question": "Are Westies good for first-time dog owners?",
+      "answer": "Yes, with proper training and socialization, Westies can be suitable for first-time owners."
+    },
+    {
+      "question": "Do Westies shed a lot?",
+      "answer": "They shed seasonally and require regular grooming to manage their coat."
+    },
+    {
+      "question": "Are Westies hypoallergenic?",
+      "answer": "No dog is completely hypoallergenic, but Westies are considered to have a low-shedding coat."
+    },
+    {
+      "question": "How much exercise does a Westie need?",
+      "answer": "They require at least one hour of daily exercise to stay healthy and happy."
+    },
+    {
+      "question": "Can Westies live in apartments?",
+      "answer": "Yes, they adapt well to apartment living if they receive sufficient exercise and mental stimulation."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли вестики для владельцев собак без опыта?",
+      "ответ": "Да, при правильной дрессировке и социализации вестики могут быть подходящими для владельцев без опыта."
+    },
+    {
+      "вопрос": "Сильно ли линяют вестики?",
+      "ответ": "Они линяют сезонно и требуют регулярного ухода за шерстью для поддержания её состояния."
+    },
+    {
+      "вопрос": "Являются ли вестики гипоаллергенными?",
+      "ответ": "Полностью гипоаллергенных собак не существует, но вестики считаются породой с низким уровнем линьки."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется вестикам ежедневно?",
+      "ответ": "Им необходимо не менее одного часа ежедневных физических нагрузок для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Могут ли вестики жить в квартирах?",
+      "ответ": "Да, они хорошо адаптируются к жизни в квартире при условии достаточных физических и умственных нагрузок."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/West_Highland_White_Terrier",
+    "https://www.purina.com/dogs/dog-breeds/west-highland-white-terrier",
+    "https://www.westminsterkennelclub.org/breed/west-highland-white-terrier/",
+    "https://www.webmd.com/pets/dogs/what-to-know-west-highland-white-terriers",
+    "https://ru.wikipedia.org/wiki/Вест-хайленд-уайт-терьер",
+    "https://www.rbc.ru/life/news/640b76089a7947b849b55fee",
+    "https://www.pedigree.ru/porody/vest-hajlend-uajt-terier",
+    "https://www.cesar.ru/porody/vest-hajlend-uajt-ter-er-zapadnyj-gornyj-ter-er/"
+  ]
+}

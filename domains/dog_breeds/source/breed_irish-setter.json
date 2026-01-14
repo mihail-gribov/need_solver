@@ -1,0 +1,82 @@
+{
+  "id": "irish-setter",
+  "name": "Irish Setter",
+  "full_description": "<p>The Irish Setter, originating in Ireland during the 18th century, was developed by crossing spaniels, other setters, pointers, and the Irish Terrier to create an adept bird dog. Initially, both red and red-and-white varieties existed, but selective breeding led to the prominence of the solid red coat by the 19th century. This breed is renowned for its striking mahogany or rich chestnut red coat, which is moderately long, silky, and features feathering on the ears, chest, tail, and legs. Males typically stand around 27 inches tall and weigh approximately 70 pounds, while females are about 25 inches tall and weigh around 60 pounds. Irish Setters possess a lean, long head with a well-defined stop, dark to medium brown almond-shaped eyes, and ears set well back and low, lying close to the head. Their neck is strong and slightly arched, leading to a deep chest and well-sprung ribs. The tail is strong at the root, tapering to a fine point, and carried nearly level with the back. Known for their friendly and intelligent nature, Irish Setters exhibit a rollicking personality. They are energetic, affectionate, and thrive on human companionship, making them excellent family pets. Their sociable demeanor extends to children and other dogs, though their hunting instincts may require supervision around smaller animals. Originally bred for hunting, specifically for setting or locating and pointing upland gamebirds, Irish Setters are tireless, wide-ranging hunters well-suited to various terrains. In modern times, they continue to excel in field trials and are cherished as companion animals, therapy dogs, and participants in dog sports. Notable characteristics include their swift movement, graceful gait, and the ability to cover ground efficiently. Their keen sense of smell and natural pointing instincts make them exceptional in the field, while their affectionate nature endears them to families worldwide.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: approximately 70 pounds; Females: approximately 60 pounds",
+    "height": "Males: 27 inches; Females: 25 inches",
+    "coat": "Moderately long, silky, rich chestnut red with feathering on ears, chest, tail, and legs",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "Regular brushing to maintain coat condition and prevent matting",
+    "lifespan": "11-12 years"
+  },
+  "behavior": {
+    "summary": "Irish Setters are energetic, friendly, and intelligent dogs with a playful and affectionate nature.",
+    "with_family": "They are affectionate and thrive on human companionship, making them excellent family pets.",
+    "with_children": "Generally good with children, displaying gentle and playful behavior.",
+    "with_other_pets": "Typically sociable with other dogs; supervision is advised around smaller animals due to hunting instincts.",
+    "with_strangers": "Friendly and welcoming towards strangers, not typically suited as guard dogs.",
+    "special_traits": [
+      "Energetic and playful",
+      "Affectionate and friendly",
+      "Intelligent and trainable",
+      "Sociable with other dogs",
+      "Requires regular exercise"
+    ]
+  },
+  "health": {
+    "summary": "Irish Setters are generally healthy but may be prone to certain conditions requiring attentive care.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Gastric dilatation-volvulus (bloat)",
+      "Hypothyroidism",
+      "Progressive retinal atrophy",
+      "Epilepsy"
+    ],
+    "prevention_tips": [
+      "Provide a balanced diet and monitor weight",
+      "Ensure regular exercise and mental stimulation",
+      "Schedule routine veterinary check-ups",
+      "Be vigilant for signs of bloat and seek immediate veterinary care if symptoms arise",
+      "Maintain dental hygiene to prevent periodontal disease"
+    ],
+    "vet_checkups": "Annually, or more frequently as advised by a veterinarian"
+  },
+  "care": {
+    "description": "Irish Setters require attentive care, including regular exercise, grooming, and health monitoring.",
+    "behavior": "Engage in daily physical activities and mental stimulation to prevent boredom and destructive behaviors.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits.",
+    "grooming": "Brush the coat several times a week to prevent matting and maintain its silky texture.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Irish Setters good family pets?",
+      "answer": "Yes, they are affectionate and thrive in family environments, getting along well with children and other dogs."
+    },
+    {
+      "question": "How much exercise does an Irish Setter need?",
+      "answer": "They require daily, vigorous exercise to satisfy their high energy levels and maintain health."
+    },
+    {
+      "question": "Do Irish Setters shed a lot?",
+      "answer": "They shed moderately; regular brushing helps manage shedding and keeps the coat healthy."
+    },
+    {
+      "question": "Are Irish Setters easy to train?",
+      "answer": "Yes, they are intelligent and respond well to positive reinforcement training methods."
+    },
+    {
+      "question": "What is the lifespan of an Irish Setter?",
+      "answer": "Typically, they live between 11 to 12 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/irish-setter",
+    "https://en.wikipedia.org/wiki/Irish_Setter",
+    "https://www.petmd.com/dog/breeds/irish-setter",
+    "https://irishsetterclub.org/wp-content/uploads/2024/12/Irish-Setter-Standard.pdf"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "neapolitan-mastiff",
+  "name": "Neapolitan Mastiff",
+  "full_description": "<p>The Neapolitan Mastiff, or Mastino Napoletano, is an ancient Italian breed renowned for its massive size, distinctive wrinkled appearance, and protective nature. Originating from central Italy, particularly around Naples, this breed descends from the traditional guard dogs used by Roman legions. These dogs were bred for guarding and defending properties and their inhabitants. The breed was officially recognized by the Ente Nazionale della Cinofilia Italiana in 1949 and by the Fédération Cynologique Internationale in 1956. Physically, Neapolitan Mastiffs are large, heavy-boned dogs with a stocky build. Males typically stand between 26 to 31 inches tall and weigh around 150 pounds, while females are slightly smaller. Their skin is loose and abundant, especially around the head, forming characteristic wrinkles and folds. The coat is short and dense, commonly found in colors like black, grey, lead grey, mahogany, and fawn, often with brindling. Temperamentally, Neapolitan Mastiffs are steady, loyal, and protective. They form strong bonds with their families and are gentle with children. However, they can be wary of strangers and may not always get along with other pets. Their original purpose was to serve as guard dogs, a role they performed with vigilance and intelligence. In modern times, they continue to be valued as protective companions and are appreciated for their imposing presence and affectionate nature. Notable characteristics include their massive size, distinctive wrinkled skin, and a calm yet protective demeanor.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: ~150 pounds; Females: slightly less",
+    "height": "Males: 26-31 inches; Females: slightly shorter",
+    "coat": "short, dense",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "regular cleaning of skin folds; weekly brushing",
+    "lifespan": "7-9 years"
+  },
+  "behavior": {
+    "summary": "Neapolitan Mastiffs are loyal and protective, forming strong bonds with their families. They are calm and gentle but can be wary of strangers.",
+    "with_family": "Affectionate and devoted, they thrive on companionship and are gentle with family members.",
+    "with_children": "Generally good with children, displaying patience and protectiveness.",
+    "with_other_pets": "May not always get along with other pets; early socialization is important.",
+    "with_strangers": "Wary and protective; proper introductions and socialization are necessary.",
+    "special_traits": [
+      "Protective nature",
+      "Loyalty to family",
+      "Calm demeanor",
+      "Wary of strangers",
+      "Strong guarding instincts"
+    ]
+  },
+  "health": {
+    "summary": "Neapolitan Mastiffs are prone to several health issues, including joint problems, heart conditions, and skin infections. Regular veterinary care is essential.",
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Cherry eye",
+      "Gastric dilatation-volvulus (bloat)",
+      "Skin fold dermatitis",
+      "Dilated cardiomyopathy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Clean skin folds daily",
+      "Feed smaller, frequent meals to prevent bloat",
+      "Provide moderate exercise"
+    ],
+    "vet_checkups": "At least twice a year"
+  },
+  "care": {
+    "description": "Neapolitan Mastiffs require attentive care, including regular grooming, health monitoring, and socialization to ensure a well-balanced temperament.",
+    "behavior": "Early and consistent training is crucial to manage their protective instincts and ensure they are well-mannered.",
+    "health": "Regular vet visits and preventive care are necessary to manage potential health issues common in the breed.",
+    "grooming": "Daily cleaning of skin folds and weekly brushing help prevent infections and maintain coat health.",
+    "nutrition": "A balanced diet with controlled portions helps maintain a healthy weight and reduces the risk of bloat."
+  },
+  "faq": [
+    {
+      "question": "Are Neapolitan Mastiffs good with children?",
+      "answer": "Yes, they are generally gentle and protective with children, making them good family companions."
+    },
+    {
+      "question": "Do Neapolitan Mastiffs require a lot of exercise?",
+      "answer": "They need moderate exercise, such as daily walks, to maintain health without overexertion."
+    },
+    {
+      "question": "Are Neapolitan Mastiffs easy to train?",
+      "answer": "They can be stubborn; consistent, positive reinforcement training is recommended."
+    },
+    {
+      "question": "Do Neapolitan Mastiffs drool a lot?",
+      "answer": "Yes, they are known for excessive drooling, especially after eating or drinking."
+    },
+    {
+      "question": "What is the average lifespan of a Neapolitan Mastiff?",
+      "answer": "Their average lifespan is between 7 to 9 years."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/neapolitan-mastiff",
+    "https://en.wikipedia.org/wiki/Neapolitan_Mastiff",
+    "https://images.akc.org/pdf/breeds/standards/NeapolitanMastiff.pdf",
+    "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/large-dogs/neapolitan-mastiff",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-neapolitan-mastiffs"
+  ]
+}

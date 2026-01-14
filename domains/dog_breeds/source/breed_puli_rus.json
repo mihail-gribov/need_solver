@@ -1,0 +1,156 @@
+{
+  "id": "puli",
+  "name": "Puli",
+  "name_rus": "Пули",
+  "full_description": "<p>The Puli is a medium-sized Hungarian herding dog renowned for its distinctive corded coat, which resembles dreadlocks. This breed's origins trace back over a thousand years to the Magyar tribes who brought their sheepdogs to Hungary. The Puli was primarily developed for herding and guarding livestock, particularly sheep, on the expansive Hungarian plains. Its agility, intelligence, and resilience made it an invaluable asset to shepherds. Physically, the Puli stands approximately 16 to 17 inches tall at the withers and weighs between 25 to 35 pounds. Its most striking feature is its dense, weather-resistant coat that naturally forms cords. This coat can be black, white, gray, or a shade of fawn, with black being the most common. The Puli's eyes are dark brown, and its ears are medium-sized and V-shaped, hanging down close to the head. The tail curls over the back, blending seamlessly with the profuse coat. Temperamentally, the Puli is energetic, intelligent, and affectionate. It forms strong bonds with its family and is known for its loyalty and protective nature. This breed is alert and can be wary of strangers, making it an excellent watchdog. Its herding instincts are strong, and it often exhibits a desire to control the movements of people and other animals. Historically, the Puli was bred for herding and guarding livestock. Its agility and quick reflexes allowed it to manage flocks efficiently, while its protective nature ensured the safety of the herd. In modern times, while some Pulik still work as herding dogs, many have transitioned into companion roles. They excel in various canine sports, including agility, obedience, and herding trials, showcasing their versatility and intelligence. Notable characteristics of the Puli include its unique corded coat, which provides protection against harsh weather and potential predators. This breed is also known for its agility and distinctive, light-footed movement, often described as a bouncing trot. The Puli's keen intelligence and problem-solving abilities make it both a delightful companion and a capable working dog.</p>",
+  "full_description_rus": "<p>Пули — это средних размеров венгерская пастушья собака, известная своей уникальной шнуровой шерстью, напоминающей дреды. История породы насчитывает более тысячи лет и восходит к мадьярским племенам, которые привезли своих овчарок в Венгрию. Пули были выведены преимущественно для пастьбы и охраны скота, особенно овец, на обширных венгерских равнинах. Их ловкость, интеллект и выносливость сделали их незаменимыми помощниками пастухов. Физически пули достигают роста около 40–44 см в холке и весят от 13 до 15 кг. Их наиболее заметной особенностью является густая, водоотталкивающая шерсть, которая естественным образом формирует шнуры. Окрас может быть черным, белым, серым или палевым, причем черный цвет наиболее распространен. Глаза пули темно-коричневые, уши среднего размера, V-образной формы, свисают близко к голове. Хвост закручивается на спину, сливаясь с обильной шерстью. По темпераменту пули энергичны, умны и привязчивы. Они формируют крепкие связи со своей семьей и известны своей преданностью и защитным характером. Эта порода бдительна и может быть настороженной к незнакомцам, что делает ее отличным сторожем. Их пастушьи инстинкты сильны, и они часто проявляют желание контролировать движения людей и других животных. Исторически пули разводились для пастьбы и охраны скота. Их ловкость и быстрая реакция позволяли эффективно управлять стадами, а защитный характер обеспечивал безопасность стада. В современное время, хотя некоторые пули все еще работают как пастушьи собаки, многие стали компаньонами. Они преуспевают в различных собачьих видах спорта, включая аджилити, послушание и пастушьи испытания, демонстрируя свою универсальность и интеллект. Особенностями пули являются их уникальная шнуровая шерсть, обеспечивающая защиту от суровых погодных условий и потенциальных хищников. Эта порода также известна своей ловкостью и характерным, легким движением, часто описываемым как подпрыгивающая рысь. Острый ум и способности к решению проблем делают пули как приятным компаньоном, так и способной рабочей собакой.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "25–35 pounds",
+    "height": "16–17 inches",
+    "coat": "dense, corded, weather-resistant",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular maintenance of corded coat; daily separation of cords; bathing as needed",
+    "lifespan": "10–15 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "13–15 кг",
+    "рост": "40–44 см",
+    "шерсть": "густая, шнуровая, водоотталкивающая",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "регулярный уход за шнуровой шерстью; ежедневное разделение шнуров; купание по мере необходимости",
+    "продолжительность жизни": "10–15 лет"
+  },
+  "behavior": {
+    "summary": "The Puli is an energetic and intelligent breed, known for its loyalty and protective nature. It forms strong bonds with its family and exhibits a playful demeanor throughout its life.",
+    "with_family": "Pulik are affectionate and devoted to their families, often forming close bonds with all members. They thrive on companionship and enjoy participating in family activities.",
+    "with_children": "Generally good with children, Pulik are playful and patient. However, their herding instincts may lead them to try to herd young children, so supervision is recommended.",
+    "with_other_pets": "With proper socialization, Pulik can coexist peacefully with other pets. Their herding background may cause them to attempt to herd other animals.",
+    "with_strangers": "Pulik are naturally wary of strangers and can be protective. Early socialization helps them distinguish between friend and foe, reducing unnecessary aggression.",
+    "special_traits": [
+      "highly intelligent",
+      "energetic and agile",
+      "strong herding instincts",
+      "protective of family",
+      "playful and affectionate"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Пули — энергичная и умная порода, известная своей преданностью и защитным характером. Они формируют крепкие связи со своей семьей и сохраняют игривый нрав на протяжении всей жизни.",
+    "с семьёй": "Пули привязаны и преданы своей семье, часто устанавливая тесные связи со всеми членами. Они процветают в компании и любят участвовать в семейных мероприятиях.",
+    "с детьми": "Пули обычно хорошо ладят с детьми, будучи игривыми и терпеливыми. Однако их пастушьи инстинкты могут побуждать их пытаться пасти маленьких детей, поэтому рекомендуется присмотр.",
+    "с другими животными": "При правильной социализации пули могут мирно сосуществовать с другими животными. Их пастушье прошлое может заставлять их пытаться пасти других животных.",
+    "с незнакомцами": "Пули по природе настороженно относятся к незнакомцам и могут быть защитными. Ранняя социализация помогает им различать друзей и врагов, снижая ненужную агрессию.",
+    "особые черты": [
+      "высокий интеллект",
+      "энергичность и ловкость",
+      "сильные пастушьи инстинкты",
+      "защитный характер по отношению к семье",
+      "игривость и привязанность"
+    ]
+  },
+  "health": {
+    "summary": "Pulik are generally a healthy and hardy breed with a lifespan of 10 to 15 years. However, they are predisposed to certain genetic health conditions that owners should monitor.",
+    "common_issues": [
+      "hip dysplasia",
+      "patellar luxation",
+      "progressive retinal atrophy (PRA)",
+      "degenerative myelopathy"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain a healthy weight",
+      "provide regular exercise",
+      "conduct genetic testing for known conditions",
+      "ensure proper grooming to prevent skin issues"
+    ],
+    "vet_checkups": "annually, or more frequently as the dog ages or if health issues arise"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Пули в целом здоровая и выносливая порода с продолжительностью жизни от 10 до 15 лет. Однако они предрасположены к определенным генетическим заболеваниям, за которыми владельцам следует внимательно следить.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренного сустава",
+      "вывих надколенника",
+      "прогрессирующая атрофия сетчатки (PRA)",
+      "дегенеративная миелопатия"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "поддержание здорового веса",
+      "обеспечение регулярных физических нагрузок",
+      "проведение генетического тестирования на известные заболевания",
+      "обеспечение надлежащего ухода за шерстью для предотвращения кожных проблем"
+    ],
+    "рекомендуемые осмотры": "ежегодно, или чаще по мере старения собаки или при возникновении проблем со здоровьем"
+  },
+  "care": {
+    "description": "Caring for a Puli involves regular grooming, consistent exercise, and mental stimulation to keep them healthy and happy.",
+    "behavior": "Pulik require daily physical activity and mental challenges to prevent boredom and destructive behaviors. Engaging in activities like agility or herding can be beneficial.",
+    "health": "Regular veterinary visits are essential to monitor for common health issues. Maintaining a balanced diet and healthy weight helps prevent joint problems.",
+    "grooming": "The Puli's corded coat requires daily maintenance to prevent matting. Bathing should be done as needed, with thorough drying to prevent mildew.",
+    "nutrition": "Feed a high-quality diet appropriate for the dog's age, size, and activity level. Avoid overfeeding to prevent obesity, which can exacerbate health issues."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Уход за пули включает регулярный груминг, постоянные физические нагрузки и умственную стимуляцию для поддержания их здоровья и счастья.",
+    "поведение и характер": "Пули требуют ежедневной физической активности и умственных задач, чтобы предотвратить скуку и деструктивное поведение. Участие в таких занятиях, как аджилити или пастьба, может быть полезным.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару необходимы для мониторинга распространенных проблем со здоровьем. Поддержание сбалансированного рациона и здорового веса помогает предотвратить проблемы с суставами.",
+    "груминг и уход": "Шнуровая шерсть пули требует ежедневного ухода для предотвращения спутывания. Купание следует проводить по мере необходимости, с тщательной сушкой для предотвращения появления плесени.",
+    "питание и активность": "Кормите высококачественным кормом, соответствующим возрасту, размеру и уровню активности собаки. Избегайте перекармливания, чтобы предотвратить ожирение, которое может усугубить проблемы со здоровьем."
+  },
+  "faq": [
+    {
+      "question": "Is the Puli hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, the Puli's non-shedding coat produces fewer allergens, making it more suitable for allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Puli need?",
+      "answer": "Pulik are high-energy dogs that require at least one hour of physical activity daily to stay healthy and content."
+    },
+    {
+      "question": "Are Pulik good with children?",
+      "answer": "Yes, Pulik are generally good with children, being playful and patient. However, supervision is recommended due to their herding instincts."
+    },
+    {
+      "question": "How often should a Puli be groomed?",
+      "answer": "Daily maintenance of the corded coat is necessary to prevent matting. Bathing should be done as needed, with thorough drying."
+    },
+    {
+      "question": "Do Pulik get along with other pets?",
+      "answer": "With proper socialization, Pulik can coexist peacefully with other pets, though their herding instincts may lead them to try to herd other animals."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Является ли пули гипоаллергенной породой?",
+      "ответ": "Хотя ни одна собака не является полностью гипоаллергенной, несбросовая шерсть пули производит меньше аллергенов, что делает их более подходящими для людей, страдающих аллергией."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется пули?",
+      "ответ": "Пули — энергичные собаки, которым требуется не менее одного часа физической активности ежедневно для поддержания здоровья и удовлетворенности."
+    },
+    {
+      "вопрос": "Пули хорошо ладят с детьми?",
+      "ответ": "Да, пули обычно хорошо ладят с детьми, будучи игривыми и терпеливыми. Однако рекомендуется присмотр из-за их пастушьих инстинктов."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за пули?",
+      "ответ": "Ежедневный уход за шнуровой шерстью необходим для предотвращения спутывания. Купание следует проводить по мере необходимости, с тщательной сушкой."
+    },
+    {
+      "вопрос": "Пули уживаются с другими животными?",
+      "ответ": "При правильной социализации пули могут мирно сосуществовать с другими животными, хотя их пастушьи инстинкты могут побуждать их пытаться пасти других животных."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/puli",
+    "https://en.wikipedia.org/wiki/Puli_dog",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-puli",
+    "https://vcahospitals.com/know-your-pet/puli",
+    "https://www.akc.org/dog-breeds/puli/",
+    "https://www.purina.ru/find-a-pet/dog-breeds/vengerskiy-puli",
+    "https://dog.fandom.com/ru/wiki/Пули"
+  ]
+}

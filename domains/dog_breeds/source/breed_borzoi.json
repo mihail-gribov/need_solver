@@ -1,0 +1,83 @@
+{
+  "id": "borzoi",
+  "name": "Borzoi",
+  "full_description": "<p>The Borzoi, also known as the Russian Wolfhound, is a breed of sighthound that originated in Russia during the 13th century. Developed by the Russian aristocracy, these dogs were bred for hunting wolves and other game across vast open terrains, relying on their keen eyesight and remarkable speed. The breed's name, 'Borzoi,' is derived from the Russian word 'borzáya,' meaning 'fast.'</p>\n<p>Physically, Borzois are large, elegant dogs characterized by their long, narrow heads and slightly domed skulls. Males typically stand at least 28 inches tall at the withers, while females are at least 26 inches. Their weight ranges from 75 to 105 pounds for males, with females being 15 to 20 pounds lighter. The breed's coat is long, silky, and can be flat, wavy, or loosely curled, coming in a variety of colors and patterns.</p>\n<p>In terms of temperament, Borzois are known for their gentle and calm demeanor. They are intelligent and independent, often displaying a reserved nature, especially around strangers. Despite their hunting heritage, they are affectionate with their families and can be quite sensitive, responding best to gentle training methods.</p>\n<p>Originally bred for coursing and hunting, Borzois possess exceptional speed and agility. Their strong necks and jaws enabled them to chase, catch, and hold their quarry. Today, while they are less commonly used for hunting, they excel in lure coursing and other canine sports that tap into their natural instincts.</p>\n<p>In modern times, Borzois are cherished as companion animals. Their graceful appearance and serene nature have earned them a place in many homes worldwide. However, their independent streak and specific exercise needs mean they are best suited for owners who understand and appreciate the breed's unique characteristics.</p>\n<p>Notable traits of the Borzoi include their sensitivity to anesthesia, a common trait among sighthounds due to their lean body mass. They are also prone to certain health issues like bloat and hip dysplasia, necessitating informed and attentive care from their owners.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: 75-105 pounds; Females: 60-85 pounds",
+    "height": "Males: at least 28 inches; Females: at least 26 inches",
+    "coat": "long, silky, can be flat, wavy, or loosely curled",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "regular brushing; more frequent during shedding seasons",
+    "lifespan": "9-14 years"
+  },
+  "behavior": {
+    "summary": "Borzois are gentle, intelligent, and independent dogs with a calm demeanor. They are affectionate with their families but can be reserved around strangers.",
+    "with_family": "Affectionate and loyal, Borzois form strong bonds with their family members, often displaying a gentle and calm presence at home.",
+    "with_children": "Generally good with older children who understand respectful interaction; may be less tolerant of rough play from younger kids.",
+    "with_other_pets": "Their strong prey drive can make them unsuitable for homes with small animals; early socialization is crucial.",
+    "with_strangers": "Typically reserved and aloof around strangers, but not aggressive; they may take time to warm up to new people.",
+    "special_traits": [
+      "Independent thinker",
+      "Sensitive to harsh training methods",
+      "Strong prey drive",
+      "Quiet and rarely bark",
+      "Enjoys running and open spaces"
+    ]
+  },
+  "health": {
+    "summary": "Borzois are generally healthy but are prone to certain conditions like bloat, hip dysplasia, and sensitivity to anesthesia. Regular veterinary care is essential.",
+    "common_issues": [
+      "Bloat (Gastric Dilatation-Volvulus)",
+      "Hip dysplasia",
+      "Progressive Retinal Atrophy (PRA)",
+      "Sensitivity to anesthesia",
+      "Osteochondritis Dissecans (OCD)"
+    ],
+    "prevention_tips": [
+      "Feed smaller, frequent meals to reduce bloat risk",
+      "Avoid vigorous exercise immediately before or after eating",
+      "Regular veterinary check-ups for early detection of health issues",
+      "Maintain a healthy weight to reduce joint stress",
+      "Use caution with medications due to anesthesia sensitivity"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health concerns"
+  },
+  "care": {
+    "description": "Borzois require regular grooming, moderate exercise, and attentive health care to thrive as companions.",
+    "behavior": "Provide consistent, gentle training and socialization to manage their independent nature and strong prey drive.",
+    "health": "Monitor for signs of bloat and joint issues; consult a veterinarian familiar with the breed's sensitivities.",
+    "grooming": "Brush 2–3 times per week; increase frequency during shedding seasons; regular nail trimming and dental care are important.",
+    "nutrition": "Feed high-quality dog food appropriate for large breeds; avoid overfeeding to maintain a healthy weight."
+  },
+  "faq": [
+    {
+      "question": "Are Borzois good apartment dogs?",
+      "answer": "While they can adapt to apartment living, Borzois require regular exercise and space to run; access to a fenced yard is beneficial."
+    },
+    {
+      "question": "Do Borzois get along with other dogs?",
+      "answer": "They can coexist with other dogs, especially if raised together, but their strong prey drive may pose challenges with smaller pets."
+    },
+    {
+      "question": "How much exercise does a Borzoi need?",
+      "answer": "Moderate daily exercise, including walks and opportunities to run in a secure area, is recommended to keep them healthy and happy."
+    },
+    {
+      "question": "Are Borzois easy to train?",
+      "answer": "They are intelligent but independent; consistent, positive reinforcement methods work best, though they may not be as eager to please as some breeds."
+    },
+    {
+      "question": "Do Borzois shed a lot?",
+      "answer": "They shed moderately year-round, with heavier shedding during seasonal changes; regular grooming helps manage this."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/borzoi",
+    "https://www.petmd.com/dog/breeds/borzoi",
+    "https://vcahospitals.com/know-your-pet/borzoi",
+    "https://www.borzoiclubofamerica.org/aboutborzoi/borzoi-care.php",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-borzois/"
+  ]
+}

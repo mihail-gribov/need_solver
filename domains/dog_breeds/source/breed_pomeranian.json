@@ -1,0 +1,78 @@
+{
+  "id": "pomeranian",
+  "name": "Pomeranian",
+  "full_description": "<p>The Pomeranian, often affectionately called the 'Pom,' is a toy breed with a rich history and distinctive characteristics. Originating from the Pomerania region, now part of modern-day Germany and Poland, these dogs were initially larger and used for herding and sledding. Over time, selective breeding reduced their size, transforming them into the compact companions we know today. Queen Victoria's fondness for the breed in the 19th century significantly boosted their popularity, leading to the development of the smaller Pomeranians that became fashionable pets. Physically, Pomeranians are small, standing between 6 to 7 inches tall and weighing no more than 7 pounds. They possess a lush double coat that comes in nearly two dozen colors, including orange, black, and cream. Their fox-like faces, characterized by bright, intelligent eyes and small, erect ears, contribute to their alert and vivacious expression. The breed's heavily plumed tail arches over their back, adding to their distinctive silhouette. Temperamentally, Pomeranians are extroverted, lively, and intelligent. They exhibit a buoyant and inquisitive nature, making them engaging companions. Despite their small size, they are known for their boldness and can sometimes be unaware of their diminutive stature, often displaying a commanding presence. Historically, Pomeranians were larger and served as working dogs, assisting in herding and pulling sleds. Their reduction in size over the years shifted their role to that of companion animals. In modern times, they are cherished as affectionate pets and have also excelled in various canine sports, including agility and obedience. Notably, an 11-year-old Pomeranian named Bella became the first toy breed to earn the AKC Scent Work Master title in 2019, showcasing the breed's versatility and intelligence. Pomeranians are renowned for their profuse double coat, which requires regular grooming to maintain its health and appearance. Their expressive faces and spirited demeanor make them stand out among toy breeds. Additionally, their adaptability allows them to thrive in various living environments, from apartments to larger homes, as long as they receive adequate attention and care.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "3-7 pounds",
+    "height": "6-7 inches",
+    "coat": "double coat; soft undercoat with longer, harsh-textured outer coat",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "frequent brushing; professional grooming recommended every 4-6 weeks",
+    "lifespan": "12-16 years"
+  },
+  "behavior": {
+    "summary": "Pomeranians are lively, intelligent, and extroverted dogs known for their bold and inquisitive nature.",
+    "with_family": "They form strong bonds with their families, thriving on companionship and often acting as affectionate lapdogs.",
+    "with_children": "Best suited for families with older children who can handle them gently, as their small size makes them vulnerable to rough play.",
+    "with_other_pets": "Generally get along well with other pets, especially when socialized early, but may display dominance despite their size.",
+    "with_strangers": "Alert and often wary of strangers, making them excellent watchdogs, though proper socialization can help them be more welcoming.",
+    "special_traits": [
+      "bold and confident demeanor",
+      "highly intelligent and trainable",
+      "alert and responsive nature"
+    ]
+  },
+  "health": {
+    "summary": "Pomeranians are generally healthy but are prone to certain conditions due to their small size and genetics.",
+    "common_issues": [
+      "patellar luxation",
+      "tracheal collapse",
+      "dental issues",
+      "alopecia X (coat loss)"
+    ],
+    "prevention_tips": [
+      "regular dental care",
+      "maintaining a healthy weight",
+      "avoiding excessive jumping to protect joints",
+      "routine grooming to monitor skin health"
+    ],
+    "vet_checkups": "at least once a year; more frequent visits for senior dogs or those with health issues"
+  },
+  "care": {
+    "description": "Pomeranians require attentive care, including regular grooming, mental stimulation, and health monitoring to ensure a happy and healthy life.",
+    "behavior": "Early socialization and consistent, positive reinforcement training are essential to manage their bold and sometimes stubborn nature.",
+    "health": "Regular veterinary checkups and preventive care are crucial to address common health issues and maintain overall well-being.",
+    "grooming": "Frequent brushing and professional grooming every 4-6 weeks help maintain their double coat and prevent matting.",
+    "nutrition": "A balanced diet appropriate for small breeds supports their energy needs and overall health; portion control is important to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Pomeranians good for first-time dog owners?",
+      "answer": "Yes, with proper training and care, Pomeranians can be suitable for first-time owners."
+    },
+    {
+      "question": "Do Pomeranians bark a lot?",
+      "answer": "They can be vocal and may bark frequently, especially if not trained to manage their alertness."
+    },
+    {
+      "question": "Are Pomeranians hypoallergenic?",
+      "answer": "No, they are not considered hypoallergenic due to their shedding double coat."
+    },
+    {
+      "question": "How much exercise does a Pomeranian need?",
+      "answer": "Moderate daily exercise, such as short walks and playtime, is sufficient for their needs."
+    },
+    {
+      "question": "Can Pomeranians live in apartments?",
+      "answer": "Yes, they adapt well to apartment living if they receive adequate attention and exercise."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/pomeranian-right-for-you/",
+    "https://www.thekennelclub.org.uk/breed-standards/toy/pomeranian/",
+    "https://www.petmd.com/dog/breeds/pomeranian",
+    "https://www.akc.org/expert-advice/sports/first-toy-breed-earns-master-level-scent-work-title/"
+  ]
+}

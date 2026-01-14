@@ -1,0 +1,81 @@
+{
+  "id": "japanese-chin",
+  "name": "Japanese Chin",
+  "full_description": "<p>The Japanese Chin, also known as the Japanese Spaniel, is a toy breed with a rich history and distinctive appearance. Believed to have originated in China, the breed was introduced to Japan as early as the 6th century, possibly as gifts to the Japanese royalty. Over centuries, the Japanese Chin was refined in Japan, becoming a favored companion of the nobility and aristocracy. The breed made its way to England in 1613 and was later introduced to the United States in the 19th century. Physically, the Japanese Chin is a small, well-balanced dog, standing between 8 to 11 inches at the withers. They possess a profuse, silky, and straight single-layer coat that comes in color combinations such as black and white, red and white, or tricolor (black and white with tan points). Their large, wide-set dark eyes, short broad muzzle, and feathered ears contribute to their distinctive Oriental expression. The plumed tail is carried over the back, curving to either side. In terms of temperament, Japanese Chins are known for their bright, inquisitive, and alert nature. They are affectionate with their families but may be reserved around strangers. Their cat-like behaviors, such as grooming themselves and climbing onto elevated surfaces, set them apart from other breeds. Originally bred as companion dogs for Japanese nobility, they excelled in providing companionship and entertainment. Today, they continue to serve as loving companions, cherished for their charming personalities and elegant appearance. Notable characteristics of the breed include their sensitivity to their environment, making them responsive to their owner's emotions, and their ability to adapt to various living situations, from apartments to larger homes.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "4-9 pounds",
+    "height": "8-11 inches",
+    "coat": "profuse, silky, single-layer",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "weekly brushing; regular dental care",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "Japanese Chins are affectionate, intelligent, and playful companions with a distinctive cat-like demeanor.",
+    "with_family": "They form strong bonds with family members, often becoming particularly attached to one person.",
+    "with_children": "Generally good with children, especially when socialized early, but their small size requires gentle handling.",
+    "with_other_pets": "Typically get along well with other pets, including dogs and cats, due to their sociable nature.",
+    "with_strangers": "May be reserved around strangers but usually warm up once they feel comfortable.",
+    "special_traits": [
+      "cat-like grooming habits",
+      "sensitive to owner's emotions",
+      "enjoys climbing onto elevated surfaces"
+    ]
+  },
+  "health": {
+    "summary": "Japanese Chins are generally healthy but are prone to certain conditions common in small breeds.",
+    "common_issues": [
+      "luxating patellas",
+      "cataracts",
+      "heart murmurs",
+      "brachycephalic airway syndrome",
+      "GM2 gangliosidosis"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain healthy weight",
+      "avoid overheating",
+      "genetic testing for GM2",
+      "dental hygiene practices"
+    ],
+    "vet_checkups": "at least annually; more frequent for senior dogs or those with health issues"
+  },
+  "care": {
+    "description": "Japanese Chins require attentive care to maintain their health and happiness.",
+    "behavior": "They thrive on companionship and may develop separation anxiety if left alone for extended periods.",
+    "health": "Regular monitoring for respiratory issues and eye conditions is essential due to their brachycephalic features.",
+    "grooming": "Weekly brushing and regular dental care help prevent matting and dental diseases.",
+    "nutrition": "A balanced diet appropriate for small breeds helps maintain optimal health and weight."
+  },
+  "faq": [
+    {
+      "question": "Are Japanese Chins hypoallergenic?",
+      "answer": "No, they are not considered hypoallergenic."
+    },
+    {
+      "question": "Do Japanese Chins require a lot of exercise?",
+      "answer": "They have moderate exercise needs and enjoy daily walks and playtime."
+    },
+    {
+      "question": "Can Japanese Chins live in apartments?",
+      "answer": "Yes, their small size and moderate activity level make them well-suited for apartment living."
+    },
+    {
+      "question": "Are Japanese Chins easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training works best."
+    },
+    {
+      "question": "Do Japanese Chins get along with other pets?",
+      "answer": "Yes, they typically get along well with other pets when properly socialized."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/japanese-chin",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-japanese-chins",
+    "https://japanesechinclubofamerica.org/akc-breed-standard/",
+    "https://en.wikipedia.org/wiki/Japanese_Chin",
+    "https://japanesechinclubofamerica.org/chin-health/"
+  ]
+}

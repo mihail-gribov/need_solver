@@ -1,0 +1,151 @@
+{
+  "id": "bernedoodle",
+  "name": "Bernedoodle",
+  "name_rus": "Бернедудль",
+  "full_description": "<p>The Bernedoodle is a hybrid dog breed resulting from the cross between a Bernese Mountain Dog and a Poodle. This intentional crossbreed was developed to combine the Bernese's affectionate and loyal nature with the Poodle's intelligence and hypoallergenic coat. The breed's origins trace back to the early 2000s in North America, where breeders aimed to create a companion dog that embodies the best traits of both parent breeds. Bernedoodles come in three primary sizes: Standard, Miniature, and Toy, depending on the size of the Poodle parent. Their coats are typically wavy or curly, reducing shedding and making them suitable for individuals with mild allergies. Common coat colors include tricolor (black, white, and brown), bicolor, or solid shades, influenced by their Poodle heritage. Temperamentally, Bernedoodles are known for their friendly, affectionate, and playful demeanor. They are highly social dogs that thrive on human interaction and are known to be good with children and other pets. Their intelligence, inherited from the Poodle, makes them highly trainable, though they may occasionally exhibit stubbornness from the Bernese side. Originally bred as companion animals, Bernedoodles do not have a history of specific working roles. However, their intelligence and temperament make them suitable for various activities, including therapy and assistance work. In modern times, Bernedoodles have gained popularity as family pets due to their adaptable nature and hypoallergenic coats. Notable characteristics of the breed include their teddy bear-like appearance, a blend of the Bernese's sturdy build and the Poodle's elegant features, and their ability to adapt to various living environments, from apartments to larger homes with yards.</p>",
+  "full_description_rus": "<p>Бернедудль — это гибридная порода собак, полученная в результате скрещивания бернского зенненхунда и пуделя. Эта порода была специально выведена для сочетания преданности и ласкового характера бернского зенненхунда с интеллектом и гипоаллергенной шерстью пуделя. Истоки породы бернедудль восходят к началу 2000-х годов в Северной Америке, где заводчики стремились создать собаку-компаньона, объединяющую лучшие качества обеих родительских пород. Бернедудли бывают трех основных размеров: стандартный, миниатюрный и той, в зависимости от размера пуделя-родителя. Их шерсть обычно волнистая или кудрявая, что снижает линьку и делает их подходящими для людей с легкими аллергиями. Обычные окрасы включают триколор (черный, белый и коричневый), биколор или однотонные оттенки, что обусловлено наследственностью от пуделя. По темпераменту бернедудли известны своей дружелюбностью, привязанностью и игривостью. Они очень социальные собаки, которые процветают в обществе людей и хорошо ладят с детьми и другими домашними животными. Их интеллект, унаследованный от пуделя, делает их легко обучаемыми, хотя иногда они могут проявлять упрямство, характерное для бернского зенненхунда. Изначально выведенные как компаньоны, бернедудли не имеют истории выполнения специфических рабочих ролей. Однако их интеллект и темперамент делают их подходящими для различных видов деятельности, включая терапию и вспомогательную работу. В современное время бернедудли приобрели популярность как семейные питомцы благодаря своей адаптивной природе и гипоаллергенной шерсти. Отличительными чертами породы являются их внешность, напоминающая плюшевого мишку, сочетающая крепкое телосложение бернского зенненхунда и изящные черты пуделя, а также их способность адаптироваться к различным условиям проживания, от квартир до больших домов с дворами.</p>",
+  "parameters": {
+    "size": "Varies by type: Standard, Miniature, and Toy",
+    "weight": "Standard: 61–100 lbs (28–45 kg); Miniature: 20–45 lbs (9–20 kg); Toy: <20 lbs (<9 kg)",
+    "height": "Standard: up to 29 inches (74 cm); Miniature: up to 22 inches (56 cm); Toy: 12–17 inches (30–43 cm)",
+    "coat": "Medium to long, wavy or curly; low-shedding",
+    "activity": "Moderate to high; requires daily exercise",
+    "trainability": "High; intelligent and eager to please",
+    "grooming": "Regular brushing (2–3 times per week); professional grooming every 6–8 weeks",
+    "lifespan": "Standard: 12–15 years; Miniature: 14–16 years; Toy: up to 18 years"
+  },
+  "parameters_rus": {
+    "размер": "Варьируется в зависимости от типа: стандартный, миниатюрный и той",
+    "вес": "Стандартный: 28–45 кг; Миниатюрный: 9–20 кг; Той: менее 9 кг",
+    "рост": "Стандартный: до 74 см; Миниатюрный: до 56 см; Той: 30–43 см",
+    "шерсть": "Средней длины или длинная, волнистая или кудрявая; слабо линяющая",
+    "активность": "Умеренная до высокой; требует ежедневных физических нагрузок",
+    "обучаемость": "Высокая; умные и стремящиеся угодить",
+    "уход": "Регулярное расчесывание (2–3 раза в неделю); профессиональный груминг каждые 6–8 недель",
+    "продолжительность жизни": "Стандартный: 12–15 лет; Миниатюрный: 14–16 лет; Той: до 18 лет"
+  },
+  "behavior": {
+    "summary": "Bernedoodles are affectionate, playful, and intelligent dogs that thrive on human companionship and are well-suited for families.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and a desire to be involved in daily activities.",
+    "with_children": "Known for their gentle and patient nature, Bernedoodles are excellent companions for children of all ages.",
+    "with_other_pets": "Generally sociable with other animals, especially when properly socialized from a young age.",
+    "with_strangers": "May be reserved initially but typically warm up quickly, especially with proper socialization.",
+    "special_traits": [
+      "Highly social and thrive on human interaction",
+      "Intelligent and trainable, suitable for various roles",
+      "Adaptable to different living environments"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Бернедудли — ласковые, игривые и умные собаки, которые процветают в обществе людей и отлично подходят для семей.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя преданность и желание участвовать в повседневной жизни.",
+    "с детьми": "Известны своим нежным и терпеливым характером, бернедудли являются отличными компаньонами для детей всех возрастов.",
+    "с другими животными": "Обычно дружелюбны с другими животными, особенно при правильной социализации с раннего возраста.",
+    "с незнакомцами": "Могут быть сдержанными вначале, но обычно быстро привыкают, особенно при надлежащей социализации.",
+    "особые черты": [
+      "Очень социальные и процветают в обществе людей",
+      "Умные и легко обучаемые, подходят для различных ролей",
+      "Адаптируются к различным условиям проживания"
+    ]
+  },
+  "health": {
+    "summary": "Bernedoodles are generally healthy but can inherit certain conditions from their parent breeds.",
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Allergies",
+      "Gastric dilatation-volvulus (GDV)"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce joint stress",
+      "Regular eye examinations to detect early signs of PRA",
+      "Monitor for signs of allergies and consult a veterinarian for management",
+      "Feed smaller, more frequent meals to reduce GDV risk"
+    ],
+    "vet_checkups": "Annual wellness exams; more frequent visits as needed for specific health concerns"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Бернедудли в целом здоровы, но могут наследовать определенные заболевания от родительских пород.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренных и локтевых суставов",
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Аллергии",
+      "Синдром заворота желудка (GDV)"
+    ],
+    "советы по профилактике": [
+      "Поддерживайте здоровый вес, чтобы снизить нагрузку на суставы",
+      "Регулярные осмотры глаз для раннего выявления PRA",
+      "Следите за признаками аллергии и консультируйтесь с ветеринаром для их управления",
+      "Кормите небольшими, но частыми порциями, чтобы снизить риск GDV"
+    ],
+    "рекомендуемые осмотры": "Ежегодные профилактические осмотры; более частые визиты при наличии специфических проблем со здоровьем"
+  },
+  "care": {
+    "description": "Bernedoodles require regular grooming, consistent training, and daily exercise to maintain their health and happiness.",
+    "behavior": "Early socialization and positive reinforcement training are essential to develop a well-mannered and confident dog.",
+    "health": "Regular veterinary check-ups and preventive care are crucial to monitor and maintain overall health.",
+    "grooming": "Brush 2–3 times per week to prevent matting; professional grooming every 6–8 weeks is recommended.",
+    "nutrition": "Provide a balanced diet appropriate for the dog's size, age, and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Бернедудли требуют регулярного ухода за шерстью, последовательной дрессировки и ежедневных физических нагрузок для поддержания здоровья и счастья.",
+    "поведение и характер": "Ранняя социализация и обучение с положительным подкреплением необходимы для развития воспитанной и уверенной собаки.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход важны для мониторинга и поддержания общего здоровья.",
+    "груминг и уход": "Расчесывайте 2–3 раза в неделю, чтобы предотвратить спутывание; рекомендуется профессиональный груминг каждые 6–8 недель.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее размеру, возрасту и уровню активности собаки; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Bernedoodles hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Bernedoodles' low-shedding coats may be suitable for individuals with mild allergies."
+    },
+    {
+      "question": "How much exercise does a Bernedoodle need?",
+      "answer": "They require at least 30–60 minutes of daily exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Bernedoodles good with children?",
+      "answer": "Yes, they are known for their gentle and patient nature, making them excellent companions for children."
+    },
+    {
+      "question": "Do Bernedoodles require a lot of grooming?",
+      "answer": "Yes, regular brushing and professional grooming every 6–8 weeks are necessary to maintain their coat."
+    },
+    {
+      "question": "What is the lifespan of a Bernedoodle?",
+      "answer": "Depending on their size, Bernedoodles can live between 12 to 18 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли бернедудли гипоаллергенными?",
+      "ответ": "Хотя ни одна собака не является полностью гипоаллергенной, низколиняющая шерсть бернедудлей может быть подходящей для людей с легкими аллергиями."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется бернедудлю?",
+      "ответ": "Им необходимо как минимум 30–60 минут ежедневных физических нагрузок для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Хорошо ли бернедудли ладят с детьми?",
+      "ответ": "Да, они известны своим нежным и терпеливым характером, что делает их отличными компаньонами для детей."
+    },
+    {
+      "вопрос": "Требуют ли бернедудли много ухода за шерстью?",
+      "ответ": "Да, регулярное расчесывание и профессиональный груминг каждые 6–8 недель необходимы для поддержания их шерсти в хорошем состоянии."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни бернедудля?",
+      "ответ": "В зависимости от размера, бернедудли могут жить от 12 до 18 лет."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/bernedoodle",
+    "https://www.chewy.com/education/dog-breeds/bernedoodle",
+    "https://www.betterpet.com/learn/bernedoodle",
+    "https://www.petsradar.com/advice/bernedoodle-breed-profile",
+    "https://www.caninebible.com/bernedoodle/",
+    "https://www.purina.ru/find-a-pet/dog-breeds/bernedoodle",
+    "https://www.dog-time.ru/2021/04/01/bernedoodle/",
+    "https://sunmag.me/pets/bernedudl-opisanie-haraktera-sobaki-i-osobennosti-uhoda.html"
+  ]
+}

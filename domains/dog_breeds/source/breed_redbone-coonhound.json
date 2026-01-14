@@ -1,0 +1,81 @@
+{
+  "id": "redbone-coonhound",
+  "name": "Redbone Coonhound",
+  "full_description": "<p>The Redbone Coonhound is an American breed of hunting dog, renowned for its striking solid red coat and exceptional hunting abilities. Originating in the Southern United States before the Civil War, the breed was developed by crossing red-colored foxhounds brought by Scottish immigrants with Bloodhounds and possibly Irish hounds. This selective breeding aimed to create a versatile hunter capable of tracking and treeing raccoons, as well as larger game like bears and cougars.</p>\n<p>Physically, the Redbone Coonhound is a medium to large-sized dog with a lean, muscular build. Males typically stand between 22 to 27 inches at the shoulder, while females range from 21 to 26 inches. Their weight is proportionate to their size, generally between 45 to 85 pounds. The breed's short, smooth coat is a rich, deep red, occasionally featuring small white markings on the chest or feet. They possess long, floppy ears and dark brown to hazel eyes that convey a pleading expression.</p>\n<p>Temperamentally, Redbone Coonhounds are friendly, sociable, and eager to please. They are known for their even-tempered nature and strong desire to be part of family activities. While they are affectionate and gentle with family members, their high energy levels and strong hunting instincts necessitate regular exercise and mental stimulation.</p>\n<p>Originally bred for hunting raccoons, Redbone Coonhounds have a natural treeing instinct, meaning they are adept at chasing prey up trees and alerting hunters with their distinctive baying. Their agility and endurance make them proficient in various terrains, from swamps to mountainous regions. In modern times, while they continue to be valued as hunting companions, they have also gained popularity as family pets due to their loyal and affectionate nature.</p>\n<p>Notable characteristics of the Redbone Coonhound include their striking red coat, exceptional hunting skills, and a sweet, melodious voice that carries over long distances. They are also recognized for their versatility, being capable of hunting both small and large game, and their adaptability to different environments.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "45-85 pounds",
+    "height": "21-27 inches",
+    "coat": "short, smooth, deep red",
+    "activity": "high",
+    "trainability": "moderate",
+    "grooming": "minimal; occasional brushing",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Redbone Coonhounds are friendly, sociable, and eager to please, making them excellent companions for active families.",
+    "with_family": "They are affectionate and enjoy being involved in family activities, often forming strong bonds with their owners.",
+    "with_children": "Generally good with children, they are gentle and patient, but supervision is recommended due to their size and energy.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets, though their hunting instincts may be triggered by small animals.",
+    "with_strangers": "They are typically friendly towards strangers but may be reserved initially; early socialization helps in developing their confidence.",
+    "special_traits": [
+      "Strong hunting instincts",
+      "Melodious baying voice",
+      "High energy levels",
+      "Affectionate nature",
+      "Adaptability to various environments"
+    ]
+  },
+  "health": {
+    "summary": "Redbone Coonhounds are generally healthy with a lifespan of 12-15 years but are prone to certain health issues.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Ear infections",
+      "Obesity",
+      "Eye problems"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine ear cleaning to prevent infections",
+      "Balanced diet to prevent obesity",
+      "Regular eye check-ups"
+    ],
+    "vet_checkups": "Annual check-ups recommended; more frequent visits if health issues arise."
+  },
+  "care": {
+    "description": "Redbone Coonhounds require regular exercise, minimal grooming, and consistent training to thrive as both hunting dogs and family companions.",
+    "behavior": "They need ample physical activity and mental stimulation to prevent boredom and destructive behaviors.",
+    "health": "Maintain a healthy weight through diet and exercise; monitor for signs of common health issues.",
+    "grooming": "Their short coat requires occasional brushing; regular ear cleaning is essential to prevent infections.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; avoid overfeeding to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Redbone Coonhounds good family pets?",
+      "answer": "Yes, they are affectionate and sociable, making them excellent companions for active families."
+    },
+    {
+      "question": "Do Redbone Coonhounds require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and need regular physical activity to stay healthy and happy."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "They are eager to please but can be stubborn; consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "Do they get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, though their hunting instincts may be triggered by small animals."
+    },
+    {
+      "question": "What is their grooming requirement?",
+      "answer": "Minimal; their short coat requires occasional brushing, and regular ear cleaning is important."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Redbone_Coonhound",
+    "https://www.purina.com/dogs/dog-breeds/redbone-coonhound",
+    "https://www.petmd.com/dog/breeds/redbone-coonhound",
+    "https://www.westminsterkennelclub.org/breeds/redbone-coonhound",
+    "https://www.ukcdogs.com/breed-groups/redbone-coonhound"
+  ]
+}

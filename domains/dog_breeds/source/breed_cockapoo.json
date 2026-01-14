@@ -1,0 +1,83 @@
+{
+  "id": "cockapoo",
+  "name": "Cockapoo",
+  "full_description": "<p>The Cockapoo is a hybrid breed resulting from the cross between a Cocker Spaniel and a Poodle, primarily the Miniature Poodle. This intentional crossbreeding began in the United States during the 1960s, aiming to combine the desirable traits of both parent breeds into a single companion dog. The objective was to create a dog with the Poodle's hypoallergenic coat and the Cocker Spaniel's friendly disposition. Over the decades, the Cockapoo has gained popularity worldwide, especially in countries like the United Kingdom and Australia, where they are also known as 'Spoodles'.</p>\n<p>Physically, Cockapoos exhibit a wide range of appearances due to the variability inherent in crossbreeding. They typically weigh between 12 to 25 pounds and stand about 10 to 18 inches tall at the shoulder. Their coats can vary from straight to wavy or curly, reflecting the genetic influence of their Poodle ancestry. Common coat colors include black, white, buff, cream, apricot, red, chocolate, and various combinations thereof. Their eyes are round and expressive, often dark brown or hazel, and they possess long, floppy ears covered in soft, feathered fur.</p>\n<p>Temperamentally, Cockapoos are known for their affectionate and friendly nature. They inherit intelligence from both parent breeds, making them quick learners and generally easy to train. Their sociable disposition means they thrive on human interaction and often form strong bonds with their families. However, this attachment can lead to separation anxiety if they are left alone for extended periods. They are energetic and require regular physical and mental stimulation to prevent boredom and potential behavioral issues.</p>\n<p>Originally bred as companion animals, Cockapoos have no specific working roles. Their primary purpose has always been to serve as loving and loyal family pets. In modern times, their popularity has surged, particularly among families and individuals seeking a friendly, intelligent, and relatively low-shedding dog. Their adaptable nature makes them suitable for various living environments, from apartments to houses with yards.</p>\n<p>Notable characteristics of the Cockapoo include their hypoallergenic coat, which sheds minimally, making them a preferred choice for allergy sufferers. Their size and energy levels make them versatile companions, suitable for both active individuals and those seeking a more relaxed pet. Additionally, their friendly demeanor often makes them excellent therapy dogs, providing comfort and companionship to those in need.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "12–25 pounds",
+    "height": "10–18 inches",
+    "coat": "varies from straight to wavy or curly; colors include black, white, buff, cream, apricot, red, chocolate, and combinations",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing and professional grooming every 4–8 weeks",
+    "lifespan": "14–18 years"
+  },
+  "behavior": {
+    "summary": "Cockapoos are affectionate, intelligent, and sociable dogs that thrive on human companionship and are generally easy to train.",
+    "with_family": "They form strong bonds with family members and enjoy being involved in daily activities.",
+    "with_children": "Cockapoos are typically gentle and patient with children, making them excellent family pets.",
+    "with_other_pets": "They usually get along well with other dogs and pets, especially when socialized from a young age.",
+    "with_strangers": "Cockapoos are friendly towards strangers, often greeting new people with enthusiasm.",
+    "special_traits": [
+      "affectionate and people-oriented",
+      "intelligent and quick learners",
+      "prone to separation anxiety if left alone for long periods"
+    ]
+  },
+  "health": {
+    "summary": "Cockapoos are generally healthy but can inherit certain health issues from their parent breeds, including eye conditions, hip dysplasia, and ear infections.",
+    "common_issues": [
+      "cataracts",
+      "glaucoma",
+      "progressive retinal atrophy",
+      "hip dysplasia",
+      "ear infections",
+      "patellar luxation"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintaining a healthy weight through proper diet and exercise",
+      "routine ear cleaning to prevent infections",
+      "genetic testing of breeding dogs to reduce inherited conditions"
+    ],
+    "vet_checkups": "at least once a year, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Cockapoos require regular grooming, consistent training, and ample social interaction to maintain their health and happiness.",
+    "behavior": "Early socialization and positive reinforcement training are essential to develop well-mannered and confident dogs.",
+    "health": "Regular exercise and a balanced diet are crucial to prevent obesity and related health issues.",
+    "grooming": "Their coats require regular brushing to prevent matting and professional grooming every 4–8 weeks.",
+    "nutrition": "A balanced diet appropriate for their size, age, and activity level is important; avoid overfeeding to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Cockapoos hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Cockapoos tend to shed less and may be more suitable for allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Cockapoo need?",
+      "answer": "They require moderate exercise, such as daily walks and playtime, to keep them healthy and happy."
+    },
+    {
+      "question": "Do Cockapoos get along with other pets?",
+      "answer": "Yes, they generally get along well with other pets, especially when socialized from a young age."
+    },
+    {
+      "question": "What is the lifespan of a Cockapoo?",
+      "answer": "Cockapoos typically live between 14 to 18 years."
+    },
+    {
+      "question": "Are Cockapoos easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/cockapoo",
+    "https://www.chewy.com/education/dog/general/behavior-breeds-cockapoo-dog-breed",
+    "https://www.dogster.com/dog-breeds/pros-and-cons-of-getting-a-cockapoo",
+    "https://www.purina.co.uk/articles/dogs/health/symptoms/cockapoo-health-problems",
+    "https://www.rover.com/blog/breeds/cockapoo/",
+    "https://dogtime.com/dog-breeds/cockapoo/xwp_curated_content",
+    "https://en.wikipedia.org/wiki/Cockapoo"
+  ]
+}

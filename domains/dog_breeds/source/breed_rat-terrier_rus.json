@@ -1,0 +1,157 @@
+{
+  "id": "rat-terrier",
+  "name": "Rat Terrier",
+  "name_rus": "Рэт-терьер",
+  "full_description": "<p>The Rat Terrier is an American breed developed in the early 19th century by crossing Smooth Fox Terriers, Old English White Terriers, Bull Terriers, and Manchester Terriers. Later, Chihuahuas, Toy Fox Terriers, and Feist breeds were incorporated to enhance specific traits. In the 1910s and 1920s, to address rabbit infestations in the Midwest, farmers bred Rat Terriers with Whippets and Italian Greyhounds for increased speed, while those in the Central and Southern regions introduced Beagle lineage to enhance prey drive and scenting abilities.</p>\n<p>Physically, Rat Terriers are small to medium-sized dogs with a well-muscled, compact build. They possess a deep chest, strong shoulders, solid neck, and powerful legs. Their ears can be upright, button, or tipped, and they may have short or full-length tails, either left natural or docked. The coat is short, smooth, and requires minimal grooming.</p>\n<p>Temperamentally, Rat Terriers are loyal, energetic, and intelligent. They are playful and generally good with children, though they may be reserved with strangers. Their strong prey drive makes them excellent hunters, but they can be scrappy with other dogs and may not be suitable around small pets, especially rodents.</p>\n<p>Originally bred for farm work, Rat Terriers excelled in hunting rodents and vermin both above and below ground. They are capable of trailing, flushing, and treeing game, as well as hunting rabbits. Their versatility made them invaluable on farms, with one Rat Terrier reportedly killing over 2,500 rats in a seven-hour span in an infested barn.</p>\n<p>In modern times, Rat Terriers have transitioned from farm dogs to beloved companions. They are recognized by major kennel clubs, including the United Kennel Club (UKC) in 1999 and the American Kennel Club (AKC) in 2013. Their adaptability and intelligence make them suitable for various dog sports and activities, such as agility, obedience, and barn hunt competitions.</p>\n<p>Notable characteristics of the Rat Terrier include their versatility, strong prey drive, and affectionate nature. They are known for their speed, agility, and keen hunting instincts, making them both excellent working dogs and loyal family companions.</p>",
+  "full_description_rus": "<p>Рэт-терьер — американская порода собак, выведенная в начале XIX века путем скрещивания гладкошерстных фокстерьеров, староанглийских белых терьеров, бультерьеров и манчестерских терьеров. Позднее для улучшения определенных качеств были добавлены крови чихуахуа, той-фокстерьеров и фейстов. В 1910–1920-х годах, чтобы справиться с нашествием кроликов на Среднем Западе США, фермеры скрещивали рэт-терьеров с уиппетами и итальянскими грейхаундами для увеличения скорости, а в центральных и южных регионах вводили кровь биглей для усиления охотничьего инстинкта и обоняния.</p>\n<p>Физически рэт-терьеры — это собаки малого и среднего размера с хорошо развитой мускулатурой и компактным телосложением. Они обладают глубокой грудью, сильными плечами, крепкой шеей и мощными ногами. Уши могут быть стоячими, полустоячими или опущенными, а хвосты — короткими или полной длины, оставленными естественными или купированными. Шерсть короткая, гладкая и требует минимального ухода.</p>\n<p>По темпераменту рэт-терьеры преданы, энергичны и умны. Они игривы и обычно хорошо ладят с детьми, хотя могут быть сдержанными с незнакомцами. Их сильный охотничий инстинкт делает их отличными охотниками, но они могут быть задиристыми с другими собаками и не всегда подходят для содержания с мелкими домашними животными, особенно грызунами.</p>\n<p>Изначально выведенные для работы на фермах, рэт-терьеры превосходно справлялись с охотой на грызунов и вредителей как на поверхности, так и под землей. Они способны преследовать, выгонять и загонять дичь на деревья, а также охотиться на кроликов. Их универсальность делала их незаменимыми на фермах; известен случай, когда один рэт-терьер уничтожил более 2500 крыс за семь часов в зараженном сарае.</p>\n<p>В современное время рэт-терьеры превратились из фермерских собак в любимых компаньонов. Они признаны крупными кинологическими клубами, включая Объединенный клуб собаководства (UKC) в 1999 году и Американский клуб собаководства (AKC) в 2013 году. Их адаптивность и интеллект делают их подходящими для различных собачьих видов спорта и активностей, таких как аджилити, послушание и соревнования по ловле крыс.</p>\n<p>Отличительными чертами рэт-терьера являются их универсальность, сильный охотничий инстинкт и ласковый характер. Они известны своей скоростью, ловкостью и острыми охотничьими инстинктами, что делает их как отличными рабочими собаками, так и преданными семейными компаньонами.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "10-25 pounds (4.5-11.3 kg)",
+    "height": "10-18 inches (25-46 cm)",
+    "coat": "short, smooth, and dense",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "minimal; occasional brushing",
+    "lifespan": "15-18 years"
+  },
+  "parameters_rus": {
+    "размер": "малый или средний",
+    "вес": "4,5-11,3 кг",
+    "рост": "25-46 см",
+    "шерсть": "короткая, гладкая и плотная",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "минимальный; периодическое вычесывание",
+    "продолжительность жизни": "15-18 лет"
+  },
+  "behavior": {
+    "summary": "Rat Terriers are energetic, intelligent, and loyal dogs with a strong prey drive and a playful nature.",
+    "with_family": "They form strong bonds with family members and are affectionate and protective.",
+    "with_children": "Generally good with children, especially when socialized early, but supervision is recommended due to their energetic nature.",
+    "with_other_pets": "May be scrappy with other dogs and are not recommended around small pets, particularly rodents, due to their strong prey drive.",
+    "with_strangers": "Can be reserved with strangers, making them effective watchdogs.",
+    "special_traits": [
+      "high energy levels",
+      "strong prey drive",
+      "intelligence",
+      "loyalty",
+      "playfulness"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Рэт-терьеры — энергичные, умные и преданные собаки с сильным охотничьим инстинктом и игривым характером.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя привязанность и защитные качества.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации, но из-за их энергичности рекомендуется присмотр.",
+    "с другими животными": "Могут быть задиристыми с другими собаками и не рекомендуются для содержания с мелкими животными, особенно грызунами, из-за сильного охотничьего инстинкта.",
+    "с незнакомцами": "Могут быть сдержанными с незнакомцами, что делает их эффективными сторожевыми собаками.",
+    "особые черты": [
+      "высокий уровень энергии",
+      "сильный охотничий инстинкт",
+      "интеллект",
+      "преданность",
+      "игривость"
+    ]
+  },
+  "health": {
+    "summary": "Rat Terriers are generally hardy and long-lived but may be prone to certain genetic health issues.",
+    "common_issues": [
+      "hip dysplasia",
+      "patellar luxation",
+      "primary lens luxation",
+      "Legg-Calvé-Perthes disease",
+      "cardiac issues"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "genetic testing for known issues",
+      "maintaining a healthy weight",
+      "providing regular exercise",
+      "monitoring for signs of joint problems"
+    ],
+    "vet_checkups": "annually, or more frequently as needed"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Рэт-терьеры обычно крепкие и долгоживущие, но могут быть склонны к определенным генетическим заболеваниям.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренного сустава",
+      "вывих надколенника",
+      "первичная люксация хрусталика",
+      "болезнь Легга-Кальве-Пертеса",
+      "сердечные заболевания"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "генетическое тестирование на известные проблемы",
+      "поддержание здорового веса",
+      "обеспечение регулярных физических нагрузок",
+      "наблюдение за признаками проблем с суставами"
+    ],
+    "рекомендуемые осмотры": "ежегодно или чаще при необходимости"
+  },
+  "care": {
+    "description": "Rat Terriers require regular exercise, mental stimulation, and minimal grooming to maintain their health and happiness.",
+    "behavior": "They thrive on interactive play and activities that challenge their intelligence and agility.",
+    "health": "Regular veterinary care and attention to genetic health concerns are essential for their well-being.",
+    "grooming": "Their short coat requires minimal grooming; occasional brushing is sufficient to remove dead hair.",
+    "nutrition": "A balanced diet appropriate for their size and activity level helps maintain optimal health."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Рэт-терьерам необходимы регулярные физические нагрузки, умственная стимуляция и минимальный уход за шерстью для поддержания их здоровья и счастья.",
+    "поведение и характер": "Они процветают при интерактивных играх и занятиях, которые бросают вызов их интеллекту и ловкости.",
+    "здоровье и профилактика": "Регулярный ветеринарный уход и внимание к генетическим проблемам здоровья необходимы для их благополучия.",
+    "груминг и уход": "Их короткая шерсть требует минимального ухода; периодическое вычесывание достаточно для удаления отмерших волос.",
+    "питание и активность": "Сбалансированная диета, соответствующая их размеру и уровню активности, помогает поддерживать оптимальное здоровье."
+  },
+  "faq": [
+    {
+      "question": "Are Rat Terriers good family pets?",
+      "answer": "Yes, they are loyal and affectionate with family members, making them excellent companions."
+    },
+    {
+      "question": "Do Rat Terriers get along with other pets?",
+      "answer": "They may be scrappy with other dogs and are not recommended around small pets due to their strong prey drive."
+    },
+    {
+      "question": "How much exercise do Rat Terriers need?",
+      "answer": "They have high energy levels and require daily exercise and mental stimulation to stay healthy and happy."
+    },
+    {
+      "question": "What is the lifespan of a Rat Terrier?",
+      "answer": "They typically live between 15 to 18 years."
+    },
+    {
+      "question": "Are Rat Terriers easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable with positive reinforcement methods."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли рэт-терьеры хорошими семейными питомцами?",
+      "ответ": "Да, они преданы и ласковы с членами семьи, что делает их отличными компаньонами."
+    },
+    {
+      "вопрос": "Ладят ли рэт-терьеры с другими животными?",
+      "ответ": "Они могут быть задиристыми с другими собаками и не рекомендуются для содержания с мелкими животными из-за сильного охотничьего инстинкта."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется рэт-терьерам?",
+      "ответ": "Они обладают высоким уровнем энергии и нуждаются в ежедневных физических нагрузках и умственной стимуляции для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни рэт-терьеров?",
+      "ответ": "Они обычно живут от 15 до 18 лет."
+    },
+    {
+      "вопрос": "Легко ли обучаются рэт-терьеры?",
+      "ответ": "Да, они умны и стремятся угодить, что делает их легко обучаемыми при использовании методов положительного подкрепления."
+    }
+  ],
+  "sources": [
+    "https://images.akc.org/judges/Rat_Terrier.pdf",
+    "https://www.ukcdogs.com/rat-terrier",
+    "https://www.akc.org/dog-breeds/rat-terrier/pictures",
+    "https://www.akc.org/content/entertainment/articles/6-things-you-didnt-know-about-the-rat-terrier/",
+    "https://vcahospitals.com/know-your-pet/dog-breeds/rat-terrier",
+    "https://www.akc.org/wp-content/uploads/2021/08/Rat-Terrier-Health-Statement.pdf"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "vizsla",
+  "name": "Vizsla",
+  "full_description": "<p>The Vizsla, also known as the Hungarian Vizsla or Magyar Vizsla, is a distinguished sporting dog breed originating from Hungary. Its lineage traces back over a thousand years to the Magyar tribes who valued these dogs for their exceptional hunting abilities. Historically, Vizslas were bred to be versatile hunters, adept at pointing and retrieving game both on land and in water. Their prominence grew in the 18th century, and despite facing near extinction during World War II, dedicated breeding efforts revived the breed, leading to its global recognition today. Physically, the Vizsla is a medium-sized dog characterized by a lean, muscular build that exudes elegance and agility. Males typically stand between 22 to 24 inches (56-61 cm) at the shoulder, while females range from 21 to 23 inches (53-58 cm). Their weight varies from 44 to 60 pounds (20-27 kg). The breed's short, dense coat is a striking golden rust color, providing excellent camouflage in the field. Their eyes and nose harmoniously blend with the coat, enhancing their noble appearance. Temperamentally, Vizslas are affectionate, intelligent, and energetic. They form strong bonds with their families and thrive on human companionship, often displaying a desire to be close to their owners. This breed is known for its gentle demeanor, making it suitable for families with children. However, their high energy levels necessitate regular physical and mental stimulation to prevent boredom and associated behavioral issues. Originally bred for hunting, Vizslas possess an innate ability to point and retrieve game, showcasing their versatility in the field. Their keen sense of smell and natural instincts make them excellent companions for hunters. In contemporary settings, they excel in various canine sports, including agility, obedience, and field trials, reflecting their adaptability and eagerness to please. Today, the Vizsla enjoys popularity not only as a hunting companion but also as a beloved family pet. Their friendly nature and manageable size make them well-suited for active households. Notable characteristics of the breed include their minimal grooming needs due to their short coat, their propensity to form deep emotional connections with their owners, and their remarkable versatility in both work and play.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "44-60 pounds (20-27 kg)",
+    "height": "21-24 inches (53-61 cm)",
+    "coat": "short, dense, golden rust color",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "minimal; occasional brushing",
+    "lifespan": "12-14 years"
+  },
+  "behavior": {
+    "summary": "Vizslas are affectionate, energetic, and intelligent dogs that form strong bonds with their families. They require regular physical and mental stimulation to stay happy and well-behaved.",
+    "with_family": "Vizslas are deeply loyal and thrive on close companionship with their family members, often seeking constant interaction and affection.",
+    "with_children": "They are gentle and patient with children, making them excellent family pets when properly socialized.",
+    "with_other_pets": "Generally friendly with other dogs and pets, especially when raised together, though early socialization is beneficial.",
+    "with_strangers": "Vizslas are typically friendly towards strangers but may exhibit a protective instinct, making them good watchdogs without being aggressive.",
+    "special_traits": [
+      "Highly energetic and requires ample exercise",
+      "Forms strong emotional bonds with owners",
+      "Intelligent and eager to please, facilitating training",
+      "Versatile in various canine sports and activities",
+      "Minimal grooming needs due to short coat"
+    ]
+  },
+  "health": {
+    "summary": "Vizslas are generally healthy dogs with a lifespan of 12-14 years. However, they can be prone to certain hereditary conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Epilepsy",
+      "Cancer (e.g., mast cell tumors, hemangiosarcoma)",
+      "Sebaceous adenitis",
+      "Hypothyroidism"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a balanced diet and healthy weight",
+      "Provide adequate exercise to support joint health",
+      "Early detection through routine health screenings",
+      "Responsible breeding practices to reduce hereditary risks"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "Vizslas require attentive care, including regular exercise, mental stimulation, and routine health maintenance to ensure their well-being.",
+    "behavior": "Due to their high energy levels, Vizslas need daily physical activities such as running, fetching, or agility training to prevent boredom and destructive behaviors.",
+    "health": "Regular veterinary visits and preventive care are essential to monitor and maintain their overall health, addressing any issues promptly.",
+    "grooming": "Their short coat requires minimal grooming; weekly brushing and occasional baths are sufficient to keep them clean and healthy.",
+    "nutrition": "A balanced diet tailored to their age, size, and activity level is crucial; consult with a veterinarian for specific dietary recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are Vizslas good for first-time dog owners?",
+      "answer": "Vizslas can be suitable for first-time owners who lead active lifestyles and are committed to providing regular exercise and training."
+    },
+    {
+      "question": "Do Vizslas get along with other pets?",
+      "answer": "Yes, with proper socialization, Vizslas can coexist well with other pets, including dogs and cats."
+    },
+    {
+      "question": "How much exercise does a Vizsla need?",
+      "answer": "Vizslas require at least an hour of vigorous exercise daily to meet their high energy needs."
+    },
+    {
+      "question": "Are Vizslas prone to separation anxiety?",
+      "answer": "Yes, they form strong bonds with their owners and may experience separation anxiety if left alone for extended periods."
+    },
+    {
+      "question": "What is the grooming routine for a Vizsla?",
+      "answer": "Their short coat requires minimal grooming; weekly brushing and occasional baths are sufficient."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/Vizsla",
+    "https://en.wikipedia.org/wiki/Vizsla",
+    "https://www.purina.com/dogs/dog-breeds/vizsla",
+    "https://www.petmd.com/dog/breeds/vizsla",
+    "https://www.dogbreedencyclopedia.com/breed/vizsla"
+  ]
+}

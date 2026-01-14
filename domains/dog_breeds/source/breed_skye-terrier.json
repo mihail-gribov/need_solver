@@ -1,0 +1,83 @@
+{
+  "id": "skye-terrier",
+  "name": "Skye Terrier",
+  "full_description": "<p>The Skye Terrier is a distinctive and elegant breed originating from Scotland's Isle of Skye over 400 years ago. Initially bred by farmers to control vermin, their long, low bodies and sturdy legs made them adept at navigating rocky terrains and burrowing into dens. Their double coat provided protection against harsh weather and underbrush. By the 19th century, the breed gained popularity among British nobility, notably Queen Victoria, who favored the prick-eared variety.</p>\n<p>Physically, Skye Terriers are characterized by their elongated bodies, measuring twice as long as they are tall. They possess a straight, hard topcoat and a soft undercoat, with hair veiling their forehead and eyes. Their ears can be either prick or drop, both types being equally acceptable. Common coat colors include fawn, dark or light silver-grey, and cream, all with black points on the ears, muzzle, and nose.</p>\n<p>Temperamentally, Skye Terriers are loyal, affectionate, and possess a strong-willed nature. They form deep bonds with their families and can be reserved around strangers. Their independent streak requires patient and consistent training. Historically, they were tenacious hunters, a trait that still influences their behavior today.</p>\n<p>Originally bred to hunt vermin, Skye Terriers were valued for their agility and determination. In modern times, they serve primarily as companion animals, though their rarity has led to concerns about the breed's survival. Efforts are ongoing to preserve this unique breed.</p>\n<p>Notable characteristics of the Skye Terrier include their distinctive appearance, unwavering loyalty, and historical significance. Their unique combination of elegance and tenacity makes them a cherished breed among enthusiasts.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "8.5-10.5 kg",
+    "height": "23-25 cm",
+    "coat": "long, straight, hard topcoat with a soft undercoat",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "weekly brushing; monthly bathing",
+    "lifespan": "12-14 years"
+  },
+  "behavior": {
+    "summary": "Skye Terriers are loyal, affectionate, and possess a strong-willed nature, forming deep bonds with their families while being reserved around strangers.",
+    "with_family": "They are deeply devoted to their families, often forming a particularly strong bond with one individual.",
+    "with_children": "With proper socialization, they can be good with children, though interactions should be supervised to ensure mutual respect.",
+    "with_other_pets": "Early socialization is crucial; they may be wary of unfamiliar animals due to their strong prey drive.",
+    "with_strangers": "Typically reserved around strangers, they may take time to warm up to new people.",
+    "special_traits": [
+      "Strong-willed and independent",
+      "Deeply loyal to family",
+      "Reserved with strangers",
+      "Moderate exercise needs",
+      "Requires consistent training"
+    ]
+  },
+  "health": {
+    "summary": "Skye Terriers are generally healthy but are prone to certain conditions, including orthopedic issues and specific cancers.",
+    "common_issues": [
+      "Intervertebral Disc Disease (IVDD)",
+      "Hip and Elbow Dysplasia",
+      "Hemangiosarcoma",
+      "Autoimmune diseases",
+      "Skin allergies"
+    ],
+    "prevention_tips": [
+      "Limit jumping and strenuous activity in puppies",
+      "Provide regular, moderate exercise",
+      "Maintain a healthy weight",
+      "Regular veterinary check-ups",
+      "Early socialization and training"
+    ],
+    "vet_checkups": "At least once a year; more frequent for seniors or if health issues arise."
+  },
+  "care": {
+    "description": "Skye Terriers require regular grooming, consistent training, and moderate exercise to maintain their health and well-being.",
+    "behavior": "Early socialization and consistent, positive reinforcement training are essential to manage their independent nature.",
+    "health": "Regular veterinary check-ups and preventive care are crucial to monitor and maintain their health.",
+    "grooming": "Weekly brushing and monthly bathing are recommended to keep their coat in good condition.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential; consult a veterinarian for specific recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are Skye Terriers good with children?",
+      "answer": "With proper socialization, they can be good with children; supervision is recommended."
+    },
+    {
+      "question": "How much exercise does a Skye Terrier need?",
+      "answer": "They require moderate exercise, such as daily walks and playtime."
+    },
+    {
+      "question": "Do Skye Terriers shed a lot?",
+      "answer": "They have a moderate shedding level; regular grooming helps manage it."
+    },
+    {
+      "question": "Are Skye Terriers easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "What is the lifespan of a Skye Terrier?",
+      "answer": "They typically live between 12 to 14 years."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/skye-terrier-history/",
+    "https://www.akc.org/dog-breeds/skye-terrier/pictures/",
+    "https://www.petmd.com/dog/breeds/skye-terrier",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-skye-terriers",
+    "https://en.wikipedia.org/wiki/Skye_Terrier"
+  ]
+}

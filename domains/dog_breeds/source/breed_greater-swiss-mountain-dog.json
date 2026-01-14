@@ -1,0 +1,86 @@
+{
+  "id": "greater-swiss-mountain-dog",
+  "name": "Greater Swiss Mountain Dog",
+  "full_description": "<p>The Greater Swiss Mountain Dog, affectionately known as the 'Swissy,' is a robust and versatile breed originating from the Swiss Alps. Developed as an all-purpose farm dog, the Swissy was utilized for herding livestock, guarding property, and pulling heavy carts, earning the nickname 'the poor man's horse' due to its strength and utility. This breed is considered one of the oldest in Switzerland, with ancestors believed to have been present for over 2,000 years. Physically, the Greater Swiss Mountain Dog is a large, heavy-boned canine with a sturdy and muscular build. Males typically stand between 25.5 to 28.5 inches at the shoulder, weighing 115 to 140 pounds, while females range from 23.5 to 27 inches and weigh between 85 to 110 pounds. They possess a distinctive tricolor coat—black with rust and white markings. The coat is short, dense, and double-layered, providing protection against harsh weather conditions. The breed's head is broad and flat, with medium-sized, almond-shaped eyes that exude an alert and friendly expression. Temperamentally, Swissies are known for their friendly, outgoing, and playful nature. They are deeply devoted to their families, displaying a strong affinity for people and children. Their sociable and confident demeanor makes them excellent companions, though they can be reserved with strangers, showcasing their natural watchdog instincts. Despite their size, they are agile and enjoy participating in various activities, reflecting their working heritage. Historically, the Greater Swiss Mountain Dog was bred for demanding tasks such as herding cattle, guarding farms, and pulling carts loaded with goods. Their strength and endurance made them invaluable in the mountainous regions of Switzerland. In modern times, while they continue to excel in working roles, they have also become cherished family pets. Their versatility allows them to participate in activities like obedience trials, agility, herding, and drafting competitions. Notable characteristics of the breed include their impressive physical strength, keen intelligence, and unwavering loyalty. They thrive on human companionship and are happiest when included in family activities. Their protective nature, combined with a gentle disposition, makes them both reliable watchdogs and affectionate companions.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: 115-140 pounds; Females: 85-110 pounds",
+    "height": "Males: 25.5-28.5 inches; Females: 23.5-27 inches",
+    "coat": "Short, dense, double-layered; tricolor (black with rust and white markings)",
+    "activity": "Moderate",
+    "trainability": "High",
+    "grooming": "Minimal; regular brushing to manage shedding",
+    "lifespan": "8-11 years"
+  },
+  "behavior": {
+    "summary": "The Greater Swiss Mountain Dog is a friendly, outgoing, and confident breed, known for its loyalty and affectionate nature towards family members. They are sociable and enjoy being involved in household activities, making them excellent companions.",
+    "with_family": "Swissies are deeply devoted to their families, often forming strong bonds with all members. They thrive on human interaction and prefer to be included in daily activities, displaying a gentle and affectionate demeanor.",
+    "with_children": "This breed is generally good with children, exhibiting patience and playfulness. Their sturdy build allows them to handle the energy of young ones, though supervision is recommended due to their large size.",
+    "with_other_pets": "Greater Swiss Mountain Dogs can coexist peacefully with other pets, especially when raised together. Early socialization is key to fostering positive relationships with other animals.",
+    "with_strangers": "While friendly, Swissies can be reserved around strangers, showcasing their natural protective instincts. Proper socialization helps them become more accepting of unfamiliar people.",
+    "special_traits": [
+      "Strong protective instincts",
+      "Affectionate and loyal",
+      "Enjoys being involved in family activities",
+      "Good with children",
+      "Sociable with proper socialization"
+    ]
+  },
+  "health": {
+    "summary": "The Greater Swiss Mountain Dog is generally a healthy breed but is predisposed to certain conditions common in large breeds. Regular veterinary care and preventive measures can help manage these health concerns.",
+    "common_issues": [
+      "Splenic torsion",
+      "Gastric dilatation-volvulus (bloat)",
+      "Hip and elbow dysplasia",
+      "Epilepsy",
+      "Eye conditions (e.g., distichiasis, entropion)"
+    ],
+    "prevention_tips": [
+      "Provide a balanced diet and maintain a healthy weight",
+      "Ensure regular exercise to promote joint health",
+      "Schedule routine veterinary check-ups",
+      "Monitor for signs of bloat and seek immediate veterinary care if symptoms arise",
+      "Consider preventive surgeries like gastropexy for bloat-prone individuals"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Caring for a Greater Swiss Mountain Dog involves regular exercise, minimal grooming, and attentive health monitoring to ensure a happy and healthy life.",
+    "behavior": "Swissies thrive on human companionship and enjoy participating in family activities. They require mental stimulation and benefit from having tasks or jobs to perform.",
+    "health": "Regular veterinary check-ups and preventive care are essential to monitor and manage potential health issues common in the breed.",
+    "grooming": "Their short, dense coat requires minimal grooming; regular brushing helps manage shedding and keeps the coat healthy.",
+    "nutrition": "A balanced diet appropriate for large breeds supports overall health; portion control is important to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Greater Swiss Mountain Dogs good with children?",
+      "answer": "Yes, they are known for their gentle and patient nature with children, making them excellent family pets."
+    },
+    {
+      "question": "How much exercise does a Greater Swiss Mountain Dog need?",
+      "answer": "They require moderate daily exercise, such as walks and playtime, to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Greater Swiss Mountain Dogs shed a lot?",
+      "answer": "They shed moderately year-round, with heavier shedding periods twice a year; regular brushing helps manage this."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable with consistent, positive reinforcement methods."
+    },
+    {
+      "question": "What is the average lifespan of a Greater Swiss Mountain Dog?",
+      "answer": "They typically live between 8 to 11 years."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Greater_Swiss_Mountain_Dog",
+    "https://www.webmd.com/pets/dogs/what-to-know-greater-swiss-mountain-dog",
+    "https://www.westminsterkennelclub.org/breeds/greater-swiss-mountain-dog",
+    "https://www.petmd.com/dog/breeds/greater-swiss-mountian-dog",
+    "https://www.purina.com/dogs/dog-breeds/greater-swiss-mountain-dog",
+    "https://www.akc.org/expert-advice/lifestyle/the-greater-swiss-mountain-dog/",
+    "https://www.gsmdcrswissy.com/health.html",
+    "https://www.petguide.com/breeds/dog/greater-swiss-mountain-dog/"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "bull-terrier",
+  "name": "Bull Terrier",
+  "name_rus": "Бультерьер",
+  "full_description": "<p>Бультерьер — порода собак, выведенная в Великобритании в XIX веке путем скрещивания бульдогов с терьерами. Первоначально предназначенные для собачьих боев и травли быков, эти собаки со временем стали популярными компаньонами благодаря своему уникальному внешнему виду и энергичному характеру. Бультерьеры обладают мускулистым телосложением и характерной головой в форме яйца с длинной, прямой мордой и стоячими ушами. Их шерсть короткая и гладкая, встречаются различные окрасы, включая белый, черный, рыжий и тигровый. В России бультерьеры приобрели популярность в 1990-х годах, однако из-за недостаточной социализации и неправильного воспитания некоторые владельцы сталкивались с проблемами в поведении собак. При правильном подходе бультерьеры становятся преданными и ласковыми членами семьи, хорошо ладящими с детьми и другими животными. Они требуют регулярных физических нагрузок и умственной стимуляции, а также ранней социализации и последовательной дрессировки. Уход за бультерьером несложен: достаточно еженедельного вычесывания шерсти, регулярной чистки зубов и ушей, а также контроля за состоянием когтей. Важно следить за здоровьем питомца, так как порода предрасположена к некоторым генетическим заболеваниям, включая глухоту, кожные проблемы и заболевания сердца. Регулярные визиты к ветеринару и сбалансированное питание помогут поддерживать здоровье бультерьера на высоком уровне.</p>",
+  "full_description_rus": "<p>Бультерьер — порода собак, выведенная в Великобритании в XIX веке путем скрещивания бульдогов с терьерами. Первоначально предназначенные для собачьих боев и травли быков, эти собаки со временем стали популярными компаньонами благодаря своему уникальному внешнему виду и энергичному характеру. Бультерьеры обладают мускулистым телосложением и характерной головой в форме яйца с длинной, прямой мордой и стоячими ушами. Их шерсть короткая и гладкая, встречаются различные окрасы, включая белый, черный, рыжий и тигровый. В России бультерьеры приобрели популярность в 1990-х годах, однако из-за недостаточной социализации и неправильного воспитания некоторые владельцы сталкивались с проблемами в поведении собак. При правильном подходе бультерьеры становятся преданными и ласковыми членами семьи, хорошо ладящими с детьми и другими животными. Они требуют регулярных физических нагрузок и умственной стимуляции, а также ранней социализации и последовательной дрессировки. Уход за бультерьером несложен: достаточно еженедельного вычесывания шерсти, регулярной чистки зубов и ушей, а также контроля за состоянием когтей. Важно следить за здоровьем питомца, так как порода предрасположена к некоторым генетическим заболеваниям, включая глухоту, кожные проблемы и заболевания сердца. Регулярные визиты к ветеринару и сбалансированное питание помогут поддерживать здоровье бультерьера на высоком уровне.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "varies; no specific weight limit",
+    "height": "varies; no specific height limit",
+    "coat": "short, flat, harsh to touch",
+    "activity": "high",
+    "trainability": "moderate; can be stubborn",
+    "grooming": "minimal; weekly brushing",
+    "lifespan": "over 10 years"
+  },
+  "parameters_rus": {
+    "size": "средний",
+    "weight": "23–32 кг",
+    "height": "53–56 см",
+    "coat": "короткая, гладкая, плотная",
+    "activity": "высокая",
+    "trainability": "умеренная; может быть упрямым",
+    "grooming": "минимальный; еженедельное вычесывание",
+    "lifespan": "10–12 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Distinctive egg-shaped head",
+      "High energy and playfulness",
+      "Strong-willed and independent",
+      "Affectionate with family",
+      "Requires consistent training"
+    ],
+    "summary": "Bull Terriers are energetic, playful, and affectionate dogs known for their distinctive appearance and strong personality. They thrive on human companionship and require consistent training and socialization.",
+    "with_children": "Bull Terriers can be good with children, especially when raised together. However, their high energy levels may be overwhelming for very young children.",
+    "with_family": "They are loyal and devoted to their families, often forming strong bonds with all members. Their affectionate nature makes them excellent companions.",
+    "with_other_pets": "Early socialization is crucial. They may exhibit dominance towards other dogs and have a high prey drive, making interactions with smaller pets challenging.",
+    "with_strangers": "Generally friendly towards strangers, though they can be protective of their family and home. Proper socialization helps ensure balanced behavior."
+  },
+  "behavior_rus": {
+    "summary": "Бультерьеры — энергичные, игривые и ласковые собаки, известные своим уникальным внешним видом и сильным характером. Они нуждаются в постоянном общении с людьми и требуют последовательной дрессировки и социализации.",
+    "with_family": "Они преданы и привязаны к своей семье, часто устанавливая крепкие связи со всеми членами. Их ласковая натура делает их отличными компаньонами.",
+    "with_children": "Бультерьеры могут хорошо ладить с детьми, особенно если растут вместе. Однако их высокая энергия может быть чрезмерной для очень маленьких детей.",
+    "with_other_pets": "Ранняя социализация имеет решающее значение. Они могут проявлять доминирование по отношению к другим собакам и имеют высокий охотничий инстинкт, что может усложнить взаимодействие с мелкими животными.",
+    "with_strangers": "Обычно дружелюбны к незнакомцам, хотя могут быть защитниками своей семьи и дома. Правильная социализация помогает обеспечить сбалансированное поведение.",
+    "special_traits": [
+      "Характерная голова в форме яйца",
+      "Высокая энергия и игривость",
+      "Сильная воля и независимость",
+      "Ласковость с семьей",
+      "Требует последовательной дрессировки"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Deafness, particularly in white-coated individuals",
+      "Heart conditions",
+      "Kidney issues",
+      "Skin allergies",
+      "Patellar luxation"
+    ],
+    "prevention_tips": [
+      "Regular health screenings",
+      "Maintain a balanced diet",
+      "Provide adequate exercise",
+      "Regular grooming to monitor skin health",
+      "Early socialization and training"
+    ],
+    "summary": "Bull Terriers are generally healthy but can be prone to certain genetic conditions. Regular veterinary care and responsible breeding practices are essential to maintain their well-being.",
+    "vet_checkups": "At least once a year; more frequent for seniors or those with health issues"
+  },
+  "health_rus": {
+    "summary": "Бультерьеры в целом здоровы, но могут быть склонны к некоторым генетическим заболеваниям. Регулярный ветеринарный уход и ответственные методы разведения необходимы для поддержания их благополучия.",
+    "common_issues": [
+      "Глухота, особенно у белых особей",
+      "Заболевания сердца",
+      "Проблемы с почками",
+      "Кожные аллергии",
+      "Вывих коленной чашечки"
+    ],
+    "prevention_tips": [
+      "Регулярные медицинские осмотры",
+      "Сбалансированное питание",
+      "Достаточные физические нагрузки",
+      "Регулярный уход за шерстью для контроля состояния кожи",
+      "Ранняя социализация и дрессировка"
+    ],
+    "vet_checkups": "Не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "behavior": "Early socialization and firm, consistent training are essential to manage their strong-willed nature and ensure good behavior.",
+    "description": "Bull Terriers require attentive care, including regular exercise, consistent training, and routine health checkups to ensure a happy and healthy life.",
+    "grooming": "Minimal grooming is needed; weekly brushing helps maintain coat health and monitor for skin issues.",
+    "health": "Regular veterinary visits and health screenings help detect and manage potential genetic conditions common in the breed.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level supports overall health and energy needs."
+  },
+  "care_rus": {
+    "description": "Бультерьеры требуют внимательного ухода, включая регулярные физические нагрузки, последовательную дрессировку и плановые медицинские осмотры для обеспечения счастливой и здоровой жизни.",
+    "behavior": "Ранняя социализация и твердая, последовательная дрессировка необходимы для управления их сильной волей и обеспечения хорошего поведения.",
+    "health": "Регулярные визиты к ветеринару и медицинские осмотры помогают выявлять и управлять потенциальными генетическими заболеваниями, распространенными в породе.",
+    "grooming": "Минимальный уход; еженедельное вычесывание помогает поддерживать здоровье шерсти и контролировать состояние кожи.",
+    "nutrition": "Сбалансированное питание, соответствующее их возрасту, размеру и уровню активности, поддерживает общее здоровье и энергетические потребности."
+  },
+  "faq": [
+    {
+      "question": "Are Bull Terriers good with children?",
+      "answer": "Yes, with proper training and socialization, they can be good companions for children."
+    },
+    {
+      "question": "Do Bull Terriers require a lot of exercise?",
+      "answer": "Yes, they are energetic and need regular exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Bull Terriers easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training is recommended."
+    },
+    {
+      "question": "Do Bull Terriers get along with other pets?",
+      "answer": "Early socialization is key; they may show dominance towards other dogs and have a high prey drive."
+    },
+    {
+      "question": "What is the lifespan of a Bull Terrier?",
+      "answer": "They typically live over 10 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Бультерьеры хорошо ладят с детьми?",
+      "answer": "Да, при правильной дрессировке и социализации они могут быть хорошими компаньонами для детей."
+    },
+    {
+      "question": "Требуют ли бультерьеры много физических нагрузок?",
+      "answer": "Да, они энергичны и нуждаются в регулярных физических нагрузках для поддержания здоровья и счастья."
+    },
+    {
+      "question": "Легко ли дрессировать бультерьеров?",
+      "answer": "Они умны, но могут быть упрямыми; рекомендуется последовательная дрессировка с положительным подкреплением."
+    },
+    {
+      "question": "Ладят ли бультерьеры с другими животными?",
+      "answer": "Ранняя социализация имеет решающее значение; они могут проявлять доминирование по отношению к другим собакам и имеют высокий охотничий инстинкт."
+    },
+    {
+      "question": "Какова продолжительность жизни бультерьера?",
+      "answer": "При надлежащем уходе они обычно живут более 10 лет."
+    }
+  ],
+  "sources": [
+    "https://www.hillspet.ru/dog-care/dog-breeds/bull-terrier",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/bull_terrier",
+    "https://www.proplan.ru/dog/breeds/bulterer/",
+    "https://www.pedigree.ru/porody/bulterier",
+    "https://royalcanin.ru/dog-breed/bull-terrier",
+    "https://www.rbc.ru/life/news/665f1a3b9a79475bc3a12744",
+    "https://www.kleo.ru/items/house/poroda-sobak-bulterer.shtml",
+    "https://lapki.pet/info/dogs/english-bull-terrier.html",
+    "https://breeds-info.ru/dogs/breed/bulterer",
+    "https://www.belanta.vet/vet-blog/bulterer/"
+  ]
+}

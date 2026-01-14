@@ -1,0 +1,88 @@
+{
+  "id": "beauceron",
+  "name": "Beauceron",
+  "full_description": "<p>The Beauceron, also known as the Berger de Beauce or Bas Rouge, is a distinguished French herding breed with a rich history dating back to the 16th century. Originating from the plains of central France, this breed was developed to herd and guard large flocks of sheep and cattle, showcasing remarkable endurance and versatility.</p>\n<p>Physically, the Beauceron is a large, muscular dog standing between 24 to 27 inches at the shoulder and weighing approximately 70 to 100 pounds. They possess a short, dense double coat that is predominantly black with tan markings, often referred to as 'red stockings' due to the distinctive tan coloration on their legs. Some individuals exhibit a harlequin pattern, characterized by a black and tan base with blue-gray patches. A notable feature of the breed is the presence of double dewclaws on each rear leg, a trait required for show standards.</p>\n<p>Temperamentally, Beaucerons are intelligent, loyal, and protective. They are known for their calm demeanor and unwavering confidence, making them excellent guard dogs. While they are affectionate with their families, they can be reserved around strangers. Early socialization and consistent training are essential to harness their strong will and ensure they develop into well-mannered companions.</p>\n<p>Historically, Beaucerons were bred for their herding and guarding capabilities, adept at managing large herds and protecting them from predators. Their versatility has also seen them employed in military and police roles, particularly during World War II, where they served as messengers and mine detectors. In contemporary settings, they participate in various canine sports, including obedience, agility, and tracking, and are valued as loyal family companions.</p>\n<p>Notable characteristics of the Beauceron include their high energy levels, requiring substantial daily exercise to maintain physical and mental health. Their short coat is relatively low-maintenance, necessitating regular brushing to manage shedding. Prospective owners should be prepared for an active lifestyle and provide ample opportunities for the dog to engage in meaningful activities.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "70-100 pounds",
+    "height": "24-27 inches",
+    "coat": "short, dense double coat; black and tan or harlequin pattern",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; minimal bathing",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "Beaucerons are intelligent, loyal, and protective dogs with a calm demeanor and high energy levels.",
+    "with_family": "Affectionate and devoted to family members, forming strong bonds and often acting as guardians.",
+    "with_children": "Generally patient and gentle with children, especially when raised together; supervision is recommended due to their size and energy.",
+    "with_other_pets": "Can coexist with other pets if properly socialized; may exhibit herding behavior towards smaller animals.",
+    "with_strangers": "Reserved and cautious around strangers; early socialization helps in developing appropriate interactions.",
+    "special_traits": [
+      "High intelligence and trainability",
+      "Strong protective instincts",
+      "High energy and endurance",
+      "Requires consistent leadership",
+      "Prone to herding behavior"
+    ]
+  },
+  "health": {
+    "summary": "Beaucerons are generally healthy but can be prone to certain genetic conditions; regular veterinary care is essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Gastric dilatation-volvulus (bloat)",
+      "Allergies",
+      "Eye problems (e.g., progressive retinal atrophy)"
+    ],
+    "prevention_tips": [
+      "Provide a balanced diet and regular exercise",
+      "Monitor for signs of bloat and seek immediate veterinary care if symptoms arise",
+      "Regular grooming to check for skin issues",
+      "Routine eye examinations"
+    ],
+    "vet_checkups": "At least once a year for wellness exams; more frequent visits as needed based on health status."
+  },
+  "care": {
+    "description": "Beaucerons require consistent training, ample exercise, and regular grooming to maintain their health and well-being.",
+    "behavior": "Early socialization and obedience training are crucial to manage their strong will and protective instincts.",
+    "health": "Maintain a healthy weight through diet and exercise; be vigilant for signs of common health issues.",
+    "grooming": "Brush weekly to manage shedding; bathe as needed; regular ear cleaning and nail trimming are important.",
+    "nutrition": "Provide a high-quality diet appropriate for their age, size, and activity level; monitor for food allergies."
+  },
+  "faq": [
+    {
+      "question": "Are Beaucerons good family dogs?",
+      "answer": "Yes, with proper training and socialization, they are loyal and protective family companions."
+    },
+    {
+      "question": "How much exercise does a Beauceron need?",
+      "answer": "They require at least one to two hours of daily exercise to stay healthy and content."
+    },
+    {
+      "question": "Do Beaucerons get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, though they may exhibit herding behavior."
+    },
+    {
+      "question": "Are Beaucerons easy to train?",
+      "answer": "Yes, they are intelligent and eager to please but require consistent, firm training."
+    },
+    {
+      "question": "What are common health issues in Beaucerons?",
+      "answer": "They can be prone to hip dysplasia, bloat, allergies, and certain eye conditions."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/beauceron",
+    "https://en.wikipedia.org/wiki/Beauceron",
+    "https://www.purina.com/dogs/dog-breeds/beauceron-dog-breed",
+    "https://www.westminsterkennelclub.org/breed/beauceron/",
+    "https://www.petplace.com/article/breed/beauceron",
+    "https://www.wisdompanel.com/en-us/dog-breeds/beauceron",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-beaucerons",
+    "https://dogtime.com/dog-breeds/beauceron",
+    "https://www.petpedia.co/dog-breeds/beauceron",
+    "https://vcahospitals.com/know-your-pet/beauceron",
+    "https://dogacademy.org/breeds/beauceron",
+    "https://beauce.org/wp-content/uploads/PDFs/beauceron-breed-standard-illustrated.pdf"
+  ]
+}

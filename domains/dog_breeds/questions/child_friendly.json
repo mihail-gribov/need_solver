@@ -1,0 +1,84 @@
+{
+  "need_id": "child_friendly",
+  "formula": "child_friendly",
+  "formula_reasoning": "The 'child_friendly' feature directly reflects a breed's safety and comfort with children, which is the core need. Using this feature alone ensures breeds recommended are known to be reliable and appropriate for families with children.",
+  "questions": [
+    {
+      "id": "child_friendly_q1",
+      "text": "В вашей семье есть дети младше 12 лет, которые будут общаться с собакой?",
+      "weight": 1.0,
+      "style": "direct",
+      "verification": "Да = собака будет контактировать с детьми, нужен дружелюбный к детям питомец. Нет = детей нет, фактор неважен."
+    },
+    {
+      "id": "child_friendly_q2",
+      "text": "Планируете ли вы, чтобы собака часто взаимодействовала с детьми — вашими или гостями?",
+      "weight": 0.9,
+      "style": "situational",
+      "verification": "Да = собака будет часто контактировать с детьми. Нет = не будет, фактор неважен."
+    },
+    {
+      "id": "child_friendly_q3",
+      "text": "У ваших близких друзей или родственников есть маленькие дети, которые могут приходить к вам домой?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = дети будут регулярно в контакте с собакой. Нет = маловероятно, что собака встретится с детьми."
+    },
+    {
+      "id": "child_friendly_q4",
+      "text": "Хотели бы вы, чтобы собака могла спокойно играть с детьми без постоянного присмотра?",
+      "weight": 0.7,
+      "style": "preference-based",
+      "verification": "Да = нужен спокойный к детям питомец. Нет = неважно, фактор не требуется."
+    },
+    {
+      "id": "child_friendly_q5",
+      "text": "Планируете ли вы завести собаку в семью, где возможно появление детей в ближайшие годы?",
+      "weight": 0.6,
+      "style": "situational",
+      "verification": "Да = нужно учесть перспективу появления детей. Нет = дети не планируются, фактор неважен."
+    }
+  ],
+  "need_name": "Child Friendly",
+  "need_description": "Safe and comfortable with children",
+  "block": "family_social",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "id": "mastiff",
+  "name": "Mastiff",
+  "name_rus": "Мастиф",
+  "full_description": "<p>The Mastiff, also known as the English Mastiff, is a British breed renowned for its immense size and gentle temperament. Originating from ancient breeds like the Alaunt and Pugnaces Britanniae, the Mastiff's lineage was further refined in the 19th century with the Alpine Mastiff's influence. Historically, these dogs served as guardians and war dogs, valued for their strength and loyalty.</p>\n<p>Physically, Mastiffs are among the largest dog breeds, with males typically weighing between 150 to 230 pounds and standing up to 36 inches tall at the shoulder. They possess a massive, square-shaped head, broad skull, and a short, dense coat that comes in colors such as apricot, fawn, or brindle, always accompanied by a distinctive black mask. Their deep-set eyes and drooping jowls contribute to their characteristic expression.</p>\n<p>Despite their formidable appearance, Mastiffs are known for their gentle and affectionate nature. They are loyal to their families, often forming strong bonds with children and other pets. Their calm demeanor makes them excellent companions, though they can be reserved around strangers, displaying a protective instinct without unnecessary aggression.</p>\n<p>Originally bred for guarding estates and participating in battles, Mastiffs have a history of being both protectors and companions. Their imposing presence served as a deterrent to intruders, while their loyalty made them cherished family members.</p>\n<p>In modern times, Mastiffs are primarily kept as family pets and show dogs. Their popularity has grown worldwide, appreciated for their gentle disposition and protective nature. However, potential owners should be prepared for the responsibilities that come with such a large breed, including space requirements and health considerations.</p>\n<p>Notable characteristics of the Mastiff include their massive size, gentle temperament, and protective instincts. They are known to drool significantly, and their short coat requires regular grooming to manage shedding. Due to their size, they have a relatively short lifespan and are prone to certain health issues, necessitating attentive care and regular veterinary check-ups.</p>",
+  "full_description_rus": "<p>Мастиф, также известный как английский мастиф, — британская порода, прославившаяся своими огромными размерами и спокойным нравом. Происходя от древних пород, таких как алаунт и пугнаций британии, мастифы были дополнительно усовершенствованы в XIX веке с влиянием альпийского мастифа. Исторически эти собаки служили стражами и боевыми собаками, ценимыми за свою силу и преданность.</p>\n<p>Физически мастифы относятся к числу самых крупных пород собак: кобели обычно весят от 75 до 104 кг и достигают роста до 91 см в холке. У них массивная, квадратная голова, широкий череп и короткая, плотная шерсть, окрасы которой включают абрикосовый, палевый или тигровый, всегда сопровождающиеся характерной черной маской. Глубоко посаженные глаза и свисающие брыли придают им узнаваемое выражение.</p>\n<p>Несмотря на грозный внешний вид, мастифы известны своим нежным и ласковым характером. Они преданы своим семьям, часто устанавливая крепкие связи с детьми и другими домашними животными. Их спокойный нрав делает их отличными компаньонами, хотя они могут быть сдержанными с незнакомцами, проявляя защитные инстинкты без излишней агрессии.</p>\n<p>Изначально выведенные для охраны поместий и участия в сражениях, мастифы имеют историю как защитников, так и компаньонов. Их внушительное присутствие служило сдерживающим фактором для злоумышленников, а преданность делала их ценными членами семьи.</p>\n<p>В современное время мастифы в основном содержатся как семейные питомцы и выставочные собаки. Их популярность выросла во всем мире благодаря их нежному нраву и защитным качествам. Однако потенциальные владельцы должны быть готовы к ответственности, связанной с содержанием такой крупной породы, включая требования к пространству и особенности здоровья.</p>\n<p>Ключевые характеристики мастифа включают его огромные размеры, нежный темперамент и защитные инстинкты. Они известны обильным слюноотделением, а их короткая шерсть требует регулярного ухода для контроля линьки. Из-за своих размеров они имеют относительно короткую продолжительность жизни и склонны к определенным проблемам со здоровьем, что требует внимательного ухода и регулярных визитов к ветеринару.</p>",
+  "parameters": {
+    "size": "giant",
+    "weight": "150-230 pounds",
+    "height": "up to 36 inches at the shoulder",
+    "coat": "short, dense, colors include apricot, fawn, or brindle with a black mask",
+    "activity": "moderate",
+    "trainability": "moderate; responds well to positive reinforcement",
+    "grooming": "weekly brushing; regular cleaning of facial wrinkles",
+    "lifespan": "6-10 years"
+  },
+  "parameters_rus": {
+    "размер": "гигантский",
+    "вес": "75-104 кг",
+    "рост": "до 91 см в холке",
+    "шерсть": "короткая, плотная; окрасы: абрикосовый, палевый или тигровый с черной маской",
+    "активность": "умеренная",
+    "обучаемость": "умеренная; хорошо реагирует на положительное подкрепление",
+    "уход": "еженедельное расчесывание; регулярная чистка складок на лице",
+    "продолжительность жизни": "6-10 лет"
+  },
+  "behavior": {
+    "summary": "Mastiffs are gentle giants, known for their loyalty and protective nature. They form strong bonds with their families and are generally calm and affectionate.",
+    "with_family": "Highly devoted and affectionate, Mastiffs thrive on companionship and enjoy being part of family activities.",
+    "with_children": "Patient and gentle, they are typically good with children, often acting as protective guardians.",
+    "with_other_pets": "Generally tolerant, especially when raised together, but early socialization is important to ensure harmonious relationships.",
+    "with_strangers": "Reserved and watchful, they may be cautious around unfamiliar people, displaying protective instincts without aggression.",
+    "special_traits": [
+      "Gentle and affectionate",
+      "Protective without unnecessary aggression",
+      "Loyal and devoted to family",
+      "Patient with children",
+      "Reserved around strangers"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Мастифы — нежные гиганты, известные своей преданностью и защитным характером. Они устанавливают крепкие связи со своими семьями и обычно спокойны и ласковы.",
+    "с семьёй": "Очень преданы и ласковы, мастифы процветают в компании и любят участвовать в семейных мероприятиях.",
+    "с детьми": "Терпеливы и нежны, обычно хорошо ладят с детьми, часто выступая в роли защитников.",
+    "с другими животными": "В целом терпимы, особенно если выросли вместе, но ранняя социализация важна для гармоничных отношений.",
+    "с незнакомцами": "Сдержанны и бдительны, могут быть осторожны с незнакомыми людьми, проявляя защитные инстинкты без агрессии.",
+    "особые черты": [
+      "Нежные и ласковые",
+      "Защитные без излишней агрессии",
+      "Преданы и привязаны к семье",
+      "Терпеливы с детьми",
+      "Сдержанны с незнакомцами"
+    ]
+  },
+  "health": {
+    "summary": "Mastiffs are prone to several health issues common in large breeds, including joint problems and heart conditions. Regular veterinary care and a healthy lifestyle are essential.",
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Gastric dilatation-volvulus (bloat)",
+      "Heart disease (e.g., dilated cardiomyopathy)",
+      "Obesity",
+      "Eye conditions (e.g., entropion, ectropion)"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce joint stress",
+      "Feed multiple small meals daily to prevent bloat",
+      "Provide regular, moderate exercise",
+      "Regular grooming to prevent skin infections",
+      "Routine veterinary check-ups for early detection of issues"
+    ],
+    "vet_checkups": "At least twice a year, with additional visits as needed for specific health concerns"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Мастифы склонны к ряду проблем со здоровьем, характерных для крупных пород, включая заболевания суставов и сердца. Регулярный ветеринарный уход и здоровый образ жизни необходимы.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренных и локтевых суставов",
+      "Синдром заворота желудка (вздутие)",
+      "Сердечные заболевания (например, дилатационная кардиомиопатия)",
+      "Ожирение",
+      "Глазные заболевания (например, энтропион, эктропион)"
+    ],
+    "советы по профилактике": [
+      "Поддерживайте здоровый вес для снижения нагрузки на суставы",
+      "Кормите небольшими порциями несколько раз в день для предотвращения вздутия",
+      "Обеспечивайте регулярные, умеренные физические нагрузки",
+      "Регулярный уход за шерстью для предотвращения кожных инфекций",
+      "Плановые визиты к ветеринару для раннего выявления проблем"
+    ],
+    "рекомендуемые осмотры": "Не менее двух раз в год, с дополнительными визитами при необходимости для конкретных проблем со здоровьем"
+  },
+  "care": {
+    "description": "Caring for a Mastiff involves managing their size-related needs, ensuring regular health monitoring, and providing consistent training and socialization.",
+    "behavior": "Early socialization and consistent, positive reinforcement training are crucial to manage their protective instincts and ensure well-mannered behavior.",
+    "health": "Regular veterinary check-ups, a balanced diet, and appropriate exercise are key to maintaining their health and preventing common issues.",
+    "grooming": "Weekly brushing and regular cleaning of facial wrinkles are necessary to maintain skin health and manage shedding.",
+    "nutrition": "High-quality, large-breed dog food with controlled portions to prevent obesity and reduce the risk of bloat."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Уход за мастифом включает в себя управление потребностями, связанными с их размерами, регулярный контроль здоровья и обеспечение последовательной дрессировки и социализации.",
+    "поведение и характер": "Ранняя социализация и последовательная дрессировка с положительным подкреплением необходимы для управления их защитными инстинктами и обеспечения хорошего поведения.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару, сбалансированное питание и соответствующие физические нагрузки важны для поддержания их здоровья и предотвращения распространённых проблем.",
+    "груминг и уход": "Еженедельное расчесывание и регулярная чистка складок на лице необходимы для поддержания здоровья кожи и контроля линьки.",
+    "питание и активность": "Кормление высококачественным кормом для крупных пород с контролем порций для предотвращения ожирения и снижения риска вздутия."
+  },
+  "faq": [
+    {
+      "question": "Are Mastiffs good with children?",
+      "answer": "Yes, Mastiffs are known for their gentle and patient nature, making them excellent companions for children."
+    },
+    {
+      "question": "How much exercise does a Mastiff need?",
+      "answer": "Moderate daily exercise, such as short walks and playtime, is sufficient to keep a Mastiff healthy and content."
+    },
+    {
+      "question": "Do Mastiffs require a lot of grooming?",
+      "answer": "Their short coat requires weekly brushing, but regular cleaning of facial wrinkles is important to prevent infections."
+    },
+    {
+      "question": "What is the average lifespan of a Mastiff?",
+      "answer": "Mastiffs typically live between 6 to 10 years."
+    },
+    {
+      "question": "Are Mastiffs prone to health issues?",
+      "answer": "Yes, they are susceptible to conditions like hip dysplasia, bloat, and heart disease, necessitating regular veterinary care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Хорошо ли мастифы ладят с детьми?",
+      "ответ": "Да, мастифы известны своим нежным и терпеливым характером, что делает их отличными компаньонами для детей."
+    },
+    {
+      "вопрос": "Сколько физической активности требуется мастифу?",
+      "ответ": "Умеренные ежедневные нагрузки, такие как короткие прогулки и игры, достаточны для поддержания здоровья и удовлетворения мастифа."
+    },
+    {
+      "вопрос": "Требуют ли мастифы много ухода за шерстью?",
+      "ответ": "Их короткая шерсть требует еженедельного расчесывания, но регулярная чистка складок на лице важна для предотвращения инфекций."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни мастифа?",
+      "ответ": "Мастифы обычно живут от 6 до 10 лет."
+    },
+    {
+      "вопрос": "Склонны ли мастифы к проблемам со здоровьем?",
+      "ответ": "Да, они подвержены таким заболеваниям, как дисплазия суставов, вздутие и сердечные болезни, что требует регулярного ветеринарного ухода."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/mastiff",
+    "https://dogacademy.org/breeds/english-mastiff",
+    "https://www.caninely.com/english-mastiff/",
+    "https://articles.hepper.com/english-mastiff-pros-cons/",
+    "https://www.webmd.com/pets/dogs/what-to-know-mastiffs",
+    "https://www.dialavet.com/blog/english-mastiff-breed-guide-health-tips-and-vet-advice",
+    "https://pawplanning.com/dogs/english-mastiff/english-mastiff-lifespan/",
+    "https://www.dialavet.com/blog/english-mastiff",
+    "https://www.nahf.org/article/mastiffs",
+    "https://spotpet.com/breeds/dog-breeds/english-mastiff"
+  ]
+}

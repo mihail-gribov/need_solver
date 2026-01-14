@@ -1,0 +1,81 @@
+{
+  "id": "greyhound",
+  "name": "Greyhound",
+  "full_description": "<p>The Greyhound is one of the oldest and most revered dog breeds, with a lineage tracing back to ancient Egypt, where depictions of similar dogs adorn tomb walls. These sighthounds were prized for their speed and hunting prowess, qualities that led to their spread across Europe. In medieval Britain, Greyhounds were so esteemed that laws restricted their ownership to royalty and nobility. Physically, Greyhounds are characterized by their sleek, aerodynamic build. They possess a long, narrow head with a flat skull and slight stop, complemented by small, rose-shaped ears. Their eyes are bright and intelligent, set obliquely, and preferably dark. The neck is long and muscular, leading to well-laid shoulders and a deep, capacious chest. Their back is broad and slightly arched over the loin, with powerful hindquarters and a long, tapering tail. The coat is fine and close, coming in colors such as black, white, red, blue, fawn, brindle, or combinations thereof. Temperamentally, Greyhounds are intelligent, gentle, and affectionate. They exhibit a calm demeanor indoors, often content to lounge, yet they possess remarkable stamina and endurance. Originally bred for hunting by sight, Greyhounds excelled in chasing game over open terrain. Today, while some still participate in lure coursing and racing, many serve as beloved companions, appreciated for their gentle nature and minimal grooming needs. Notable characteristics include their exceptional speed, reaching up to 40 miles per hour, and their independent yet affectionate disposition.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "60-70 pounds",
+    "height": "27-30 inches",
+    "coat": "short, fine, and close",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "minimal; weekly brushing",
+    "lifespan": "over 10 years"
+  },
+  "behavior": {
+    "summary": "Greyhounds are gentle, intelligent, and affectionate dogs with a calm demeanor indoors and a strong prey drive outdoors.",
+    "with_family": "They form strong bonds with their families, often displaying affectionate and loyal behavior.",
+    "with_children": "Generally good with children, especially when socialized early, but interactions should be supervised due to their sensitive nature.",
+    "with_other_pets": "Their high prey drive may pose challenges with smaller pets; early socialization is crucial.",
+    "with_strangers": "Typically reserved around strangers but not aggressive, warming up with time.",
+    "special_traits": [
+      "Exceptional speed and agility",
+      "Independent yet affectionate",
+      "Minimal grooming requirements",
+      "Sensitive to extreme temperatures",
+      "Strong prey drive"
+    ]
+  },
+  "health": {
+    "summary": "Greyhounds are generally healthy but have specific considerations due to their unique physiology.",
+    "common_issues": [
+      "Bloat (gastric torsion)",
+      "Osteosarcoma (bone cancer)",
+      "Hypothyroidism",
+      "Heart murmurs",
+      "Anesthesia sensitivity"
+    ],
+    "prevention_tips": [
+      "Feed smaller, frequent meals to reduce bloat risk",
+      "Regular veterinary check-ups",
+      "Monitor for signs of lameness or discomfort",
+      "Maintain a healthy weight",
+      "Use caution with anesthesia; inform vet of breed sensitivity"
+    ],
+    "vet_checkups": "Annually, or more frequently as needed"
+  },
+  "care": {
+    "description": "Greyhounds require moderate exercise, minimal grooming, and are sensitive to temperature extremes.",
+    "behavior": "Provide regular opportunities for safe, off-leash running in enclosed areas to satisfy their exercise needs.",
+    "health": "Be vigilant for signs of bloat and other breed-specific health issues; consult a veterinarian promptly if concerns arise.",
+    "grooming": "Weekly brushing is sufficient to maintain their short coat; baths as needed.",
+    "nutrition": "Feed a balanced diet appropriate for their size and activity level; avoid feeding immediately before or after exercise to reduce bloat risk."
+  },
+  "faq": [
+    {
+      "question": "Are Greyhounds good apartment dogs?",
+      "answer": "Yes, their calm indoor demeanor makes them suitable for apartment living, provided they receive regular exercise."
+    },
+    {
+      "question": "Do Greyhounds require a lot of exercise?",
+      "answer": "They enjoy daily walks and occasional sprints but are generally content with moderate exercise."
+    },
+    {
+      "question": "Are Greyhounds good with other dogs?",
+      "answer": "They can get along well with other dogs, especially when socialized early, but caution is advised with smaller animals due to their prey drive."
+    },
+    {
+      "question": "Do Greyhounds shed a lot?",
+      "answer": "They have minimal shedding due to their short, fine coat."
+    },
+    {
+      "question": "Are Greyhounds easy to train?",
+      "answer": "They are intelligent but can be independent; consistent, positive reinforcement methods work best."
+    }
+  ],
+  "sources": [
+    "https://www.thekennelclub.org.uk/breed-standards/hound/greyhound/",
+    "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/hound/greyhound/",
+    "https://www.akc.org/expert-advice/dog-breeds/greyhound-right-for-you/"
+  ]
+}

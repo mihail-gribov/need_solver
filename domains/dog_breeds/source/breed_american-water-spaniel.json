@@ -1,0 +1,86 @@
+{
+  "id": "american-water-spaniel",
+  "name": "American Water Spaniel",
+  "full_description": "<p>The American Water Spaniel (AWS) is a versatile and energetic breed developed in the United States during the 19th century, primarily in the Midwest regions along the Fox and Wolf Rivers in Wisconsin. Hunters sought a compact, all-around hunting dog capable of retrieving game from both land and water, even in challenging conditions. The AWS was likely developed from a mix of breeds, including the Irish Water Spaniel, English Water Spaniel, Curly-Coated Retriever, and possibly native Indian dogs. Official recognition came from the United Kennel Club in 1920 and the American Kennel Club in 1940. Physically, the AWS is a medium-sized, muscular dog standing between 15 to 18 inches (38 to 45 cm) tall and weighing 25 to 45 pounds (11 to 20 kg). Its distinctive double coat is dense and water-resistant, featuring tight curls or a marcel pattern (uniform waves) in liver, brown, or dark chocolate colors. Some individuals may have small white markings on the chest and toes. The breed's broad skull, hanging ears covered with curls, and expressive eyes contribute to its alert and friendly appearance. Temperamentally, the AWS is intelligent, eager to please, and known for its friendly disposition. It forms strong bonds with family members and is generally good with children and other pets. While affectionate, the breed can be reserved around strangers and may exhibit a protective nature. Originally bred for hunting, the AWS excels in retrieving waterfowl and flushing game birds, demonstrating remarkable endurance and versatility in various terrains. Today, the breed continues to participate in hunting activities and has also found roles in agility, obedience, and as a loyal family companion. Despite its capabilities, the AWS remains relatively rare, with an estimated 3,000 individuals primarily located in the Midwestern United States. Notably, it was designated the state dog of Wisconsin in 1985. Distinctive characteristics of the AWS include its unique curly coat, exceptional swimming ability, and adaptability to both land and water environments. Its compact size and energetic nature make it suitable for active families and hunters seeking a versatile and devoted companion.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "25-45 pounds (11-20 kg)",
+    "height": "15-18 inches (38-45 cm)",
+    "coat": "double coat, curly or wavy, water-resistant",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; minimal shedding",
+    "lifespan": "10-13 years"
+  },
+  "behavior": {
+    "summary": "The American Water Spaniel is an intelligent, energetic, and affectionate breed known for its versatility and strong bond with family members.",
+    "with_family": "AWS dogs are loyal and form strong attachments to their family, often bonding closely with one particular individual.",
+    "with_children": "Generally good with children, they enjoy playtime and can be gentle companions when properly socialized.",
+    "with_other_pets": "They typically get along well with other dogs and pets, especially when raised together, but early socialization is beneficial.",
+    "with_strangers": "AWS can be reserved around strangers, displaying a protective nature without being aggressive.",
+    "special_traits": [
+      "Intelligent and eager to please",
+      "Versatile in various activities",
+      "Strong swimming ability",
+      "Affectionate with family",
+      "Protective yet friendly"
+    ]
+  },
+  "health": {
+    "summary": "The American Water Spaniel is generally a healthy breed but may be prone to certain hereditary conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Degenerative myelopathy",
+      "Hypothyroidism",
+      "Allergies",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Routine eye examinations",
+      "Hip evaluations",
+      "Thyroid function tests",
+      "Ear cleaning, especially after swimming"
+    ],
+    "vet_checkups": "Annual check-ups recommended; more frequent visits if health issues arise."
+  },
+  "care": {
+    "description": "The American Water Spaniel requires regular exercise, mental stimulation, and consistent grooming to maintain its health and happiness.",
+    "behavior": "Engage in daily activities like walks, play sessions, and training exercises to satisfy their high energy levels and intelligence.",
+    "health": "Monitor for signs of common health issues and maintain a schedule of regular veterinary visits for preventive care.",
+    "grooming": "Brush the curly coat several times a week to prevent matting and manage the natural 'doggy smell' due to the oily coat.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; monitor weight to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Is the American Water Spaniel suitable for apartment living?",
+      "answer": "Yes, with sufficient daily exercise and mental stimulation, they can adapt well to apartment living."
+    },
+    {
+      "question": "How often should I groom my American Water Spaniel?",
+      "answer": "Brush their coat several times a week to prevent matting and maintain coat health."
+    },
+    {
+      "question": "Are American Water Spaniels good with children?",
+      "answer": "Yes, they are generally good with children and enjoy playtime when properly socialized."
+    },
+    {
+      "question": "Do American Water Spaniels get along with other pets?",
+      "answer": "They typically get along well with other pets, especially when raised together."
+    },
+    {
+      "question": "What is the lifespan of an American Water Spaniel?",
+      "answer": "They typically live between 10 to 13 years."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/American-water-spaniel",
+    "https://en.wikipedia.org/wiki/American_Water_Spaniel",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-american-water-spaniels",
+    "https://www.westminsterkennelclub.org/breed/american-water-spaniel/",
+    "https://www.purina.com/dogs/dog-breeds/american-water-spaniel",
+    "https://www.hillspet.com/dog-care/dog-breeds/american-water-spaniel",
+    "https://www.fci.be/Nomenclature/Standards/301g08-en.pdf"
+  ]
+}

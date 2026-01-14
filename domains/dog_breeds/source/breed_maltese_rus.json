@@ -1,0 +1,155 @@
+{
+  "id": "maltese",
+  "name": "Maltese",
+  "name_rus": "Мальтийская болонка",
+  "full_description": "<p>The Maltese is an ancient toy breed, renowned for its long, silky white coat and affectionate nature. Originating over 2,000 years ago, the breed's exact beginnings are shrouded in history, but it is widely believed that the Phoenicians introduced these small dogs to Malta, where they became cherished companions. Greek and Roman aristocrats highly valued the Maltese, often depicting them in art and literature. Aristotle even referred to them as \"perfectly proportioned\" despite their diminutive size. Throughout the centuries, the Maltese has maintained its status as a beloved lapdog, symbolizing elegance and refinement.</p>\n<p>Physically, the Maltese is a small, compact dog with a proud carriage. Males typically stand between 8.25 to 10 inches at the withers, while females range from 7.5 to 9 inches. Their weight generally falls between 6 to 8 pounds. The breed's hallmark is its long, straight, silky white coat that drapes over the body, often reaching the ground. This luxurious coat lacks an undercoat, contributing to its fine texture. The Maltese's head is slightly rounded, with a well-defined stop and a muzzle that is slightly shorter than the skull. Their dark, oval eyes exude a gentle yet alert expression, and their ears are set high, hanging close to the head with long feathering that blends seamlessly with the rest of the coat.</p>\n<p>Temperamentally, the Maltese is lively, intelligent, and affectionate. They form strong bonds with their families and thrive on human companionship. Despite their small size, they possess a spirited and playful demeanor, often displaying a charming and endearing personality. Historically bred as companion animals, Maltese dogs excel in providing comfort and companionship. Their alertness also makes them effective watchdogs, as they are quick to sound the alarm when unfamiliar situations arise. In modern times, the Maltese continues to be a popular choice for those seeking a devoted and elegant companion. Their adaptability allows them to thrive in various living environments, from apartments to larger homes. Regular grooming is essential to maintain their coat's pristine condition, and they benefit from daily exercise to keep them mentally and physically stimulated. Notable characteristics of the Maltese include their hypoallergenic coat, which sheds minimally, making them suitable for allergy sufferers. Their long lifespan, often exceeding 12 years, allows for many years of companionship. Additionally, their keen intelligence and eagerness to please make them highly trainable, excelling in obedience and agility activities.</p>",
+  "full_description_rus": "<p>Мальтийская болонка — древняя декоративная порода, известная своей длинной, шелковистой белой шерстью и привязанным характером. История породы насчитывает более 2000 лет, и считается, что финикийцы завезли этих маленьких собак на остров Мальта, где они стали любимыми компаньонами. Греческие и римские аристократы высоко ценили мальтийских болонок, часто изображая их в искусстве и литературе. Аристотель даже называл их \"идеально пропорциональными\" несмотря на их небольшой размер. На протяжении веков мальтийская болонка сохраняла статус любимой комнатной собачки, символизируя элегантность и изящество.</p>\n<p>Физически мальтийская болонка — это небольшая, компактная собака с гордой осанкой. Рост кобелей обычно составляет от 21 до 25 см в холке, сук — от 20 до 23 см. Вес варьируется от 3 до 4 кг. Отличительной чертой породы является длинная, прямая, шелковистая белая шерсть, которая ниспадает по телу, часто достигая земли. Эта роскошная шерсть не имеет подшерстка, что придает ей особую текстуру. Голова слегка округлая, с хорошо выраженным переходом от лба к морде, которая немного короче черепа. Темные, овальные глаза излучают нежное, но бдительное выражение, а уши посажены высоко, свисают близко к голове с длинной шерстью, плавно переходящей в остальной покров.</p>\n<p>По темпераменту мальтийская болонка живая, умная и привязанная. Они формируют крепкие связи со своими семьями и процветают в обществе людей. Несмотря на небольшой размер, они обладают энергичным и игривым нравом, часто демонстрируя очаровательную и обаятельную личность. Исторически выведенные как компаньоны, мальтийские болонки отлично справляются с ролью утешителей и друзей. Их бдительность также делает их эффективными сторожевыми собаками, так как они быстро подают голос при появлении незнакомцев. В современное время мальтийская болонка продолжает быть популярным выбором для тех, кто ищет преданного и элегантного компаньона. Их адаптивность позволяет им комфортно жить в различных условиях, от квартир до больших домов. Регулярный уход необходим для поддержания их шерсти в идеальном состоянии, а ежедневные упражнения помогают поддерживать их умственное и физическое здоровье. Примечательные характеристики мальтийской болонки включают гипоаллергенную шерсть, которая практически не линяет, что делает их подходящими для людей, страдающих аллергией. Их продолжительность жизни, часто превышающая 12 лет, обеспечивает долгие годы дружбы. Кроме того, их острый ум и стремление угодить делают их легко обучаемыми, и они отлично проявляют себя в послушании и аджилити.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "6-8 pounds",
+    "height": "7.5-10 inches",
+    "coat": "long, silky, white, without undercoat",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "daily brushing; regular professional grooming recommended",
+    "lifespan": "over 12 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "3-4 кг",
+    "рост": "20-25 см",
+    "шерсть": "длинная, шелковистая, белая, без подшерстка",
+    "активность": "умеренная",
+    "обучаемость": "высокая",
+    "уход": "ежедневное расчесывание; регулярный профессиональный груминг рекомендуется",
+    "продолжительность жизни": "более 12 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "affectionate and people-oriented",
+      "alert and responsive",
+      "playful and energetic",
+      "intelligent and trainable",
+      "prone to separation anxiety if left alone for extended periods"
+    ],
+    "summary": "The Maltese is a lively and affectionate companion, known for its intelligence and alertness. They form strong bonds with their families and thrive on human interaction.",
+    "with_children": "They can be good with children, especially when socialized early, but due to their small size, interactions should be supervised to prevent accidental injury.",
+    "with_family": "Maltese dogs are deeply devoted to their families, often seeking constant companionship and affection.",
+    "with_other_pets": "Generally friendly with other pets, especially when raised together, but may exhibit jealousy if they feel their owner's attention is divided.",
+    "with_strangers": "Alert and wary of strangers, Maltese can be effective watchdogs, often barking to announce unfamiliar visitors."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Мальтийская болонка — жизнерадостный и привязанный компаньон, известный своим умом и бдительностью. Они формируют крепкие связи со своими семьями и процветают в обществе людей.",
+    "с семьёй": "Мальтийские болонки глубоко преданы своим семьям, часто стремятся к постоянному общению и ласке.",
+    "с детьми": "Они могут хорошо ладить с детьми, особенно при ранней социализации, но из-за их небольшого размера взаимодействия должны быть под присмотром, чтобы предотвратить случайные травмы.",
+    "с другими животными": "Обычно дружелюбны с другими животными, особенно если выросли вместе, но могут проявлять ревность, если чувствуют, что внимание владельца разделено.",
+    "с незнакомцами": "Бдительны и осторожны с незнакомцами, мальтийские болонки могут быть эффективными сторожевыми собаками, часто лая при появлении незнакомых посетителей.",
+    "особые черты": [
+      "привязаны к людям",
+      "бдительны и отзывчивы",
+      "игривы и энергичны",
+      "умны и легко обучаемы",
+      "склонны к тревоге при разлуке, если остаются одни на длительное время"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "dental problems due to small mouths",
+      "patellar luxation (dislocation of the kneecap)",
+      "progressive retinal atrophy (PRA)",
+      "hypoglycemia, especially in puppies",
+      "tracheal collapse"
+    ],
+    "prevention_tips": [
+      "regular dental care, including brushing and professional cleanings",
+      "maintain a healthy weight to reduce stress on joints",
+      "routine eye examinations to detect early signs of PRA",
+      "monitor blood sugar levels in puppies to prevent hypoglycemia",
+      "use a harness instead of a collar to prevent tracheal damage"
+    ],
+    "summary": "Maltese are generally healthy but can be prone to certain genetic and environmental health issues. Regular veterinary care and preventive measures are essential to maintain their well-being.",
+    "vet_checkups": "semi-annual veterinary checkups are recommended to monitor and maintain overall health"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Мальтийские болонки в целом здоровы, но могут быть склонны к определённым генетическим и экологическим проблемам со здоровьем. Регулярный ветеринарный уход и профилактические меры необходимы для поддержания их благополучия.",
+    "распространённые проблемы": [
+      "зубные проблемы из-за маленького размера рта",
+      "вывих надколенника (смещение коленной чашечки)",
+      "прогрессирующая атрофия сетчатки (PRA)",
+      "гипогликемия, особенно у щенков",
+      "коллапс трахеи"
+    ],
+    "советы по профилактике": [
+      "регулярный уход за зубами, включая чистку и профессиональную чистку",
+      "поддержание здорового веса для уменьшения нагрузки на суставы",
+      "плановые осмотры глаз для раннего выявления признаков PRA",
+      "мониторинг уровня сахара в крови у щенков для предотвращения гипогликемии",
+      "использование шлейки вместо ошейника для предотвращения повреждения трахеи"
+    ],
+    "рекомендуемые осмотры": "рекомендуются полугодовые ветеринарные осмотры для мониторинга и поддержания общего здоровья"
+  },
+  "care": {
+    "behavior": "Early socialization and positive reinforcement training are crucial to develop a well-mannered and confident dog.",
+    "description": "Caring for a Maltese involves regular grooming, consistent training, and attentive health maintenance to ensure a happy and healthy companion.",
+    "grooming": "Daily brushing and regular professional grooming are necessary to prevent matting and maintain the coat's health.",
+    "health": "Regular veterinary visits and preventive care are essential to address common health concerns and maintain overall well-being.",
+    "nutrition": "A balanced diet appropriate for small breeds, with portion control to prevent obesity, is important for their health."
+  },
+  "care_rus": {
+    "поведение и характер": "Ранняя социализация и обучение с положительным подкреплением необходимы для воспитания воспитанной и уверенной собаки.",
+    "краткое описание ухода": "Уход за мальтийской болонкой включает регулярный груминг, последовательное обучение и внимательное отношение к здоровью для обеспечения счастливой и здоровой жизни компаньона.",
+    "груминг и уход": "Ежедневное расчесывание и регулярный профессиональный груминг необходимы для предотвращения спутывания шерсти и поддержания её здоровья.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход необходимы для решения распространённых проблем со здоровьем и поддержания общего благополучия.",
+    "питание и активность": "Сбалансированная диета, подходящая для мелких пород, с контролем порций для предотвращения ожирения, важна для их здоровья."
+  },
+  "faq": [
+    {
+      "question": "Are Maltese hypoallergenic?",
+      "answer": "Yes, their low-shedding coat produces less dander, making them suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Maltese need?",
+      "answer": "Moderate daily exercise, such as short walks and playtime, is sufficient to keep them healthy and happy."
+    },
+    {
+      "question": "Do Maltese get along with other pets?",
+      "answer": "Generally, yes, especially when socialized early, but they may exhibit jealousy if they feel neglected."
+    },
+    {
+      "question": "Are Maltese easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable with positive reinforcement methods."
+    },
+    {
+      "question": "What is the lifespan of a Maltese?",
+      "answer": "Maltese dogs often live over 12 years, with proper care and a healthy lifestyle."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли мальтийские болонки гипоаллергенными?",
+      "ответ": "Да, их шерсть практически не линяет и производит меньше перхоти, что делает их подходящими для некоторых людей, страдающих аллергией."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется мальтийской болонке?",
+      "ответ": "Умеренные ежедневные упражнения, такие как короткие прогулки и игры, достаточны для поддержания их здоровья и счастья."
+    },
+    {
+      "вопрос": "Ладят ли мальтийские болонки с другими животными?",
+      "ответ": "Обычно да, особенно при ранней социализации, но они могут проявлять ревность, если чувствуют себя обделёнными вниманием."
+    },
+    {
+      "вопрос": "Легко ли обучаются мальтийские болонки?",
+      "ответ": "Да, их интеллект и стремление угодить делают их легко обучаемыми с методами положительного подкрепления."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни мальтийской болонки?",
+      "ответ": "Мальтийские болонки часто живут более 12 лет при надлежащем уходе и здоровом образе жизни."
+    }
+  ],
+  "sources": [
+    "https://www.thekennelclub.org.uk/breed-standards/toy/maltese/",
+    "https://www.ukcdogs.com/maltese",
+    "https://www.akc.org/expert-advice/dog-breeds/maltese-history/",
+    "https://www.akc.org/expert-advice/dog-breeds/glamor-charm-8-fun-facts-maltese/"
+  ]
+}

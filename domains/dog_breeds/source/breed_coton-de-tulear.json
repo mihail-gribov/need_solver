@@ -1,0 +1,82 @@
+{
+  "id": "coton-de-tulear",
+  "name": "Coton de Tulear",
+  "full_description": "<p>The Coton de Tulear, often referred to as the 'Royal Dog of Madagascar,' is a small, sturdy companion breed with a rich history and distinctive appearance. Originating from the island of Madagascar, the breed's ancestors are believed to have arrived via shipwrecks in the 16th century, where they adapted to the island's environment and eventually became favored by the Malagasy nobility.</p>\n<p>Physically, the Coton de Tulear is characterized by its long, soft, cotton-like coat, which is predominantly white, though slight shadings of light grey or red-roan are permitted on the ears. The breed has a slightly rounded skull, large dark eyes with expressive features, and ears that are set high and carried close to the cheeks. The body is slightly longer than tall, with a topline that is very slightly arched over the loin, and a tail that is happily carried curved over the back when in motion.</p>\n<p>Temperamentally, Cotons are known for their happy, stable, and sociable nature. They are intelligent, lively, and adapt well to various lifestyles, making them excellent companions. Their clownish and lighthearted demeanor, combined with a gentle and sympathetic awareness of those around them, endears them to many.</p>\n<p>Historically, the Coton de Tulear was not bred for specific working abilities but rather as a companion dog. Their primary role was to provide companionship to the Malagasy aristocracy, a purpose they continue to fulfill today. In modern times, the breed has gained popularity worldwide, recognized by major kennel clubs such as the Fédération Cynologique Internationale (FCI) in 1971 and the American Kennel Club (AKC) in 2014.</p>\n<p>Notable characteristics of the Coton de Tulear include their low-shedding coat, which is considered hypoallergenic, making them suitable for individuals with mild allergies. They are also known for their unique vocalizations and expressive 'smile,' adding to their charm as companion animals.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "3.5-6 kg",
+    "height": "22-28 cm",
+    "coat": "long, soft, cotton-like",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing; occasional professional grooming",
+    "lifespan": "14-16 years"
+  },
+  "behavior": {
+    "summary": "The Coton de Tulear is a friendly, sociable, and intelligent breed, known for its clownish and lighthearted demeanor. They adapt well to various lifestyles and form strong bonds with their families.",
+    "with_family": "Cotons are affectionate and thrive on companionship, often forming close bonds with family members. They are known for their gentle and sympathetic awareness of those around them.",
+    "with_children": "This breed is generally good with children, displaying a playful and patient nature, making them suitable companions for families.",
+    "with_other_pets": "Cotons are sociable with other dogs and pets, adapting well to multi-pet households.",
+    "with_strangers": "They are friendly and outgoing with strangers, often displaying a welcoming attitude.",
+    "special_traits": [
+      "clownish and lighthearted demeanor",
+      "unique vocalizations",
+      "expressive 'smile'",
+      "adaptable to various lifestyles",
+      "forms strong bonds with family"
+    ]
+  },
+  "health": {
+    "summary": "The Coton de Tulear is generally a healthy breed with a lifespan of 14-16 years. However, they can be prone to certain genetic health conditions.",
+    "common_issues": [
+      "patellar luxation",
+      "progressive retinal atrophy",
+      "heart murmurs",
+      "hip dysplasia"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintaining a healthy weight",
+      "providing a balanced diet",
+      "ensuring regular exercise",
+      "monitoring for signs of genetic conditions"
+    ],
+    "vet_checkups": "annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "The Coton de Tulear requires regular grooming, balanced nutrition, and consistent exercise to maintain optimal health and well-being.",
+    "behavior": "Engage in daily interactive play and training sessions to stimulate their intelligent and sociable nature.",
+    "health": "Schedule regular veterinary check-ups and monitor for signs of common health issues.",
+    "grooming": "Brush their coat several times a week to prevent matting; occasional professional grooming is recommended.",
+    "nutrition": "Provide a balanced diet appropriate for their size and activity level; consult a veterinarian for specific recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are Coton de Tulears hypoallergenic?",
+      "answer": "Yes, their low-shedding coat is considered hypoallergenic, making them suitable for individuals with mild allergies."
+    },
+    {
+      "question": "How much exercise does a Coton de Tulear need?",
+      "answer": "They require regular exercise, including daily walks and interactive play sessions, to maintain physical and mental health."
+    },
+    {
+      "question": "Is the Coton de Tulear easy to train?",
+      "answer": "Yes, they are intelligent and respond well to positive reinforcement techniques, making training relatively easy."
+    },
+    {
+      "question": "What is the average lifespan of a Coton de Tulear?",
+      "answer": "The average lifespan is 14-16 years."
+    },
+    {
+      "question": "Do Coton de Tulears get along with other pets?",
+      "answer": "Yes, they are sociable and adapt well to multi-pet households."
+    }
+  ],
+  "sources": [
+    "https://www.westminsterkennelclub.org/breed/coton-de-tulear/",
+    "https://www.fci.be/nomenclature/Standards/283g09-en.pdf",
+    "https://www.usactc.dog/resources/breed-standard/",
+    "https://animalmedia.org/coton-de-tulear/",
+    "https://www.cotonclub.org/introduction-to-the-breed"
+  ]
+}

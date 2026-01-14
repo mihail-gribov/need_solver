@@ -1,0 +1,81 @@
+{
+  "id": "border-terrier",
+  "name": "Border Terrier",
+  "full_description": "<p>The Border Terrier is a small, energetic breed originating from the Anglo-Scottish border region. Developed in the 18th century, these dogs were bred to assist in fox hunting, possessing the agility to keep up with horses and the size to follow foxes into their dens. They share ancestry with the Dandie Dinmont and Bedlington Terriers. Physically, Border Terriers are characterized by their distinctive 'otter head,' with a broad skull and short muzzle. They have a double coat: a dense, soft undercoat and a harsh, wiry outer coat that comes in colors such as red, grizzle and tan, blue and tan, or wheaten. Males typically weigh between 13 to 15.5 pounds and stand about 11 inches tall, while females weigh 11.5 to 14 pounds and stand around 10 inches tall. Temperamentally, Border Terriers are affectionate, intelligent, and eager to please. They are known for their friendly disposition, making them excellent companions for families. Their working heritage endows them with a strong prey drive and a penchant for digging. Originally, they were used to hunt foxes and control vermin, showcasing their determination and agility. In modern times, they excel in various canine sports, including agility and obedience trials, and are cherished as family pets. Notable characteristics include their adaptability to different living environments, moderate grooming needs, and a lifespan of 12 to 15 years.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "11.5–15.5 pounds",
+    "height": "10–11 inches",
+    "coat": "double coat with a dense, soft undercoat and a harsh, wiry outer coat",
+    "activity": "moderate to high",
+    "trainability": "high",
+    "grooming": "weekly brushing; coat stripping twice a year",
+    "lifespan": "12–15 years"
+  },
+  "behavior": {
+    "summary": "Border Terriers are affectionate, intelligent, and energetic dogs with a strong prey drive and a tendency to dig.",
+    "with_family": "They form strong bonds with family members and thrive on companionship.",
+    "with_children": "Generally good with children, especially when socialized early.",
+    "with_other_pets": "Can coexist with other dogs; caution is advised with small pets due to their hunting instincts.",
+    "with_strangers": "Friendly but may be reserved initially; proper socialization is beneficial.",
+    "special_traits": [
+      "strong prey drive",
+      "tendency to dig",
+      "affectionate nature",
+      "intelligence",
+      "energy"
+    ]
+  },
+  "health": {
+    "summary": "Border Terriers are generally healthy but can be prone to certain genetic conditions.",
+    "common_issues": [
+      "hip dysplasia",
+      "progressive retinal atrophy",
+      "canine epileptoid cramping syndrome",
+      "heart defects"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "balanced diet",
+      "adequate exercise",
+      "genetic screening for breeding dogs"
+    ],
+    "vet_checkups": "annually, or more frequently as needed"
+  },
+  "care": {
+    "description": "Border Terriers require regular exercise, mental stimulation, and consistent grooming to maintain their health and happiness.",
+    "behavior": "Provide daily physical activity and mental challenges to prevent boredom and destructive behaviors.",
+    "health": "Monitor for signs of common health issues and maintain a healthy weight through proper diet and exercise.",
+    "grooming": "Brush weekly and strip the coat twice a year to maintain its texture and health.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Border Terriers good with children?",
+      "answer": "Yes, they are generally good with children, especially when socialized early."
+    },
+    {
+      "question": "Do Border Terriers require a lot of grooming?",
+      "answer": "They require weekly brushing and coat stripping twice a year to maintain their coat's health."
+    },
+    {
+      "question": "Can Border Terriers live in apartments?",
+      "answer": "Yes, they can adapt to apartment living if they receive sufficient exercise and mental stimulation."
+    },
+    {
+      "question": "Are Border Terriers hypoallergenic?",
+      "answer": "No dog is completely hypoallergenic, but their wiry coat may produce fewer allergens."
+    },
+    {
+      "question": "Do Border Terriers get along with other pets?",
+      "answer": "They can coexist with other dogs; caution is advised with small pets due to their hunting instincts."
+    }
+  ],
+  "sources": [
+    "https://www.hillspet.com/dog-care/dog-breeds/border-terrier",
+    "https://www.petmd.com/dog/breeds/border-terrier",
+    "https://www.dailypaws.com/dogs-puppies/dog-breeds/border-terrier",
+    "https://en.wikipedia.org/wiki/Border_Terrier",
+    "https://btcoa.org/faqs-about-border-terriers/"
+  ]
+}

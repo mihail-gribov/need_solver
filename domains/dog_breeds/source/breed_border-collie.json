@@ -1,0 +1,84 @@
+{
+  "id": "border-collie",
+  "name": "Border Collie",
+  "full_description": "<p>The Border Collie originated in the border regions between Scotland and England, where shepherds selectively bred dogs for their exceptional herding abilities and endurance on rugged terrains. The term 'collie' is believed to derive from the old Gaelic word for 'useful,' reflecting the breed's invaluable role in managing livestock. Over centuries, this selective breeding resulted in a dog renowned for its intelligence, agility, and intense work ethic.</p>\n<p>Physically, Border Collies are medium-sized dogs, standing between 18 to 22 inches tall and weighing approximately 30 to 55 pounds. They possess a well-proportioned, athletic build that exudes grace and stamina. Their double coat can be either smooth or rough, with the rough variety featuring medium to long hair that may be flat or slightly wavy. Common coat colors include black and white, though a variety of colors and patterns are permissible. Their expressive, oval-shaped eyes are typically brown, except in merle-coated individuals, where blue eyes may occur. Ears are medium-sized and can be erect or semi-erect, adding to their alert appearance.</p>\n<p>Temperamentally, Border Collies are keen, alert, and highly responsive. They are known for their intense focus, often referred to as 'the eye,' which they use to control livestock. This breed thrives on mental and physical stimulation and can become restless or develop behavioral issues if not adequately engaged. They are affectionate with their families and can be reserved around strangers, making early socialization crucial.</p>\n<p>Historically, Border Collies were developed as working dogs, primarily for herding sheep. Their unique herding style involves wide, sweeping outruns and an intense gaze to control livestock. This working heritage has endowed them with remarkable stamina and problem-solving abilities. In modern times, while they continue to excel in herding, Border Collies have also become popular in various dog sports, including agility, obedience, and flyball. Their intelligence and trainability make them suitable for roles such as search and rescue, therapy, and assistance dogs.</p>\n<p>Notable characteristics of the Border Collie include their unparalleled intelligence, often ranking at the top of canine intelligence assessments. They are capable of learning a vast number of commands and tasks, sometimes understanding over a thousand words. Their boundless energy and work ethic require owners who can provide them with sufficient exercise and mental challenges. Without proper engagement, they may develop undesirable behaviors. Their herding instinct is strong, and they may attempt to herd children, other animals, or even vehicles, necessitating proper training and supervision.</p>",
+  "parameters": {
+    "size": "Medium",
+    "weight": "30-55 pounds",
+    "height": "18-22 inches",
+    "coat": "Double coat; smooth or rough; various colors",
+    "activity": "Very high",
+    "trainability": "Very high",
+    "grooming": "Regular brushing; more frequent during shedding seasons",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Border Collies are highly intelligent, energetic, and responsive dogs with a strong work ethic and a need for mental and physical stimulation.",
+    "with_family": "Affectionate and loyal, they form strong bonds with family members and thrive on companionship.",
+    "with_children": "Generally good with children, but their herding instinct may lead them to nip or herd young kids; supervision and training are recommended.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though their herding behavior may manifest towards other animals.",
+    "with_strangers": "Often reserved around strangers; early socialization helps in developing a well-rounded temperament.",
+    "special_traits": [
+      "Exceptional intelligence",
+      "High energy levels",
+      "Strong herding instinct",
+      "Intense focus ('the eye')",
+      "Quick learner"
+    ]
+  },
+  "health": {
+    "summary": "Border Collies are generally healthy but are predisposed to certain genetic conditions; regular health screenings and preventive care are essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy",
+      "Cataracts",
+      "Deafness",
+      "Epilepsy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for breeding dogs",
+      "Maintaining a healthy weight",
+      "Providing adequate exercise",
+      "Monitoring for early signs of health issues"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Border Collies require dedicated care, including ample physical exercise, mental stimulation, and regular grooming to maintain their health and happiness.",
+    "behavior": "Engage them in activities like agility, obedience training, or herding to satisfy their need for mental and physical challenges.",
+    "health": "Monitor for signs of common health issues and maintain a schedule of regular veterinary visits for preventive care.",
+    "grooming": "Brush their coat once or twice a week, increasing frequency during shedding seasons to manage loose hair.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; consult a veterinarian for specific dietary recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are Border Collies suitable for apartment living?",
+      "answer": "Due to their high energy levels, they are better suited to homes with ample space and access to outdoor areas."
+    },
+    {
+      "question": "How much exercise does a Border Collie need daily?",
+      "answer": "They require at least 1-2 hours of vigorous exercise and mental stimulation each day."
+    },
+    {
+      "question": "Do Border Collies shed a lot?",
+      "answer": "They shed moderately year-round, with increased shedding during seasonal changes."
+    },
+    {
+      "question": "Are Border Collies good with other dogs?",
+      "answer": "They can get along well with other dogs if properly socialized from a young age."
+    },
+    {
+      "question": "Is the Border Collie the right breed for first-time dog owners?",
+      "answer": "Their high energy and intelligence can be challenging; they are best suited for experienced owners."
+    }
+  ],
+  "sources": [
+    "https://vcahospitals.com/know-your-pet/border-collie",
+    "https://www.thekennelclub.org.uk/breed-standards/pastoral/border-collie/",
+    "https://www.akc.org/expert-advice/lifestyle/worlds-smartest-dog/",
+    "https://www.akc.org/expert-advice/dog-breeds/border-collie-right-for-you/",
+    "https://www.akc.org/expert-advice/dog-breeds/border-collie-history-the-herding-dogs-development-through-time/",
+    "https://www.akc.org/expert-advice/lifestyle/10-border-collie-facts/"
+  ]
+}

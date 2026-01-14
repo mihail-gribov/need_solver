@@ -1,0 +1,151 @@
+{
+  "id": "american-foxhound",
+  "name": "American Foxhound",
+  "name_rus": "Американский фоксхаунд",
+  "full_description": "<p>The American Foxhound, one of the oldest American breeds, traces its origins to the early 1700s in Virginia and Maryland. Developed from English Foxhounds brought to America, the breed was refined with the addition of Irish, French, and other hounds to enhance hunting capabilities. Notably, George Washington, an avid fox hunter, played a significant role in the breed's development, aiming to create a superior dog with speed, sense, and intelligence. Physically, the American Foxhound is a tall, lean hound with a close, hard coat that can be any color. Males typically stand between 22 to 25 inches at the shoulder, while females range from 21 to 24 inches. Their weight varies from 60 to 70 pounds for males and 60 to 65 pounds for females. The breed's long legs, deep chest, and slightly domed skull contribute to its endurance and agility. Temperamentally, American Foxhounds are known for their easy-going and friendly nature. They are gentle with children and sociable with other dogs, making them excellent family companions. However, their strong prey drive and independent streak can pose challenges in training, requiring consistent and patient guidance. Originally bred for hunting foxes, the American Foxhound possesses remarkable speed and stamina, capable of covering extensive ground tirelessly. Their acute sense of smell and determination make them exceptional scent hounds. In modern times, while still used in traditional fox hunting, they have also become cherished companions for active families and individuals who can meet their exercise needs. Notable characteristics of the breed include their melodious baying, which can be quite loud, and their low-maintenance grooming requirements due to their short coat. Their friendly disposition, combined with their hunting prowess, makes them a unique and versatile breed.</p>",
+  "full_description_rus": "<p>Американский фоксхаунд — одна из старейших пород собак в США, история которой начинается в начале XVIII века в штатах Вирджиния и Мэриленд. Порода была выведена на основе английских фоксхаундов, завезённых в Америку, и усовершенствована путём скрещивания с ирландскими, французскими и другими гончими для повышения охотничьих качеств. Значительный вклад в развитие породы внёс Джордж Вашингтон, страстный охотник на лис, стремившийся создать собаку с выдающейся скоростью, чутьём и интеллектом. Физически американский фоксхаунд представляет собой высокую, стройную гончую с короткой, плотной шерстью, допускающей любой окрас. Высота кобелей в холке составляет от 56 до 64 см, сук — от 53 до 61 см. Вес кобелей варьируется от 29 до 32 кг, сук — от 27 до 29 кг. Длинные ноги, глубокая грудь и слегка выпуклый череп способствуют выносливости и ловкости породы. По характеру американские фоксхаунды известны своей дружелюбностью и спокойствием. Они ласковы с детьми и общительны с другими собаками, что делает их отличными семейными компаньонами. Однако сильный охотничий инстинкт и независимый нрав могут усложнять процесс дрессировки, требуя последовательности и терпения. Изначально выведенные для охоты на лис, американские фоксхаунды обладают выдающейся скоростью и выносливостью, способны преодолевать большие расстояния без усталости. Их острое обоняние и настойчивость делают их превосходными гончими. В современное время, помимо традиционной охоты, они стали любимыми спутниками активных семей и людей, способных обеспечить им необходимую физическую нагрузку. Особенностями породы являются мелодичный, но громкий лай и неприхотливость в уходе благодаря короткой шерсти. Дружелюбный характер в сочетании с охотничьими способностями делает их уникальной и универсальной породой.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "60-70 pounds (males), 60-65 pounds (females)",
+    "height": "22-25 inches (males), 21-24 inches (females)",
+    "coat": "short, hard, close",
+    "activity": "high",
+    "trainability": "moderate",
+    "grooming": "minimal; regular brushing",
+    "lifespan": "11-13 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "29-32 кг (кобели), 27-29 кг (суки)",
+    "рост": "56-64 см (кобели), 53-61 см (суки)",
+    "шерсть": "короткая, плотная, прилегающая",
+    "активность": "высокая",
+    "обучаемость": "средняя",
+    "уход": "минимальный; регулярное расчёсывание",
+    "продолжительность жизни": "11-13 лет"
+  },
+  "behavior": {
+    "summary": "American Foxhounds are friendly, gentle, and sociable dogs with a strong prey drive and independent nature.",
+    "with_family": "They are affectionate and loyal, forming strong bonds with family members.",
+    "with_children": "Generally good with children, displaying patience and playfulness.",
+    "with_other_pets": "Sociable with other dogs; caution is advised with smaller pets due to their hunting instincts.",
+    "with_strangers": "Typically friendly but may be reserved; early socialization is beneficial.",
+    "special_traits": [
+      "Strong prey drive",
+      "Independent",
+      "Melodious baying",
+      "High energy",
+      "Sociable"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Американские фоксхаунды дружелюбны, нежны и общительны, обладают сильным охотничьим инстинктом и независимым характером.",
+    "с семьёй": "Они привязаны и преданны, формируют крепкие связи с членами семьи.",
+    "с детьми": "Обычно хорошо ладят с детьми, проявляя терпение и игривость.",
+    "с другими животными": "Общительны с другими собаками; с мелкими животными следует быть осторожными из-за их охотничьих инстинктов.",
+    "с незнакомцами": "Обычно дружелюбны, но могут быть сдержанными; ранняя социализация полезна.",
+    "особые черты": [
+      "Сильный охотничий инстинкт",
+      "Независимость",
+      "Мелодичный лай",
+      "Высокая энергия",
+      "Общительность"
+    ]
+  },
+  "health": {
+    "summary": "American Foxhounds are generally healthy but can be prone to certain conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Thrombocytopathy",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular exercise",
+      "Balanced diet",
+      "Routine ear cleaning",
+      "Regular veterinary check-ups"
+    ],
+    "vet_checkups": "Annually, or as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Американские фоксхаунды в целом здоровы, но могут быть склонны к определённым заболеваниям.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Тромбоцитопатия",
+      "Инфекции ушей"
+    ],
+    "советы по профилактике": [
+      "Регулярные физические нагрузки",
+      "Сбалансированное питание",
+      "Рутинная чистка ушей",
+      "Регулярные ветеринарные осмотры"
+    ],
+    "рекомендуемые осмотры": "Ежегодно или по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "American Foxhounds require regular exercise, mental stimulation, and minimal grooming.",
+    "behavior": "Provide ample physical activity and mental challenges to prevent boredom and destructive behaviors.",
+    "health": "Maintain a healthy weight through diet and exercise; monitor for signs of common health issues.",
+    "grooming": "Brush weekly to manage shedding and keep the coat healthy.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Американские фоксхаунды требуют регулярных физических нагрузок, умственной стимуляции и минимального ухода за шерстью.",
+    "поведение и характер": "Обеспечьте достаточную физическую активность и умственные задачи, чтобы предотвратить скуку и разрушительное поведение.",
+    "здоровье и профилактика": "Поддерживайте здоровый вес с помощью диеты и упражнений; следите за признаками распространённых проблем со здоровьем.",
+    "груминг и уход": "Расчёсывайте еженедельно, чтобы контролировать линьку и поддерживать здоровье шерсти.",
+    "питание и активность": "Кормите сбалансированным рационом, соответствующим возрасту, размеру и уровню активности."
+  },
+  "faq": [
+    {
+      "question": "Are American Foxhounds good apartment dogs?",
+      "answer": "Due to their high energy and loud baying, they are better suited to homes with ample space."
+    },
+    {
+      "question": "How much exercise does an American Foxhound need?",
+      "answer": "They require significant daily exercise to satisfy their energy levels."
+    },
+    {
+      "question": "Are American Foxhounds easy to train?",
+      "answer": "Their independent nature can make training challenging; consistent, patient training is essential."
+    },
+    {
+      "question": "Do American Foxhounds get along with other pets?",
+      "answer": "They are sociable with other dogs but may chase smaller animals due to their hunting instincts."
+    },
+    {
+      "question": "What is the lifespan of an American Foxhound?",
+      "answer": "They typically live between 11 to 13 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли американские фоксхаунды для содержания в квартире?",
+      "ответ": "Из-за высокой энергии и громкого лая они лучше подходят для домов с достаточным пространством."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется американскому фоксхаунду?",
+      "ответ": "Им необходимы значительные ежедневные физические нагрузки для удовлетворения их уровня энергии."
+    },
+    {
+      "вопрос": "Легко ли дрессировать американских фоксхаундов?",
+      "ответ": "Их независимый характер может усложнять дрессировку; необходимы последовательность и терпение."
+    },
+    {
+      "вопрос": "Ладят ли американские фоксхаунды с другими животными?",
+      "ответ": "Они общительны с другими собаками, но могут преследовать мелких животных из-за охотничьих инстинктов."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни американского фоксхаунда?",
+      "ответ": "Обычно они живут от 11 до 13 лет."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/american-foxhound",
+    "https://www.ukcdogs.com/american-foxhound",
+    "https://www.akc.org/expert-advice/dog-breeds/american-foxhound-right-for-you/",
+    "https://www.akc.org/expert-advice/dog-breeds/by-george-washington-american-foxhounds/",
+    "https://ru.wikipedia.org/wiki/Американский_фоксхаунд",
+    "https://royalcanin.ru/dog-breed/american-foxhound"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "pomeranian",
+  "name": "Pomeranian",
+  "name_rus": "Померанский шпиц",
+  "full_description": "<p>The Pomeranian, often affectionately called the 'Pom,' is a toy breed with a rich history and distinctive characteristics. Originating from the Pomerania region, now part of modern-day Germany and Poland, these dogs were initially larger and used for herding and sledding. Over time, selective breeding reduced their size, transforming them into the compact companions we know today. Queen Victoria's fondness for the breed in the 19th century significantly boosted their popularity, leading to the development of the smaller Pomeranians that became fashionable pets. Physically, Pomeranians are small, standing between 6 to 7 inches tall and weighing no more than 7 pounds. They possess a lush double coat that comes in nearly two dozen colors, including orange, black, and cream. Their fox-like faces, characterized by bright, intelligent eyes and small, erect ears, contribute to their alert and vivacious expression. The breed's heavily plumed tail arches over their back, adding to their distinctive silhouette. Temperamentally, Pomeranians are extroverted, lively, and intelligent. They exhibit a buoyant and inquisitive nature, making them engaging companions. Despite their small size, they are known for their boldness and can sometimes be unaware of their diminutive stature, often displaying a commanding presence. Historically, Pomeranians were larger and served as working dogs, assisting in herding and pulling sleds. Their reduction in size over the years shifted their role to that of companion animals. In modern times, they are cherished as affectionate pets and have also excelled in various canine sports, including agility and obedience. Notably, an 11-year-old Pomeranian named Bella became the first toy breed to earn the AKC Scent Work Master title in 2019, showcasing the breed's versatility and intelligence. Pomeranians are renowned for their profuse double coat, which requires regular grooming to maintain its health and appearance. Their expressive faces and spirited demeanor make them stand out among toy breeds. Additionally, their adaptability allows them to thrive in various living environments, from apartments to larger homes, as long as they receive adequate attention and care.</p>",
+  "full_description_rus": "<p>Померанский шпиц, часто ласково называемый 'пом', — это декоративная порода с богатой историей и яркими характеристиками. Происходя из региона Померания, ныне части современной Германии и Польши, эти собаки изначально были крупнее и использовались для пастьбы и перевозки грузов. Со временем селекционное разведение уменьшило их размер, превратив их в компактных компаньонов, которых мы знаем сегодня. Увлечение королевы Виктории этой породой в XIX веке значительно повысило их популярность, что привело к развитию более мелких померанцев, ставших модными домашними питомцами. Физически померанские шпицы небольшие, их рост составляет от 18 до 22 см, а вес — от 1,4 до 3,2 кг. Они обладают пышной двойной шерстью, которая бывает почти двух десятков цветов, включая оранжевый, черный и кремовый. Их лисьи мордочки с яркими, умными глазами и маленькими, стоячими ушами придают им бдительное и живое выражение. Пышный хвост, изогнутый над спиной, добавляет их силуэту особую выразительность. По темпераменту померанские шпицы экстравертны, энергичны и умны. Они проявляют жизнерадостный и любознательный характер, делая их увлекательными компаньонами. Несмотря на свой небольшой размер, они известны своей смелостью и иногда могут не осознавать свою миниатюрность, часто демонстрируя уверенное поведение. Исторически померанские шпицы были крупнее и служили рабочими собаками, помогая в пастьбе и перевозке грузов. Со временем уменьшение их размера изменило их роль на компаньонов. В современности они ценятся как ласковые домашние питомцы и также преуспели в различных собачьих видах спорта, включая аджилити и послушание. Примечательно, что 11-летний померанский шпиц по кличке Белла стал первой декоративной породой, получившей титул AKC Scent Work Master в 2019 году, демонстрируя универсальность и интеллект породы. Померанские шпицы известны своей густой двойной шерстью, требующей регулярного ухода для поддержания здоровья и внешнего вида. Их выразительные мордочки и энергичный нрав выделяют их среди декоративных пород. Кроме того, их адаптивность позволяет им комфортно жить в различных условиях, от квартир до больших домов, при условии достаточного внимания и заботы.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "3-7 pounds",
+    "height": "6-7 inches",
+    "coat": "double coat; soft undercoat with longer, harsh-textured outer coat",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "frequent brushing; professional grooming recommended every 4-6 weeks",
+    "lifespan": "12-16 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "1,4-3,2 кг",
+    "рост": "18-22 см",
+    "шерсть": "двойная; мягкий подшерсток с более длинным, жестким внешним слоем",
+    "активность": "умеренная",
+    "обучаемость": "высокая",
+    "уход": "частое расчесывание; профессиональный груминг рекомендуется каждые 4-6 недель",
+    "продолжительность жизни": "12-16 лет"
+  },
+  "behavior": {
+    "summary": "Pomeranians are lively, intelligent, and extroverted dogs known for their bold and inquisitive nature.",
+    "with_family": "They form strong bonds with their families, thriving on companionship and often acting as affectionate lapdogs.",
+    "with_children": "Best suited for families with older children who can handle them gently, as their small size makes them vulnerable to rough play.",
+    "with_other_pets": "Generally get along well with other pets, especially when socialized early, but may display dominance despite their size.",
+    "with_strangers": "Alert and often wary of strangers, making them excellent watchdogs, though proper socialization can help them be more welcoming.",
+    "special_traits": [
+      "bold and confident demeanor",
+      "highly intelligent and trainable",
+      "alert and responsive nature"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Померанские шпицы — энергичные, умные и общительные собаки, известные своей смелостью и любознательностью.",
+    "с семьёй": "Они формируют крепкие связи с семьёй, наслаждаются общением и часто ведут себя как ласковые компаньоны.",
+    "с детьми": "Лучше подходят для семей со старшими детьми, которые могут обращаться с ними осторожно, так как их небольшой размер делает их уязвимыми для грубой игры.",
+    "с другими животными": "Обычно хорошо ладят с другими животными, особенно при ранней социализации, но могут проявлять доминирование, несмотря на свой размер.",
+    "с незнакомцами": "Бдительны и часто настороженно относятся к незнакомцам, что делает их отличными сторожевыми собаками, хотя правильная социализация может помочь им быть более дружелюбными.",
+    "особые черты": [
+      "смелый и уверенный характер",
+      "высокий интеллект и обучаемость",
+      "бдительность и отзывчивость"
+    ]
+  },
+  "health": {
+    "summary": "Pomeranians are generally healthy but are prone to certain conditions due to their small size and genetics.",
+    "common_issues": [
+      "patellar luxation",
+      "tracheal collapse",
+      "dental issues",
+      "alopecia X (coat loss)"
+    ],
+    "prevention_tips": [
+      "regular dental care",
+      "maintaining a healthy weight",
+      "avoiding excessive jumping to protect joints",
+      "routine grooming to monitor skin health"
+    ],
+    "vet_checkups": "at least once a year; more frequent visits for senior dogs or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Померанские шпицы в целом здоровы, но склонны к определённым заболеваниям из-за своего небольшого размера и генетики.",
+    "распространённые проблемы": [
+      "вывих коленной чашечки",
+      "коллапс трахеи",
+      "зубные проблемы",
+      "алопеция X (потеря шерсти)"
+    ],
+    "советы по профилактике": [
+      "регулярный уход за зубами",
+      "поддержание здорового веса",
+      "избегание чрезмерных прыжков для защиты суставов",
+      "регулярный груминг для мониторинга состояния кожи"
+    ],
+    "рекомендуемые осмотры": "не реже одного раза в год; более частые визиты для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "description": "Pomeranians require attentive care, including regular grooming, mental stimulation, and health monitoring to ensure a happy and healthy life.",
+    "behavior": "Early socialization and consistent, positive reinforcement training are essential to manage their bold and sometimes stubborn nature.",
+    "health": "Regular veterinary checkups and preventive care are crucial to address common health issues and maintain overall well-being.",
+    "grooming": "Frequent brushing and professional grooming every 4-6 weeks help maintain their double coat and prevent matting.",
+    "nutrition": "A balanced diet appropriate for small breeds supports their energy needs and overall health; portion control is important to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Померанские шпицы требуют внимательного ухода, включая регулярный груминг, умственную стимуляцию и мониторинг здоровья для обеспечения счастливой и здоровой жизни.",
+    "поведение и характер": "Ранняя социализация и последовательная, положительная дрессировка необходимы для управления их смелым и иногда упрямым характером.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход важны для предотвращения распространённых проблем со здоровьем и поддержания общего благополучия.",
+    "груминг и уход": "Частое расчесывание и профессиональный груминг каждые 4-6 недель помогают поддерживать их двойную шерсть и предотвращать образование колтунов.",
+    "питание и активность": "Сбалансированная диета, подходящая для мелких пород, поддерживает их энергетические потребности и общее здоровье; контроль порций важен для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Pomeranians good for first-time dog owners?",
+      "answer": "Yes, with proper training and care, Pomeranians can be suitable for first-time owners."
+    },
+    {
+      "question": "Do Pomeranians bark a lot?",
+      "answer": "They can be vocal and may bark frequently, especially if not trained to manage their alertness."
+    },
+    {
+      "question": "Are Pomeranians hypoallergenic?",
+      "answer": "No, they are not considered hypoallergenic due to their shedding double coat."
+    },
+    {
+      "question": "How much exercise does a Pomeranian need?",
+      "answer": "Moderate daily exercise, such as short walks and playtime, is sufficient for their needs."
+    },
+    {
+      "question": "Can Pomeranians live in apartments?",
+      "answer": "Yes, they adapt well to apartment living if they receive adequate attention and exercise."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли померанские шпицы для владельцев без опыта?",
+      "ответ": "Да, при правильной дрессировке и уходе померанские шпицы могут быть подходящими для владельцев без опыта."
+    },
+    {
+      "вопрос": "Много ли лают померанские шпицы?",
+      "ответ": "Они могут быть голосистыми и часто лаять, особенно если не обучены контролировать свою бдительность."
+    },
+    {
+      "вопрос": "Являются ли померанские шпицы гипоаллергенными?",
+      "ответ": "Нет, они не считаются гипоаллергенными из-за своей линяющей двойной шерсти."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется померанскому шпицу?",
+      "ответ": "Умеренные ежедневные упражнения, такие как короткие прогулки и игры, достаточны для их потребностей."
+    },
+    {
+      "вопрос": "Могут ли померанские шпицы жить в квартирах?",
+      "ответ": "Да, они хорошо адаптируются к жизни в квартире при условии достаточного внимания и физических нагрузок."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/pomeranian-right-for-you/",
+    "https://www.thekennelclub.org.uk/breed-standards/toy/pomeranian/",
+    "https://www.petmd.com/dog/breeds/pomeranian",
+    "https://www.akc.org/expert-advice/sports/first-toy-breed-earns-master-level-scent-work-title/",
+    "https://www.rbc.ru/life/news/65e6fea89a79470db4e788d2",
+    "https://www.rbc.ru/life/news/6409bc7d9a794713396b4c29",
+    "https://www.purina.ru/find-a-pet/dog-breeds/pomeranskiy-shpic",
+    "https://www.pedigree.ru/porody/pomeranskij-shpits",
+    "https://lapkins.ru/dog/pomeranskiy-shpits/",
+    "https://dog-breeds.ru/articles/view/pomeranskiy-shpits-poroda-sobak",
+    "https://mypets.kg/dog/pomeranskij-shpicz/",
+    "https://www.belanta.vet/vet-blog/pomeranskij-shpic/",
+    "https://petzona.ru/pomeranskiy-shpits-sobaka/",
+    "https://ru.wikipedia.org/wiki/Померанский_шпиц",
+    "https://o-pets.ru/dogs-pomeranian/"
+  ]
+}

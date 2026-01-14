@@ -1,0 +1,157 @@
+{
+  "id": "portuguese-water-dog",
+  "name": "Portuguese Water Dog",
+  "name_rus": "Португальская водяная собака",
+  "full_description": "<p>The Portuguese Water Dog (PWD) is a robust, medium-sized breed with a rich history as a fisherman's companion along Portugal's coast. Originating in the Algarve region, these dogs were integral to fishing operations, performing tasks such as herding fish into nets, retrieving lost equipment, and delivering messages between boats. Their webbed feet and waterproof coats made them exceptional swimmers, capable of enduring long hours in the water. Physically, PWDs exhibit a sturdy, square-shaped build with well-developed muscles. Males typically stand between 50-57 cm (19.5-22.5 inches) tall and weigh 19-25 kg (42-55 lbs), while females are slightly smaller, measuring 43-52 cm (17-20.5 inches) in height and weighing 16-22 kg (35-48 lbs). Their dense, profuse coats come in two varieties: curly and wavy, and are commonly found in black, white, or various shades of brown. Notably, their coats lack an undercoat, contributing to their low-shedding nature. Temperamentally, PWDs are intelligent, energetic, and affectionate. They form strong bonds with their families and are known for their loyalty and protective instincts. Their high energy levels and keen intellect necessitate regular mental and physical stimulation to prevent boredom and associated behavioral issues. Historically bred for demanding tasks, PWDs possess remarkable working abilities. Their original roles required strength, endurance, and problem-solving skills, traits that remain evident today. In contemporary settings, they excel in various canine sports, including agility, obedience, and water trials, showcasing their versatility and eagerness to work. In recent years, the breed has gained popularity as a family companion, partly due to their hypoallergenic coats and engaging personalities. Notably, PWDs have been part of prominent households, such as the Obama family, further elevating their profile. Despite their modern roles, they retain the distinctive characteristics that made them invaluable to Portuguese fishermen: a strong work ethic, adaptability, and a love for water.</p>",
+  "full_description_rus": "<p>Португальская водяная собака (PWD) — крепкая собака среднего размера с богатой историей в качестве спутника рыбаков вдоль побережья Португалии. Происходя из региона Алгарве, эти собаки были неотъемлемой частью рыболовных операций, выполняя задачи, такие как загон рыбы в сети, поиск потерянного оборудования и доставка сообщений между лодками. Их перепончатые лапы и водонепроницаемая шерсть делали их исключительными пловцами, способными проводить долгие часы в воде. Физически PWD имеют крепкое, квадратное телосложение с хорошо развитыми мышцами. Кобели обычно достигают роста от 50 до 57 см и весят от 19 до 25 кг, в то время как суки немного меньше, с ростом от 43 до 52 см и весом от 16 до 22 кг. Их густая, обильная шерсть бывает двух типов: кудрявая и волнистая, и обычно встречается в черном, белом или различных оттенках коричневого. Примечательно, что их шерсть не имеет подшерстка, что способствует их низкой линьке. По темпераменту PWD умны, энергичны и ласковы. Они формируют крепкие связи со своими семьями и известны своей преданностью и защитными инстинктами. Их высокий уровень энергии и острый ум требуют регулярной умственной и физической стимуляции, чтобы предотвратить скуку и связанные с этим поведенческие проблемы. Исторически выведенные для выполнения сложных задач, PWD обладают выдающимися рабочими способностями. Их первоначальные роли требовали силы, выносливости и навыков решения проблем, черты, которые остаются очевидными и сегодня. В современных условиях они преуспевают в различных собачьих видах спорта, включая аджилити, обидиенс и водные испытания, демонстрируя свою универсальность и стремление работать. В последние годы порода приобрела популярность в качестве семейного компаньона, отчасти благодаря их гипоаллергенной шерсти и привлекательным личностям. Примечательно, что PWD были частью известных семей, таких как семья Обамы, что еще больше повысило их профиль. Несмотря на свои современные роли, они сохраняют отличительные черты, которые делали их незаменимыми для португальских рыбаков: сильную трудовую этику, адаптивность и любовь к воде.</p>",
+  "parameters": {
+    "activity": "very high",
+    "coat": "dense, profuse, curly or wavy, without undercoat",
+    "grooming": "regular brushing; professional grooming recommended",
+    "height": "43-57 cm",
+    "lifespan": "10-14 years",
+    "size": "medium",
+    "trainability": "high",
+    "weight": "16-25 kg"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "16–25 кг",
+    "рост": "43–57 см",
+    "шерсть": "густая, обильная, кудрявая или волнистая, без подшерстка",
+    "активность": "очень высокая",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчесывание; рекомендуется профессиональный груминг",
+    "продолжительность жизни": "10–14 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "high intelligence",
+      "strong work ethic",
+      "love for water",
+      "protective nature",
+      "energetic disposition"
+    ],
+    "summary": "Portuguese Water Dogs are intelligent, energetic, and affectionate, forming strong bonds with their families and requiring regular mental and physical stimulation.",
+    "with_children": "Generally good with children, especially when socialized early, displaying patience and playfulness.",
+    "with_family": "They are loyal and protective, often becoming deeply attached to family members and thriving on companionship.",
+    "with_other_pets": "Can coexist well with other pets if introduced properly, though their strong personalities may require supervision.",
+    "with_strangers": "Typically reserved around strangers, they may be cautious but are not aggressive, often alerting their owners to unfamiliar presences."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Португальские водяные собаки умны, энергичны и ласковы, формируют крепкие связи со своими семьями и требуют регулярной умственной и физической стимуляции.",
+    "с семьёй": "Они преданны и защищают своих близких, часто глубоко привязываются к членам семьи и процветают в компании.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации, проявляя терпение и игривость.",
+    "с другими животными": "Могут хорошо уживаться с другими животными при правильном знакомстве, хотя их сильный характер может требовать наблюдения.",
+    "с незнакомцами": "Обычно сдержанны с незнакомцами, могут быть осторожны, но не агрессивны, часто предупреждают владельцев о присутствии посторонних.",
+    "особые черты": [
+      "высокий интеллект",
+      "сильная трудовая этика",
+      "любовь к воде",
+      "защитный характер",
+      "энергичный темперамент"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "hip dysplasia",
+      "progressive retinal atrophy",
+      "GM1 storage disease",
+      "juvenile dilated cardiomyopathy"
+    ],
+    "prevention_tips": [
+      "regular exercise to maintain healthy weight",
+      "routine eye examinations",
+      "genetic testing for known hereditary conditions",
+      "balanced diet",
+      "consistent veterinary check-ups"
+    ],
+    "summary": "Portuguese Water Dogs are generally healthy but are predisposed to certain genetic conditions; regular veterinary care and preventive measures are essential.",
+    "vet_checkups": "semi-annual"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Португальские водяные собаки в целом здоровы, но склонны к определенным генетическим заболеваниям; регулярный ветеринарный уход и профилактические меры необходимы.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренного сустава",
+      "прогрессирующая атрофия сетчатки",
+      "болезнь накопления GM1",
+      "ювенильная дилатационная кардиомиопатия"
+    ],
+    "советы по профилактике": [
+      "регулярные физические нагрузки для поддержания здорового веса",
+      "плановые осмотры глаз",
+      "генетическое тестирование на известные наследственные заболевания",
+      "сбалансированное питание",
+      "постоянные ветеринарные осмотры"
+    ],
+    "рекомендуемые осмотры": "раз в полгода"
+  },
+  "care": {
+    "behavior": "Due to their high energy and intelligence, they thrive on engaging activities and benefit from structured training sessions.",
+    "description": "Portuguese Water Dogs require attentive care, including regular exercise, mental stimulation, and consistent grooming to maintain their health and happiness.",
+    "grooming": "Their dense coats necessitate regular brushing to prevent matting; professional grooming every 6-8 weeks is recommended.",
+    "health": "Monitoring for breed-specific health issues and maintaining a proactive approach to veterinary care is crucial.",
+    "nutrition": "A balanced diet tailored to their activity level and age supports overall health; portion control helps prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Португальские водяные собаки требуют внимательного ухода, включая регулярные физические нагрузки, умственную стимуляцию и постоянный груминг для поддержания их здоровья и счастья.",
+    "поведение и характер": "Благодаря высокому уровню энергии и интеллекта, они процветают при активных занятиях и получают пользу от структурированных тренировочных сессий.",
+    "здоровье и профилактика": "Мониторинг породных заболеваний и проактивный подход к ветеринарному уходу имеют решающее значение.",
+    "груминг и уход": "Их густая шерсть требует регулярного расчесывания для предотвращения спутывания; рекомендуется профессиональный груминг каждые 6–8 недель.",
+    "питание и активность": "Сбалансированное питание, соответствующее их уровню активности и возрасту, поддерживает общее здоровье; контроль порций помогает предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "answer": "Yes, their low-shedding coats are considered hypoallergenic, making them suitable for some allergy sufferers.",
+      "question": "Are Portuguese Water Dogs hypoallergenic?"
+    },
+    {
+      "answer": "They require at least an hour of vigorous exercise daily to meet their high energy levels.",
+      "question": "How much exercise does a Portuguese Water Dog need?"
+    },
+    {
+      "answer": "Due to their intelligence and energy, they may be challenging for first-time owners without prior dog experience.",
+      "question": "Are Portuguese Water Dogs good for first-time dog owners?"
+    },
+    {
+      "answer": "With proper socialization, they can coexist well with other pets, though supervision is recommended.",
+      "question": "Do Portuguese Water Dogs get along with other pets?"
+    },
+    {
+      "answer": "They are prone to hip dysplasia, progressive retinal atrophy, and certain genetic conditions; regular vet check-ups are important.",
+      "question": "What are common health issues in Portuguese Water Dogs?"
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли португальские водяные собаки гипоаллергенными?",
+      "ответ": "Да, их шерсть с низкой линькой считается гипоаллергенной, что делает их подходящими для некоторых людей, страдающих аллергией."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется португальской водяной собаке?",
+      "ответ": "Им необходимо не менее часа интенсивных физических нагрузок ежедневно, чтобы удовлетворить их высокий уровень энергии."
+    },
+    {
+      "вопрос": "Подходят ли португальские водяные собаки для владельцев без опыта?",
+      "ответ": "Из-за их интеллекта и энергии они могут быть сложными для владельцев без опыта содержания собак."
+    },
+    {
+      "вопрос": "Ладят ли португальские водяные собаки с другими животными?",
+      "ответ": "При правильной социализации они могут хорошо уживаться с другими животными, хотя рекомендуется наблюдение."
+    },
+    {
+      "вопрос": "Какие распространенные проблемы со здоровьем у португальских водяных собак?",
+      "ответ": "Они склонны к дисплазии тазобедренного сустава, прогрессирующей атрофии сетчатки и некоторым генетическим заболеваниям; регулярные ветеринарные осмотры важны."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/portuguese-water-dog-facts/",
+    "https://www.thekennelclub.org.uk/breed-standards/working/portuguese-water-dog/",
+    "https://www.petmd.com/dog/breeds/portuguese-water-dog",
+    "https://vcahospitals.com/know-your-pet/portuguese-water-dog",
+    "https://www.akc.org/expert-advice/dog-breeds/portuguese-water-dog-history-the-fishermans-loyal-working-dog/",
+    "https://ru.wikipedia.org/wiki/Португальская_водяная_собака",
+    "https://www.purina.ru/find-a-pet/dog-breeds/portugalskaya-vodyanaya-sobaka",
+    "https://royalcanin.ru/dog-breed/portuguese-water-dog"
+  ]
+}

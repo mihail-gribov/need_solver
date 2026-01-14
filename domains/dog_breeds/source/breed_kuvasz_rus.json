@@ -1,0 +1,158 @@
+{
+  "id": "kuvasz",
+  "name": "Kuvasz",
+  "name_rus": "Кувас",
+  "full_description": "<p>The Kuvasz is an ancient Hungarian breed renowned for its role as a livestock guardian and protector. Originating from the Carpathian Basin, the Kuvasz was brought by the Magyar tribes during their conquest in the late 9th century. Its name is believed to derive from the Turkish word 'Kawasz,' meaning 'armed guard' or 'protector.' Historically, the Kuvasz served as a royal guard dog and hunting companion, notably favored by King Matthias Corvinus in the 15th century. The breed faced near extinction during World War II but has since been revitalized through dedicated breeding efforts.</p>\n<p>Physically, the Kuvasz is a large, robust dog with a well-proportioned, muscular build. Males typically stand between 28 to 30 inches (71-76 cm) at the withers and weigh between 100 to 115 pounds (48-62 kg), while females are slightly smaller, standing 26 to 28 inches (66-71 cm) tall and weighing 70 to 90 pounds (37-50 kg). The breed's most distinctive feature is its dense, double-layered white coat, which can range from straight to wavy. This coat provides protection against harsh weather conditions and predators. The skin is slate-gray, and the eyes are almond-shaped and dark brown, conveying a keen and intelligent expression.</p>\n<p>Temperamentally, the Kuvasz is courageous, intelligent, and independent. Bred to make decisions while guarding livestock, they possess a strong protective instinct and are naturally wary of strangers. However, they are deeply loyal and affectionate with their families, forming strong bonds with those they trust. Their independent nature requires consistent, firm training from an early age to establish boundaries and ensure they become well-mannered companions.</p>\n<p>Originally, the Kuvasz was utilized to guard livestock such as sheep and cattle, protecting them from predators and thieves. Their keen senses and fearless nature made them excellent at this task. In modern times, while some still serve in this traditional role, many Kuvasz have adapted to being family companions and property guardians. Their protective instincts remain strong, making them vigilant watchdogs. Despite their working heritage, they can thrive in family settings when provided with proper training, socialization, and sufficient physical and mental stimulation.</p>\n<p>Notable characteristics of the Kuvasz include their unwavering loyalty, intelligence, and protective nature. They are known for their ability to make independent decisions, a trait developed from their history of guarding livestock without direct human supervision. Their striking white coat not only serves a functional purpose but also adds to their majestic appearance. While they are affectionate with their families, their reserved demeanor towards strangers underscores their role as natural protectors.</p>",
+  "full_description_rus": "<p>Кувас — древняя венгерская порода, известная своей ролью охранника скота и защитника. Происходя из Карпатского бассейна, кувас был привезен племенами мадьяр во время их завоеваний в конце IX века. Считается, что название породы происходит от турецкого слова 'Kawasz', означающего 'вооруженный страж' или 'защитник'. Исторически кувас служил королевской сторожевой собакой и охотничьим компаньоном, особенно любимым королем Матьяшем Корвином в XV веке. Порода оказалась на грани исчезновения во время Второй мировой войны, но была восстановлена благодаря целенаправленным усилиям заводчиков.</p>\n<p>Физически кувас — это крупная, крепкая собака с хорошо сложенным, мускулистым телосложением. Кобели обычно достигают высоты в холке от 71 до 76 см и весят от 48 до 62 кг, в то время как суки немного меньше, с ростом от 66 до 71 см и весом от 37 до 50 кг. Самой отличительной чертой породы является густая, двойная белая шерсть, которая может быть прямой или волнистой. Эта шерсть обеспечивает защиту от суровых погодных условий и хищников. Кожа сланцево-серая, глаза миндалевидные и темно-карие, что придает выражение ума и проницательности.</p>\n<p>По темпераменту кувас смелый, умный и независимый. Будучи выведенным для самостоятельного принятия решений при охране скота, он обладает сильным защитным инстинктом и естественной настороженностью к незнакомцам. Однако кувас глубоко предан и привязан к своей семье, формируя крепкие связи с теми, кому доверяет. Его независимый характер требует последовательной, твердой дрессировки с раннего возраста для установления границ и обеспечения хорошего поведения.</p>\n<p>Изначально кувас использовался для охраны скота, такого как овцы и крупный рогатый скот, защищая их от хищников и воров. Его острые чувства и бесстрашный характер делали его отличным в этой роли. В современное время, хотя некоторые кувасы все еще служат в традиционной роли, многие адаптировались к жизни в качестве семейных компаньонов и охранников собственности. Их защитные инстинкты остаются сильными, делая их бдительными сторожевыми собаками. Несмотря на свое рабочее наследие, они могут процветать в семейных условиях при условии надлежащей дрессировки, социализации и достаточной физической и умственной стимуляции.</p>\n<p>Отличительными чертами куваса являются его непоколебимая преданность, интеллект и защитный характер. Они известны своей способностью принимать самостоятельные решения, что является результатом их истории охраны скота без прямого человеческого надзора. Их поразительная белая шерсть не только выполняет функциональную роль, но и добавляет величественности их внешнему виду. Хотя они ласковы с семьей, их сдержанное поведение по отношению к незнакомцам подчеркивает их роль естественных защитников.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: 100-115 lb (48-62 kg); Females: 70-90 lb (37-50 kg)",
+    "height": "Males: 28-30 in (71-76 cm); Females: 26-28 in (66-71 cm)",
+    "coat": "Dense, double-layered, white; can be straight or wavy",
+    "activity": "Moderate to high; requires regular exercise",
+    "trainability": "Moderate; intelligent but independent, requires consistent training",
+    "grooming": "Regular brushing to manage shedding; minimal bathing required",
+    "lifespan": "10-12 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "Кобели: 48-62 кг; Суки: 37-50 кг",
+    "рост": "Кобели: 71-76 см; Суки: 66-71 см",
+    "шерсть": "Густая, двойная, белая; может быть прямой или волнистой",
+    "активность": "Умеренная до высокой; требует регулярных физических нагрузок",
+    "обучаемость": "Средняя; умный, но независимый, требует последовательной дрессировки",
+    "уход": "Регулярное расчесывание для контроля линьки; минимальное купание",
+    "продолжительность жизни": "10-12 лет"
+  },
+  "behavior": {
+    "summary": "The Kuvasz is a loyal and protective breed, known for its intelligence and independence. They form strong bonds with their families and are naturally wary of strangers, making them excellent guardians.",
+    "with_family": "Affectionate and devoted, the Kuvasz thrives on close relationships with family members and is known for its unwavering loyalty.",
+    "with_children": "Generally good with children, especially when raised with them, but their large size and protective nature necessitate supervision during interactions.",
+    "with_other_pets": "Can coexist with other pets if properly socialized from a young age; however, their strong guarding instincts may lead to dominance behaviors.",
+    "with_strangers": "Naturally reserved and cautious around strangers; early socialization is essential to prevent overprotectiveness.",
+    "special_traits": [
+      "Independent decision-maker",
+      "Strong protective instinct",
+      "Loyal and affectionate with family",
+      "Reserved with strangers",
+      "Intelligent and trainable with consistent guidance"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Кувас — преданная и защитная порода, известная своим интеллектом и независимостью. Они формируют крепкие связи с семьей и естественно настороженно относятся к незнакомцам, что делает их отличными охранниками.",
+    "с семьёй": "Ласковый и преданный, кувас процветает в тесных отношениях с членами семьи и известен своей непоколебимой лояльностью.",
+    "с детьми": "Обычно хорошо ладит с детьми, особенно если вырос с ними, но из-за крупного размера и защитного характера требуется надзор при взаимодействиях.",
+    "с другими животными": "Может сосуществовать с другими животными при правильной социализации с раннего возраста; однако сильные охранные инстинкты могут привести к доминирующему поведению.",
+    "с незнакомцами": "Естественно сдержан и осторожен с незнакомцами; ранняя социализация необходима для предотвращения чрезмерной защитности.",
+    "особые черты": [
+      "Способность к самостоятельному принятию решений",
+      "Сильный защитный инстинкт",
+      "Преданность и привязанность к семье",
+      "Сдержанность с незнакомцами",
+      "Интеллект и обучаемость при последовательном руководстве"
+    ]
+  },
+  "health": {
+    "summary": "The Kuvasz is generally a healthy and robust breed with a lifespan of 10-12 years. However, they are prone to certain hereditary health issues that owners should be aware of.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Bloat (gastric torsion)",
+      "Progressive retinal atrophy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight through proper diet and exercise",
+      "Provide a balanced diet appropriate for large breeds",
+      "Avoid overfeeding to prevent obesity",
+      "Monitor for signs of joint issues and seek early intervention"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with health concerns."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Кувас — в целом здоровая и крепкая порода с продолжительностью жизни 10-12 лет. Однако они склонны к определенным наследственным заболеваниям, о которых владельцы должны быть осведомлены.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Вздутие живота (желудочный заворот)",
+      "Прогрессирующая атрофия сетчатки"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здорового веса через правильное питание и физические нагрузки",
+      "Обеспечение сбалансированного рациона, подходящего для крупных пород",
+      "Избегание перекармливания для предотвращения ожирения",
+      "Мониторинг признаков проблем с суставами и своевременное вмешательство"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты могут потребоваться для пожилых собак или тех, у кого есть проблемы со здоровьем."
+  },
+  "care": {
+    "description": "Caring for a Kuvasz involves regular exercise, consistent training, and routine grooming to maintain their health and well-being.",
+    "behavior": "Early socialization and firm, consistent training are essential to manage their independent nature and strong protective instincts.",
+    "health": "Regular veterinary care, a balanced diet, and monitoring for common health issues are crucial for maintaining their health.",
+    "grooming": "Regular brushing is necessary to manage shedding and prevent matting; bathing should be done as needed, but not excessively.",
+    "nutrition": "Provide a high-quality diet formulated for large breeds; monitor food intake to prevent obesity and support joint health."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Уход за кувасом включает регулярные физические нагрузки, последовательную дрессировку и рутинный груминг для поддержания их здоровья и благополучия.",
+    "поведение и характер": "Ранняя социализация и твердая, последовательная дрессировка необходимы для управления их независимым характером и сильными защитными инстинктами.",
+    "здоровье и профилактика": "Регулярный ветеринарный уход, сбалансированное питание и мониторинг распространенных проблем со здоровьем имеют решающее значение для поддержания их здоровья.",
+    "груминг и уход": "Регулярное расчесывание необходимо для контроля линьки и предотвращения спутывания шерсти; купание следует проводить по мере необходимости, но не чрезмерно.",
+    "питание и активность": "Обеспечьте высококачественный рацион, разработанный для крупных пород; контролируйте потребление пищи для предотвращения ожирения и поддержания здоровья суставов."
+  },
+  "faq": [
+    {
+      "question": "Is the Kuvasz suitable for first-time dog owners?",
+      "answer": "Due to their independent nature and strong protective instincts, the Kuvasz is best suited for experienced dog owners who can provide firm, consistent training."
+    },
+    {
+      "question": "How much exercise does a Kuvasz require?",
+      "answer": "The Kuvasz requires moderate to high levels of exercise, including daily walks and opportunities for free play in a secure area."
+    },
+    {
+      "question": "Does the Kuvasz get along with other pets?",
+      "answer": "With proper socialization from a young age, the Kuvasz can coexist with other pets, though their guarding instincts may lead to dominance behaviors."
+    },
+    {
+      "question": "How often should I groom my Kuvasz?",
+      "answer": "Regular brushing several times a week is recommended to manage shedding and prevent matting; bathing should be done as needed."
+    },
+    {
+      "question": "Is the Kuvasz good with children?",
+      "answer": "The Kuvasz is generally good with children, especially when raised with them, but supervision is necessary due to their large size and protective nature."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходит ли кувас для неопытных владельцев собак?",
+      "ответ": "Из-за их независимого характера и сильных защитных инстинктов кувас лучше всего подходит для опытных владельцев, способных обеспечить твердую, последовательную дрессировку."
+    },
+    {
+      "вопрос": "Сколько физической активности требуется кувасу?",
+      "ответ": "Кувас требует умеренных до высоких уровней физической активности, включая ежедневные прогулки и возможности для свободных игр в безопасной зоне."
+    },
+    {
+      "вопрос": "Ладит ли кувас с другими животными?",
+      "ответ": "При правильной социализации с раннего возраста кувас может сосуществовать с другими животными, хотя его охранные инстинкты могут привести к доминирующему поведению."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за шерстью куваса?",
+      "ответ": "Рекомендуется регулярное расчесывание несколько раз в неделю для контроля линьки и предотвращения спутывания шерсти; купание следует проводить по мере необходимости."
+    },
+    {
+      "вопрос": "Хорошо ли кувас ладит с детьми?",
+      "ответ": "Кувас обычно хорошо ладит с детьми, особенно если вырос с ними, но из-за крупного размера и защитного характера требуется надзор при взаимодействиях."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/dog-breeds/kuvasz/",
+    "https://kuvaszclubofamerica.org/",
+    "https://www.fci.be/en/nomenclature/KUVASZ-54.html",
+    "https://www.hillspet.com/dog-care/dog-breeds/kuvasz",
+    "https://en.wikipedia.org/wiki/Kuvasz",
+    "https://royalcanin.ru/dog-breed/kuvasz",
+    "https://www.hillspet.ru/dog-care/dog-breeds/kuvasz",
+    "https://mypets.kz/dog/kuvas/",
+    "https://pet-yes.com/breeds/kuvas"
+  ]
+}

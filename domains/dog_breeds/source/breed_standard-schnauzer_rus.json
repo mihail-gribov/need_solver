@@ -1,0 +1,156 @@
+{
+  "id": "standard-schnauzer",
+  "name": "Standard Schnauzer",
+  "name_rus": "Стандартный шнауцер",
+  "full_description": "<p>The Standard Schnauzer, originating in 14th-century Germany, was developed as a versatile farm dog adept at guarding property, herding livestock, and controlling vermin populations. The breed's name, derived from the German word 'schnauze' meaning 'snout,' highlights its distinctive bearded muzzle. Historically, these dogs were known as Wire-Haired Pinschers and were first exhibited in Germany in the 1870s. They gained popularity in the United States in the early 20th century, with the American Kennel Club (AKC) recognizing the breed in 1904. Physically, Standard Schnauzers are medium-sized, robust, and squarely built, standing between 17.5 to 19.5 inches tall and weighing 30 to 50 pounds. They possess a dense, wiry double coat in solid black or salt-and-pepper colorations, complemented by arched eyebrows and a bristly beard. Their expressive dark brown eyes and V-shaped ears, which may be cropped or natural, contribute to their alert appearance. Temperamentally, Standard Schnauzers are intelligent, energetic, and affectionate. They form strong bonds with their families and are known for their protective nature, making them excellent watchdogs. Their high intelligence and problem-solving abilities require consistent, positive reinforcement training to manage their sometimes stubborn tendencies. Originally bred for farm work, including guarding and ratting, they have transitioned into roles such as therapy, service, and search-and-rescue dogs. Their versatility also shines in dog sports like obedience, agility, and herding trials. In modern times, Standard Schnauzers are cherished companions, valued for their loyalty, playfulness, and adaptability to various living environments. Notable characteristics include their distinctive facial hair, which requires regular grooming, and their spirited, reliable nature that endears them to families worldwide.</p>",
+  "full_description_rus": "<p>Стандартный шнауцер — порода собак, возникшая в Германии в XIV веке. Изначально эти собаки использовались на фермах для охраны имущества, выпаса скота и борьбы с грызунами. Название породы происходит от немецкого слова 'schnauze', что означает 'морда', подчёркивая их характерную бородатую морду. Исторически известные как жесткошёрстные пинчеры, они впервые были представлены на выставках в Германии в 1870-х годах. В начале XX века порода стала популярной в США, где была признана Американским кеннел-клубом (AKC) в 1904 году. Физически стандартные шнауцеры — это средние по размеру, крепкие и пропорционально сложенные собаки, рост которых составляет от 45 до 50 см, а вес — от 14 до 20 кг. Они обладают густой, жёсткой двойной шерстью чёрного цвета или окраса 'перец с солью', дополненной выразительными бровями и густой бородой. Их тёмно-карие глаза и V-образные уши, которые могут быть купированы или оставлены естественными, придают им бдительный вид. По характеру стандартные шнауцеры умны, энергичны и привязаны к своим владельцам. Они формируют крепкие связи с семьёй и известны своей защитной натурой, что делает их отличными сторожевыми собаками. Высокий интеллект и способность к решению задач требуют последовательной, положительной дрессировки для управления их иногда упрямым характером. Первоначально выведенные для фермерских работ, включая охрану и истребление грызунов, они также успешно работают в качестве терапевтических, служебных и поисково-спасательных собак. Их универсальность проявляется и в собачьих видах спорта, таких как послушание, аджилити и пастушьи испытания. В современном мире стандартные шнауцеры ценятся как преданные, игривые и адаптивные компаньоны, подходящие для различных условий жизни. Их отличительные черты, включая характерную бороду, требуют регулярного ухода, а их энергичный и надёжный характер делает их любимцами семей по всему миру.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "30-50 pounds",
+    "height": "17.5-19.5 inches",
+    "coat": "dense, wiry double coat; colors: solid black or salt-and-pepper",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming recommended",
+    "lifespan": "13-16 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "14-20 кг",
+    "рост": "45-50 см",
+    "шерсть": "густая, жёсткая двойная; окрасы: чёрный или 'перец с солью'",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчёсывание; рекомендуется профессиональный груминг",
+    "продолжительность жизни": "13-16 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Energetic and requires regular exercise",
+      "Protective and alert watchdog",
+      "Affectionate with family",
+      "Strong prey drive"
+    ],
+    "summary": "Standard Schnauzers are intelligent, energetic, and affectionate dogs known for their loyalty and protective nature. They thrive on human companionship and require regular mental and physical stimulation to prevent boredom.",
+    "with_children": "Generally good with children, they are playful and tolerant. Early socialization is important to ensure positive interactions.",
+    "with_family": "They form strong bonds with family members, displaying devotion and a desire to be involved in all activities. Their protective instincts make them excellent watchdogs.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets. However, their strong prey drive may lead them to chase smaller animals.",
+    "with_strangers": "They tend to be reserved around unfamiliar people, often displaying a cautious demeanor. Proper socialization can help them become more accepting of strangers."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Стандартные шнауцеры — умные, энергичные и привязанные к своим владельцам собаки, известные своей преданностью и защитной натурой. Они нуждаются в регулярной умственной и физической стимуляции, чтобы избежать скуки.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя преданность и желание участвовать во всех мероприятиях. Их защитные инстинкты делают их отличными сторожевыми собаками.",
+    "с детьми": "Обычно хорошо ладят с детьми, будучи игривыми и терпеливыми. Ранняя социализация важна для обеспечения положительных взаимодействий.",
+    "с другими животными": "При правильной социализации могут мирно сосуществовать с другими животными. Однако их сильный охотничий инстинкт может побуждать их преследовать мелких животных.",
+    "с незнакомцами": "Склонны к сдержанности с незнакомыми людьми, часто проявляя осторожность. Правильная социализация поможет им стать более открытыми к незнакомцам.",
+    "особые черты": [
+      "Высокий интеллект и обучаемость",
+      "Энергичность и необходимость в регулярных физических нагрузках",
+      "Защитные инстинкты и бдительность",
+      "Привязанность к семье",
+      "Сильный охотничий инстинкт"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Cataracts",
+      "Retinal dysplasia",
+      "Follicular dysplasia",
+      "Dilated cardiomyopathy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Screening for hereditary conditions",
+      "Maintaining a healthy diet and weight",
+      "Providing regular exercise",
+      "Ensuring proper grooming to prevent skin issues"
+    ],
+    "summary": "Standard Schnauzers are generally healthy and long-lived, with a lifespan of 13 to 16 years. They are prone to certain hereditary health issues, so regular veterinary care and preventive measures are important.",
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Стандартные шнауцеры обычно здоровы и имеют продолжительность жизни от 13 до 16 лет. Однако они склонны к некоторым наследственным заболеваниям, поэтому регулярный ветеринарный контроль и профилактические меры важны.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Катаракта",
+      "Дисплазия сетчатки",
+      "Фолликулярная дисплазия",
+      "Дилатационная кардиомиопатия"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Скрининг на наследственные заболевания",
+      "Поддержание здоровой диеты и веса",
+      "Обеспечение регулярных физических нагрузок",
+      "Надлежащий уход за шерстью для предотвращения кожных проблем"
+    ],
+    "рекомендуемые осмотры": "Ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "behavior": "They thrive on human interaction and mental challenges. Engaging them in activities like obedience training, agility, or interactive games helps prevent boredom and destructive behaviors.",
+    "description": "Standard Schnauzers require attentive care, including regular exercise, mental stimulation, and consistent grooming to maintain their health and well-being.",
+    "grooming": "Their wiry coat requires brushing several times a week and professional grooming every few months to maintain its texture and prevent matting.",
+    "health": "Regular veterinary visits are essential to monitor for hereditary conditions. A balanced diet and routine exercise contribute to overall health.",
+    "nutrition": "A high-quality diet appropriate for their age, size, and activity level is recommended. Portion control is important to prevent obesity."
+  },
+  "care_rus": {
+    "описание": "Стандартные шнауцеры требуют внимательного ухода, включая регулярные физические нагрузки, умственную стимуляцию и постоянный груминг для поддержания их здоровья и благополучия.",
+    "поведение и характер": "Они процветают при взаимодействии с людьми и умственных задачах. Участие в таких занятиях, как дрессировка на послушание, аджилити или интерактивные игры, помогает предотвратить скуку и деструктивное поведение.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару необходимы для мониторинга наследственных заболеваний. Сбалансированная диета и регулярные физические нагрузки способствуют общему здоровью.",
+    "груминг и уход": "Их жёсткая шерсть требует расчёсывания несколько раз в неделю и профессионального груминга каждые несколько месяцев для поддержания её текстуры и предотвращения спутывания.",
+    "питание и активность": "Рекомендуется высококачественная диета, соответствующая их возрасту, размеру и уровню активности. Контроль порций важен для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Standard Schnauzers good with children?",
+      "answer": "Yes, they are generally good with children, being playful and tolerant. Early socialization is important to ensure positive interactions."
+    },
+    {
+      "question": "How much exercise does a Standard Schnauzer need?",
+      "answer": "They require at least 30 minutes of daily exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Standard Schnauzers shed a lot?",
+      "answer": "They have a low-shedding coat, but regular grooming is necessary to maintain its condition and prevent matting."
+    },
+    {
+      "question": "Are Standard Schnauzers easy to train?",
+      "answer": "Yes, they are highly intelligent and trainable, but they can be strong-willed. Consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "What are common health issues in Standard Schnauzers?",
+      "answer": "Common health concerns include hip dysplasia, cataracts, and dilated cardiomyopathy. Regular veterinary care is important for early detection and management."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Хорошо ли стандартные шнауцеры ладят с детьми?",
+      "ответ": "Да, они обычно хорошо ладят с детьми, будучи игривыми и терпеливыми. Ранняя социализация важна для обеспечения положительных взаимодействий."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется стандартному шнауцеру?",
+      "ответ": "Им необходимо не менее 30 минут ежедневных физических нагрузок для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Сильно ли линяют стандартные шнауцеры?",
+      "ответ": "У них мало линяющая шерсть, но регулярный уход необходим для поддержания её состояния и предотвращения спутывания."
+    },
+    {
+      "вопрос": "Легко ли дрессировать стандартных шнауцеров?",
+      "ответ": "Да, они очень умны и обучаемы, но могут быть упрямыми. Последовательная, положительная дрессировка эффективна."
+    },
+    {
+      "вопрос": "Какие распространённые проблемы со здоровьем у стандартных шнауцеров?",
+      "ответ": "Распространённые проблемы со здоровьем включают дисплазию тазобедренного сустава, катаракту и дилатационную кардиомиопатию. Регулярный ветеринарный уход важен для раннего выявления и управления этими состояниями."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/why-doesnt-everyone-have-standard-schnauzer/",
+    "https://www.petmd.com/dog/breeds/standard-schnauzer",
+    "https://en.wikipedia.org/wiki/Standard_Schnauzer",
+    "https://www.standardschnauzer.org/newSSCA/breed_standard.html",
+    "https://www.chewy.com/education/dog-breeds/Standard-Schnauzer"
+  ]
+}

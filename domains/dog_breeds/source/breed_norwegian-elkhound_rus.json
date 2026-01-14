@@ -1,0 +1,159 @@
+{
+  "id": "norwegian-elkhound",
+  "name": "Norwegian Elkhound",
+  "name_rus": "Норвежский элкхаунд",
+  "full_description": "<p>The Norwegian Elkhound is a robust and versatile breed with deep roots in Norway's history. As a member of the Spitz family, this medium-sized dog has been integral to Scandinavian culture for centuries. Archaeological findings suggest that ancestors of the Norwegian Elkhound date back to the Viking era, where they served as hunters, guardians, and companions. The breed's primary role was to track and hold large game such as moose (referred to as 'elg' in Norwegian), bears, and wolves at bay, allowing hunters to approach and make the kill. This required immense courage, agility, and stamina, traits that the breed continues to exhibit today. Physically, the Norwegian Elkhound presents a square and compact build, standing approximately 19.5 to 20.5 inches tall at the withers and weighing between 48 to 55 pounds. Their dense double coat is predominantly gray, with variations ranging from light silver to darker shades, and features black-tipped guard hairs. Distinctive markings include a black muzzle, ears, and tail tip, with lighter gray on the chest, mane, and underbelly. The breed's head is broad and wedge-shaped, complemented by dark brown, oval-shaped eyes that exude a keen and friendly expression. Erect, pointed ears and a tightly curled tail carried over the back are hallmark features. Temperamentally, Norwegian Elkhounds are known for their boldness, independence, and loyalty. They form strong bonds with their families and are particularly good with children, often displaying a playful and protective nature. Their independent streak can sometimes pose challenges in training, necessitating consistent, positive reinforcement methods. Historically bred for hunting, they possess a high energy level and require regular physical and mental stimulation to prevent boredom and associated behavioral issues. In contemporary settings, while some Norwegian Elkhounds still participate in hunting activities, many have transitioned into roles as family companions, excelling in various dog sports such as agility, obedience, and tracking. Their friendly disposition and alertness also make them effective watchdogs. Notable characteristics of the breed include their resilience in harsh weather conditions, thanks to their dense coat, and their vocal nature, often using barking to communicate or alert their owners. Their combination of strength, agility, and endurance, coupled with a friendly and loyal temperament, continues to endear them to dog enthusiasts worldwide.</p>",
+  "full_description_rus": "<p>Норвежский элкхаунд — крепкая и универсальная порода с глубокими корнями в истории Норвегии. Как представитель семейства шпицев, эта собака среднего размера на протяжении веков была неотъемлемой частью скандинавской культуры. Археологические находки свидетельствуют, что предки норвежского элкхаунда существовали еще в эпоху викингов, где они служили охотниками, сторожами и компаньонами. Основной задачей породы было выслеживание и удержание крупной дичи, такой как лоси (на норвежском 'elg'), медведи и волки, позволяя охотникам приблизиться и совершить добычу. Это требовало огромного мужества, ловкости и выносливости — качеств, которые порода сохраняет и сегодня. Физически норвежский элкхаунд имеет квадратное и компактное телосложение, рост в холке составляет примерно 50–52 см, вес — от 20 до 25 кг. Их густая двойная шерсть преимущественно серая, с вариациями от светло-серебристого до более темных оттенков, с черными кончиками остевых волос. Отличительными чертами являются черная морда, уши и кончик хвоста, с более светлым серым на груди, гриве и подбрюшье. Голова породы широкая и клинообразная, с темно-коричневыми овальными глазами, излучающими острый и дружелюбный взгляд. Стоячие, заостренные уши и плотно закрученный хвост, несомый над спиной, являются характерными признаками. По темпераменту норвежские элкхаунды известны своей смелостью, независимостью и преданностью. Они формируют крепкие связи со своими семьями и особенно хорошо ладят с детьми, часто проявляя игривость и защитные качества. Их независимый характер может иногда создавать трудности в обучении, требуя последовательных методов с положительным подкреплением. Исторически выведенные для охоты, они обладают высоким уровнем энергии и нуждаются в регулярной физической и умственной стимуляции, чтобы предотвратить скуку и связанные с этим поведенческие проблемы. В современных условиях, хотя некоторые норвежские элкхаунды продолжают участвовать в охотничьих мероприятиях, многие из них перешли в роль семейных компаньонов, преуспевая в различных собачьих видах спорта, таких как аджилити, послушание и трекинг. Их дружелюбный нрав и бдительность также делают их эффективными сторожевыми собаками. Примечательными характеристиками породы являются их устойчивость к суровым погодным условиям благодаря густой шерсти и их склонность к вокализации, часто используя лай для общения или предупреждения владельцев. Их сочетание силы, ловкости и выносливости, наряду с дружелюбным и преданным темпераментом, продолжает привлекать любителей собак по всему миру.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "48-55 pounds",
+    "height": "19.5-20.5 inches",
+    "coat": "dense double coat, predominantly gray with black-tipped guard hairs",
+    "activity": "high",
+    "trainability": "moderate; intelligent but can be independent",
+    "grooming": "regular brushing; increased during shedding seasons",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "20–25 кг",
+    "рост": "50–52 см",
+    "шерсть": "густая двойная, преимущественно серая с черными кончиками остевых волос",
+    "активность": "высокая",
+    "обучаемость": "умеренная; умны, но могут быть независимыми",
+    "уход": "регулярное расчесывание; усиленный уход в периоды линьки",
+    "продолжительность жизни": "12–15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Independent thinker",
+      "Vocal communicator",
+      "High energy levels",
+      "Strong hunting instincts",
+      "Loyal and protective nature"
+    ],
+    "summary": "Norwegian Elkhounds are energetic, loyal, and independent dogs known for their friendly disposition and strong protective instincts.",
+    "with_children": "Generally good with children, they are playful and patient, making them suitable family pets.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and affection, and often acting as protective companions.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets, though their hunting instincts may sometimes surface.",
+    "with_strangers": "They tend to be alert and may be reserved around strangers, often barking to alert their owners of unfamiliar presence."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Норвежские элкхаунды — энергичные, преданные и независимые собаки, известные своим дружелюбным нравом и сильными защитными инстинктами.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя лояльность и привязанность, часто выступая в роли защитников.",
+    "с детьми": "Обычно хорошо ладят с детьми, проявляя игривость и терпение, что делает их подходящими семейными питомцами.",
+    "с другими животными": "При правильной социализации могут мирно сосуществовать с другими животными, хотя их охотничьи инстинкты иногда могут проявляться.",
+    "с незнакомцами": "Они склонны быть бдительными и могут быть сдержанными с незнакомцами, часто лая, чтобы предупредить владельцев о присутствии посторонних.",
+    "особые черты": [
+      "Независимый характер",
+      "Склонность к вокализации",
+      "Высокий уровень энергии",
+      "Сильные охотничьи инстинкты",
+      "Преданность и защитная натура"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Fanconi syndrome",
+      "Sebaceous cysts",
+      "Obesity"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy diet to prevent obesity",
+      "Provide adequate exercise to support joint health",
+      "Regular eye examinations to detect early signs of PRA",
+      "Monitor for skin abnormalities and consult a vet if cysts develop"
+    ],
+    "summary": "Norwegian Elkhounds are generally healthy but are predisposed to certain genetic conditions that owners should monitor.",
+    "vet_checkups": "At least once a year; more frequent visits for senior dogs or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Норвежские элкхаунды в целом здоровы, но склонны к определенным генетическим заболеваниям, за которыми владельцам следует внимательно следить.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Синдром Фанкони",
+      "Сальные кисты",
+      "Ожирение"
+    ],
+    "советы по профилактике": [
+      "Регулярные визиты к ветеринару",
+      "Поддержание здоровой диеты для предотвращения ожирения",
+      "Обеспечение достаточной физической нагрузки для поддержки здоровья суставов",
+      "Регулярные осмотры глаз для раннего выявления признаков PRA",
+      "Мониторинг состояния кожи и консультация с ветеринаром при появлении кист"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "behavior": "Due to their independent nature, consistent training with positive reinforcement is essential; they thrive on mental and physical challenges.",
+    "description": "Norwegian Elkhounds require consistent care, including regular exercise, grooming, and health monitoring to ensure their well-being.",
+    "grooming": "Brush their dense coat several times a week, increasing frequency during shedding seasons; bathe only when necessary to preserve natural oils.",
+    "health": "Regular veterinary visits are crucial to monitor for breed-specific health issues; maintaining a healthy weight is particularly important.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Норвежские элкхаунды требуют постоянного ухода, включая регулярные физические нагрузки, груминг и мониторинг здоровья для обеспечения их благополучия.",
+    "поведение и характер": "Из-за их независимого характера необходима последовательная дрессировка с положительным подкреплением; они процветают при умственных и физических нагрузках.",
+    "груминг и уход": "Расчесывайте их густую шерсть несколько раз в неделю, увеличивая частоту в периоды линьки; купайте только при необходимости, чтобы сохранить натуральные масла.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару необходимы для мониторинга специфических для породы проблем со здоровьем; поддержание здорового веса особенно важно.",
+    "питание и активность": "Обеспечьте сбалансированную диету, соответствующую их возрасту, размеру и уровню активности; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Norwegian Elkhounds good with children?",
+      "answer": "Yes, they are generally good with children, displaying a playful and patient nature, making them suitable family pets."
+    },
+    {
+      "question": "How much exercise does a Norwegian Elkhound need?",
+      "answer": "They require at least an hour of exercise daily, including walks, playtime, or other physical activities to keep them mentally and physically stimulated."
+    },
+    {
+      "question": "Do Norwegian Elkhounds shed a lot?",
+      "answer": "Yes, they shed moderately year-round and experience heavy shedding twice a year; regular brushing helps manage this."
+    },
+    {
+      "question": "Are Norwegian Elkhounds easy to train?",
+      "answer": "They are intelligent but have an independent streak, which can make training challenging; consistent, positive reinforcement methods are recommended."
+    },
+    {
+      "question": "What is the lifespan of a Norwegian Elkhound?",
+      "answer": "They typically live between 12 to 15 years with proper care and a healthy lifestyle."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Хорошо ли норвежские элкхаунды ладят с детьми?",
+      "ответ": "Да, они обычно хорошо ладят с детьми, проявляя игривость и терпение, что делает их подходящими семейными питомцами."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется норвежскому элкхаунду?",
+      "ответ": "Им необходимо не менее часа физических нагрузок ежедневно, включая прогулки, игры или другие активности, чтобы поддерживать их умственную и физическую стимуляцию."
+    },
+    {
+      "вопрос": "Сильно ли линяют норвежские элкхаунды?",
+      "ответ": "Да, они умеренно линяют круглый год и испытывают сильную линьку дважды в год; регулярное расчесывание помогает справляться с этим."
+    },
+    {
+      "вопрос": "Легко ли дрессировать норвежских элкхаундов?",
+      "ответ": "Они умны, но имеют независимый характер, что может усложнять дрессировку; рекомендуется последовательный подход с положительным подкреплением."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни норвежского элкхаунда?",
+      "ответ": "При надлежащем уходе и здоровом образе жизни они обычно живут от 12 до 15 лет."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/conformation-breed-standards/norwegian-elkhound",
+    "https://www.akc.org/wp-content/uploads/2021/12/2021-NOC-RNC-Catalog.pdf",
+    "https://en.wikipedia.org/wiki/Norwegian_Elkhound",
+    "https://www.petmd.com/dog/breeds/c_dg_norwegian_elkhound",
+    "https://www.webmd.com/pets/dogs/what-to-know-norwegian-elkhounds",
+    "https://vcahospitals.com/know-your-pet/norwegian-elkhound",
+    "https://www.embracepetinsurance.com/dog-breeds/norwegian-elkhound",
+    "https://www.care.com/family-pet-guide-dogs-hounds-norwegian-elkhound-p1104-q168387.html"
+  ]
+}

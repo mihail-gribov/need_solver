@@ -1,0 +1,81 @@
+{
+  "id": "bloodhound",
+  "name": "Bloodhound",
+  "full_description": "<p>The Bloodhound is an ancient breed renowned for its exceptional scent-tracking abilities. Originating in Europe, its lineage traces back to the St. Hubert Hound developed by monks in 8th-century Belgium. These dogs were bred for their keen noses, primarily to track game such as deer and wild boar. Over time, their tracking prowess made them invaluable in law enforcement and search-and-rescue operations. Physically, Bloodhounds are large, powerful dogs with a distinctive appearance. They possess loose, wrinkled skin, especially around the head and neck, which forms deep folds. Their long, drooping ears and sunken eyes contribute to their solemn expression. The coat is short and dense, typically found in black and tan, liver and tan, or red hues. Temperamentally, Bloodhounds are gentle, affectionate, and patient. They are known for their determination and single-mindedness when following a scent, which can sometimes translate to stubbornness. Originally bred for tracking, they have an unparalleled ability to follow trails over great distances, making them indispensable in search-and-rescue missions and criminal investigations. In modern times, while they continue to serve in professional capacities, Bloodhounds have also become cherished family companions. Their friendly nature and loyalty endear them to many, though their size and energy levels require committed care. Notably, the Bloodhound's evidence has been deemed admissible in U.S. courts, a testament to their tracking accuracy.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "80–110 pounds (36–50 kg)",
+    "height": "23–27 inches (58–69 cm)",
+    "coat": "short, dense",
+    "activity": "moderate to high",
+    "trainability": "moderate; can be stubborn",
+    "grooming": "regular cleaning of skin folds and ears; moderate shedding",
+    "lifespan": "10–12 years"
+  },
+  "behavior": {
+    "summary": "Bloodhounds are gentle, affectionate, and determined dogs, renowned for their exceptional scent-tracking abilities.",
+    "with_family": "They are loyal and loving, forming strong bonds with family members.",
+    "with_children": "Generally patient and gentle, making them good companions for children.",
+    "with_other_pets": "Typically amiable and can coexist peacefully with other animals.",
+    "with_strangers": "Friendly and non-aggressive, though their size can be intimidating.",
+    "special_traits": [
+      "Exceptional scent-tracking ability",
+      "Gentle and affectionate nature",
+      "Determined and focused when on a scent",
+      "Can be stubborn during training",
+      "Requires regular exercise to prevent boredom"
+    ]
+  },
+  "health": {
+    "summary": "Bloodhounds are generally healthy but are prone to certain conditions due to their size and physical characteristics.",
+    "common_issues": [
+      "Bloat (gastric dilatation-volvulus)",
+      "Hip dysplasia",
+      "Ear infections",
+      "Skin fold infections",
+      "Eye issues like entropion"
+    ],
+    "prevention_tips": [
+      "Feed smaller, frequent meals to reduce bloat risk",
+      "Regular ear cleaning to prevent infections",
+      "Maintain a healthy weight to reduce joint stress",
+      "Clean and dry skin folds regularly",
+      "Regular eye check-ups"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues"
+  },
+  "care": {
+    "description": "Bloodhounds require attentive care, including regular exercise, grooming, and health monitoring.",
+    "behavior": "They need consistent training with positive reinforcement due to their stubborn nature.",
+    "health": "Regular veterinary check-ups and preventive care are essential to address breed-specific health concerns.",
+    "grooming": "Routine cleaning of ears and skin folds is necessary to prevent infections.",
+    "nutrition": "A balanced diet with controlled portions helps maintain a healthy weight and reduces the risk of bloat."
+  },
+  "faq": [
+    {
+      "question": "Are Bloodhounds good family pets?",
+      "answer": "Yes, they are gentle and affectionate, making them excellent companions for families."
+    },
+    {
+      "question": "Do Bloodhounds require a lot of exercise?",
+      "answer": "Yes, regular exercise is important to keep them healthy and prevent boredom."
+    },
+    {
+      "question": "Are Bloodhounds easy to train?",
+      "answer": "They can be stubborn, so consistent, positive reinforcement training is recommended."
+    },
+    {
+      "question": "Do Bloodhounds drool a lot?",
+      "answer": "Yes, they are known to drool, especially after eating or drinking."
+    },
+    {
+      "question": "What is the lifespan of a Bloodhound?",
+      "answer": "They typically live between 10 to 12 years."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/bloodhound",
+    "https://www.akc.org/expert-advice/dog-breeds/bloodhound-history/",
+    "https://kids.britannica.com/students/article/bloodhound/310274"
+  ]
+}

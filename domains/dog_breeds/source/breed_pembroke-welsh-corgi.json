@@ -1,0 +1,83 @@
+{
+  "id": "pembroke-welsh-corgi",
+  "name": "Pembroke Welsh Corgi",
+  "full_description": "<p>The Pembroke Welsh Corgi is a small, sturdy herding dog originating from Pembrokeshire, Wales. Historically, they were bred to herd cattle, utilizing their low stature to nip at the heels of livestock while avoiding kicks. This breed is characterized by a foxy head, erect ears, and a medium-length, weather-resistant double coat that comes in colors such as red, sable, fawn, and black and tan, often with white markings. They typically stand 10 to 12 inches tall at the shoulder and weigh between 24 to 30 pounds. Pembrokes are known for their intelligent and affectionate nature, making them excellent companions. They are energetic and require regular exercise to maintain their health and happiness. Their herding instincts may manifest in behaviors like nipping at heels, especially in young dogs. In modern times, Pembroke Welsh Corgis have gained popularity as family pets and have been notably favored by British royalty, including Queen Elizabeth II. Their combination of intelligence, loyalty, and manageable size contributes to their enduring appeal.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "24-30 pounds",
+    "height": "10-12 inches",
+    "coat": "medium-length, weather-resistant double coat",
+    "activity": "moderate to high",
+    "trainability": "high",
+    "grooming": "regular brushing; increased during shedding seasons",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Pembroke Welsh Corgis are intelligent, affectionate, and energetic dogs with strong herding instincts.",
+    "with_family": "They are loyal and form strong bonds with family members, often following them around the house.",
+    "with_children": "Generally good with children, though their herding instincts may lead to nipping behaviors that require training.",
+    "with_other_pets": "Can coexist well with other pets if socialized early, but may attempt to herd them.",
+    "with_strangers": "Alert and may be reserved around strangers, often barking to announce newcomers.",
+    "special_traits": [
+      "strong herding instincts",
+      "high intelligence",
+      "affectionate nature",
+      "alertness",
+      "loyalty"
+    ]
+  },
+  "health": {
+    "summary": "Pembroke Welsh Corgis are generally healthy but are prone to certain genetic and structural health issues.",
+    "common_issues": [
+      "hip dysplasia",
+      "intervertebral disc disease",
+      "progressive retinal atrophy",
+      "degenerative myelopathy",
+      "obesity"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintaining a healthy weight",
+      "providing appropriate exercise",
+      "monitoring for signs of joint or back issues",
+      "genetic testing for inherited conditions"
+    ],
+    "vet_checkups": "at least once a year; more frequent for senior dogs or those with health concerns"
+  },
+  "care": {
+    "description": "Pembroke Welsh Corgis require regular exercise, mental stimulation, and consistent grooming to maintain their health and happiness.",
+    "behavior": "Engage in activities that challenge their intelligence and satisfy their herding instincts, such as agility training or herding games.",
+    "health": "Monitor their weight closely to prevent obesity, which can exacerbate joint and back issues.",
+    "grooming": "Brush their coat several times a week, increasing frequency during shedding seasons; regular nail trimming and dental care are also important.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; avoid overfeeding to prevent weight gain."
+  },
+  "faq": [
+    {
+      "question": "Are Pembroke Welsh Corgis good apartment dogs?",
+      "answer": "Yes, with sufficient exercise and mental stimulation, they can adapt well to apartment living."
+    },
+    {
+      "question": "Do Pembroke Welsh Corgis get along with other dogs?",
+      "answer": "Yes, especially if socialized early, but they may try to herd other dogs due to their instincts."
+    },
+    {
+      "question": "How much exercise does a Pembroke Welsh Corgi need?",
+      "answer": "They require at least 30 to 60 minutes of exercise daily to stay healthy and happy."
+    },
+    {
+      "question": "Are Pembroke Welsh Corgis easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable with positive reinforcement."
+    },
+    {
+      "question": "Do Pembroke Welsh Corgis shed a lot?",
+      "answer": "Yes, they shed year-round, with increased shedding during spring and fall; regular grooming helps manage this."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/pembroke-welsh-corgi",
+    "https://www.akc.org/dog-breeds/pembroke-welsh-corgi/",
+    "https://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi",
+    "https://www.petmd.com/dog/breeds/pembroke-welsh-corgi",
+    "https://www.webmd.com/pets/dogs/what-to-know-pembroke-welsh-corgis"
+  ]
+}

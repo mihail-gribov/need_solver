@@ -1,0 +1,160 @@
+{
+  "id": "cocker-spaniel-american",
+  "name": "Cocker Spaniel (American)",
+  "name_rus": "Американский кокер-спаниель",
+  "full_description": "<p>The American Cocker Spaniel, often referred to simply as the Cocker Spaniel in the United States, is a breed of sporting dog that originated in the United States from the English Cocker Spaniel. The breed was developed to create a smaller, more refined dog suitable for hunting small game birds like the woodcock, from which its name is derived. The divergence between the American and English varieties became pronounced in the early 20th century, leading to the American Kennel Club recognizing them as separate breeds in 1946. The American Cocker Spaniel gained immense popularity in the mid-20th century, becoming the most popular breed in the U.S. during the 1940s and 1950s, and again in the 1980s. It has also achieved notable success in dog shows, including multiple Best in Show titles at the Westminster Kennel Club Dog Show and Crufts. Physically, the American Cocker Spaniel is the smallest member of the sporting dog group, standing between 13.5 to 15.5 inches tall and weighing approximately 20 to 30 pounds. The breed is characterized by a distinctive rounded skull, large dark eyes, and long, lobular ears set at eye level. Its coat is medium-length, silky, and can be flat or slightly wavy, with abundant feathering on the ears, chest, abdomen, and legs. Coat colors are diverse, including solid shades like black, liver, red, and golden, as well as parti-color combinations and roan patterns. Known for its cheerful and affectionate temperament, the American Cocker Spaniel is often referred to as the \"Merry Cocker.\" The breed is intelligent and eager to please, making it highly trainable. While originally bred for hunting, modern American Cocker Spaniels are primarily companion animals, excelling in roles such as therapy and assistance dogs due to their gentle nature. They are well-suited to family life, getting along well with children and other pets when properly socialized. Notable characteristics of the breed include its expressive eyes, which convey a gentle and alert expression, and its merry disposition. The American Cocker Spaniel's combination of beauty, intelligence, and affectionate nature continues to endear it to dog enthusiasts worldwide.</p>",
+  "full_description_rus": "<p>Американский кокер-спаниель, часто называемый просто кокер-спаниелем в США, — это порода охотничьих собак, происходящая от английского кокер-спаниеля. Порода была выведена для создания более мелкой и изящной собаки, подходящей для охоты на мелкую дичь, такую как вальдшнеп, от которого и происходит название породы. Различия между американским и английским вариантами стали заметными в начале XX века, что привело к признанию их как отдельных пород Американским клубом собаководства в 1946 году. Американский кокер-спаниель приобрел огромную популярность в середине XX века, становясь самой популярной породой в США в 1940-х и 1950-х годах, а затем снова в 1980-х. Порода также добилась значительных успехов на выставках собак, включая несколько титулов \"Best in Show\" на выставках Westminster Kennel Club Dog Show и Crufts. Физически американский кокер-спаниель является самым маленьким представителем группы охотничьих собак, достигая в высоту от 34 до 39 см и весом примерно от 9 до 13 кг. Порода характеризуется округлым черепом, большими темными глазами и длинными, низко посаженными ушами. Шерсть средней длины, шелковистая, может быть прямой или слегка волнистой, с обильным украшающим волосом на ушах, груди, животе и ногах. Окрасы разнообразны, включая однотонные цвета, такие как черный, печеночный, красный и золотистый, а также двухцветные комбинации и крапчатые узоры. Известный своим веселым и ласковым характером, американский кокер-спаниель часто называется \"веселым кокером\". Порода умна и стремится угодить, что делает ее легко обучаемой. Хотя изначально была выведена для охоты, современные американские кокер-спаниели в основном являются компаньонами, отлично справляясь с ролями терапевтических и вспомогательных собак благодаря своему мягкому нраву. Они хорошо подходят для семейной жизни, ладят с детьми и другими домашними животными при правильной социализации. Отличительными чертами породы являются выразительные глаза, передающие мягкое и бдительное выражение, и ее веселый нрав. Сочетание красоты, интеллекта и ласкового характера продолжает привлекать любителей собак по всему миру.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "20-30 pounds",
+    "height": "13.5-15.5 inches",
+    "coat": "medium-length, silky, flat or slightly wavy with abundant feathering",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming every 4-6 weeks",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "9-13 кг",
+    "рост": "34-39 см",
+    "шерсть": "средней длины, шелковистая, прямая или слегка волнистая с обильным украшающим волосом",
+    "активность": "умеренная",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчесывание; профессиональный груминг каждые 4-6 недель",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "summary": "The American Cocker Spaniel is known for its cheerful and affectionate nature, making it an excellent companion. It is intelligent and eager to please, which contributes to its high trainability.",
+    "with_family": "This breed forms strong bonds with family members and thrives on human companionship, often seeking attention and affection.",
+    "with_children": "American Cocker Spaniels are generally good with children, displaying patience and playfulness, especially when socialized from a young age.",
+    "with_other_pets": "They typically get along well with other pets, including dogs and cats, particularly when raised together or properly introduced.",
+    "with_strangers": "While friendly, they may be reserved around strangers initially but usually warm up quickly, especially if socialized early.",
+    "special_traits": [
+      "Affectionate and people-oriented",
+      "Intelligent and eager to please",
+      "Playful and energetic",
+      "Sensitive to tone of voice",
+      "May be prone to separation anxiety if left alone for extended periods"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Американский кокер-спаниель известен своим веселым и ласковым характером, что делает его отличным компаньоном. Он умен и стремится угодить, что способствует его высокой обучаемости.",
+    "с семьёй": "Эта порода формирует крепкие связи с членами семьи и процветает в обществе людей, часто ищет внимания и ласки.",
+    "с детьми": "Американские кокер-спаниели обычно хорошо ладят с детьми, проявляя терпение и игривость, особенно при социализации с раннего возраста.",
+    "с другими животными": "Они, как правило, хорошо уживаются с другими домашними животными, включая собак и кошек, особенно если выросли вместе или были правильно представлены.",
+    "с незнакомцами": "Хотя дружелюбны, могут быть сдержанными с незнакомцами поначалу, но обычно быстро привыкают, особенно при ранней социализации.",
+    "особые черты": [
+      "Ласковый и ориентированный на людей",
+      "Умный и стремящийся угодить",
+      "Игривый и энергичный",
+      "Чувствителен к тону голоса",
+      "Может быть склонен к тревоге при разлуке, если оставлять одного на длительное время"
+    ]
+  },
+  "health": {
+    "summary": "The American Cocker Spaniel is generally a healthy breed but is predisposed to certain genetic health issues. Regular veterinary care and preventive measures can help manage these concerns.",
+    "common_issues": [
+      "Progressive Retinal Atrophy (PRA)",
+      "Glaucoma",
+      "Ear infections",
+      "Hip dysplasia",
+      "Allergic skin conditions"
+    ],
+    "prevention_tips": [
+      "Regular eye examinations to detect early signs of PRA and glaucoma",
+      "Routine ear cleaning to prevent infections",
+      "Maintaining a healthy weight to reduce the risk of hip dysplasia",
+      "Providing a balanced diet to support overall health",
+      "Regular grooming to monitor skin health and prevent matting"
+    ],
+    "vet_checkups": "Annual checkups are recommended, with more frequent visits if health issues arise."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Американский кокер-спаниель в целом здоровая порода, но предрасположен к определенным генетическим заболеваниям. Регулярный ветеринарный уход и профилактические меры могут помочь справиться с этими проблемами.",
+    "распространённые проблемы": [
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Глаукома",
+      "Ушные инфекции",
+      "Дисплазия тазобедренного сустава",
+      "Аллергические кожные заболевания"
+    ],
+    "советы по профилактике": [
+      "Регулярные осмотры глаз для раннего выявления признаков PRA и глаукомы",
+      "Рутинная чистка ушей для предотвращения инфекций",
+      "Поддержание здорового веса для снижения риска дисплазии тазобедренного сустава",
+      "Обеспечение сбалансированного питания для поддержания общего здоровья",
+      "Регулярный груминг для контроля состояния кожи и предотвращения спутывания шерсти"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры, с более частыми визитами при возникновении проблем со здоровьем."
+  },
+  "care": {
+    "description": "Caring for an American Cocker Spaniel involves regular grooming, consistent training, and providing adequate exercise to maintain their physical and mental well-being.",
+    "behavior": "Early socialization and positive reinforcement training are essential to develop a well-mannered and confident dog.",
+    "health": "Regular veterinary visits and preventive care are crucial to monitor and maintain the breed's health.",
+    "grooming": "Their long, silky coat requires regular brushing to prevent matting and professional grooming every 4-6 weeks.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is important to maintain optimal health."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Уход за американским кокер-спаниелем включает регулярный груминг, последовательную дрессировку и обеспечение достаточной физической активности для поддержания их физического и психического благополучия.",
+    "поведение и характер": "Ранняя социализация и обучение с положительным подкреплением необходимы для развития воспитанной и уверенной собаки.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход важны для мониторинга и поддержания здоровья породы.",
+    "груминг и уход": "Их длинная, шелковистая шерсть требует регулярного расчесывания для предотвращения спутывания и профессионального груминга каждые 4-6 недель.",
+    "питание и активность": "Сбалансированное питание, соответствующее их возрасту, размеру и уровню активности, важно для поддержания оптимального здоровья."
+  },
+  "faq": [
+    {
+      "question": "Are American Cocker Spaniels good for first-time dog owners?",
+      "answer": "Yes, their friendly nature and high trainability make them suitable for first-time owners."
+    },
+    {
+      "question": "Do they require a lot of exercise?",
+      "answer": "They have moderate exercise needs and enjoy daily walks and playtime."
+    },
+    {
+      "question": "Are they prone to barking?",
+      "answer": "They may bark to alert their owners but are not known to be excessive barkers."
+    },
+    {
+      "question": "Do they shed a lot?",
+      "answer": "They shed moderately; regular grooming helps manage shedding."
+    },
+    {
+      "question": "Are they suitable for apartment living?",
+      "answer": "Yes, their size and moderate activity level make them well-suited for apartment living."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли американские кокер-спаниели для владельцев без опыта?",
+      "ответ": "Да, их дружелюбный характер и высокая обучаемость делают их подходящими для владельцев без опыта."
+    },
+    {
+      "вопрос": "Требуют ли они много физических нагрузок?",
+      "ответ": "Они имеют умеренные потребности в физической активности и наслаждаются ежедневными прогулками и играми."
+    },
+    {
+      "вопрос": "Склонны ли они к лаю?",
+      "ответ": "Они могут лаять, чтобы предупредить владельцев, но не известны как чрезмерно лающие собаки."
+    },
+    {
+      "вопрос": "Сильно ли они линяют?",
+      "ответ": "Они линяют умеренно; регулярный груминг помогает контролировать линьку."
+    },
+    {
+      "вопрос": "Подходят ли они для жизни в квартире?",
+      "ответ": "Да, их размер и умеренный уровень активности делают их хорошо подходящими для жизни в квартире."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/American_Cocker_Spaniel",
+    "https://www.webmd.com/pets/dogs/what-to-know-american-cocker-spaniels",
+    "https://www.purina.in/find-a-pet/dog/breed-library/american-cocker-spaniel",
+    "https://www.wisdompanel.com/en-us/dog-breeds/cocker-spaniel",
+    "https://www.petco.com/content/content-hub/home/breeds/dog-breeds/cocker-spaniel.html",
+    "https://ru.wikipedia.org/wiki/Американский_кокер-спаниель",
+    "https://www.pedigree.ru/porody/amerikanskij-koker-spaniel",
+    "https://mypets.kz/dog/amer-kok-spaniel/",
+    "https://ogorodniki.com/catalog/amerikanskii-koker-spaniel"
+  ]
+}

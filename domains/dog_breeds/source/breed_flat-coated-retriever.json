@@ -1,0 +1,85 @@
+{
+  "id": "flat-coated-retriever",
+  "name": "Flat-Coated Retriever",
+  "full_description": "<p>The Flat-Coated Retriever, originating in mid-19th century England, was developed as a versatile hunting companion adept at retrieving game both on land and in water. Its ancestry likely includes the Newfoundland, various spaniel-type water dogs, setters, and sheepdogs, contributing to its exceptional retrieving abilities. Initially known as the \"Wavy-Coated Retriever,\" the breed gained popularity among gamekeepers for its proficiency in retrieving shot game. However, its prominence declined in the early 20th century, overshadowed by the rise of the Labrador and Golden Retrievers. Post-World War II, dedicated breeding efforts revitalized the Flat-Coated Retriever, restoring its status as a cherished companion and working dog. Physically, the Flat-Coated Retriever is a medium to large-sized dog, with males standing between 23 to 24.5 inches tall and females slightly shorter at 22 to 23.5 inches. Their weight ranges from 60 to 80 pounds, with females typically on the lighter end. The breed's most distinctive feature is its glossy, flat-lying coat, which can be solid black or liver in color. This medium-length coat is straight or slightly wavy, providing protection against various weather conditions. Feathering is present on the ears, chest, legs, and tail, adding to the breed's elegant appearance. The head is long and \"of one piece,\" with a minimal stop and a backskull approximately equal in length to the muzzle. Dark brown, almond-shaped eyes convey an intelligent and friendly expression, while small, pendant ears lie close to the head. The Flat-Coated Retriever is renowned for its cheerful and outgoing personality. Often described as the \"Peter Pan\" of retrievers due to their prolonged youthful exuberance, they are affectionate, friendly, and eager to please. This breed thrives on human companionship and is known for its playful nature, often retaining a puppy-like demeanor well into adulthood. Their intelligence and adaptability make them excellent family pets, though their high energy levels require regular mental and physical stimulation. Originally bred for retrieving game, the Flat-Coated Retriever excels in both land and water retrieval tasks. Their keen sense of smell, combined with boundless energy and a strong desire to please, makes them proficient in hunting scenarios. In modern times, while they continue to participate in hunting and field trials, they have also found roles in search and rescue operations, therapy work, and as loyal family companions. Despite their many virtues, Flat-Coated Retrievers are less common than some other retriever breeds, contributing to their unique appeal among enthusiasts. Notable characteristics of the breed include their ever-wagging tail, indicative of their happy disposition, and their versatility in various canine sports and activities. Their combination of elegance, intelligence, and affability makes them a cherished breed among those who appreciate an active and engaging canine companion.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "27-36 kg",
+    "height": "56-62 cm",
+    "coat": "medium-length, straight or slightly wavy, glossy, flat-lying",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; minimal trimming",
+    "lifespan": "8-10 years"
+  },
+  "behavior": {
+    "summary": "Flat-Coated Retrievers are cheerful, affectionate, and intelligent dogs known for their playful and friendly nature. They thrive on human companionship and require regular mental and physical stimulation to remain happy and well-behaved.",
+    "with_family": "They form strong bonds with family members, displaying unwavering loyalty and affection. Their friendly disposition makes them excellent companions for active households.",
+    "with_children": "Known for their gentle and playful nature, Flat-Coated Retrievers are generally good with children, often engaging in interactive play and showing patience.",
+    "with_other_pets": "They typically get along well with other dogs and pets, especially when socialized from a young age. Their friendly nature often extends to other animals in the household.",
+    "with_strangers": "Flat-Coated Retrievers are usually friendly towards strangers, often greeting new people with enthusiasm. While they may alert their owners to unfamiliar visitors, they are not known for aggressive guarding behaviors.",
+    "special_traits": [
+      "Prolonged youthful exuberance",
+      "Strong desire to please",
+      "High energy levels",
+      "Affectionate and friendly",
+      "Intelligent and adaptable"
+    ]
+  },
+  "health": {
+    "summary": "Flat-Coated Retrievers are generally healthy but have a predisposition to certain health issues, notably various forms of cancer. Regular veterinary check-ups and preventive care are essential to maintain their well-being.",
+    "common_issues": [
+      "Cancer (e.g., malignant histiocytosis, hemangiosarcoma, osteosarcoma)",
+      "Hip dysplasia",
+      "Patellar luxation",
+      "Glaucoma",
+      "Gastric dilatation-volvulus (bloat)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Screening for hereditary conditions",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Monitoring for early signs of health issues"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with known health issues"
+  },
+  "care": {
+    "description": "Flat-Coated Retrievers require regular exercise, mental stimulation, and grooming to maintain their health and happiness. Their friendly and energetic nature makes them well-suited for active families.",
+    "behavior": "Engage in daily activities such as fetch, swimming, or agility training to satisfy their high energy levels and prevent boredom-related behaviors.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits to ensure early detection and management of potential problems.",
+    "grooming": "Brush their coat at least once a week to manage shedding and maintain coat health; more frequent brushing may be needed during seasonal shedding periods.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; consult with a veterinarian for specific dietary recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are Flat-Coated Retrievers good family pets?",
+      "answer": "Yes, their friendly and affectionate nature makes them excellent companions for active families."
+    },
+    {
+      "question": "How much exercise does a Flat-Coated Retriever need?",
+      "answer": "They require at least 90 minutes of high-impact exercise daily to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Flat-Coated Retrievers shed a lot?",
+      "answer": "They shed moderately year-round, with increased shedding during seasonal changes; regular brushing helps manage this."
+    },
+    {
+      "question": "Are Flat-Coated Retrievers easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable, though consistent, positive reinforcement methods are recommended."
+    },
+    {
+      "question": "What is the average lifespan of a Flat-Coated Retriever?",
+      "answer": "The average lifespan is 8 to 10 years, though some may live longer with proper care and regular veterinary check-ups."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/facts-about-flat-coated-retriever/",
+    "https://en.wikipedia.org/wiki/Flat-coated_Retriever",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-flat-coated-retrievers",
+    "https://www.purina.com/dogs/dog-breeds/flat-coated-retriever-dog-breed",
+    "https://fcrsa.org/about-flat-coats/",
+    "https://www.orvis.com/flat-coated-retriever",
+    "https://www.hillspet.com/dog-care/dog-breeds/flat-coated-retriever"
+  ]
+}

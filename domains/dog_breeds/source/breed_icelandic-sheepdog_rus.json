@@ -1,0 +1,167 @@
+{
+  "id": "icelandic-sheepdog",
+  "name": "Icelandic Sheepdog",
+  "name_rus": "Исландская овчарка",
+  "full_description": "<p>The Icelandic Sheepdog, Iceland's only native canine breed, traces its origins to the dogs brought by Viking settlers between 874 and 930 AD. These dogs were indispensable to Icelandic farmers, adept at herding sheep and other livestock across the island's rugged terrain. Over centuries, the breed adapted to the harsh Icelandic climate and challenging landscapes, developing into a hardy and agile herding dog. By the mid-20th century, the breed faced near extinction, but dedicated efforts in Iceland and abroad have successfully revitalized its population. Today, the Icelandic Sheepdog is cherished both as a working dog and a companion animal.</p>\n<p>Physically, the Icelandic Sheepdog is slightly below medium size, with males standing approximately 18 inches (46 cm) at the withers and females about 16.5 inches (42 cm). They possess a sturdy, rectangular build, with a length greater than their height. Their expressive, almond-shaped eyes exude intelligence and warmth, while their erect, triangular ears are highly mobile, reflecting their alert nature. A distinctive feature is their bushy tail, which curls over the back. The breed exhibits two coat types: short-haired and long-haired, both double-layered and extremely weather-resistant. Coat colors vary, including shades of tan, chocolate brown, gray, and black, typically accompanied by white markings on the face, collar, chest, and tail tip.</p>\n<p>Temperamentally, Icelandic Sheepdogs are known for their cheerful, friendly, and inquisitive nature. They form strong bonds with their families and are particularly affectionate with children. Their alertness makes them excellent watchdogs; they will bark to announce visitors but are not aggressive. Their playful and confident demeanor, combined with a gentle temperament, makes them well-suited to family life.</p>\n<p>Historically bred for herding, Icelandic Sheepdogs are agile and energetic, capable of navigating Iceland's challenging landscapes. They are known for their vocal nature, using barking to herd livestock and alert their owners. This trait, while beneficial in a working context, means they can be quite vocal in a home setting.</p>\n<p>In modern times, the Icelandic Sheepdog has transitioned from a primarily working role to also being a beloved companion. Their friendly and adaptable nature has contributed to their growing popularity beyond Iceland's borders. They participate in various canine sports and activities, including obedience, agility, and herding trials, showcasing their versatility and intelligence.</p>\n<p>Notable characteristics of the breed include their double dewclaws on the hind legs, a trait rooted in their working heritage. Their thick, weather-resistant coat and sturdy build enable them to thrive in harsh climates. Their sociable and affectionate nature, combined with their alertness and vocal tendencies, make them both excellent companions and effective watchdogs.</p>",
+  "full_description_rus": "<p>Исландская овчарка — единственная аборигенная порода собак Исландии, происхождение которой восходит к собакам, привезённым викингами между 874 и 930 годами н.э. Эти собаки были незаменимы для исландских фермеров, умело пасли овец и другой скот на пересечённой местности острова. За века порода адаптировалась к суровому исландскому климату и сложным ландшафтам, став выносливой и ловкой пастушьей собакой. К середине XX века порода оказалась на грани исчезновения, но благодаря целенаправленным усилиям в Исландии и за её пределами её популяция была успешно восстановлена. Сегодня исландская овчарка ценится как рабочая собака и как компаньон.</p>\n<p>Физически исландская овчарка немного ниже среднего размера: кобели достигают примерно 46 см в холке, суки — около 42 см. Они имеют крепкое, прямоугольное телосложение, длина тела превышает высоту. Их выразительные, миндалевидные глаза излучают интеллект и тепло, а стоячие, треугольные уши очень подвижны, отражая их бдительность. Отличительной чертой является пушистый хвост, закрученный на спину. Порода представлена двумя типами шерсти: короткошёрстной и длинношёрстной, обе с двойным слоем и высокой устойчивостью к погодным условиям. Окрасы варьируются и включают оттенки рыжего, шоколадного, серого и чёрного, обычно с белыми отметинами на морде, воротнике, груди и кончике хвоста.</p>\n<p>По темпераменту исландские овчарки известны своим жизнерадостным, дружелюбным и любознательным характером. Они формируют крепкие связи со своими семьями и особенно привязаны к детям. Их бдительность делает их отличными сторожевыми собаками; они будут лаять, чтобы оповестить о посетителях, но не проявляют агрессии. Их игривый и уверенный нрав, в сочетании с мягким темпераментом, делает их хорошо подходящими для семейной жизни.</p>\n<p>Исторически выведенные для пастьбы, исландские овчарки ловки и энергичны, способны передвигаться по сложным исландским ландшафтам. Они известны своей вокальной природой, используя лай для управления скотом и оповещения владельцев. Эта черта, полезная в рабочем контексте, может означать, что в домашней обстановке они могут быть довольно голосистыми.</p>\n<p>В современное время исландская овчарка перешла от преимущественно рабочей роли к статусу любимого компаньона. Их дружелюбный и адаптивный характер способствовал росту их популярности за пределами Исландии. Они участвуют в различных собачьих видах спорта и мероприятиях, включая послушание, аджилити и пастушьи испытания, демонстрируя свою универсальность и интеллект.</p>\n<p>Заметными характеристиками породы являются двойные прибылые пальцы на задних лапах, черта, связанная с их рабочим наследием. Их густая, устойчивая к погодным условиям шерсть и крепкое телосложение позволяют им процветать в суровых климатических условиях. Их общительный и ласковый характер, в сочетании с бдительностью и склонностью к лаю, делает их как отличными компаньонами, так и эффективными сторожевыми собаками.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "20–30 pounds (9–14 kg)",
+    "height": "16.5–18 inches (42–46 cm)",
+    "coat": "double-layered, short or long, thick and weather-resistant",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; increased during shedding seasons",
+    "lifespan": "12–14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "9–14 кг",
+    "рост": "42–46 см",
+    "шерсть": "двуслойная, короткая или длинная, густая и устойчивая к погодным условиям",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "регулярное вычёсывание; усиленное во время линьки",
+    "продолжительность жизни": "12–14 лет"
+  },
+  "behavior": {
+    "summary": "Icelandic Sheepdogs are cheerful, friendly, and inquisitive, forming strong bonds with their families and displaying a gentle temperament.",
+    "with_family": "They are affectionate and loyal, often following family members around the home and seeking constant companionship.",
+    "with_children": "Known for their patience and playfulness, they interact well with children, making them excellent family pets.",
+    "with_other_pets": "Generally sociable with other animals, especially when properly socialized from a young age.",
+    "with_strangers": "Alert and vocal when strangers approach, they will bark to announce visitors but are not aggressive.",
+    "special_traits": [
+      "Highly alert and vocal",
+      "Strong herding instincts",
+      "Affectionate and loyal",
+      "Playful and energetic",
+      "Adaptable to various environments"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Исландские овчарки жизнерадостны, дружелюбны и любознательны, формируют крепкие связи со своими семьями и обладают мягким темпераментом.",
+    "с семьёй": "Они ласковы и преданны, часто следуют за членами семьи по дому и ищут постоянного общения.",
+    "с детьми": "Известны своим терпением и игривостью, хорошо взаимодействуют с детьми, что делает их отличными семейными питомцами.",
+    "с другими животными": "В целом дружелюбны с другими животными, особенно при правильной социализации с раннего возраста.",
+    "с незнакомцами": "Бдительны и голосисты при приближении незнакомцев, будут лаять, чтобы оповестить о посетителях, но не агрессивны.",
+    "особые черты": [
+      "Высокая бдительность и голосистость",
+      "Сильные пастушьи инстинкты",
+      "Ласковость и преданность",
+      "Игривость и энергичность",
+      "Адаптивность к различным условиям"
+    ]
+  },
+  "health": {
+    "summary": "Icelandic Sheepdogs are generally healthy, with a lifespan of 12–14 years, but they can be prone to certain hereditary conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Patellar luxation",
+      "Distichiasis (extra eyelashes)",
+      "Cataracts"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide regular exercise",
+      "Monitor for signs of joint issues",
+      "Ensure proper eye care"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Исландские овчарки в целом здоровы, с продолжительностью жизни 12–14 лет, но могут быть склонны к некоторым наследственным заболеваниям.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Вывих коленной чашечки",
+      "Дистихиаз (дополнительные ресницы)",
+      "Катаракта"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здорового веса",
+      "Обеспечение регулярных физических нагрузок",
+      "Мониторинг признаков проблем с суставами",
+      "Обеспечение надлежащего ухода за глазами"
+    ],
+    "рекомендуемые осмотры": "Ежегодно, или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "Icelandic Sheepdogs require regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "behavior": "They thrive on human companionship and can become anxious if left alone for extended periods; regular interaction is essential.",
+    "health": "Regular exercise helps maintain joint health and prevents obesity; monitor for signs of hereditary conditions.",
+    "grooming": "Weekly brushing is necessary, with increased frequency during shedding seasons to manage their thick double coat.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level; consult a veterinarian for specific recommendations."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Исландские овчарки требуют регулярных физических нагрузок, умственной стимуляции и ухода за шерстью для поддержания здоровья и счастья.",
+    "поведение и характер": "Они процветают в обществе людей и могут испытывать тревогу при длительном одиночестве; регулярное общение необходимо.",
+    "здоровье и профилактика": "Регулярные физические нагрузки помогают поддерживать здоровье суставов и предотвращают ожирение; следите за признаками наследственных заболеваний.",
+    "груминг и уход": "Еженедельное вычёсывание необходимо, с увеличением частоты во время сезонов линьки для управления их густой двойной шерстью.",
+    "питание и активность": "Сбалансированная диета, соответствующая их возрасту, размеру и уровню активности; проконсультируйтесь с ветеринаром для конкретных рекомендаций."
+  },
+  "faq": [
+    {
+      "question": "Are Icelandic Sheepdogs good with children?",
+      "answer": "Yes, they are known for their patience and playfulness, making them excellent companions for children."
+    },
+    {
+      "question": "Do Icelandic Sheepdogs require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and need regular physical and mental stimulation to stay healthy and happy."
+    },
+    {
+      "question": "Are Icelandic Sheepdogs easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable with consistent, positive reinforcement methods."
+    },
+    {
+      "question": "Do Icelandic Sheepdogs shed a lot?",
+      "answer": "Yes, they have a thick double coat and shed year-round, with increased shedding during seasonal changes."
+    },
+    {
+      "question": "Can Icelandic Sheepdogs live in apartments?",
+      "answer": "They can adapt to apartment living if provided with sufficient exercise and mental stimulation, but they are naturally vocal, which may be a consideration."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Исландские овчарки хорошо ладят с детьми?",
+      "ответ": "Да, они известны своим терпением и игривостью, что делает их отличными компаньонами для детей."
+    },
+    {
+      "вопрос": "Исландским овчаркам требуется много физических нагрузок?",
+      "ответ": "Да, они обладают высоким уровнем энергии и нуждаются в регулярной физической и умственной стимуляции для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Исландские овчарки легко поддаются дрессировке?",
+      "ответ": "Да, они умны и стремятся угодить, что делает их высоко обучаемыми при последовательных методах положительного подкрепления."
+    },
+    {
+      "вопрос": "Исландские овчарки сильно линяют?",
+      "ответ": "Да, у них густая двойная шерсть, и они линяют круглый год, с увеличением линьки во время сезонных изменений."
+    },
+    {
+      "вопрос": "Могут ли исландские овчарки жить в квартирах?",
+      "ответ": "Они могут адаптироваться к жизни в квартире при условии достаточных физических нагрузок и умственной стимуляции, но их природная голосистость может быть фактором для рассмотрения."
+    }
+  ],
+  "sources": [
+    "https://www.thekennelclub.org.uk/breed-standards/pastoral/icelandic-sheepdog-imp/",
+    "https://en.wikipedia.org/wiki/Icelandic_Sheepdog",
+    "https://www.purina.com/dogs/dog-breeds/icelandic-sheepdog-dog-breed",
+    "https://www.webmd.com/pets/dogs/what-to-know-icelandic-sheepdog",
+    "https://www.westminsterkennelclub.org/breed/icelandic-sheepdog/",
+    "https://www.petmd.com/dog/breeds/icelandic-sheepdog",
+    "https://www.breedscout.com/breeds/icelandic-sheepdog",
+    "https://www.kesselrunicelandics.com/aboutthebreed",
+    "https://www.ukcdogs.com/icelandic-sheepdog",
+    "https://lukehaven-icelandic-sheepdogs.com/icelandic-sheepdogs/characteristics/",
+    "https://www.dogsplanet.com/en/breeds/icelandic-sheepdog/",
+    "https://www.wisdompanel.com/en-us/dog-breeds/icelandic-sheepdog",
+    "https://www.akc.org/expert-advice/dog-breeds/icelandic-sheepdog-history-beloved-scandinavian-symbol/",
+    "https://ru.wikipedia.org/wiki/Исландская_собака",
+    "https://royalcanin.ru/dog-breed/icelandic-sheepdog",
+    "https://petstory.ru/knowledge/dogs/dog-breeds/icelandic-sheepdog/"
+  ]
+}

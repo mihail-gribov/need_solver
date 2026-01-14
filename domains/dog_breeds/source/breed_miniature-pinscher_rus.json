@@ -1,0 +1,161 @@
+{
+  "id": "miniature-pinscher",
+  "name": "Miniature Pinscher",
+  "name_rus": "Миниатюрный пинчер",
+  "full_description": "<p>The Miniature Pinscher, often referred to as the 'Min Pin,' is a small, energetic breed originating from Germany. Despite common misconceptions, the Miniature Pinscher is not a miniature version of the Doberman Pinscher; in fact, the Min Pin predates the Doberman by several centuries. Historical records suggest that the breed was developed as early as the 1600s, primarily to control vermin populations in homes and stables. The breed's ancestry likely includes the German Pinscher, Dachshund, and Italian Greyhound, contributing to its distinctive appearance and lively demeanor. Physically, the Miniature Pinscher is a compact and well-proportioned dog, standing between 10 to 12.5 inches (25 to 32 cm) tall at the shoulder and weighing approximately 8 to 10 pounds (4 to 4.5 kg). The breed boasts a sleek, short coat that comes in various colors, including solid red, stag red (red with black hairs), black with rust markings, and chocolate with rust markings. One of the breed's most notable features is its high-stepping, 'hackney-like' gait, reminiscent of a trotting horse, which adds to its spirited and confident presence. Temperamentally, Miniature Pinschers are known for their fearless, energetic, and assertive nature. They are highly intelligent and curious, often displaying a strong-willed personality. While they are affectionate and loyal to their families, they can be wary of strangers and may exhibit a strong guarding instinct, making them excellent watchdogs. Their high energy levels and playful disposition require regular mental and physical stimulation to prevent boredom and the development of undesirable behaviors. Originally bred for ratting, the Miniature Pinscher's agility and keen hunting instincts made it adept at controlling vermin. Today, while they are primarily kept as companion animals, their alertness and vigilance continue to make them effective watchdogs. The breed's popularity has remained steady, particularly among those who appreciate a small dog with a big personality. Notable characteristics of the Miniature Pinscher include its distinctive gait, fearless demeanor, and boundless energy. Despite its small size, the breed exudes confidence and self-assurance, often earning it the nickname 'King of Toys.' Their sleek appearance, combined with their lively and spirited nature, makes them a favorite among dog enthusiasts seeking a dynamic and engaging companion.</p>",
+  "full_description_rus": "<p>Миниатюрный пинчер, также известный как цвергпинчер или карликовый пинчер, — небольшая, энергичная порода собак, происходящая из Германии. Несмотря на распространённое заблуждение, миниатюрный пинчер не является уменьшенной версией добермана; на самом деле, цвергпинчер появился на несколько веков раньше добермана. Исторические источники указывают, что порода была выведена ещё в XVII веке, главным образом для борьбы с грызунами в домах и конюшнях. В числе предков породы называют немецкого пинчера, таксу и итальянского грейхаунда, что объясняет её уникальный внешний вид и живой темперамент. Физически миниатюрный пинчер — компактная и пропорционально сложенная собака, ростом от 25 до 30 см в холке и весом около 4–6 кг. Порода обладает гладкой, короткой шерстью различных окрасов, включая сплошной рыжий, чёрно-подпалый и шоколадно-подпалый. Одной из самых заметных особенностей миниатюрного пинчера является его высокая, грациозная походка, напоминающая движения лошади породы хакни, что придаёт ему уверенный и энергичный вид. По характеру миниатюрные пинчеры известны своей бесстрашностью, энергичностью и настойчивостью. Они обладают высоким интеллектом и любопытством, часто проявляя сильную волю. Хотя они преданы и ласковы со своими семьями, могут быть насторожены к незнакомцам и демонстрировать выраженные охранные инстинкты, что делает их отличными сторожевыми собаками. Высокий уровень энергии и игривый нрав требуют регулярной умственной и физической стимуляции, чтобы предотвратить скуку и развитие нежелательного поведения. Изначально выведенные для охоты на крыс, миниатюрные пинчеры благодаря своей ловкости и охотничьим инстинктам отлично справлялись с контролем популяции грызунов. Сегодня, хотя они в основном содержатся как компаньоны, их бдительность и настороженность продолжают делать их эффективными сторожами. Популярность породы остаётся стабильной, особенно среди тех, кто ценит маленькую собаку с большим характером. Отличительными чертами миниатюрного пинчера являются его уникальная походка, бесстрашный нрав и неуёмная энергия. Несмотря на свои небольшие размеры, порода излучает уверенность и самоуверенность, часто заслуживая прозвище 'Король игрушек'. Их элегантный внешний вид в сочетании с живым и энергичным характером делает их любимцами среди любителей собак, ищущих динамичного и увлекательного компаньона.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "8-10 pounds (4-4.5 kg)",
+    "height": "10-12.5 inches (25-32 cm)",
+    "coat": "short, smooth, and sleek",
+    "activity": "high",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "minimal; occasional brushing and bathing",
+    "lifespan": "12-16 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "4–6 кг",
+    "рост": "25–30 см",
+    "шерсть": "короткая, гладкая, блестящая",
+    "активность": "высокая",
+    "обучаемость": "средняя; умны, но могут быть упрямыми",
+    "уход": "минимальный; периодическое расчесывание и купание",
+    "продолжительность жизни": "12–16 лет"
+  },
+  "behavior": {
+    "summary": "Miniature Pinschers are energetic, fearless, and assertive dogs with a strong-willed personality. They are affectionate with their families but can be wary of strangers, making them excellent watchdogs.",
+    "with_family": "Affectionate and loyal, forming strong bonds with family members. They thrive on attention and enjoy being involved in family activities.",
+    "with_children": "Generally good with older children who understand how to interact with small dogs. Due to their small size and energetic nature, supervision is recommended during interactions with younger children.",
+    "with_other_pets": "Can coexist with other pets if properly socialized from a young age. However, their strong prey drive may lead them to chase smaller animals.",
+    "with_strangers": "Wary and alert around strangers, often barking to announce their presence. Early socialization can help mitigate excessive wariness.",
+    "special_traits": [
+      "Fearless and confident demeanor",
+      "High energy levels requiring regular exercise",
+      "Strong guarding instincts",
+      "Distinctive high-stepping gait",
+      "Curious and inquisitive nature"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Миниатюрные пинчеры — энергичные, бесстрашные и настойчивые собаки с сильным характером. Они ласковы с семьёй, но могут быть насторожены к незнакомцам, что делает их отличными сторожевыми собаками.",
+    "с семьёй": "Преданы и лояльны, формируют крепкие связи с членами семьи. Любят внимание и участие в семейных мероприятиях.",
+    "с детьми": "Обычно хорошо ладят со старшими детьми, которые понимают, как обращаться с маленькими собаками. Из-за их небольшого размера и энергичности рекомендуется присмотр при взаимодействии с младшими детьми.",
+    "с другими животными": "Могут уживаться с другими питомцами при правильной социализации с раннего возраста. Однако их сильный охотничий инстинкт может побуждать их преследовать мелких животных.",
+    "с незнакомцами": "Насторожены и бдительны к незнакомцам, часто лают, чтобы объявить о их присутствии. Ранняя социализация может помочь снизить чрезмерную настороженность.",
+    "особые черты": [
+      "Бесстрашный и уверенный нрав",
+      "Высокий уровень энергии, требующий регулярных упражнений",
+      "Сильные охранные инстинкты",
+      "Уникальная высокая походка",
+      "Любопытный и пытливый характер"
+    ]
+  },
+  "health": {
+    "summary": "Miniature Pinschers are generally healthy dogs with a lifespan of 12 to 16 years. However, they are prone to certain health conditions common among small breeds.",
+    "common_issues": [
+      "Patellar luxation (dislocated kneecap)",
+      "Legg-Calvé-Perthes disease (hip joint disorder)",
+      "Epilepsy",
+      "Progressive retinal atrophy (PRA)",
+      "Cataracts"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups to monitor for early signs of health issues",
+      "Maintain a healthy weight to reduce stress on joints",
+      "Provide a balanced diet rich in essential nutrients",
+      "Ensure regular exercise to promote overall health",
+      "Implement routine eye examinations to detect early signs of ocular diseases"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with existing health conditions."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Миниатюрные пинчеры в целом здоровые собаки с продолжительностью жизни от 12 до 16 лет. Однако они склонны к некоторым заболеваниям, характерным для мелких пород.",
+    "распространённые проблемы": [
+      "Вывих надколенника (дислокация коленной чашечки)",
+      "Болезнь Легга-Кальве-Пертеса (нарушение тазобедренного сустава)",
+      "Эпилепсия",
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Катаракта"
+    ],
+    "советы по профилактике": [
+      "Регулярные визиты к ветеринару для раннего выявления проблем со здоровьем",
+      "Поддержание здорового веса для снижения нагрузки на суставы",
+      "Обеспечение сбалансированного рациона, богатого необходимыми питательными веществами",
+      "Регулярные физические нагрузки для поддержания общего здоровья",
+      "Проведение регулярных осмотров глаз для раннего выявления заболеваний"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты могут потребоваться для пожилых собак или имеющих существующие проблемы со здоровьем."
+  },
+  "care": {
+    "description": "Miniature Pinschers require attentive care to meet their physical and mental needs. Regular exercise, proper training, and routine health maintenance are essential for their well-being.",
+    "behavior": "Due to their high energy levels and intelligence, Min Pins benefit from consistent training and mental stimulation. Engaging them in interactive games and obedience training can help channel their energy positively.",
+    "health": "Regular veterinary visits are crucial to monitor for common health issues. Preventive measures, such as vaccinations and parasite control, should be maintained diligently.",
+    "grooming": "Their short coat requires minimal grooming. Weekly brushing and occasional baths are sufficient to keep their coat healthy. Regular nail trimming and dental care are also important.",
+    "nutrition": "A balanced diet appropriate for their size, age, and activity level is essential. Portion control is important to prevent obesity, which can exacerbate health issues."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Миниатюрные пинчеры требуют внимательного ухода для удовлетворения их физических и умственных потребностей. Регулярные упражнения, правильная дрессировка и плановое медицинское обслуживание необходимы для их благополучия.",
+    "поведение и характер": "Из-за высокого уровня энергии и интеллекта мини-пинчеры выигрывают от последовательной дрессировки и умственной стимуляции. Участие в интерактивных играх и обучении послушанию помогает направить их энергию в позитивное русло.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару необходимы для мониторинга распространённых проблем со здоровьем. Профилактические меры, такие как вакцинация и контроль паразитов, должны поддерживаться тщательно.",
+    "груминг и уход": "Их короткая шерсть требует минимального ухода. Еженедельное расчесывание и периодические купания достаточны для поддержания здоровья шерсти. Также важны регулярная стрижка когтей и уход за зубами.",
+    "питание и активность": "Сбалансированный рацион, соответствующий их размеру, возрасту и уровню активности, необходим. Контроль порций важен для предотвращения ожирения, которое может усугубить проблемы со здоровьем."
+  },
+  "faq": [
+    {
+      "question": "Are Miniature Pinschers good with children?",
+      "answer": "They are generally good with older children who understand how to handle small dogs. Supervision is recommended with younger children."
+    },
+    {
+      "question": "Do Miniature Pinschers require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and require regular physical and mental stimulation to stay healthy and happy."
+    },
+    {
+      "question": "Are Miniature Pinschers easy to train?",
+      "answer": "They are intelligent but can be stubborn, so consistent and patient training methods are recommended."
+    },
+    {
+      "question": "Do Miniature Pinschers shed a lot?",
+      "answer": "No, they have a short, smooth coat that sheds minimally and requires minimal grooming."
+    },
+    {
+      "question": "Are Miniature Pinschers prone to health problems?",
+      "answer": "They are generally healthy but can be prone to certain conditions like patellar luxation and eye issues. Regular vet check-ups are important."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Хорошо ли миниатюрные пинчеры ладят с детьми?",
+      "ответ": "Они обычно хорошо ладят со старшими детьми, которые понимают, как обращаться с маленькими собаками. Рекомендуется присмотр при взаимодействии с младшими детьми."
+    },
+    {
+      "вопрос": "Требуют ли миниатюрные пинчеры много физических нагрузок?",
+      "ответ": "Да, они обладают высоким уровнем энергии и нуждаются в регулярной физической и умственной стимуляции для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Легко ли дрессировать миниатюрных пинчеров?",
+      "ответ": "Они умны, но могут быть упрямыми, поэтому рекомендуется последовательная и терпеливая дрессировка."
+    },
+    {
+      "вопрос": "Сильно ли линяют миниатюрные пинчеры?",
+      "ответ": "Нет, у них короткая, гладкая шерсть, которая минимально линяет и требует минимального ухода."
+    },
+    {
+      "вопрос": "Склонны ли миниатюрные пинчеры к проблемам со здоровьем?",
+      "ответ": "Они в целом здоровы, но могут быть склонны к определённым заболеваниям, таким как вывих надколенника и проблемы с глазами. Регулярные визиты к ветеринару важны."
+    }
+  ],
+  "sources": [
+    "https://ru.wikipedia.org/wiki/Карликовый_пинчер",
+    "https://www.purina.ru/find-a-pet/dog-breeds/poroda-sobaki-karlikovyy-pincher",
+    "https://www.pedigree.ru/porody/miniaturnij-pincher",
+    "https://www.proplan.ru/dog/breeds/cvergpincher-karlikovyj-pincher",
+    "https://kinpet.ru/tsvergpincher/",
+    "https://pet-yes.com/breeds/tsvergpincher",
+    "https://tomall.ru/dog/Miniature_Pinscher",
+    "https://vetinfo.com.ua/poroda/miniatyurnyy-pincher",
+    "https://mur.tv/miniatyurnyj-pincher-malenkaya-nemeckaya-sobachka/",
+    "https://kogtoteca.ru/miniature-pinscher-sh"
+  ]
+}

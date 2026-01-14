@@ -1,0 +1,85 @@
+{
+  "id": "keeshond",
+  "name": "Keeshond",
+  "full_description": "<p>The Keeshond is a medium-sized, spitz-type dog renowned for its plush, double-layered coat of silver and black fur, distinctive 'spectacles'—dark markings around the eyes—and a richly plumed tail that curls over its back. Originating from the Netherlands, the breed's history dates back to the 17th and 18th centuries, where they were commonly found on Dutch barges, serving as vigilant watchdogs and companions. Their name is believed to derive from Cornelis (Kees) de Gyselaer, a leader of the Dutch Patriot Party, with 'hond' meaning 'dog' in Dutch. Physically, Keeshonden possess a fox-like face with small, pointed ears, dark almond-shaped eyes, and a mane-like ruff around the neck, giving them a lion-like appearance. Their coat is a mix of gray, black, and cream, with the undercoat being pale gray or cream. Temperamentally, they are friendly, alert, and intelligent, making them excellent family companions. They are known for their affectionate nature, often forming strong bonds with their owners and displaying a keen sense of empathy. Historically bred as watchdogs, they are naturally alert and will bark to announce visitors but are not aggressive. In modern times, Keeshonden have transitioned from their roles on barges to being cherished family pets and therapy dogs, appreciated for their sociable nature and adaptability. Notable characteristics include their expressive facial markings, which give the appearance of wearing glasses, and their thick double coat that requires regular grooming to maintain its condition.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "30-45 pounds (13.6-20.4 kg)",
+    "height": "17-18 inches (43-46 cm)",
+    "coat": "long, straight, harsh outer coat with a soft, dense undercoat",
+    "activity": "medium",
+    "trainability": "high",
+    "grooming": "regular brushing; increased during seasonal shedding",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Keeshonden are affectionate, intelligent, and alert dogs that thrive on human companionship and are known for their friendly disposition.",
+    "with_family": "They form strong bonds with family members, often following them around the house and seeking constant companionship.",
+    "with_children": "Keeshonden are gentle and playful with children, making them excellent family pets.",
+    "with_other_pets": "Generally sociable with other animals, especially when socialized from a young age.",
+    "with_strangers": "Alert and vocal when strangers approach, but typically friendly once introduced.",
+    "special_traits": [
+      "strong bond with owners",
+      "alert and vocal",
+      "intelligent and trainable",
+      "playful and energetic",
+      "sociable with other animals"
+    ]
+  },
+  "health": {
+    "summary": "Keeshonden are generally healthy dogs with a lifespan of 12-15 years, though they can be prone to certain genetic health issues.",
+    "common_issues": [
+      "hip dysplasia",
+      "luxating patellas",
+      "epilepsy",
+      "Cushing's disease",
+      "diabetes",
+      "primary hyperparathyroidism",
+      "hypothyroidism"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain a healthy weight",
+      "provide regular exercise",
+      "monitor for signs of common health issues",
+      "obtain health clearances from reputable breeders"
+    ],
+    "vet_checkups": "annually, or more frequently as needed"
+  },
+  "care": {
+    "description": "Keeshonden require regular grooming, consistent training, and daily exercise to maintain their health and happiness.",
+    "behavior": "They thrive on human interaction and should not be left alone for extended periods to prevent separation anxiety.",
+    "health": "Regular veterinary visits and a balanced diet are essential to prevent common health issues.",
+    "grooming": "Brush several times a week; more frequent grooming during seasonal shedding periods.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level."
+  },
+  "faq": [
+    {
+      "question": "Are Keeshonden good with children?",
+      "answer": "Yes, they are gentle and playful, making them excellent companions for children."
+    },
+    {
+      "question": "How much exercise does a Keeshond need?",
+      "answer": "They require daily exercise, such as walks or play sessions, to maintain their health and prevent boredom."
+    },
+    {
+      "question": "Do Keeshonden shed a lot?",
+      "answer": "Yes, they have a thick double coat and shed year-round, with increased shedding during seasonal changes."
+    },
+    {
+      "question": "Are Keeshonden easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable with positive reinforcement methods."
+    },
+    {
+      "question": "Do Keeshonden make good watchdogs?",
+      "answer": "Yes, they are alert and will bark to announce visitors, but they are not aggressive."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Keeshond",
+    "https://www.purina.com/dogs/dog-breeds/keeshond",
+    "https://www.westminsterkennelclub.org/breed/keeshond/",
+    "https://www.petmd.com/dog/breeds/keeshond",
+    "https://www.dailypaws.com/dogs-puppies/dog-breeds/keeshond"
+  ]
+}

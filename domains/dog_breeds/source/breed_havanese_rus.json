@@ -1,0 +1,165 @@
+{
+  "id": "havanese",
+  "name": "Havanese",
+  "name_rus": "Хаванез",
+  "full_description": "<p>The Havanese, a member of the Bichon family, is the national dog of Cuba. Originating from the now-extinct Blanquito de la Habana, which descended from the Bichón Tenerife, the breed was developed in Cuba as a companion for the island's aristocracy. Following the Cuban Revolution, the breed faced near extinction but was revitalized in the United States during the 1970s, leading to its recognition by the American Kennel Club (AKC) in 1996. Today, the Havanese is celebrated for its affectionate nature and distinctive appearance.</p>\n<p>Physically, the Havanese is a small, sturdy dog, standing between 9 to 11 inches at the withers and weighing approximately 7 to 13 pounds. Its body is slightly longer than its height, giving it a rectangular profile. The breed's most notable feature is its long, silky, and wavy double coat, which comes in a variety of colors and patterns. The coat is lightweight and soft, often described as \"cool to the touch.\" The Havanese's expressive eyes are almond-shaped and dark brown, except in chocolate-colored dogs, which may have lighter eyes. Its ears are set high, folding down close to the cheeks, and its tail is plumed, carried over the back in a gentle arc.</p>\n<p>Temperamentally, the Havanese is known for its friendly and outgoing personality. These dogs are highly social, thriving on human companionship and forming strong bonds with their families. They are intelligent and eager to please, making them highly trainable. Their playful and sometimes clownish behavior endears them to both adults and children. While they are alert and can serve as good watchdogs, they are generally not aggressive and tend to be welcoming to strangers.</p>\n<p>Historically, the Havanese was bred primarily as a companion dog for the Cuban elite, serving as a lapdog and family pet. Unlike some other breeds, it was not developed for specific working roles such as herding or hunting. In modern times, the Havanese has gained popularity worldwide as a beloved companion animal. Its adaptability makes it suitable for various living environments, from apartments to larger homes. The breed's hypoallergenic coat and minimal shedding also contribute to its appeal among dog enthusiasts.</p>\n<p>Notable characteristics of the Havanese include its unique gait, often described as springy or lively, reflecting its cheerful disposition. The breed's coat, while beautiful, requires regular grooming to prevent matting and tangling. Additionally, the Havanese's strong desire for human interaction means it does not do well when left alone for extended periods, as it can develop separation anxiety. Overall, the Havanese is a charming and affectionate breed, well-suited to families and individuals seeking a devoted and playful companion.</p>",
+  "full_description_rus": "<p>Хаванез, также известный как гаванский бишон, является национальной породой Кубы и членом семейства бишонов. Происходит от ныне вымершей породы Blanquito de la Habana, которая, в свою очередь, произошла от бишона Тенерифе. Порода была выведена на Кубе в качестве компаньона для аристократии острова. После Кубинской революции порода оказалась на грани исчезновения, но была возрождена в США в 1970-х годах, что привело к её признанию Американским клубом собаководства (AKC) в 1996 году. Сегодня хаванез ценится за свою привязанность и уникальный внешний вид.</p>\n<p>Физически хаванез — это небольшая, крепкая собака, ростом от 23 до 28 см в холке и весом примерно от 3 до 6 кг. Её тело немного длиннее, чем высота, что придаёт ей прямоугольный профиль. Самая заметная черта породы — длинная, шелковистая и волнистая двойная шерсть, которая бывает различных цветов и узоров. Шерсть лёгкая и мягкая, часто описывается как \"прохладная на ощупь\". Выразительные глаза хаванеза миндалевидной формы и тёмно-коричневого цвета, за исключением собак шоколадного окраса, у которых глаза могут быть светлее. Уши посажены высоко, свисают близко к щекам, а хвост с плюмажем несётся над спиной в лёгкой дуге.</p>\n<p>По характеру хаванез известен своей дружелюбной и общительной натурой. Эти собаки очень социальны, процветают в компании людей и формируют крепкие связи со своими семьями. Они умны и стремятся угодить, что делает их легко обучаемыми. Их игривое и иногда клоунское поведение очаровывает как взрослых, так и детей. Хотя они бдительны и могут служить хорошими сторожевыми собаками, они обычно не агрессивны и склонны приветствовать незнакомцев.</p>\n<p>Исторически хаванез был выведен в первую очередь как собака-компаньон для кубинской элиты, служа в качестве комнатной собачки и семейного питомца. В отличие от некоторых других пород, он не был разработан для специфических рабочих ролей, таких как пастьба или охота. В современное время хаванез приобрёл популярность во всём мире как любимый компаньон. Его адаптивность делает его подходящим для различных условий проживания, от квартир до больших домов. Гипоаллергенная шерсть и минимальная линька также способствуют его привлекательности среди любителей собак.</p>\n<p>Заметные характеристики хаванеза включают его уникальную походку, часто описываемую как пружинистую или живую, отражающую его весёлый нрав. Шерсть породы, хотя и красивая, требует регулярного ухода, чтобы предотвратить спутывание и сваливание. Кроме того, сильное желание хаванеза к человеческому общению означает, что он плохо переносит длительное одиночество, так как может развить тревогу разлуки. В целом, хаванез — это очаровательная и привязанная порода, идеально подходящая для семей и индивидуумов, ищущих преданного и игривого компаньона.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "7-13 pounds",
+    "height": "9-11 inches",
+    "coat": "long, silky, wavy double coat in various colors",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing and combing to prevent matting",
+    "lifespan": "14-16 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "3-6 кг",
+    "рост": "23-28 см",
+    "шерсть": "длинная, шелковистая, волнистая двойная шерсть различных цветов",
+    "активность": "умеренная",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчёсывание и вычёсывание для предотвращения спутывания",
+    "продолжительность жизни": "14-16 лет"
+  },
+  "behavior": {
+    "summary": "The Havanese is an affectionate, intelligent, and playful breed that thrives on human companionship and enjoys engaging in various activities with its family.",
+    "with_family": "Havanese dogs form strong bonds with their family members, displaying loyalty and a desire to be involved in daily activities.",
+    "with_children": "They are gentle and playful with children, making them excellent family pets when properly socialized.",
+    "with_other_pets": "Generally good with other pets, especially when introduced and socialized from a young age.",
+    "with_strangers": "Friendly and welcoming to strangers, though they may be reserved initially; proper socialization enhances their sociability.",
+    "special_traits": [
+      "Highly social and thrives on human interaction",
+      "Intelligent and eager to please, making training enjoyable",
+      "Playful and sometimes clownish behavior",
+      "Alert and can serve as a good watchdog",
+      "Sensitive and may develop separation anxiety if left alone for long periods"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Хаванез — это привязанная, умная и игривая порода, которая процветает в компании людей и любит участвовать в различных семейных мероприятиях.",
+    "с семьёй": "Хаванезы формируют крепкие связи с членами семьи, проявляя лояльность и желание участвовать в повседневной жизни.",
+    "с детьми": "Они нежны и игривы с детьми, что делает их отличными семейными питомцами при правильной социализации.",
+    "с другими животными": "Обычно хорошо ладят с другими животными, особенно при раннем знакомстве и социализации.",
+    "с незнакомцами": "Дружелюбны и приветливы к незнакомцам, хотя могут быть сдержанными вначале; правильная социализация повышает их общительность.",
+    "особые черты": [
+      "Очень социальны и процветают в компании людей",
+      "Умны и стремятся угодить, что делает обучение приятным",
+      "Игривое и иногда клоунское поведение",
+      "Бдительны и могут служить хорошими сторожевыми собаками",
+      "Чувствительны и могут развить тревогу разлуки при длительном одиночестве"
+    ]
+  },
+  "health": {
+    "summary": "Havanese are generally a healthy breed with a lifespan of 14-16 years, but they are predisposed to certain genetic health conditions that owners should monitor.",
+    "common_issues": [
+      "Progressive Retinal Atrophy (PRA)",
+      "Cataracts",
+      "Patellar Luxation",
+      "Legg-Calve-Perthes Disease",
+      "Hip Dysplasia",
+      "Liver Shunt (Portosystemic Shunt)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups to monitor eye health and detect conditions like PRA and cataracts early",
+      "Maintain a healthy weight to reduce stress on joints and prevent conditions like hip dysplasia and patellar luxation",
+      "Provide a balanced diet rich in essential nutrients to support overall health",
+      "Engage in regular, moderate exercise to keep muscles and joints healthy",
+      "Ensure responsible breeding practices to reduce the risk of inherited health issues"
+    ],
+    "vet_checkups": "Annual veterinary check-ups are recommended, with more frequent visits as the dog ages or if health issues arise."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Хаванезы в целом здоровая порода с продолжительностью жизни 14-16 лет, но они предрасположены к определённым генетическим заболеваниям, за которыми владельцам следует следить.",
+    "распространённые проблемы": [
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Катаракта",
+      "Вывих надколенника",
+      "Болезнь Легга-Кальве-Пертеса",
+      "Дисплазия тазобедренного сустава",
+      "Печёночный шунт (портосистемный шунт)"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры для мониторинга здоровья глаз и раннего выявления таких состояний, как PRA и катаракта",
+      "Поддержание здорового веса для снижения нагрузки на суставы и предотвращения таких состояний, как дисплазия тазобедренного сустава и вывих надколенника",
+      "Обеспечение сбалансированного рациона, богатого необходимыми питательными веществами, для поддержания общего здоровья",
+      "Регулярные, умеренные физические нагрузки для поддержания здоровья мышц и суставов",
+      "Обеспечение ответственных практик разведения для снижения риска наследственных заболеваний"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные ветеринарные осмотры, с более частыми визитами по мере старения собаки или при возникновении проблем со здоровьем."
+  },
+  "care": {
+    "description": "Caring for a Havanese involves regular grooming, consistent training, and providing ample social interaction to ensure their well-being.",
+    "behavior": "Havanese thrive on human companionship and should not be left alone for extended periods to prevent separation anxiety.",
+    "health": "Regular veterinary visits and a balanced diet are essential to maintain the Havanese's health and detect any issues early.",
+    "grooming": "Their long, silky coat requires brushing and combing several times a week to prevent matting; professional grooming may be needed periodically.",
+    "nutrition": "Provide a high-quality, balanced diet appropriate for their age, size, and activity level to support overall health."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Уход за хаванезом включает регулярный груминг, последовательное обучение и обеспечение достаточного социального взаимодействия для поддержания их благополучия.",
+    "поведение и характер": "Хаванезы процветают в компании людей и не должны оставаться в одиночестве на длительные периоды, чтобы предотвратить тревогу разлуки.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и сбалансированный рацион необходимы для поддержания здоровья хаванеза и раннего выявления любых проблем.",
+    "груминг и уход": "Их длинная, шелковистая шерсть требует расчёсывания и вычёсывания несколько раз в неделю для предотвращения спутывания; периодически может потребоваться профессиональный груминг.",
+    "питание и активность": "Обеспечьте высококачественный, сбалансированный рацион, соответствующий их возрасту, размеру и уровню активности, для поддержания общего здоровья."
+  },
+  "faq": [
+    {
+      "question": "Are Havanese hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Havanese have a low-shedding coat that may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "Do Havanese require a lot of exercise?",
+      "answer": "Havanese have moderate exercise needs and enjoy daily walks and playtime to keep them physically and mentally stimulated."
+    },
+    {
+      "question": "Are Havanese easy to train?",
+      "answer": "Yes, Havanese are intelligent and eager to please, making them highly trainable with positive reinforcement methods."
+    },
+    {
+      "question": "How often should I groom my Havanese?",
+      "answer": "Their coat should be brushed and combed several times a week to prevent matting; regular grooming is essential."
+    },
+    {
+      "question": "Do Havanese get along with other pets?",
+      "answer": "Generally, Havanese are good with other pets, especially when socialized from a young age."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли хаванезы гипоаллергенными?",
+      "ответ": "Хотя ни одна собака не является полностью гипоаллергенной, хаванезы имеют шерсть с низкой линькой, которая может подойти некоторым людям, страдающим аллергией."
+    },
+    {
+      "вопрос": "Требуют ли хаванезы много физических нагрузок?",
+      "ответ": "Хаванезы имеют умеренные потребности в физических нагрузках и наслаждаются ежедневными прогулками и играми для поддержания физической и умственной стимуляции."
+    },
+    {
+      "вопрос": "Легко ли обучать хаванезов?",
+      "ответ": "Да, хаванезы умны и стремятся угодить, что делает их легко обучаемыми с использованием методов положительного подкрепления."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за шерстью хаванеза?",
+      "ответ": "Их шерсть следует расчёсывать и вычёсывать несколько раз в неделю для предотвращения спутывания; регулярный уход за шерстью необходим."
+    },
+    {
+      "вопрос": "Ладят ли хаванезы с другими животными?",
+      "ответ": "Обычно хаванезы хорошо ладят с другими животными, особенно при социализации с раннего возраста."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Havanese_dog",
+    "https://www.webmd.com/pets/dogs/what-to-know-havanese",
+    "https://www.petmd.com/dog/breeds/havanese",
+    "https://www.rover.com/blog/breeds/havanese/",
+    "https://clintonanimalcarecenter.com/client-resources/breed-info/havanese/",
+    "https://www.hillspet.com/dog-care/dog-breeds/havanese",
+    "https://www.metlifepetinsurance.com/blog/breed-spotlights/havanese/",
+    "https://havanesebreedsociety.org/health/",
+    "https://www.gallant.com/blog/5-common-havanese-health-concerns/",
+    "https://learn.heropethealth.com.au/blog/havanese-health-issues-every-owner-should-know-about",
+    "https://havaneseclubofamerica.org/health-issues-and-testing/",
+    "https://mail.havanese.org/documents/HCA_Brochure_bw.PDF"
+  ]
+}

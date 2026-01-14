@@ -1,0 +1,84 @@
+{
+  "id": "shiba-inu",
+  "name": "Shiba Inu",
+  "full_description": "<p>The Shiba Inu is an ancient breed originating from Japan, where it was developed for hunting small game such as birds and rabbits in the mountainous regions. Archaeological evidence suggests that dogs resembling the Shiba Inu existed in Japan over 5,000 years ago, making it one of the oldest and most primitive dog breeds. The breed's name translates to \"brushwood dog,\" possibly referring to the terrain where it hunted or the color of its coat. During the Meiji Restoration, the influx of Western dog breeds led to crossbreeding, threatening the purity of native breeds. Efforts to preserve the Shiba Inu intensified in the early 20th century, and despite near extinction during World War II due to food shortages and disease, dedicated breeding programs successfully revived the breed. Today, the Shiba Inu is the most popular companion dog in Japan and has gained significant popularity worldwide.</p>\n<p>Physically, the Shiba Inu is a small, well-proportioned dog with a compact and muscular build. Males typically stand between 35 to 43 cm (13.5 to 16.5 inches) tall at the shoulder, while females range from 33 to 41 cm (13 to 16 inches). Their weight varies from 8 to 10 kg (17 to 23 pounds). The breed's double coat consists of a stiff, straight outer layer and a soft, dense undercoat, providing insulation against various weather conditions. Coat colors include red, black and tan, sesame (a mix of red with black-tipped hairs), and cream. A distinctive feature is the \"urajiro,\" a cream to white ventral coloration present on the sides of the muzzle, cheeks, inside the ears, under the jaw and neck, on the abdomen, and the ventral side of the tail.</p>\n<p>The Shiba Inu's temperament is often described as alert, intelligent, and independent. They are known for their spirited personality and strong-willed nature, which can sometimes be mistaken for stubbornness. Early socialization and consistent, positive reinforcement training are essential to harness their intelligence and ensure they develop into well-mannered companions. While they form strong bonds with their families, Shiba Inus can be reserved around strangers and may exhibit a high prey drive, making them less suitable for homes with small pets unless properly socialized.</p>\n<p>Originally bred for hunting, the Shiba Inu possesses keen senses and agility, traits that made them excellent at flushing out small game in dense underbrush. Their independent nature was advantageous in hunting scenarios, allowing them to make quick decisions in the field. In modern times, while they are primarily kept as companion animals, these traits contribute to their alertness and make them excellent watchdogs. Their popularity has surged globally, partly due to their fox-like appearance and expressive faces, which have made them internet sensations.</p>\n<p>Notable characteristics of the Shiba Inu include their cleanliness and fastidious grooming habits, often likened to those of cats. They are known for the \"Shiba scream,\" a high-pitched vocalization emitted when they are unhappy or overly excited. Despite their small size, they have a bold and confident demeanor, often displaying a fearless attitude. Their loyalty to their owners is profound, but they also value their independence, making them unique companions who balance affection with autonomy.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "8-10 kg (17-23 lbs)",
+    "height": "33-43 cm (13-17 inches)",
+    "coat": "double coat; stiff, straight outer layer and soft, dense undercoat",
+    "activity": "moderate to high",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "weekly brushing; more frequent during shedding seasons",
+    "lifespan": "13-16 years"
+  },
+  "behavior": {
+    "summary": "Shiba Inus are alert, intelligent, and independent dogs with a strong-willed nature. They form strong bonds with their families but can be reserved around strangers. Early socialization and consistent training are essential to manage their spirited personality.",
+    "with_family": "They are loyal and affectionate with family members, often forming strong attachments. However, they also value their independence and may not always seek constant attention.",
+    "with_children": "Shiba Inus can get along well with children, especially if raised together. Supervision is recommended to ensure respectful interactions, as they may not tolerate rough handling.",
+    "with_other_pets": "Due to their high prey drive, they may not be ideal for homes with small animals. Proper socialization can help them coexist with other dogs, but caution is advised.",
+    "with_strangers": "They tend to be reserved or aloof around strangers, making them effective watchdogs. Early socialization can help them become more comfortable with unfamiliar people.",
+    "special_traits": [
+      "Independent and strong-willed",
+      "High prey drive",
+      "Clean and fastidious grooming habits",
+      "Known for the 'Shiba scream'",
+      "Loyal but values personal space"
+    ]
+  },
+  "health": {
+    "summary": "Shiba Inus are generally healthy dogs with a lifespan of 13-16 years. They are prone to certain genetic conditions, so regular veterinary check-ups and preventive care are important.",
+    "common_issues": [
+      "Allergies (environmental and food-related)",
+      "Patellar luxation",
+      "Hip dysplasia",
+      "Glaucoma",
+      "Hypothyroidism",
+      "Dental disease"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy diet and weight",
+      "Provide regular exercise",
+      "Implement consistent grooming routines",
+      "Early socialization and training"
+    ],
+    "vet_checkups": "Annually; more frequent if health issues arise"
+  },
+  "care": {
+    "description": "Shiba Inus require attentive care to maintain their health and well-being. Regular exercise, grooming, and mental stimulation are essential to keep them happy and healthy.",
+    "behavior": "Early socialization and consistent, positive reinforcement training are crucial to manage their independent nature. Providing mental stimulation through interactive toys and activities can prevent boredom and associated behavioral issues.",
+    "health": "Regular veterinary check-ups are important to monitor for common health issues. Maintaining a healthy diet and weight can help prevent joint problems and other health concerns.",
+    "grooming": "Weekly brushing is recommended to manage shedding and maintain coat health. During seasonal shedding periods, more frequent brushing may be necessary. Regular ear cleaning and dental care are also important.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential. Monitoring food intake and providing regular exercise can help prevent obesity, which can exacerbate health issues."
+  },
+  "faq": [
+    {
+      "question": "Are Shiba Inus good for first-time dog owners?",
+      "answer": "Shiba Inus can be challenging for first-time owners due to their independent nature. Consistent training and early socialization are key to managing their behavior."
+    },
+    {
+      "question": "Do Shiba Inus get along with other pets?",
+      "answer": "They have a high prey drive and may not be suitable for homes with small animals. Proper socialization can help them coexist with other dogs."
+    },
+    {
+      "question": "How much exercise does a Shiba Inu need?",
+      "answer": "They require moderate to high levels of exercise, including daily walks and playtime, to keep them physically and mentally stimulated."
+    },
+    {
+      "question": "Are Shiba Inus prone to health problems?",
+      "answer": "They are generally healthy but can be prone to allergies, patellar luxation, and hip dysplasia. Regular vet check-ups are important."
+    },
+    {
+      "question": "Do Shiba Inus shed a lot?",
+      "answer": "Yes, they have a double coat and shed heavily, especially during seasonal changes. Regular brushing helps manage shedding."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shiba_Inu",
+    "https://www.petmd.com/dog/breeds/shiba-inu",
+    "https://vcahospitals.com/know-your-pet/shiba-inu",
+    "https://www.healthypawspetinsurance.com/blog/dog-breeds/breed-guide-shiba-inu",
+    "https://www.dogster.com/dog-health-care/shiba-inu-health-problems"
+  ]
+}

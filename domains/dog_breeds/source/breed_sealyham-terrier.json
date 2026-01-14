@@ -1,0 +1,86 @@
+{
+  "id": "sealyham-terrier",
+  "name": "Sealyham Terrier",
+  "full_description": "<p>The Sealyham Terrier is a robust and spirited breed originating from Wales in the mid-19th century. Developed by Captain John Edwardes at Sealyham House in Pembrokeshire, the breed was meticulously crafted for hunting small game such as badgers, foxes, and otters. Edwardes aimed to create a small, predominantly white terrier with a strong jaw and wiry coat, ensuring the dog was distinguishable from its quarry during hunts. The exact mix of breeds used remains undocumented, but it's believed that the Welsh Corgi, Fox Terrier (Wire), Dandie Dinmont Terrier, West Highland White Terrier, Bull Terrier, Staffordshire Bull Terrier, and the now-extinct English White Terrier contributed to the Sealyham's development.</p>\n<p>Physically, the Sealyham Terrier is a small, sturdy dog standing about 10.5 inches (27 cm) at the shoulder and weighing approximately 20 pounds (9 kg) for males and slightly less for females. The breed features a rectangular body, being slightly longer than tall, with a deep chest and well-sprung ribs. Its head is long and broad, with a slightly domed skull and a powerful, square muzzle. The eyes are dark and set wide apart, conveying a keen and alert expression. Ears are moderately large, with rounded tips, folding level with the top of the head. The Sealyham's coat is a distinctive double layer: a hard, wiry outer coat and a dense, soft undercoat, predominantly white, sometimes with lemon, brown, blue, or badger markings on the head and ears.</p>\n<p>Temperamentally, Sealyham Terriers are known for their lively and alert nature, yet they are more docile compared to other terrier breeds. They exhibit a playful and friendly demeanor, showing complete devotion to their human families. While they are affectionate and enjoy companionship, they can be reserved towards strangers and may display a strong prey drive, leading them to chase small animals. Early socialization is crucial to ensure they are well-mannered and adaptable.</p>\n<p>Originally bred for hunting and pest control, Sealyhams were adept at going to ground after badgers and accompanying Otterhounds on hunts. Their strong build and fearless nature made them excellent working dogs. In modern times, while their hunting roles have diminished, they have transitioned into cherished family companions and show dogs. Despite their historical popularity, the breed has seen a decline in numbers and is now considered a vulnerable native breed.</p>\n<p>Notable characteristics of the Sealyham Terrier include their distinctive white, wiry coat, which requires regular grooming to maintain its texture and prevent matting. They possess a strong, muscular build that belies their small stature, and their expressive facial features, including bushy eyebrows and a prominent beard, add to their unique appearance. Their adaptable nature allows them to thrive in various living environments, from city apartments to rural homes, as long as their exercise and companionship needs are met.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "18-20 pounds (8-9 kg)",
+    "height": "10.5 inches (27 cm)",
+    "coat": "hard, wiry outer coat with a dense, soft undercoat; predominantly white with possible lemon, brown, blue, or badger markings on head and ears",
+    "activity": "moderate",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "regular brushing; professional grooming recommended every 3 months",
+    "lifespan": "12-14 years"
+  },
+  "behavior": {
+    "summary": "Sealyham Terriers are lively, alert, and affectionate dogs known for their playful yet docile nature. They are devoted to their families but can be reserved with strangers and may exhibit a strong prey drive.",
+    "with_family": "They are affectionate and loyal, forming strong bonds with family members and enjoying interactive play.",
+    "with_children": "Generally good with children, especially when socialized early, but interactions should be supervised due to their energetic nature.",
+    "with_other_pets": "May coexist with other dogs if socialized properly; however, their hunting instincts can lead them to chase smaller animals.",
+    "with_strangers": "Tend to be reserved or cautious around strangers, making them effective watchdogs.",
+    "special_traits": [
+      "playful and friendly",
+      "alert and keen",
+      "strong prey drive",
+      "independent yet affectionate",
+      "good watchdog abilities"
+    ]
+  },
+  "health": {
+    "summary": "Sealyham Terriers are generally healthy with a lifespan of 12-14 years but are prone to certain genetic conditions.",
+    "common_issues": [
+      "primary lens luxation",
+      "retinal dysplasia",
+      "deafness"
+    ],
+    "prevention_tips": [
+      "regular eye examinations",
+      "genetic testing for known hereditary conditions",
+      "maintaining a healthy weight to prevent joint issues"
+    ],
+    "vet_checkups": "annual checkups recommended; more frequent visits if health issues arise"
+  },
+  "care": {
+    "description": "Sealyham Terriers require regular grooming, moderate exercise, and early socialization to ensure they are well-adjusted companions.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature and prevent undesirable behaviors.",
+    "health": "Regular veterinary care, including eye and hearing tests, is important to monitor and maintain their health.",
+    "grooming": "Their double coat requires combing two or three times a week and shaping once every three months; professional grooming is recommended.",
+    "nutrition": "A balanced diet appropriate for their size and activity level is crucial; portion control helps prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Sealyham Terriers good with children?",
+      "answer": "Yes, they are generally good with children, especially when socialized early, but supervision is recommended during interactions."
+    },
+    {
+      "question": "Do Sealyham Terriers require a lot of exercise?",
+      "answer": "They have moderate exercise needs; daily walks and play sessions are sufficient to keep them healthy and happy."
+    },
+    {
+      "question": "Are Sealyham Terriers easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training methods work best."
+    },
+    {
+      "question": "Do Sealyham Terriers shed a lot?",
+      "answer": "They shed minimally but require regular grooming to maintain their coat and prevent matting."
+    },
+    {
+      "question": "Are Sealyham Terriers good watchdogs?",
+      "answer": "Yes, they are alert and reserved with strangers, making them effective watchdogs."
+    }
+  ],
+  "sources": [
+    "https://www.petscare.com/news/faq/what-is-a-sealyham-terrier",
+    "https://www.petmd.com/dog/breeds/c_dg_sealyham_terrier",
+    "https://www.ukcdogs.com/sealyham-terrier",
+    "https://www.webmd.com/pets/dogs/what-to-know-sealyham-terriers",
+    "https://vcahospitals.com/know-your-pet/sealyham-terrier",
+    "https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/terrier/sealyham-terrier/",
+    "https://www.akc.org/expert-advice/dog-breeds/sealyham-terrier-history/",
+    "https://www.lancasterpuppies.com/dog-breeds/sealyham-terrier/",
+    "https://en.wikipedia.org/wiki/Sealyham_Terrier",
+    "https://www.westminsterkennelclub.org/breed/sealyham-terrier/",
+    "https://www.wisdompanel.com/en-us/dog-breeds/sealyham-terrier",
+    "https://www.akc.org/expert-advice/lifestyle/6-facts-sealyham-terrier/"
+  ]
+}

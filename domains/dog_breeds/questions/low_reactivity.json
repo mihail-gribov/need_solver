@@ -1,0 +1,84 @@
+{
+  "need_id": "low_reactivity",
+  "formula": "~reactivity",
+  "formula_reasoning": "Low reactivity directly corresponds to the breed's calm response to external stimuli, which is captured by a low value of the 'reactivity' feature. Using ~reactivity ensures selection of breeds that are less likely to overreact to sounds, movements, or new situations.",
+  "questions": [
+    {
+      "id": "low_reactivity_q1",
+      "text": "В вашем доме часто бывают гости или происходят неожиданные визиты?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = в доме часто новые люди и стимулы, нужна спокойная собака. Нет = редко неожиданные ситуации, можно выбрать более активную породу."
+    },
+    {
+      "id": "low_reactivity_q2",
+      "text": "Вам важно, чтобы собака спокойно реагировала на неожиданные звуки или движения дома?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = пользователь ищет породу с низкой реактивностью. Нет = возможна собака с более живой реакцией."
+    },
+    {
+      "id": "low_reactivity_q3",
+      "text": "В доме часто бывают дети, которые могут шуметь или играть активно?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = нужны спокойные, уравновешенные собаки. Нет = меньше риска неожиданных раздражителей."
+    },
+    {
+      "id": "low_reactivity_q4",
+      "text": "Вас беспокоит, если собака может резко лаять или реагировать на уличные шумы?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = важна низкая реактивность. Нет = пользователь допускает более реактивную собаку."
+    },
+    {
+      "id": "low_reactivity_q5",
+      "text": "В вашем доме бывают резкие звуки (ремонт, техника, музыка) или много движения?",
+      "weight": 0.6,
+      "style": "situational",
+      "verification": "Да = важно, чтобы собака была спокойна к шуму и активности. Нет = окружающая среда более спокойная."
+    }
+  ],
+  "need_name": "Low Reactivity",
+  "need_description": "Calm response to stimuli",
+  "block": "behavior_character",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

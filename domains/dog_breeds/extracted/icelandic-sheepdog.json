@@ -1,0 +1,183 @@
+{
+  "breed_id": "icelandic-sheepdog",
+  "features": {
+    "shedding": {
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "coat_type": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "dander_level": {
+      "value": 0.5,
+      "confidence": 0.5
+    },
+    "grooming": {
+      "value": 0.5,
+      "confidence": 0.8
+    },
+    "health_robustness": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "genetic_risk": {
+      "value": 0.3,
+      "confidence": 0.7
+    },
+    "apartment_ok": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "barking": {
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "energy": {
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "reactivity": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "noise_tolerance": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "exercise_need": {
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "alone_tolerance": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "separation_anxiety_risk": {
+      "value": 0.6,
+      "confidence": 0.6
+    },
+    "sitter_compatibility": {
+      "value": 0.7,
+      "confidence": 0.6
+    },
+    "adaptability": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "child_friendly": {
+      "value": 0.9,
+      "confidence": 0.8
+    },
+    "pet_friendly": {
+      "value": 0.8,
+      "confidence": 0.7
+    },
+    "stranger_friendly": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "territoriality": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "protectiveness": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "stress_sensitivity": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "affection_level": {
+      "value": 0.9,
+      "confidence": 0.8
+    },
+    "independence": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "playfulness": {
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "trainability": {
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "working_drive": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "behavior_management_need": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "mental_stimulation": {
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "prey_drive": {
+      "value": 0.3,
+      "confidence": 0.6
+    },
+    "hunting_instinct": {
+      "value": 0.3,
+      "confidence": 0.6
+    }
+  },
+  "parameters": {
+    "weight_kg": [
+      {
+        "value": 11.5,
+        "confidence": 0.9,
+        "source": "FCI"
+      },
+      {
+        "value": 12.5,
+        "confidence": 0.8,
+        "source": "Purina"
+      },
+      {
+        "value": 13.5,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ],
+    "height_cm": [
+      {
+        "value": 44,
+        "confidence": 0.9,
+        "source": "FCI"
+      },
+      {
+        "value": 45,
+        "confidence": 0.8,
+        "source": "Purina"
+      },
+      {
+        "value": 44,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ],
+    "lifespan_years": [
+      {
+        "value": 13,
+        "confidence": 0.9,
+        "source": "FCI"
+      },
+      {
+        "value": 13.5,
+        "confidence": 0.8,
+        "source": "Purina"
+      },
+      {
+        "value": 13,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ]
+  },
+  "notes": "The Icelandic Sheepdog is a friendly and energetic breed with a thick double coat requiring regular grooming. They are known for their vocal nature and high energy levels, making them well-suited for active families. While generally healthy, they can be prone to certain hereditary conditions, so regular veterinary check-ups are recommended."
+}

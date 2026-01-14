@@ -1,0 +1,159 @@
+{
+  "id": "irish-wolfhound",
+  "name": "Irish Wolfhound",
+  "name_rus": "Ирландский волкодав",
+  "full_description": "<p>The Irish Wolfhound, known in Irish as Cú Faoil, is a breed of large sighthound that has inspired literature, poetry, and mythology. Originating in Ireland, these dogs were historically used for hunting wolves and deer, showcasing their strength and speed. By the 18th century, the breed faced near extinction due to the decline of wolves in Ireland. However, in the late 19th century, Captain George Augustus Graham spearheaded efforts to revive the breed by crossbreeding the few remaining Irish Wolfhounds with breeds like the Scottish Deerhound and Great Dane. Physically, the Irish Wolfhound is the tallest of all dog breeds, with males standing at least 32 inches (81 cm) tall and females at least 30 inches (76 cm). They possess a rough, hard coat that can be gray, brindle, red, black, white, fawn, or wheaten. Their build combines the speed of a sighthound with the strength to tackle large game. Temperamentally, Irish Wolfhounds are known for their gentle and friendly nature. They form strong bonds with their families and are generally good with children and other pets. While they are not typically aggressive, their imposing size can serve as a deterrent to intruders. Historically bred for hunting large game, their modern role has shifted to that of a companion animal. Despite their hunting origins, they are not known for being aggressive and are often described as gentle giants. Notable characteristics of the breed include their towering stature, rough coat, and calm demeanor. They require regular exercise to maintain their health but are not overly energetic. Their coat needs regular brushing to prevent matting, and due to their size, they require ample space to move comfortably.</p>",
+  "full_description_rus": "<p>Ирландский волкодав, известный на ирландском языке как Cú Faoil, — это порода крупных борзых собак, вдохновившая множество литературных произведений, поэзии и мифологии. Происходя из Ирландии, эти собаки исторически использовались для охоты на волков и оленей, демонстрируя свою силу и скорость. К XVIII веку порода оказалась на грани исчезновения из-за сокращения популяции волков в Ирландии. Однако в конце XIX века капитан Джордж Август Грэм предпринял усилия по возрождению породы, скрещивая оставшихся ирландских волкодавов с такими породами, как шотландский дирхаунд и немецкий дог. Физически ирландский волкодав является самой высокой породой собак: кобели достигают роста не менее 81 см, а суки — не менее 76 см. Они обладают жесткой, грубой шерстью, которая может быть серого, тигрового, красного, черного, белого, палевого или пшеничного окраса. Их телосложение сочетает в себе скорость борзой с силой, необходимой для охоты на крупную дичь. По темпераменту ирландские волкодавы известны своим добродушным и дружелюбным характером. Они формируют крепкие связи со своими семьями и обычно хорошо ладят с детьми и другими домашними животными. Хотя они редко проявляют агрессию, их внушительные размеры могут служить сдерживающим фактором для незваных гостей. Исторически выведенные для охоты на крупную дичь, в современном мире они чаще выступают в роли компаньонов. Несмотря на свои охотничьи корни, они не склонны к агрессии и часто описываются как «нежные гиганты». Ключевые особенности породы включают их высокий рост, жесткую шерсть и спокойный нрав. Они требуют регулярных физических нагрузок для поддержания здоровья, но не являются чрезмерно энергичными. Их шерсть нуждается в регулярном вычесывании для предотвращения спутывания, а из-за своих размеров им необходимо достаточно пространства для комфортного передвижения.</p>",
+  "parameters": {
+    "size": "giant",
+    "weight": "Males: at least 54 kg; Females: at least 48 kg",
+    "height": "Males: at least 81 cm; Females: at least 76 cm",
+    "coat": "rough and hard; colors include gray, brindle, red, black, white, fawn, or wheaten",
+    "activity": "moderate to high",
+    "trainability": "moderate",
+    "grooming": "regular brushing to prevent matting",
+    "lifespan": "6-10 years"
+  },
+  "parameters_rus": {
+    "размер": "гигантский",
+    "вес": "Кобели: не менее 54 кг; Суки: не менее 48 кг",
+    "рост": "Кобели: не менее 81 см; Суки: не менее 76 см",
+    "шерсть": "жесткая и грубая; окрасы: серый, тигровый, красный, черный, белый, палевый или пшеничный",
+    "активность": "умеренная до высокой",
+    "обучаемость": "средняя",
+    "уход": "регулярное вычесывание для предотвращения спутывания",
+    "продолжительность жизни": "6-10 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Gentle giant",
+      "Affectionate",
+      "Loyal",
+      "Calm demeanor",
+      "Good with children"
+    ],
+    "summary": "Irish Wolfhounds are gentle, friendly, and form strong bonds with their families. They are generally good with children and other pets, and their imposing size can serve as a deterrent to intruders.",
+    "with_children": "Known for their gentle nature, they are typically good with children.",
+    "with_family": "They are affectionate and loyal, often forming strong bonds with family members.",
+    "with_other_pets": "Generally good with other pets, especially when raised together.",
+    "with_strangers": "Friendly towards strangers, though their size can be intimidating."
+  },
+  "behavior_rus": {
+    "особые черты": [
+      "Нежный гигант",
+      "Ласковый",
+      "Преданный",
+      "Спокойный нрав",
+      "Хорошо ладит с детьми"
+    ],
+    "краткое описание поведения": "Ирландские волкодавы добродушны, дружелюбны и формируют крепкие связи со своими семьями. Они обычно хорошо ладят с детьми и другими домашними животными, а их внушительные размеры могут служить сдерживающим фактором для незваных гостей.",
+    "с детьми": "Известны своей добротой, обычно хорошо ладят с детьми.",
+    "с семьёй": "Ласковы и преданны, часто формируют крепкие связи с членами семьи.",
+    "с другими животными": "Обычно хорошо уживаются с другими животными, особенно если выросли вместе.",
+    "с незнакомцами": "Дружелюбны к незнакомцам, хотя их размеры могут быть пугающими."
+  },
+  "health": {
+    "common_issues": [
+      "Dilated cardiomyopathy",
+      "Bone cancer",
+      "Gastric dilatation volvulus (bloat)",
+      "Osteochondrosis"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Balanced diet to maintain healthy weight",
+      "Avoiding vigorous exercise immediately before or after meals",
+      "Monitoring for signs of heart disease",
+      "Providing joint supplements as recommended by a veterinarian"
+    ],
+    "summary": "Irish Wolfhounds have a relatively short lifespan and are prone to certain health issues common in large breeds.",
+    "vet_checkups": "Regular veterinary check-ups are recommended to monitor for common health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Ирландские волкодавы имеют относительно короткую продолжительность жизни и склонны к определённым заболеваниям, характерным для крупных пород.",
+    "распространённые проблемы": [
+      "Дилатационная кардиомиопатия",
+      "Остеосаркома",
+      "Заворот желудка (вздутие)",
+      "Остеохондроз"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Сбалансированное питание для поддержания здорового веса",
+      "Избегание интенсивных физических нагрузок непосредственно до или после еды",
+      "Мониторинг признаков сердечных заболеваний",
+      "Предоставление добавок для суставов по рекомендации ветеринара"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются регулярные ветеринарные осмотры для мониторинга распространённых проблем со здоровьем."
+  },
+  "care": {
+    "behavior": "They thrive on companionship and should not be left alone for extended periods.",
+    "description": "Irish Wolfhounds require regular exercise, a balanced diet, and routine grooming to maintain their health and well-being.",
+    "grooming": "Their rough coat requires regular brushing to prevent matting.",
+    "health": "Regular veterinary check-ups are essential to monitor for common health issues.",
+    "nutrition": "A balanced diet appropriate for large breeds is essential to maintain their health."
+  },
+  "care_rus": {
+    "поведение и характер": "Они нуждаются в общении и не должны оставаться в одиночестве на длительное время.",
+    "краткое описание ухода": "Ирландские волкодавы требуют регулярных физических нагрузок, сбалансированного питания и постоянного ухода за шерстью для поддержания здоровья и благополучия.",
+    "груминг и уход": "Их жесткая шерсть требует регулярного вычесывания для предотвращения спутывания.",
+    "здоровье и профилактика": "Регулярные ветеринарные осмотры необходимы для мониторинга распространённых проблем со здоровьем.",
+    "питание и активность": "Сбалансированное питание, соответствующее потребностям крупных пород, необходимо для поддержания их здоровья."
+  },
+  "faq": [
+    {
+      "question": "Are Irish Wolfhounds good with children?",
+      "answer": "Yes, they are known for their gentle nature and are typically good with children."
+    },
+    {
+      "question": "How much exercise does an Irish Wolfhound need?",
+      "answer": "They require regular exercise but are not overly energetic; daily walks and playtime are sufficient."
+    },
+    {
+      "question": "What is the average lifespan of an Irish Wolfhound?",
+      "answer": "Their lifespan is relatively short, averaging between 6 to 10 years."
+    },
+    {
+      "question": "Do Irish Wolfhounds require a lot of grooming?",
+      "answer": "Their rough coat requires regular brushing to prevent matting."
+    },
+    {
+      "question": "Are Irish Wolfhounds aggressive?",
+      "answer": "No, they are generally gentle and friendly, though their size can be intimidating."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Ирландские волкодавы хорошо ладят с детьми?",
+      "ответ": "Да, они известны своей добротой и обычно хорошо ладят с детьми."
+    },
+    {
+      "вопрос": "Сколько физической активности требуется ирландскому волкодаву?",
+      "ответ": "Они требуют регулярных физических нагрузок, но не являются чрезмерно энергичными; ежедневные прогулки и игры достаточны."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни ирландского волкодава?",
+      "ответ": "Их продолжительность жизни относительно коротка, в среднем от 6 до 10 лет."
+    },
+    {
+      "вопрос": "Требуют ли ирландские волкодавы много ухода за шерстью?",
+      "ответ": "Их жесткая шерсть требует регулярного вычесывания для предотвращения спутывания."
+    },
+    {
+      "вопрос": "Ирландские волкодавы агрессивны?",
+      "ответ": "Нет, они обычно добродушны и дружелюбны, хотя их размеры могут быть пугающими."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Irish_Wolfhound",
+    "https://www.westminsterkennelclub.org/breed/irish-wolfhound/",
+    "https://www.petmd.com/dog/breeds/irish-wolfhound",
+    "https://www.purina.com/dogs/dog-breeds/irish-wolfhound",
+    "https://www.royalkennelclub.com/search/breeds-a-to-z/breeds/hound/irish-wolfhound/",
+    "https://ru.wikipedia.org/wiki/Ирландский_волкодав",
+    "https://www.purinaone.ru/dog/articles/breeds/irlandskij-volkodav",
+    "https://www.hillspet.ru/dog-care/dog-breeds/irish-wolfhound",
+    "https://www.pedigree.ru/porody/irlandskij-volkodav",
+    "https://royalcanin.ru/dog-breed/irish-wolfhound"
+  ]
+}

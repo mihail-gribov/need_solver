@@ -1,0 +1,84 @@
+{
+  "need_id": "low_separation_anxiety",
+  "formula": "~separation_anxiety_risk & alone_tolerance",
+  "formula_reasoning": "Для минимального риска тревоги разлуки важны две характеристики: низкая склонность к тревоге при разлуке (~separation_anxiety_risk) и высокая способность спокойно оставаться одному (alone_tolerance). Обе черты нужны для собаки, которой часто предстоит оставаться дома без хозяев.",
+  "questions": [
+    {
+      "id": "low_separation_anxiety_q1",
+      "text": "Бывает ли, что вы уходите из дома на 6 часов и дольше, и собака остаётся одна?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = собака часто остаётся одна, нужен низкий риск тревоги разлуки. Нет = собака редко/никогда не остаётся одна, потребность минимальна."
+    },
+    {
+      "id": "low_separation_anxiety_q2",
+      "text": "В вашей семье часто бывают дни, когда дома никого нет по несколько часов подряд?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = долгие периоды одиночества для собаки, важно отсутствие тревоги. Нет = всегда кто-то дома, тревога разлуки не критична."
+    },
+    {
+      "id": "low_separation_anxiety_q3",
+      "text": "Вы работаете вне дома полный рабочий день?",
+      "weight": 0.75,
+      "style": "direct",
+      "verification": "Да = собака будет одна большую часть дня, нужен низкий риск тревоги разлуки. Нет = хозяин часто дома, тревога не так важна."
+    },
+    {
+      "id": "low_separation_anxiety_q4",
+      "text": "Планируете ли вы оставлять собаку одну дома больше 4 часов подряд?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = одиночество для собаки обычная ситуация, важна устойчивость к разлуке. Нет = одиночество маловероятно, потребность ниже."
+    },
+    {
+      "id": "low_separation_anxiety_q5",
+      "text": "Часто ли вы уезжаете на выходные или в командировки без возможности взять собаку с собой?",
+      "weight": 0.6,
+      "style": "situational",
+      "verification": "Да = собака может периодически оставаться без хозяев, важна низкая тревога разлуки. Нет = собака всегда с вами, тревога менее значима."
+    }
+  ],
+  "need_name": "Low Separation Anxiety",
+  "need_description": "Low risk of separation anxiety",
+  "block": "daily_schedule",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

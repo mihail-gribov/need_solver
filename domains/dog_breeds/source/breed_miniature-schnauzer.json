@@ -1,0 +1,83 @@
+{
+  "id": "miniature-schnauzer",
+  "name": "Miniature Schnauzer",
+  "full_description": "<p>The Miniature Schnauzer is a small, robust, and energetic breed that originated in Germany during the late 19th century. Developed by breeding the Standard Schnauzer with smaller breeds such as the Affenpinscher and Miniature Poodle, the goal was to create a compact and efficient ratter for farms and households. The breed was first recognized in Germany in 1898 and made its way to the United States in 1924, gaining American Kennel Club recognition in 1926. Physically, the Miniature Schnauzer stands between 12 to 14 inches tall and weighs approximately 11 to 20 pounds. It possesses a distinctive rectangular head adorned with bushy eyebrows, a prominent beard, and a mustache. The breed's double coat is wiry and comes in color patterns including salt and pepper, black and silver, and solid black. Known for its alert and spirited temperament, the Miniature Schnauzer is intelligent, obedient, and friendly. It exhibits a strong territorial instinct, making it an excellent watchdog, yet it is less aggressive compared to other terrier breeds. Originally bred for ratting and farm work, the Miniature Schnauzer has retained its working abilities and excels in various performance events. Today, it is primarily a companion dog, cherished for its affectionate nature and adaptability to different living environments. Notable characteristics include its human-like expression, low-shedding coat, and lively demeanor.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "11-20 pounds (5-9 kg)",
+    "height": "12-14 inches (30-36 cm)",
+    "coat": "double coat with a wiry exterior and soft undercoat; colors include salt and pepper, black and silver, and solid black",
+    "activity": "moderate to high",
+    "trainability": "high",
+    "grooming": "regular grooming required; professional grooming recommended every 5-8 weeks",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "The Miniature Schnauzer is an intelligent, affectionate, and alert breed, known for its friendly disposition and strong territorial instincts.",
+    "with_family": "Highly devoted and enjoys being close to family members, often following them from room to room.",
+    "with_children": "Generally good with children, especially when socialized early; enjoys playtime and interaction.",
+    "with_other_pets": "Can coexist with other pets if introduced properly, though may exhibit a strong prey drive towards smaller animals.",
+    "with_strangers": "Aloof with strangers initially but becomes friendly once the owner welcomes the guest.",
+    "special_traits": [
+      "Excellent watchdog with strong territorial instincts",
+      "Highly intelligent and trainable",
+      "Affectionate and enjoys human companionship",
+      "Low-shedding coat suitable for allergy sufferers",
+      "Energetic and enjoys various activities"
+    ]
+  },
+  "health": {
+    "summary": "Generally a healthy breed with a lifespan of 12-15 years, though prone to certain hereditary conditions.",
+    "common_issues": [
+      "Pancreatitis",
+      "Diabetes",
+      "Bladder stones",
+      "Von Willebrand disease",
+      "Atopic dermatitis"
+    ],
+    "prevention_tips": [
+      "Maintain a balanced diet to prevent obesity",
+      "Regular exercise to promote overall health",
+      "Routine grooming to monitor skin health",
+      "Regular dental care to prevent oral diseases",
+      "Early socialization and training to promote mental well-being"
+    ],
+    "vet_checkups": "Recommended annually, with more frequent visits for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "The Miniature Schnauzer requires regular grooming, balanced nutrition, and consistent exercise to maintain its health and happiness.",
+    "behavior": "Thrives on human companionship and enjoys participating in family activities; benefits from mental stimulation through training and play.",
+    "health": "Regular veterinary check-ups and preventive care are essential to monitor and maintain health.",
+    "grooming": "Requires regular brushing and professional grooming every 5-8 weeks to maintain coat health and appearance.",
+    "nutrition": "A balanced diet appropriate for its size, age, and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Miniature Schnauzers hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Miniature Schnauzers have a low-shedding coat that may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "Do Miniature Schnauzers get along with other dogs?",
+      "answer": "With proper socialization, they can get along well with other dogs, though they may exhibit a strong prey drive towards smaller animals."
+    },
+    {
+      "question": "How much exercise does a Miniature Schnauzer need?",
+      "answer": "They require daily walks and moderate exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Are Miniature Schnauzers good for apartment living?",
+      "answer": "Yes, their small size and adaptable nature make them well-suited for apartment living, provided they receive adequate exercise."
+    },
+    {
+      "question": "How often should a Miniature Schnauzer be groomed?",
+      "answer": "Regular brushing and professional grooming every 5-8 weeks are recommended to maintain their coat."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/miniature-schnauzer",
+    "https://www.akc.org/expert-advice/dog-breeds/miniature-schnauzer-history/",
+    "https://en.wikipedia.org/wiki/Miniature_Schnauzer",
+    "https://amsc.us/all-about-miniature-schnauzers/history-of-the-miniature-schnauzer/",
+    "https://www.hillspet.com/dog-care/dog-breeds/miniature-schnauzer"
+  ]
+}

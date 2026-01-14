@@ -1,0 +1,159 @@
+{
+  "id": "welsh-springer-spaniel",
+  "name": "Welsh Springer Spaniel",
+  "name_rus": "Вельш-спрингер-спаниель",
+  "full_description": "<p>The Welsh Springer Spaniel is a medium-sized, athletic breed originating from Wales, renowned for its distinctive red and white coat and affectionate nature. Historically, this breed descends from the old Land Spaniel, with references to red and white spaniels dating back centuries. Official recognition by The Kennel Club (UK) occurred in 1902, and the American Kennel Club followed in 1906. Initially bred to 'spring' game for hunters using nets or birds of prey, the Welsh Springer adapted to work alongside firearms, showcasing remarkable stamina across rugged terrains and varying weather conditions. Physically, males typically stand between 18 to 19 inches at the withers, weighing 40 to 55 pounds, while females are slightly smaller at 17 to 18 inches and 35 to 50 pounds. The breed's coat is always red and white, featuring medium-length, flat, straight, and soft fur with feathering on the chest, legs, ears, tail, and underside. Their brown eyes exude warmth, and their small, vine-shaped ears hang close to the head with light feathering. Temperamentally, Welsh Springer Spaniels are known for their loyalty, earning them the nickname 'Velcro dog' due to their strong bonds with family members. They are gentle and playful with children and familiar faces but may exhibit wariness around strangers. Early socialization is essential to develop their confidence. In terms of working abilities, they are versatile hunters with a strong nose and webbed feet, excelling in activities like conformation, obedience, agility, hunting, tracking, and field trials. In modern times, while they continue to serve as capable hunting companions, they have also become cherished family pets, appreciated for their affectionate and energetic nature. Notable characteristics include their unique red and white coat, unwavering loyalty, and adaptability to various roles, from hunting to companionship.</p>",
+  "full_description_rus": "<p>Вельш-спрингер-спаниель — это средних размеров, атлетичная порода, происходящая из Уэльса, известная своим характерным красно-белым окрасом и привязанным характером. Исторически эта порода ведет свое происхождение от старинных лэнд-спаниелей, с упоминаниями о красно-белых спаниелях, датируемыми несколькими веками назад. Официальное признание породы Кеннел-клубом Великобритании состоялось в 1902 году, а Американским Кеннел-клубом — в 1906 году. Изначально вельш-спрингер-спаниели были выведены для вспугивания дичи для охотников, использующих сети или хищных птиц, но со временем адаптировались к работе с огнестрельным оружием, демонстрируя выдающуюся выносливость на пересеченной местности и в различных погодных условиях. Физически кобели обычно достигают роста от 46 до 48 см в холке и весят от 18 до 25 кг, тогда как суки немного меньше — от 43 до 46 см и от 16 до 23 кг соответственно. Шерсть породы всегда красно-белая, средней длины, прямая и мягкая, с очесами на груди, ногах, ушах, хвосте и нижней части тела. Их карие глаза излучают тепло, а небольшие, виноградовидные уши плотно прилегают к голове с легкими очесами. По темпераменту вельш-спрингер-спаниели известны своей преданностью, за что получили прозвище «собаки-липучки» из-за сильной привязанности к членам семьи. Они нежны и игривы с детьми и знакомыми людьми, но могут проявлять настороженность к незнакомцам. Ранняя социализация необходима для развития их уверенности. В рабочих качествах они являются универсальными охотниками с отличным чутьем и перепончатыми лапами, преуспевая в таких видах деятельности, как выставки, послушание, аджилити, охота, трекинг и полевые испытания. В современное время, помимо роли надежных охотничьих компаньонов, они стали любимыми семейными питомцами, ценимыми за их привязанность и энергичный характер. Отличительными чертами породы являются их уникальный красно-белый окрас, непоколебимая преданность и адаптивность к различным ролям — от охоты до компаньонства.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "Males: 40-55 pounds; Females: 35-50 pounds",
+    "height": "Males: 18-19 inches; Females: 17-18 inches",
+    "coat": "Medium-length, flat, straight, soft; red and white with feathering on chest, legs, ears, tail, and underside",
+    "activity": "high",
+    "trainability": "moderate; can be headstrong but responds well to positive reinforcement",
+    "grooming": "weekly brushing; regular ear cleaning to prevent infections",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "Кобели: 18-25 кг; Суки: 16-23 кг",
+    "рост": "Кобели: 46-48 см; Суки: 43-46 см",
+    "шерсть": "Средней длины, прямая, мягкая; красно-белая с очесами на груди, ногах, ушах, хвосте и нижней части тела",
+    "активность": "высокая",
+    "обучаемость": "умеренная; могут быть упрямыми, но хорошо реагируют на положительное подкрепление",
+    "уход": "еженедельное расчесывание; регулярная чистка ушей для предотвращения инфекций",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "summary": "Welsh Springer Spaniels are affectionate, loyal, and energetic dogs that form strong bonds with their families. They are gentle with children and familiar faces but may be reserved around strangers. Early socialization is crucial to develop their confidence.",
+    "with_family": "They are known as 'Velcro dogs' due to their strong attachment to family members, often following them closely and seeking companionship.",
+    "with_children": "Gentle and playful, they interact well with children, making them excellent family pets.",
+    "with_other_pets": "Generally friendly with other household pets, especially when raised together, though early socialization is beneficial.",
+    "with_strangers": "May exhibit wariness or aloofness around strangers; early socialization helps them become more confident.",
+    "special_traits": [
+      "Strong attachment to family",
+      "Energetic and playful",
+      "Gentle with children",
+      "May be reserved with strangers",
+      "Requires regular exercise"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Вельш-спрингер-спаниели — привязчивые, преданные и энергичные собаки, которые формируют крепкие связи со своими семьями. Они нежны с детьми и знакомыми людьми, но могут быть сдержанными с незнакомцами. Ранняя социализация крайне важна для развития их уверенности.",
+    "с семьёй": "Их называют «собаками-липучками» из-за сильной привязанности к членам семьи; они часто следуют за ними и ищут общения.",
+    "с детьми": "Нежные и игривые, они хорошо взаимодействуют с детьми, что делает их отличными семейными питомцами.",
+    "с другими животными": "Обычно дружелюбны с другими домашними животными, особенно если выросли вместе; ранняя социализация полезна.",
+    "с незнакомцами": "Могут проявлять настороженность или сдержанность с незнакомцами; ранняя социализация помогает им стать более уверенными.",
+    "особые черты": [
+      "Сильная привязанность к семье",
+      "Энергичность и игривость",
+      "Нежность с детьми",
+      "Могут быть сдержанными с незнакомцами",
+      "Требуют регулярных физических нагрузок"
+    ]
+  },
+  "health": {
+    "summary": "Welsh Springer Spaniels are generally healthy but are prone to certain conditions such as hip dysplasia, ear infections, and glaucoma. Regular veterinary check-ups and preventive care are essential to maintain their health.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Ear infections",
+      "Glaucoma",
+      "Obesity",
+      "Hypothyroidism"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight through proper diet and exercise",
+      "Regular ear cleaning to prevent infections",
+      "Routine eye examinations to detect glaucoma early",
+      "Annual thyroid function tests",
+      "Provide regular, moderate exercise to maintain joint health"
+    ],
+    "vet_checkups": "Annual check-ups recommended; more frequent visits if health issues arise"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Вельш-спрингер-спаниели в целом здоровы, но склонны к некоторым заболеваниям, таким как дисплазия тазобедренного сустава, ушные инфекции и глаукома. Регулярные визиты к ветеринару и профилактический уход необходимы для поддержания их здоровья.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Ушные инфекции",
+      "Глаукома",
+      "Ожирение",
+      "Гипотиреоз"
+    ],
+    "советы по профилактике": [
+      "Поддерживайте здоровый вес с помощью правильного питания и физических упражнений",
+      "Регулярно чистите уши для предотвращения инфекций",
+      "Проводите регулярные осмотры глаз для раннего выявления глаукомы",
+      "Ежегодно проверяйте функцию щитовидной железы",
+      "Обеспечивайте регулярные, умеренные физические нагрузки для поддержания здоровья суставов"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры; более частые визиты при возникновении проблем со здоровьем"
+  },
+  "care": {
+    "description": "Welsh Springer Spaniels require regular exercise, grooming, and health monitoring to ensure their well-being. They thrive in active households where they can participate in various activities.",
+    "behavior": "Due to their energetic nature, they need daily physical and mental stimulation to prevent boredom and destructive behaviors.",
+    "health": "Regular veterinary visits and preventive care are crucial to monitor and address potential health issues common to the breed.",
+    "grooming": "Weekly brushing of their medium-length coat and regular ear cleaning are necessary to maintain hygiene and prevent infections.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level helps maintain optimal health and prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Вельш-спрингер-спаниелям необходимы регулярные физические нагрузки, уход за шерстью и контроль за здоровьем для обеспечения их благополучия. Они процветают в активных семьях, где могут участвовать в различных мероприятиях.",
+    "поведение и характер": "Из-за своей энергичности им требуется ежедневная физическая и умственная стимуляция, чтобы предотвратить скуку и разрушительное поведение.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход необходимы для мониторинга и решения потенциальных проблем со здоровьем, характерных для породы.",
+    "груминг и уход": "Еженедельное расчесывание их средней длины шерсти и регулярная чистка ушей необходимы для поддержания гигиены и предотвращения инфекций.",
+    "питание и активность": "Сбалансированное питание, соответствующее их возрасту, размеру и уровню активности, помогает поддерживать оптимальное здоровье и предотвращать ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Welsh Springer Spaniels good with children?",
+      "answer": "Yes, they are gentle and playful with children, making them excellent family pets."
+    },
+    {
+      "question": "How much exercise does a Welsh Springer Spaniel need?",
+      "answer": "They require daily vigorous exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Welsh Springer Spaniels shed a lot?",
+      "answer": "They have moderate shedding; regular grooming helps manage it."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "They are intelligent but can be headstrong; consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "Do they get along with other pets?",
+      "answer": "Generally, yes; early socialization helps them coexist peacefully with other animals."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Хорошо ли вельш-спрингер-спаниели ладят с детьми?",
+      "ответ": "Да, они нежны и игривы с детьми, что делает их отличными семейными питомцами."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется вельш-спрингер-спаниелю?",
+      "ответ": "Им необходимы ежедневные интенсивные физические нагрузки для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Сильно ли линяют вельш-спрингер-спаниели?",
+      "ответ": "У них умеренная линька; регулярный уход за шерстью помогает справляться с этим."
+    },
+    {
+      "вопрос": "Легко ли их дрессировать?",
+      "ответ": "Они умны, но могут быть упрямыми; последовательная, положительная подкрепляющая дрессировка эффективна."
+    },
+    {
+      "вопрос": "Ладят ли они с другими животными?",
+      "ответ": "В целом, да; ранняя социализация помогает им мирно сосуществовать с другими животными."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Welsh_Springer_Spaniel",
+    "https://www.westminsterkennelclub.org/breed/welsh-springer-spaniel/",
+    "https://www.purina.com/dogs/dog-breeds/welsh-springer-spaniel",
+    "https://vcahospitals.com/know-your-pet/welsh-springer-spaniel",
+    "https://gundog-journal.com/breeds/welsh-springer-spaniel/",
+    "https://ru.wikipedia.org/wiki/Вельш-спрингер-спаниель",
+    "https://royalcanin.ru/dog-breed/welsh-springer-spaniel",
+    "https://www.hillspet.ru/dog-care/dog-breeds/welsh-springer-spaniel"
+  ]
+}

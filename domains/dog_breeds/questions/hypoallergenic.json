@@ -1,0 +1,84 @@
+{
+  "need_id": "hypoallergenic",
+  "formula": "~shedding & ~dander_level",
+  "formula_reasoning": "Гипоаллергенные породы должны минимально линять (~shedding) и выделять мало перхоти (~dander_level), так как оба этих фактора являются основными источниками аллергенов для людей.",
+  "questions": [
+    {
+      "id": "hypoallergenic_q1",
+      "text": "Кто-то из вашей семьи страдает аллергией на шерсть или перхоть животных?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = требуется гипоаллергенная собака. Нет = аллергии нет, ограничений нет."
+    },
+    {
+      "id": "hypoallergenic_q2",
+      "text": "Бывают ли у кого-то дома симптомы, такие как чихание или зуд, после контакта с животными?",
+      "weight": 0.9,
+      "style": "situational",
+      "verification": "Да = есть чувствительность, нужно избегать аллергенных пород. Нет = аллергии не проявляются."
+    },
+    {
+      "id": "hypoallergenic_q3",
+      "text": "В вашем доме бывают гости с аллергией на животных?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = желательно выбирать породу с низкой аллергенностью. Нет = гости с аллергией не бывают, не критично."
+    },
+    {
+      "id": "hypoallergenic_q4",
+      "text": "Вам важно, чтобы в доме было как можно меньше шерсти и пыли от животных?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = показатель низкой терпимости к шерсти/аллергенам. Нет = шерсть и пыль не проблема."
+    },
+    {
+      "id": "hypoallergenic_q5",
+      "text": "Вы предпочитаете выбирать вещи и мебель, на которых не заметна шерсть животных?",
+      "weight": 0.4,
+      "style": "indirect",
+      "verification": "Да = есть чувствительность к шерсти (внешний фактор). Нет = шерсть не мешает."
+    }
+  ],
+  "need_name": "Hypoallergenic",
+  "need_description": "Minimal allergenicity",
+  "block": "health_allergies",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

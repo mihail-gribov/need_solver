@@ -1,0 +1,81 @@
+{
+  "id": "barbet",
+  "name": "Barbet",
+  "full_description": "<p>The Barbet is a historic French water dog, with origins tracing back to the 16th century. Its name derives from the French word 'barbe,' meaning 'beard,' highlighting its distinctive facial hair. Traditionally, the Barbet was bred for retrieving waterfowl, showcasing its exceptional swimming abilities and keen sense of smell. Physically, the Barbet is a medium-sized, slightly rectangular dog with a substantial head and a long, sweeping tail. Its most notable feature is its dense, curly coat that covers the entire body, including the head and tail. This coat comes in various colors, including black, gray, brown, and fawn, with or without white markings. The breed's eyes are medium-sized and expressive, ranging from dark hazel to dark brown, harmonizing with the coat color. Temperamentally, the Barbet is known for its friendly, intelligent, and obedient nature. It forms strong bonds with family members and is sociable with other pets and strangers. Its joyful disposition makes it an excellent companion for families. Historically utilized for waterfowl hunting, the Barbet's working abilities include locating, flushing, and retrieving birds. Its agility and endurance make it well-suited for various canine sports and activities. In modern times, the Barbet has gained popularity as a versatile companion, excelling in roles such as therapy and assistance work. Its hypoallergenic coat and affectionate nature contribute to its appeal among dog enthusiasts. Notable characteristics of the Barbet include its adaptability, intelligence, and eagerness to please, making it a cherished breed for those seeking a loyal and versatile canine companion.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "35-65 pounds",
+    "height": "19-24.5 inches",
+    "coat": "dense, curly, water-resistant",
+    "activity": "moderate to high",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming recommended",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "The Barbet is an affectionate and intelligent breed, known for its friendly and sociable nature. It forms strong bonds with family members and is eager to please, making it highly trainable.",
+    "with_family": "Barbets are loyal and loving companions, thriving on close interaction with their family. They enjoy participating in family activities and are known for their gentle demeanor.",
+    "with_children": "This breed is generally good with children, displaying patience and playfulness. Supervised interactions are recommended to ensure positive experiences for both the dog and the child.",
+    "with_other_pets": "Barbets typically get along well with other pets, especially when socialized from a young age. Their friendly nature allows them to coexist peacefully with other animals.",
+    "with_strangers": "While they may be reserved initially, Barbets are generally polite and friendly towards strangers, especially when properly socialized.",
+    "special_traits": [
+      "Highly adaptable to various living environments",
+      "Strong swimming abilities",
+      "Hypoallergenic coat",
+      "Eager to please",
+      "Versatile in various canine sports"
+    ]
+  },
+  "health": {
+    "summary": "The Barbet is generally a healthy breed with a lifespan of 12 to 15 years. Due to careful breeding practices, they have relatively few health issues.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Eye conditions",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintaining a healthy weight",
+      "Routine ear cleaning",
+      "Providing regular exercise",
+      "Feeding a balanced diet"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "The Barbet requires regular grooming and exercise to maintain its health and happiness. Its curly coat needs consistent care to prevent matting.",
+    "behavior": "This breed thrives on companionship and enjoys being involved in family activities. Providing mental stimulation through training and play is essential.",
+    "health": "Regular veterinary visits and preventive care are important to monitor and maintain the Barbet's health.",
+    "grooming": "Regular brushing and professional grooming are recommended to keep the coat in good condition and prevent matting.",
+    "nutrition": "A balanced diet appropriate for the dog's age, size, and activity level is essential for maintaining optimal health."
+  },
+  "faq": [
+    {
+      "question": "Is the Barbet suitable for families with children?",
+      "answer": "Yes, Barbets are known for their gentle and patient nature, making them excellent companions for families with children."
+    },
+    {
+      "question": "Does the Barbet require a lot of grooming?",
+      "answer": "Yes, their dense, curly coat requires regular brushing and professional grooming to prevent matting."
+    },
+    {
+      "question": "Is the Barbet hypoallergenic?",
+      "answer": "Yes, the Barbet's coat is considered hypoallergenic, making it suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Barbet need?",
+      "answer": "Barbets have moderate to high energy levels and require regular exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Barbets easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable."
+    }
+  ],
+  "sources": [
+    "https://www.barbetclubofamerica.com/barbet",
+    "https://www.akc.org/dog-breeds/barbet/",
+    "https://www.akc.org/expert-advice/lifestyle/barbet-fun-facts/",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-barbets",
+    "https://www.westminsterkennelclub.org/breed/barbet/"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "saluki",
+  "name": "Saluki",
+  "name_rus": "Салюки",
+  "full_description": "<p>The Saluki, often referred to as the \"royal dog of Egypt,\" is one of the oldest known dog breeds, with origins tracing back to the ancient Fertile Crescent, encompassing regions of modern-day Egypt, Mesopotamia, and the Middle East. Archaeological evidence, including carvings and paintings dating back to 7000 to 6000 BCE, depicts dogs resembling the Saluki, highlighting their longstanding association with human societies. Revered by the Egyptians, Salukis were often mummified alongside pharaohs, underscoring their esteemed status. Traditionally, they were utilized by nomadic tribes for hunting game such as gazelles and hares, leveraging their exceptional speed and keen eyesight. Physically, the Saluki is a slender, graceful sighthound characterized by a deep chest, long legs, and a narrow, elongated head. They possess large, dark eyes and drop ears, contributing to their elegant appearance. The breed exhibits two coat types: the \"feathered\" variety, featuring longer, silky hair on the ears, tail, and legs, and the \"smooth\" variety, with short, sleek fur. Coat colors are diverse, including white, cream, fawn, red, grizzle, black and tan, and tricolor combinations. Salukis are known for their gentle and reserved temperament. They form strong bonds with their families but may appear aloof or shy around strangers. While they are affectionate, they are not overly demonstrative, often preferring to sit beside their owners rather than on them. Their independent nature can sometimes be mistaken for stubbornness, but with patient training, they respond well. Historically bred for hunting, Salukis possess remarkable speed and endurance, capable of chasing down swift prey over long distances. This heritage contributes to their high energy levels and need for regular, vigorous exercise. In contemporary settings, Salukis participate in activities like lure coursing, agility, and obedience trials, showcasing their athleticism and intelligence. Despite their ancient lineage, Salukis have maintained a niche popularity. They are cherished by enthusiasts for their unique combination of grace, speed, and loyalty. Their distinctive appearance and storied history continue to captivate dog lovers worldwide. Notable characteristics of the Saluki include their exceptional speed, making them one of the fastest dog breeds over long distances. Their independent and reserved nature sets them apart from more gregarious breeds. Additionally, their low-shedding, silky coat requires minimal grooming compared to other long-haired breeds. Their deep-rooted history as hunting companions to nobility adds to their allure, making them a breed of both historical significance and contemporary appeal.</p>",
+  "full_description_rus": "<p>Салюки, также известные как персидская борзая или газелья собака, считаются одной из древнейших пород собак. Их происхождение восходит к регионам современного Ближнего Востока, включая Египет, Месопотамию и другие части Плодородного Полумесяца. Археологические находки, такие как резные изображения и рисунки, датируемые 7000–6000 годами до н.э., изображают собак, напоминающих салюки, что свидетельствует о их давней связи с человеческими обществами. В Древнем Египте салюки пользовались особым почетом; их часто мумифицировали вместе с фараонами, подчеркивая их высокое положение. Традиционно эти собаки использовались кочевыми племенами для охоты на газелей и зайцев, благодаря их исключительной скорости и острому зрению. Физически салюки представляют собой стройных, грациозных борзых с глубокой грудью, длинными ногами и узкой, удлиненной головой. У них большие, темные глаза и висячие уши, что придает им элегантный вид. Порода имеет два типа шерсти: «перистый» вариант с длинной, шелковистой шерстью на ушах, хвосте и ногах, и «гладкий» вариант с короткой, гладкой шерстью. Окрасы разнообразны и включают белый, кремовый, палевый, рыжий, гризли, черно-подпалый и трехцветные комбинации. Салюки известны своим нежным и сдержанным темпераментом. Они формируют крепкие связи со своими семьями, но могут казаться отчужденными или застенчивыми с незнакомцами. Хотя они проявляют привязанность, они не склонны к чрезмерной демонстрации чувств, предпочитая находиться рядом с владельцами, не требуя постоянного внимания. Их независимый характер иногда может восприниматься как упрямство, но при терпеливой дрессировке они хорошо реагируют. Исторически выведенные для охоты, салюки обладают выдающейся скоростью и выносливостью, способные преследовать быструю добычу на большие расстояния. Это наследие обуславливает их высокий уровень энергии и необходимость в регулярных, интенсивных физических нагрузках. В современных условиях салюки участвуют в таких мероприятиях, как курсинг, аджилити и соревнования по послушанию, демонстрируя свою атлетичность и интеллект. Несмотря на свою древнюю родословную, салюки сохраняют нишевую популярность. Они ценятся энтузиастами за уникальное сочетание грации, скорости и преданности. Их отличительный внешний вид и богатая история продолжают привлекать любителей собак по всему миру. Особенности салюки включают их исключительную скорость, что делает их одними из самых быстрых пород на длинные дистанции. Их независимый и сдержанный характер отличает их от более общительных пород. Кроме того, их низко линяющая, шелковистая шерсть требует минимального ухода по сравнению с другими длинношерстными породами. Их глубокая история в качестве охотничьих компаньонов знати добавляет им привлекательности, делая их породой как исторического значения, так и современного интереса.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "16-30 kg",
+    "height": "58-71 cm",
+    "coat": "short and smooth, with feathered variety having longer hair on ears, tail, and legs",
+    "activity": "high",
+    "trainability": "moderate; responds well to patient, consistent training",
+    "grooming": "weekly brushing; minimal shedding",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "16-30 кг",
+    "рост": "58-71 см",
+    "шерсть": "короткая и гладкая, у перистого варианта длинная шерсть на ушах, хвосте и ногах",
+    "активность": "высокая",
+    "обучаемость": "умеренная; хорошо реагирует на терпеливую, последовательную дрессировку",
+    "уход": "еженедельное расчесывание; минимальная линька",
+    "продолжительность жизни": "12-14 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Independent and reserved",
+      "Strong prey drive",
+      "Quiet and seldom barks",
+      "Sensitive to harsh training methods",
+      "Requires regular, vigorous exercise"
+    ],
+    "summary": "Salukis are gentle, reserved, and loyal dogs that form strong bonds with their families. They are known for their quiet demeanor and independent nature, often appearing aloof around strangers.",
+    "with_children": "Salukis are gentle with children, especially when raised together. However, due to their sensitive nature, they may be better suited to families with older children who understand respectful interaction.",
+    "with_family": "Salukis are devoted to their families, displaying affection in a reserved manner. They enjoy companionship but are not overly demonstrative, often preferring to be near their owners without demanding constant attention.",
+    "with_other_pets": "Salukis can coexist peacefully with other dogs, particularly those of similar size and temperament. Their strong prey drive may pose challenges with smaller animals, so careful introductions and supervision are recommended.",
+    "with_strangers": "Typically aloof or shy around strangers, Salukis may take time to warm up to new people. Early socialization can help them become more comfortable in various social situations."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Салюки — нежные, сдержанные и преданные собаки, формирующие крепкие связи со своими семьями. Они известны своим тихим нравом и независимым характером, часто кажутся отчужденными с незнакомцами.",
+    "с семьёй": "Салюки преданы своим семьям, проявляя привязанность сдержанно. Они наслаждаются обществом, но не требуют постоянного внимания, предпочитая находиться рядом с владельцами.",
+    "с детьми": "Салюки нежны с детьми, особенно если выросли вместе. Однако из-за их чувствительной натуры они лучше подходят для семей со старшими детьми, которые понимают необходимость уважительного обращения.",
+    "с другими животными": "Салюки могут мирно сосуществовать с другими собаками, особенно схожего размера и темперамента. Их сильный охотничий инстинкт может создавать сложности с мелкими животными, поэтому рекомендуется осторожное знакомство и наблюдение.",
+    "с незнакомцами": "Обычно сдержанные или застенчивые с незнакомцами, салюки могут потребовать времени, чтобы привыкнуть к новым людям. Ранняя социализация поможет им чувствовать себя более комфортно в различных социальных ситуациях.",
+    "особые черты": [
+      "Независимые и сдержанные",
+      "Сильный охотничий инстинкт",
+      "Тихие и редко лают",
+      "Чувствительны к жестким методам дрессировки",
+      "Требуют регулярных, интенсивных физических нагрузок"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Heart disease (e.g., dilated cardiomyopathy)",
+      "Eye conditions (e.g., progressive retinal atrophy, cataracts)",
+      "Hip dysplasia",
+      "Gastric dilatation-volvulus (bloat)",
+      "Certain cancers (e.g., hemangiosarcoma, osteosarcoma, lymphoma)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups to monitor heart and eye health",
+      "Maintain a healthy weight to reduce strain on joints",
+      "Provide a balanced diet rich in essential nutrients",
+      "Avoid vigorous exercise immediately after meals to prevent bloat",
+      "Early socialization and training to promote mental well-being"
+    ],
+    "summary": "Salukis are generally healthy dogs with a lifespan of 12-14 years. They are prone to certain health conditions, including heart disease, eye problems, and hip dysplasia. Regular veterinary care and preventive measures can help maintain their well-being.",
+    "vet_checkups": "Annual check-ups recommended; more frequent visits may be necessary for senior dogs or those with existing health conditions."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Салюки в целом здоровые собаки с продолжительностью жизни 12-14 лет. Они склонны к определенным заболеваниям, включая сердечные болезни, проблемы с глазами и дисплазию тазобедренных суставов. Регулярный ветеринарный уход и профилактические меры помогут поддерживать их здоровье.",
+    "распространённые проблемы": [
+      "Сердечные заболевания (например, дилатационная кардиомиопатия)",
+      "Заболевания глаз (например, прогрессирующая атрофия сетчатки, катаракта)",
+      "Дисплазия тазобедренных суставов",
+      "Синдром заворота желудка (вздутие)",
+      "Некоторые виды рака (например, гемангиосаркома, остеосаркома, лимфома)"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры для мониторинга состояния сердца и глаз",
+      "Поддержание здорового веса для снижения нагрузки на суставы",
+      "Обеспечение сбалансированного рациона, богатого необходимыми питательными веществами",
+      "Избегание интенсивных физических нагрузок сразу после еды для предотвращения вздутия",
+      "Ранняя социализация и дрессировка для поддержания психического благополучия"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры; более частые визиты могут потребоваться для пожилых собак или тех, у кого уже есть проблемы со здоровьем."
+  },
+  "care": {
+    "behavior": "Due to their independent nature, Salukis benefit from patient, consistent training methods. Positive reinforcement techniques are most effective. Early socialization helps them become well-adjusted adults.",
+    "description": "Salukis require attentive care to meet their physical and emotional needs. Regular exercise, proper nutrition, and routine health monitoring are essential to ensure their well-being.",
+    "grooming": "Weekly brushing is sufficient to maintain the Saluki's coat, with special attention to the feathered areas to prevent tangling. Regular ear checks and dental care are also important.",
+    "health": "Regular veterinary visits are crucial to monitor for common health issues. Preventive care, including vaccinations and parasite control, should be maintained. Owners should be vigilant for signs of heart disease, eye problems, and bloat.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential. High-quality dog food, whether commercial or home-prepared with veterinary guidance, should be provided. Fresh water should always be available."
+  },
+  "care_rus": {
+    "поведение и характер": "Из-за их независимого характера салюки выигрывают от терпеливых, последовательных методов дрессировки. Техники положительного подкрепления наиболее эффективны. Ранняя социализация помогает им стать хорошо адаптированными взрослыми.",
+    "краткое описание ухода": "Салюки требуют внимательного ухода для удовлетворения их физических и эмоциональных потребностей. Регулярные физические нагрузки, правильное питание и рутинный мониторинг здоровья необходимы для обеспечения их благополучия.",
+    "груминг и уход": "Еженедельное расчесывание достаточно для поддержания шерсти салюки, с особым вниманием к перистым участкам для предотвращения спутывания. Также важны регулярные проверки ушей и уход за зубами.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару необходимы для мониторинга распространенных проблем со здоровьем. Следует поддерживать профилактический уход, включая вакцинацию и контроль паразитов. Владельцы должны быть внимательны к признакам сердечных заболеваний, проблем с глазами и вздутия.",
+    "питание и активность": "Сбалансированный рацион, соответствующий их возрасту, размеру и уровню активности, необходим. Следует предоставлять высококачественный корм для собак, будь то коммерческий или приготовленный дома с консультацией ветеринара. Свежая вода всегда должна быть доступна."
+  },
+  "faq": [
+    {
+      "question": "Are Salukis good family pets?",
+      "answer": "Yes, Salukis can be excellent family pets for households that understand their independent nature and exercise needs."
+    },
+    {
+      "question": "Do Salukis require a lot of exercise?",
+      "answer": "Yes, they need regular, vigorous exercise to satisfy their high energy levels and maintain their health."
+    },
+    {
+      "question": "Are Salukis easy to train?",
+      "answer": "They are intelligent but can be independent; consistent, patient training with positive reinforcement works best."
+    },
+    {
+      "question": "Do Salukis get along with other pets?",
+      "answer": "They can coexist with other dogs but may have a strong prey drive towards smaller animals; supervision is advised."
+    },
+    {
+      "question": "What is the lifespan of a Saluki?",
+      "answer": "Salukis typically live between 12 to 14 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли салюки для семей?",
+      "ответ": "Да, салюки могут быть отличными семейными питомцами для домов, которые понимают их независимый характер и потребности в физических нагрузках."
+    },
+    {
+      "вопрос": "Требуют ли салюки много физических нагрузок?",
+      "ответ": "Да, им необходимы регулярные, интенсивные физические нагрузки для удовлетворения их высокого уровня энергии и поддержания здоровья."
+    },
+    {
+      "вопрос": "Легко ли дрессировать салюки?",
+      "ответ": "Они умны, но могут быть независимыми; последовательная, терпеливая дрессировка с положительным подкреплением наиболее эффективна."
+    },
+    {
+      "вопрос": "Ладят ли салюки с другими животными?",
+      "ответ": "Они могут сосуществовать с другими собаками, но могут иметь сильный охотничий инстинкт по отношению к мелким животным; рекомендуется наблюдение."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни салюки?",
+      "ответ": "Салюки обычно живут от 12 до 14 лет при надлежащем уходе."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/Saluki",
+    "https://www.petmd.com/dog/breeds/saluki",
+    "https://en.wikipedia.org/wiki/Saluki",
+    "https://www.webmd.com/pets/dogs/what-to-know-salukis",
+    "https://www.purina.com/dogs/dog-breeds/saluki",
+    "https://www.hillspet.com/dog-care/dog-breeds/saluki"
+  ]
+}

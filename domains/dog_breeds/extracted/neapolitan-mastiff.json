@@ -1,0 +1,183 @@
+{
+  "breed_id": "neapolitan-mastiff",
+  "features": {
+    "shedding": {
+      "value": 0.5,
+      "confidence": 0.8
+    },
+    "coat_type": {
+      "value": 0.2,
+      "confidence": 0.9
+    },
+    "dander_level": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "grooming": {
+      "value": 0.6,
+      "confidence": 0.9
+    },
+    "health_robustness": {
+      "value": 0.4,
+      "confidence": 0.8
+    },
+    "genetic_risk": {
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "apartment_ok": {
+      "value": 0.3,
+      "confidence": 0.7
+    },
+    "barking": {
+      "value": 0.3,
+      "confidence": 0.7
+    },
+    "energy": {
+      "value": 0.4,
+      "confidence": 0.8
+    },
+    "reactivity": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "noise_tolerance": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "exercise_need": {
+      "value": 0.4,
+      "confidence": 0.8
+    },
+    "alone_tolerance": {
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "separation_anxiety_risk": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "sitter_compatibility": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "adaptability": {
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "child_friendly": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "pet_friendly": {
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "stranger_friendly": {
+      "value": 0.3,
+      "confidence": 0.8
+    },
+    "territoriality": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "protectiveness": {
+      "value": 0.9,
+      "confidence": 0.9
+    },
+    "stress_sensitivity": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "affection_level": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "independence": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "playfulness": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "trainability": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "working_drive": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "behavior_management_need": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "mental_stimulation": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "prey_drive": {
+      "value": 0.3,
+      "confidence": 0.6
+    },
+    "hunting_instinct": {
+      "value": 0.3,
+      "confidence": 0.6
+    }
+  },
+  "parameters": {
+    "weight_kg": [
+      {
+        "value": 65,
+        "confidence": 0.9,
+        "source": "Canadian Kennel Club"
+      },
+      {
+        "value": 60,
+        "confidence": 0.8,
+        "source": "Purina UK"
+      },
+      {
+        "value": 68,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ],
+    "height_cm": [
+      {
+        "value": 70,
+        "confidence": 0.9,
+        "source": "Canadian Kennel Club"
+      },
+      {
+        "value": 67.5,
+        "confidence": 0.8,
+        "source": "Purina UK"
+      },
+      {
+        "value": 72,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ],
+    "lifespan_years": [
+      {
+        "value": 9,
+        "confidence": 0.9,
+        "source": "Purina UK"
+      },
+      {
+        "value": 8.5,
+        "confidence": 0.8,
+        "source": "Wikipedia"
+      },
+      {
+        "value": 9.3,
+        "confidence": 0.7,
+        "source": "PetMD"
+      }
+    ]
+  },
+  "notes": "The Neapolitan Mastiff is a large, protective breed with moderate grooming needs due to its skin folds. They are loyal to family but wary of strangers, requiring early socialization. Health concerns include joint issues and skin infections, necessitating regular veterinary care."
+}

@@ -1,0 +1,681 @@
+{
+  "breed_id": "cocker-spaniel-american",
+  "features": {
+    "shedding": {
+      "t": 0.48,
+      "f": 0.32,
+      "state": "unknown",
+      "components": {
+        "truth": 0.16,
+        "falsity": 0.0,
+        "unknown": 0.2,
+        "conflict": 0.0
+      },
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "coat_type": {
+      "t": 0.72,
+      "f": 0.18,
+      "state": "true",
+      "components": {
+        "truth": 0.54,
+        "falsity": 0.0,
+        "unknown": 0.1,
+        "conflict": 0.0
+      },
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "dander_level": {
+      "t": 0.42,
+      "f": 0.28,
+      "state": "unknown",
+      "components": {
+        "truth": 0.14,
+        "falsity": 0.0,
+        "unknown": 0.3,
+        "conflict": 0.0
+      },
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "grooming": {
+      "t": 0.72,
+      "f": 0.18,
+      "state": "true",
+      "components": {
+        "truth": 0.54,
+        "falsity": 0.0,
+        "unknown": 0.1,
+        "conflict": 0.0
+      },
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "health_robustness": {
+      "t": 0.42,
+      "f": 0.28,
+      "state": "unknown",
+      "components": {
+        "truth": 0.14,
+        "falsity": 0.0,
+        "unknown": 0.3,
+        "conflict": 0.0
+      },
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "genetic_risk": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "components": {
+        "truth": 0.28,
+        "falsity": 0.0,
+        "unknown": 0.3,
+        "conflict": 0.0
+      },
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "apartment_ok": {
+      "t": 0.72,
+      "f": 0.18,
+      "state": "true",
+      "components": {
+        "truth": 0.54,
+        "falsity": 0.0,
+        "unknown": 0.1,
+        "conflict": 0.0
+      },
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "barking": {
+      "t": 0.35,
+      "f": 0.35,
+      "state": "unknown",
+      "components": {
+        "truth": 0.0,
+        "falsity": 0.0,
+        "unknown": 0.3,
+        "conflict": 0.0
+      },
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "energy": {
+      "t": 0.48,
+      "f": 0.32,
+      "state": "unknown",
+      "components": {
+        "truth": 0.16,
+        "falsity": 0.0,
+        "unknown": 0.2,
+        "conflict": 0.0
+      },
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "reactivity": {
+      "t": 0.35,
+      "f": 0.35,
+      "state": "unknown",
+      "components": {
+        "truth": 0.0,
+        "falsity": 0.0,
+        "unknown": 0.3,
+        "conflict": 0.0
+      },
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "noise_tolerance": {
+      "t": 0.35,
+      "f": 0.35,
+      "state": "unknown",
+      "components": {
+        "truth": 0.0,
+        "falsity": 0.0,
+        "unknown": 0.3,
+        "conflict": 0.0
+      },
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "exercise_need": {
+      "t": 0.48,
+      "f": 0.32,
+      "state": "unknown",
+      "components": {
+        "truth": 0.16,
+        "falsity": 0.0,
+        "unknown": 0.2,
+        "conflict": 0.0
+      },
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "alone_tolerance": {
+      "t": 0.28,
+      "f": 0.42,
+      "state": "unknown",
+      "components": {
+        "truth": 0.0,
+        "falsity": 0.14,
+        "unknown": 0.3,
+        "conflict": 0.0
+      },
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "separation_anxiety_risk": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "components": {
+        "truth": 0.28,
+        "falsity": 0.0,
+        "unknown": 0.3,
+        "conflict": 0.0
+      },
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "sitter_compatibility": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "components": {
+        "truth": 0.48,
+        "falsity": 0.0,
+        "unknown": 0.2,
+        "conflict": 0.0
+      },
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "adaptability": {
+      "t": 0.56,
+      "f": 0.24,
+      "state": "true",
+      "components": {
+        "truth": 0.32,
+        "falsity": 0.0,
+        "unknown": 0.2,
+        "conflict": 0.0
+      },
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "child_friendly": {
+      "t": 0.72,
+      "f": 0.18,
+      "state": "true",
+      "components": {
+        "truth": 0.54,
+        "falsity": 0.0,
+        "unknown": 0.1,
+        "conflict": 0.0
+      },
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "pet_friendly": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "components": {
+        "truth": 0.48,
+        "falsity": 0.0,
+        "unknown": 0.2,
+        "conflict": 0.0
+      },
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "stranger_friendly": {
+      "t": 0.56,
+      "f": 0.24,
+      "state": "true",
+      "components": {
+        "truth": 0.32,
+        "falsity": 0.0,
+        "unknown": 0.2,
+        "conflict": 0.0
+      },
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "territoriality": {
+      "t": 0.24,
+      "f": 0.36,
+      "state": "unknown",
+      "components": {
+        "truth": 0.0,
+        "falsity": 0.12,
+        "unknown": 0.4,
+        "conflict": 0.0
+      },
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "protectiveness": {
+      "t": 0.24,
+      "f": 0.36,
+      "state": "unknown",
+      "components": {
+        "truth": 0.0,
+        "falsity": 0.12,
+        "unknown": 0.4,
+        "conflict": 0.0
+      },
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "stress_sensitivity": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "components": {
+        "truth": 0.28,
+        "falsity": 0.0,
+        "unknown": 0.3,
+        "conflict": 0.0
+      },
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "affection_level": {
+      "t": 0.81,
+      "f": 0.09,
+      "state": "true",
+      "components": {
+        "truth": 0.72,
+        "falsity": 0.0,
+        "unknown": 0.1,
+        "conflict": 0.0
+      },
+      "value": 0.9,
+      "confidence": 0.9
+    },
+    "independence": {
+      "t": 0.28,
+      "f": 0.42,
+      "state": "unknown",
+      "components": {
+        "truth": 0.0,
+        "falsity": 0.14,
+        "unknown": 0.3,
+        "conflict": 0.0
+      },
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "playfulness": {
+      "t": 0.64,
+      "f": 0.16,
+      "state": "true",
+      "components": {
+        "truth": 0.48,
+        "falsity": 0.0,
+        "unknown": 0.2,
+        "conflict": 0.0
+      },
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "trainability": {
+      "t": 0.72,
+      "f": 0.18,
+      "state": "true",
+      "components": {
+        "truth": 0.54,
+        "falsity": 0.0,
+        "unknown": 0.1,
+        "conflict": 0.0
+      },
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "working_drive": {
+      "t": 0.42,
+      "f": 0.28,
+      "state": "unknown",
+      "components": {
+        "truth": 0.14,
+        "falsity": 0.0,
+        "unknown": 0.3,
+        "conflict": 0.0
+      },
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "behavior_management_need": {
+      "t": 0.35,
+      "f": 0.35,
+      "state": "unknown",
+      "components": {
+        "truth": 0.0,
+        "falsity": 0.0,
+        "unknown": 0.3,
+        "conflict": 0.0
+      },
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "mental_stimulation": {
+      "t": 0.56,
+      "f": 0.24,
+      "state": "true",
+      "components": {
+        "truth": 0.32,
+        "falsity": 0.0,
+        "unknown": 0.2,
+        "conflict": 0.0
+      },
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "prey_drive": {
+      "t": 0.42,
+      "f": 0.28,
+      "state": "unknown",
+      "components": {
+        "truth": 0.14,
+        "falsity": 0.0,
+        "unknown": 0.3,
+        "conflict": 0.0
+      },
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "hunting_instinct": {
+      "t": 0.42,
+      "f": 0.28,
+      "state": "unknown",
+      "components": {
+        "truth": 0.14,
+        "falsity": 0.0,
+        "unknown": 0.3,
+        "conflict": 0.0
+      },
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "odor_level": {
+      "t": 0.75,
+      "f": 0.15
+    },
+    "drooling": {
+      "t": 0.2,
+      "f": 0.6
+    },
+    "physical_strength": {
+      "t": 0.45,
+      "f": 0.35
+    },
+    "dominance": {
+      "t": 0.35,
+      "f": 0.45
+    },
+    "heat_tolerance": {
+      "t": 0.5,
+      "f": 0.3
+    },
+    "cold_tolerance": {
+      "t": 0.5,
+      "f": 0.3
+    },
+    "therapy_suitability": {
+      "t": 0.65,
+      "f": 0.2
+    }
+  },
+  "categories": {
+    "size_group": {
+      "source_param": "weight_kg",
+      "values": {
+        "size_toy": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "size_small": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "size_medium": {
+          "t": 0.8,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 3,
+          "votes_against": 0
+        },
+        "size_large": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "size_giant": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "size_small_or_less": {
+          "t": 0.0,
+          "f": 0.6,
+          "state": "false",
+          "derived_from": [
+            "size_toy",
+            "size_small"
+          ]
+        },
+        "size_medium_or_less": {
+          "t": 0.8,
+          "f": 0.0,
+          "state": "true",
+          "derived_from": [
+            "size_toy",
+            "size_small",
+            "size_medium"
+          ]
+        },
+        "size_large_or_more": {
+          "t": 0.0,
+          "f": 0.6,
+          "state": "false",
+          "derived_from": [
+            "size_large",
+            "size_giant"
+          ]
+        }
+      }
+    },
+    "height_group": {
+      "source_param": "height_cm",
+      "values": {
+        "height_tiny": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "height_small": {
+          "t": 0.8,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 3,
+          "votes_against": 0
+        },
+        "height_medium": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "height_large": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "height_giant": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "height_small_or_less": {
+          "t": 0.8,
+          "f": 0.0,
+          "state": "true",
+          "derived_from": [
+            "height_tiny",
+            "height_small"
+          ]
+        },
+        "height_medium_or_less": {
+          "t": 0.8,
+          "f": 0.0,
+          "state": "true",
+          "derived_from": [
+            "height_tiny",
+            "height_small",
+            "height_medium"
+          ]
+        },
+        "height_large_or_more": {
+          "t": 0.0,
+          "f": 0.6,
+          "state": "false",
+          "derived_from": [
+            "height_large",
+            "height_giant"
+          ]
+        }
+      }
+    },
+    "lifespan_group": {
+      "source_param": "lifespan_years",
+      "values": {
+        "lifespan_short": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "lifespan_medium": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "lifespan_long": {
+          "t": 0.8,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 3,
+          "votes_against": 0
+        },
+        "lifespan_very_long": {
+          "t": 0.0,
+          "f": 0.8,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 3
+        },
+        "lifespan_medium_or_more": {
+          "t": 0.8,
+          "f": 0.0,
+          "state": "true",
+          "derived_from": [
+            "lifespan_medium",
+            "lifespan_long",
+            "lifespan_very_long"
+          ]
+        },
+        "lifespan_long_or_more": {
+          "t": 0.8,
+          "f": 0.0,
+          "state": "true",
+          "derived_from": [
+            "lifespan_long",
+            "lifespan_very_long"
+          ]
+        }
+      }
+    }
+  },
+  "parameters_raw": {
+    "weight_kg": [
+      {
+        "value": 11.34,
+        "confidence": 0.9,
+        "source": "Purina"
+      },
+      {
+        "value": 11.34,
+        "confidence": 0.8,
+        "source": "WebMD"
+      },
+      {
+        "value": 11.34,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ],
+    "height_cm": [
+      {
+        "value": 37.5,
+        "confidence": 0.9,
+        "source": "Purina"
+      },
+      {
+        "value": 37.5,
+        "confidence": 0.8,
+        "source": "WebMD"
+      },
+      {
+        "value": 37.5,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ],
+    "lifespan_years": [
+      {
+        "value": 12.5,
+        "confidence": 0.9,
+        "source": "Purina"
+      },
+      {
+        "value": 12.5,
+        "confidence": 0.8,
+        "source": "WebMD"
+      },
+      {
+        "value": 12.5,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ]
+  },
+  "notes": "The American Cocker Spaniel is a friendly and affectionate breed, well-suited for families and adaptable to various living environments. Regular grooming and attention to health are essential due to their coat and predisposition to certain health issues.",
+  "sources": []
+}

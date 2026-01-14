@@ -1,0 +1,165 @@
+{
+  "id": "bracco-italiano",
+  "name": "Bracco Italiano",
+  "name_rus": "Итальянский бракк",
+  "full_description": "<p>The Bracco Italiano, also known as the Italian Pointer, is a distinguished breed with deep roots in Italy's hunting traditions. Originating in the Middle Ages, this breed was developed to assist hunters in locating and retrieving game, particularly birds. Historical records from the 14th century depict dogs resembling the Bracco Italiano, highlighting its longstanding presence in Italian culture. The breed was highly esteemed by noble families, including the Medici and Gonzaga dynasties, for its exceptional hunting capabilities. Physically, the Bracco Italiano is a large, muscular dog with a well-proportioned, square build. Males typically stand between 58 to 67 cm at the withers, while females range from 55 to 62 cm. Their weight varies from 25 to 40 kg, depending on size and gender. The breed's coat is short, dense, and glossy, commonly found in white with orange or chestnut markings, or in roan patterns. Distinctive features include a sculpted head with long ears, a pronounced stop, and a gentle, intelligent expression. Temperamentally, the Bracco Italiano is known for its affectionate and loyal nature. They form strong bonds with their families and are particularly gentle with children, making them excellent family companions. Their sociable disposition extends to other dogs and pets, provided they are properly socialized. As a hunting breed, they possess a keen sense of smell and a strong drive, requiring regular mental and physical stimulation. Originally bred for pointing and retrieving game, the Bracco Italiano excels in various hunting activities. Their versatility allows them to adapt to different terrains and hunting styles, making them valuable assets to hunters. In modern times, while they continue to be used in hunting, they have also gained popularity as companion animals due to their friendly and adaptable nature. Notable characteristics of the breed include their unique trotting gait, which is both extended and fast, showcasing their endurance and agility. Their expressive eyes and droopy lips contribute to their distinctive appearance, endearing them to enthusiasts worldwide.</p>",
+  "full_description_rus": "<p>Итальянский бракк, также известный как итальянская легавая, — это древняя порода собак с глубокими корнями в охотничьих традициях Италии. Возникшая в Средние века, эта порода была выведена для помощи охотникам в обнаружении и подаче дичи, особенно птицы. Исторические записи XIV века изображают собак, напоминающих итальянского бракка, что подчеркивает его давнее присутствие в итальянской культуре. Порода высоко ценилась знатными семьями, включая династии Медичи и Гонзага, за ее исключительные охотничьи способности. Физически итальянский бракк — это крупная, мускулистая собака с хорошо сложенным, квадратным телосложением. Рост кобелей обычно составляет от 58 до 67 см в холке, а сук — от 55 до 62 см. Вес варьируется от 25 до 40 кг, в зависимости от размера и пола. Шерсть короткая, плотная и блестящая, обычно белого цвета с оранжевыми или каштановыми отметинами, либо в крапчатых вариантах. Отличительными чертами являются скульптурная голова с длинными ушами, выраженный переход ото лба к морде и мягкое, интеллигентное выражение. По темпераменту итальянский бракк известен своей привязанностью и преданностью. Они формируют крепкие связи со своими семьями и особенно нежны с детьми, что делает их отличными семейными компаньонами. Их общительный характер распространяется на других собак и домашних животных, при условии правильной социализации. Как охотничья порода, они обладают острым обонянием и сильным инстинктом, требующим регулярной умственной и физической стимуляции. Изначально выведенные для указания и подачи дичи, итальянские бракки преуспевают в различных охотничьих мероприятиях. Их универсальность позволяет им адаптироваться к различным ландшафтам и стилям охоты, что делает их ценными помощниками для охотников. В современное время, хотя они продолжают использоваться в охоте, они также приобрели популярность как компаньоны благодаря своему дружелюбному и адаптивному характеру. Заметными характеристиками породы являются их уникальная рысь, которая одновременно протяженная и быстрая, демонстрируя их выносливость и ловкость. Их выразительные глаза и обвисшие губы придают им отличительный внешний вид, завоевывая сердца энтузиастов по всему миру.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "25-40 kg",
+    "height": "55-67 cm",
+    "coat": "short, dense, glossy",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "low; regular brushing",
+    "lifespan": "10-14 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "25-40 кг",
+    "рост": "55-67 см",
+    "шерсть": "короткая, плотная, блестящая",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "низкий; регулярное расчесывание",
+    "продолжительность жизни": "10-14 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Affectionate and loyal",
+      "Highly intelligent",
+      "Gentle with children",
+      "Sociable with other animals",
+      "Alert and friendly with strangers"
+    ],
+    "summary": "The Bracco Italiano is an affectionate, intelligent, and sociable breed, known for its gentle demeanor and strong bond with family members.",
+    "with_children": "Gentle and patient, they interact well with children, making them suitable for families with young members.",
+    "with_family": "They are loyal and loving, forming close relationships with their human companions and thriving in family environments.",
+    "with_other_pets": "Generally sociable with other dogs and pets, especially when socialized from an early age.",
+    "with_strangers": "Friendly yet alert, they may be reserved around strangers but are not typically aggressive."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Итальянский бракк — это привязанная, интеллигентная и общительная порода, известная своим мягким нравом и крепкой связью с членами семьи.",
+    "с семьёй": "Они преданы и любящи, формируют тесные отношения со своими человеческими компаньонами и процветают в семейной среде.",
+    "с детьми": "Нежные и терпеливые, они хорошо взаимодействуют с детьми, что делает их подходящими для семей с маленькими детьми.",
+    "с другими животными": "Обычно общительны с другими собаками и домашними животными, особенно при ранней социализации.",
+    "с незнакомцами": "Дружелюбны, но бдительны; могут быть сдержанными с незнакомцами, но обычно не агрессивны.",
+    "особые черты": [
+      "Привязаны и преданы",
+      "Высокоинтеллигентны",
+      "Нежны с детьми",
+      "Общительны с другими животными",
+      "Бдительны и дружелюбны с незнакомцами"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Entropion and ectropion (eyelid issues)",
+      "Ear infections",
+      "Gastric dilatation-volvulus (bloat)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide regular exercise",
+      "Routine ear cleaning",
+      "Monitor for signs of bloat"
+    ],
+    "summary": "The Bracco Italiano is generally a healthy breed but is predisposed to certain genetic conditions that require attention.",
+    "vet_checkups": "Annual check-ups recommended; more frequent visits if health issues arise."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Итальянский бракк в целом является здоровой породой, но предрасположен к определенным генетическим заболеваниям, требующим внимания.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Энтропион и эктропион (проблемы с веками)",
+      "Инфекции ушей",
+      "Синдром заворота желудка (вздутие)"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здорового веса",
+      "Обеспечение регулярных физических нагрузок",
+      "Рутинная чистка ушей",
+      "Мониторинг признаков вздутия"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры; более частые визиты при возникновении проблем со здоровьем."
+  },
+  "care": {
+    "behavior": "Engage in daily physical activities and mental challenges to satisfy their high energy levels and intelligence.",
+    "description": "The Bracco Italiano requires regular exercise, mental stimulation, and routine grooming to maintain optimal health and behavior.",
+    "grooming": "Regular brushing to manage shedding and routine ear cleaning to prevent infections.",
+    "health": "Monitor for common health issues and maintain a balanced diet to support overall well-being.",
+    "nutrition": "Provide a balanced diet appropriate for their size, age, and activity level; avoid overfeeding to prevent obesity."
+  },
+  "care_rus": {
+    "поведение и характер": "Занимайтесь ежедневными физическими упражнениями и умственными задачами, чтобы удовлетворить их высокий уровень энергии и интеллекта.",
+    "краткое описание ухода": "Итальянский бракк требует регулярных физических нагрузок, умственной стимуляции и рутинного ухода для поддержания оптимального здоровья и поведения.",
+    "груминг и уход": "Регулярное расчесывание для контроля линьки и рутинная чистка ушей для предотвращения инфекций.",
+    "здоровье и профилактика": "Мониторинг распространенных проблем со здоровьем и поддержание сбалансированной диеты для общего благополучия.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их размеру, возрасту и уровню активности; избегайте перекармливания для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Is the Bracco Italiano suitable for families?",
+      "answer": "Yes, their affectionate and gentle nature makes them excellent family companions."
+    },
+    {
+      "question": "How much exercise does a Bracco Italiano need?",
+      "answer": "They require at least 30-60 minutes of vigorous exercise daily to stay healthy and happy."
+    },
+    {
+      "question": "Are Bracco Italianos easy to train?",
+      "answer": "Yes, their high intelligence and eagerness to please make them highly trainable."
+    },
+    {
+      "question": "Do they get along with other pets?",
+      "answer": "Generally, yes; early socialization helps ensure positive interactions with other animals."
+    },
+    {
+      "question": "What are common health concerns for this breed?",
+      "answer": "They may be prone to hip and elbow dysplasia, eye issues, ear infections, and bloat."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходит ли итальянский бракк для семей?",
+      "ответ": "Да, их привязанность и мягкий характер делают их отличными семейными компаньонами."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется итальянскому бракку?",
+      "ответ": "Им необходимо не менее 30-60 минут интенсивных упражнений ежедневно для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Легко ли обучать итальянского бракка?",
+      "ответ": "Да, их высокий интеллект и стремление угодить делают их легко обучаемыми."
+    },
+    {
+      "вопрос": "Ладят ли они с другими домашними животными?",
+      "ответ": "Обычно да; ранняя социализация помогает обеспечить положительные взаимодействия с другими животными."
+    },
+    {
+      "вопрос": "Какие распространенные проблемы со здоровьем у этой породы?",
+      "ответ": "Они могут быть склонны к дисплазии тазобедренного и локтевого суставов, проблемам с глазами, инфекциям ушей и вздутию."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bracco_Italiano",
+    "https://www.westminsterkennelclub.org/breed/bracco-italiano/",
+    "https://www.thebraccoclub.org/Breed-Info/Health-Concerns",
+    "https://www.ukcdogs.com/bracco-italiano",
+    "https://www.wisdompanel.com/en-us/dog-breeds/bracco-italiano",
+    "https://www.dailypaws.com/dogs-puppies/dog-breeds/bracco-italiano",
+    "https://www.petmd.com/dog/breeds/bracco-italiano",
+    "https://www.europuppy.com/dog-breed-choosing/bracco-italiano/",
+    "https://www.purina-arabia.com/find-a-pet/dog-breeds/bracco-italiano",
+    "https://www.purina.kz/kz/dogs/dog-breeds/library/bracco_italiano",
+    "https://www.hillspet.ru/dog-care/dog-breeds/bracco-italiano",
+    "https://dog.pet2me.com/ru/breed/Brakko_Italjano/",
+    "https://kisapes.ru/dogs/bracco-italiano/",
+    "https://dog-breeds.ru/articles/view/italyanskiy-brakk-poroda-sobak"
+  ]
+}

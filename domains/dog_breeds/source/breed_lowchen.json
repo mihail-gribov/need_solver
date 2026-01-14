@@ -1,0 +1,86 @@
+{
+  "id": "lowchen",
+  "name": "Löwchen",
+  "full_description": "<p>The Löwchen, meaning 'little lion' in German, is a small, lively companion breed with a rich history dating back over 400 years. Originating in pre-Renaissance Europe, particularly in regions like Germany, Belgium, and France, the Löwchen was cherished by the aristocracy as a companion and foot warmer. Depictions of these dogs appear in art from the 15th century, highlighting their longstanding presence. By the 20th century, the breed faced near extinction, with only about 40 individuals remaining in the 1960s. Dedicated breeders, notably Belgian Madame Bennert, spearheaded efforts to revive the Löwchen, leading to its recognition by the American Kennel Club in 1996. Physically, the Löwchen is a compact, well-proportioned dog standing between 10 to 14 inches tall and weighing 9 to 20 pounds. Its long, wavy, and silky coat comes in various colors and is traditionally groomed in a 'lion cut,' where the hindquarters are clipped short while the front remains full, accentuating its lion-like appearance. The breed's expressive, round eyes and high-set tail carried over the back add to its distinctive look. Temperamentally, the Löwchen is affectionate, intelligent, and playful. It thrives on human companionship, displaying a cheerful disposition and eagerness to please. These traits make it an excellent family pet, adaptable to various living situations. Historically bred solely for companionship, the Löwchen has no working dog lineage but has proven versatile in modern canine sports such as obedience and agility. Today, while still considered rare, the Löwchen enjoys a stable presence among dog enthusiasts worldwide, valued for its unique appearance and endearing personality.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "9–20 lb",
+    "height": "10–14 in",
+    "coat": "long, wavy, silky",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming for lion cut",
+    "lifespan": "12–16 years"
+  },
+  "behavior": {
+    "summary": "The Löwchen is an affectionate and intelligent companion, known for its playful and lively nature.",
+    "with_family": "Löwchens form strong bonds with their families, displaying loyalty and a desire to be involved in daily activities.",
+    "with_children": "They are gentle and patient with children, making them suitable family pets.",
+    "with_other_pets": "Generally sociable with other animals, especially when socialized from a young age.",
+    "with_strangers": "Alert and friendly, though they may be reserved initially with unfamiliar people.",
+    "special_traits": [
+      "affectionate",
+      "intelligent",
+      "playful",
+      "alert",
+      "sociable"
+    ]
+  },
+  "health": {
+    "summary": "Löwchens are generally healthy with a lifespan of 12 to 16 years, though they can be prone to certain genetic conditions.",
+    "common_issues": [
+      "luxating patella",
+      "hip dysplasia",
+      "cataracts",
+      "progressive retinal atrophy"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain a healthy weight",
+      "provide joint supplements as recommended",
+      "ensure regular eye examinations"
+    ],
+    "vet_checkups": "annually, or more frequently as advised by a veterinarian"
+  },
+  "care": {
+    "description": "Löwchens require attentive care, including regular grooming, exercise, and health monitoring.",
+    "behavior": "They thrive on human interaction and should not be left alone for extended periods.",
+    "health": "Regular vet visits and a balanced diet are essential to maintain their health.",
+    "grooming": "Their long coat needs regular brushing and professional grooming to maintain the traditional lion cut.",
+    "nutrition": "A balanced diet appropriate for their size and activity level is recommended."
+  },
+  "faq": [
+    {
+      "question": "Is the Löwchen hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, the Löwchen's low-shedding coat may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Löwchen need?",
+      "answer": "Moderate daily exercise, such as walks and playtime, is sufficient to keep a Löwchen healthy and happy."
+    },
+    {
+      "question": "Are Löwchens good with children?",
+      "answer": "Yes, they are gentle and patient, making them excellent companions for children."
+    },
+    {
+      "question": "Do Löwchens require a lot of grooming?",
+      "answer": "Yes, their long coat requires regular brushing and professional grooming to maintain its condition and appearance."
+    },
+    {
+      "question": "Can Löwchens live in apartments?",
+      "answer": "Yes, their small size and moderate exercise needs make them well-suited for apartment living."
+    }
+  ],
+  "sources": [
+    "https://www.purina.com/dogs/dog-breeds/lowchen",
+    "https://www.westminsterkennelclub.org/breed/lowchen/",
+    "https://www.petmd.com/dog/breeds/lowchen",
+    "https://en.wikipedia.org/wiki/L%C3%B6wchen",
+    "https://www.thelowchenclubofamerica.org/life-with-a-loewchen/get-to-know-the-little-lion-dog",
+    "https://www.wisdompanel.com/en-us/dog-breeds/lowchen",
+    "https://www.petful.com/dog-breeds/lowchen-breed-profile/",
+    "https://www.akc.org/expert-advice/dog-breeds/lowchen-history/",
+    "https://www.dogzone.com/breeds/lowchen/",
+    "https://www.purina-arabia.com/find-a-pet/dog-breeds/lowchen-little-lion"
+  ]
+}

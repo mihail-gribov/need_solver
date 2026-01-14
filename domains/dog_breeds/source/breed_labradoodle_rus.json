@@ -1,0 +1,156 @@
+{
+  "id": "labradoodle",
+  "name": "Labradoodle",
+  "name_rus": "Лабрадудль",
+  "full_description": "<p>The Labradoodle is a hybrid dog breed resulting from the cross between a Labrador Retriever and a Poodle, either Standard or Miniature. The term 'Labradoodle' was first used in 1955 but gained prominence in 1988 when Australian breeder Wally Conron introduced the crossbreed to the Royal Guide Dog Association of Australia. Conron aimed to combine the low-shedding coat of the Poodle with the gentle temperament and trainability of the Labrador Retriever to create a guide dog suitable for individuals with allergies. The first successful Labradoodle, named Sultan, exhibited the desired traits and served as a guide dog for a woman in Hawaii for ten years. Physically, Labradoodles display a range of appearances due to their hybrid nature. Their coats can be curly, wavy, or straight, with textures varying from wiry to soft. Common coat colors include chocolate, café, parchment, cream, gold, apricot, red, black, silver, chalk, lavender, and blueish gray. Labradoodles come in three size categories: Miniature (14–16 inches tall, 15–25 pounds), Medium (17–20 inches tall, 30–45 pounds), and Standard (21–24 inches tall, 50–65 pounds). Temperamentally, Labradoodles are known for their friendly and energetic nature. They are generally good with families and children, often displaying an affinity for water and strong swimming abilities inherited from their parent breeds. Their intelligence and eagerness to please make them highly trainable, though early socialization and consistent training are essential to manage their exuberance. Originally bred as guide dogs, Labradoodles have expanded their roles to include therapy and assistance work due to their adaptable and gentle disposition. They have also become popular family pets worldwide. Notable characteristics of Labradoodles include their potential hypoallergenic coats, which can be beneficial for allergy sufferers, and their versatility in various working roles. However, it's important to note that, as a hybrid breed, Labradoodles can inherit a range of traits from their parent breeds, leading to variability in appearance and temperament.</p>",
+  "full_description_rus": "<p>Лабрадудль — гибридная порода собак, полученная в результате скрещивания лабрадора-ретривера и пуделя (стандартного или миниатюрного). Термин «лабрадудль» впервые появился в 1955 году, но стал широко известен в 1988 году, когда австралийский заводчик Уолли Конрон представил эту породу Королевской ассоциации собак-поводырей Австралии. Конрон стремился объединить низколиняющую шерсть пуделя с добродушным характером и обучаемостью лабрадора-ретривера, чтобы создать собаку-поводыря, подходящую для людей с аллергией. Первый успешный лабрадудль по имени Султан обладал желаемыми качествами и служил собакой-поводырем для женщины на Гавайях в течение десяти лет. Внешний вид лабрадудлей разнообразен из-за их гибридной природы. Их шерсть может быть кудрявой, волнистой или прямой, с текстурой от жесткой до мягкой. Распространенные окрасы включают шоколадный, кофейный, пергаментный, кремовый, золотистый, абрикосовый, красный, черный, серебристый, меловой, лавандовый и голубовато-серый. Лабрадудли бывают трех размеров: миниатюрные (рост 35–45 см, вес 7–14 кг), средние (рост 45–55 см, вес 15–21 кг) и стандартные (рост 55–65 см, вес 22–30 кг). По характеру лабрадудли известны своей дружелюбностью и энергичностью. Они хорошо ладят с семьями и детьми, часто проявляют любовь к воде и обладают отличными плавательными способностями, унаследованными от родительских пород. Их интеллект и стремление угодить делают их легко обучаемыми, хотя ранняя социализация и последовательная дрессировка необходимы для управления их энергией. Изначально выведенные как собаки-поводыри, лабрадудли расширили свои роли до терапевтических и вспомогательных собак благодаря своей адаптивности и мягкому нраву. Они также стали популярными семейными питомцами во всем мире. Особенности лабрадудлей включают их потенциально гипоаллергенную шерсть, что может быть полезно для людей, страдающих аллергией, и их универсальность в различных рабочих ролях. Однако важно отметить, что, будучи гибридной породой, лабрадудли могут наследовать различные черты от своих родительских пород, что приводит к вариативности во внешности и темпераменте.</p>",
+  "parameters": {
+    "size": "Miniature, Medium, Standard",
+    "weight": "15–25 lbs (Miniature), 30–45 lbs (Medium), 50–65 lbs (Standard)",
+    "height": "14–16 inches (Miniature), 17–20 inches (Medium), 21–24 inches (Standard)",
+    "coat": "Curly, wavy, or straight; textures range from wiry to soft",
+    "activity": "High",
+    "trainability": "High",
+    "grooming": "Regular brushing; professional grooming may be required",
+    "lifespan": "12–15 years"
+  },
+  "parameters_rus": {
+    "size": "Миниатюрный, Средний, Стандартный",
+    "weight": "7–14 кг (Миниатюрный), 15–21 кг (Средний), 22–30 кг (Стандартный)",
+    "height": "35–45 см (Миниатюрный), 45–55 см (Средний), 55–65 см (Стандартный)",
+    "coat": "Кудрявая, волнистая или прямая; текстура варьируется от жесткой до мягкой",
+    "activity": "Высокая",
+    "trainability": "Высокая",
+    "grooming": "Регулярное расчесывание; может потребоваться профессиональный груминг",
+    "lifespan": "12–15 лет"
+  },
+  "behavior": {
+    "summary": "Labradoodles are friendly, energetic, and intelligent dogs, making them excellent companions for active families.",
+    "with_family": "They are affectionate and thrive on human interaction, often forming strong bonds with family members.",
+    "with_children": "Generally good with children, Labradoodles are playful and patient, making them suitable for families with kids.",
+    "with_other_pets": "They usually get along well with other pets, especially when socialized from a young age.",
+    "with_strangers": "Labradoodles are typically friendly towards strangers, though early socialization helps ensure well-rounded behavior.",
+    "special_traits": [
+      "High intelligence",
+      "Energetic and playful",
+      "Affectionate nature",
+      "Strong swimming ability",
+      "Potential hypoallergenic coat"
+    ]
+  },
+  "behavior_rus": {
+    "summary": "Лабрадудли дружелюбные, энергичные и умные собаки, что делает их отличными компаньонами для активных семей.",
+    "with_family": "Они ласковы и нуждаются в общении с людьми, часто формируя крепкие связи с членами семьи.",
+    "with_children": "Обычно хорошо ладят с детьми, лабрадудли игривы и терпеливы, что делает их подходящими для семей с детьми.",
+    "with_other_pets": "Они обычно хорошо уживаются с другими животными, особенно при ранней социализации.",
+    "with_strangers": "Лабрадудли, как правило, дружелюбны к незнакомцам, хотя ранняя социализация помогает обеспечить всестороннее поведение.",
+    "special_traits": [
+      "Высокий интеллект",
+      "Энергичность и игривость",
+      "Ласковый характер",
+      "Сильные плавательные способности",
+      "Потенциально гипоаллергенная шерсть"
+    ]
+  },
+  "health": {
+    "summary": "Labradoodles are generally healthy but can inherit health issues common to their parent breeds.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Cataracts",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide regular exercise",
+      "Routine ear cleaning",
+      "Genetic testing of breeding pairs"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "summary": "Лабрадудли в целом здоровы, но могут наследовать проблемы со здоровьем, характерные для родительских пород.",
+    "common_issues": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Катаракта",
+      "Инфекции ушей"
+    ],
+    "prevention_tips": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здорового веса",
+      "Обеспечение регулярных физических нагрузок",
+      "Рутинная чистка ушей",
+      "Генетическое тестирование племенных пар"
+    ],
+    "vet_checkups": "Ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "Labradoodles require regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "behavior": "Early socialization and consistent training are essential to manage their energy and intelligence.",
+    "health": "Regular veterinary care and preventive measures help address potential health issues.",
+    "grooming": "Regular brushing and professional grooming help maintain their coat and prevent matting.",
+    "nutrition": "A balanced diet appropriate for their size and activity level supports overall health."
+  },
+  "care_rus": {
+    "description": "Лабрадудлям необходимы регулярные физические нагрузки, умственная стимуляция и уход за шерстью для поддержания их здоровья и счастья.",
+    "behavior": "Ранняя социализация и последовательная дрессировка необходимы для управления их энергией и интеллектом.",
+    "health": "Регулярный ветеринарный уход и профилактические меры помогают предотвратить потенциальные проблемы со здоровьем.",
+    "grooming": "Регулярное расчесывание и профессиональный груминг помогают поддерживать шерсть в хорошем состоянии и предотвращать спутывание.",
+    "nutrition": "Сбалансированное питание, соответствующее их размеру и уровню активности, поддерживает общее здоровье."
+  },
+  "faq": [
+    {
+      "question": "Are Labradoodles hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Labradoodles often have low-shedding coats that may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Labradoodle need?",
+      "answer": "Labradoodles require at least 60–90 minutes of daily exercise to stay healthy and prevent boredom."
+    },
+    {
+      "question": "Do Labradoodles get along with other pets?",
+      "answer": "Yes, with proper socialization, Labradoodles typically get along well with other pets."
+    },
+    {
+      "question": "What is the lifespan of a Labradoodle?",
+      "answer": "Labradoodles generally live between 12 to 15 years."
+    },
+    {
+      "question": "Are Labradoodles easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable with consistent, positive reinforcement methods."
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Являются ли лабрадудли гипоаллергенными?",
+      "answer": "Хотя полностью гипоаллергенных собак не существует, лабрадудли часто имеют шерсть с низким уровнем линьки, что может быть подходящим для некоторых людей, страдающих аллергией."
+    },
+    {
+      "question": "Сколько упражнений требуется лабрадудлю?",
+      "answer": "Лабрадудлям необходимо не менее 60–90 минут ежедневных физических нагрузок для поддержания здоровья и предотвращения скуки."
+    },
+    {
+      "question": "Лабрадудли ладят с другими животными?",
+      "answer": "Да, при правильной социализации лабрадудли обычно хорошо уживаются с другими животными."
+    },
+    {
+      "question": "Какова продолжительность жизни лабрадудля?",
+      "answer": "Лабрадудли обычно живут от 12 до 15 лет."
+    },
+    {
+      "question": "Легко ли дрессировать лабрадудлей?",
+      "answer": "Да, их интеллект и стремление угодить делают их легко обучаемыми при использовании последовательных методов положительного подкрепления."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Labradoodle",
+    "https://www.petmd.com/dog/breeds/labradoodle",
+    "https://www.dogster.com/lifestyle/labradoodle-pros-cons",
+    "https://www.dogfoodadvisor.com/breeds/labradoodle/",
+    "https://www.barkbusters.com/breed-of-the-month/labradoodle"
+  ]
+}

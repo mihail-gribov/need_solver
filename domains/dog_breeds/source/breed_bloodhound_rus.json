@@ -1,0 +1,157 @@
+{
+  "id": "bloodhound",
+  "name": "Bloodhound",
+  "name_rus": "Бладхаунд",
+  "full_description": "<p>The Bloodhound is an ancient breed renowned for its exceptional scent-tracking abilities. Originating in Europe, its lineage traces back to the St. Hubert Hound developed by monks in 8th-century Belgium. These dogs were bred for their keen noses, primarily to track game such as deer and wild boar. Over time, their tracking prowess made them invaluable in law enforcement and search-and-rescue operations. Physically, Bloodhounds are large, powerful dogs with a distinctive appearance. They possess loose, wrinkled skin, especially around the head and neck, which forms deep folds. Their long, drooping ears and sunken eyes contribute to their solemn expression. The coat is short and dense, typically found in black and tan, liver and tan, or red hues. Temperamentally, Bloodhounds are gentle, affectionate, and patient. They are known for their determination and single-mindedness when following a scent, which can sometimes translate to stubbornness. Originally bred for tracking, they have an unparalleled ability to follow trails over great distances, making them indispensable in search-and-rescue missions and criminal investigations. In modern times, while they continue to serve in professional capacities, Bloodhounds have also become cherished family companions. Their friendly nature and loyalty endear them to many, though their size and energy levels require committed care. Notably, the Bloodhound's evidence has been deemed admissible in U.S. courts, a testament to their tracking accuracy.</p>",
+  "full_description_rus": "<p>Бладхаунд — древнейшая порода, известная своими исключительными способностями к выслеживанию по запаху. Их происхождение восходит к Европе, где в VIII веке бельгийские монахи развили породу, известную как гончая Святого Губерта. Этих собак разводили за их острое обоняние, главным образом для выслеживания дичи, такой как олени и кабаны. Со временем их способности к выслеживанию сделали их незаменимыми в правоохранительных органах и поисково-спасательных операциях. Физически бладхаунды — крупные, мощные собаки с характерной внешностью. Они имеют свободную, морщинистую кожу, особенно вокруг головы и шеи, образующую глубокие складки. Их длинные, свисающие уши и запавшие глаза придают им печальное выражение. Шерсть короткая и плотная, обычно черно-подпалого, печеночно-подпалого или красного окраса. По темпераменту бладхаунды нежные, ласковые и терпеливые. Они известны своей решительностью и целеустремленностью при следовании по запаху, что иногда может проявляться как упрямство. Изначально выведенные для выслеживания, они обладают непревзойденной способностью следовать по следу на большие расстояния, что делает их незаменимыми в поисково-спасательных миссиях и криминальных расследованиях. В современное время, помимо профессионального использования, бладхаунды стали любимыми семейными компаньонами. Их дружелюбный характер и преданность завоевывают сердца многих, хотя их размер и уровень энергии требуют ответственного ухода. Примечательно, что доказательства, полученные с помощью бладхаундов, были признаны допустимыми в судах США, что свидетельствует об их точности в выслеживании.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "80–110 pounds (36–50 kg)",
+    "height": "23–27 inches (58–69 cm)",
+    "coat": "short, dense",
+    "activity": "moderate to high",
+    "trainability": "moderate; can be stubborn",
+    "grooming": "regular cleaning of skin folds and ears; moderate shedding",
+    "lifespan": "10–12 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "36–50 кг",
+    "рост": "58–69 см",
+    "шерсть": "короткая, плотная",
+    "активность": "умеренная до высокой",
+    "обучаемость": "средняя; может быть упрямым",
+    "уход": "регулярная чистка кожных складок и ушей; умеренная линька",
+    "продолжительность жизни": "10–12 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Exceptional scent-tracking ability",
+      "Gentle and affectionate nature",
+      "Determined and focused when on a scent",
+      "Can be stubborn during training",
+      "Requires regular exercise to prevent boredom"
+    ],
+    "summary": "Bloodhounds are gentle, affectionate, and determined dogs, renowned for their exceptional scent-tracking abilities.",
+    "with_children": "Generally patient and gentle, making them good companions for children.",
+    "with_family": "They are loyal and loving, forming strong bonds with family members.",
+    "with_other_pets": "Typically amiable and can coexist peacefully with other animals.",
+    "with_strangers": "Friendly and non-aggressive, though their size can be intimidating."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Бладхаунды — нежные, ласковые и целеустремленные собаки, известные своими исключительными способностями к выслеживанию по запаху.",
+    "с семьёй": "Они преданы и любящи, формируют крепкие связи с членами семьи.",
+    "с детьми": "Обычно терпеливы и нежны, что делает их хорошими компаньонами для детей.",
+    "с другими животными": "Как правило, дружелюбны и могут мирно сосуществовать с другими животными.",
+    "с незнакомцами": "Дружелюбны и неагрессивны, хотя их размер может быть пугающим.",
+    "особые черты": [
+      "Исключительные способности к выслеживанию по запаху",
+      "Нежный и ласковый характер",
+      "Решительность и сосредоточенность при следовании по следу",
+      "Могут быть упрямыми при дрессировке",
+      "Требуют регулярных физических нагрузок для предотвращения скуки"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Bloat (gastric dilatation-volvulus)",
+      "Hip dysplasia",
+      "Ear infections",
+      "Skin fold infections",
+      "Eye issues like entropion"
+    ],
+    "prevention_tips": [
+      "Feed smaller, frequent meals to reduce bloat risk",
+      "Regular ear cleaning to prevent infections",
+      "Maintain a healthy weight to reduce joint stress",
+      "Clean and dry skin folds regularly",
+      "Regular eye check-ups"
+    ],
+    "summary": "Bloodhounds are generally healthy but are prone to certain conditions due to their size and physical characteristics.",
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Бладхаунды в целом здоровы, но склонны к определённым заболеваниям из-за своего размера и физических особенностей.",
+    "распространённые проблемы": [
+      "Вздутие живота (желудочная дилатация-волвулюс)",
+      "Дисплазия тазобедренного сустава",
+      "Инфекции ушей",
+      "Инфекции кожных складок",
+      "Проблемы с глазами, такие как энтропион"
+    ],
+    "советы по профилактике": [
+      "Кормите небольшими, частыми порциями для снижения риска вздутия",
+      "Регулярно чистите уши для предотвращения инфекций",
+      "Поддерживайте здоровый вес для уменьшения нагрузки на суставы",
+      "Регулярно очищайте и сушите кожные складки",
+      "Проводите регулярные осмотры глаз"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "behavior": "They need consistent training with positive reinforcement due to their stubborn nature.",
+    "description": "Bloodhounds require attentive care, including regular exercise, grooming, and health monitoring.",
+    "grooming": "Routine cleaning of ears and skin folds is necessary to prevent infections.",
+    "health": "Regular veterinary check-ups and preventive care are essential to address breed-specific health concerns.",
+    "nutrition": "A balanced diet with controlled portions helps maintain a healthy weight and reduces the risk of bloat."
+  },
+  "care_rus": {
+    "описание": "Бладхаунды требуют внимательного ухода, включая регулярные физические нагрузки, груминг и мониторинг здоровья.",
+    "поведение и характер": "Им необходима последовательная дрессировка с положительным подкреплением из-за их склонности к упрямству.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход необходимы для предотвращения специфических для породы проблем со здоровьем.",
+    "груминг и уход": "Рутинная чистка ушей и кожных складок необходима для предотвращения инфекций.",
+    "питание и активность": "Сбалансированное питание с контролем порций помогает поддерживать здоровый вес и снижает риск вздутия."
+  },
+  "faq": [
+    {
+      "question": "Are Bloodhounds good family pets?",
+      "answer": "Yes, they are gentle and affectionate, making them excellent companions for families."
+    },
+    {
+      "question": "Do Bloodhounds require a lot of exercise?",
+      "answer": "Yes, regular exercise is important to keep them healthy and prevent boredom."
+    },
+    {
+      "question": "Are Bloodhounds easy to train?",
+      "answer": "They can be stubborn, so consistent, positive reinforcement training is recommended."
+    },
+    {
+      "question": "Do Bloodhounds drool a lot?",
+      "answer": "Yes, they are known to drool, especially after eating or drinking."
+    },
+    {
+      "question": "What is the lifespan of a Bloodhound?",
+      "answer": "They typically live between 10 to 12 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Бладхаунды подходят для семей с детьми?",
+      "ответ": "Да, они нежные и ласковые, что делает их отличными компаньонами для семей."
+    },
+    {
+      "вопрос": "Требуют ли бладхаунды много физических нагрузок?",
+      "ответ": "Да, регулярные физические нагрузки важны для поддержания их здоровья и предотвращения скуки."
+    },
+    {
+      "вопрос": "Легко ли дрессировать бладхаундов?",
+      "ответ": "Они могут быть упрямыми, поэтому рекомендуется последовательная дрессировка с положительным подкреплением."
+    },
+    {
+      "вопрос": "Бладхаунды сильно слюнявят?",
+      "ответ": "Да, они известны своей склонностью к слюнотечению, особенно после еды или питья."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни бладхаунда?",
+      "ответ": "Обычно они живут от 10 до 12 лет."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/bloodhound",
+    "https://www.akc.org/expert-advice/dog-breeds/bloodhound-history/",
+    "https://kids.britannica.com/students/article/bloodhound/310274",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/bloodhound",
+    "https://www.pedigree.ru/porody/bladhaund",
+    "https://royalcanin.ru/dog-breed/bloodhound"
+  ]
+}

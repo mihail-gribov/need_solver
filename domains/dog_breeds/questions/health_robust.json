@@ -1,0 +1,84 @@
+{
+  "need_id": "health_robust",
+  "formula": "health_robustness & ~genetic_risk",
+  "formula_reasoning": "A robustly healthy breed should have high overall health stability (health_robustness) AND low risk of genetic disorders (~genetic_risk). These features directly indicate physical resilience and low likelihood of breed-specific health issues.",
+  "questions": [
+    {
+      "id": "health_robust_q1",
+      "text": "У вас был опыт столкновения с серьёзными болезнями у домашних животных?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = пользователь знаком с проблемами здоровья, вероятно, хочет более здоровую породу. Нет = не сталкивались, признак меньшей обеспокоенности."
+    },
+    {
+      "id": "health_robust_q2",
+      "text": "В вашей семье есть кто-то, кто не сможет ухаживать за больной или требующей особого ухода собакой?",
+      "weight": 0.9,
+      "style": "situational",
+      "verification": "Да = нужен максимально здоровый и неприхотливый питомец. Нет = готовы к уходу при болезнях."
+    },
+    {
+      "id": "health_robust_q3",
+      "text": "Планируете ли вы брать собаку в длительные поездки или путешествия?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = нужна порода с крепким здоровьем, чтобы справляться с нагрузками. Нет = путешествия не планируются."
+    },
+    {
+      "id": "health_robust_q4",
+      "text": "Сможете ли вы регулярно посещать ветеринара даже при отсутствии видимых проблем у собаки?",
+      "weight": 0.6,
+      "style": "direct",
+      "verification": "Да = готовы к профилактике, менее критично. Нет = лучше порода с высокой естественной выносливостью."
+    },
+    {
+      "id": "health_robust_q5",
+      "text": "Вам важно, чтобы собака не требовала частых медицинских процедур или специальных диет?",
+      "weight": 0.85,
+      "style": "situational",
+      "verification": "Да = нужен здоровый, непритязательный питомец. Нет = готовы к сложному уходу."
+    }
+  ],
+  "need_name": "Health Robust",
+  "need_description": "Robust breed health",
+  "block": "health_allergies",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "redbone-coonhound",
+  "name": "Redbone Coonhound",
+  "name_rus": "Редбон Кунхаунд",
+  "full_description": "<p>The Redbone Coonhound is an American breed of hunting dog, renowned for its striking solid red coat and exceptional hunting abilities. Originating in the Southern United States before the Civil War, the breed was developed by crossing red-colored foxhounds brought by Scottish immigrants with Bloodhounds and possibly Irish hounds. This selective breeding aimed to create a versatile hunter capable of tracking and treeing raccoons, as well as larger game like bears and cougars.</p>\n<p>Physically, the Redbone Coonhound is a medium to large-sized dog with a lean, muscular build. Males typically stand between 22 to 27 inches at the shoulder, while females range from 21 to 26 inches. Their weight is proportionate to their size, generally between 45 to 85 pounds. The breed's short, smooth coat is a rich, deep red, occasionally featuring small white markings on the chest or feet. They possess long, floppy ears and dark brown to hazel eyes that convey a pleading expression.</p>\n<p>Temperamentally, Redbone Coonhounds are friendly, sociable, and eager to please. They are known for their even-tempered nature and strong desire to be part of family activities. While they are affectionate and gentle with family members, their high energy levels and strong hunting instincts necessitate regular exercise and mental stimulation.</p>\n<p>Originally bred for hunting raccoons, Redbone Coonhounds have a natural treeing instinct, meaning they are adept at chasing prey up trees and alerting hunters with their distinctive baying. Their agility and endurance make them proficient in various terrains, from swamps to mountainous regions. In modern times, while they continue to be valued as hunting companions, they have also gained popularity as family pets due to their loyal and affectionate nature.</p>\n<p>Notable characteristics of the Redbone Coonhound include their striking red coat, exceptional hunting skills, and a sweet, melodious voice that carries over long distances. They are also recognized for their versatility, being capable of hunting both small and large game, and their adaptability to different environments.</p>",
+  "full_description_rus": "<p>Редбон Кунхаунд — американская порода охотничьих собак, известная своим ярким однотонным красным окрасом и выдающимися охотничьими способностями. Порода возникла на юге США до Гражданской войны и была выведена путем скрещивания красных фоксхаундов, привезенных шотландскими иммигрантами, с бладхаундами и, возможно, ирландскими гончими. Целью селекции было создание универсальной охотничьей собаки, способной выслеживать и загонять на дерево енотов, а также более крупную дичь, такую как медведи и пумы.</p>\n<p>Физически Редбон Кунхаунд — это собака среднего и крупного размера с стройным, мускулистым телосложением. Кобели обычно достигают высоты в холке от 56 до 69 см, суки — от 53 до 66 см. Вес пропорционален размеру и обычно составляет от 20 до 38 кг. Короткая, гладкая шерсть имеет насыщенный глубокий красный цвет, иногда с небольшими белыми отметинами на груди или лапах. У них длинные, висячие уши и темно-карие или ореховые глаза, придающие выражение мольбы.</p>\n<p>По характеру Редбон Кунхаунды дружелюбны, общительны и стремятся угодить. Они известны своим уравновешенным нравом и сильным желанием участвовать в семейных мероприятиях. Хотя они ласковы и нежны с членами семьи, их высокий уровень энергии и сильные охотничьи инстинкты требуют регулярных физических нагрузок и умственной стимуляции.</p>\n<p>Изначально выведенные для охоты на енотов, Редбон Кунхаунды обладают природным инстинктом загонять добычу на дерево, что означает их способность преследовать добычу и загонять ее на дерево, оповещая охотников своим характерным лаем. Их ловкость и выносливость делают их эффективными в различных условиях, от болот до горных районов. В современное время, помимо ценности как охотничьих собак, они также приобрели популярность как семейные питомцы благодаря своей преданности и ласковому характеру.</p>\n<p>Отличительными чертами Редбон Кунхаунда являются их яркий красный окрас, выдающиеся охотничьи навыки и сладкий, мелодичный голос, который слышен на большие расстояния. Они также известны своей универсальностью, способностью охотиться как на мелкую, так и на крупную дичь, и адаптивностью к различным условиям.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "45-85 pounds",
+    "height": "21-27 inches",
+    "coat": "short, smooth, deep red",
+    "activity": "high",
+    "trainability": "moderate",
+    "grooming": "minimal; occasional brushing",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "20-38 кг",
+    "рост": "53-69 см",
+    "шерсть": "короткая, гладкая, насыщенного красного цвета",
+    "активность": "высокая",
+    "обучаемость": "средняя",
+    "уход": "минимальный; периодическое расчесывание",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Strong hunting instincts",
+      "Melodious baying voice",
+      "High energy levels",
+      "Affectionate nature",
+      "Adaptability to various environments"
+    ],
+    "summary": "Redbone Coonhounds are friendly, sociable, and eager to please, making them excellent companions for active families.",
+    "with_children": "Generally good with children, they are gentle and patient, but supervision is recommended due to their size and energy.",
+    "with_family": "They are affectionate and enjoy being involved in family activities, often forming strong bonds with their owners.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets, though their hunting instincts may be triggered by small animals.",
+    "with_strangers": "They are typically friendly towards strangers but may be reserved initially; early socialization helps in developing their confidence."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Редбон Кунхаунды дружелюбны, общительны и стремятся угодить, что делает их отличными компаньонами для активных семей.",
+    "с семьёй": "Они ласковы и любят участвовать в семейных мероприятиях, часто формируя крепкие связи с владельцами.",
+    "с детьми": "Обычно хорошо ладят с детьми, проявляя нежность и терпение, но из-за их размера и энергии рекомендуется присмотр.",
+    "с другими животными": "При правильной социализации могут мирно сосуществовать с другими питомцами, хотя их охотничьи инстинкты могут проявляться в отношении мелких животных.",
+    "с незнакомцами": "Обычно дружелюбны к незнакомцам, но могут быть сдержанными вначале; ранняя социализация помогает развить уверенность.",
+    "особые черты": [
+      "Сильные охотничьи инстинкты",
+      "Мелодичный голос",
+      "Высокий уровень энергии",
+      "Ласковый характер",
+      "Адаптивность к различным условиям"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Ear infections",
+      "Obesity",
+      "Eye problems"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine ear cleaning to prevent infections",
+      "Balanced diet to prevent obesity",
+      "Regular eye check-ups"
+    ],
+    "summary": "Redbone Coonhounds are generally healthy with a lifespan of 12-15 years but are prone to certain health issues.",
+    "vet_checkups": "Annual check-ups recommended; more frequent visits if health issues arise."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Редбон Кунхаунды в целом здоровы и имеют продолжительность жизни 12-15 лет, но склонны к некоторым заболеваниям.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Инфекции ушей",
+      "Ожирение",
+      "Проблемы с глазами"
+    ],
+    "советы по профилактике": [
+      "Регулярные физические нагрузки для поддержания здорового веса",
+      "Периодическая чистка ушей для предотвращения инфекций",
+      "Сбалансированное питание для предотвращения ожирения",
+      "Регулярные осмотры глаз"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры; более частые визиты при возникновении проблем со здоровьем."
+  },
+  "care": {
+    "behavior": "They need ample physical activity and mental stimulation to prevent boredom and destructive behaviors.",
+    "description": "Redbone Coonhounds require regular exercise, minimal grooming, and consistent training to thrive as both hunting dogs and family companions.",
+    "grooming": "Their short coat requires occasional brushing; regular ear cleaning is essential to prevent infections.",
+    "health": "Maintain a healthy weight through diet and exercise; monitor for signs of common health issues.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; avoid overfeeding to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Редбон Кунхаунды требуют регулярных физических нагрузок, минимального ухода за шерстью и последовательной дрессировки для успешного выполнения ролей как охотничьих собак, так и семейных компаньонов.",
+    "поведение и характер": "Им необходимы значительные физические нагрузки и умственная стимуляция для предотвращения скуки и разрушительного поведения.",
+    "груминг и уход": "Их короткая шерсть требует периодического расчесывания; регулярная чистка ушей необходима для предотвращения инфекций.",
+    "здоровье и профилактика": "Поддерживайте здоровый вес с помощью диеты и упражнений; следите за признаками распространённых проблем со здоровьем.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их возрасту, размеру и уровню активности; избегайте перекармливания для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "answer": "Yes, they are affectionate and sociable, making them excellent companions for active families.",
+      "question": "Are Redbone Coonhounds good family pets?"
+    },
+    {
+      "answer": "Yes, they have high energy levels and need regular physical activity to stay healthy and happy.",
+      "question": "Do Redbone Coonhounds require a lot of exercise?"
+    },
+    {
+      "answer": "They are eager to please but can be stubborn; consistent, positive reinforcement training is effective.",
+      "question": "Are they easy to train?"
+    },
+    {
+      "answer": "With proper socialization, they can coexist with other pets, though their hunting instincts may be triggered by small animals.",
+      "question": "Do they get along with other pets?"
+    },
+    {
+      "answer": "Minimal; their short coat requires occasional brushing, and regular ear cleaning is important.",
+      "question": "What is their grooming requirement?"
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли Редбон Кунхаунды хорошими семейными питомцами?",
+      "ответ": "Да, они ласковы и общительны, что делает их отличными компаньонами для активных семей."
+    },
+    {
+      "вопрос": "Требуют ли Редбон Кунхаунды много физических нагрузок?",
+      "ответ": "Да, у них высокий уровень энергии, и им необходимы регулярные физические нагрузки для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Легко ли дрессировать Редбон Кунхаундов?",
+      "ответ": "Они стремятся угодить, но могут быть упрямыми; эффективна последовательная дрессировка с положительным подкреплением."
+    },
+    {
+      "вопрос": "Ладят ли Редбон Кунхаунды с другими питомцами?",
+      "ответ": "При правильной социализации они могут мирно сосуществовать с другими питомцами, хотя их охотничьи инстинкты могут проявляться в отношении мелких животных."
+    },
+    {
+      "вопрос": "Каков уровень ухода за Редбон Кунхаундами?",
+      "ответ": "Минимальный; их короткая шерсть требует периодического расчесывания, а регулярная чистка ушей важна для предотвращения инфекций."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Redbone_Coonhound",
+    "https://www.purina.com/dogs/dog-breeds/redbone-coonhound",
+    "https://www.petmd.com/dog/breeds/redbone-coonhound",
+    "https://www.westminsterkennelclub.org/breeds/redbone-coonhound",
+    "https://www.ukcdogs.com/breed-groups/redbone-coonhound"
+  ]
+}

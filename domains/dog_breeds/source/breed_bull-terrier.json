@@ -1,0 +1,81 @@
+{
+  "id": "bull-terrier",
+  "name": "Bull Terrier",
+  "full_description": "<p>The Bull Terrier, often recognized by its distinctive egg-shaped head and muscular build, has a rich history that dates back to 19th-century England. Originally bred for dog fighting, the breed emerged from crosses between Bulldogs and various terriers, aiming to combine the strength of the former with the agility of the latter. James Hinks, a notable breeder from Birmingham, is credited with refining the breed in the 1860s, introducing the all-white 'White Cavalier' that became popular among gentlemen of the era.</p>\n<p>Physically, Bull Terriers are medium-sized dogs with a robust and muscular frame. Their most striking feature is the unique, downfaced, egg-shaped head, free from hollows or indentations, and small, triangular eyes that impart a keen, determined expression. The coat is short, flat, and harsh to the touch, with colors ranging from pure white to various shades including brindle, black brindle, red, fawn, and tricolor.</p>\n<p>In terms of temperament, Bull Terriers are courageous, full of spirit, and possess a fun-loving attitude. They are known for their even temperament and are particularly good with people, displaying a friendly and affectionate nature. However, they can be obstinate, requiring consistent training and socialization from an early age.</p>\n<p>Historically, Bull Terriers were bred for dog fighting, a practice that was banned in 1835. Following the ban, the breed's image was transformed, and they became popular companions among the upper class. Today, Bull Terriers serve primarily as loyal and affectionate family pets, known for their playful and mischievous nature.</p>\n<p>Notable characteristics of the breed include their distinctive head shape, muscular build, and energetic demeanor. They are intelligent and free-thinking, which can sometimes translate to stubbornness, making early training and socialization crucial. Despite their high energy levels, Bull Terriers are not particularly vocal, making them relatively quiet companions.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "varies; no specific weight limit",
+    "height": "varies; no specific height limit",
+    "coat": "short, flat, harsh to touch",
+    "activity": "high",
+    "trainability": "moderate; can be stubborn",
+    "grooming": "minimal; weekly brushing",
+    "lifespan": "over 10 years"
+  },
+  "behavior": {
+    "summary": "Bull Terriers are energetic, playful, and affectionate dogs known for their distinctive appearance and strong personality. They thrive on human companionship and require consistent training and socialization.",
+    "with_family": "They are loyal and devoted to their families, often forming strong bonds with all members. Their affectionate nature makes them excellent companions.",
+    "with_children": "Bull Terriers can be good with children, especially when raised together. However, their high energy levels may be overwhelming for very young children.",
+    "with_other_pets": "Early socialization is crucial. They may exhibit dominance towards other dogs and have a high prey drive, making interactions with smaller pets challenging.",
+    "with_strangers": "Generally friendly towards strangers, though they can be protective of their family and home. Proper socialization helps ensure balanced behavior.",
+    "special_traits": [
+      "Distinctive egg-shaped head",
+      "High energy and playfulness",
+      "Strong-willed and independent",
+      "Affectionate with family",
+      "Requires consistent training"
+    ]
+  },
+  "health": {
+    "summary": "Bull Terriers are generally healthy but can be prone to certain genetic conditions. Regular veterinary care and responsible breeding practices are essential to maintain their well-being.",
+    "common_issues": [
+      "Deafness, particularly in white-coated individuals",
+      "Heart conditions",
+      "Kidney issues",
+      "Skin allergies",
+      "Patellar luxation"
+    ],
+    "prevention_tips": [
+      "Regular health screenings",
+      "Maintain a balanced diet",
+      "Provide adequate exercise",
+      "Regular grooming to monitor skin health",
+      "Early socialization and training"
+    ],
+    "vet_checkups": "At least once a year; more frequent for seniors or those with health issues"
+  },
+  "care": {
+    "description": "Bull Terriers require attentive care, including regular exercise, consistent training, and routine health checkups to ensure a happy and healthy life.",
+    "behavior": "Early socialization and firm, consistent training are essential to manage their strong-willed nature and ensure good behavior.",
+    "health": "Regular veterinary visits and health screenings help detect and manage potential genetic conditions common in the breed.",
+    "grooming": "Minimal grooming is needed; weekly brushing helps maintain coat health and monitor for skin issues.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level supports overall health and energy needs."
+  },
+  "faq": [
+    {
+      "question": "Are Bull Terriers good with children?",
+      "answer": "Yes, with proper training and socialization, they can be good companions for children."
+    },
+    {
+      "question": "Do Bull Terriers require a lot of exercise?",
+      "answer": "Yes, they are energetic and need regular exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Bull Terriers easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training is recommended."
+    },
+    {
+      "question": "Do Bull Terriers get along with other pets?",
+      "answer": "Early socialization is key; they may show dominance towards other dogs and have a high prey drive."
+    },
+    {
+      "question": "What is the lifespan of a Bull Terrier?",
+      "answer": "They typically live over 10 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://www.thekennelclub.org.uk/breed-standards/terrier/bull-terrier/",
+    "https://www.akc.org/expert-advice/dog-breeds/bull-terrier-history/",
+    "https://www.akc.org/expert-advice/lifestyle/bull-terrier-fun-facts/"
+  ]
+}

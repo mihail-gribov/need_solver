@@ -1,0 +1,89 @@
+{
+  "id": "lagotto-romagnolo",
+  "name": "Lagotto Romagnolo",
+  "full_description": "<p>The Lagotto Romagnolo is an ancient Italian breed originating from the marshlands of the Romagna region, particularly around the Delta del Po. Historically, these dogs were utilized as water retrievers, adept at retrieving game from the wetlands. With the drainage of these marshes in the late 19th and early 20th centuries, the breed transitioned to truffle hunting, leveraging their exceptional olfactory abilities. Physically, the Lagotto is a small to medium-sized dog, typically standing between 41 to 48 cm at the withers and weighing 11 to 16 kg. They possess a robust, square-built frame covered in a dense, curly, and wool-like coat that comes in various colors, including off-white, brown, and orange, often with patches or roaning. Their large, round eyes range from dark yellow to brown, exuding an alert and intelligent expression. Temperamentally, Lagottos are affectionate, loyal, and eager to please, making them excellent family companions. They are known for their intelligence and trainability, often excelling in obedience and agility activities. Originally bred for retrieving and later for truffle hunting, they exhibit a strong work ethic and a keen sense of smell. In contemporary times, while they continue to be prized truffle hunters, Lagottos have also gained popularity as companion animals due to their hypoallergenic coats and amiable nature. Notably, they are one of the few breeds specialized in truffle hunting, a testament to their unique combination of olfactory prowess and trainability.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "11-16 kg",
+    "height": "41-48 cm",
+    "coat": "dense, curly, wool-like; colors include off-white, brown, orange, often with patches or roaning",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; periodic trimming; ear cleaning",
+    "lifespan": "15-17 years"
+  },
+  "behavior": {
+    "summary": "Lagotto Romagnolos are affectionate, intelligent, and eager to please, making them excellent companions and working dogs.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and affection.",
+    "with_children": "Generally good with children, especially when socialized early, exhibiting patience and playfulness.",
+    "with_other_pets": "With proper socialization, they coexist well with other pets, though their hunting instincts may surface.",
+    "with_strangers": "They can be reserved around strangers but are not typically aggressive.",
+    "special_traits": [
+      "exceptional sense of smell",
+      "hypoallergenic coat",
+      "strong work ethic",
+      "high intelligence",
+      "eager to please"
+    ]
+  },
+  "health": {
+    "summary": "Lagotto Romagnolos are generally healthy with a lifespan of 15-17 years but are prone to certain genetic conditions.",
+    "common_issues": [
+      "hip dysplasia",
+      "benign familial juvenile epilepsy",
+      "Lagotto storage disease",
+      "cerebellar abiotrophy",
+      "hyperuricosuria"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "genetic testing before breeding",
+      "maintaining a healthy weight",
+      "providing regular exercise",
+      "monitoring for early signs of neurological issues"
+    ],
+    "vet_checkups": "annually, or more frequently if health issues arise"
+  },
+  "care": {
+    "description": "Lagotto Romagnolos require regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "behavior": "They thrive on mental challenges and physical activities; without sufficient stimulation, they may develop destructive behaviors.",
+    "health": "Regular health screenings and preventive care are essential to detect and manage breed-specific health issues.",
+    "grooming": "Their dense, curly coat requires regular brushing to prevent matting and periodic trimming; ear cleaning is important due to hair growth in the ear canal.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is crucial; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Lagotto Romagnolos hypoallergenic?",
+      "answer": "Yes, their curly, non-shedding coat is considered hypoallergenic, making them suitable for some allergy sufferers."
+    },
+    {
+      "question": "Do they require a lot of exercise?",
+      "answer": "Yes, they are an active breed that benefits from regular physical and mental stimulation."
+    },
+    {
+      "question": "Are they good with children?",
+      "answer": "Generally, they are good with children, especially when socialized from a young age."
+    },
+    {
+      "question": "Can they live in apartments?",
+      "answer": "Yes, if their exercise and mental stimulation needs are met, they can adapt to apartment living."
+    },
+    {
+      "question": "Do they get along with other pets?",
+      "answer": "With proper socialization, they can coexist well with other pets."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lagotto_Romagnolo",
+    "https://www.lagottous.com/Health",
+    "https://www.petmd.com/dog/breeds/c_dg_lagotto-romagnolo",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-lagotto-romagnolo",
+    "https://lagottofoundation.org/diseases/",
+    "https://mulfordanimal.com/client-resources/breed-info/lagotto-romagnolo/",
+    "https://dogmixology.com/lagotto-romagnolo/general-health",
+    "https://isomvet.com/client-resources/breed-info/lagotto-romagnolo/",
+    "https://puppylist.com.au/breeds/lagotto-romagnolo/health-issues/",
+    "https://villageanimalclinicllc.com/client-resources/breed-info/lagotto-romagnolo/",
+    "https://www.healthypawspetinsurance.com/blog/dog-breeds/lagotto-romagnolo-breed-guide-and-insurance-plan"
+  ]
+}

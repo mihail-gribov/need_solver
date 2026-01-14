@@ -1,0 +1,161 @@
+{
+  "id": "labrador-retriever",
+  "name": "Labrador Retriever",
+  "name_rus": "Лабрадор-ретривер",
+  "full_description": "<p>The Labrador Retriever, commonly known as the Lab, is a British breed of retriever gun dog that originated in the United Kingdom from St. John's water dogs imported from Newfoundland, Canada. Developed in the 19th century, the breed was initially used for retrieving game during hunting due to its excellent swimming abilities and soft mouth, which allowed it to carry game without damage. Physically, Labradors are medium to large-sized dogs with a sturdy, muscular build. Males typically stand between 22.5 to 24.5 inches tall and weigh 65 to 80 pounds, while females are slightly smaller, standing 21.5 to 23.5 inches tall and weighing 55 to 70 pounds. They possess a short, dense, water-resistant double coat that comes in three standard colors: black, yellow (ranging from pale cream to fox red), and chocolate. Their broad head, expressive eyes, and 'otter' tail contribute to their distinctive appearance. Labradors are renowned for their friendly and outgoing temperament. They are intelligent, eager to please, and highly trainable, making them excellent companions for families and individuals alike. Their gentle nature and patience make them particularly good with children and other pets. Originally bred as hunting and retrieving dogs, Labradors have retained their strong work ethic and versatility. They excel in various roles, including search and rescue, assistance for individuals with disabilities, and detection work for law enforcement. Their keen sense of smell and intelligence make them adept in these fields. In modern times, Labradors have become one of the most popular dog breeds worldwide. Their adaptability, friendly nature, and suitability for various roles have contributed to their widespread appeal. Notable characteristics of the breed include their high energy levels, requiring regular exercise to maintain physical and mental health, and their tendency to be food-motivated, which can aid in training but also necessitates monitoring to prevent obesity.</p>",
+  "full_description_rus": "<p>Лабрадор-ретривер — британская порода охотничьих собак, происходящая от водяных собак Святого Джона, завезённых из Ньюфаундленда, Канада. Разведённые в XIX веке, лабрадоры изначально использовались для подачи дичи во время охоты благодаря своим превосходным плавательным способностям и мягкому хвату, позволяющему переносить добычу, не повреждая её. Физически лабрадоры — собаки среднего и крупного размера с крепким, мускулистым телосложением. Кобели обычно достигают роста 56–61 см и весят 29–36 кг, суки немного меньше — 54–59 см в росте и 25–32 кг в весе. Они обладают короткой, плотной, водоотталкивающей двойной шерстью, представленной в трёх стандартных окрасах: чёрном, палевом (от светло-кремового до лисьего красного) и шоколадном. Широкая голова, выразительные глаза и «выдровый» хвост придают им характерный внешний вид. Лабрадоры известны своим дружелюбным и общительным нравом. Они умны, стремятся угодить и легко поддаются дрессировке, что делает их отличными компаньонами для семей и отдельных людей. Их мягкий характер и терпение особенно ценятся в общении с детьми и другими животными. Первоначально выведенные как охотничьи и подающие собаки, лабрадоры сохранили свою трудолюбивую натуру и универсальность. Они преуспевают в различных ролях, включая поисково-спасательные операции, помощь людям с ограниченными возможностями и работу по обнаружению запрещённых веществ для правоохранительных органов. Их острое обоняние и интеллект делают их незаменимыми в этих сферах. В современном мире лабрадоры стали одной из самых популярных пород собак во всём мире. Их адаптивность, дружелюбный характер и пригодность для различных ролей способствовали их широкой популярности. Особенности породы включают высокий уровень энергии, требующий регулярных физических нагрузок для поддержания физического и психического здоровья, а также склонность к пищевой мотивации, что может облегчить дрессировку, но также требует контроля для предотвращения ожирения.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "Males: 65-80 lbs; Females: 55-70 lbs",
+    "height": "Males: 22.5-24.5 inches; Females: 21.5-23.5 inches",
+    "coat": "short, dense, water-resistant double coat",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; weight control",
+    "lifespan": "10-12 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "Кобели: 29-36 кг; Суки: 25-32 кг",
+    "рост": "Кобели: 56-61 см; Суки: 54-59 см",
+    "шерсть": "короткая, плотная, водоотталкивающая двойная",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "регулярное расчёсывание; контроль веса",
+    "продолжительность жизни": "10-12 лет"
+  },
+  "behavior": {
+    "summary": "Labrador Retrievers are friendly, intelligent, and energetic dogs known for their gentle nature and eagerness to please.",
+    "with_family": "They are devoted and affectionate, forming strong bonds with family members and thriving on companionship.",
+    "with_children": "Labs are patient and gentle with children, making them excellent family pets.",
+    "with_other_pets": "Generally sociable, they get along well with other dogs and pets when properly socialized.",
+    "with_strangers": "Labradors are typically friendly towards strangers, often greeting them with enthusiasm.",
+    "special_traits": [
+      "high energy levels",
+      "strong retrieving instinct",
+      "love for water activities",
+      "tendency to chew",
+      "food motivation"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Лабрадоры-ретриверы — дружелюбные, умные и энергичные собаки, известные своим мягким нравом и стремлением угодить.",
+    "с семьёй": "Они преданы и ласковы, формируют крепкие связи с членами семьи и процветают в компании.",
+    "с детьми": "Лабрадоры терпеливы и нежны с детьми, что делает их отличными семейными питомцами.",
+    "с другими животными": "Обычно общительны, хорошо ладят с другими собаками и животными при правильной социализации.",
+    "с незнакомцами": "Лабрадоры обычно дружелюбны к незнакомцам, часто встречая их с энтузиазмом.",
+    "особые черты": [
+      "высокий уровень энергии",
+      "сильный инстинкт апортировки",
+      "любовь к водным занятиям",
+      "склонность к жеванию",
+      "пищевое поведение"
+    ]
+  },
+  "health": {
+    "summary": "Labrador Retrievers are generally healthy but are prone to certain genetic and lifestyle-related health issues.",
+    "common_issues": [
+      "hip and elbow dysplasia",
+      "obesity",
+      "progressive retinal atrophy",
+      "exercise-induced collapse",
+      "bloat (gastric torsion)"
+    ],
+    "prevention_tips": [
+      "regular exercise and weight management",
+      "routine veterinary check-ups",
+      "genetic screening for breeding",
+      "feeding measured portions",
+      "avoiding large meals before exercise"
+    ],
+    "vet_checkups": "at least once a year; more frequent for seniors or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Лабрадоры-ретриверы в целом здоровы, но склонны к определённым генетическим и связанным с образом жизни проблемам со здоровьем.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренных и локтевых суставов",
+      "ожирение",
+      "прогрессирующая атрофия сетчатки",
+      "коллапс, вызванный физической нагрузкой",
+      "вздутие желудка (гастродилатация-волвулюс)"
+    ],
+    "советы по профилактике": [
+      "регулярные физические нагрузки и контроль веса",
+      "плановые визиты к ветеринару",
+      "генетический скрининг при разведении",
+      "кормление отмеренными порциями",
+      "избегание больших приёмов пищи перед физической активностью"
+    ],
+    "рекомендуемые осмотры": "не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "description": "Labrador Retrievers require regular exercise, mental stimulation, and a balanced diet to maintain their health and happiness.",
+    "behavior": "Provide daily physical activities like walks, runs, or swimming to manage their high energy levels and prevent boredom.",
+    "health": "Monitor their weight closely to prevent obesity and schedule regular veterinary visits for early detection of potential health issues.",
+    "grooming": "Brush their coat weekly to manage shedding and maintain skin health; regular ear cleaning is also recommended.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level; avoid overfeeding and limit treats to prevent weight gain."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Лабрадоры-ретриверы требуют регулярных физических нагрузок, умственной стимуляции и сбалансированного питания для поддержания здоровья и счастья.",
+    "поведение и характер": "Обеспечивайте ежедневные физические активности, такие как прогулки, пробежки или плавание, чтобы управлять их высоким уровнем энергии и предотвращать скуку.",
+    "здоровье и профилактика": "Внимательно следите за их весом, чтобы предотвратить ожирение, и планируйте регулярные визиты к ветеринару для раннего выявления потенциальных проблем со здоровьем.",
+    "груминг и уход": "Расчёсывайте их шерсть еженедельно для управления линькой и поддержания здоровья кожи; также рекомендуется регулярная чистка ушей.",
+    "питание и активность": "Кормите сбалансированным рационом, соответствующим их возрасту, размеру и уровню активности; избегайте перекармливания и ограничивайте лакомства, чтобы предотвратить набор веса."
+  },
+  "faq": [
+    {
+      "question": "Are Labrador Retrievers good for first-time dog owners?",
+      "answer": "Yes, their friendly nature and trainability make them suitable for first-time owners."
+    },
+    {
+      "question": "Do Labradors require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and need daily exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Labradors prone to any health issues?",
+      "answer": "They can be prone to hip dysplasia, obesity, and eye conditions; regular vet check-ups are important."
+    },
+    {
+      "question": "Do Labradors shed a lot?",
+      "answer": "Yes, they shed year-round and require regular brushing to manage shedding."
+    },
+    {
+      "question": "Are Labradors good with children?",
+      "answer": "Yes, they are known for their gentle and patient nature with children."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли лабрадоры-ретриверы для владельцев без опыта?",
+      "ответ": "Да, их дружелюбный характер и обучаемость делают их подходящими для начинающих владельцев."
+    },
+    {
+      "вопрос": "Требуют ли лабрадоры много физических нагрузок?",
+      "ответ": "Да, они обладают высоким уровнем энергии и нуждаются в ежедневных упражнениях для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Склонны ли лабрадоры к каким-либо проблемам со здоровьем?",
+      "ответ": "Они могут быть подвержены дисплазии суставов, ожирению и заболеваниям глаз; регулярные визиты к ветеринару важны."
+    },
+    {
+      "вопрос": "Сильно ли линяют лабрадоры?",
+      "ответ": "Да, они линяют круглый год и требуют регулярного расчёсывания для управления линькой."
+    },
+    {
+      "вопрос": "Хорошо ли лабрадоры ладят с детьми?",
+      "ответ": "Да, они известны своим мягким и терпеливым отношением к детям."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Labrador_Retriever",
+    "https://www.purina.com/dogs/dog-breeds/labrador-retriever",
+    "https://www.petco.com/content/content-hub/home/breeds/dog-breeds/labrador-retriever.html",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-labrador-retriever",
+    "https://www.akc.org/expert-advice/dog-breeds/labrador-retriever-right-for-you/",
+    "https://ru.wikipedia.org/wiki/Лабрадор-ретривер",
+    "https://www.rbc.ru/life/news/661d0f059a7947d94482dc8b",
+    "https://lenta.ru/articles/2025/04/30/labrador-retriver-opisanie-porody-tsena-uhod/",
+    "https://www.kp.ru/family/domashnie-zhivotnye/labrador-retriver-sobaka/",
+    "https://nkplabrador.ru/"
+  ]
+}

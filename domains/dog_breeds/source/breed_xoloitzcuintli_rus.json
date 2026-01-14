@@ -1,0 +1,161 @@
+{
+  "id": "xoloitzcuintli",
+  "name": "Xoloitzcuintli",
+  "name_rus": "Ксолоитцкуинтли",
+  "full_description": "<p>The Xoloitzcuintli, often referred to as the Xolo or Mexican Hairless Dog, is an ancient breed with a history spanning over 3,000 years. Originating in Mexico, the Xolo was revered by the Aztecs and other indigenous cultures, who believed the breed had spiritual significance, including guiding souls to the afterlife. Archaeological findings, such as ceramic sculptures, depict Xolos, underscoring their deep-rooted presence in Mesoamerican societies. Physically, the Xoloitzcuintli presents in three sizes: Toy (10–14 inches tall), Miniature (14–18 inches tall), and Standard (18–23 inches tall). The breed is unique in offering both hairless and coated varieties. The hairless Xolos have smooth, tough skin, often with a few coarse hairs on the head, tail, and feet, while the coated variety boasts a short, sleek coat. Their appearance is marked by large, bat-like ears, almond-shaped eyes, and a graceful, athletic build. Temperamentally, Xolos are known for their calm, attentive, and loyal nature. They form strong bonds with their families and are often reserved around strangers, making them excellent watchdogs. Their intelligence and eagerness to please contribute to their trainability. Historically, Xolos served as companions, hunters, and even healers, with their warm bodies believed to alleviate ailments. In contemporary times, they are cherished as loyal companions and have gained recognition in dog shows and as cultural symbols in Mexico. Notably, the Xoloitzcuintli was designated as a \"cultural heritage and symbol\" of Mexico City in 2016. Distinctive characteristics of the breed include their hairless variety's unique skin care needs, their ancient lineage, and their adaptability to various living environments.</p>",
+  "full_description_rus": "<p>Ксолоитцкуинтли, также известная как мексиканская голая собака, — одна из древнейших пород, история которой насчитывает более 3 000 лет. Происходя из Мексики, ксолоитцкуинтли почиталась ацтеками и другими коренными народами, которые приписывали ей духовное значение, включая роль проводника душ в загробный мир. Археологические находки, такие как керамические скульптуры, изображающие этих собак, подтверждают их глубокие корни в мезоамериканских культурах. Физически ксолоитцкуинтли представлена в трех размерах: миниатюрный (25–35 см в холке), средний (36–45 см) и стандартный (46–60 см). Порода уникальна наличием как голой, так и покрытой шерстью разновидностей. Голые ксолоитцкуинтли имеют гладкую, упругую кожу, часто с небольшим количеством жестких волос на голове, хвосте и лапах, тогда как покрытые шерстью обладают короткой, гладкой шерстью. Их внешний вид характеризуется большими, стоячими ушами, миндалевидными глазами и грациозным, атлетичным телосложением. По темпераменту ксолоитцкуинтли известны своим спокойным, внимательным и преданным характером. Они формируют крепкие связи со своими семьями и часто сдержанны с незнакомцами, что делает их отличными сторожевыми собаками. Их интеллект и стремление угодить способствуют легкости в обучении. Исторически ксолоитцкуинтли служили компаньонами, охотниками и даже целителями, поскольку считалось, что их теплые тела облегчают недуги. В современное время они ценятся как верные спутники и приобрели признание на выставках собак, а также как культурные символы Мексики. Примечательно, что в 2016 году ксолоитцкуинтли была признана \"культурным наследием и символом\" Мехико. Отличительными чертами породы являются уникальные потребности в уходе за кожей у голой разновидности, их древнее происхождение и адаптивность к различным условиям проживания.</p>",
+  "parameters": {
+    "size": "Toy, Miniature, and Standard",
+    "weight": "4.5–25 kg",
+    "height": "25–58 cm",
+    "coat": "Hairless or short, sleek coat",
+    "activity": "Moderate",
+    "trainability": "High",
+    "grooming": "Minimal for coated; regular skin care for hairless",
+    "lifespan": "13–18 years"
+  },
+  "parameters_rus": {
+    "size": "миниатюрный, средний и стандартный",
+    "weight": "4,5–25 кг",
+    "height": "25–58 см",
+    "coat": "голая или короткая, гладкая шерсть",
+    "activity": "умеренная",
+    "trainability": "высокая",
+    "grooming": "минимальный для покрытых шерстью; регулярный уход за кожей для голых",
+    "lifespan": "13–18 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Ancient lineage",
+      "Hairless variety requires unique skin care",
+      "Highly adaptable to various living environments",
+      "Strong protective instincts",
+      "Minimal grooming needs for coated variety"
+    ],
+    "summary": "Xoloitzcuintlis are calm, attentive, and loyal dogs that form strong bonds with their families. They are intelligent and eager to please, making them highly trainable. Their reserved nature around strangers makes them excellent watchdogs.",
+    "with_children": "Generally good with children, Xolos are gentle and patient. Early socialization ensures they interact well with younger family members.",
+    "with_family": "Xolos are affectionate and devoted to their family members, often forming strong, lifelong bonds. They thrive on companionship and enjoy being involved in family activities.",
+    "with_other_pets": "With proper introduction and socialization, Xolos can coexist peacefully with other pets. Their hunting instincts may require supervision around smaller animals.",
+    "with_strangers": "Typically reserved around strangers, Xolos are naturally protective, making them effective watchdogs. Early socialization helps them become more accepting of unfamiliar people."
+  },
+  "behavior_rus": {
+    "summary": "Ксолоитцкуинтли — спокойные, внимательные и преданные собаки, которые формируют крепкие связи со своими семьями. Они умны и стремятся угодить, что делает их легко обучаемыми. Их сдержанность с незнакомцами делает их отличными сторожевыми собаками.",
+    "with_family": "Ксолоитцкуинтли ласковы и преданы членам своей семьи, часто формируя крепкие, пожизненные связи. Они процветают в компании и любят участвовать в семейных мероприятиях.",
+    "with_children": "Обычно хорошо ладят с детьми, ксолоитцкуинтли нежны и терпеливы. Ранняя социализация гарантирует, что они будут хорошо взаимодействовать с младшими членами семьи.",
+    "with_other_pets": "При правильном знакомстве и социализации ксолоитцкуинтли могут мирно сосуществовать с другими домашними животными. Их охотничьи инстинкты могут потребовать наблюдения за меньшими животными.",
+    "with_strangers": "Обычно сдержанны с незнакомцами, ксолоитцкуинтли естественно защищают, что делает их эффективными сторожевыми собаками. Ранняя социализация помогает им стать более восприимчивыми к незнакомым людям.",
+    "special_traits": [
+      "Древнее происхождение",
+      "Голая разновидность требует особого ухода за кожей",
+      "Высокая адаптивность к различным условиям проживания",
+      "Сильные защитные инстинкты",
+      "Минимальные потребности в уходе для покрытой шерстью разновидности"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Skin conditions (acne, sunburn)",
+      "Dental issues (missing premolars)",
+      "Hip dysplasia",
+      "Patellar luxation",
+      "Obesity"
+    ],
+    "prevention_tips": [
+      "Regular skin care and moisturizing for hairless variety",
+      "Routine dental check-ups and care",
+      "Maintain a balanced diet to prevent obesity",
+      "Provide moderate exercise to support joint health",
+      "Regular veterinary check-ups to monitor overall health"
+    ],
+    "summary": "Xoloitzcuintlis are generally a healthy and hardy breed with a lifespan of 13–18 years. Their natural development has limited the occurrence of many common canine health issues. However, they are prone to certain conditions, especially related to their skin and dental health.",
+    "vet_checkups": "Annually, or more frequently as needed"
+  },
+  "health_rus": {
+    "summary": "Ксолоитцкуинтли в целом являются здоровой и выносливой породой с продолжительностью жизни 13–18 лет. Их естественное развитие ограничило возникновение многих распространенных проблем со здоровьем у собак. Однако они склонны к определенным состояниям, особенно связанным с кожей и зубами.",
+    "common_issues": [
+      "Кожные заболевания (акне, солнечные ожоги)",
+      "Зубные проблемы (отсутствие премоляров)",
+      "Дисплазия тазобедренного сустава",
+      "Вывих надколенника",
+      "Ожирение"
+    ],
+    "prevention_tips": [
+      "Регулярный уход за кожей и увлажнение для голой разновидности",
+      "Плановые стоматологические осмотры и уход",
+      "Поддержание сбалансированной диеты для предотвращения ожирения",
+      "Обеспечение умеренной физической нагрузки для поддержки здоровья суставов",
+      "Регулярные ветеринарные осмотры для мониторинга общего состояния здоровья"
+    ],
+    "vet_checkups": "Ежегодно или чаще при необходимости"
+  },
+  "care": {
+    "behavior": "Xolos thrive on companionship and should not be left alone for extended periods. They respond well to positive reinforcement training methods.",
+    "description": "Xoloitzcuintlis are low-maintenance dogs with specific care needs, especially for the hairless variety. Regular skin care, dental hygiene, and moderate exercise contribute to their overall well-being.",
+    "grooming": "Coated Xolos require minimal grooming, while hairless Xolos need regular skin care, including moisturizing and sun protection.",
+    "health": "Regular veterinary check-ups, a balanced diet, and routine exercise are essential to maintain the Xolo's health and prevent common issues.",
+    "nutrition": "Provide a balanced diet appropriate for the dog's size and activity level. Monitor food intake to prevent obesity, as Xolos have a tendency to overeat."
+  },
+  "care_rus": {
+    "description": "Ксолоитцкуинтли — собаки, не требующие сложного ухода, с особыми потребностями, особенно для голой разновидности. Регулярный уход за кожей, гигиена полости рта и умеренные физические нагрузки способствуют их общему благополучию.",
+    "behavior": "Ксолоитцкуинтли процветают в компании и не должны оставаться одни на длительные периоды. Они хорошо реагируют на методы обучения с положительным подкреплением.",
+    "health": "Регулярные ветеринарные осмотры, сбалансированная диета и плановые физические нагрузки необходимы для поддержания здоровья ксолоитцкуинтли и предотвращения распространенных проблем.",
+    "grooming": "Покрытые шерстью ксолоитцкуинтли требуют минимального ухода, тогда как голые нуждаются в регулярном уходе за кожей, включая увлажнение и защиту от солнца.",
+    "nutrition": "Обеспечьте сбалансированную диету, соответствующую размеру и уровню активности собаки. Контролируйте потребление пищи, чтобы предотвратить ожирение, так как ксолоитцкуинтли склонны к перееданию."
+  },
+  "faq": [
+    {
+      "answer": "While no dog is completely hypoallergenic, many people with allergies find Xolos more tolerable due to their minimal shedding.",
+      "question": "Are Xoloitzcuintlis hypoallergenic?"
+    },
+    {
+      "answer": "Xolos have moderate exercise needs and enjoy daily walks and playtime but do not require extensive physical activity.",
+      "question": "Do Xolos require a lot of exercise?"
+    },
+    {
+      "answer": "Regular moisturizing, sun protection, and gentle bathing are essential to maintain healthy skin in hairless Xolos.",
+      "question": "How do I care for a hairless Xolo's skin?"
+    },
+    {
+      "answer": "Yes, with proper socialization, Xolos are gentle and patient with children, making them good family pets.",
+      "question": "Are Xolos good with children?"
+    },
+    {
+      "answer": "Xolos are not excessive barkers but will alert their owners to unfamiliar situations or strangers.",
+      "question": "Do Xolos bark a lot?"
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Являются ли ксолоитцкуинтли гипоаллергенными?",
+      "answer": "Хотя ни одна собака не является полностью гипоаллергенной, многие люди с аллергией находят ксолоитцкуинтли более переносимыми из-за их минимальной линьки."
+    },
+    {
+      "question": "Требуют ли ксолоитцкуинтли много физических нагрузок?",
+      "answer": "Ксолоитцкуинтли имеют умеренные потребности в физических нагрузках и наслаждаются ежедневными прогулками и играми, но не требуют интенсивной физической активности."
+    },
+    {
+      "question": "Как ухаживать за кожей голого ксолоитцкуинтли?",
+      "answer": "Регулярное увлажнение, защита от солнца и бережное купание необходимы для поддержания здоровой кожи у голых ксолоитцкуинтли."
+    },
+    {
+      "question": "Хорошо ли ксолоитцкуинтли ладят с детьми?",
+      "answer": "Да, при правильной социализации ксолоитцкуинтли нежны и терпеливы с детьми, что делает их хорошими семейными питомцами."
+    },
+    {
+      "question": "Много ли лают ксолоитцкуинтли?",
+      "answer": "Ксолоитцкуинтли не склонны к чрезмерному лаю, но предупредят своих владельцев о незнакомых ситуациях или незнакомцах."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Xoloitzcuintle",
+    "https://www.akc.org/expert-advice/dog-breeds/10-facts-about-xoloitzcuintlis/",
+    "https://www.petmd.com/dog/breeds/xoloitzcuintli",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-xoloitzcuintli",
+    "https://www.xoloitzcuintliclubofamerica.org/health-genetics",
+    "https://www.pedigree.ru/porody/meksikanskaya-golaya-sobaka",
+    "https://www.purinaone.ru/dog/articles/breeds/ksoloitckuintli",
+    "https://ru.wikipedia.org/wiki/Ксолоитцкуинтли",
+    "https://www.cesar.ru/porody/ksoloittskuintli/",
+    "https://www.hillspet.ru/dog-care/dog-breeds/xoloitzcuintli"
+  ]
+}

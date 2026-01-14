@@ -1,0 +1,156 @@
+{
+  "id": "norfolk-terrier",
+  "name": "Norfolk Terrier",
+  "name_rus": "Норфолк-терьер",
+  "full_description": "<p>The Norfolk Terrier, one of the smallest working terriers, originated in East Anglia, England, during the late 19th and early 20th centuries. Initially bred to control vermin populations in barns and stables, these dogs were also employed to bolt foxes during hunts. They share a common ancestry with the Norwich Terrier, with the primary distinction being their ear carriage: Norfolks have drop ears, while Norwiches have erect ears. The breed was officially recognized as distinct from the Norwich Terrier in England in 1964 and in the United States in 1979. Physically, Norfolk Terriers are compact and sturdy, standing 9 to 10 inches tall at the withers and weighing between 11 to 12 pounds. They possess a hard, wiry, and straight double coat that comes in shades of red, wheaten, black and tan, or grizzle. Their expressive, dark, oval-shaped eyes and small, neatly folded ears contribute to their alert and friendly appearance. The tail is of moderate length, thick at the base, and tapers towards the tip, carried jauntily. Temperamentally, Norfolk Terriers are known for their fearless and affectionate nature. They are energetic, intelligent, and thrive on human companionship, making them excellent family pets. Their sociable disposition allows them to get along well with children and other animals when properly socialized. Despite their small size, they exhibit a strong prey drive and may chase small animals outdoors. Originally bred for hunting and vermin control, Norfolk Terriers possess a keen sense of smell and determination, traits that made them effective in their traditional roles. Today, they excel in various canine sports such as agility, obedience, and earthdog trials, showcasing their versatility and eagerness to work. In modern times, Norfolk Terriers have transitioned from their working origins to become cherished companions worldwide. Their adaptable nature makes them suitable for both urban and rural living environments. While they are not as common as some other breeds, their loyal and spirited character has earned them a dedicated following among dog enthusiasts. Notable characteristics of the Norfolk Terrier include their compact size, making them ideal for various living situations; their low-shedding, weather-resistant coat; and their balanced temperament, combining the tenacity of a working terrier with the affectionate nature of a companion dog.</p>",
+  "full_description_rus": "<p>Норфолк-терьер — одна из самых маленьких рабочих терьеров, происходящая из Восточной Англии, Великобритания, конца XIX — начала XX века. Изначально они были выведены для контроля популяции вредителей в амбарах и конюшнях, а также использовались для выгона лис во время охоты. Норфолк-терьеры имеют общие корни с норвич-терьерами, основное различие между ними заключается в форме ушей: у норфолков уши висячие, а у норвичей стоячие. Порода была официально признана отдельной от норвич-терьера в Англии в 1964 году и в США в 1979 году. Физически норфолк-терьеры компактны и крепки, их рост в холке составляет 23–25 см, а вес — от 5 до 6 кг. Они обладают жесткой, прямой двойной шерстью, которая бывает различных оттенков: рыжего, пшеничного, черного с подпалом или серого с рыжеватым оттенком. Их выразительные, темные, овальные глаза и небольшие, аккуратно сложенные уши придают им бдительный и дружелюбный вид. Хвост средней длины, толстый у основания и сужающийся к кончику, несется весело. По темпераменту норфолк-терьеры известны своей бесстрашной и ласковой натурой. Они энергичны, умны и стремятся к общению с людьми, что делает их отличными семейными питомцами. Их общительный характер позволяет им хорошо ладить с детьми и другими животными при правильной социализации. Несмотря на небольшой размер, они проявляют сильный охотничий инстинкт и могут преследовать мелких животных на улице. Изначально выведенные для охоты и контроля вредителей, норфолк-терьеры обладают острым обонянием и решительностью, что делало их эффективными в традиционных ролях. Сегодня они преуспевают в различных собачьих видах спорта, таких как аджилити, послушание и испытания в норах, демонстрируя свою универсальность и готовность работать. В современное время норфолк-терьеры перешли от своих рабочих корней к статусу любимых компаньонов по всему миру. Их адаптивная натура делает их подходящими как для городской, так и для сельской среды. Хотя они не так распространены, как некоторые другие породы, их преданный и энергичный характер завоевал им преданных поклонников среди любителей собак. Отличительными чертами норфолк-терьера являются их компактный размер, делающий их идеальными для различных условий проживания; их мало линяющая, устойчивая к погодным условиям шерсть; и их сбалансированный темперамент, сочетающий настойчивость рабочего терьера с ласковостью собаки-компаньона.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "11-12 pounds",
+    "height": "9-10 inches",
+    "coat": "hard, wiry, straight; colors include red, wheaten, black and tan, or grizzle",
+    "activity": "moderate to high",
+    "trainability": "moderate; intelligent but can be independent",
+    "grooming": "regular brushing; hand-stripping twice a year",
+    "lifespan": "12-16 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "5-6 кг",
+    "рост": "23-25 см",
+    "шерсть": "жесткая, прямая; окрасы: рыжий, пшеничный, черный с подпалом, серый с рыжеватым оттенком",
+    "активность": "умеренная до высокой",
+    "обучаемость": "средняя; умны, но могут быть независимыми",
+    "уход": "регулярное расчесывание; тримминг два раза в год",
+    "продолжительность жизни": "12-16 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "fearless and confident",
+      "affectionate and loyal",
+      "energetic and playful",
+      "intelligent with an independent streak",
+      "alert and watchful"
+    ],
+    "summary": "Norfolk Terriers are affectionate, energetic, and sociable dogs that thrive on human companionship and are well-suited to family life.",
+    "with_children": "Generally good with children, especially when raised together; supervision is recommended to ensure positive interactions.",
+    "with_family": "They form strong bonds with family members and enjoy participating in household activities.",
+    "with_other_pets": "Can coexist peacefully with other pets if properly socialized; may chase smaller animals due to their prey drive.",
+    "with_strangers": "Friendly and approachable, often welcoming strangers with curiosity rather than aggression."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Норфолк-терьеры — ласковые, энергичные и общительные собаки, которые процветают в компании людей и отлично подходят для семейной жизни.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи и любят участвовать в домашних делах.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно если выросли вместе; рекомендуется наблюдение для обеспечения положительных взаимодействий.",
+    "с другими животными": "Могут мирно сосуществовать с другими питомцами при правильной социализации; могут преследовать мелких животных из-за охотничьего инстинкта.",
+    "с незнакомцами": "Дружелюбны и приветливы, часто встречают незнакомцев с любопытством, а не агрессией.",
+    "особые черты": [
+      "бесстрашные и уверенные",
+      "ласковые и преданные",
+      "энергичные и игривые",
+      "умные с независимым характером",
+      "бдительные и внимательные"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "mitral valve disease",
+      "hip dysplasia",
+      "luxating patella",
+      "cataracts",
+      "lens luxation"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain a healthy weight",
+      "provide a balanced diet",
+      "ensure regular exercise",
+      "monitor for signs of heart or joint issues"
+    ],
+    "summary": "Norfolk Terriers are generally healthy but are predisposed to certain conditions that owners should monitor.",
+    "vet_checkups": "annually; more frequent if health issues are present"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Норфолк-терьеры в целом здоровы, но склонны к определённым заболеваниям, за которыми владельцам следует внимательно следить.",
+    "распространённые проблемы": [
+      "митральная болезнь сердца",
+      "дисплазия тазобедренного сустава",
+      "вывих надколенника",
+      "катаракта",
+      "вывих хрусталика"
+    ],
+    "советы по профилактике": [
+      "регулярные визиты к ветеринару",
+      "поддержание здорового веса",
+      "обеспечение сбалансированного питания",
+      "регулярные физические нагрузки",
+      "наблюдение за признаками сердечных или суставных проблем"
+    ],
+    "рекомендуемые осмотры": "ежегодно; чаще при наличии проблем со здоровьем"
+  },
+  "care": {
+    "behavior": "Engage in daily play and training sessions to stimulate their minds and satisfy their energetic nature.",
+    "description": "Norfolk Terriers require attentive care, including regular grooming, exercise, and health monitoring to ensure a happy and healthy life.",
+    "grooming": "Brush their coat weekly and perform hand-stripping twice a year to maintain coat health.",
+    "health": "Schedule regular veterinary visits and stay vigilant for breed-specific health concerns.",
+    "nutrition": "Feed a balanced diet appropriate for their size and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "поведение и характер": "Участвуйте в ежедневных играх и тренировках, чтобы стимулировать их ум и удовлетворять их энергичную натуру.",
+    "краткое описание ухода": "Норфолк-терьеры требуют внимательного ухода, включая регулярный груминг, физические нагрузки и мониторинг здоровья для обеспечения счастливой и здоровой жизни.",
+    "груминг и уход": "Расчесывайте их шерсть еженедельно и проводите тримминг два раза в год для поддержания здоровья шерсти.",
+    "здоровье и профилактика": "Планируйте регулярные визиты к ветеринару и будьте внимательны к специфическим для породы проблемам со здоровьем.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их размеру и уровню активности; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Norfolk Terriers good with children?",
+      "answer": "Yes, they are generally good with children, especially when raised together; supervision is recommended to ensure positive interactions."
+    },
+    {
+      "question": "How much exercise does a Norfolk Terrier need?",
+      "answer": "They require daily exercise, including walks and playtime, to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Norfolk Terriers shed a lot?",
+      "answer": "They have a low-shedding coat that requires regular grooming to maintain its condition."
+    },
+    {
+      "question": "Are Norfolk Terriers easy to train?",
+      "answer": "They are intelligent but can be independent; consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "What is the lifespan of a Norfolk Terrier?",
+      "answer": "They typically live between 12 to 16 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Хорошо ли норфолк-терьеры ладят с детьми?",
+      "ответ": "Да, они обычно хорошо ладят с детьми, особенно если выросли вместе; рекомендуется наблюдение для обеспечения положительных взаимодействий."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется норфолк-терьеру?",
+      "ответ": "Им необходимы ежедневные физические нагрузки, включая прогулки и игры, для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Сильно ли линяют норфолк-терьеры?",
+      "ответ": "У них мало линяющая шерсть, требующая регулярного ухода для поддержания её состояния."
+    },
+    {
+      "вопрос": "Легко ли дрессировать норфолк-терьеров?",
+      "ответ": "Они умны, но могут быть независимыми; эффективна последовательная дрессировка с положительным подкреплением."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни норфолк-терьера?",
+      "ответ": "При надлежащем уходе они обычно живут от 12 до 16 лет."
+    }
+  ],
+  "sources": [
+    "https://www.westminsterkennelclub.org/breed/norfolk-terrier/",
+    "https://www.petmd.com/dog/breeds/norfolk-terrier",
+    "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/small-dogs/norfolk-terrier",
+    "https://www.vetstreet.com/dogs/norfolk-terrier",
+    "https://vcahospitals.com/know-your-pet/norfolk-terrier"
+  ]
+}

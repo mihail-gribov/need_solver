@@ -1,0 +1,165 @@
+{
+  "id": "american-bully",
+  "name": "American Bully",
+  "name_rus": "Американский булли",
+  "full_description": "<p>The American Bully is a modern companion dog breed that originated in the United States during the 1980s and 1990s. Developed by crossbreeding the American Pit Bull Terrier with various bulldog-type breeds, the goal was to create a dog with a muscular build and a gentle, family-friendly temperament. The breed was first recognized by the American Bully Kennel Club (ABKC) in 2004 and by the United Kennel Club (UKC) in 2013. Physically, the American Bully is a robust and heavily muscled dog with a broad chest, short back, and pronounced bone structure. Its head is large and square-shaped, featuring a well-defined jawline. The breed's short, smooth, and glossy coat comes in a variety of colors, including black, brown, gray, red, white, and tricolor. The American Bully is divided into four size categories: Pocket (under 17 inches at the shoulder), Standard (17 to 20 inches), Classic (same height as Standard but lighter), and XL (20 to 22 inches). Despite its formidable appearance, the American Bully is known for its friendly, affectionate, and loyal nature. It is highly people-oriented and thrives on human interaction, making it an excellent family companion. The breed is intelligent and eager to please, which facilitates training. However, early socialization and consistent training are essential to ensure well-rounded behavior. Originally bred as a companion dog, the American Bully does not have a history of working roles. Its primary purpose has always been to serve as a loyal and loving family pet. In modern times, the breed has gained popularity worldwide, appreciated for its unique combination of strength and gentleness. Notable characteristics of the American Bully include its muscular physique, friendly demeanor, and adaptability to various living environments. The breed's versatility and affectionate nature make it suitable for families, singles, and seniors alike.</p>",
+  "full_description_rus": "<p>Американский булли — современная порода собак-компаньонов, возникшая в США в 1980-х и 1990-х годах. Порода была выведена путем скрещивания американского питбультерьера с различными бульдожьими породами с целью создания собаки с мускулистым телосложением и дружелюбным, ориентированным на семью характером. Порода была впервые признана Американским клубом американских булли (ABKC) в 2004 году и Объединенным клубом собаководства (UKC) в 2013 году. Физически американский булли — это крепкая и мускулистая собака с широкой грудью, короткой спиной и выраженной костной структурой. Голова крупная и квадратная, с хорошо очерченной челюстью. Короткая, гладкая и блестящая шерсть представлена в различных окрасках, включая черный, коричневый, серый, красный, белый и трехцветный. Американский булли делится на четыре категории по размеру: Покет (рост в холке до 43 см), Стандарт (43–51 см), Классик (такой же рост, но более легкое телосложение) и XL (51–58 см). Несмотря на внушительный внешний вид, американский булли известен своим дружелюбным, ласковым и преданным характером. Он сильно ориентирован на людей и процветает в общении с ними, что делает его отличным семейным компаньоном. Порода умна и стремится угодить, что облегчает процесс обучения. Однако ранняя социализация и последовательная дрессировка необходимы для формирования уравновешенного поведения. Изначально выведенный как собака-компаньон, американский булли не имеет истории рабочих ролей. Его основное предназначение всегда заключалось в том, чтобы быть верным и любящим членом семьи. В настоящее время порода приобрела популярность во всем мире благодаря уникальному сочетанию силы и доброты. Отличительными чертами американского булли являются его мускулистое телосложение, дружелюбный нрав и адаптивность к различным условиям проживания. Универсальность и ласковая натура делают его подходящим для семей, одиноких людей и пожилых.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "25-54 kg",
+    "height": "33-56 cm",
+    "coat": "short, smooth, and glossy",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "minimal; occasional brushing and bathing",
+    "lifespan": "8-13 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "25-54 кг",
+    "рост": "33-56 см",
+    "шерсть": "короткая, гладкая и блестящая",
+    "активность": "умеренная",
+    "обучаемость": "высокая",
+    "уход": "минимальный; периодическое расчесывание и купание",
+    "продолжительность жизни": "8-13 лет"
+  },
+  "behavior": {
+    "summary": "The American Bully is a friendly, affectionate, and loyal breed that thrives on human interaction and makes an excellent family companion.",
+    "with_family": "Highly devoted and people-oriented, forming strong bonds with family members.",
+    "with_children": "Generally patient and gentle, making them suitable companions for children when properly socialized.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets, though some may exhibit same-sex aggression.",
+    "with_strangers": "Typically friendly and approachable, but early socialization is important to ensure positive interactions.",
+    "special_traits": [
+      "Affectionate and loyal",
+      "Intelligent and eager to please",
+      "Muscular and robust physique",
+      "Adaptable to various living environments",
+      "Requires early socialization and consistent training"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Американский булли — дружелюбная, ласковая и преданная порода, которая процветает в общении с людьми и является отличным семейным компаньоном.",
+    "с семьёй": "Сильно привязан к людям, формирует крепкие связи с членами семьи.",
+    "с детьми": "Обычно терпелив и нежен, что делает его подходящим компаньоном для детей при правильной социализации.",
+    "с другими животными": "При надлежащей социализации может мирно сосуществовать с другими животными, хотя некоторые особи могут проявлять агрессию к собакам того же пола.",
+    "с незнакомцами": "Как правило, дружелюбен и открыт, но ранняя социализация важна для обеспечения позитивных взаимодействий.",
+    "особые черты": [
+      "Ласковый и преданный",
+      "Умный и стремится угодить",
+      "Мускулистое и крепкое телосложение",
+      "Адаптируется к различным условиям проживания",
+      "Требует ранней социализации и последовательной дрессировки"
+    ]
+  },
+  "health": {
+    "summary": "The American Bully is generally a robust breed but is prone to certain health issues that require attention and preventive care.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Skin allergies",
+      "Heart disease",
+      "Brachycephalic airway syndrome"
+    ],
+    "prevention_tips": [
+      "Provide a balanced diet tailored to age and activity level",
+      "Ensure regular exercise to maintain healthy weight",
+      "Schedule routine veterinary check-ups",
+      "Monitor for signs of respiratory distress",
+      "Avoid extreme temperatures due to sensitivity"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for aging dogs or those with health concerns."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Американский булли в целом крепкая порода, но склонна к определенным проблемам со здоровьем, требующим внимания и профилактики.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Кожные аллергии",
+      "Сердечные заболевания",
+      "Брахицефальный синдром дыхательных путей"
+    ],
+    "советы по профилактике": [
+      "Обеспечьте сбалансированное питание, соответствующее возрасту и уровню активности",
+      "Обеспечьте регулярные физические нагрузки для поддержания здорового веса",
+      "Проводите плановые ветеринарные осмотры",
+      "Следите за признаками дыхательной недостаточности",
+      "Избегайте экстремальных температур из-за чувствительности"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты могут потребоваться для пожилых собак или тех, у кого есть проблемы со здоровьем."
+  },
+  "care": {
+    "description": "The American Bully requires moderate exercise, minimal grooming, and regular health monitoring to ensure a happy and healthy life.",
+    "behavior": "Early socialization and consistent training are essential to develop a well-mannered and confident dog.",
+    "health": "Regular veterinary check-ups and preventive care are crucial to address potential health issues common in the breed.",
+    "grooming": "Minimal grooming needs; occasional brushing and bathing suffice to maintain coat health.",
+    "nutrition": "Provide a well-balanced diet appropriate for the dog's age, size, and activity level to support overall health."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Американский булли требует умеренных физических нагрузок, минимального ухода за шерстью и регулярного контроля здоровья для обеспечения счастливой и здоровой жизни.",
+    "поведение и характер": "Ранняя социализация и последовательная дрессировка необходимы для воспитания воспитанной и уверенной в себе собаки.",
+    "здоровье и профилактика": "Регулярные ветеринарные осмотры и профилактический уход важны для предотвращения потенциальных проблем со здоровьем, характерных для породы.",
+    "груминг и уход": "Минимальные потребности в уходе; периодическое расчесывание и купание достаточны для поддержания здоровья шерсти.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее возрасту, размеру и уровню активности собаки, для поддержания общего здоровья."
+  },
+  "faq": [
+    {
+      "question": "Is the American Bully suitable for families with children?",
+      "answer": "Yes, when properly socialized, they are patient and gentle with children."
+    },
+    {
+      "question": "What are the exercise requirements for an American Bully?",
+      "answer": "Moderate daily exercise, such as walks and playtime, is sufficient."
+    },
+    {
+      "question": "Does the American Bully require extensive grooming?",
+      "answer": "No, their short coat requires minimal grooming; occasional brushing and bathing are adequate."
+    },
+    {
+      "question": "Are American Bullies aggressive towards other dogs?",
+      "answer": "With proper socialization, they can coexist peacefully, though some may exhibit same-sex aggression."
+    },
+    {
+      "question": "What is the average lifespan of an American Bully?",
+      "answer": "They typically live between 8 to 13 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходит ли американский булли для семей с детьми?",
+      "ответ": "Да, при правильной социализации они терпеливы и нежны с детьми."
+    },
+    {
+      "вопрос": "Какие физические нагрузки необходимы американскому булли?",
+      "ответ": "Умеренные ежедневные упражнения, такие как прогулки и игры, достаточны."
+    },
+    {
+      "вопрос": "Требует ли американский булли сложного ухода за шерстью?",
+      "ответ": "Нет, их короткая шерсть требует минимального ухода; периодическое расчесывание и купание достаточны."
+    },
+    {
+      "вопрос": "Проявляют ли американские булли агрессию к другим собакам?",
+      "ответ": "При правильной социализации они могут мирно сосуществовать, хотя некоторые особи могут проявлять агрессию к собакам того же пола."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни американского булли?",
+      "ответ": "Они обычно живут от 8 до 13 лет."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/American-Bully",
+    "https://en.wikipedia.org/wiki/American_Bully",
+    "https://ckcusa.com/breeds/american-bully/",
+    "https://www.petbook-magazine.com/dogs/american-bully-what-makes-this-dog-breed-so-special-and-controversial",
+    "https://www.petsradar.com/dogs/dog-breeds/american-bully-breed-profile",
+    "https://www.nahf.org/article/american-bully",
+    "https://www.rover.com/blog/breeds/american-bully/",
+    "https://www.caninejournal.com/american-bully/",
+    "https://www.purinaone.ru/dog/articles/breeds/american-bully",
+    "https://dogfinder.ru/american_bully",
+    "https://bolshoyambully.com/vsjo-o-porode/",
+    "https://breeds-info.ru/dogs/breed/amerikanskij-bulli",
+    "https://pets.mail.ru/dog-breeds/amerikanskij-bulli/",
+    "https://life.ru/p/1754093"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "schipperke",
+  "name": "Schipperke",
+  "full_description": "<p>The Schipperke is a small, agile breed originating from the Flemish provinces of Belgium in the 1600s. Believed to have descended from a larger black sheepdog known as the Leuvenaar, the Schipperke was developed to serve as a versatile working dog. They were commonly employed as watchdogs and vermin hunters on canal barges, earning them the nickname \"Little Captain\" due to their role alongside boatmen.</p>\n<p>Physically, Schipperkes are compact and sturdy, typically weighing between 12 to 18 pounds and standing 10 to 13 inches tall at the withers. They possess a distinctive black double coat with a harsh outer layer and a soft undercoat, forming a pronounced ruff around the neck and culottes on the hindquarters. Their fox-like face features small, erect ears and dark brown, oval-shaped eyes that convey an alert expression.</p>\n<p>Schipperkes are known for their curious, confident, and energetic temperament. They are intelligent and independent, often displaying a mischievous streak. Their alertness and protective nature make them excellent watchdogs, though they can be reserved with strangers. Early socialization and consistent training are essential to channel their energy positively.</p>\n<p>Originally bred for hunting vermin and guarding property, Schipperkes have retained their working abilities. Their agility and keen senses make them adept at tasks requiring vigilance and quick reflexes. In modern times, they excel in dog sports such as agility, obedience, and rally, showcasing their versatility and eagerness to engage in activities with their owners.</p>\n<p>Today, the Schipperke enjoys popularity as a companion dog worldwide. Their small size and adaptable nature make them suitable for various living environments, from apartments to homes with yards. They are particularly favored by active individuals and families who can provide the mental and physical stimulation these energetic dogs require.</p>\n<p>Notable characteristics of the Schipperke include their distinctive silhouette, marked by the pronounced ruff and culottes, and their tail, which may be naturally absent or docked. Their inquisitive nature and boundless energy have earned them the nickname \"Little Black Devil\" in their native Belgium, reflecting both their appearance and spirited personality.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "12–18 pounds",
+    "height": "10–13 inches",
+    "coat": "double coat with a harsh outer layer and soft undercoat; forms a ruff around the neck and culottes on the hindquarters",
+    "activity": "moderate to high",
+    "trainability": "high",
+    "grooming": "weekly brushing; more frequent during shedding periods",
+    "lifespan": "12–15 years"
+  },
+  "behavior": {
+    "summary": "Schipperkes are curious, confident, and energetic dogs known for their alertness and protective nature.",
+    "with_family": "They form strong bonds with their families, displaying loyalty and affection.",
+    "with_children": "Generally good with children, especially when socialized early, but supervision is recommended due to their energetic nature.",
+    "with_other_pets": "Can coexist with other pets if introduced properly, though their strong prey drive may lead to chasing smaller animals.",
+    "with_strangers": "Often reserved around strangers, making them effective watchdogs.",
+    "special_traits": [
+      "alert and protective",
+      "intelligent and independent",
+      "energetic and playful",
+      "mischievous",
+      "strong prey drive"
+    ]
+  },
+  "health": {
+    "summary": "Schipperkes are generally healthy but are predisposed to certain genetic conditions.",
+    "common_issues": [
+      "patellar luxation",
+      "Legg-Calvé-Perthes disease",
+      "progressive retinal atrophy",
+      "hypothyroidism",
+      "dental disease"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain a healthy weight",
+      "provide regular exercise",
+      "ensure a balanced diet",
+      "practice good dental hygiene"
+    ],
+    "vet_checkups": "annually; more frequent for senior dogs or those with known health issues"
+  },
+  "care": {
+    "description": "Schipperkes require regular exercise, mental stimulation, and consistent training to thrive.",
+    "behavior": "Early socialization and obedience training are essential to manage their independent and energetic nature.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary care.",
+    "grooming": "Weekly brushing is sufficient, with increased frequency during shedding seasons.",
+    "nutrition": "Provide a balanced diet appropriate for their size, age, and activity level."
+  },
+  "faq": [
+    {
+      "question": "Are Schipperkes good with children?",
+      "answer": "Yes, they are generally good with children, especially when socialized early, but supervision is recommended due to their energetic nature."
+    },
+    {
+      "question": "Do Schipperkes require a lot of exercise?",
+      "answer": "They have moderate to high energy levels and benefit from regular physical and mental stimulation."
+    },
+    {
+      "question": "Are Schipperkes easy to train?",
+      "answer": "Yes, they are intelligent and respond well to consistent, positive reinforcement training methods."
+    },
+    {
+      "question": "Do Schipperkes shed a lot?",
+      "answer": "They shed moderately and require weekly brushing, with more frequent grooming during shedding periods."
+    },
+    {
+      "question": "Are Schipperkes good watchdogs?",
+      "answer": "Yes, their alert and protective nature makes them excellent watchdogs."
+    }
+  ],
+  "sources": [
+    "https://www.westminsterkennelclub.org/breed/schipperke/",
+    "https://schipperkeclubofamerica.org/breed-standard/",
+    "https://www.purina.com/dogs/dog-breeds/schipperke",
+    "https://www.petmd.com/dog/breeds/schipperke",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-schipperkes"
+  ]
+}

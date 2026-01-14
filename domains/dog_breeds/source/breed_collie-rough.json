@@ -1,0 +1,89 @@
+{
+  "id": "collie-rough",
+  "name": "Collie (Rough)",
+  "full_description": "<p>The Rough Collie, also known as the Long-Haired Collie, is a distinguished herding breed originating from Scotland and Wales. Historically, the Scottish variety was a robust and aggressive dog adept at managing highland sheep, while the Welsh counterpart was smaller, nimble, and friendly, often herding goats. The interbreeding of these regional dogs with English sheepdogs led to the development of both short and long-haired varieties. The introduction of the Borzoi (Russian Wolfhound) into the gene pool in the 19th century refined the breed's head shape, resulting in the elongated muzzle characteristic of today's Rough Collie. Queen Victoria's acquisition of a Rough Collie during her stay at Balmoral Castle significantly boosted the breed's popularity, transforming it into a fashionable companion. Physically, the Rough Collie is a medium to large-sized dog, with males standing between 55.8 to 66 cm (22 to 26 inches) at the shoulder and females slightly shorter. They possess a long, dense double coat that forms a notable ruff around the neck, with recognized colors including sable and white, tricolor, blue merle, and color-headed white. The breed's head is light in relation to the body, resembling a blunted wedge tapering smoothly from ears to black nose, with medium-sized almond-shaped eyes and semi-prick ears. Temperamentally, Rough Collies are known for their loyalty, intelligence, and gentle nature. They are excellent with children and other animals, making them ideal family companions. However, they require proper socialization to prevent shyness and can be fairly vocal, though they are easily trained to manage barking tendencies. Historically bred for herding, Rough Collies are capable of covering significant distances and exhibit a strong herding instinct. While their primary role has shifted to companionship, they still participate in herding activities and excel in various dog sports. The breed's popularity was further cemented by the fictional character Lassie, a Rough Collie who became a cultural icon through books, films, and television series. Notable characteristics of the Rough Collie include their striking appearance, intelligence, and versatility, making them both a capable working dog and a beloved family member.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "50-70 lbs (22.7-31.8 kg)",
+    "height": "22-26 inches (55.8-66 cm)",
+    "coat": "long, dense double coat",
+    "activity": "moderate to high",
+    "trainability": "high",
+    "grooming": "regular brushing; more frequent during shedding seasons",
+    "lifespan": "12-14 years"
+  },
+  "behavior": {
+    "summary": "Rough Collies are loyal, intelligent, and gentle dogs, making them excellent family companions. They are known for their friendly disposition and adaptability.",
+    "with_family": "They form strong bonds with family members and thrive on companionship, often displaying affectionate and protective behaviors.",
+    "with_children": "Rough Collies are typically excellent with children, exhibiting patience and gentleness, making them ideal playmates.",
+    "with_other_pets": "Generally good with other pets, especially when raised together, though early socialization is recommended to ensure harmonious relationships.",
+    "with_strangers": "They are usually friendly towards strangers but may exhibit reserved behavior initially; proper socialization helps in developing a well-rounded temperament.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Strong herding instinct",
+      "Sensitive to their environment",
+      "Vocal tendencies",
+      "Strong attachment to owners"
+    ]
+  },
+  "health": {
+    "summary": "Rough Collies are generally healthy but are predisposed to certain genetic conditions. Regular veterinary care and preventive measures are essential to maintain their well-being.",
+    "common_issues": [
+      "Collie Eye Anomaly (CEA)",
+      "Progressive Retinal Atrophy (PRA)",
+      "Hip Dysplasia",
+      "Dermatomyositis",
+      "Bloat (Gastric Torsion)"
+    ],
+    "prevention_tips": [
+      "Regular eye examinations",
+      "Hip dysplasia screening",
+      "Genetic testing for known conditions",
+      "Maintaining a healthy weight",
+      "Providing a balanced diet"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits for senior dogs or those with health issues"
+  },
+  "care": {
+    "description": "Rough Collies require attentive care, including regular grooming, exercise, and health monitoring to ensure a happy and healthy life.",
+    "behavior": "They thrive on companionship and mental stimulation; regular interaction and training sessions are beneficial.",
+    "health": "Routine veterinary check-ups and preventive care are crucial to detect and manage potential health issues early.",
+    "grooming": "Regular brushing is necessary to maintain their coat and prevent matting; more frequent grooming is needed during shedding seasons.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Rough Collies good with children?",
+      "answer": "Yes, they are known for their gentle and patient nature, making them excellent companions for children."
+    },
+    {
+      "question": "How much exercise does a Rough Collie need?",
+      "answer": "They require moderate to high levels of exercise, including daily walks and playtime to keep them physically and mentally stimulated."
+    },
+    {
+      "question": "Do Rough Collies shed a lot?",
+      "answer": "Yes, they have a long double coat that sheds, especially during seasonal changes; regular grooming helps manage shedding."
+    },
+    {
+      "question": "Are Rough Collies easy to train?",
+      "answer": "Yes, they are highly intelligent and responsive, making them relatively easy to train with consistent, positive reinforcement methods."
+    },
+    {
+      "question": "Do Rough Collies have any common health issues?",
+      "answer": "They are prone to certain genetic conditions like Collie Eye Anomaly and hip dysplasia; regular veterinary care is important."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rough_Collie",
+    "https://www.animalanswers.org/dogs/rough-collie",
+    "https://www.thepethealthclinic.com/client-resources/breed-info/collie-rough/",
+    "https://puppylist.com.au/breeds/collie-rough/disadvantages/",
+    "https://puppylist.com.au/breeds/collie-rough/health-issues/",
+    "https://en.wikipedia.org/wiki/Collie",
+    "https://www.purina.co.uk/find-a-pet/dog-breeds/collie-rough",
+    "https://knowanimals.com/why-you-shouldnt-get-a-rough-collie/",
+    "https://en.wikipedia.org/wiki/Collie_eye_anomaly",
+    "https://www.dearbornanimalclinic.net/client-resources/breed-info/collie-rough/",
+    "https://doggycare.org/rough-collie-dog-breed/"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "black-and-tan-coonhound",
+  "name": "Black and Tan Coonhound",
+  "name_rus": "Чёрно-подпалый кунхаунд",
+  "full_description": "<p>The Black and Tan Coonhound is a distinguished American breed renowned for its exceptional scent-trailing abilities and versatility in hunting. Originating in the United States, this breed was developed by crossing the Bloodhound with the Black and Tan Virginia Foxhound, aiming to create a dog adept at tracking and treeing raccoons. This lineage endowed the Black and Tan Coonhound with a keen sense of smell and a robust constitution, enabling it to perform efficiently across diverse terrains and weather conditions. Physically, the Black and Tan Coonhound presents a powerful and agile build. Males typically stand between 25 to 27 inches at the shoulder, while females range from 23 to 25 inches. Their weight varies from 50 to 75 pounds, with males generally being heavier. The breed's coat is short, dense, and glossy, predominantly coal black with rich tan markings above the eyes, on the sides of the muzzle, chest, legs, and beneath the tail. Notable features include long, wide, and thin ears set low and far back on the head, and dark brown to black eyes that convey a pleading expression. The tail is set slightly below the backline and carried at a right angle when the dog is alert. Temperamentally, Black and Tan Coonhounds are known for their mellow and amiable nature indoors, making them suitable companions. They exhibit a strong hunting instinct outdoors, often becoming single-minded when on a scent trail. This breed is gentle and tolerant with children but may display independence, which can be challenging for playful youngsters. They tend to be reserved around strangers, often baying or howling in their presence. As scent hounds, they possess a loud, deep, and baying bark, which is distinctive and can be heard over long distances. Originally bred for trailing and treeing raccoons, the Black and Tan Coonhound's courage and determination also make it proficient in hunting larger game such as deer, bear, and mountain lions. Its exceptional olfactory senses allow it to track scents over vast distances, making it a valuable asset to hunters. In contemporary settings, while still utilized in hunting, the breed has also found a place as a loyal family companion. Its adaptability and friendly disposition have contributed to its steady popularity among dog enthusiasts. Notable characteristics of the Black and Tan Coonhound include its remarkable scent-trailing ability, endurance, and distinctive vocalizations. The breed's combination of strength, agility, and keen senses makes it a unique and cherished member of the hound group.</p>",
+  "full_description_rus": "<p>Чёрно-подпалый кунхаунд — американская порода собак, известная своими выдающимися способностями к выслеживанию и универсальностью в охоте. Порода была выведена в США в XVIII веке путём скрещивания бладхаунда с вирджинским фоксхаундом, с целью создания собаки, способной эффективно выслеживать и загонять енотов. Эта комбинация наделила кунхаунда острым обонянием и крепким телосложением, позволяющим работать в различных условиях местности и климата. Физически чёрно-подпалый кунхаунд представляет собой мощную и подвижную собаку. Рост кобелей составляет от 63 до 69 см в холке, сук — от 58 до 63 см. Вес варьируется от 23 до 34 кг, при этом кобели обычно тяжелее. Шерсть короткая, плотная и блестящая, преимущественно чёрного цвета с насыщенными подпалинами над глазами, на боках морды, груди, ногах и под хвостом. Отличительными чертами являются длинные, широкие и тонкие уши, посаженные низко и далеко назад на голове, а также тёмно-коричневые или чёрные глаза, придающие собаке умоляющее выражение. Хвост посажен чуть ниже линии спины и держится под прямым углом, когда собака насторожена. По характеру чёрно-подпалые кунхаунды спокойны и дружелюбны в домашних условиях, что делает их хорошими компаньонами. На улице они проявляют сильный охотничий инстинкт, часто становясь сосредоточенными при следовании по запаху. Эта порода нежна и терпелива с детьми, но может проявлять независимость, что может быть сложным для маленьких детей. Они склонны к сдержанности с незнакомцами, часто выражая это лаем или воем. Как гончие, они обладают громким, глубоким и завывающим лаем, который можно услышать на большие расстояния. Изначально выведенные для выслеживания и загоняния енотов, чёрно-подпалые кунхаунды также проявляют смелость и решительность при охоте на более крупную дичь, такую как олени, медведи и пумы. Их исключительное обоняние позволяет отслеживать запахи на больших расстояниях, что делает их ценными помощниками для охотников. В современных условиях, помимо охоты, порода нашла своё место в качестве преданного семейного компаньона. Её адаптивность и дружелюбный нрав способствовали устойчивой популярности среди любителей собак. Ключевые характеристики чёрно-подпалого кунхаунда включают выдающиеся способности к выслеживанию, выносливость и характерный голос. Сочетание силы, ловкости и острых чувств делает эту породу уникальным и ценным представителем группы гончих.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "50-75 lbs (23-34 kg)",
+    "height": "Males: 25-27 inches (63-69 cm); Females: 23-25 inches (58-63 cm)",
+    "coat": "short, dense, glossy; coal black with rich tan markings",
+    "activity": "high",
+    "trainability": "moderate; independent and stubborn tendencies",
+    "grooming": "weekly brushing; regular ear cleaning",
+    "lifespan": "10-12 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "23-34 кг",
+    "рост": "Кобели: 63-69 см; Суки: 58-63 см",
+    "шерсть": "короткая, плотная, блестящая; чёрная с насыщенными подпалинами",
+    "активность": "высокая",
+    "обучаемость": "умеренная; склонность к независимости и упрямству",
+    "уход": "еженедельное вычёсывание; регулярная чистка ушей",
+    "продолжительность жизни": "10-12 лет"
+  },
+  "behavior": {
+    "summary": "Black and Tan Coonhounds are mellow and amiable indoors but exhibit strong hunting instincts outdoors. They are gentle with family members and children, though their independence may pose challenges. Reserved around strangers, they are known for their loud, baying bark.",
+    "with_family": "Affectionate and loyal, forming strong bonds with family members. Their gentle nature makes them suitable companions.",
+    "with_children": "Tolerant and patient, making them good companions for children. However, their size and energy require supervision during interactions.",
+    "with_other_pets": "Generally get along with other dogs, especially if raised together. Their strong prey drive may not make them suitable for homes with small animals.",
+    "with_strangers": "Tend to be reserved and may bay or howl in the presence of unfamiliar people. Early socialization can help mitigate this behavior.",
+    "special_traits": [
+      "Exceptional scent-trailing ability",
+      "Distinctive baying bark",
+      "Independent and stubborn tendencies",
+      "High endurance and stamina",
+      "Strong prey drive"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Чёрно-подпалые кунхаунды спокойны и дружелюбны в домашних условиях, но на улице проявляют сильные охотничьи инстинкты. Они нежны с членами семьи и детьми, хотя их независимость может создавать сложности. Сдержанны с незнакомцами, известны своим громким, завывающим лаем.",
+    "с семьёй": "Ласковы и преданны, формируют крепкие связи с членами семьи. Их мягкий характер делает их подходящими компаньонами.",
+    "с детьми": "Терпеливы и снисходительны, что делает их хорошими спутниками для детей. Однако их размер и энергия требуют присмотра во время взаимодействий.",
+    "с другими животными": "Обычно ладят с другими собаками, особенно если выросли вместе. Их сильный охотничий инстинкт может не подходить для домов с мелкими животными.",
+    "с незнакомцами": "Склонны к сдержанности и могут лаять или выть в присутствии незнакомых людей. Ранняя социализация может помочь смягчить это поведение.",
+    "особые черты": [
+      "Выдающиеся способности к выслеживанию",
+      "Характерный завывающий лай",
+      "Склонность к независимости и упрямству",
+      "Высокая выносливость и стойкость",
+      "Сильный охотничий инстинкт"
+    ]
+  },
+  "health": {
+    "summary": "Black and Tan Coonhounds are generally healthy but may be prone to certain conditions such as hip dysplasia, ear infections, and eye problems. Regular veterinary care and preventive measures can help maintain their health.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Ear infections",
+      "Ectropion (outward rolling of the eyelid)",
+      "Hypothyroidism",
+      "Gastric dilatation-volvulus (bloat)"
+    ],
+    "prevention_tips": [
+      "Regular ear cleaning to prevent infections",
+      "Routine eye examinations",
+      "Maintaining a healthy weight to reduce joint stress",
+      "Providing a balanced diet",
+      "Regular exercise to promote overall health"
+    ],
+    "vet_checkups": "Annual checkups recommended; more frequent visits if health issues arise"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Чёрно-подпалые кунхаунды в целом здоровы, но могут быть склонны к таким заболеваниям, как дисплазия тазобедренного сустава, ушные инфекции и проблемы с глазами. Регулярный ветеринарный уход и профилактические меры помогут поддерживать их здоровье.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Ушные инфекции",
+      "Эктропион (выворот века)",
+      "Гипотиреоз",
+      "Синдром заворота желудка (вздутие)"
+    ],
+    "советы по профилактике": [
+      "Регулярная чистка ушей для предотвращения инфекций",
+      "Плановые осмотры глаз",
+      "Поддержание здорового веса для снижения нагрузки на суставы",
+      "Обеспечение сбалансированного питания",
+      "Регулярные физические упражнения для общего здоровья"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры; более частые визиты при возникновении проблем со здоровьем"
+  },
+  "care": {
+    "description": "Black and Tan Coonhounds require regular exercise, consistent training, and routine grooming to maintain their health and well-being.",
+    "behavior": "Early socialization and obedience training are essential to manage their independent nature and strong hunting instincts.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits to ensure early detection and treatment.",
+    "grooming": "Weekly brushing to manage shedding; regular ear cleaning to prevent infections; routine dental care and nail trimming.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Чёрно-подпалые кунхаунды требуют регулярных физических нагрузок, последовательной дрессировки и рутинного ухода для поддержания их здоровья и благополучия.",
+    "поведение и характер": "Ранняя социализация и обучение послушанию необходимы для управления их независимым характером и сильными охотничьими инстинктами.",
+    "здоровье и профилактика": "Следите за признаками распространённых проблем со здоровьем и регулярно посещайте ветеринара для раннего выявления и лечения.",
+    "груминг и уход": "Еженедельное вычёсывание для контроля линьки; регулярная чистка ушей для предотвращения инфекций; рутинный уход за зубами и стрижка когтей.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их возрасту, размеру и уровню активности; контролируйте потребление пищи для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Black and Tan Coonhounds good family pets?",
+      "answer": "Yes, they are affectionate and loyal, making them suitable for families. However, their size and energy require supervision around young children."
+    },
+    {
+      "question": "Do Black and Tan Coonhounds require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and require regular, vigorous exercise to stay healthy and prevent boredom."
+    },
+    {
+      "question": "Are Black and Tan Coonhounds easy to train?",
+      "answer": "They can be independent and stubborn, making training challenging. Consistent, positive reinforcement methods are recommended."
+    },
+    {
+      "question": "Do Black and Tan Coonhounds get along with other pets?",
+      "answer": "They generally get along with other dogs but may have a strong prey drive towards smaller animals."
+    },
+    {
+      "question": "What are common health issues in Black and Tan Coonhounds?",
+      "answer": "Common issues include hip dysplasia, ear infections, eye problems, hypothyroidism, and bloat."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли чёрно-подпалые кунхаунды хорошими семейными питомцами?",
+      "ответ": "Да, они ласковы и преданны, что делает их подходящими для семей. Однако их размер и энергия требуют присмотра при общении с маленькими детьми."
+    },
+    {
+      "вопрос": "Требуют ли чёрно-подпалые кунхаунды много физических упражнений?",
+      "ответ": "Да, они обладают высоким уровнем энергии и нуждаются в регулярных, интенсивных физических нагрузках для поддержания здоровья и предотвращения скуки."
+    },
+    {
+      "вопрос": "Легко ли дрессировать чёрно-подпалых кунхаундов?",
+      "ответ": "Они могут быть независимыми и упрямыми, что усложняет дрессировку. Рекомендуются последовательные методы положительного подкрепления."
+    },
+    {
+      "вопрос": "Ладят ли чёрно-подпалые кунхаунды с другими животными?",
+      "ответ": "Они обычно хорошо ладят с другими собаками, но могут проявлять сильный охотничий инстинкт по отношению к мелким животным."
+    },
+    {
+      "вопрос": "Какие распространённые проблемы со здоровьем встречаются у чёрно-подпалых кунхаундов?",
+      "ответ": "К распространённым проблемам относятся дисплазия тазобедренного сустава, ушные инфекции, проблемы с глазами, гипотиреоз и вздутие желудка."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/dog-breeds/black-and-tan-coonhound/",
+    "https://vcahospitals.com/know-your-pet/black-and-tan-coonhound",
+    "https://www.petmd.com/dog/breeds/black-tan-coonhound",
+    "https://www.dailypaws.com/dogs-puppies/dog-breeds/black-and-tan-coonhound",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-black-tan-coonhounds",
+    "https://ru.wikipedia.org/wiki/Чёрно-подпалый_кунхаунд",
+    "https://royalcanin.ru/dog-breed/black-and-tan-coonhound",
+    "https://petstory.ru/knowledge/dogs/dog-breeds/black-and-tan-coonhound/"
+  ]
+}

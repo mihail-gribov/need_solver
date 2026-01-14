@@ -1,0 +1,162 @@
+{
+  "id": "cardigan-welsh-corgi",
+  "name": "Cardigan Welsh Corgi",
+  "name_rus": "Вельш-корги кардиган",
+  "full_description": "<p>The Cardigan Welsh Corgi is one of the oldest herding breeds, originating in Wales over 3,000 years ago. Brought by Celtic tribes migrating from Central Europe, these dogs were developed to herd cattle and guard farms. Their low stature allowed them to nip at the heels of cattle while avoiding kicks. Historically, the Cardigan and Pembroke Welsh Corgis were considered a single breed until 1934, when they were recognized as distinct breeds by The Kennel Club in the UK. Physically, the Cardigan Welsh Corgi is a small to medium-sized dog with a sturdy build. Males typically weigh between 30 to 38 pounds (13.6 to 17.2 kg), while females range from 25 to 34 pounds (11.3 to 15.4 kg). They stand about 10.5 to 12.5 inches (26.7 to 31.8 cm) tall at the withers. The breed is characterized by its long body, short legs, large rounded ears, and a bushy tail resembling that of a fox. Their double coat is weather-resistant, with a hard-textured outer layer and a soft undercoat, coming in various colors including red, sable, brindle, black, and blue merle, often with white markings. Temperamentally, Cardigans are intelligent, loyal, and affectionate. They are known for their even-tempered nature and adaptability, making them suitable for both city and country living. While they can be reserved around strangers, they are devoted to their families and can be playful once comfortable. Their herding instincts may manifest in behaviors like nipping at running children, which requires proper training to manage. Originally bred for herding and guarding livestock, Cardigans are agile and capable of great power and endurance. Today, they excel in various canine sports such as agility, obedience, and herding trials. Their versatility and trainability make them excellent companions for active families. Notable characteristics of the breed include their distinctive long tail, which sets them apart from the Pembroke Welsh Corgi, and their wide range of coat colors. Their combination of intelligence, loyalty, and adaptability has contributed to their enduring popularity as both working dogs and family pets.</p>",
+  "full_description_rus": "<p>Вельш-корги кардиган — одна из древнейших пастушьих пород, возникшая в Уэльсе более 3000 лет назад. Считается, что предки этих собак были завезены кельтскими племенами, мигрировавшими из Центральной Европы. Первые письменные упоминания о породе датируются X веком. Изначально кардиганы использовались для выпаса скота и охраны ферм. Их низкий рост позволял им легко кусать скот за пятки, избегая при этом ударов копыт. Исторически вельш-корги кардиган и пемброк считались одной породой, но в 1934 году Британский кинологический клуб признал их отдельными породами. Физически кардиган — это небольшая, но крепко сложенная собака. Рост в холке составляет около 30 см, а вес варьируется от 12 до 17 кг. Порода характеризуется длинным корпусом, короткими лапами, большими закругленными ушами и пушистым хвостом, напоминающим лисий. Шерсть двойная, с жестким внешним слоем и мягким подшерстком, устойчива к погодным условиям. Окрас может быть разнообразным: рыжий, соболиный, тигровый, черный и голубой мраморный, часто с белыми отметинами. По характеру кардиганы умны, преданны и ласковы. Они обладают уравновешенным нравом и хорошо адаптируются к жизни как в городе, так и в сельской местности. Хотя они могут быть сдержанными с незнакомцами, к своей семье они привязаны и игривы. Их пастушьи инстинкты могут проявляться в попытках прикусывать бегущих детей, поэтому важно проводить соответствующую дрессировку. Первоначально выведенные для выпаса и охраны скота, кардиганы обладают ловкостью, силой и выносливостью. Сегодня они успешно участвуют в различных собачьих спортивных дисциплинах, таких как аджилити, послушание и пастушьи испытания. Их универсальность и обучаемость делают их отличными компаньонами для активных семей. Отличительными чертами породы являются длинный хвост, отличающий их от пемброков, и разнообразие окрасов. Сочетание интеллекта, преданности и адаптивности способствует их неизменной популярности как рабочих собак и семейных питомцев.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "Males: 30-38 lbs (13.6-17.2 kg); Females: 25-34 lbs (11.3-15.4 kg)",
+    "height": "10.5-12.5 inches (26.7-31.8 cm)",
+    "coat": "Double coat; hard-textured outer layer with a soft undercoat; colors include red, sable, brindle, black, and blue merle, often with white markings",
+    "activity": "medium",
+    "trainability": "high",
+    "grooming": "regular brushing; moderate shedding",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький до среднего",
+    "вес": "Кобели: 13,6-17,2 кг; Суки: 11,3-15,4 кг",
+    "рост": "26,7-31,8 см",
+    "шерсть": "Двойная; жесткий внешний слой с мягким подшерстком; окрасы включают рыжий, соболиный, тигровый, черный и голубой мраморный, часто с белыми отметинами",
+    "активность": "средняя",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчесывание; умеренная линька",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Strong herding instinct",
+      "Loyal and affectionate",
+      "Intelligent and trainable",
+      "Adaptable to various living environments",
+      "Alert and vigilant"
+    ],
+    "summary": "Cardigan Welsh Corgis are intelligent, loyal, and adaptable dogs with a strong herding instinct. They are affectionate with their families and can be reserved around strangers.",
+    "with_children": "Generally good with children, especially when raised together. Their herding instincts may lead to nipping behaviors, which should be addressed through training.",
+    "with_family": "Devoted and affectionate, forming strong bonds with family members. They thrive on companionship and enjoy participating in family activities.",
+    "with_other_pets": "Can coexist well with other pets if properly socialized. Their herding background may cause them to attempt to herd other animals.",
+    "with_strangers": "Tend to be reserved or cautious around strangers, making them effective watchdogs. Early socialization can help them become more comfortable with new people."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Вельш-корги кардиганы — умные, преданные и адаптивные собаки с выраженным пастушьим инстинктом. Они ласковы с семьей и могут быть сдержанными с незнакомцами.",
+    "с семьёй": "Преданы и ласковы, формируют крепкие связи с членами семьи. Любят компанию и участие в семейных мероприятиях.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно если выросли вместе. Их пастушьи инстинкты могут проявляться в попытках прикусывать, что требует коррекции через обучение.",
+    "с другими животными": "Могут хорошо уживаться с другими питомцами при правильной социализации. Их пастушье прошлое может побуждать их пытаться пасти других животных.",
+    "с незнакомцами": "Склонны быть сдержанными или осторожными с незнакомцами, что делает их эффективными сторожевыми собаками. Ранняя социализация поможет им чувствовать себя комфортнее с новыми людьми.",
+    "особые черты": [
+      "Сильный пастуший инстинкт",
+      "Преданность и ласковость",
+      "Ум и обучаемость",
+      "Адаптивность к различным условиям жизни",
+      "Бдительность и настороженность"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Degenerative myelopathy",
+      "Intervertebral disc disease (IVDD)",
+      "Dental disease"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain a healthy weight",
+      "Routine eye examinations to detect early signs of PRA",
+      "Genetic testing for degenerative myelopathy",
+      "Avoiding excessive jumping to reduce the risk of IVDD",
+      "Consistent dental care, including brushing and professional cleanings"
+    ],
+    "summary": "Cardigan Welsh Corgis are generally healthy but are prone to certain hereditary conditions. Regular veterinary care and preventive measures can help maintain their well-being.",
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with existing health conditions."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Вельш-корги кардиганы в целом здоровы, но склонны к некоторым наследственным заболеваниям. Регулярный ветеринарный уход и профилактические меры помогут поддерживать их благополучие.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Дегенеративная миелопатия",
+      "Заболевания межпозвоночных дисков (IVDD)",
+      "Заболевания зубов"
+    ],
+    "советы по профилактике": [
+      "Регулярные физические нагрузки для поддержания здорового веса",
+      "Периодические осмотры глаз для раннего выявления PRA",
+      "Генетическое тестирование на дегенеративную миелопатию",
+      "Избегание чрезмерных прыжков для снижения риска IVDD",
+      "Постоянный уход за зубами, включая чистку и профессиональные чистки"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты могут потребоваться для пожилых собак или имеющих существующие заболевания."
+  },
+  "care": {
+    "behavior": "Provide daily physical and mental activities to prevent boredom and manage their herding instincts. Training should be consistent and positive.",
+    "description": "Cardigan Welsh Corgis require regular exercise, mental stimulation, and consistent grooming to maintain their health and happiness.",
+    "grooming": "Brush their double coat at least once a week to manage shedding and maintain coat health. Increase frequency during seasonal shedding periods.",
+    "health": "Monitor for signs of common health issues and maintain a healthy weight through diet and exercise. Regular veterinary checkups are essential.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level. Monitor food intake to prevent obesity, which can exacerbate health issues."
+  },
+  "care_rus": {
+    "поведение и характер": "Обеспечивайте ежедневные физические и умственные нагрузки, чтобы предотвратить скуку и управлять их пастушьими инстинктами. Обучение должно быть последовательным и позитивным.",
+    "краткое описание ухода": "Вельш-корги кардиганы требуют регулярных физических упражнений, умственной стимуляции и постоянного ухода за шерстью для поддержания их здоровья и счастья.",
+    "груминг и уход": "Расчесывайте их двойную шерсть не реже одного раза в неделю для контроля линьки и поддержания здоровья шерсти. Увеличивайте частоту во время сезонной линьки.",
+    "здоровье и профилактика": "Следите за признаками распространенных заболеваний и поддерживайте здоровый вес с помощью диеты и упражнений. Регулярные ветеринарные осмотры необходимы.",
+    "питание и активность": "Кормите сбалансированным рационом, соответствующим их возрасту, размеру и уровню активности. Контролируйте потребление пищи, чтобы предотвратить ожирение, которое может усугубить проблемы со здоровьем."
+  },
+  "faq": [
+    {
+      "question": "Are Cardigan Welsh Corgis good with children?",
+      "answer": "Yes, they are generally good with children, especially when raised together. Supervision and training are recommended to manage their herding instincts."
+    },
+    {
+      "question": "How much exercise does a Cardigan Welsh Corgi need?",
+      "answer": "They require moderate daily exercise, such as walks and playtime, to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Cardigan Welsh Corgis shed a lot?",
+      "answer": "They have a double coat and shed moderately year-round, with increased shedding during seasonal changes. Regular brushing helps manage this."
+    },
+    {
+      "question": "Are Cardigan Welsh Corgis easy to train?",
+      "answer": "Yes, they are intelligent and respond well to positive reinforcement training methods. Consistency is key."
+    },
+    {
+      "question": "What is the difference between a Cardigan and a Pembroke Welsh Corgi?",
+      "answer": "The Cardigan has a long tail, larger ears, and a more robust build compared to the Pembroke, which typically has a docked tail and smaller ears."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Хорошо ли вельш-корги кардиганы ладят с детьми?",
+      "ответ": "Да, они обычно хорошо ладят с детьми, особенно если выросли вместе. Рекомендуется наблюдение и обучение для управления их пастушьими инстинктами."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется вельш-корги кардигану?",
+      "ответ": "Им необходимы умеренные ежедневные физические нагрузки, такие как прогулки и игры, для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Сильно ли линяют вельш-корги кардиганы?",
+      "ответ": "У них двойная шерсть, и они умеренно линяют круглый год, с увеличением линьки во время сезонных изменений. Регулярное расчесывание помогает справляться с этим."
+    },
+    {
+      "вопрос": "Легко ли обучать вельш-корги кардиганов?",
+      "ответ": "Да, они умны и хорошо реагируют на методы обучения с положительным подкреплением. Последовательность является ключевым фактором."
+    },
+    {
+      "вопрос": "В чем разница между вельш-корги кардиганом и пемброком?",
+      "ответ": "Кардиган имеет длинный хвост, большие уши и более крепкое телосложение по сравнению с пемброком, у которого обычно купированный хвост и меньшие уши."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cardigan_Welsh_Corgi",
+    "https://www.petmd.com/dog/breeds/cardigan-welsh-corgi",
+    "https://www.purina.com/dogs/dog-breeds/cardigan-welsh-corgi",
+    "https://audubonanimalclinic.com/client-resources/breed-info/cardigan-welsh-corgi/",
+    "https://www.lancasterpuppies.com/pet-advice/corgi-health-problems-pembroke-cardigan-welsh-corgis-guide.html",
+    "https://www.purina.ru/find-a-pet/dog-breeds/velsh-korgi-kardigan-sredne-dlinnosherstnaya",
+    "https://ru.wikipedia.org/wiki/Вельш-корги",
+    "https://panor.ru/articles/velsh-korgi-kardigan/85214.html",
+    "https://panor.ru/articles/velsh-korgi-kardigan-standart-porody-po-versii-fci/85215.html",
+    "https://www.cardiganium.ru/",
+    "https://doge.ru/poroda/velsh-korgi-kardigan"
+  ]
+}

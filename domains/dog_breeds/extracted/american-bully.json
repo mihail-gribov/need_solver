@@ -1,0 +1,183 @@
+{
+  "breed_id": "american-bully",
+  "features": {
+    "shedding": {
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "coat_type": {
+      "value": 0.2,
+      "confidence": 0.8
+    },
+    "dander_level": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "grooming": {
+      "value": 0.3,
+      "confidence": 0.8
+    },
+    "health_robustness": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "genetic_risk": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "apartment_ok": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "barking": {
+      "value": 0.3,
+      "confidence": 0.6
+    },
+    "energy": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "reactivity": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "noise_tolerance": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "exercise_need": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "alone_tolerance": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "separation_anxiety_risk": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "sitter_compatibility": {
+      "value": 0.7,
+      "confidence": 0.6
+    },
+    "adaptability": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "child_friendly": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "pet_friendly": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "stranger_friendly": {
+      "value": 0.6,
+      "confidence": 0.6
+    },
+    "territoriality": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "protectiveness": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "stress_sensitivity": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "affection_level": {
+      "value": 0.8,
+      "confidence": 0.7
+    },
+    "independence": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "playfulness": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "trainability": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "working_drive": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "behavior_management_need": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "mental_stimulation": {
+      "value": 0.6,
+      "confidence": 0.6
+    },
+    "prey_drive": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "hunting_instinct": {
+      "value": 0.3,
+      "confidence": 0.6
+    }
+  },
+  "parameters": {
+    "weight_kg": [
+      {
+        "value": 45,
+        "confidence": 0.7,
+        "source": "Animalia Pet Insurance"
+      },
+      {
+        "value": 40,
+        "confidence": 0.6,
+        "source": "DogFlux"
+      },
+      {
+        "value": 35,
+        "confidence": 0.5,
+        "source": "UKPets"
+      }
+    ],
+    "height_cm": [
+      {
+        "value": 48,
+        "confidence": 0.7,
+        "source": "Animalia Pet Insurance"
+      },
+      {
+        "value": 45,
+        "confidence": 0.6,
+        "source": "DogFlux"
+      },
+      {
+        "value": 44,
+        "confidence": 0.5,
+        "source": "UKPets"
+      }
+    ],
+    "lifespan_years": [
+      {
+        "value": 11.5,
+        "confidence": 0.7,
+        "source": "Animalia Pet Insurance"
+      },
+      {
+        "value": 12,
+        "confidence": 0.6,
+        "source": "DogFlux"
+      },
+      {
+        "value": 11,
+        "confidence": 0.5,
+        "source": "UKPets"
+      }
+    ]
+  },
+  "notes": "Data varies across sources; values represent averages. Confidence levels reflect the reliability of each source."
+}

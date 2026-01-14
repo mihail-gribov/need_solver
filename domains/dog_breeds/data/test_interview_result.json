@@ -1,0 +1,130 @@
+{
+  "needs": {
+    "apartment_compatible": {
+      "t": 0.9,
+      "f": 0.0
+    },
+    "low_shedding": {
+      "t": 0.8,
+      "f": 0.0
+    },
+    "child_friendly": {
+      "t": 1.0,
+      "f": 0.0
+    },
+    "low_barking": {
+      "t": 0.7,
+      "f": 0.0
+    },
+    "first_time_friendly": {
+      "t": 0.9,
+      "f": 0.0
+    },
+    "low_energy": {
+      "t": 0.0,
+      "f": 0.6
+    },
+    "easy_to_train": {
+      "t": 0.8,
+      "f": 0.0
+    }
+  },
+  "need_weights": {
+    "apartment_compatible": 0.9,
+    "low_shedding": 0.8,
+    "child_friendly": 1.0,
+    "low_barking": 0.7,
+    "first_time_friendly": 0.9,
+    "low_energy": 0.6,
+    "easy_to_train": 0.8
+  },
+  "independent": [],
+  "asked_questions": [
+    "q_shed_1",
+    "q_apt_1",
+    "q_train_1",
+    "q_first_1",
+    "q_child_1",
+    "q_bark_1",
+    "q_energy_1"
+  ],
+  "answers": [
+    {
+      "need_id": "apartment_compatible",
+      "question_id": "q_apt_1",
+      "question_text": "Вы живёте в квартире?",
+      "answer_type": "true",
+      "weight": 0.9,
+      "fuzzy_value": {
+        "t": 0.9,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "low_shedding",
+      "question_id": "q_shed_1",
+      "question_text": "Важно ли вам, чтобы собака мало линяла?",
+      "answer_type": "true",
+      "weight": 0.8,
+      "fuzzy_value": {
+        "t": 0.8,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "child_friendly",
+      "question_id": "q_child_1",
+      "question_text": "В семье есть дети младше 10 лет?",
+      "answer_type": "true",
+      "weight": 1.0,
+      "fuzzy_value": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "low_barking",
+      "question_id": "q_bark_1",
+      "question_text": "Важно ли вам, чтобы собака мало лаяла?",
+      "answer_type": "true",
+      "weight": 0.7,
+      "fuzzy_value": {
+        "t": 0.7,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "first_time_friendly",
+      "question_id": "q_first_1",
+      "question_text": "Это ваша первая собака?",
+      "answer_type": "true",
+      "weight": 0.9,
+      "fuzzy_value": {
+        "t": 0.9,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "low_energy",
+      "question_id": "q_energy_1",
+      "question_text": "Вы предпочитаете спокойную собаку?",
+      "answer_type": "false",
+      "weight": 0.6,
+      "fuzzy_value": {
+        "t": 0.0,
+        "f": 0.6
+      }
+    },
+    {
+      "need_id": "easy_to_train",
+      "question_id": "q_train_1",
+      "question_text": "Важна лёгкость дрессировки?",
+      "answer_type": "true",
+      "weight": 0.8,
+      "fuzzy_value": {
+        "t": 0.8,
+        "f": 0.0
+      }
+    }
+  ]
+}

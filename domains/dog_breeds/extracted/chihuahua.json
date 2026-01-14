@@ -1,0 +1,183 @@
+{
+  "breed_id": "chihuahua",
+  "features": {
+    "shedding": {
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "coat_type": {
+      "value": 0.5,
+      "confidence": 0.8
+    },
+    "dander_level": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "grooming": {
+      "value": 0.3,
+      "confidence": 0.8
+    },
+    "health_robustness": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "genetic_risk": {
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "apartment_ok": {
+      "value": 1.0,
+      "confidence": 0.9
+    },
+    "barking": {
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "energy": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "reactivity": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "noise_tolerance": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "exercise_need": {
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "alone_tolerance": {
+      "value": 0.3,
+      "confidence": 0.6
+    },
+    "separation_anxiety_risk": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "sitter_compatibility": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "adaptability": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "child_friendly": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "pet_friendly": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "stranger_friendly": {
+      "value": 0.4,
+      "confidence": 0.6
+    },
+    "territoriality": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "protectiveness": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "stress_sensitivity": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "affection_level": {
+      "value": 0.9,
+      "confidence": 0.8
+    },
+    "independence": {
+      "value": 0.3,
+      "confidence": 0.6
+    },
+    "playfulness": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "trainability": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "working_drive": {
+      "value": 0.3,
+      "confidence": 0.6
+    },
+    "behavior_management_need": {
+      "value": 0.5,
+      "confidence": 0.6
+    },
+    "mental_stimulation": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "prey_drive": {
+      "value": 0.3,
+      "confidence": 0.6
+    },
+    "hunting_instinct": {
+      "value": 0.3,
+      "confidence": 0.6
+    }
+  },
+  "parameters": {
+    "weight_kg": [
+      {
+        "value": 2.5,
+        "confidence": 0.9,
+        "source": "Great Pet Care"
+      },
+      {
+        "value": 2.5,
+        "confidence": 0.8,
+        "source": "Hill's Pet US"
+      },
+      {
+        "value": 2.5,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ],
+    "height_cm": [
+      {
+        "value": 17.5,
+        "confidence": 0.9,
+        "source": "Great Pet Care"
+      },
+      {
+        "value": 17.5,
+        "confidence": 0.8,
+        "source": "Hill's Pet US"
+      },
+      {
+        "value": 17.5,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ],
+    "lifespan_years": [
+      {
+        "value": 16,
+        "confidence": 0.9,
+        "source": "Great Pet Care"
+      },
+      {
+        "value": 16,
+        "confidence": 0.8,
+        "source": "Hill's Pet US"
+      },
+      {
+        "value": 16,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ]
+  },
+  "notes": "Chihuahuas are small, alert, and loyal dogs with moderate grooming needs and a tendency to be vocal. They are well-suited for apartment living but may require socialization to be comfortable around children and other pets."
+}

@@ -1,0 +1,156 @@
+{
+  "id": "wire-fox-terrier",
+  "name": "Wire Fox Terrier",
+  "name_rus": "Фокстерьер жесткошерстный",
+  "full_description": "<p>The Wire Fox Terrier, originating in England during the 17th century, was developed to assist in fox hunting by flushing foxes from their dens. Descended from rough-coated black and tan terriers of Wales, Derbyshire, and Durham, this breed was bred for its agility and determination. Physically, the Wire Fox Terrier is a small to medium-sized dog, standing up to 15.5 inches (39 cm) at the withers and weighing between 15 to 19 pounds (6.8 to 8.6 kg). It possesses a dense, wiry coat predominantly white with black and/or tan markings, and features a flat skull, V-shaped ears folding forward, and dark, keen eyes. Temperamentally, the breed is energetic, intelligent, and friendly, requiring regular mental and physical stimulation to prevent boredom. Originally bred to chase foxes from their dens, the Wire Fox Terrier's working abilities include agility and a strong prey drive. In modern times, they serve as companion animals and excel in dog sports like agility and obedience. Notable characteristics include their distinctive wiry coat, high energy levels, and a history of success in dog shows, having won more Best in Show titles at the Westminster Kennel Club Dog Show than any other breed.</p>",
+  "full_description_rus": "<p>Фокстерьер жесткошерстный — порода собак, выведенная в Англии в XVII веке для охоты на лис. Их задачей было выгонять лис из нор, демонстрируя при этом ловкость и решительность. Происходят от жесткошерстных черно-подпалых терьеров из Уэльса, Дербишира и Дарема. Физически это небольшая собака с ростом до 39 см в холке и весом от 6,8 до 8,6 кг. Имеет плотную, жесткую шерсть преимущественно белого цвета с черными и/или рыжими отметинами. Отличается плоским черепом, V-образными ушами, складывающимися вперед, и темными, выразительными глазами. По характеру энергичны, умны и дружелюбны, требуют регулярной умственной и физической активности для предотвращения скуки. Первоначально использовались для охоты на лис, благодаря своей ловкости и сильному охотничьему инстинкту. В современном мире служат компаньонами и успешно участвуют в собачьих видах спорта, таких как аджилити и послушание. Известны своей характерной жесткой шерстью, высоким уровнем энергии и успехами на выставках собак, имея наибольшее количество титулов \"Best in Show\" на выставке Westminster Kennel Club Dog Show среди всех пород.</p>",
+  "parameters": {
+    "activity": "high",
+    "coat": "dense, wiry, predominantly white with black and/or tan markings",
+    "grooming": "regular brushing; professional grooming recommended",
+    "height": "up to 15.5 inches (39 cm)",
+    "lifespan": "12-15 years",
+    "size": "small to medium",
+    "trainability": "moderate to high",
+    "weight": "15-19 pounds (6.8-8.6 kg)"
+  },
+  "parameters_rus": {
+    "размер": "маленький / средний",
+    "вес": "6,8-8,6 кг",
+    "рост": "до 39 см",
+    "шерсть": "плотная, жесткая, преимущественно белая с черными и/или рыжими отметинами",
+    "активность": "высокая",
+    "обучаемость": "средняя / высокая",
+    "уход": "регулярное расчесывание; рекомендуется профессиональный груминг",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "High energy levels",
+      "Strong prey drive",
+      "Intelligent and independent",
+      "Requires regular mental stimulation",
+      "Can be vocal"
+    ],
+    "summary": "The Wire Fox Terrier is an energetic and intelligent breed, known for its friendly and playful nature. They require regular mental and physical stimulation to prevent boredom and associated behavioral issues.",
+    "with_children": "Generally good with children, especially when socialized early, but their high energy levels may be overwhelming for very young kids.",
+    "with_family": "Affectionate and loyal, they thrive on interaction and enjoy being part of family activities.",
+    "with_other_pets": "May exhibit a strong prey drive; early socialization is essential to foster positive relationships with other pets.",
+    "with_strangers": "Alert and friendly, they can be sociable with strangers but may also be protective of their family."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Фокстерьер жесткошерстный — энергичная и умная порода, известная своим дружелюбным и игривым характером. Требует регулярной умственной и физической активности для предотвращения скуки и связанных с ней поведенческих проблем.",
+    "с семьёй": "Ласковы и преданны, любят взаимодействие и участие в семейных мероприятиях.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации, но их высокая энергия может быть чрезмерной для очень маленьких детей.",
+    "с другими животными": "Могут проявлять сильный охотничий инстинкт; ранняя социализация необходима для установления положительных отношений с другими животными.",
+    "с незнакомцами": "Бдительны и дружелюбны, могут быть общительными с незнакомцами, но также склонны защищать свою семью.",
+    "особые черты": [
+      "Высокий уровень энергии",
+      "Сильный охотничий инстинкт",
+      "Умны и независимы",
+      "Требуют регулярной умственной стимуляции",
+      "Могут быть голосистыми"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Primary lens luxation",
+      "Legg-Calvé-Perthes disease",
+      "Patellar luxation",
+      "Dental disease"
+    ],
+    "prevention_tips": [
+      "Regular eye examinations",
+      "Maintain a healthy weight to reduce joint stress",
+      "Daily dental care",
+      "Provide regular exercise to maintain joint health"
+    ],
+    "summary": "Wire Fox Terriers are generally healthy with a lifespan of 12-15 years. They are prone to certain genetic conditions, so regular veterinary care is important.",
+    "vet_checkups": "At least once a year; more frequent visits for senior dogs or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Фокстерьеры жесткошерстные обычно здоровы и живут 12-15 лет. Однако они склонны к некоторым генетическим заболеваниям, поэтому регулярный ветеринарный контроль важен.",
+    "распространённые проблемы": [
+      "Первичная люксация хрусталика",
+      "Болезнь Легга-Кальве-Пертеса",
+      "Вывих надколенника",
+      "Заболевания зубов"
+    ],
+    "советы по профилактике": [
+      "Регулярные осмотры глаз",
+      "Поддержание здорового веса для снижения нагрузки на суставы",
+      "Ежедневный уход за зубами",
+      "Обеспечение регулярных физических нагрузок для поддержания здоровья суставов"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "behavior": "Provide daily physical activities and mental challenges to prevent boredom and destructive behaviors.",
+    "description": "Wire Fox Terriers require consistent care, including regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "grooming": "Regular brushing and professional grooming are recommended to maintain their wiry coat.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary checkups.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Фокстерьеры жесткошерстные требуют постоянного ухода, включая регулярные физические нагрузки, умственную стимуляцию и груминг для поддержания их здоровья и счастья.",
+    "поведение и характер": "Обеспечивайте ежедневные физические активности и умственные задачи для предотвращения скуки и разрушительного поведения.",
+    "здоровье и профилактика": "Следите за признаками распространенных проблем со здоровьем и регулярно посещайте ветеринара.",
+    "груминг и уход": "Рекомендуется регулярное расчесывание и профессиональный груминг для поддержания их жесткой шерсти.",
+    "питание и активность": "Кормите сбалансированным рационом, соответствующим их возрасту, размеру и уровню активности; контролируйте потребление пищи для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "answer": "Yes, they are generally good with children, especially when socialized early, but their high energy may be overwhelming for very young kids.",
+      "question": "Are Wire Fox Terriers good with children?"
+    },
+    {
+      "answer": "Yes, they have high energy levels and require regular physical and mental stimulation to stay healthy and happy.",
+      "question": "Do Wire Fox Terriers require a lot of exercise?"
+    },
+    {
+      "answer": "No dog is truly hypoallergenic, but their wiry coat sheds minimally, which may be suitable for some allergy sufferers.",
+      "question": "Are Wire Fox Terriers hypoallergenic?"
+    },
+    {
+      "answer": "Yes, they can adapt to apartment living if provided with sufficient exercise and mental stimulation.",
+      "question": "Can Wire Fox Terriers live in apartments?"
+    },
+    {
+      "answer": "They may have a strong prey drive; early socialization is essential to foster positive relationships with other pets.",
+      "question": "Do Wire Fox Terriers get along with other pets?"
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Фокстерьеры жесткошерстные хорошо ладят с детьми?",
+      "ответ": "Да, они обычно хорошо ладят с детьми, особенно при ранней социализации, но их высокая энергия может быть чрезмерной для очень маленьких детей."
+    },
+    {
+      "вопрос": "Фокстерьеры жесткошерстные требуют много физических нагрузок?",
+      "ответ": "Да, они обладают высоким уровнем энергии и требуют регулярных физических и умственных нагрузок для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Фокстерьеры жесткошерстные гипоаллергенны?",
+      "ответ": "Ни одна собака не является полностью гипоаллергенной, но их жесткая шерсть мало линяет, что может быть подходящим для некоторых людей, страдающих аллергией."
+    },
+    {
+      "вопрос": "Фокстерьеры жесткошерстные могут жить в квартирах?",
+      "ответ": "Да, они могут адаптироваться к жизни в квартире при условии достаточных физических нагрузок и умственной стимуляции."
+    },
+    {
+      "вопрос": "Фокстерьеры жесткошерстные ладят с другими животными?",
+      "ответ": "Они могут проявлять сильный охотничий инстинкт; ранняя социализация необходима для установления положительных отношений с другими животными."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wire_Fox_Terrier",
+    "https://www.petmd.com/dog/breeds/wire-fox-terrier",
+    "https://www.purina.com/dogs/dog-breeds/wire-fox-terrier",
+    "https://www.ukcdogs.com/wire-fox-terrier",
+    "https://www.petfinder.com/dog-breeds/wire-fox-terrier/",
+    "https://www.pedigree.ru/porody/foksterier-zhestkosherstnij",
+    "https://royalcanin.ru/dog-breed/fox-terrier-wire",
+    "https://www.hillspet.ru/dog-care/dog-breeds/wire-fox-terrier",
+    "https://www.purinaone.ru/dog/articles/breeds/foksterer"
+  ]
+}

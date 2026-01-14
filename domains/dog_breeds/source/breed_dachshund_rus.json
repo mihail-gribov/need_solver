@@ -1,0 +1,163 @@
+{
+  "id": "dachshund",
+  "name": "Dachshund",
+  "name_rus": "Такса",
+  "full_description": "<p>The Dachshund, often referred to as the 'Wiener Dog' or 'Sausage Dog,' is a distinctive breed originating from Germany. Developed in the 17th century, their primary purpose was to hunt badgers, as indicated by their name—'Dachshund' translates to 'badger dog' in German. Their elongated bodies and short legs were specifically designed to dig into burrows and confront subterranean prey.</p>\n<p>Physically, Dachshunds are characterized by their long, muscular bodies, short legs, and deep chests. They possess a slightly arched muzzle and expressive eyes, with ears that are long and set near the top of the head. The breed comes in three coat varieties: smooth, long-haired, and wire-haired, each with its own unique texture and grooming needs. Common coat colors include red, black and tan, chocolate and tan, and dapple patterns.</p>\n<p>Temperamentally, Dachshunds are known for their cleverness, liveliness, and courage. They exhibit a playful and affectionate nature, often forming strong bonds with their families. Despite their small stature, they possess a bold and sometimes stubborn personality, which can make training a challenge. Their hunting heritage contributes to a strong prey drive and a tendency to dig.</p>\n<p>Originally bred for hunting, Dachshunds were adept at tracking and flushing out badgers and other burrowing animals. Their keen sense of smell and determination made them excellent hunters. In modern times, while some still participate in hunting and earthdog trials, the majority serve as companion animals, cherished for their unique appearance and spirited demeanor.</p>\n<p>The breed's popularity has remained strong over the years. As of 2024, the American Kennel Club ranked the Dachshund as the 6th most popular dog breed in the United States. Their manageable size and engaging personality make them suitable for various living environments, from apartments to homes with yards.</p>\n<p>Notable characteristics of the Dachshund include their distinctive body shape, which allows them to maneuver through tunnels and dense underbrush. Their vocal nature makes them effective watchdogs, alerting owners to unfamiliar sounds or visitors. Additionally, their loyalty and affectionate nature endear them to families, though their independent streak requires patient and consistent training.</p>",
+  "full_description_rus": "<p>Такса — порода собак, выведенная в Германии в XVII веке для охоты на барсуков, что отражено в её названии: 'Dachshund' в переводе с немецкого означает 'барсучья собака'. Их удлинённое тело и короткие лапы специально приспособлены для проникновения в норы и борьбы с подземной добычей.</p>\n<p>Физически таксы характеризуются длинным, мускулистым телом, короткими лапами и глубокой грудью. У них слегка изогнутая морда и выразительные глаза, а уши длинные и посажены высоко на голове. Порода представлена тремя разновидностями шерсти: гладкошёрстной, длинношёрстной и жёсткошёрстной, каждая из которых требует особого ухода. Окрасы варьируются от рыжего до чёрно-подпалого, шоколадно-подпалого и мраморного.</p>\n<p>По темпераменту таксы известны своим умом, живостью и смелостью. Они игривы и привязаны к своим семьям, часто формируя крепкие связи с владельцами. Несмотря на небольшой размер, таксы обладают смелым и иногда упрямым характером, что может усложнять процесс дрессировки. Их охотничье наследие проявляется в сильном инстинкте добычи и склонности к рытью.</p>\n<p>Изначально выведенные для охоты, таксы были искусными следопытами и охотниками на барсуков и других норных животных. Их острое обоняние и настойчивость делали их отличными охотниками. В современное время, хотя некоторые таксы всё ещё участвуют в охоте и испытаниях, большинство служит компаньонами, ценимыми за их уникальный внешний вид и энергичный характер.</p>\n<p>Популярность породы остаётся высокой. В России таксы широко распространены и любимы за их компактный размер и дружелюбный характер, что делает их подходящими для различных условий проживания, от квартир до домов с двором.</p>\n<p>Отличительные черты таксы включают её уникальную форму тела, позволяющую легко маневрировать в туннелях и густых зарослях. Их голосистость делает их эффективными сторожевыми собаками, предупреждающими владельцев о незнакомцах или необычных звуках. Кроме того, их преданность и привязанность к семье делают их отличными компаньонами, хотя их независимый характер требует терпеливой и последовательной дрессировки.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "Standard: 16–32 lbs (7–14.5 kg); Miniature: up to 11 lbs (5 kg)",
+    "height": "Standard: 8–9 inches (20–23 cm); Miniature: 5–6 inches (13–15 cm)",
+    "coat": "Three varieties: smooth, long-haired, and wire-haired; colors include red, black and tan, chocolate and tan, and dapple patterns",
+    "activity": "moderate",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "varies by coat type; regular brushing required, especially for long-haired and wire-haired varieties",
+    "lifespan": "12–16 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "Стандартная: 7–14,5 кг; Миниатюрная: до 5 кг",
+    "рост": "Стандартная: 20–23 см; Миниатюрная: 13–15 см",
+    "шерсть": "Три разновидности: гладкошёрстная, длинношёрстная и жёсткошёрстная; окрасы включают рыжий, чёрно-подпалый, шоколадно-подпалый и мраморный",
+    "активность": "умеренная",
+    "обучаемость": "средняя; умные, но могут быть упрямыми",
+    "уход": "зависит от типа шерсти; регулярное расчесывание необходимо, особенно для длинношёрстных и жёсткошёрстных разновидностей",
+    "продолжительность жизни": "12–16 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Strong prey drive",
+      "Tendency to dig",
+      "Vocal nature",
+      "Independent streak",
+      "Affectionate with family"
+    ],
+    "summary": "Dachshunds are intelligent, lively, and courageous dogs with a strong prey drive and a tendency to dig.",
+    "with_children": "Generally good with children, especially when raised together, but supervision is recommended due to their bold nature.",
+    "with_family": "Affectionate and loyal, they form strong bonds with family members and enjoy being involved in daily activities.",
+    "with_other_pets": "Can coexist with other pets if socialized early, though their hunting instincts may lead them to chase smaller animals.",
+    "with_strangers": "Often wary of strangers, they may bark to alert their owners but can warm up with proper introductions."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Таксы — умные, энергичные и смелые собаки с сильным охотничьим инстинктом и склонностью к рытью.",
+    "с семьёй": "Привязчивы и преданы, формируют крепкие связи с членами семьи и любят участвовать в повседневной жизни.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно если выросли вместе, но из-за их смелого характера рекомендуется присмотр.",
+    "с другими животными": "Могут уживаться с другими животными при ранней социализации, хотя их охотничьи инстинкты могут побуждать их преследовать мелких животных.",
+    "с незнакомцами": "Часто настороженно относятся к незнакомцам, могут лаять, предупреждая владельцев, но при правильном знакомстве становятся дружелюбными.",
+    "особые черты": [
+      "Сильный охотничий инстинкт",
+      "Склонность к рытью",
+      "Голосистость",
+      "Независимый характер",
+      "Привязанность к семье"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Intervertebral Disc Disease (IVDD)",
+      "Obesity",
+      "Dental issues",
+      "Patellar luxation",
+      "Progressive Retinal Atrophy (PRA)"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce strain on the spine",
+      "Avoid activities that involve jumping from heights",
+      "Provide regular dental care",
+      "Ensure regular, moderate exercise",
+      "Schedule routine veterinary check-ups"
+    ],
+    "summary": "Dachshunds are generally healthy but are prone to certain conditions, particularly those affecting the spine due to their elongated bodies.",
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Таксы в целом здоровы, но склонны к определённым заболеваниям, особенно связанным с позвоночником из-за их удлинённого тела.",
+    "распространённые проблемы": [
+      "Межпозвоночная грыжа (IVDD)",
+      "Ожирение",
+      "Зубные проблемы",
+      "Вывих коленной чашечки",
+      "Прогрессирующая атрофия сетчатки (PRA)"
+    ],
+    "советы по профилактике": [
+      "Поддерживайте здоровый вес, чтобы снизить нагрузку на позвоночник",
+      "Избегайте прыжков с высоты",
+      "Обеспечьте регулярный уход за зубами",
+      "Обеспечьте регулярные, умеренные физические нагрузки",
+      "Проводите регулярные ветеринарные осмотры"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; для пожилых собак или имеющих проблемы со здоровьем — чаще"
+  },
+  "care": {
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature and prevent undesirable behaviors.",
+    "description": "Dachshunds require attentive care to maintain their health and happiness, including regular exercise, proper grooming, and a balanced diet.",
+    "grooming": "Grooming needs vary by coat type; smooth-coated Dachshunds require minimal grooming, while long-haired and wire-haired varieties need more frequent brushing.",
+    "health": "Regular veterinary visits and preventive measures are crucial to address breed-specific health concerns, particularly spinal issues.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is important; portion control is essential to prevent obesity."
+  },
+  "care_rus": {
+    "поведение и характер": "Ранняя социализация и последовательная дрессировка необходимы для управления их независимым характером и предотвращения нежелательного поведения.",
+    "краткое описание ухода": "Таксы требуют внимательного ухода для поддержания их здоровья и счастья, включая регулярные физические нагрузки, надлежащий уход за шерстью и сбалансированное питание.",
+    "груминг и уход": "Потребности в уходе зависят от типа шерсти; гладкошёрстные таксы требуют минимального ухода, тогда как длинношёрстные и жёсткошёрстные разновидности нуждаются в более частом расчесывании.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактические меры важны для предотвращения специфических для породы проблем со здоровьем, особенно связанных с позвоночником.",
+    "питание и активность": "Сбалансированное питание, соответствующее возрасту, размеру и уровню активности, важно; контроль порций необходим для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Dachshunds good apartment dogs?",
+      "answer": "Yes, their small size makes them suitable for apartments, but they need regular exercise and mental stimulation."
+    },
+    {
+      "question": "Do Dachshunds get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, though their hunting instincts may lead them to chase smaller animals."
+    },
+    {
+      "question": "How much exercise does a Dachshund need?",
+      "answer": "Moderate daily exercise, such as walks and playtime, is sufficient to keep them healthy and prevent boredom."
+    },
+    {
+      "question": "Are Dachshunds easy to train?",
+      "answer": "They are intelligent but can be stubborn; consistent, positive reinforcement training methods work best."
+    },
+    {
+      "question": "What are common health issues in Dachshunds?",
+      "answer": "They are prone to spinal problems like IVDD, obesity, and dental issues; regular vet check-ups are important."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли таксы для содержания в квартире?",
+      "ответ": "Да, их небольшой размер делает их подходящими для квартир, но им необходимы регулярные физические нагрузки и умственная стимуляция."
+    },
+    {
+      "вопрос": "Ладят ли таксы с другими животными?",
+      "ответ": "При правильной социализации они могут уживаться с другими животными, хотя их охотничьи инстинкты могут побуждать их преследовать мелких животных."
+    },
+    {
+      "вопрос": "Сколько упражнений нужно таксе?",
+      "ответ": "Умеренные ежедневные физические нагрузки, такие как прогулки и игры, достаточны для поддержания их здоровья и предотвращения скуки."
+    },
+    {
+      "вопрос": "Легко ли дрессировать такс?",
+      "ответ": "Они умны, но могут быть упрямыми; последовательные методы дрессировки с положительным подкреплением работают лучше всего."
+    },
+    {
+      "вопрос": "Какие распространённые проблемы со здоровьем у такс?",
+      "ответ": "Они склонны к проблемам с позвоночником, таким как межпозвоночная грыжа (IVDD), ожирению и зубным проблемам; регулярные визиты к ветеринару важны."
+    }
+  ],
+  "sources": [
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/dachshund_smooth_haired",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/dachshund_long_haired",
+    "https://www.cesar.ru/porody/taksa/",
+    "https://www.pedigree.ru/porody/taksa-zhestkosherstnaya",
+    "https://kinpet.ru/taksa/",
+    "https://lapkins.ru/dog/taksa/",
+    "https://www.rbc.ru/life/news/640b760e9a7947b83da1a7d5",
+    "https://doge.ru/poroda/taksa",
+    "https://zooportal.pro/show/rank/16775775/",
+    "https://royalcanin.ru/dog-breed/dachshund",
+    "https://mirsobak.net/porody/malenkie/taksa/opisanie-taksy.html",
+    "https://masterzoo.ua/ru/blog/taksa-dohliad-ta-utrymannia/"
+  ]
+}

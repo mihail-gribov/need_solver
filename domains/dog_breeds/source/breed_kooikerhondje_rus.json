@@ -1,0 +1,159 @@
+{
+  "id": "kooikerhondje",
+  "name": "Nederlandse Kooikerhondje",
+  "name_rus": "Нидерландский коикерхондье",
+  "full_description": "<p>The Nederlandse Kooikerhondje, pronounced 'Netherlands-e Coy-ker-hond-tsje,' is a small, spaniel-type breed originating from the Netherlands in the 16th century. Developed as a duck decoy dog, it played a crucial role in the traditional hunting method known as 'Eendenkooi,' where the dog's lively movements and distinctive tail lured ducks into traps. This breed was also favored by Dutch nobility and frequently depicted in paintings by artists like Rembrandt and Vermeer. By the mid-20th century, the Kooikerhondje faced near extinction but was revived through dedicated breeding programs, notably by Baroness van Hardenbroek van Ammerstol in the 1940s. The American Kennel Club (AKC) officially recognized the breed in 2018.</p>\n<p>Physically, the Kooikerhondje is harmoniously built with almost square body proportions. Males typically stand at 16 inches tall, while females are about 15 inches. They possess a medium-length, water-repellent double coat with distinctive orange-red patches on a white background. The well-feathered tail is carried level with or above the topline, and the ears, set above eye level, often feature black tips known as 'earrings.'</p>\n<p>In terms of temperament, the Kooikerhondje is lively, agile, and self-confident. They are good-natured and alert, forming strong bonds with their families. While friendly and easy-going with familiar people, they can be reserved around strangers. Their intelligence and eagerness to please make them highly trainable, though their sensitive nature requires gentle training methods.</p>\n<p>Originally bred for duck decoy work, the Kooikerhondje's agility and attentiveness made it adept at luring ducks into traps. Today, while no longer commonly used for hunting, they excel in various dog sports, including agility, obedience, and scent work. Their versatility and cheerful character have also made them cherished companions worldwide.</p>\n<p>Notable characteristics of the breed include their distinctive 'earrings,' the black tips on their ears, and their fox-like appearance, which historically played a role in their hunting technique. Their well-feathered, waving tail is another hallmark, used historically to attract ducks and now a charming feature in companionship.</p>",
+  "full_description_rus": "<p>Нидерландский коикерхондье — небольшая собака типа спаниеля, происходящая из Нидерландов XVI века. Изначально выведена для охоты на уток с использованием метода 'Eendenkooi', где собака с помощью энергичных движений и характерного хвоста заманивала уток в ловушки. Порода была популярна среди голландской знати и часто изображалась на картинах таких художников, как Рембрандт и Вермеер. К середине XX века коикерхондье находились на грани исчезновения, но были восстановлены благодаря усилиям баронессы ван Харденброк ван Аммерстоль в 1940-х годах. Американский кеннел-клуб официально признал породу в 2018 году.</p>\n<p>Физически коикерхондье гармонично сложены с почти квадратными пропорциями тела. Рост кобелей составляет около 40 см, сук — около 38 см. Они имеют среднюю по длине, водоотталкивающую двойную шерсть с характерными оранжево-красными пятнами на белом фоне. Хорошо опушенный хвост держится на уровне или выше линии спины, а уши, посаженные выше уровня глаз, часто имеют черные кончики, известные как 'серьги'.</p>\n<p>По темпераменту коикерхондье живые, подвижные и уверенные в себе. Они добродушны и бдительны, формируют крепкие связи со своими семьями. Хотя с знакомыми людьми они дружелюбны и общительны, с незнакомцами могут быть сдержанными. Их интеллект и стремление угодить делают их легко обучаемыми, хотя их чувствительная натура требует мягких методов дрессировки.</p>\n<p>Изначально выведенные для охоты на уток, коикерхондье благодаря своей ловкости и внимательности отлично справлялись с заманиванием уток в ловушки. Сегодня, хотя они редко используются в охоте, они преуспевают в различных собачьих видах спорта, включая аджилити, послушание и работу по запаху. Их универсальность и жизнерадостный характер сделали их любимыми компаньонами во всем мире.</p>\n<p>Отличительными чертами породы являются их 'серьги' — черные кончики на ушах, и лисья внешность, которая исторически играла роль в их охотничьей технике. Их хорошо опушенный, волнистый хвост — еще одна характерная особенность, использовавшаяся для привлечения уток и теперь являющаяся очаровательной чертой в общении.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "20-30 pounds",
+    "height": "15-16 inches",
+    "coat": "medium-length, water-repellent double coat with orange-red patches on white",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "weekly brushing; regular ear cleaning",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "9-13 кг",
+    "рост": "38-40 см",
+    "шерсть": "средней длины, водоотталкивающая двойная шерсть с оранжево-красными пятнами на белом фоне",
+    "активность": "умеренная",
+    "обучаемость": "высокая",
+    "уход": "еженедельное расчесывание; регулярная чистка ушей",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "summary": "The Nederlandse Kooikerhondje is a lively, intelligent, and affectionate breed known for its agility and eagerness to please. They form strong bonds with their families and are alert and good-natured.",
+    "with_family": "Kooikerhondjes are devoted and affectionate with family members, often forming strong attachments and enjoying close companionship.",
+    "with_children": "They do well with older children who understand respectful interactions but may be less tolerant of rough play from younger children.",
+    "with_other_pets": "Generally friendly with other pets, especially when socialized early, though their hunting instincts may lead them to chase smaller animals.",
+    "with_strangers": "They can be reserved around strangers, often displaying a cautious demeanor until properly introduced.",
+    "special_traits": [
+      "Sensitive and responsive to training",
+      "High prey drive",
+      "Alert and watchful",
+      "Enjoys interactive play",
+      "Can be reserved with unfamiliar people"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Нидерландский коикерхондье — живая, умная и ласковая порода, известная своей ловкостью и стремлением угодить. Они формируют крепкие связи со своими семьями и отличаются бдительностью и добродушием.",
+    "с семьёй": "Коикерхондье преданы и ласковы с членами семьи, часто формируют сильные привязанности и наслаждаются тесным общением.",
+    "с детьми": "Они хорошо ладят со старшими детьми, которые понимают необходимость уважительного обращения, но могут быть менее терпимы к грубой игре младших детей.",
+    "с другими животными": "В целом дружелюбны с другими животными, особенно при ранней социализации, хотя их охотничьи инстинкты могут побуждать их преследовать мелких животных.",
+    "с незнакомцами": "Могут быть сдержанными с незнакомцами, часто проявляя осторожность до надлежащего знакомства.",
+    "особые черты": [
+      "Чувствительны и отзывчивы к дрессировке",
+      "Высокий охотничий инстинкт",
+      "Бдительны и наблюдательны",
+      "Любят интерактивные игры",
+      "Могут быть сдержанными с незнакомыми людьми"
+    ]
+  },
+  "health": {
+    "summary": "The Nederlandse Kooikerhondje is generally a healthy breed with a lifespan of 12-15 years. However, they are prone to certain hereditary health issues that prospective owners should be aware of.",
+    "common_issues": [
+      "Patellar luxation",
+      "Hip dysplasia",
+      "Hereditary necrotizing myelopathy",
+      "Von Willebrand's disease",
+      "Eye disorders"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for known hereditary conditions",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Ensuring a balanced diet"
+    ],
+    "vet_checkups": "Annual check-ups are recommended, with more frequent visits if health issues arise."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Нидерландский коикерхондье в целом здоровая порода с продолжительностью жизни 12-15 лет. Однако они склонны к некоторым наследственным заболеваниям, о которых потенциальные владельцы должны быть осведомлены.",
+    "распространённые проблемы": [
+      "Вывих коленной чашечки",
+      "Дисплазия тазобедренного сустава",
+      "Наследственная некротизирующая миелопатия",
+      "Болезнь Виллебранда",
+      "Заболевания глаз"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Генетическое тестирование на известные наследственные заболевания",
+      "Поддержание здорового веса",
+      "Обеспечение регулярных физических нагрузок",
+      "Сбалансированное питание"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры, с более частыми визитами при возникновении проблем со здоровьем."
+  },
+  "care": {
+    "description": "Caring for a Nederlandse Kooikerhondje involves regular exercise, mental stimulation, and routine grooming to maintain their health and happiness.",
+    "behavior": "They thrive on interactive play and training sessions that challenge their intelligence and agility.",
+    "health": "Regular health screenings and preventive care are essential to monitor and address potential hereditary conditions.",
+    "grooming": "Weekly brushing is necessary to keep their coat free of tangles and mats; regular ear cleaning helps prevent infections.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level supports overall health and energy."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Уход за нидерландским коикерхондье включает регулярные физические нагрузки, умственную стимуляцию и рутинный груминг для поддержания их здоровья и счастья.",
+    "поведение и характер": "Они процветают при интерактивных играх и тренировках, которые бросают вызов их интеллекту и ловкости.",
+    "здоровье и профилактика": "Регулярные медицинские осмотры и профилактический уход необходимы для мониторинга и решения потенциальных наследственных заболеваний.",
+    "груминг и уход": "Еженедельное расчесывание необходимо для предотвращения спутывания шерсти; регулярная чистка ушей помогает предотвратить инфекции.",
+    "питание и активность": "Сбалансированное питание, соответствующее их возрасту, размеру и уровню активности, поддерживает общее здоровье и энергию."
+  },
+  "faq": [
+    {
+      "question": "Is the Nederlandse Kooikerhondje suitable for apartment living?",
+      "answer": "Yes, with sufficient exercise and mental stimulation, they can adapt well to apartment living."
+    },
+    {
+      "question": "How much exercise does a Kooikerhondje need?",
+      "answer": "They require moderate daily exercise, including walks and playtime, to stay healthy and happy."
+    },
+    {
+      "question": "Are Kooikerhondjes easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable with positive reinforcement methods."
+    },
+    {
+      "question": "Do they get along with other dogs?",
+      "answer": "Generally, they are friendly with other dogs, especially when socialized from a young age."
+    },
+    {
+      "question": "What is the grooming requirement for a Kooikerhondje?",
+      "answer": "Weekly brushing and regular ear cleaning are recommended to maintain their coat and ear health."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходит ли нидерландский коикерхондье для жизни в квартире?",
+      "ответ": "Да, при достаточных физических нагрузках и умственной стимуляции они могут хорошо адаптироваться к жизни в квартире."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется коикерхондье?",
+      "ответ": "Им необходимы умеренные ежедневные физические нагрузки, включая прогулки и игры, для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Легко ли дрессировать коикерхондье?",
+      "ответ": "Да, их интеллект и стремление угодить делают их легко обучаемыми при использовании методов положительного подкрепления."
+    },
+    {
+      "вопрос": "Ладят ли они с другими собаками?",
+      "ответ": "В целом, они дружелюбны с другими собаками, особенно при ранней социализации."
+    },
+    {
+      "вопрос": "Каковы требования к уходу за коикерхондье?",
+      "ответ": "Рекомендуется еженедельное расчесывание и регулярная чистка ушей для поддержания здоровья шерсти и ушей."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/c_dg_nederlandse-kooikerhondje",
+    "https://www.akc.org/expert-advice/dog-breeds/behind-the-breed-kooiker-history/",
+    "https://www.akc.org/expert-advice/dog-breeds/fun-facts-nederlandse-kooikerhondje/",
+    "https://www.thekennelclub.org.uk/breed-standards/utility/kooikerhondje/",
+    "https://www.ukcdogs.com/breed-groups/kooikerhondje",
+    "https://ru.wikipedia.org/wiki/Коикерхондье",
+    "https://royalcanin.ru/dog-breed/kooikerhondje",
+    "https://bb.lv/statja/v-mire-zhivotnyh/2024/11/29/vse-o-porode-niderlandskii-koikerxonde-dobrodusnyi-oxotnik-na-utok-i-zashhitnik-semi"
+  ]
+}

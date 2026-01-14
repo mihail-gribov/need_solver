@@ -1,0 +1,79 @@
+{
+  "id": "irish-terrier",
+  "name": "Irish Terrier",
+  "full_description": "<p>The Irish Terrier, one of the oldest terrier breeds, originated in Ireland and was officially recognized by the American Kennel Club in 1885. Initially bred as an all-purpose farm dog, they excelled in hunting vermin, guarding properties, and serving as loyal companions. During World War I, Irish Terriers demonstrated their bravery by acting as messengers in the trenches, showcasing their intelligence and courage.</p>\n<p>Physically, the Irish Terrier presents a racy, graceful outline, combining speed and endurance with power. They are medium-sized dogs, typically standing between 18 to 20 inches tall and weighing around 25 to 27 pounds. Their dense, wiry, and broken coat ranges in color from red to wheaten, providing protection against harsh weather conditions. The breed's head is long and narrow, with small, dark eyes that exude an intense expression, and small, V-shaped ears that fold forward.</p>\n<p>Temperamentally, Irish Terriers are fearless, fun-loving, and possess a mind of their own. They are extremely loyal and affectionate with their families, often forming strong bonds with their owners. While they are good-tempered and gentle pets, they can be tenacious and may not always get along with other dogs. Their high energy levels and intelligence require regular mental and physical stimulation to prevent boredom and potential mischief.</p>\n<p>Historically, Irish Terriers were versatile working dogs, adept at hunting foxes, otters, and other small mammals. Their keen senses and agility made them excellent hunters and reliable farm dogs. In modern times, they have transitioned into beloved family companions, known for their loyalty and spirited nature. Although their popularity has declined since the early 20th century, they remain cherished by enthusiasts who appreciate their unique characteristics.</p>\n<p>Notable for their adaptability, Irish Terriers can thrive in various environments, provided they receive adequate exercise and mental engagement. Their minimal grooming needs and robust health make them relatively low-maintenance compared to other breeds. However, their strong-willed nature necessitates consistent, positive reinforcement training from an early age to ensure they develop into well-mannered adults.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "25-27 pounds",
+    "height": "18-20 inches",
+    "coat": "dense, wiry, broken; red to wheaten color",
+    "activity": "high",
+    "trainability": "moderate; responds best to positive reinforcement",
+    "grooming": "regular brushing; occasional hand-stripping",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Irish Terriers are fearless, energetic, and intelligent dogs, known for their loyalty and affectionate nature towards their families. They possess a strong-willed temperament and require consistent training and socialization.",
+    "with_family": "They form strong bonds with family members, displaying deep loyalty and affection. Their playful and energetic nature makes them engaging companions.",
+    "with_children": "Generally good with children, especially when raised together. Supervision is recommended due to their energetic play style.",
+    "with_other_pets": "May not get along well with other dogs or small animals due to their strong prey drive. Early socialization is crucial.",
+    "with_strangers": "Alert and protective, they can be wary of strangers. Proper socialization helps in developing a balanced approach.",
+    "special_traits": [
+      "fearless and courageous",
+      "high energy levels",
+      "strong-willed and independent",
+      "loyal and affectionate with family",
+      "requires consistent training and socialization"
+    ]
+  },
+  "health": {
+    "summary": "Irish Terriers are generally healthy dogs with a lifespan of 12 to 15 years. They are prone to certain genetic conditions and require regular veterinary care to maintain optimal health.",
+    "common_issues": [
+      "hip dysplasia",
+      "hypothyroidism",
+      "allergies",
+      "cataracts"
+    ],
+    "prevention_tips": [
+      "regular exercise to maintain healthy weight",
+      "balanced diet appropriate for age and activity level",
+      "routine grooming to monitor skin health",
+      "early socialization and training to prevent behavioral issues"
+    ],
+    "vet_checkups": "Annual veterinary checkups are recommended, with more frequent visits as the dog ages or if health concerns arise."
+  },
+  "care": {
+    "description": "Irish Terriers require regular exercise, consistent training, and routine grooming to maintain their physical and mental well-being.",
+    "behavior": "Provide daily physical activities and mental stimulation to prevent boredom and destructive behaviors.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits for preventive care.",
+    "grooming": "Brush their wiry coat weekly and perform occasional hand-stripping to maintain coat texture.",
+    "nutrition": "Feed a balanced diet suitable for their age, size, and activity level, and monitor their weight to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Irish Terriers good with children?",
+      "answer": "Yes, they are generally good with children, especially when raised together, but supervision is recommended due to their energetic nature."
+    },
+    {
+      "question": "Do Irish Terriers get along with other pets?",
+      "answer": "They may not get along well with other dogs or small animals due to their strong prey drive; early socialization is important."
+    },
+    {
+      "question": "How much exercise does an Irish Terrier need?",
+      "answer": "They require daily physical activities and mental stimulation to prevent boredom and maintain health."
+    },
+    {
+      "question": "What are common health issues in Irish Terriers?",
+      "answer": "Common issues include hip dysplasia, hypothyroidism, allergies, and cataracts."
+    },
+    {
+      "question": "How often should I groom my Irish Terrier?",
+      "answer": "Weekly brushing and occasional hand-stripping are recommended to maintain their coat."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/press-releases/american-kennel-club-celebrates-irish-dog-breeds-in-spirit-of-st-patri/",
+    "https://www.ukcdogs.com/breed-groups/irish-terrier",
+    "https://vcahospitals.com/know-your-pet/irish-terrier"
+  ]
+}

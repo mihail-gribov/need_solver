@@ -1,0 +1,168 @@
+{
+  "id": "boston-terrier",
+  "name": "Boston Terrier",
+  "name_rus": "Бостон-терьер",
+  "full_description": "<p>The Boston Terrier, often referred to as the 'American Gentleman,' is a breed that originated in the United States in the late 19th century. Developed in Boston, Massachusetts, this breed was created by crossing the now-extinct White English Terrier with the English Bulldog, aiming to produce a companion dog with a gentle disposition and distinctive appearance. Recognized by the American Kennel Club (AKC) in 1893, the Boston Terrier has since become a beloved companion worldwide. Physically, Boston Terriers are small, compact dogs with a square build. They typically weigh between 15 to 25 pounds and stand about 15 to 17 inches tall at the withers. Their short, smooth coat comes in brindle, seal, or black, all with characteristic white markings that resemble a tuxedo. The breed's large, round eyes and erect ears contribute to their alert and friendly expression. Temperamentally, Boston Terriers are known for their affectionate and friendly nature. They are intelligent and eager to please, making them relatively easy to train. Their gentle disposition makes them excellent companions for families, including those with children and other pets. While they are generally sociable, early socialization is recommended to ensure well-rounded behavior. Originally bred for companionship, Boston Terriers have never been used extensively for work or sporting purposes. Their primary role has always been that of a companion animal, providing affection and companionship to their owners. In modern times, Boston Terriers continue to be popular pets due to their manageable size, friendly nature, and adaptability to various living situations, including apartment living. Notable characteristics of the breed include their distinctive 'tuxedo' coat pattern, expressive eyes, and a short, square muzzle. Their brachycephalic (short-nosed) facial structure gives them a unique appearance but also requires owners to be mindful of potential breathing difficulties, especially in hot or humid weather. Overall, the Boston Terrier is a charming and affectionate breed that thrives on human companionship and makes an excellent addition to many households.</p>",
+  "full_description_rus": "<p>Бостон-терьер, часто называемый 'американским джентльменом', — порода собак, возникшая в США в конце XIX века. Разведенная в Бостоне, штат Массачусетс, эта порода была создана путем скрещивания ныне вымершего белого английского терьера с английским бульдогом, с целью получения компаньона с мягким характером и отличительным внешним видом. Признанная Американским клубом собаководства (AKC) в 1893 году, бостон-терьер с тех пор стал любимым компаньоном во всем мире. Физически бостон-терьеры — небольшие, компактные собаки с квадратным телосложением. Они обычно весят от 6,8 до 11,3 кг и имеют рост около 38–43 см в холке. Их короткая, гладкая шерсть бывает тигрового, темно-бурого ('тюленьего') или черного цвета, всегда с характерными белыми отметинами, напоминающими смокинг. Большие, круглые глаза и стоячие уши придают породе настороженное и дружелюбное выражение. По темпераменту бостон-терьеры известны своей привязанностью и дружелюбным характером. Они умны и стремятся угодить, что делает их относительно легкими в дрессировке. Их мягкий нрав делает их отличными компаньонами для семей, включая тех, у кого есть дети и другие домашние животные. Хотя они обычно общительны, рекомендуется ранняя социализация для обеспечения всестороннего поведения. Изначально выведенные для компаньонства, бостон-терьеры никогда не использовались широко для работы или спортивных целей. Их основная роль всегда заключалась в том, чтобы быть компаньоном, предоставляя привязанность и дружбу своим владельцам. В современное время бостон-терьеры продолжают быть популярными питомцами благодаря своему управляемому размеру, дружелюбному характеру и адаптивности к различным условиям проживания, включая жизнь в квартире. Отличительными чертами породы являются их характерный 'смокинговый' окрас, выразительные глаза и короткая, квадратная морда. Их брахицефалическая (короткомордая) структура лица придает им уникальный вид, но также требует от владельцев внимательности к возможным затруднениям дыхания, особенно в жаркую или влажную погоду. В целом, бостон-терьер — очаровательная и привязанная порода, которая процветает в компании людей и становится отличным дополнением к многим семьям.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "15-25 pounds",
+    "height": "15-17 inches",
+    "coat": "short, smooth, and sleek",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "minimal; weekly brushing",
+    "lifespan": "11-13 years"
+  },
+  "parameters_rus": {
+    "size": "маленький",
+    "weight": "6,8–11,3 кг",
+    "height": "38–43 см",
+    "coat": "короткая, гладкая, блестящая",
+    "activity": "умеренная",
+    "trainability": "высокая",
+    "grooming": "минимальный; еженедельное расчесывание",
+    "lifespan": "11–13 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Affectionate and loyal",
+      "Intelligent and trainable",
+      "Playful and energetic",
+      "Adaptable to various living situations",
+      "Minimal grooming needs"
+    ],
+    "summary": "Boston Terriers are affectionate, intelligent, and friendly dogs that thrive on human companionship. They are known for their gentle disposition and playful nature, making them excellent family pets.",
+    "with_children": "Boston Terriers are generally good with children, displaying patience and playfulness. Supervision is recommended to ensure safe interactions.",
+    "with_family": "They form strong bonds with family members and enjoy participating in family activities. Their affectionate nature makes them loyal companions.",
+    "with_other_pets": "With proper socialization, they get along well with other pets, including dogs and cats. Early introductions are beneficial.",
+    "with_strangers": "They are typically friendly towards strangers but may be reserved initially. Proper socialization helps them become more outgoing."
+  },
+  "behavior_rus": {
+    "summary": "Бостон-терьеры — привязчивые, умные и дружелюбные собаки, которые процветают в компании людей. Они известны своим мягким нравом и игривым характером, что делает их отличными семейными питомцами.",
+    "with_family": "Они формируют крепкие связи с членами семьи и любят участвовать в семейных мероприятиях. Их привязанность делает их верными компаньонами.",
+    "with_children": "Бостон-терьеры обычно хорошо ладят с детьми, проявляя терпение и игривость. Рекомендуется присмотр для обеспечения безопасных взаимодействий.",
+    "with_other_pets": "При правильной социализации они хорошо уживаются с другими домашними животными, включая собак и кошек. Ранние знакомства полезны.",
+    "with_strangers": "Они обычно дружелюбны к незнакомцам, но могут быть сдержанными вначале. Правильная социализация помогает им стать более общительными.",
+    "special_traits": [
+      "Привязчивые и верные",
+      "Умные и легко обучаемые",
+      "Игривые и энергичные",
+      "Адаптивные к различным условиям проживания",
+      "Минимальные потребности в уходе"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Brachycephalic syndrome",
+      "Patellar luxation",
+      "Eye problems (e.g., cataracts, corneal ulcers)",
+      "Allergies",
+      "Heart disease"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce strain on joints and respiratory system",
+      "Provide regular eye care and monitor for signs of irritation",
+      "Avoid excessive heat and humidity to prevent breathing difficulties",
+      "Regular dental care to prevent periodontal disease",
+      "Routine veterinary check-ups to monitor overall health"
+    ],
+    "summary": "Boston Terriers are generally healthy but are prone to certain breed-specific health issues due to their brachycephalic facial structure and compact build.",
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with existing health conditions."
+  },
+  "health_rus": {
+    "summary": "Бостон-терьеры в целом здоровы, но склонны к определенным породным заболеваниям из-за своей брахицефалической структуры лица и компактного телосложения.",
+    "common_issues": [
+      "Брахицефалический синдром",
+      "Вывих надколенника",
+      "Проблемы с глазами (например, катаракта, язвы роговицы)",
+      "Аллергии",
+      "Сердечные заболевания"
+    ],
+    "prevention_tips": [
+      "Поддерживайте здоровый вес, чтобы снизить нагрузку на суставы и дыхательную систему",
+      "Обеспечивайте регулярный уход за глазами и следите за признаками раздражения",
+      "Избегайте чрезмерной жары и влажности, чтобы предотвратить затруднения дыхания",
+      "Регулярный уход за зубами для предотвращения заболеваний пародонта",
+      "Плановые визиты к ветеринару для мониторинга общего состояния здоровья"
+    ],
+    "vet_checkups": "Не реже одного раза в год; более частые визиты могут потребоваться для пожилых собак или тех, у кого есть существующие заболевания."
+  },
+  "care": {
+    "behavior": "They thrive on human interaction and enjoy playtime and mental stimulation. Regular training sessions strengthen the bond between dog and owner.",
+    "description": "Boston Terriers require moderate exercise, minimal grooming, and regular health monitoring to ensure a happy and healthy life.",
+    "grooming": "Their short coat requires minimal grooming; weekly brushing is sufficient to remove loose hair and maintain coat health.",
+    "health": "Be vigilant for signs of respiratory distress, eye issues, and joint problems. Prompt veterinary attention can prevent complications.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level. Monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "description": "Бостон-терьеры требуют умеренных физических нагрузок, минимального ухода за шерстью и регулярного мониторинга здоровья для обеспечения счастливой и здоровой жизни.",
+    "behavior": "Они процветают при взаимодействии с людьми и любят игры и умственную стимуляцию. Регулярные тренировки укрепляют связь между собакой и владельцем.",
+    "health": "Будьте внимательны к признакам дыхательной недостаточности, проблемам с глазами и суставами. Своевременное обращение к ветеринару может предотвратить осложнения.",
+    "grooming": "Их короткая шерсть требует минимального ухода; еженедельное расчесывание достаточно для удаления выпавших волос и поддержания здоровья шерсти.",
+    "nutrition": "Обеспечьте сбалансированное питание, соответствующее их возрасту, размеру и уровню активности. Контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Boston Terriers good apartment dogs?",
+      "answer": "Yes, their small size and moderate activity level make them well-suited for apartment living."
+    },
+    {
+      "question": "Do Boston Terriers get along with other pets?",
+      "answer": "With proper socialization, they can coexist peacefully with other pets."
+    },
+    {
+      "question": "How much exercise does a Boston Terrier need?",
+      "answer": "They require moderate daily exercise, such as short walks and play sessions."
+    },
+    {
+      "question": "Are Boston Terriers easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable."
+    },
+    {
+      "question": "Do Boston Terriers have health issues?",
+      "answer": "They can be prone to certain health problems like brachycephalic syndrome and eye issues."
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Подходят ли бостон-терьеры для жизни в квартире?",
+      "answer": "Да, их небольшой размер и умеренный уровень активности делают их хорошо подходящими для жизни в квартире."
+    },
+    {
+      "question": "Ладят ли бостон-терьеры с другими домашними животными?",
+      "answer": "При правильной социализации они могут мирно сосуществовать с другими питомцами."
+    },
+    {
+      "question": "Сколько упражнений требуется бостон-терьеру?",
+      "answer": "Им требуется умеренная ежедневная физическая нагрузка, такая как короткие прогулки и игровые сессии."
+    },
+    {
+      "question": "Легко ли дрессировать бостон-терьеров?",
+      "answer": "Да, их интеллект и стремление угодить делают их легко обучаемыми."
+    },
+    {
+      "question": "Имеют ли бостон-терьеры проблемы со здоровьем?",
+      "answer": "Они могут быть склонны к определенным проблемам со здоровьем, таким как брахицефалический синдром и заболевания глаз."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Boston_Terrier",
+    "https://www.petmd.com/dog/breeds/boston-terrier",
+    "https://www.webmd.com/pets/dogs/what-to-know-boston-terrier/",
+    "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/small-dogs/boston-terrier",
+    "https://www.akc.org/dog-breeds/boston-terrier/",
+    "https://ru.wikipedia.org/wiki/Бостон-терьер",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/boston_terrier",
+    "https://bko.by/product/boston-terier/",
+    "https://dog.adgth.ru/breed/boston_terrier.htm",
+    "https://www.pedigree.ru/porody/bostonskiyj-terier",
+    "https://nkpboston.narod.ru/about.html",
+    "https://www.kleo.ru/encyclopedia/dog/boston_terrier.shtml",
+    "https://www.purinaone.ru/dog/articles/breeds/boston-terer",
+    "https://mypets.kz/dog/boston-terer/",
+    "https://pets.wikireading.ru/2190",
+    "https://www.syl.ru/article/390861/boston-terer-foto-i-opisanie-porodyi-otzyivyi-vladeltsev",
+    "https://tutknow.ru/animals/7678-boston-terer-osobennosti-soderzhaniya.html"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "scottish-deerhound",
+  "name": "Scottish Deerhound",
+  "full_description": "<p>The Scottish Deerhound, often referred to as the 'Royal Dog of Scotland,' is a breed with a rich heritage dating back to the Middle Ages. Originally bred in the Scottish Highlands, these dogs were developed to hunt red deer by coursing, utilizing their exceptional speed and keen sight. Their noble stature and hunting prowess made them highly valued among Scottish chieftains and nobility. Physically, the Scottish Deerhound resembles a larger, more robust Greyhound, standing between 28 to 32 inches tall and weighing 75 to 110 pounds. They possess a long, narrow head with a tapering muzzle, dark eyes, and small, folded ears. Their coat is harsh and wiry, typically in shades of blue-gray, gray, or brindle, providing protection against the harsh Scottish climate. Temperamentally, Deerhounds are gentle, dignified, and affectionate. They are known for their calm demeanor indoors, often content to lounge, yet they exhibit bursts of energy and enthusiasm during outdoor activities. Their independent nature can sometimes pose challenges in training, requiring patience and consistency. Historically bred for hunting, they possess a strong prey drive and excel in activities that allow them to utilize their speed and agility. In modern times, while their role as hunters has diminished, Scottish Deerhounds have found a place as cherished companions, admired for their grace and gentle nature. They are relatively rare, ranking 154th in popularity among breeds recognized by the American Kennel Club. Notable characteristics include their combination of size and speed, a friendly disposition, and a distinctive, weather-resistant coat.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "75-110 pounds",
+    "height": "28-32 inches",
+    "coat": "harsh, wiry, weather-resistant",
+    "activity": "moderate to high",
+    "trainability": "moderate",
+    "grooming": "weekly brushing; occasional trimming",
+    "lifespan": "8-11 years"
+  },
+  "behavior": {
+    "summary": "Scottish Deerhounds are gentle, dignified, and affectionate dogs, known for their calm demeanor indoors and energetic bursts during outdoor activities.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and affection, and thrive on companionship.",
+    "with_children": "Generally good with children, they are gentle and patient, though supervision is recommended due to their large size.",
+    "with_other_pets": "They get along well with other dogs but may chase smaller animals due to their strong prey drive.",
+    "with_strangers": "Typically reserved but polite, they are not aggressive and may be aloof with unfamiliar people.",
+    "special_traits": [
+      "Gentle and affectionate",
+      "Strong prey drive",
+      "Independent thinker",
+      "Calm indoors",
+      "Energetic outdoors"
+    ]
+  },
+  "health": {
+    "summary": "Scottish Deerhounds are generally healthy but are predisposed to certain conditions, including heart issues and bone cancer.",
+    "common_issues": [
+      "Dilated cardiomyopathy",
+      "Osteosarcoma",
+      "Bloat (Gastric Dilatation-Volvulus)",
+      "Cystinuria",
+      "Factor VII deficiency"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Balanced diet and weight management",
+      "Avoid vigorous exercise after meals",
+      "Early detection screenings for heart and bone health",
+      "Genetic testing for inherited conditions"
+    ],
+    "vet_checkups": "Semi-annual check-ups recommended"
+  },
+  "care": {
+    "description": "Scottish Deerhounds require regular exercise, consistent training, and routine grooming to maintain their health and well-being.",
+    "behavior": "Early socialization and positive reinforcement training are essential to manage their independent nature and strong prey drive.",
+    "health": "Monitor for signs of common health issues and maintain a regular schedule of veterinary visits for preventive care.",
+    "grooming": "Weekly brushing and occasional trimming of the wiry coat help maintain its condition and reduce shedding.",
+    "nutrition": "Provide a balanced diet appropriate for large breeds, divided into two meals daily to reduce the risk of bloat."
+  },
+  "faq": [
+    {
+      "question": "Are Scottish Deerhounds good with children?",
+      "answer": "Yes, they are gentle and patient with children, but supervision is advised due to their large size."
+    },
+    {
+      "question": "How much exercise does a Scottish Deerhound need?",
+      "answer": "They require at least one hour of exercise daily to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Scottish Deerhounds shed a lot?",
+      "answer": "They shed minimally; regular brushing helps manage shedding and keeps their coat healthy."
+    },
+    {
+      "question": "Are Scottish Deerhounds easy to train?",
+      "answer": "They are intelligent but can be independent; consistent, positive reinforcement training is recommended."
+    },
+    {
+      "question": "What is the average lifespan of a Scottish Deerhound?",
+      "answer": "The average lifespan is between 8 to 11 years."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/dog-breeds/scottish-deerhound/",
+    "https://www.petmd.com/dog/breeds/scottish-deerhound",
+    "https://www.hillspet.com.ph/dog-care/dog-breeds/scottish-deerhound",
+    "https://www.webmd.com/pets/dogs/what-to-know-scottish-deerhound",
+    "https://animalcorner.org/dog-breeds/scottish-deerhound/"
+  ]
+}

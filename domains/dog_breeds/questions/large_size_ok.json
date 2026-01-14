@@ -1,0 +1,84 @@
+{
+  "need_id": "large_size_ok",
+  "formula": "size_large_or_more",
+  "formula_reasoning": "Признак size_large_or_more показывает, что порода относится к крупным или гигантским (25 кг и больше). Этот признак отражает допустимость или предпочтение пользователя к собакам большого размера. Если пользователь не против крупной собаки, то можно рекомендовать породы с этим признаком.",
+  "questions": [
+    {
+      "id": "large_size_ok_q1",
+      "text": "У вас достаточно места дома для крупной собаки?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = крупная собака возможна. Нет = места мало, крупная собака не подойдёт."
+    },
+    {
+      "id": "large_size_ok_q2",
+      "text": "Ваша семья не против, если собака будет крупной породы?",
+      "weight": 0.75,
+      "style": "situational",
+      "verification": "Да = домашние согласны на большую собаку. Нет = кто-то против крупной собаки."
+    },
+    {
+      "id": "large_size_ok_q3",
+      "text": "Вы когда-либо держали собак весом более 25 кг?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = есть опыт с крупными породами. Нет = не сталкивались с большими собаками."
+    },
+    {
+      "id": "large_size_ok_q4",
+      "text": "Вам удобно выгуливать сильную и крупную собаку?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = готовы справиться с крупной собакой на прогулке. Нет = физически неудобно или есть опасения."
+    },
+    {
+      "id": "large_size_ok_q5",
+      "text": "Вам не важно, сколько места занимает собака дома?",
+      "weight": 0.5,
+      "style": "indirect",
+      "verification": "Да = размер не принципиален. Нет = важен компактный питомец."
+    }
+  ],
+  "need_name": "Large Size OK",
+  "need_description": "Large size is acceptable",
+  "block": "size_constraints",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

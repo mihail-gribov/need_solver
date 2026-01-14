@@ -1,0 +1,84 @@
+{
+  "need_id": "small_size",
+  "formula": "size_toy | size_small | size_small_or_less",
+  "formula_reasoning": "The need for a small-sized dog is best represented by breeds classified as toy, small, or small-or-less in size. These features directly relate to the physical size and weight of the dog, matching constraints such as limited living space or a preference for compact pets.",
+  "questions": [
+    {
+      "id": "small_size_q1",
+      "text": "В вашем жилье ограничено пространство для содержания крупной собаки?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = места мало, нужен маленький питомец. Нет = пространство не ограничено."
+    },
+    {
+      "id": "small_size_q2",
+      "text": "Вам удобнее, если собака занимает мало места дома?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = предпочтение небольшим размерам. Нет = размер не критичен."
+    },
+    {
+      "id": "small_size_q3",
+      "text": "Планируете ли вы часто брать собаку с собой в поездки или на общественный транспорт?",
+      "weight": 0.6,
+      "style": "situational",
+      "verification": "Да = предпочтительна небольшая собака. Нет = размер не существенен."
+    },
+    {
+      "id": "small_size_q4",
+      "text": "Среди членов вашей семьи есть дети или пожилые люди, которым проще обращаться с небольшой собакой?",
+      "weight": 0.5,
+      "style": "situational",
+      "verification": "Да = маленькая собака предпочтительнее. Нет = размер не важен для семьи."
+    },
+    {
+      "id": "small_size_q5",
+      "text": "Вам важно, чтобы собака весила до 10 кг?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = нужен небольшой вес (малый размер). Нет = вес не важен."
+    }
+  ],
+  "need_name": "Small Size",
+  "need_description": "Small size required",
+  "block": "size_constraints",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

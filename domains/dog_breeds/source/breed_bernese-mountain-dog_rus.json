@@ -1,0 +1,163 @@
+{
+  "id": "bernese-mountain-dog",
+  "name": "Bernese Mountain Dog",
+  "name_rus": "Бернский зенненхунд",
+  "full_description": "<p>The Bernese Mountain Dog, also known as the Berner Sennenhund, is a large, sturdy breed originating from the Swiss Alps, particularly the canton of Bern. Developed over 2,000 years ago, these dogs were brought to Switzerland by invading Romans and were utilized as general-purpose farm dogs. Their primary roles included driving cattle, pulling carts laden with goods, and guarding farms against predators.</p>\n<p>Physically, Bernese Mountain Dogs are notable for their striking tri-colored coats: a jet-black base with rich rust markings on the cheeks, eyebrows, and limbs, complemented by white markings on the chest, nose, tail tip, and sometimes the feet. They possess a broad chest, strong loins, and a muscular build, with males typically standing 25 to 27.5 inches tall and weighing between 80 to 115 pounds, while females are slightly smaller at 23 to 26 inches tall and weighing 70 to 95 pounds.</p>\n<p>Temperamentally, Berners are affectionate, calm, and good-natured. They form strong bonds with their families and are particularly patient with children, making them excellent family companions. Their intelligence and eagerness to please render them highly trainable, though they can be somewhat reserved around strangers.</p>\n<p>Historically, Bernese Mountain Dogs were valued for their versatility on farms. They excelled in pulling carts, a task they performed with remarkable strength, and were adept at herding cattle. Their protective nature also made them reliable watchdogs. In modern times, while they are still capable of performing these tasks, they are primarily cherished as loyal family pets and companions.</p>\n<p>Notable characteristics of the breed include their thick, long coats, which provide insulation against cold weather but also result in significant shedding, especially during seasonal changes. They are known for their gentle disposition, making them suitable for families with children. However, potential owners should be aware of their relatively short lifespan, averaging 7 to 10 years, and their susceptibility to certain health issues, including hip and elbow dysplasia and specific cancers.</p>",
+  "full_description_rus": "<p>Бернский зенненхунд, также известный как бернская горная собака, — крупная, крепкая порода, происходящая из швейцарских Альп, особенно из кантона Берн. Развитая более 2000 лет назад, эти собаки были привезены в Швейцарию римскими завоевателями и использовались в качестве универсальных фермерских собак. Их основные задачи включали перегон скота, перевозку телег с товарами и охрану ферм от хищников.</p>\n<p>Физически бернские зенненхунды выделяются своей эффектной трехцветной шерстью: черный основной цвет с насыщенными рыжими отметинами на щеках, бровях и конечностях, дополненными белыми отметинами на груди, морде, кончике хвоста и иногда на лапах. Они обладают широкой грудью, крепкой поясницей и мускулистым телосложением. Рост кобелей обычно составляет 64–70 см, вес — от 38 до 50 кг; суки немного меньше: рост 58–66 см, вес 30–40 кг.</p>\n<p>По характеру бернские зенненхунды ласковы, спокойны и добродушны. Они формируют крепкие связи со своими семьями и особенно терпеливы с детьми, что делает их отличными семейными компаньонами. Их интеллект и стремление угодить делают их легко обучаемыми, хотя они могут быть несколько сдержанными с незнакомцами.</p>\n<p>Исторически бернские зенненхунды ценились за свою универсальность на фермах. Они превосходно справлялись с перевозкой телег, выполняя эту задачу с замечательной силой, и были искусны в выпасе скота. Их защитная натура также делала их надежными сторожевыми собаками. В современное время, хотя они все еще способны выполнять эти задачи, они в основном ценятся как преданные семейные питомцы и компаньоны.</p>\n<p>Отличительными чертами породы являются их густая, длинная шерсть, обеспечивающая изоляцию от холода, но также приводящая к значительной линьке, особенно в сезонные периоды. Они известны своим мягким нравом, что делает их подходящими для семей с детьми. Однако потенциальным владельцам следует учитывать их относительно короткую продолжительность жизни, в среднем 7–10 лет, и их предрасположенность к определенным проблемам со здоровьем, включая дисплазию тазобедренных и локтевых суставов, а также некоторые виды рака.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: 80-115 pounds; Females: 70-95 pounds",
+    "height": "Males: 25-27.5 inches; Females: 23-26 inches",
+    "coat": "long, thick, tri-colored (black, rust, and white)",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "regular brushing; increased during shedding seasons",
+    "lifespan": "7-10 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "Кобели: 38–50 кг; Суки: 30–40 кг",
+    "рост": "Кобели: 64–70 см; Суки: 58–66 см",
+    "шерсть": "длинная, густая, трехцветная (черный, рыжий и белый)",
+    "активность": "умеренная",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчесывание; усиленный уход в периоды линьки",
+    "продолжительность жизни": "7–10 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Strong attachment to family",
+      "Gentle with children",
+      "Intelligent and trainable",
+      "Protective instincts",
+      "Calm demeanor"
+    ],
+    "summary": "Bernese Mountain Dogs are affectionate, calm, and good-natured, forming strong bonds with their families and displaying patience with children.",
+    "with_children": "Known for their gentle and patient nature, they are excellent companions for children, often tolerating playful behavior.",
+    "with_family": "They are deeply loyal and thrive on close companionship, often seeking to be near their family members.",
+    "with_other_pets": "Generally friendly towards other animals, especially when socialized from a young age.",
+    "with_strangers": "Can be reserved around strangers but are not typically aggressive; early socialization helps them become more comfortable."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Бернские зенненхунды ласковы, спокойны и добродушны, формируют крепкие связи со своими семьями и проявляют терпение к детям.",
+    "с семьёй": "Они глубоко преданы и стремятся к тесному общению, часто стараясь быть рядом с членами семьи.",
+    "с детьми": "Известны своей мягкостью и терпеливостью, являются отличными компаньонами для детей, часто терпимо относясь к их играм.",
+    "с другими животными": "Обычно дружелюбны к другим животным, особенно при социализации с раннего возраста.",
+    "с незнакомцами": "Могут быть сдержанными с незнакомцами, но обычно не агрессивны; ранняя социализация помогает им чувствовать себя более комфортно.",
+    "особые черты": [
+      "Сильная привязанность к семье",
+      "Ласковы с детьми",
+      "Интеллектуальны и легко обучаемы",
+      "Защитные инстинкты",
+      "Спокойный нрав"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Certain cancers",
+      "Bloat (gastric dilatation-volvulus)",
+      "Progressive retinal atrophy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide appropriate exercise",
+      "Screen for genetic conditions",
+      "Monitor for signs of bloat"
+    ],
+    "summary": "Bernese Mountain Dogs have a relatively short lifespan and are prone to certain health issues, necessitating proactive care and regular veterinary check-ups.",
+    "vet_checkups": "At least once a year; more frequent as they age or if health issues arise."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Бернские зенненхунды имеют относительно короткую продолжительность жизни и склонны к определенным проблемам со здоровьем, что требует проактивного ухода и регулярных ветеринарных осмотров.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Некоторые виды рака",
+      "Вздутие живота (желудочная дилатация-волвулюс)",
+      "Прогрессирующая атрофия сетчатки"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здорового веса",
+      "Обеспечение соответствующих физических нагрузок",
+      "Скрининг на генетические заболевания",
+      "Мониторинг признаков вздутия живота"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще с возрастом или при возникновении проблем со здоровьем."
+  },
+  "care": {
+    "behavior": "They thrive on companionship and should not be left alone for extended periods; regular interaction and mental stimulation are important.",
+    "description": "Bernese Mountain Dogs require attentive care, including regular grooming, exercise, and health monitoring to ensure their well-being.",
+    "grooming": "Brush their coat several times a week to manage shedding and prevent matting; more frequent grooming is needed during seasonal shedding.",
+    "health": "Be vigilant for signs of common health issues and consult a veterinarian promptly if concerns arise.",
+    "nutrition": "Provide a balanced diet suitable for large breeds; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "описание": "Бернские зенненхунды требуют внимательного ухода, включая регулярный груминг, физические нагрузки и мониторинг здоровья для обеспечения их благополучия.",
+    "поведение и характер": "Они процветают в обществе и не должны оставаться в одиночестве на длительные периоды; регулярное взаимодействие и умственная стимуляция важны.",
+    "здоровье и профилактика": "Будьте внимательны к признакам распространенных проблем со здоровьем и своевременно консультируйтесь с ветеринаром при возникновении беспокойств.",
+    "груминг и уход": "Расчесывайте их шерсть несколько раз в неделю для контроля линьки и предотвращения образования колтунов; в периоды сезонной линьки требуется более частый уход.",
+    "питание и активность": "Обеспечьте сбалансированное питание, подходящее для крупных пород; контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Bernese Mountain Dogs good with children?",
+      "answer": "Yes, they are known for their gentle and patient nature, making them excellent companions for children."
+    },
+    {
+      "question": "How much exercise do Bernese Mountain Dogs need?",
+      "answer": "They require moderate daily exercise, such as walks or playtime, to maintain their health and happiness."
+    },
+    {
+      "question": "Do Bernese Mountain Dogs shed a lot?",
+      "answer": "Yes, they have a thick coat that sheds year-round, with increased shedding during spring and fall."
+    },
+    {
+      "question": "What is the average lifespan of a Bernese Mountain Dog?",
+      "answer": "Their average lifespan is between 7 to 10 years."
+    },
+    {
+      "question": "Are Bernese Mountain Dogs easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, which makes training relatively straightforward."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Бернские зенненхунды хорошо ладят с детьми?",
+      "ответ": "Да, они известны своей мягкостью и терпеливостью, что делает их отличными компаньонами для детей."
+    },
+    {
+      "вопрос": "Сколько физических нагрузок требуется бернским зенненхундам?",
+      "ответ": "Им необходимы умеренные ежедневные физические нагрузки, такие как прогулки или игры, для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Бернские зенненхунды сильно линяют?",
+      "ответ": "Да, у них густая шерсть, которая линяет круглый год, с увеличением линьки весной и осенью."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни бернского зенненхунда?",
+      "ответ": "Их средняя продолжительность жизни составляет от 7 до 10 лет."
+    },
+    {
+      "вопрос": "Бернские зенненхунды легко поддаются дрессировке?",
+      "ответ": "Да, они интеллектуальны и стремятся угодить, что делает дрессировку относительно простой."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/Bernese-mountain-dog",
+    "https://www.purina.com/dogs/dog-breeds/bernese-mountain-dog",
+    "https://www.petmd.com/dog/breeds/bernese-mountain-dog",
+    "https://www.hillspet.com/dog-care/dog-breeds/bernese-mountain-dog",
+    "https://www.purina.kz/dogs/dog-breeds/library/bernese_mountain",
+    "https://www.hillspet.ru/dog-care/dog-breeds/bernese-mountain-dog.html",
+    "https://www.pedigree.ru/porody/bernskijzennenhund",
+    "https://www.proplan.ru/dog/breeds/bernskij-zennenhund/",
+    "https://pets.mail.ru/dog-breeds/bernskij-zennenhund/",
+    "https://ritmmsk.ru/articles/animals/dogs/bernskiy-zennenhund-alpiyskiy-gigant-s-drevney-istoriey-i-unikalnymi-kachestvami/",
+    "https://animaljournal.ru/article/bernskiy_zennenhund",
+    "https://ru.wikipedia.org/wiki/Бернский_зенненхунд"
+  ]
+}

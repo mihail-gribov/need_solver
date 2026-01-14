@@ -1,0 +1,161 @@
+{
+  "id": "golden-retriever",
+  "name": "Golden Retriever",
+  "name_rus": "Золотистый ретривер",
+  "full_description": "<p>The Golden Retriever is a medium to large-sized breed renowned for its friendly disposition, intelligence, and striking golden coat. Originating in Scotland during the late 19th century, the breed was developed by Sir Dudley Marjoribanks, later known as Lord Tweedmouth. Aiming to create the ideal retriever suited for the Scottish Highlands' rugged terrain and wet conditions, he crossbred a yellow Wavy-Coated Retriever named Nous with a Tweed Water Spaniel named Belle. Subsequent infusions of Bloodhound, Irish Setter, and more Tweed Water Spaniels refined the breed, resulting in the versatile and affable Golden Retriever we know today. Recognized by the Kennel Club in 1913, the breed quickly gained popularity across the globe.</p>\n<p>Physically, Golden Retrievers exhibit a symmetrical and balanced build. Males typically stand between 23 to 24 inches (58 to 61 cm) at the withers, while females range from 21.5 to 22.5 inches (55 to 57 cm). Their weight varies, with males weighing between 65 to 75 pounds (29 to 34 kg) and females between 55 to 65 pounds (25 to 29 kg). The breed's most distinctive feature is its dense, water-repellent double coat, which can be wavy or straight and comes in various shades of gold. Feathering is present on the neck, legs, thighs, underside, and tail, adding to their elegant appearance.</p>\n<p>Golden Retrievers are celebrated for their gentle and friendly temperament. They are intelligent, eager to please, and highly trainable, making them excellent companions for families. Their patience and tolerance make them particularly good with children. While they are sociable and generally get along well with other animals, their friendly nature means they are not typically effective as guard dogs.</p>\n<p>Originally bred for retrieving game during hunting, Golden Retrievers possess a strong instinct to retrieve and an excellent sense of smell. These traits have made them invaluable in various working roles, including search and rescue, detection, and as guide dogs for the visually impaired. Their versatility and adaptability have contributed to their enduring popularity.</p>\n<p>In modern times, Golden Retrievers are among the most popular dog breeds worldwide. They excel in various canine sports, including obedience, agility, and field trials. Their friendly nature and intelligence also make them ideal therapy and assistance dogs. Notable Golden Retrievers include Liberty, the pet of U.S. President Gerald Ford, and Buddy, the canine actor from the 'Air Bud' film series.</p>\n<p>Distinctive characteristics of the breed include their 'soft mouth,' allowing them to carry game without damage, and their love for water, stemming from their origins as waterfowl retrievers. Their expressive eyes and ever-wagging tails further endear them to dog lovers everywhere.</p>",
+  "full_description_rus": "<p>Золотистый ретривер — это порода собак среднего и крупного размера, известная своим дружелюбным характером, высоким интеллектом и эффектной золотистой шерстью. Порода была выведена в Шотландии в конце XIX века сэром Дадли Маджорибенксом, позже известным как лорд Твидмаут. Стремясь создать идеального ретривера, подходящего для суровых условий Шотландского нагорья, он скрестил жёлтого волнистошёрстного ретривера по кличке Нус с твид-уотер-спаниелем по кличке Белль. В последующем добавление кровей бладхаунда, ирландского сеттера и других твид-уотер-спаниелей привело к появлению универсального и дружелюбного золотистого ретривера, известного нам сегодня. Порода была признана Британским клубом собаководства в 1913 году и быстро завоевала популярность во всём мире.</p>\n<p>Физически золотистые ретриверы обладают симметричным и сбалансированным телосложением. Рост кобелей обычно составляет от 58 до 61 см в холке, сук — от 55 до 57 см. Вес кобелей варьируется от 29 до 34 кг, сук — от 25 до 29 кг. Отличительной чертой породы является плотная, водоотталкивающая двойная шерсть, которая может быть волнистой или прямой и представлена в различных оттенках золотистого цвета. Украшающие волосы присутствуют на шее, ногах, бёдрах, нижней части тела и хвосте, придавая собакам элегантный вид.</p>\n<p>Золотистые ретриверы славятся своим мягким и дружелюбным темпераментом. Они умны, стремятся угодить и легко поддаются дрессировке, что делает их отличными компаньонами для семей. Их терпеливость и толерантность особенно ценятся в общении с детьми. Хотя они общительны и обычно хорошо ладят с другими животными, их дружелюбный характер означает, что они не являются эффективными сторожевыми собаками.</p>\n<p>Изначально выведенные для подачи дичи во время охоты, золотистые ретриверы обладают сильным инстинктом к апортировке и отличным обонянием. Эти качества сделали их незаменимыми в различных рабочих ролях, включая поисково-спасательные операции, обнаружение веществ и в качестве собак-поводырей для людей с нарушениями зрения. Их универсальность и адаптивность способствовали их неизменной популярности.</p>\n<p>В современном мире золотистые ретриверы входят в число самых популярных пород собак. Они преуспевают в различных видах собачьего спорта, включая послушание, аджилити и полевые испытания. Их дружелюбный характер и интеллект также делают их идеальными терапевтическими и вспомогательными собаками. Известные золотистые ретриверы включают Либерти, питомца президента США Джеральда Форда, и Бадди, собаку-актёра из серии фильмов 'Air Bud'.</p>\n<p>Отличительными чертами породы являются их 'мягкий рот', позволяющий переносить дичь, не повреждая её, и любовь к воде, обусловленная их происхождением как ретриверов водоплавающей дичи. Их выразительные глаза и постоянно виляющие хвосты ещё больше располагают к ним любителей собак.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "Males: 29-34 kg; Females: 25-29 kg",
+    "height": "Males: 58-61 cm; Females: 55-57 cm",
+    "coat": "dense, water-repellent double coat; wavy or straight; shades of gold",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; moderate shedding",
+    "lifespan": "10-13 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "Кобели: 29-34 кг; Суки: 25-29 кг",
+    "рост": "Кобели: 58-61 см; Суки: 55-57 см",
+    "шерсть": "плотная, водоотталкивающая двойная шерсть; волнистая или прямая; оттенки золотистого",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "регулярное расчёсывание; умеренная линька",
+    "продолжительность жизни": "10-13 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "highly intelligent and trainable",
+      "strong retrieving instinct",
+      "affectionate and loyal",
+      "patient and gentle with children",
+      "sociable with other animals"
+    ],
+    "summary": "Golden Retrievers are friendly, intelligent, and eager to please, making them excellent family companions and highly trainable for various roles.",
+    "with_children": "Known for their patience and gentleness, they are excellent companions for children, often displaying a nurturing attitude.",
+    "with_family": "They are affectionate and loyal, forming strong bonds with family members and thriving on human interaction.",
+    "with_other_pets": "Generally sociable, they get along well with other dogs and pets, especially when properly socialized from a young age.",
+    "with_strangers": "Their friendly nature extends to strangers, making them poor guard dogs but excellent in social settings."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Золотистые ретриверы дружелюбны, умны и стремятся угодить, что делает их отличными семейными компаньонами и легко поддающимися дрессировке для различных ролей.",
+    "с семьёй": "Они ласковы и преданны, формируют крепкие связи с членами семьи и процветают в общении с людьми.",
+    "с детьми": "Известны своей терпеливостью и мягкостью, они являются отличными компаньонами для детей, часто проявляя заботливое отношение.",
+    "с другими животными": "Обычно общительны, хорошо ладят с другими собаками и питомцами, особенно при правильной социализации с раннего возраста.",
+    "с незнакомцами": "Их дружелюбный характер распространяется на незнакомцев, что делает их плохими сторожевыми собаками, но отличными в социальных ситуациях.",
+    "особые черты": [
+      "высокий интеллект и обучаемость",
+      "сильный инстинкт к апортировке",
+      "ласковость и преданность",
+      "терпеливость и мягкость с детьми",
+      "общительность с другими животными"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "hip and elbow dysplasia",
+      "various cancers (e.g., hemangiosarcoma, lymphoma)",
+      "heart diseases (e.g., subvalvular aortic stenosis)",
+      "eye conditions (e.g., cataracts, progressive retinal atrophy)",
+      "skin allergies"
+    ],
+    "prevention_tips": [
+      "regular exercise to maintain healthy weight",
+      "balanced diet to support overall health",
+      "routine health screenings for early detection of issues",
+      "genetic testing of breeding stock to reduce hereditary conditions",
+      "consistent grooming to monitor skin and coat health"
+    ],
+    "summary": "Golden Retrievers are generally healthy but are predisposed to certain genetic conditions, necessitating regular veterinary care and a healthy lifestyle.",
+    "vet_checkups": "bi-annual checkups recommended; more frequent visits for senior dogs or those with health concerns"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Золотистые ретриверы в целом здоровы, но имеют предрасположенность к определённым генетическим заболеваниям, что требует регулярного ветеринарного ухода и здорового образа жизни.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренных и локтевых суставов",
+      "различные виды рака (например, гемангиосаркома, лимфома)",
+      "заболевания сердца (например, субаортальный стеноз)",
+      "глазные заболевания (например, катаракта, прогрессирующая атрофия сетчатки)",
+      "кожные аллергии"
+    ],
+    "советы по профилактике": [
+      "регулярные физические нагрузки для поддержания здорового веса",
+      "сбалансированное питание для общего здоровья",
+      "плановые медицинские осмотры для раннего выявления проблем",
+      "генетическое тестирование племенного поголовья для снижения наследственных заболеваний",
+      "постоянный уход за шерстью для контроля состояния кожи и шерсти"
+    ],
+    "рекомендуемые осмотры": "рекомендуются полугодовые осмотры; более частые визиты для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "behavior": "They thrive on companionship and should not be left alone for extended periods; regular interaction and training sessions are beneficial.",
+    "description": "Golden Retrievers require regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "grooming": "Regular brushing (at least twice a week) is necessary to manage shedding and maintain coat health; more frequent grooming during seasonal shedding periods.",
+    "health": "A balanced diet, regular exercise, and routine veterinary care are essential to prevent common health issues.",
+    "nutrition": "Provide high-quality dog food appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "поведение и характер": "Они нуждаются в общении и не должны оставаться одни на длительное время; регулярное взаимодействие и тренировки полезны.",
+    "краткое описание ухода": "Золотистые ретриверы требуют регулярных физических нагрузок, умственной стимуляции и ухода за шерстью для поддержания здоровья и счастья.",
+    "груминг и уход": "Регулярное расчёсывание (не менее двух раз в неделю) необходимо для контроля линьки и поддержания здоровья шерсти; более частый уход во время сезонной линьки.",
+    "здоровье и профилактика": "Сбалансированное питание, регулярные физические нагрузки и плановые ветеринарные осмотры необходимы для предотвращения распространённых проблем со здоровьем.",
+    "питание и активность": "Обеспечьте высококачественный корм, соответствующий возрасту, размеру и уровню активности; контролируйте потребление пищи для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Golden Retrievers good for first-time dog owners?",
+      "answer": "Yes, their friendly nature and trainability make them suitable for first-time owners."
+    },
+    {
+      "question": "Do Golden Retrievers require a lot of exercise?",
+      "answer": "Yes, they need regular physical activity to stay healthy and happy."
+    },
+    {
+      "question": "Are Golden Retrievers prone to health issues?",
+      "answer": "They can be susceptible to certain genetic conditions; regular vet checkups are important."
+    },
+    {
+      "question": "Do Golden Retrievers get along with other pets?",
+      "answer": "Generally, they are sociable and can coexist well with other pets when properly socialized."
+    },
+    {
+      "question": "How often should I groom my Golden Retriever?",
+      "answer": "Regular brushing at least twice a week is recommended; more during shedding seasons."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли золотистые ретриверы для владельцев без опыта?",
+      "ответ": "Да, их дружелюбный характер и обучаемость делают их подходящими для владельцев без опыта."
+    },
+    {
+      "вопрос": "Требуют ли золотистые ретриверы много физических нагрузок?",
+      "ответ": "Да, им необходима регулярная физическая активность для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Склонны ли золотистые ретриверы к проблемам со здоровьем?",
+      "ответ": "Они могут быть подвержены определённым генетическим заболеваниям; регулярные визиты к ветеринару важны."
+    },
+    {
+      "вопрос": "Ладят ли золотистые ретриверы с другими питомцами?",
+      "ответ": "Обычно они общительны и могут хорошо уживаться с другими питомцами при правильной социализации."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за шерстью золотистого ретривера?",
+      "ответ": "Рекомендуется регулярное расчёсывание не менее двух раз в неделю; чаще во время сезонной линьки."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Golden_Retriever",
+    "https://grca.org/about-the-breed/",
+    "https://www.thekennelclub.org.uk/breed-standards/gundog/retriever-golden/",
+    "https://www.hillspet.com/dog-care/dog-breeds/golden-retriever",
+    "https://www.gooddog.com/breeds/golden-retriever",
+    "https://ru.wikipedia.org/wiki/Золотистый_ретривер",
+    "https://www.purina.ru/find-a-pet/dog-breeds/zolotistyy-retriver",
+    "https://www.hillspet.ru/dog-care/dog-breeds/golden-retriever",
+    "https://lenta.ru/articles/2024/04/20/poroda-zolotistyy-retriver/",
+    "https://royalcanin.ru/dog-breed/golden-retriever"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "afghan-hound",
+  "name": "Afghan Hound",
+  "full_description": "<p>The Afghan Hound is an ancient and distinguished breed, renowned for its elegance, unique appearance, and rich history. Originating from the rugged terrains of Afghanistan, this breed was developed to hunt game across mountainous landscapes, utilizing its speed, agility, and keen eyesight. The Afghan Hound's lineage traces back thousands of years, with its ancestors serving as versatile sighthounds in the Middle East, adept at hunting, herding, and guarding. Physically, the Afghan Hound is a medium to large-sized dog, standing between 24 to 29 inches tall and weighing approximately 45 to 65 pounds. Its most striking feature is its long, fine, and silky coat, which comes in a variety of colors including black, cream, red, brindle, blue, gray, and combinations thereof. The breed's distinctive appearance is further accentuated by a prominent topknot, a unique coat pattern with shorter hair on the back (saddle), and a tail that ends in a ring or curve. The Afghan Hound's temperament is characterized by a blend of dignity and aloofness, often displaying an independent and self-assured demeanor. While they can be reserved with strangers, they are known to be loyal and affectionate with their families. Their independent nature can sometimes be mistaken for stubbornness, making consistent and patient training essential. Historically, Afghan Hounds were bred for hunting large game such as gazelles and snow leopards, relying on their speed and keen vision. In modern times, while they are less commonly used for hunting, they excel in dog sports like lure coursing and are cherished as companion animals. Their unique combination of beauty, athleticism, and distinctive personality continues to captivate dog enthusiasts worldwide.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "45-65 lbs",
+    "height": "24-29 in",
+    "coat": "long, fine, silky",
+    "activity": "moderate to high",
+    "trainability": "moderate",
+    "grooming": "high; requires regular brushing and maintenance",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "The Afghan Hound is dignified and aloof, often displaying an independent and self-assured demeanor. While reserved with strangers, they are loyal and affectionate with their families.",
+    "with_family": "Affectionate and loyal, forming strong bonds with family members. They enjoy companionship but also appreciate their independence.",
+    "with_children": "Generally good with older children who understand their aloof nature; supervision is recommended with young children due to their independent temperament.",
+    "with_other_pets": "May coexist with other pets if properly socialized; however, their strong prey drive can be a concern with smaller animals.",
+    "with_strangers": "Often reserved or aloof around strangers, requiring proper socialization to ensure well-mannered interactions.",
+    "special_traits": [
+      "Independent thinker",
+      "High prey drive",
+      "Sensitive to harsh training methods",
+      "Requires consistent, positive reinforcement",
+      "Enjoys open spaces and exercise"
+    ]
+  },
+  "health": {
+    "summary": "Afghan Hounds are generally healthy but are prone to certain conditions such as hip dysplasia, allergies, and sensitivity to anesthesia. Regular veterinary care and a healthy lifestyle are essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Allergies",
+      "Sensitivity to anesthesia",
+      "Chylothorax",
+      "Cancer"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy diet and weight",
+      "Provide regular exercise",
+      "Monitor for signs of allergies",
+      "Avoid exposure to harmful substances"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "Afghan Hounds require dedicated care, including regular grooming, consistent training, and ample exercise to maintain their health and well-being.",
+    "behavior": "Due to their independent nature, Afghan Hounds benefit from patient, consistent training using positive reinforcement techniques. Early socialization is crucial.",
+    "health": "Regular veterinary check-ups and a balanced diet are essential to prevent common health issues. Monitoring for signs of allergies or other conditions is important.",
+    "grooming": "Their long, silky coat requires regular brushing to prevent matting and tangling. Professional grooming may be necessary to maintain coat health.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is crucial. Portion control is important to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Afghan Hounds good with children?",
+      "answer": "Afghan Hounds are generally good with older children who understand their aloof nature; supervision is recommended with young children."
+    },
+    {
+      "question": "How much exercise does an Afghan Hound need?",
+      "answer": "They require daily exercise such as long walks or runs and enjoy open spaces to run freely."
+    },
+    {
+      "question": "Do Afghan Hounds shed a lot?",
+      "answer": "They have a long, silky coat that sheds minimally but requires regular grooming to prevent matting."
+    },
+    {
+      "question": "Are Afghan Hounds easy to train?",
+      "answer": "They can be challenging to train due to their independent nature; consistent, positive reinforcement is key."
+    },
+    {
+      "question": "What is the lifespan of an Afghan Hound?",
+      "answer": "Afghan Hounds typically live between 12 to 15 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/afghan-hound-history-ancient-breed-afghanistan/",
+    "https://en.wikipedia.org/wiki/Afghan_Hound",
+    "https://www.hillspet.com/dog-care/dog-breeds/afghan-hound",
+    "https://www.ukcdogs.com/afghan-hound",
+    "https://www.wisdompanel.com/en-us/dog-breeds/afghan-hound"
+  ]
+}

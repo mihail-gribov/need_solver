@@ -1,0 +1,92 @@
+{
+  "id": "curly-coated-retriever",
+  "name": "Curly-Coated Retriever",
+  "full_description": "<p>The Curly-Coated Retriever, often referred to as the 'Curly,' is one of the oldest retriever breeds, originating in England during the early 19th century. Developed through crosses of the English Water Spaniel, St. John's Newfoundland, and possibly the Irish Water Spaniel and Poodle, the breed was designed to be a versatile hunting companion, excelling in retrieving game from both land and water. Their distinctive, tight, water-resistant curls provided protection against harsh weather and dense underbrush, making them particularly suited for waterfowl hunting. Physically, Curlies are large, athletic dogs with males standing between 25 to 27 inches at the withers and females between 23 to 25 inches. They typically weigh around 65 pounds. Their most notable feature is their dense, curly coat, which comes in solid black or liver colors. The curls cover the body, head, ears, and tail, while the face and front of the legs have smooth hair. This unique coat not only offers protection but also gives the breed its elegant and distinctive appearance. Temperamentally, Curly-Coated Retrievers are known for their intelligence, confidence, and independence. They are affectionate with their families and can be playful and sometimes mischievous. While they are generally friendly, they may exhibit a degree of aloofness towards strangers, making early and consistent socialization important. Their original purpose as hunting retrievers endowed them with a strong work ethic and eagerness to please, though they can sometimes display a stubborn streak. In modern times, Curlies continue to be valued as hunting companions, particularly in waterfowl hunting, due to their endurance and swimming capabilities. They also participate in various canine sports such as agility, obedience, and tracking. Despite their many admirable qualities, the breed remains relatively rare, often overshadowed by more popular retrievers like the Labrador and Golden Retriever. Notable characteristics of the Curly-Coated Retriever include their distinctive curly coat, which requires minimal grooming; their versatility as both a hunting dog and family companion; and their playful yet independent nature. Their combination of intelligence, athleticism, and unique appearance makes them a cherished breed among enthusiasts.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "approximately 65 pounds",
+    "height": "males: 25-27 inches; females: 23-25 inches",
+    "coat": "dense, tight, water-resistant curls covering the body, head, ears, and tail; smooth hair on face and front of legs",
+    "activity": "high",
+    "trainability": "intelligent and eager to please, though can be independent and sometimes stubborn",
+    "grooming": "minimal; brushing can cause frizzing, so occasional wetting and air-drying is recommended",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "Curly-Coated Retrievers are intelligent, confident, and affectionate dogs with a playful and sometimes mischievous nature. They are loyal to their families and can be reserved around strangers.",
+    "with_family": "Affectionate and loyal, they enjoy spending time with their family members and thrive on attention and interaction.",
+    "with_children": "Generally good with children, though their high energy levels may be overwhelming for very young kids; supervision is recommended.",
+    "with_other_pets": "Typically get along well with other pets, especially when raised together; early socialization is beneficial.",
+    "with_strangers": "Can be reserved or aloof around strangers; early and consistent socialization helps them become more comfortable.",
+    "special_traits": [
+      "Intelligent and independent",
+      "Playful and sometimes mischievous",
+      "Strong work ethic",
+      "Excellent swimming abilities",
+      "Protective of their family"
+    ]
+  },
+  "health": {
+    "summary": "Curly-Coated Retrievers are generally healthy but are predisposed to certain genetic conditions. Regular veterinary care and preventive measures can help maintain their health.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Eye conditions (e.g., cataracts, progressive retinal atrophy)",
+      "Exercise-induced collapse",
+      "Glycogen storage disease type IIIa",
+      "Gastric dilatation-volvulus (bloat)",
+      "Certain cancers (e.g., osteosarcoma, mast cell tumors)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for known hereditary conditions",
+      "Maintaining a healthy weight through diet and exercise",
+      "Feeding multiple small meals to reduce bloat risk",
+      "Avoiding vigorous exercise immediately before or after meals"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "Curly-Coated Retrievers require regular exercise, minimal grooming, and consistent training to thrive as both companions and working dogs.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature and ensure they are well-mannered.",
+    "health": "Regular veterinary care, a balanced diet, and preventive measures are key to maintaining their health and longevity.",
+    "grooming": "Minimal grooming is needed; avoid brushing to prevent frizzing of curls. Occasional wetting and air-drying help maintain the coat's appearance.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Curly-Coated Retrievers good family pets?",
+      "answer": "Yes, they are affectionate and loyal, making them excellent family companions when properly trained and socialized."
+    },
+    {
+      "question": "How much exercise does a Curly-Coated Retriever need?",
+      "answer": "They require substantial daily exercise, including activities like swimming and fetching, to keep them physically and mentally stimulated."
+    },
+    {
+      "question": "Do Curly-Coated Retrievers shed a lot?",
+      "answer": "They shed moderately; males typically shed once a year, and females twice a year."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "They are intelligent and eager to please but can be independent; consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "What are common health issues in Curly-Coated Retrievers?",
+      "answer": "They may be prone to hip dysplasia, eye conditions, exercise-induced collapse, and certain cancers."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/curly-coated-retriever",
+    "https://www.webmd.com/pets/dogs/what-to-know-curly-coated-retrievers",
+    "https://www.purina.com/dogs/dog-breeds/curly-coated-retriever",
+    "https://www.westminsterkennelclub.org/breed/curly-coated-retriever/",
+    "https://www.nylabone.com/dog101/curly-coated-retriever",
+    "https://www.akc.org/expert-advice/lifestyle/fun-facts-curly-coated-retriever/",
+    "https://www.thekennelclub.org.uk/breed-standards/gundog/retriever-curly-coated/",
+    "https://www.wisdompanel.com/en-us/dog-breeds/curly-coated-retriever",
+    "https://reagorpethospital.com/client-resources/breed-info/curly-coated-retriever/",
+    "https://www.petinsurancequotes.com/blog/dog-breeds/curly-coated-retriever",
+    "https://www.hillspet.com/dog-care/dog-breeds/curly-coated-retriever",
+    "https://nationalkennelclub.com/wp-content/uploads/2022/03/Curly-Coated-Retriever.pdf",
+    "https://en.wikipedia.org/wiki/Curly-coated_Retriever"
+  ]
+}

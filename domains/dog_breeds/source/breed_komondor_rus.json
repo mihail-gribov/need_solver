@@ -1,0 +1,157 @@
+{
+  "id": "komondor",
+  "name": "Komondor",
+  "name_rus": "Комондор",
+  "full_description": "<p>The Komondor, also known as the Hungarian Sheepdog, is a large, powerfully built breed renowned for its distinctive corded white coat. Originating from Hungary, the Komondor's ancestors are believed to have arrived with the migrating Cumans, a Turkic-speaking nomadic people, during the 12th and 13th centuries. The breed's primary role was to guard livestock, particularly sheep, from predators such as wolves. The earliest written mention of the Komondor dates back to 1544, highlighting its longstanding presence in Hungarian culture. Physically, the Komondor is imposing, with males standing at least 27.5 inches (70 cm) tall and females at least 25.5 inches (65 cm). Males typically weigh between 110 to 132 pounds (50 to 60 kg), while females range from 88 to 110 pounds (40 to 50 kg). The breed's most striking feature is its dense, corded coat, which serves as camouflage among sheep and provides protection against harsh weather and predator attacks. This coat requires meticulous care to maintain its unique appearance and functionality. Temperamentally, the Komondor is calm, steady, and highly protective. Bred to work independently, they possess strong guarding instincts and are naturally wary of strangers. However, they are affectionate and loyal to their families, often forming strong bonds with children and other household members. Their original purpose as livestock guardians has transitioned into roles such as property protection and companionship. Despite their working origins, Komondors can adapt to family life, provided they receive proper training and socialization. Notable characteristics of the breed include their independence, intelligence, and unwavering loyalty. Their unique appearance and protective nature make them both a visual and functional standout among dog breeds.</p>",
+  "full_description_rus": "<p>Комондор, также известный как венгерская овчарка, — крупная, мощно сложенная порода, известная своей уникальной белой шнуровой шерстью. Происходя из Венгрии, предки комондора, по мнению исследователей, прибыли вместе с кочующими племенами куманов, тюркоязычного народа, в XII–XIII веках. Основной задачей этой породы была охрана скота, особенно овец, от хищников, таких как волки. Первое письменное упоминание о комондоре датируется 1544 годом, что подчеркивает его давнюю роль в венгерской культуре. Физически комондор производит впечатление: кобели достигают роста не менее 70 см, а суки — не менее 65 см. Вес кобелей обычно составляет от 50 до 60 кг, а сук — от 40 до 50 кг. Самой примечательной чертой породы является ее густая, шнуровая шерсть, которая служит камуфляжем среди овец и обеспечивает защиту от суровых погодных условий и нападений хищников. Эта шерсть требует тщательного ухода для поддержания ее уникального вида и функциональности. По темпераменту комондор спокоен, уравновешен и обладает сильными охранными инстинктами. Будучи выведенными для самостоятельной работы, они естественно настороженно относятся к незнакомцам. Однако они привязаны и преданы своей семье, часто устанавливая крепкие связи с детьми и другими членами семьи. Их первоначальная роль как охранников скота со временем трансформировалась в охрану собственности и компаньонство. Несмотря на свои рабочие корни, комондоры могут адаптироваться к семейной жизни при условии надлежащей дрессировки и социализации. Отличительными чертами породы являются независимость, интеллект и непоколебимая преданность. Их уникальный внешний вид и защитный характер делают их как визуально, так и функционально выдающимися среди других пород собак.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: 50-60 kg; Females: 40-50 kg",
+    "height": "Males: 70-80 cm; Females: 65-70 cm",
+    "coat": "long, dense, corded, white",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "high maintenance; requires regular care to maintain corded coat",
+    "lifespan": "10-12 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "Кобели: 50-60 кг; Суки: 40-50 кг",
+    "рост": "Кобели: 70-80 см; Суки: 65-70 см",
+    "шерсть": "длинная, густая, шнуровая, белая",
+    "активность": "умеренная",
+    "обучаемость": "средняя",
+    "уход": "требует тщательного ухода; регулярный уход за шнуровой шерстью",
+    "продолжительность жизни": "10-12 лет"
+  },
+  "behavior": {
+    "summary": "The Komondor is a calm and steady breed, known for its strong protective instincts and loyalty to its family.",
+    "with_family": "Affectionate and devoted, forming strong bonds with family members.",
+    "with_children": "Gentle and protective, often acting as a guardian to children.",
+    "with_other_pets": "Generally good with other household pets, especially if raised together.",
+    "with_strangers": "Naturally wary and protective, requiring proper socialization to accept strangers.",
+    "special_traits": [
+      "Independent thinker",
+      "Strong guarding instincts",
+      "Loyal and affectionate with family",
+      "Requires early socialization",
+      "Protective of territory"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Комондор — спокойная и уравновешенная порода, известная своими сильными охранными инстинктами и преданностью семье.",
+    "с семьёй": "Ласков и предан, формирует крепкие связи с членами семьи.",
+    "с детьми": "Нежен и защитен, часто выступает в роли опекуна для детей.",
+    "с другими животными": "В целом хорошо ладит с другими домашними животными, особенно если вырос вместе с ними.",
+    "с незнакомцами": "Естественно насторожен и защитен, требует надлежащей социализации для принятия незнакомцев.",
+    "особые черты": [
+      "Независимый ум",
+      "Сильные охранные инстинкты",
+      "Предан и ласков с семьёй",
+      "Требует ранней социализации",
+      "Защитник территории"
+    ]
+  },
+  "health": {
+    "summary": "The Komondor is generally a healthy breed but can be prone to certain genetic conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Bloat (gastric torsion)",
+      "Entropion (eyelid disorder)",
+      "Skin issues due to dense coat"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy diet and weight",
+      "Provide regular exercise",
+      "Monitor for signs of bloat",
+      "Ensure proper grooming to prevent skin issues"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Комондор в целом здоровая порода, но может быть склонен к определённым генетическим заболеваниям.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Вздутие живота (желудочный заворот)",
+      "Энтропион (заворот века)",
+      "Кожные проблемы из-за густой шерсти"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здоровой диеты и веса",
+      "Обеспечение регулярных физических нагрузок",
+      "Мониторинг признаков вздутия живота",
+      "Обеспечение надлежащего ухода за шерстью для предотвращения кожных проблем"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем."
+  },
+  "care": {
+    "description": "Komondors require dedicated care, particularly in grooming and socialization, to ensure they are well-adjusted and healthy.",
+    "behavior": "Early and consistent socialization is crucial to manage their protective instincts and ensure they are comfortable around strangers and other animals.",
+    "health": "Regular health screenings and preventive care are essential to address breed-specific health concerns.",
+    "grooming": "The corded coat requires meticulous maintenance to prevent matting and skin issues; regular separation of cords and bathing are necessary.",
+    "nutrition": "A balanced diet appropriate for large breeds is important; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Комондоры требуют тщательного ухода, особенно в отношении груминга и социализации, чтобы обеспечить их хорошую адаптацию и здоровье.",
+    "поведение и характер": "Ранняя и последовательная социализация необходима для управления их охранными инстинктами и обеспечения комфортного поведения с незнакомцами и другими животными.",
+    "здоровье и профилактика": "Регулярные медицинские осмотры и профилактический уход важны для предотвращения специфических для породы проблем со здоровьем.",
+    "груминг и уход": "Шнуровая шерсть требует тщательного ухода для предотвращения спутывания и кожных проблем; регулярное разделение шнуров и купание необходимы.",
+    "питание и активность": "Сбалансированная диета, подходящая для крупных пород, важна; необходимо контролировать потребление пищи для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Is the Komondor suitable for first-time dog owners?",
+      "answer": "Due to their independent nature and grooming needs, they are better suited for experienced owners."
+    },
+    {
+      "question": "How much exercise does a Komondor need?",
+      "answer": "Moderate daily exercise, such as walks and playtime, is sufficient to keep them healthy."
+    },
+    {
+      "question": "Are Komondors good with children?",
+      "answer": "Yes, they are gentle and protective, making them good companions for children."
+    },
+    {
+      "question": "Do Komondors shed a lot?",
+      "answer": "They shed minimally, but their coat requires regular maintenance to prevent matting."
+    },
+    {
+      "question": "Can Komondors live in apartments?",
+      "answer": "Due to their size and activity level, they are better suited to homes with ample space."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходит ли комондор для владельцев без опыта?",
+      "ответ": "Из-за их независимого характера и потребностей в уходе они больше подходят для опытных владельцев."
+    },
+    {
+      "вопрос": "Сколько физической активности требуется комондору?",
+      "ответ": "Умеренные ежедневные нагрузки, такие как прогулки и игры, достаточны для поддержания их здоровья."
+    },
+    {
+      "вопрос": "Хорошо ли комондоры ладят с детьми?",
+      "ответ": "Да, они нежны и защитны, что делает их хорошими компаньонами для детей."
+    },
+    {
+      "вопрос": "Сильно ли линяют комондоры?",
+      "ответ": "Они линяют минимально, но их шерсть требует регулярного ухода для предотвращения спутывания."
+    },
+    {
+      "вопрос": "Могут ли комондоры жить в квартирах?",
+      "ответ": "Из-за их размера и уровня активности они лучше подходят для домов с достаточным пространством."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/fun-facts-komondor/",
+    "https://www.westminsterkennelclub.org/breeds/komondor",
+    "https://en.wikipedia.org/wiki/Komondor",
+    "https://www.akc.org/expert-advice/dog-breeds/komondor-history/",
+    "https://dogshowschool.org/breeds/komondor",
+    "https://www.pedigree.ru/porody/komondor",
+    "https://ru.wikipedia.org/wiki/Комондор",
+    "https://www.zooclub.org.ua/sobaki/3476-komondor.html"
+  ]
+}

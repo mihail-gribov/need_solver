@@ -1,0 +1,157 @@
+{
+  "id": "great-dane",
+  "name": "Great Dane",
+  "name_rus": "Немецкий дог",
+  "full_description": "<p>The Great Dane, often referred to as the 'Apollo of Dogs,' is a breed that epitomizes elegance, strength, and grandeur. Originating in Germany, despite its name suggesting Danish roots, the Great Dane's lineage traces back to the 15th and 16th centuries. During this period, German nobility bred large, powerful dogs to hunt wild boar, a popular pastime among aristocrats. These dogs were developed by crossing British mastiffs with possibly wolfhounds, resulting in a breed that combined size, power, and endurance. As the game in German forests dwindled, the need for such hunting dogs decreased, but the Great Dane remained a favorite among the nobility for its imposing presence and loyal nature.</p>\n<p>Physically, the Great Dane is a giant breed with a well-balanced, muscular body. Males typically stand between 30 to 32 inches at the shoulder, while females range from 28 to 30 inches. Their weight varies from 110 to 175 pounds, depending on gender and build. The breed's coat is short, smooth, and comes in various colors, including fawn, brindle, blue, black, harlequin, and mantle. Their head is long and rectangular, with a finely chiseled appearance, and their ears can be naturally floppy or cropped to stand erect.</p>\n<p>Temperamentally, Great Danes are known for their gentle and affectionate nature. They are loyal companions who thrive on human interaction and are particularly good with children, often displaying patience and protectiveness. Despite their imposing size, they are friendly towards strangers and generally get along well with other pets. However, their size and strength necessitate early socialization and consistent training to ensure they are well-mannered.</p>\n<p>Historically bred for hunting large game, Great Danes possess a keen sense of smell and a strong prey drive. While they are no longer used for hunting, these traits make them excellent watchdogs. In modern times, they are primarily cherished as family companions, admired for their regal appearance and gentle disposition. Their popularity remains high, with many owners drawn to their unique combination of size and temperament.</p>\n<p>Notable characteristics of the Great Dane include their towering stature, which makes them one of the tallest dog breeds. Despite their size, they are known for their grace and agility. Their affectionate nature often leads them to believe they are lap dogs, seeking close physical contact with their owners. Additionally, their short coat requires minimal grooming, making them relatively low-maintenance in terms of coat care.</p>",
+  "full_description_rus": "<p>Немецкий дог, часто называемый «Аполлоном среди собак», олицетворяет элегантность, силу и величие. Несмотря на название, указывающее на датское происхождение, порода возникла в Германии. История немецкого дога восходит к XV–XVI векам, когда немецкая знать разводила крупных, мощных собак для охоты на кабанов — популярное развлечение среди аристократии. Эти собаки были получены путем скрещивания британских мастифов с, возможно, волкодавами, что привело к появлению породы, сочетающей размер, силу и выносливость. С уменьшением количества дичи в немецких лесах необходимость в таких охотничьих собаках снизилась, но немецкий дог остался любимцем знати благодаря своему внушительному виду и преданному характеру.</p>\n<p>Физически немецкий дог — это гигантская порода с хорошо сбалансированным, мускулистым телом. Кобели обычно достигают роста от 80 до 90 см в холке, суки — от 72 до 84 см. Вес варьируется от 50 до 90 кг в зависимости от пола и телосложения. Шерсть короткая, гладкая, представлена в различных окрасах, включая палевый, тигровый, голубой, черный, мраморный и плащевой. Голова длинная и прямоугольная, с четко очерченными линиями; уши могут быть естественно висячими или купированными для стоячего положения.</p>\n<p>По темпераменту немецкие доги известны своим добрым и ласковым нравом. Они преданные компаньоны, которые нуждаются в тесном контакте с человеком и особенно хорошо ладят с детьми, проявляя терпение и защитные инстинкты. Несмотря на внушительные размеры, они дружелюбны к незнакомцам и обычно хорошо уживаются с другими животными. Однако их размер и сила требуют ранней социализации и последовательной дрессировки для обеспечения хороших манер.</p>\n<p>Изначально выведенные для охоты на крупную дичь, немецкие доги обладают острым обонянием и сильным охотничьим инстинктом. Хотя в настоящее время они не используются для охоты, эти качества делают их отличными сторожевыми собаками. В современном мире они в первую очередь ценятся как семейные компаньоны, восхищающие своим величественным видом и добродушным характером. Их популярность остается высокой, привлекая владельцев уникальным сочетанием размера и темперамента.</p>\n<p>Отличительными чертами немецкого дога являются его высокий рост, что делает его одной из самых высоких пород собак. Несмотря на размеры, они известны своей грацией и подвижностью. Их ласковый характер часто приводит к тому, что они считают себя «собаками на коленях», стремясь к тесному физическому контакту с владельцами. Кроме того, их короткая шерсть требует минимального ухода, что делает их относительно неприхотливыми в плане груминга.</p>",
+  "parameters": {
+    "size": "giant",
+    "weight": "110-175 pounds",
+    "height": "28-32 inches",
+    "coat": "short, smooth",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "minimal",
+    "lifespan": "7-10 years"
+  },
+  "parameters_rus": {
+    "size": "гигантский",
+    "weight": "50–90 кг",
+    "height": "72–90 см",
+    "coat": "короткая, гладкая",
+    "activity": "умеренная",
+    "trainability": "высокая",
+    "grooming": "минимальный",
+    "lifespan": "7–10 лет"
+  },
+  "behavior": {
+    "summary": "Great Danes are gentle giants known for their affectionate and friendly nature. They are loyal companions who thrive on human interaction and are generally good with children and other pets.",
+    "with_family": "They form strong bonds with family members, often seeking close physical contact and displaying protective instincts.",
+    "with_children": "Great Danes are patient and gentle with children, making them excellent family pets. However, due to their size, supervision is recommended during interactions.",
+    "with_other_pets": "Generally good with other pets, especially when raised together. Early socialization helps ensure harmonious relationships.",
+    "with_strangers": "Friendly and approachable towards strangers, though their imposing size can serve as a deterrent to intruders.",
+    "special_traits": [
+      "Affectionate and loyal",
+      "Gentle with children",
+      "Good with other pets",
+      "Friendly towards strangers",
+      "Protective instincts"
+    ]
+  },
+  "behavior_rus": {
+    "summary": "Немецкие доги — добродушные гиганты, известные своим ласковым и дружелюбным характером. Они преданные компаньоны, которые нуждаются в тесном контакте с человеком и обычно хорошо ладят с детьми и другими животными.",
+    "with_family": "Они формируют крепкие связи с членами семьи, часто стремясь к тесному физическому контакту и проявляя защитные инстинкты.",
+    "with_children": "Немецкие доги терпеливы и нежны с детьми, что делает их отличными семейными питомцами. Однако из-за их крупных размеров рекомендуется присмотр во время взаимодействий.",
+    "with_other_pets": "Обычно хорошо уживаются с другими животными, особенно если выросли вместе. Ранняя социализация помогает обеспечить гармоничные отношения.",
+    "with_strangers": "Дружелюбны и приветливы к незнакомцам, хотя их внушительный размер может служить сдерживающим фактором для злоумышленников.",
+    "special_traits": [
+      "Ласковые и преданные",
+      "Нежны с детьми",
+      "Хорошо ладят с другими животными",
+      "Дружелюбны к незнакомцам",
+      "Обладают защитными инстинктами"
+    ]
+  },
+  "health": {
+    "summary": "Great Danes are prone to several health issues, including bloat, cardiomyopathy, and joint diseases. Their large size contributes to a shorter lifespan compared to smaller breeds.",
+    "common_issues": [
+      "Bloat (gastric torsion)",
+      "Cardiomyopathy",
+      "Hip dysplasia",
+      "Osteoarthritis",
+      "Thyroid issues"
+    ],
+    "prevention_tips": [
+      "Feed multiple small meals daily to reduce bloat risk",
+      "Provide regular, moderate exercise",
+      "Maintain a healthy weight to reduce joint stress",
+      "Regular veterinary check-ups",
+      "Screen breeding stock for genetic conditions"
+    ],
+    "vet_checkups": "At least twice a year, with additional visits as needed for specific health concerns."
+  },
+  "health_rus": {
+    "summary": "Немецкие доги склонны к ряду проблем со здоровьем, включая заворот желудка, кардиомиопатию и заболевания суставов. Их крупный размер способствует более короткой продолжительности жизни по сравнению с мелкими породами.",
+    "common_issues": [
+      "Заворот желудка (гастродилатация-волвулюс)",
+      "Кардиомиопатия",
+      "Дисплазия тазобедренного сустава",
+      "Остеоартрит",
+      "Проблемы с щитовидной железой"
+    ],
+    "prevention_tips": [
+      "Кормить небольшими порциями несколько раз в день для снижения риска заворота желудка",
+      "Обеспечивать регулярные, умеренные физические нагрузки",
+      "Поддерживать здоровый вес для уменьшения нагрузки на суставы",
+      "Проводить регулярные ветеринарные осмотры",
+      "Проверять племенной материал на генетические заболевания"
+    ],
+    "vet_checkups": "Не менее двух раз в год, с дополнительными визитами при необходимости для решения специфических проблем со здоровьем."
+  },
+  "care": {
+    "description": "Great Danes require attentive care, including regular exercise, proper nutrition, and routine health monitoring to ensure their well-being.",
+    "behavior": "Early socialization and consistent training are essential to manage their size and strength, ensuring they are well-mannered companions.",
+    "health": "Regular veterinary check-ups and preventive measures are crucial to address breed-specific health issues and maintain overall health.",
+    "grooming": "Minimal grooming is needed due to their short coat; regular brushing helps reduce shedding and maintain coat health.",
+    "nutrition": "A balanced diet formulated for large breeds is essential, with controlled portions to prevent rapid growth in puppies and maintain a healthy weight in adults."
+  },
+  "care_rus": {
+    "description": "Немецкие доги требуют внимательного ухода, включая регулярные физические нагрузки, правильное питание и плановый мониторинг здоровья для обеспечения их благополучия.",
+    "behavior": "Ранняя социализация и последовательная дрессировка необходимы для управления их размером и силой, обеспечивая хорошее поведение.",
+    "health": "Регулярные ветеринарные осмотры и профилактические меры важны для решения специфических проблем со здоровьем породы и поддержания общего состояния здоровья.",
+    "grooming": "Минимальный уход за шерстью требуется благодаря короткому покрову; регулярное расчесывание помогает уменьшить линьку и поддерживать здоровье шерсти.",
+    "nutrition": "Сбалансированная диета, разработанная для крупных пород, необходима с контролем порций, чтобы предотвратить быстрый рост у щенков и поддерживать здоровый вес у взрослых собак."
+  },
+  "faq": [
+    {
+      "question": "Are Great Danes good with children?",
+      "answer": "Yes, they are gentle and patient with children, but supervision is recommended due to their large size."
+    },
+    {
+      "question": "How much exercise does a Great Dane need?",
+      "answer": "Moderate daily exercise, such as two brisk walks, is sufficient to keep them healthy and happy."
+    },
+    {
+      "question": "Do Great Danes require a lot of grooming?",
+      "answer": "No, their short coat requires minimal grooming, with regular brushing to reduce shedding."
+    },
+    {
+      "question": "What is the average lifespan of a Great Dane?",
+      "answer": "They typically live between 7 to 10 years."
+    },
+    {
+      "question": "Are Great Danes easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making training relatively straightforward with consistent methods."
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Хорошо ли немецкие доги ладят с детьми?",
+      "answer": "Да, они терпеливы и нежны с детьми, но из-за их крупных размеров рекомендуется присмотр во время взаимодействий."
+    },
+    {
+      "question": "Сколько физической активности требуется немецкому догу?",
+      "answer": "Умеренные ежедневные нагрузки, такие как две энергичные прогулки, достаточны для поддержания их здоровья и счастья."
+    },
+    {
+      "question": "Требуют ли немецкие доги много ухода за шерстью?",
+      "answer": "Нет, их короткая шерсть требует минимального ухода; регулярное расчесывание помогает уменьшить линьку."
+    },
+    {
+      "question": "Какова средняя продолжительность жизни немецкого дога?",
+      "answer": "Они обычно живут от 7 до 10 лет."
+    },
+    {
+      "question": "Легко ли дрессировать немецких догов?",
+      "answer": "Да, они умны и стремятся угодить, что делает дрессировку относительно простой при последовательных методах."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/health/great-dane-life-span/",
+    "https://www.ukcdogs.com/conformation-breed-standards/great-dane",
+    "https://www.akc.org/expert-advice/lifestyle/did-you-know/7-facts-about-the-great-dane/",
+    "https://www.akc.org/expert-advice/dog-breeds/great-dane-history-the-apollo-of-the-dogs/",
+    "https://vcahospitals.com/know-your-pet/dog-breeds/great-dane",
+    "https://images.akc.org/pdf/Great_Dane_01-01-19.pdf"
+  ]
+}

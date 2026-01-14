@@ -1,0 +1,82 @@
+{
+  "id": "finnish-spitz",
+  "name": "Finnish Spitz",
+  "full_description": "<p>The Finnish Spitz, known as Suomenpystykorva in its native Finland, is a breed with deep historical roots tracing back approximately 3,000 years. Originally brought to Finland by migrating tribes from central Russia, these dogs were primarily utilized for hunting a variety of game, ranging from small rodents to large predators like bears. Their primary hunting method involved 'bark pointing,' where the dog would locate game and bark to alert the hunter, a technique still valued in modern hunting practices. By the late 19th century, the breed faced near extinction due to crossbreeding. However, dedicated efforts by Finnish enthusiasts, notably Hugo Roos, led to the revival and standardization of the breed by 1892. Physically, the Finnish Spitz presents a fox-like appearance with a square, well-balanced body. Males typically stand between 17.5 to 20 inches tall, while females range from 15.5 to 18 inches. Their weight varies from 22 to 35 pounds, depending on gender. The breed boasts a dense double coat with a soft undercoat and longer, harsh guard hairs, predominantly in shades of golden-red. Notably, puppies are often born with darker coats that lighten as they mature. Temperamentally, Finnish Spitzes are lively, alert, and friendly. They form strong bonds with their families and are particularly good with children, often displaying patience and playfulness. While they are affectionate with familiar faces, they can be reserved around strangers, making them effective watchdogs. Their independent nature, combined with intelligence, means they respond best to positive reinforcement training methods. Historically bred for hunting, their keen senses and barking ability made them adept at locating and signaling the presence of game. In contemporary settings, while they still participate in hunting, many Finnish Spitzes serve as companion animals, cherished for their loyalty and spirited demeanor. The breed holds the esteemed title of Finland's national dog since 1979, reflecting its cultural significance. Notable characteristics include their distinctive barking, capable of reaching up to 160 barks per minute, a trait celebrated in Finnish barking competitions. Their fox-like expression, combined with their vibrant coat and curled tail, adds to their unique charm.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "22-35 pounds",
+    "height": "15.5-20 inches",
+    "coat": "double coat, dense undercoat with longer guard hairs, golden-red",
+    "activity": "high",
+    "trainability": "moderate",
+    "grooming": "regular brushing; moderate shedding",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "The Finnish Spitz is an active, alert, and friendly breed, known for its strong family bonds and distinctive barking.",
+    "with_family": "Affectionate and loyal, they thrive on companionship and are particularly good with children, often displaying patience and playfulness.",
+    "with_children": "They are gentle and playful with children, making them excellent family pets.",
+    "with_other_pets": "Generally gets along well with other dogs; however, due to their hunting background, caution is advised around small animals.",
+    "with_strangers": "Reserved but not aggressive; they make effective watchdogs due to their alertness.",
+    "special_traits": [
+      "Distinctive barking up to 160 times per minute",
+      "Strong hunting instincts",
+      "Independent yet loyal",
+      "Fox-like appearance",
+      "High energy levels"
+    ]
+  },
+  "health": {
+    "summary": "The Finnish Spitz is generally a healthy breed with a lifespan of 12 to 15 years, though they can be prone to certain hereditary conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Patellar luxation",
+      "Epilepsy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide regular exercise",
+      "Monitor for signs of joint issues",
+      "Early detection and management of epilepsy"
+    ],
+    "vet_checkups": "Annually, or more frequently as needed based on health status"
+  },
+  "care": {
+    "description": "Finnish Spitzes require regular exercise, mental stimulation, and consistent training to thrive as family companions.",
+    "behavior": "Early socialization and positive reinforcement training are essential to manage their independent nature and barking tendencies.",
+    "health": "Regular veterinary care and a balanced diet are crucial to maintain their overall health and manage potential hereditary conditions.",
+    "grooming": "Regular brushing is necessary to manage shedding and maintain coat health; they shed moderately throughout the year.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Is the Finnish Spitz good with children?",
+      "answer": "Yes, they are known to be gentle and playful with children, making them excellent family pets."
+    },
+    {
+      "question": "How much exercise does a Finnish Spitz need?",
+      "answer": "They require regular daily exercise to manage their high energy levels and maintain health."
+    },
+    {
+      "question": "Do Finnish Spitzes bark a lot?",
+      "answer": "Yes, they are known for their distinctive barking, which was historically used in hunting to alert hunters to game."
+    },
+    {
+      "question": "Are Finnish Spitzes easy to train?",
+      "answer": "They are intelligent but can be independent; positive reinforcement methods work best for training."
+    },
+    {
+      "question": "What is the grooming requirement for a Finnish Spitz?",
+      "answer": "Regular brushing is needed to manage their double coat and moderate shedding."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Finnish_Spitz",
+    "https://www.akc.org/expert-advice/lifestyle/7-things-you-didnt-know-about-the-finnish-spitz/",
+    "https://www.westminsterkennelclub.org/breed/finnish-spitz/",
+    "https://www.vetstreet.com/dogs/finnish-spitz",
+    "https://www.hillspet.com/dog-care/dog-breeds/finnish-spitz"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "german-shorthaired-pointer",
+  "name": "German Shorthaired Pointer",
+  "name_rus": "Немецкая короткошерстная легавая",
+  "full_description": "<p>The German Shorthaired Pointer (GSP) is a versatile and energetic gundog, renowned for its athleticism and eagerness to work. Originating in 19th-century Germany, the breed was developed to create an all-purpose hunting dog capable of performing various tasks, including pointing, retrieving, and tracking both furred and feathered game. The GSP's lineage traces back to the now-extinct Old Spanish Pointer, which was introduced to German-speaking regions and subsequently crossed with local breeds to enhance hunting capabilities. By the late 1800s, the breed's characteristics were standardized, leading to its recognition by the American Kennel Club in 1930. Physically, the GSP is a medium to large-sized dog, with males standing between 23 to 25 inches (58-64 cm) at the shoulder and females slightly smaller. They possess a lean, muscular build that exudes power and agility. Their coat is short, dense, and water-resistant, typically appearing in liver (brown), black, or combinations of these colors with white, often displaying distinctive patterns such as roan or ticking. The breed's head is well-defined, featuring a broad muzzle, dark almond-shaped eyes that convey intelligence, and ears set high and lying flat against the head. Temperamentally, GSPs are affectionate, intelligent, and highly energetic. They form strong bonds with their families and thrive on human companionship. Their friendly and outgoing nature makes them excellent family pets, though their high energy levels necessitate regular physical and mental stimulation. Originally bred for hunting, GSPs excel in various roles, including pointing, retrieving, and tracking. Their versatility allows them to work effectively on land and in water, making them suitable for hunting diverse game. In modern times, while they continue to be valued hunting companions, GSPs have also gained popularity in dog sports such as agility, obedience, and dock diving. Their keen sense of smell and trainability have made them assets in law enforcement for tasks like narcotics detection. Notable characteristics of the breed include their boundless energy, intelligence, and versatility. They are known for their strong prey drive and require consistent training and socialization from an early age. Their short coat is relatively low-maintenance, requiring regular brushing to keep it healthy. Overall, the German Shorthaired Pointer is a dynamic and loyal breed, well-suited to active families and individuals who can meet their exercise and companionship needs.</p>",
+  "full_description_rus": "<p>Немецкая короткошерстная легавая (курцхаар) — универсальная и энергичная охотничья собака, известная своей атлетичностью и стремлением к работе. Порода была выведена в Германии в XIX веке с целью создания универсальной охотничьей собаки, способной выполнять различные задачи, включая стойку, апортировку и преследование как пернатой, так и пушной дичи. Происхождение курцхаара восходит к ныне вымершей староиспанской легавой, которая была завезена в немецкоязычные регионы и впоследствии скрещена с местными породами для улучшения охотничьих качеств. К концу 1800-х годов характеристики породы были стандартизированы, что привело к ее признанию Американским клубом собаководства в 1930 году. Физически курцхаар представляет собой собаку среднего или крупного размера: кобели достигают 58–64 см в холке, суки немного меньше. Они обладают стройным, мускулистым телосложением, излучающим силу и ловкость. Шерсть короткая, плотная и водоотталкивающая, обычно коричневого (печеночного) или черного цвета, либо их сочетания с белым, часто с характерными отметинами, такими как крап или пятна. Голова хорошо очерчена, с широкой мордой, темными миндалевидными глазами, выражающими интеллект, и высоко посаженными ушами, прилегающими к голове. По темпераменту курцхаары ласковы, умны и обладают высокой энергией. Они формируют крепкие связи с семьей и процветают в обществе людей. Их дружелюбный и общительный характер делает их отличными семейными питомцами, хотя их высокий уровень энергии требует регулярной физической и умственной стимуляции. Изначально выведенные для охоты, курцхаары преуспевают в различных ролях, включая стойку, апортировку и преследование. Их универсальность позволяет эффективно работать как на суше, так и в воде, что делает их подходящими для охоты на разнообразную дичь. В современное время, помимо ценности как охотничьих компаньонов, курцхаары также приобрели популярность в собачьих видах спорта, таких как аджилити, послушание и прыжки в воду. Их острое обоняние и обучаемость сделали их ценными в правоохранительных органах для задач, таких как обнаружение наркотиков. Отличительными чертами породы являются их безграничная энергия, интеллект и универсальность. Они известны своим сильным охотничьим инстинктом и требуют последовательной дрессировки и социализации с раннего возраста. Их короткая шерсть относительно проста в уходе, требуя регулярного расчесывания для поддержания здоровья. В целом, немецкая короткошерстная легавая — это динамичная и преданная порода, идеально подходящая для активных семей и людей, способных удовлетворить их потребности в упражнениях и общении.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "20-32 kg",
+    "height": "53-64 cm",
+    "coat": "short, dense, water-resistant",
+    "activity": "very high",
+    "trainability": "very high",
+    "grooming": "low; regular brushing",
+    "lifespan": "10-14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "20-32 кг",
+    "рост": "53-64 см",
+    "шерсть": "короткая, плотная, водоотталкивающая",
+    "активность": "очень высокая",
+    "обучаемость": "очень высокая",
+    "уход": "низкий; регулярное расчесывание",
+    "продолжительность жизни": "10-14 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "High energy levels",
+      "Strong prey drive",
+      "Intelligent and trainable",
+      "Affectionate with family",
+      "Versatile working abilities"
+    ],
+    "summary": "German Shorthaired Pointers are affectionate, intelligent, and highly energetic dogs that thrive on human companionship and require ample physical and mental stimulation.",
+    "with_children": "Generally good with children, especially when socialized early, but their high energy levels may be overwhelming for very young kids.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and a desire to be involved in daily activities.",
+    "with_other_pets": "Their strong prey drive can pose challenges with small pets; early socialization is crucial for harmonious coexistence.",
+    "with_strangers": "Typically friendly and outgoing, though they may be reserved without proper socialization."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Немецкие короткошерстные легавые ласковы, умны и обладают высокой энергией; они процветают в обществе людей и требуют достаточной физической и умственной стимуляции.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя лояльность и желание участвовать в повседневной жизни.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации, но их высокий уровень энергии может быть чрезмерным для очень маленьких детей.",
+    "с другими животными": "Их сильный охотничий инстинкт может создавать сложности с мелкими животными; ранняя социализация важна для гармоничного сосуществования.",
+    "с незнакомцами": "Обычно дружелюбны и общительны, хотя могут быть сдержанными без должной социализации.",
+    "особые черты": [
+      "Высокий уровень энергии",
+      "Сильный охотничий инстинкт",
+      "Умны и легко обучаемы",
+      "Ласковы с семьёй",
+      "Универсальные рабочие способности"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy",
+      "Subaortic stenosis",
+      "Gastric dilatation-volvulus (bloat)",
+      "Hypothyroidism"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine eye examinations",
+      "Heart health monitoring",
+      "Feeding smaller, frequent meals to prevent bloat",
+      "Regular thyroid function tests"
+    ],
+    "summary": "German Shorthaired Pointers are generally healthy but are predisposed to certain genetic conditions; regular veterinary care and preventive measures are essential.",
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Немецкие короткошерстные легавые в целом здоровы, но склонны к определённым генетическим заболеваниям; регулярный ветеринарный уход и профилактические меры необходимы.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Прогрессирующая атрофия сетчатки",
+      "Субаортальный стеноз",
+      "Синдром заворота желудка (вздутие)",
+      "Гипотиреоз"
+    ],
+    "советы по профилактике": [
+      "Регулярные физические нагрузки для поддержания здорового веса",
+      "Периодические осмотры глаз",
+      "Мониторинг состояния сердца",
+      "Кормление небольшими, частыми порциями для предотвращения вздутия",
+      "Регулярные тесты на функцию щитовидной железы"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "behavior": "Provide daily physical activities like running or agility training to channel their energy positively.",
+    "description": "German Shorthaired Pointers require consistent exercise, mental stimulation, and regular health monitoring to maintain their well-being.",
+    "grooming": "Brush their short coat weekly to remove loose hair and check ears regularly to prevent infections.",
+    "health": "Schedule regular veterinary visits and stay vigilant for signs of common health issues.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level; avoid overfeeding to prevent obesity."
+  },
+  "care_rus": {
+    "поведение и характер": "Обеспечьте ежедневные физические нагрузки, такие как бег или тренировки по аджилити, чтобы направить их энергию в позитивное русло.",
+    "краткое описание ухода": "Немецкие короткошерстные легавые требуют регулярных физических упражнений, умственной стимуляции и постоянного контроля за здоровьем для поддержания их благополучия.",
+    "груминг и уход": "Расчесывайте их короткую шерсть еженедельно для удаления выпавших волос и регулярно проверяйте уши для предотвращения инфекций.",
+    "здоровье и профилактика": "Планируйте регулярные визиты к ветеринару и будьте внимательны к признакам распространённых проблем со здоровьем.",
+    "питание и активность": "Кормите сбалансированным рационом, соответствующим их возрасту, размеру и уровню активности; избегайте перекармливания для предотвращения ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are German Shorthaired Pointers good family dogs?",
+      "answer": "Yes, they are affectionate and loyal, making them excellent family companions, especially for active households."
+    },
+    {
+      "question": "How much exercise does a GSP need?",
+      "answer": "They require at least two hours of vigorous exercise daily to stay healthy and happy."
+    },
+    {
+      "question": "Do GSPs get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, but their strong prey drive may pose challenges with small animals."
+    },
+    {
+      "question": "Are GSPs easy to train?",
+      "answer": "Yes, their intelligence and eagerness to please make them highly trainable, though consistent, positive reinforcement methods work best."
+    },
+    {
+      "question": "What are common health concerns in GSPs?",
+      "answer": "They are prone to hip dysplasia, eye conditions like progressive retinal atrophy, and heart issues such as subaortic stenosis."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли немецкие короткошерстные легавые хорошими семейными собаками?",
+      "ответ": "Да, они ласковы и преданны, что делает их отличными компаньонами для семьи, особенно для активных домохозяйств."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется курцхаару?",
+      "ответ": "Им необходимо не менее двух часов интенсивных физических нагрузок ежедневно для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Ладят ли курцхаары с другими животными?",
+      "ответ": "При правильной социализации они могут сосуществовать с другими животными, но их сильный охотничий инстинкт может создавать сложности с мелкими животными."
+    },
+    {
+      "вопрос": "Легко ли обучаются курцхаары?",
+      "ответ": "Да, их интеллект и стремление угодить делают их легко обучаемыми, хотя лучше всего работают последовательные методы положительного подкрепления."
+    },
+    {
+      "вопрос": "Какие распространённые проблемы со здоровьем у курцхааров?",
+      "ответ": "Они склонны к дисплазии тазобедренного сустава, заболеваниям глаз, таким как прогрессирующая атрофия сетчатки, и проблемам с сердцем, таким как субаортальный стеноз."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/German_Shorthaired_Pointer",
+    "https://www.petsradar.com/dogs/dog-breeds/german-shorthaired-pointer-breed-profile",
+    "https://www.webmd.com/pets/dogs/what-to-know-german-shorthaired-pointer",
+    "https://www.petmd.com/dog/breeds/german-shorthaired-pointer",
+    "https://www.gspca.org/wp-content/uploads/2023/03/GSPCA-JE-GSP-Breed-History-0123.pdf",
+    "https://www.petful.com/dog-breeds/german-shorthaired-pointers/",
+    "https://www.gspca.org/wp-content/uploads/2023/03/GSPCA-JE-GSP-Desired-Characteristics23.pdf",
+    "https://www.gspca.org/all-missys-practice-pages/breed/",
+    "https://puppylist.com.au/breeds/german-shorthaired-pointer/health-issues/",
+    "https://www.houndsy.com/blogs/modern-tails/understanding-german-shorthaired-pointer-health-problems-a-comprehensive-guide",
+    "https://oxfordlabs.com/owners-and-breeders/how-common-thyroid-disease-my-breed/sporting/german-shorthaired-pointer",
+    "https://ru.wikipedia.org/wiki/Курцхаар",
+    "https://royalcanin.ru/dog-breed/german-short-haired-pointing-dog",
+    "https://blog.zootovary.ua/kurtshaar-a-173.html",
+    "https://zoobonus.ua/ru/breed/nemeckaya-korotkoserstnaya-legavaya-kurcxaar",
+    "https://doge.ru/poroda/kurtshaar",
+    "https://www.hillspet.ru/dog-care/dog-breeds/german-shorthaired-pointer"
+  ]
+}

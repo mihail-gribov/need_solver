@@ -1,0 +1,156 @@
+{
+  "id": "australian-cattle-dog",
+  "name": "Australian Cattle Dog",
+  "name_rus": "Австралийская пастушья собака",
+  "full_description": "<p>The Australian Cattle Dog, also known as the Blue Heeler or Queensland Heeler, is a robust and intelligent breed developed in 19th-century Australia to manage cattle over vast and rugged terrains. Originating from crosses between British herding dogs and the native Dingo, these dogs were bred for endurance, agility, and a strong work ethic. Physically, they are medium-sized with a compact, muscular build, featuring a short double coat that comes in blue or red speckled patterns. Their alert expression is highlighted by pricked ears and dark, oval-shaped eyes. Temperamentally, Australian Cattle Dogs are known for their loyalty, intelligence, and high energy levels. They form strong bonds with their owners and can be protective, making them excellent watchdogs. Their herding instinct is strong, and they may attempt to herd children or other animals by nipping at heels. Originally bred for herding cattle, they possess remarkable stamina and determination, traits that have transitioned well into modern roles such as agility sports, obedience competitions, and as active companions. Notable characteristics include their problem-solving abilities, independence, and a need for regular mental and physical stimulation to prevent boredom and destructive behaviors.</p>",
+  "full_description_rus": "<p>Австралийская пастушья собака, также известная как голубой хилер или квинслендский хилер, — крепкая и умная порода, выведенная в Австралии в XIX веке для управления крупным рогатым скотом на обширных и сложных территориях. Происходит от скрещивания британских пастушьих собак с местными динго, что обеспечило ей выносливость, ловкость и сильный рабочий инстинкт. Физически это собака среднего размера с компактным, мускулистым телосложением, короткой двойной шерстью голубого или красного крапчатого окраса. У нее настороженный взгляд, стоячие уши и темные овальные глаза. По характеру австралийские пастушьи собаки известны своей преданностью, интеллектом и высоким уровнем энергии. Они формируют крепкие связи с владельцами и могут быть защитниками, что делает их отличными сторожевыми собаками. Их пастуший инстинкт выражен настолько, что они могут пытаться пасти детей или других животных, покусывая их за пятки. Изначально выведенные для выпаса скота, они обладают выдающейся выносливостью и решимостью, что позволяет им успешно участвовать в современных видах деятельности, таких как спортивная дрессировка, соревнования по послушанию и быть активными компаньонами. Ключевые особенности включают способность к решению проблем, независимость и необходимость в регулярной умственной и физической стимуляции для предотвращения скуки и разрушительного поведения.</p>",
+  "parameters": {
+    "activity": "very high",
+    "coat": "short, dense, double coat",
+    "grooming": "minimal; weekly brushing",
+    "height": "43-51 cm",
+    "lifespan": "12-16 years",
+    "size": "medium",
+    "trainability": "high",
+    "weight": "15-20 kg"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "15-20 кг",
+    "рост": "43-51 см",
+    "шерсть": "короткая, плотная, двойная",
+    "активность": "очень высокая",
+    "обучаемость": "высокая",
+    "уход": "минимальный; еженедельное расчесывание",
+    "продолжительность жизни": "12-16 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "High energy levels",
+      "Strong herding instinct",
+      "Loyal and protective",
+      "Intelligent and trainable",
+      "Requires regular exercise"
+    ],
+    "summary": "Australian Cattle Dogs are energetic, intelligent, and loyal, requiring regular mental and physical stimulation to stay content.",
+    "with_children": "Their herding instinct may lead them to nip at children's heels; early socialization and training are essential to manage this behavior.",
+    "with_family": "They form strong bonds with family members, often showing a preference for one person, and are affectionate and protective.",
+    "with_other_pets": "They can coexist with other pets if raised together, but their strong prey drive may pose challenges with smaller animals.",
+    "with_strangers": "Generally reserved around strangers, they can be wary and may require proper introductions to new people."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Австралийские пастушьи собаки энергичны, умны и преданны, требуют регулярной умственной и физической стимуляции для поддержания удовлетворенности.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, часто предпочитая одного человека, и проявляют привязанность и защитные качества.",
+    "с детьми": "Их пастуший инстинкт может привести к покусыванию детей за пятки; ранняя социализация и обучение необходимы для управления этим поведением.",
+    "с другими животными": "Могут сосуществовать с другими животными, если выросли вместе, но их сильный охотничий инстинкт может создавать сложности с мелкими животными.",
+    "с незнакомцами": "Обычно сдержанны с незнакомцами, могут быть настороженными и требуют правильного знакомства с новыми людьми.",
+    "особые черты": [
+      "Высокий уровень энергии",
+      "Сильный пастуший инстинкт",
+      "Преданность и защитные качества",
+      "Интеллект и обучаемость",
+      "Требует регулярных физических нагрузок"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Progressive Retinal Atrophy (PRA)",
+      "Hip dysplasia",
+      "Deafness",
+      "Elbow dysplasia",
+      "Dermatitis"
+    ],
+    "prevention_tips": [
+      "Regular eye examinations",
+      "Hip and elbow evaluations",
+      "Hearing tests",
+      "Routine skin checks",
+      "Maintaining a healthy weight"
+    ],
+    "summary": "Australian Cattle Dogs are generally healthy but can be prone to certain hereditary conditions; regular veterinary care is important.",
+    "vet_checkups": "Annual checkups recommended; more frequent visits if health issues arise."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Австралийские пастушьи собаки в целом здоровы, но могут быть склонны к некоторым наследственным заболеваниям; регулярный ветеринарный уход важен.",
+    "распространённые проблемы": [
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Дисплазия тазобедренного сустава",
+      "Глухота",
+      "Дисплазия локтевого сустава",
+      "Дерматит"
+    ],
+    "советы по профилактике": [
+      "Регулярные осмотры глаз",
+      "Оценка состояния тазобедренных и локтевых суставов",
+      "Проверка слуха",
+      "Периодические осмотры кожи",
+      "Поддержание здорового веса"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры; более частые визиты при возникновении проблем со здоровьем."
+  },
+  "care": {
+    "behavior": "Provide structured activities and training to channel their intelligence and energy positively.",
+    "description": "Australian Cattle Dogs require consistent training, ample exercise, and regular health monitoring to thrive.",
+    "grooming": "Weekly brushing is sufficient; more frequent during shedding seasons.",
+    "health": "Monitor for signs of hereditary conditions and maintain regular veterinary visits for early detection.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level; consult a veterinarian for specific recommendations."
+  },
+  "care_rus": {
+    "поведение и характер": "Обеспечьте структурированные занятия и обучение для позитивного направления их интеллекта и энергии.",
+    "краткое описание ухода": "Австралийские пастушьи собаки требуют последовательного обучения, достаточных физических нагрузок и регулярного мониторинга здоровья для процветания.",
+    "груминг и уход": "Еженедельное расчесывание достаточно; более частое во время сезонов линьки.",
+    "здоровье и профилактика": "Следите за признаками наследственных заболеваний и регулярно посещайте ветеринара для раннего выявления.",
+    "питание и активность": "Кормите сбалансированным рационом, соответствующим их возрасту, размеру и уровню активности; проконсультируйтесь с ветеринаром для конкретных рекомендаций."
+  },
+  "faq": [
+    {
+      "question": "Are Australian Cattle Dogs good for first-time owners?",
+      "answer": "Due to their high energy and intelligence, they may be challenging for first-time owners without experience in training active breeds."
+    },
+    {
+      "question": "Do Australian Cattle Dogs get along with other pets?",
+      "answer": "They can coexist with other pets if properly socialized, but their strong prey drive may require supervision around smaller animals."
+    },
+    {
+      "question": "How much exercise does an Australian Cattle Dog need?",
+      "answer": "They require at least 1-2 hours of vigorous exercise daily to stay healthy and prevent boredom."
+    },
+    {
+      "question": "Are Australian Cattle Dogs prone to barking?",
+      "answer": "They are not excessive barkers but will alert their owners to unusual activities or strangers."
+    },
+    {
+      "question": "What is the lifespan of an Australian Cattle Dog?",
+      "answer": "They typically live between 12 to 16 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли австралийские пастушьи собаки для неопытных владельцев?",
+      "ответ": "Из-за их высокой энергии и интеллекта они могут быть сложными для владельцев без опыта в обучении активных пород."
+    },
+    {
+      "вопрос": "Ладят ли австралийские пастушьи собаки с другими животными?",
+      "ответ": "Они могут сосуществовать с другими животными при правильной социализации, но их сильный охотничий инстинкт может требовать надзора за мелкими животными."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется австралийской пастушьей собаке?",
+      "ответ": "Им необходимо не менее 1-2 часов интенсивных физических нагрузок ежедневно для поддержания здоровья и предотвращения скуки."
+    },
+    {
+      "вопрос": "Склонны ли австралийские пастушьи собаки к лаю?",
+      "ответ": "Они не склонны к чрезмерному лаю, но будут предупреждать владельцев о необычных событиях или незнакомцах."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни австралийской пастушьей собаки?",
+      "ответ": "При надлежащем уходе они обычно живут от 12 до 16 лет."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Australian_Cattle_Dog",
+    "https://www.petmd.com/dog/breeds/australian-cattle-dog",
+    "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/medium-dogs/australian-cattle-dog",
+    "https://vcahospitals.com/know-your-pet/australian-cattle-dog",
+    "https://www.webmd.com/pets/dogs/what-to-know-australian-cattle-dogs"
+  ]
+}

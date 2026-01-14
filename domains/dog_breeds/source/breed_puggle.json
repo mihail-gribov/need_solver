@@ -1,0 +1,81 @@
+{
+  "id": "puggle",
+  "name": "Puggle",
+  "full_description": "<p>The Puggle is a hybrid dog breed resulting from the cross between a Pug and a Beagle. This designer breed emerged in the United States during the 1980s, aiming to combine the Pug's affectionate nature with the Beagle's energetic disposition. Puggles typically exhibit a sturdy, compact body with a slightly elongated muzzle, which may help alleviate some of the breathing issues common in Pugs. Their coat is short and smooth, often displaying a variety of colors, including fawn, black, and tan. The ears are usually floppy, resembling those of the Beagle, and their expressive eyes convey a friendly demeanor. In terms of temperament, Puggles are known for their sociable and affectionate nature. They thrive on human companionship and are generally good with children and other pets. Their playful and energetic behavior makes them suitable for active families. However, they can inherit the Beagle's tendency to bark and the Pug's stubbornness, which may require patient training. Originally bred as companion animals, Puggles do not have a history of working roles. Today, they serve primarily as family pets, appreciated for their loving nature and adaptability to various living environments. Notable characteristics of the Puggle include their friendly disposition, moderate exercise needs, and a tendency to shed, which potential owners should consider.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "15-30 pounds",
+    "height": "10-15 inches",
+    "coat": "short and smooth",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "regular brushing; moderate shedding",
+    "lifespan": "10-15 years"
+  },
+  "behavior": {
+    "summary": "Puggles are affectionate, social dogs that form strong bonds with their families, making them great companions for households looking for a loving pet.",
+    "with_family": "They thrive on companionship and enjoy being involved in family activities, often seeking attention and affection from their owners.",
+    "with_children": "Puggles are typically gentle and patient, making them a good fit for families with children. Their playful nature means they can be a great companion for kids, as long as interactions are supervised, especially with very young children.",
+    "with_other_pets": "Generally good with other pets, including dogs, and they thrive on companionship.",
+    "with_strangers": "Friendly and sociable, Puggles usually greet strangers with enthusiasm, making them poor guard dogs but excellent social companions.",
+    "special_traits": [
+      "Affectionate and social",
+      "Playful and energetic",
+      "Moderate exercise needs",
+      "Tendency to bark",
+      "Potential for stubbornness"
+    ]
+  },
+  "health": {
+    "summary": "Puggles are generally healthy but can inherit health issues from their parent breeds, including breathing difficulties and obesity.",
+    "common_issues": [
+      "Stenotic nares (pinched nostrils)",
+      "Obesity",
+      "Hip dysplasia",
+      "Eye problems",
+      "Allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Balanced diet and portion control",
+      "Consistent exercise routine",
+      "Monitoring for breathing difficulties",
+      "Regular eye examinations"
+    ],
+    "vet_checkups": "At least once a year, or more frequently if health issues arise."
+  },
+  "care": {
+    "description": "Puggles require moderate care, including regular exercise, a balanced diet, and routine grooming to maintain their health and happiness.",
+    "behavior": "Early socialization and consistent training are important to manage their energetic nature and potential stubbornness.",
+    "health": "Regular veterinary visits and monitoring for inherited health issues are essential for maintaining their well-being.",
+    "grooming": "Regular brushing to manage shedding and occasional baths to keep their coat clean.",
+    "nutrition": "A balanced diet with portion control to prevent obesity, considering their tendency to overeat."
+  },
+  "faq": [
+    {
+      "question": "How long do Puggles live?",
+      "answer": "Puggles typically have a lifespan of 10–15 years."
+    },
+    {
+      "question": "Do Puggles make good pets?",
+      "answer": "Yes, Puggles are affectionate and social, making them great companions for families and individuals alike."
+    },
+    {
+      "question": "Are Puggles healthier than Pugs?",
+      "answer": "Possibly. Due to their Beagle heritage, Puggles may avoid some issues experienced by Pugs, but health depends largely on breeding practices."
+    },
+    {
+      "question": "Do Puggles bark a lot?",
+      "answer": "Both Pugs and Beagles are talkative breeds, so Puggles may inherit this trait. Positive training can help manage excessive barking."
+    },
+    {
+      "question": "Are Puggles suitable for first-time dog owners?",
+      "answer": "Yes, their friendly nature and moderate care needs make them a good choice for first-time owners."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/puggle",
+    "https://dogtime.com/dog-breeds/puggle",
+    "https://www.vetstreet.com/dr-marty-becker/5-toy-breeds-this-vet-worries-about"
+  ]
+}

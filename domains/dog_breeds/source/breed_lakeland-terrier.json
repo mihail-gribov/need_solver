@@ -1,0 +1,83 @@
+{
+  "id": "lakeland-terrier",
+  "name": "Lakeland Terrier",
+  "full_description": "<p>The Lakeland Terrier, originating from England's Lake District, was developed in the 19th century to hunt vermin and protect livestock from foxes. Bred for agility and endurance, they are small, sturdy dogs with a square build, standing about 14.5 inches tall and weighing between 15 to 17 pounds. Their dense, wiry double coat comes in various colors, including black, blue, liver, red, and wheaten, often with saddle markings. Lakelands are known for their bold, friendly, and self-confident temperament. They are intelligent and quick learners but can be independent, requiring consistent training. Originally bred for hunting, they possess a strong prey drive and excel in activities like Earthdog trials. Today, they serve as affectionate family companions and participate in dog sports. Notable characteristics include their minimal shedding, making them suitable for allergy sufferers, and their energetic nature, which necessitates regular exercise.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "15-17 pounds",
+    "height": "14.5 inches",
+    "coat": "dense, wiry double coat",
+    "activity": "moderate to high",
+    "trainability": "moderate",
+    "grooming": "regular brushing; coat stripping several times a year",
+    "lifespan": "12-16 years"
+  },
+  "behavior": {
+    "summary": "Lakeland Terriers are energetic, intelligent, and affectionate dogs with a strong prey drive and independent nature.",
+    "with_family": "They form strong bonds with family members and are affectionate and playful.",
+    "with_children": "Generally good with children, especially when socialized early, but supervision is recommended due to their energetic nature.",
+    "with_other_pets": "May not be ideal with smaller pets due to their strong prey drive; early socialization is crucial.",
+    "with_strangers": "Alert and may be cautious around strangers; proper socialization can help them become more accepting.",
+    "special_traits": [
+      "Energetic and playful",
+      "Strong prey drive",
+      "Independent and intelligent",
+      "Affectionate with family",
+      "Minimal shedding"
+    ]
+  },
+  "health": {
+    "summary": "Lakeland Terriers are generally healthy but can be prone to certain conditions common in small breeds.",
+    "common_issues": [
+      "Dental disease",
+      "Patellar luxation",
+      "Lens luxation",
+      "Legg-Calvé-Perthes disease",
+      "Cataracts"
+    ],
+    "prevention_tips": [
+      "Regular dental care, including brushing and professional cleanings",
+      "Routine veterinary check-ups",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Early detection through genetic screening"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Lakeland Terriers require regular exercise, consistent training, and routine grooming to maintain their health and happiness.",
+    "behavior": "Provide mental stimulation and physical activity to prevent boredom and destructive behaviors.",
+    "health": "Monitor for common health issues and maintain regular veterinary visits.",
+    "grooming": "Regular brushing and coat stripping several times a year to maintain coat health.",
+    "nutrition": "Balanced diet appropriate for their size and activity level; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Lakeland Terriers good with children?",
+      "answer": "Yes, they are generally good with children, especially when socialized early, but supervision is recommended due to their energetic nature."
+    },
+    {
+      "question": "Do Lakeland Terriers shed a lot?",
+      "answer": "No, they have minimal shedding, making them suitable for allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Lakeland Terrier need?",
+      "answer": "They require at least an hour of exercise daily to stay healthy and happy."
+    },
+    {
+      "question": "Are Lakeland Terriers easy to train?",
+      "answer": "They are intelligent and quick learners but can be independent, requiring consistent and patient training."
+    },
+    {
+      "question": "What is the lifespan of a Lakeland Terrier?",
+      "answer": "They typically live between 12 to 16 years."
+    }
+  ],
+  "sources": [
+    "https://www.thekennelclub.org.uk/breed-standards/terrier/lakeland-terrier/",
+    "https://www.petmd.com/dog/breeds/lakeland-terrier",
+    "https://www.ukcdogs.com/lakeland-terrier",
+    "https://usltc.org/",
+    "https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/medium-dogs/lakeland-terrier"
+  ]
+}

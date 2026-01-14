@@ -1,0 +1,165 @@
+{
+  "id": "schipperke",
+  "name": "Schipperke",
+  "name_rus": "Шипперке",
+  "full_description": "<p>The Schipperke is a small, agile breed originating from the Flemish provinces of Belgium in the 1600s. Believed to have descended from a larger black sheepdog known as the Leuvenaar, the Schipperke was developed to serve as a versatile working dog. They were commonly employed as watchdogs and vermin hunters on canal barges, earning them the nickname \"Little Captain\" due to their role alongside boatmen.</p>\n<p>Physically, Schipperkes are compact and sturdy, typically weighing between 12 to 18 pounds and standing 10 to 13 inches tall at the withers. They possess a distinctive black double coat with a harsh outer layer and a soft undercoat, forming a pronounced ruff around the neck and culottes on the hindquarters. Their fox-like face features small, erect ears and dark brown, oval-shaped eyes that convey an alert expression.</p>\n<p>Schipperkes are known for their curious, confident, and energetic temperament. They are intelligent and independent, often displaying a mischievous streak. Their alertness and protective nature make them excellent watchdogs, though they can be reserved with strangers. Early socialization and consistent training are essential to channel their energy positively.</p>\n<p>Originally bred for hunting vermin and guarding property, Schipperkes have retained their working abilities. Their agility and keen senses make them adept at tasks requiring vigilance and quick reflexes. In modern times, they excel in dog sports such as agility, obedience, and rally, showcasing their versatility and eagerness to engage in activities with their owners.</p>\n<p>Today, the Schipperke enjoys popularity as a companion dog worldwide. Their small size and adaptable nature make them suitable for various living environments, from apartments to homes with yards. They are particularly favored by active individuals and families who can provide the mental and physical stimulation these energetic dogs require.</p>\n<p>Notable characteristics of the Schipperke include their distinctive silhouette, marked by the pronounced ruff and culottes, and their tail, which may be naturally absent or docked. Their inquisitive nature and boundless energy have earned them the nickname \"Little Black Devil\" in their native Belgium, reflecting both their appearance and spirited personality.</p>",
+  "full_description_rus": "<p>Шипперке — небольшая, энергичная порода, происходящая из фламандских провинций Бельгии XVII века. Считается, что они произошли от более крупной черной овчарки, известной как Лёвенар, и были выведены как универсальные рабочие собаки. Их часто использовали в качестве сторожей и охотников на вредителей на канальных баржах, за что они получили прозвище «Маленький капитан» благодаря своей роли рядом с лодочниками.</p>\n<p>Физически шипперке компактны и крепки, обычно весят от 5 до 8 кг и имеют рост в холке от 25 до 33 см. Они обладают характерной черной двойной шерстью с жестким внешним слоем и мягким подшерстком, образующими выраженный воротник вокруг шеи и «штанишки» на задних конечностях. Их лисьеобразное лицо имеет небольшие стоячие уши и темно-коричневые овальные глаза, придающие им настороженное выражение.</p>\n<p>Шипперке известны своим любопытным, уверенным и энергичным темпераментом. Они умны и независимы, часто проявляют озорной характер. Их бдительность и защитная натура делают их отличными сторожевыми собаками, хотя они могут быть сдержанными с незнакомцами. Ранняя социализация и последовательная дрессировка необходимы для позитивного направления их энергии.</p>\n<p>Изначально выведенные для охоты на вредителей и охраны имущества, шипперке сохранили свои рабочие способности. Их ловкость и острые чувства делают их способными к задачам, требующим бдительности и быстрых рефлексов. В современное время они преуспевают в собачьих видах спорта, таких как аджилити, послушание и ралли, демонстрируя свою универсальность и стремление участвовать в деятельности с владельцами.</p>\n<p>Сегодня шипперке пользуются популярностью в качестве компаньонов по всему миру. Их небольшой размер и адаптивный характер делают их подходящими для различных условий проживания, от квартир до домов с дворами. Они особенно ценятся активными людьми и семьями, которые могут обеспечить умственную и физическую стимуляцию, необходимую этим энергичным собакам.</p>\n<p>Значительными характеристиками шипперке являются их характерный силуэт, отмеченный выраженным воротником и «штанишками», а также хвост, который может быть естественно отсутствующим или купированным. Их любознательная натура и безграничная энергия принесли им прозвище «Маленький черный дьявол» в родной Бельгии, отражая как их внешний вид, так и энергичный характер.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "12–18 pounds",
+    "height": "10–13 inches",
+    "coat": "double coat with a harsh outer layer and soft undercoat; forms a ruff around the neck and culottes on the hindquarters",
+    "activity": "moderate to high",
+    "trainability": "high",
+    "grooming": "weekly brushing; more frequent during shedding periods",
+    "lifespan": "12–15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "5–8 кг",
+    "рост": "25–33 см",
+    "шерсть": "двойная шерсть с жестким внешним слоем и мягким подшерстком; образует воротник вокруг шеи и «штанишки» на задних конечностях",
+    "активность": "умеренная до высокой",
+    "обучаемость": "высокая",
+    "уход": "еженедельное вычесывание; более частое во время линьки",
+    "продолжительность жизни": "12–15 лет"
+  },
+  "behavior": {
+    "summary": "Schipperkes are curious, confident, and energetic dogs known for their alertness and protective nature.",
+    "with_family": "They form strong bonds with their families, displaying loyalty and affection.",
+    "with_children": "Generally good with children, especially when socialized early, but supervision is recommended due to their energetic nature.",
+    "with_other_pets": "Can coexist with other pets if introduced properly, though their strong prey drive may lead to chasing smaller animals.",
+    "with_strangers": "Often reserved around strangers, making them effective watchdogs.",
+    "special_traits": [
+      "alert and protective",
+      "intelligent and independent",
+      "energetic and playful",
+      "mischievous",
+      "strong prey drive"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Шипперке — любопытные, уверенные и энергичные собаки, известные своей бдительностью и защитной натурой.",
+    "с семьёй": "Они формируют крепкие связи с семьёй, проявляя лояльность и привязанность.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации, но рекомендуется присмотр из-за их энергичного характера.",
+    "с другими животными": "Могут сосуществовать с другими животными при правильном знакомстве, хотя их сильный охотничий инстинкт может привести к преследованию мелких животных.",
+    "с незнакомцами": "Часто сдержанны с незнакомцами, что делает их эффективными сторожевыми собаками.",
+    "особые черты": [
+      "бдительные и защитные",
+      "умные и независимые",
+      "энергичные и игривые",
+      "озорные",
+      "сильный охотничий инстинкт"
+    ]
+  },
+  "health": {
+    "summary": "Schipperkes are generally healthy but are predisposed to certain genetic conditions.",
+    "common_issues": [
+      "patellar luxation",
+      "Legg-Calvé-Perthes disease",
+      "progressive retinal atrophy",
+      "hypothyroidism",
+      "dental disease"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintain a healthy weight",
+      "provide regular exercise",
+      "ensure a balanced diet",
+      "practice good dental hygiene"
+    ],
+    "vet_checkups": "annually; more frequent for senior dogs or those with known health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Шипперке в целом здоровы, но склонны к определённым генетическим заболеваниям.",
+    "распространённые проблемы": [
+      "вывих надколенника",
+      "болезнь Легга-Кальве-Пертеса",
+      "прогрессирующая атрофия сетчатки",
+      "гипотиреоз",
+      "заболевания зубов"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "поддержание здорового веса",
+      "обеспечение регулярных физических нагрузок",
+      "сбалансированное питание",
+      "поддержание гигиены полости рта"
+    ],
+    "рекомендуемые осмотры": "ежегодно; чаще для пожилых собак или при наличии известных проблем со здоровьем"
+  },
+  "care": {
+    "description": "Schipperkes require regular exercise, mental stimulation, and consistent training to thrive.",
+    "behavior": "Early socialization and obedience training are essential to manage their independent and energetic nature.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary care.",
+    "grooming": "Weekly brushing is sufficient, with increased frequency during shedding seasons.",
+    "nutrition": "Provide a balanced diet appropriate for their size, age, and activity level."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Шипперке требуют регулярных физических нагрузок, умственной стимуляции и последовательной дрессировки для полноценной жизни.",
+    "поведение и характер": "Ранняя социализация и обучение послушанию необходимы для управления их независимым и энергичным характером.",
+    "здоровье и профилактика": "Следите за признаками распространённых проблем со здоровьем и поддерживайте регулярный ветеринарный уход.",
+    "груминг и уход": "Еженедельное вычесывание достаточно, с увеличением частоты во время сезонов линьки.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их размеру, возрасту и уровню активности."
+  },
+  "faq": [
+    {
+      "question": "Are Schipperkes good with children?",
+      "answer": "Yes, they are generally good with children, especially when socialized early, but supervision is recommended due to their energetic nature."
+    },
+    {
+      "question": "Do Schipperkes require a lot of exercise?",
+      "answer": "They have moderate to high energy levels and benefit from regular physical and mental stimulation."
+    },
+    {
+      "question": "Are Schipperkes easy to train?",
+      "answer": "Yes, they are intelligent and respond well to consistent, positive reinforcement training methods."
+    },
+    {
+      "question": "Do Schipperkes shed a lot?",
+      "answer": "They shed moderately and require weekly brushing, with more frequent grooming during shedding periods."
+    },
+    {
+      "question": "Are Schipperkes good watchdogs?",
+      "answer": "Yes, their alert and protective nature makes them excellent watchdogs."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Шипперке хорошо ладят с детьми?",
+      "ответ": "Да, они обычно хорошо ладят с детьми, особенно при ранней социализации, но рекомендуется присмотр из-за их энергичного характера."
+    },
+    {
+      "вопрос": "Шипперке требуют много физических нагрузок?",
+      "ответ": "У них умеренный до высокий уровень энергии, и они получают пользу от регулярной физической и умственной стимуляции."
+    },
+    {
+      "вопрос": "Шипперке легко поддаются дрессировке?",
+      "ответ": "Да, они умны и хорошо реагируют на последовательные методы дрессировки с положительным подкреплением."
+    },
+    {
+      "вопрос": "Шипперке сильно линяют?",
+      "ответ": "Они линяют умеренно и требуют еженедельного вычесывания, с более частым уходом во время периодов линьки."
+    },
+    {
+      "вопрос": "Шипперке хорошие сторожевые собаки?",
+      "ответ": "Да, их бдительная и защитная натура делает их отличными сторожевыми собаками."
+    }
+  ],
+  "sources": [
+    "https://www.westminsterkennelclub.org/breed/schipperke/",
+    "https://schipperkeclubofamerica.org/breed-standard/",
+    "https://www.purina.com/dogs/dog-breeds/schipperke",
+    "https://www.petmd.com/dog/breeds/schipperke",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-schipperkes",
+    "https://www.cesar.ru/porody/shipperke/",
+    "https://www.hillspet.ru/dog-care/dog-breeds/schipperke",
+    "https://www.pedigree.ru/porody/shipperke",
+    "https://petsi.net/dog-breeds/shypperke",
+    "https://dog.pet2me.com/ru/breed/Shipperke/",
+    "https://www.vesti.ru/article/4481203",
+    "https://macho-ster.com/sipperke-shipperke-opisanie-porody-sobak-s-foto-i-video/",
+    "https://petsik.ru/dogbreed-schipperke.html",
+    "https://panor.ru/articles/shipperke-standart-fci/83166.html"
+  ]
+}

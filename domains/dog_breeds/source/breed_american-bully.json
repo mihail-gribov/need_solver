@@ -1,0 +1,86 @@
+{
+  "id": "american-bully",
+  "name": "American Bully",
+  "full_description": "<p>The American Bully is a modern companion dog breed that originated in the United States during the 1980s and 1990s. Developed by crossbreeding the American Pit Bull Terrier with various bulldog-type breeds, the goal was to create a dog with a muscular build and a gentle, family-friendly temperament. The breed was first recognized by the American Bully Kennel Club (ABKC) in 2004 and by the United Kennel Club (UKC) in 2013. Physically, the American Bully is a robust and heavily muscled dog with a broad chest, short back, and pronounced bone structure. Its head is large and square-shaped, featuring a well-defined jawline. The breed's short, smooth, and glossy coat comes in a variety of colors, including black, brown, gray, red, white, and tricolor. The American Bully is divided into four size categories: Pocket (under 17 inches at the shoulder), Standard (17 to 20 inches), Classic (same height as Standard but lighter), and XL (20 to 22 inches). Despite its formidable appearance, the American Bully is known for its friendly, affectionate, and loyal nature. It is highly people-oriented and thrives on human interaction, making it an excellent family companion. The breed is intelligent and eager to please, which facilitates training. However, early socialization and consistent training are essential to ensure well-rounded behavior. Originally bred as a companion dog, the American Bully does not have a history of working roles. Its primary purpose has always been to serve as a loyal and loving family pet. In modern times, the breed has gained popularity worldwide, appreciated for its unique combination of strength and gentleness. Notable characteristics of the American Bully include its muscular physique, friendly demeanor, and adaptability to various living environments. The breed's versatility and affectionate nature make it suitable for families, singles, and seniors alike.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "25-54 kg",
+    "height": "33-56 cm",
+    "coat": "short, smooth, and glossy",
+    "activity": "moderate",
+    "trainability": "high",
+    "grooming": "minimal; occasional brushing and bathing",
+    "lifespan": "8-13 years"
+  },
+  "behavior": {
+    "summary": "The American Bully is a friendly, affectionate, and loyal breed that thrives on human interaction and makes an excellent family companion.",
+    "with_family": "Highly devoted and people-oriented, forming strong bonds with family members.",
+    "with_children": "Generally patient and gentle, making them suitable companions for children when properly socialized.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets, though some may exhibit same-sex aggression.",
+    "with_strangers": "Typically friendly and approachable, but early socialization is important to ensure positive interactions.",
+    "special_traits": [
+      "Affectionate and loyal",
+      "Intelligent and eager to please",
+      "Muscular and robust physique",
+      "Adaptable to various living environments",
+      "Requires early socialization and consistent training"
+    ]
+  },
+  "health": {
+    "summary": "The American Bully is generally a robust breed but is prone to certain health issues that require attention and preventive care.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Skin allergies",
+      "Heart disease",
+      "Brachycephalic airway syndrome"
+    ],
+    "prevention_tips": [
+      "Provide a balanced diet tailored to age and activity level",
+      "Ensure regular exercise to maintain healthy weight",
+      "Schedule routine veterinary check-ups",
+      "Monitor for signs of respiratory distress",
+      "Avoid extreme temperatures due to sensitivity"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for aging dogs or those with health concerns."
+  },
+  "care": {
+    "description": "The American Bully requires moderate exercise, minimal grooming, and regular health monitoring to ensure a happy and healthy life.",
+    "behavior": "Early socialization and consistent training are essential to develop a well-mannered and confident dog.",
+    "health": "Regular veterinary check-ups and preventive care are crucial to address potential health issues common in the breed.",
+    "grooming": "Minimal grooming needs; occasional brushing and bathing suffice to maintain coat health.",
+    "nutrition": "Provide a well-balanced diet appropriate for the dog's age, size, and activity level to support overall health."
+  },
+  "faq": [
+    {
+      "question": "Is the American Bully suitable for families with children?",
+      "answer": "Yes, when properly socialized, they are patient and gentle with children."
+    },
+    {
+      "question": "What are the exercise requirements for an American Bully?",
+      "answer": "Moderate daily exercise, such as walks and playtime, is sufficient."
+    },
+    {
+      "question": "Does the American Bully require extensive grooming?",
+      "answer": "No, their short coat requires minimal grooming; occasional brushing and bathing are adequate."
+    },
+    {
+      "question": "Are American Bullies aggressive towards other dogs?",
+      "answer": "With proper socialization, they can coexist peacefully, though some may exhibit same-sex aggression."
+    },
+    {
+      "question": "What is the average lifespan of an American Bully?",
+      "answer": "They typically live between 8 to 13 years."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/American-Bully",
+    "https://en.wikipedia.org/wiki/American_Bully",
+    "https://ckcusa.com/breeds/american-bully/",
+    "https://www.petbook-magazine.com/dogs/american-bully-what-makes-this-dog-breed-so-special-and-controversial",
+    "https://www.petsradar.com/dogs/dog-breeds/american-bully-breed-profile",
+    "https://www.nahf.org/article/american-bully",
+    "https://www.rover.com/blog/breeds/american-bully/",
+    "https://www.caninejournal.com/american-bully/"
+  ]
+}

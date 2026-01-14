@@ -1,0 +1,83 @@
+{
+  "id": "alaskan-malamute",
+  "name": "Alaskan Malamute",
+  "full_description": "<p>The Alaskan Malamute is a powerful and enduring breed, originally developed by the Malimiut Inupiaq people of Alaska's Norton Sound region. These dogs were bred for their strength and stamina to haul heavy freight as sled dogs over long distances. Their lineage traces back over 4,500 years, making them one of the oldest Arctic sled dog breeds.</p>\n<p>Physically, Alaskan Malamutes are large, well-muscled dogs with a robust build. Males typically stand 25 inches tall and weigh around 85 pounds, while females are slightly smaller at 23 inches and 75 pounds. They possess a thick double coat, with a dense, woolly undercoat and a coarse outer guard coat, providing insulation against harsh Arctic conditions. Common coat colors include various shades of gray and white, sable and white, black and white, seal and white, red and white, or solid white. Their almond-shaped eyes are brown, conveying a friendly and intelligent expression.</p>\n<p>Alaskan Malamutes are known for their friendly and affectionate nature. They are loyal to their families and enjoy human companionship. While they are intelligent, they can also be independent and stubborn, which may present challenges during training. Early socialization and consistent, positive reinforcement training methods are essential to harness their intelligence and ensure well-mannered behavior.</p>\n<p>Historically, Malamutes were utilized for heavy freighting, pulling sleds loaded with supplies across vast Arctic terrains. Their strength and endurance made them invaluable to indigenous peoples and explorers alike. In modern times, while they are less commonly used for sledding, they participate in various canine sports such as weight pulling, backpacking, and recreational sledding. Their friendly disposition also makes them popular as family companions, though they require ample exercise and mental stimulation to remain content.</p>\n<p>Notable characteristics of the Alaskan Malamute include their remarkable strength, endurance, and resilience in cold climates. They have a strong prey drive and may chase smaller animals, so caution is advised when introducing them to other pets. Their thick coat requires regular grooming to manage shedding and maintain skin health. Additionally, they are known to be vocal, often expressing themselves through howls and 'talking' sounds, adding to their unique charm.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "75-85 lbs (34-38 kg)",
+    "height": "23-25 inches (58-63 cm)",
+    "coat": "thick double coat with dense undercoat and coarse outer guard coat",
+    "activity": "high",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "regular brushing; more frequent during shedding seasons",
+    "lifespan": "10-14 years"
+  },
+  "behavior": {
+    "summary": "Alaskan Malamutes are friendly, loyal, and affectionate dogs with a strong work ethic and high energy levels.",
+    "with_family": "They form strong bonds with family members and thrive on companionship and attention.",
+    "with_children": "Generally good with children, especially when raised together, but supervision is recommended due to their size and strength.",
+    "with_other_pets": "May exhibit a strong prey drive; early socialization is crucial when introducing them to other pets.",
+    "with_strangers": "Typically friendly but can be reserved; proper socialization helps ensure well-mannered interactions.",
+    "special_traits": [
+      "high energy levels",
+      "strong prey drive",
+      "vocal tendencies",
+      "independent nature",
+      "affectionate with family"
+    ]
+  },
+  "health": {
+    "summary": "Alaskan Malamutes are generally healthy but are prone to certain genetic conditions that require attention and preventive care.",
+    "common_issues": [
+      "hip and elbow dysplasia",
+      "cataracts",
+      "hypothyroidism",
+      "chondrodysplasia",
+      "polyneuropathy"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "genetic testing for breeding dogs",
+      "maintaining a healthy weight",
+      "providing adequate exercise",
+      "monitoring for signs of common health issues"
+    ],
+    "vet_checkups": "annually, or more frequently as needed based on health status"
+  },
+  "care": {
+    "description": "Alaskan Malamutes require dedicated care, including regular exercise, grooming, and health monitoring to ensure their well-being.",
+    "behavior": "Provide ample physical and mental stimulation to prevent boredom and destructive behaviors.",
+    "health": "Be vigilant for signs of common health issues and consult a veterinarian promptly if concerns arise.",
+    "grooming": "Brush their thick coat regularly, especially during shedding seasons, to manage hair and maintain skin health.",
+    "nutrition": "Feed a balanced diet appropriate for large, active breeds; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Alaskan Malamutes good family pets?",
+      "answer": "Yes, they are loyal and affectionate with family members but require proper training and socialization."
+    },
+    {
+      "question": "Do Alaskan Malamutes get along with other pets?",
+      "answer": "They may have a strong prey drive; early socialization is important when introducing them to other animals."
+    },
+    {
+      "question": "How much exercise does an Alaskan Malamute need?",
+      "answer": "They require significant daily exercise to satisfy their high energy levels and prevent boredom."
+    },
+    {
+      "question": "What are common health issues in Alaskan Malamutes?",
+      "answer": "Common issues include hip dysplasia, cataracts, hypothyroidism, and polyneuropathy."
+    },
+    {
+      "question": "How often should I groom my Alaskan Malamute?",
+      "answer": "Regular brushing is needed, with increased frequency during shedding seasons to manage their thick coat."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/alaskan-malamute",
+    "https://en.wikipedia.org/wiki/Alaskan_Malamute",
+    "https://www.petful.com/dog-breeds/alaskan-malamutes/",
+    "https://www.embracepetinsurance.com/dog-breeds/alaskan-malamute",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-alaskan-malamute"
+  ]
+}

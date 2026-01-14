@@ -1,0 +1,82 @@
+{
+  "id": "yorkshire-terrier",
+  "name": "Yorkshire Terrier",
+  "full_description": "<p>The Yorkshire Terrier, affectionately known as the Yorkie, is a small yet spirited breed that originated in the mid-19th century in the English county of Yorkshire. Developed by workers in cotton and woolen mills, the breed was created by crossing various terriers, including the Black-and-Tan Terrier, Paisley Terrier, and Clydesdale Terrier, with the primary goal of producing an adept ratter to control rodent populations in textile mills.</p>\n<p>Physically, the Yorkshire Terrier is diminutive, typically weighing no more than 3.2 kg (7 pounds). They possess a fine, straight, and silky coat that is traditionally grown long and parted down the middle of the back. The coat color is a distinctive combination of dark steel-blue on the body and rich tan on the head, chest, and legs. Their small, V-shaped ears stand erect, and they have a compact, well-proportioned body.</p>\n<p>Yorkies are known for their bold and confident temperament. Despite their small size, they exhibit the tenacity and courage typical of terriers. They are affectionate with their families, often forming strong bonds with their owners. Their energetic and playful nature makes them lively companions. However, they can be wary of strangers and may exhibit a protective demeanor.</p>\n<p>Originally bred for their working abilities in rat control, Yorkshire Terriers have transitioned into beloved companion animals. Their intelligence and eagerness to please make them relatively easy to train, though they can exhibit a stubborn streak. They excel in various canine sports and activities, including agility and obedience competitions.</p>\n<p>In modern times, the Yorkshire Terrier has become one of the most popular toy breeds worldwide. Their small size makes them well-suited for urban living, and their hypoallergenic coat appeals to individuals with allergies. They are often seen accompanying their owners in various settings, from city apartments to suburban homes.</p>\n<p>Notable characteristics of the breed include their long, flowing coat, which requires regular grooming to maintain its appearance and health. Their alert and inquisitive nature makes them excellent watchdogs, as they are quick to sound the alarm when they sense something amiss. Despite their delicate appearance, they are hardy and adaptable, embodying a blend of elegance and tenacity that endears them to dog enthusiasts around the globe.</p>",
+  "parameters": {
+    "size": "Toy",
+    "weight": "Up to 3.2 kg (7 pounds)",
+    "height": "Approximately 20-23 cm (8-9 inches)",
+    "coat": "Fine, straight, silky; dark steel-blue and rich tan coloration",
+    "activity": "Moderate",
+    "trainability": "Moderate; intelligent but can be stubborn",
+    "grooming": "High; requires regular brushing and professional grooming",
+    "lifespan": "11-15 years"
+  },
+  "behavior": {
+    "summary": "Yorkshire Terriers are energetic, affectionate, and confident dogs with a strong terrier heritage.",
+    "with_family": "They form strong bonds with family members and thrive on companionship.",
+    "with_children": "Generally good with older children who understand how to interact with small dogs.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though they may exhibit dominance.",
+    "with_strangers": "Often wary of strangers and may bark to alert their owners.",
+    "special_traits": [
+      "Alert and inquisitive",
+      "Loyal and affectionate",
+      "Bold and confident",
+      "Energetic and playful",
+      "Protective of their territory"
+    ]
+  },
+  "health": {
+    "summary": "Yorkshire Terriers are generally healthy but are prone to certain conditions common in small breeds.",
+    "common_issues": [
+      "Hypoglycemia",
+      "Dental disease",
+      "Patellar luxation",
+      "Tracheal collapse",
+      "Portosystemic shunt"
+    ],
+    "prevention_tips": [
+      "Provide regular, balanced meals to prevent hypoglycemia.",
+      "Maintain dental hygiene with daily brushing and regular dental check-ups.",
+      "Use a harness instead of a collar to reduce pressure on the trachea.",
+      "Monitor for signs of joint issues and consult a veterinarian if lameness occurs.",
+      "Regular veterinary check-ups to detect and manage health issues early."
+    ],
+    "vet_checkups": "Annually for adults; semi-annually for seniors or as recommended by a veterinarian."
+  },
+  "care": {
+    "description": "Yorkshire Terriers require attentive care, including regular grooming, balanced nutrition, and consistent training.",
+    "behavior": "Early socialization and positive reinforcement training are essential to manage their bold and confident nature.",
+    "health": "Regular veterinary visits and preventive care are crucial to maintain their health and detect issues early.",
+    "grooming": "Daily brushing and regular professional grooming are necessary to keep their long coat healthy and free of mats.",
+    "nutrition": "Feed high-quality, age-appropriate dog food in small, frequent meals to maintain energy levels and prevent hypoglycemia."
+  },
+  "faq": [
+    {
+      "question": "Are Yorkshire Terriers hypoallergenic?",
+      "answer": "Yes, their fine, silky coat produces less dander, making them suitable for some allergy sufferers."
+    },
+    {
+      "question": "Do Yorkies get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, though they may exhibit dominance."
+    },
+    {
+      "question": "How often should a Yorkshire Terrier be groomed?",
+      "answer": "Daily brushing and regular professional grooming are recommended to maintain their coat."
+    },
+    {
+      "question": "Are Yorkshire Terriers good with children?",
+      "answer": "They are generally good with older children who understand how to handle small dogs gently."
+    },
+    {
+      "question": "What is the average lifespan of a Yorkshire Terrier?",
+      "answer": "They typically live between 11 to 15 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yorkshire_Terrier",
+    "https://www.petmd.com/dog/breeds/yorkshire-terrier",
+    "https://www.webmd.com/pets/dogs/know-about-yorkshire-terriers",
+    "https://vcahospitals.com/know-your-pet/yorkshire-terrier"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "pug",
+  "name": "Pug",
+  "full_description": "<p>The Pug is an ancient breed with origins tracing back to China around 400 B.C., where they were cherished as companions for emperors and Buddhist monks. Their distinctive facial wrinkles were intentionally bred to resemble the Chinese character for 'prince.' Dutch traders introduced Pugs to Europe in the 16th century, where they became the official dog of the House of Orange after a Pug named 'Pompey' saved Prince William of Orange from an assassination attempt. Pugs are compact and sturdy, typically weighing between 14 to 18 pounds (6.3 to 8.1 kg) and standing about 10 to 13 inches (25 to 33 cm) tall. They have a short, smooth coat that comes in colors such as fawn, black, silver, and apricot, often accompanied by a black mask and a distinctive 'trace' line along their back. Their large, round eyes and wrinkled forehead contribute to their expressive appearance. Known for their affectionate and playful nature, Pugs are eager to please and thrive on human companionship. They are well-suited for families, getting along well with children and other pets when properly socialized. Originally bred as lap dogs, Pugs have always served as companions rather than working dogs. Today, they continue to be popular pets worldwide, ranking among the top breeds in various countries. Notable characteristics include their charming personality, adaptability to various living environments, and a tendency to form strong bonds with their owners.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "14-18 lbs (6.3-8.1 kg)",
+    "height": "10-13 inches (25-33 cm)",
+    "coat": "short, smooth, and glossy; colors include fawn, black, silver, and apricot",
+    "activity": "moderate",
+    "trainability": "moderate; eager to please but can be stubborn",
+    "grooming": "weekly brushing; regular cleaning of facial wrinkles",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Pugs are affectionate, playful, and sociable dogs that thrive on human companionship and adapt well to various living environments.",
+    "with_family": "They form strong bonds with family members and enjoy being involved in daily activities.",
+    "with_children": "Pugs are gentle and playful with children, making them excellent family pets.",
+    "with_other_pets": "Generally good with other dogs and pets, especially when socialized from a young age.",
+    "with_strangers": "Reserved but friendly; they may be cautious initially but warm up quickly.",
+    "special_traits": [
+      "affectionate",
+      "playful",
+      "sociable",
+      "adaptable",
+      "eager to please"
+    ]
+  },
+  "health": {
+    "summary": "Pugs are generally healthy but are prone to certain breed-specific health issues due to their unique physical characteristics.",
+    "common_issues": [
+      "brachycephalic syndrome",
+      "obesity",
+      "eye problems (e.g., corneal ulcers, dry eye)",
+      "hip dysplasia",
+      "skin infections in facial wrinkles"
+    ],
+    "prevention_tips": [
+      "maintain a healthy weight through proper diet and exercise",
+      "regularly clean facial wrinkles to prevent infections",
+      "avoid strenuous exercise, especially in hot or humid weather",
+      "monitor for signs of respiratory distress",
+      "schedule regular veterinary check-ups"
+    ],
+    "vet_checkups": "at least once a year; more frequent visits may be necessary for senior Pugs or those with health issues"
+  },
+  "care": {
+    "description": "Pugs require attentive care to maintain their health and happiness, including regular grooming, exercise, and monitoring for breed-specific health concerns.",
+    "behavior": "They thrive on human interaction and should not be left alone for extended periods to prevent separation anxiety.",
+    "health": "Due to their brachycephalic nature, avoid exposing them to extreme temperatures and ensure they do not overexert themselves.",
+    "grooming": "Weekly brushing and regular cleaning of facial wrinkles are essential to prevent skin infections.",
+    "nutrition": "Provide a balanced diet and monitor food intake to prevent obesity, a common issue in the breed."
+  },
+  "faq": [
+    {
+      "question": "Are Pugs good apartment dogs?",
+      "answer": "Yes, their small size and moderate activity level make them well-suited for apartment living."
+    },
+    {
+      "question": "Do Pugs shed a lot?",
+      "answer": "Yes, Pugs shed more than some other breeds; regular brushing can help manage shedding."
+    },
+    {
+      "question": "Are Pugs easy to train?",
+      "answer": "They are eager to please but can be stubborn; consistent, positive reinforcement training works best."
+    },
+    {
+      "question": "Do Pugs get along with other pets?",
+      "answer": "Generally, yes; they are sociable and can coexist well with other pets when properly socialized."
+    },
+    {
+      "question": "What is the average lifespan of a Pug?",
+      "answer": "Pugs typically live between 12 to 15 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/is-the-pug-right-for-you/",
+    "https://www.akc.org/content/entertainment/articles/what-was-the-pug-bred-to-do/",
+    "https://vcahospitals.com/know-your-pet/pug",
+    "https://www.thekennelclub.org.uk/breed-standards/toy/pug/"
+  ]
+}

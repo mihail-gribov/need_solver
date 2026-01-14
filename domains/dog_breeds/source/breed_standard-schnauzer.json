@@ -1,0 +1,83 @@
+{
+  "id": "standard-schnauzer",
+  "name": "Standard Schnauzer",
+  "full_description": "<p>The Standard Schnauzer, originating in 14th-century Germany, was developed as a versatile farm dog adept at guarding property, herding livestock, and controlling vermin populations. The breed's name, derived from the German word 'schnauze' meaning 'snout,' highlights its distinctive bearded muzzle. Historically, these dogs were known as Wire-Haired Pinschers and were first exhibited in Germany in the 1870s. They gained popularity in the United States in the early 20th century, with the American Kennel Club (AKC) recognizing the breed in 1904. Physically, Standard Schnauzers are medium-sized, robust, and squarely built, standing between 17.5 to 19.5 inches tall and weighing 30 to 50 pounds. They possess a dense, wiry double coat in solid black or salt-and-pepper colorations, complemented by arched eyebrows and a bristly beard. Their expressive dark brown eyes and V-shaped ears, which may be cropped or natural, contribute to their alert appearance. Temperamentally, Standard Schnauzers are intelligent, energetic, and affectionate. They form strong bonds with their families and are known for their protective nature, making them excellent watchdogs. Their high intelligence and problem-solving abilities require consistent, positive reinforcement training to manage their sometimes stubborn tendencies. Originally bred for farm work, including guarding and ratting, they have transitioned into roles such as therapy, service, and search-and-rescue dogs. Their versatility also shines in dog sports like obedience, agility, and herding trials. In modern times, Standard Schnauzers are cherished companions, valued for their loyalty, playfulness, and adaptability to various living environments. Notable characteristics include their distinctive facial hair, which requires regular grooming, and their spirited, reliable nature that endears them to families worldwide.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "30-50 pounds",
+    "height": "17.5-19.5 inches",
+    "coat": "dense, wiry double coat; colors: solid black or salt-and-pepper",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming recommended",
+    "lifespan": "13-16 years"
+  },
+  "behavior": {
+    "summary": "Standard Schnauzers are intelligent, energetic, and affectionate dogs known for their loyalty and protective nature. They thrive on human companionship and require regular mental and physical stimulation to prevent boredom.",
+    "with_family": "They form strong bonds with family members, displaying devotion and a desire to be involved in all activities. Their protective instincts make them excellent watchdogs.",
+    "with_children": "Generally good with children, they are playful and tolerant. Early socialization is important to ensure positive interactions.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets. However, their strong prey drive may lead them to chase smaller animals.",
+    "with_strangers": "They tend to be reserved around unfamiliar people, often displaying a cautious demeanor. Proper socialization can help them become more accepting of strangers.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Energetic and requires regular exercise",
+      "Protective and alert watchdog",
+      "Affectionate with family",
+      "Strong prey drive"
+    ]
+  },
+  "health": {
+    "summary": "Standard Schnauzers are generally healthy and long-lived, with a lifespan of 13 to 16 years. They are prone to certain hereditary health issues, so regular veterinary care and preventive measures are important.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Cataracts",
+      "Retinal dysplasia",
+      "Follicular dysplasia",
+      "Dilated cardiomyopathy"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Screening for hereditary conditions",
+      "Maintaining a healthy diet and weight",
+      "Providing regular exercise",
+      "Ensuring proper grooming to prevent skin issues"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Standard Schnauzers require attentive care, including regular exercise, mental stimulation, and consistent grooming to maintain their health and well-being.",
+    "behavior": "They thrive on human interaction and mental challenges. Engaging them in activities like obedience training, agility, or interactive games helps prevent boredom and destructive behaviors.",
+    "health": "Regular veterinary visits are essential to monitor for hereditary conditions. A balanced diet and routine exercise contribute to overall health.",
+    "grooming": "Their wiry coat requires brushing several times a week and professional grooming every few months to maintain its texture and prevent matting.",
+    "nutrition": "A high-quality diet appropriate for their age, size, and activity level is recommended. Portion control is important to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Standard Schnauzers good with children?",
+      "answer": "Yes, they are generally good with children, being playful and tolerant. Early socialization is important to ensure positive interactions."
+    },
+    {
+      "question": "How much exercise does a Standard Schnauzer need?",
+      "answer": "They require at least 30 minutes of daily exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Standard Schnauzers shed a lot?",
+      "answer": "They have a low-shedding coat, but regular grooming is necessary to maintain its condition and prevent matting."
+    },
+    {
+      "question": "Are Standard Schnauzers easy to train?",
+      "answer": "Yes, they are highly intelligent and trainable, but they can be strong-willed. Consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "What are common health issues in Standard Schnauzers?",
+      "answer": "Common health concerns include hip dysplasia, cataracts, and dilated cardiomyopathy. Regular veterinary care is important for early detection and management."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/why-doesnt-everyone-have-standard-schnauzer/",
+    "https://www.petmd.com/dog/breeds/standard-schnauzer",
+    "https://en.wikipedia.org/wiki/Standard_Schnauzer",
+    "https://www.standardschnauzer.org/newSSCA/breed_standard.html",
+    "https://www.chewy.com/education/dog-breeds/Standard-Schnauzer"
+  ]
+}

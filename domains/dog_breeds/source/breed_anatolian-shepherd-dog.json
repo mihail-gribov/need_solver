@@ -1,0 +1,84 @@
+{
+  "id": "anatolian-shepherd-dog",
+  "name": "Anatolian Shepherd Dog",
+  "full_description": "<p>The Anatolian Shepherd Dog is a large, powerful breed originating from the rugged terrain of Turkey, where it was developed to guard livestock against formidable predators such as wolves and bears. This breed's history dates back thousands of years, with its ancestors serving as vigilant protectors of flocks in the Anatolian region. The Anatolian Shepherd's imposing stature is characterized by a broad, strong head and a dense double coat that varies in length and color, typically ranging from fawn to wolf grey, often accompanied by a black mask. Males stand between 29 to 32 inches tall at the shoulder, while females are slightly smaller, measuring 27 to 31 inches. Their weight ranges from 80 to 150 pounds, with males generally heavier than females. Temperamentally, Anatolian Shepherds are known for their independence, intelligence, and strong protective instincts. They are loyal and affectionate with their families but can be wary of strangers, making early socialization crucial. Their original purpose as livestock guardians endowed them with a natural ability to make decisions independently, a trait that persists today. In modern times, while they continue to serve as livestock guardians, Anatolian Shepherds have also become valued companions and watchdogs in various parts of the world. Their notable characteristics include a calm demeanor, vigilance, and a strong territorial instinct, making them both formidable protectors and devoted family members.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "80-150 pounds",
+    "height": "27-32 inches",
+    "coat": "dense double coat, varies in length and color",
+    "activity": "moderate",
+    "trainability": "moderate; requires experienced handling",
+    "grooming": "weekly brushing; more frequent during shedding seasons",
+    "lifespan": "11-13 years"
+  },
+  "behavior": {
+    "summary": "Anatolian Shepherds are independent, intelligent, and protective, with a strong territorial instinct.",
+    "with_family": "Loyal and affectionate, forming strong bonds with family members.",
+    "with_children": "Generally patient and protective, but supervision is recommended due to their size.",
+    "with_other_pets": "May be dominant; early socialization is important for harmonious relationships.",
+    "with_strangers": "Wary and reserved; proper introductions and socialization are essential.",
+    "special_traits": [
+      "Independent decision-making",
+      "Strong protective instincts",
+      "Loyalty to family",
+      "Territorial behavior",
+      "Intelligence"
+    ]
+  },
+  "health": {
+    "summary": "Generally healthy but prone to certain conditions common in large breeds.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Entropion",
+      "Bloat (Gastric Dilatation and Volvulus)",
+      "Hypothyroidism"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide appropriate exercise",
+      "Feed smaller, frequent meals to reduce bloat risk",
+      "Early detection and treatment of eye issues"
+    ],
+    "vet_checkups": "Annually; more frequent as needed for specific health concerns"
+  },
+  "care": {
+    "description": "Anatolian Shepherds require dedicated care, including proper training, health monitoring, and regular grooming.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent and protective nature.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits.",
+    "grooming": "Weekly brushing is sufficient, with increased frequency during shedding seasons.",
+    "nutrition": "Provide a balanced diet appropriate for large breeds; avoid overfeeding to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Anatolian Shepherds good family pets?",
+      "answer": "Yes, they are loyal and protective, but require proper training and socialization."
+    },
+    {
+      "question": "Do they get along with other pets?",
+      "answer": "With early socialization, they can coexist with other pets, though supervision is advised."
+    },
+    {
+      "question": "How much exercise do they need?",
+      "answer": "Moderate exercise, such as daily walks and playtime in a secure area, is sufficient."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "Their independent nature can make training challenging; experienced handlers are recommended."
+    },
+    {
+      "question": "Do they require a lot of grooming?",
+      "answer": "Regular weekly brushing is needed, with more frequent grooming during shedding periods."
+    }
+  ],
+  "sources": [
+    "https://www.webmd.com/pets/dogs/know-about-anatolian-shepherd-dogs",
+    "https://www.petmd.com/dog/breeds/anatolian-shepherd",
+    "https://www.petscare.com/news/faq/what-are-the-cons-of-the-anatolian-shepherd",
+    "https://www.snuffalo.com/en/dog-breeds/anatolian-shepherd-dog",
+    "https://4pah.com/client-resources/breed-info/anatolian-shepherd/",
+    "https://www.wisdompanel.com/en-us/dog-breeds/anatolian-shepherd-dog"
+  ]
+}

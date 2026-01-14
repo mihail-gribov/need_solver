@@ -1,0 +1,80 @@
+{
+  "id": "shar-pei",
+  "name": "Chinese Shar-Pei",
+  "full_description": "<p>The Chinese Shar-Pei is an ancient breed originating from Southern China, with historical records dating back to the Han Dynasty around 200 B.C. Initially bred for guarding, hunting, and later dog fighting, the breed's distinctive loose skin and bristly coat were advantageous in combat, preventing opponents from gaining a firm grip. The name 'Shar-Pei' translates to 'sand skin,' reflecting its unique coat texture. The breed faced near extinction during the 20th century but was revived through dedicated efforts in Hong Kong, Taiwan, and the United States. Recognized by the American Kennel Club in 1992, the Shar-Pei has since gained global popularity. Physically, the Shar-Pei is a medium-sized, compact dog with a square profile. Males typically stand between 18 to 20 inches at the withers and weigh 45 to 60 pounds, with females being slightly smaller. The breed's most notable features include a broad 'hippopotamus' muzzle, small high-set ears, and a high-set tail that curls over the back. Puppies exhibit abundant wrinkles covering their bodies, which become more concentrated around the head, neck, and shoulders as they mature. The coat is short, harsh, and bristly, coming in various solid colors. Temperamentally, the Shar-Pei is calm, independent, and devoted to its family. While affectionate with familiar people, they can be reserved or wary around strangers. Their strong-willed nature requires consistent, positive reinforcement training from an early age. Historically, the Shar-Pei served as a versatile working dog, excelling in guarding properties, hunting wild boar, and participating in dog fighting. Today, they are primarily companion animals, valued for their loyalty and distinctive appearance. Notable characteristics include their unique wrinkled skin, blue-black tongue, and the 'hippopotamus' muzzle, all contributing to their unmistakable identity.</p>",
+  "parameters": {
+    "size": "Medium",
+    "weight": "45-60 pounds",
+    "height": "18-20 inches",
+    "coat": "Short, harsh, bristly",
+    "activity": "Moderate",
+    "trainability": "Moderate",
+    "grooming": "Weekly brushing; regular ear cleaning",
+    "lifespan": "Over 10 years"
+  },
+  "behavior": {
+    "summary": "The Chinese Shar-Pei is a calm and independent breed, known for its devotion to family and reserved demeanor towards strangers.",
+    "with_family": "Affectionate and loyal, forming strong bonds with family members.",
+    "with_children": "Generally tolerant but may not be overly playful; early socialization is recommended.",
+    "with_other_pets": "Usually good with small family pets but may chase livestock and other animals.",
+    "with_strangers": "Reserved and sometimes wary; early socialization helps in managing this behavior.",
+    "special_traits": [
+      "Independent",
+      "Loyal",
+      "Reserved",
+      "Protective",
+      "Calm"
+    ]
+  },
+  "health": {
+    "summary": "The Chinese Shar-Pei is generally healthy but prone to certain breed-specific conditions requiring attentive care.",
+    "common_issues": [
+      "Skin infections",
+      "Entropion (eyelid disorder)",
+      "Hip dysplasia",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular skin cleaning to prevent infections",
+      "Routine eye examinations",
+      "Maintaining a healthy weight to reduce joint stress",
+      "Regular ear cleaning to prevent infections"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits for aging dogs or those with health issues"
+  },
+  "care": {
+    "description": "The Chinese Shar-Pei requires moderate exercise, consistent training, and regular grooming to maintain health and well-being.",
+    "behavior": "Early socialization and firm, positive reinforcement training are essential due to their independent nature.",
+    "health": "Regular veterinary check-ups and attentive care to skin, eyes, and ears are crucial.",
+    "grooming": "Weekly brushing and regular ear cleaning are necessary to prevent infections.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is important; monitor for food allergies."
+  },
+  "faq": [
+    {
+      "question": "Are Chinese Shar-Peis good with children?",
+      "answer": "They are generally tolerant but may not be overly playful; early socialization is recommended."
+    },
+    {
+      "question": "How much exercise does a Shar-Pei need?",
+      "answer": "Moderate daily exercise, such as a leisurely walk or short play session, is sufficient."
+    },
+    {
+      "question": "Do Shar-Peis require a lot of grooming?",
+      "answer": "They need weekly brushing and regular ear cleaning to maintain health."
+    },
+    {
+      "question": "Are Shar-Peis easy to train?",
+      "answer": "They are independent and may be stubborn; consistent, positive reinforcement training is effective."
+    },
+    {
+      "question": "What is the lifespan of a Chinese Shar-Pei?",
+      "answer": "They typically live over 10 years with proper care."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/chinese-shar-pei",
+    "https://www.thekennelclub.org.uk/breed-standards/utility/shar-pei/",
+    "https://vcahospitals.com/know-your-pet/dog-breeds/chinese-shar-pei",
+    "https://images.akc.org/pdf/breeds/standards/ChineseSharPei.pdf"
+  ]
+}

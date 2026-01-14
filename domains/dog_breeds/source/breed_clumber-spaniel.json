@@ -1,0 +1,86 @@
+{
+  "id": "clumber-spaniel",
+  "name": "Clumber Spaniel",
+  "full_description": "<p>The Clumber Spaniel is a distinguished breed originating from England, renowned for its substantial build and gentle demeanor. Developed in the 18th century, the breed's name is derived from Clumber Park in Nottinghamshire, where it was first bred. Clumber Spaniels were primarily designed for hunting in dense underbrush, utilizing their strength and endurance to flush out game birds such as pheasants and partridges. Their white coats, often adorned with lemon or orange markings, provided hunters with visibility in the field. Physically, Clumber Spaniels are the largest among the spaniel breeds, standing between 17 to 20 inches tall and weighing between 55 to 85 pounds. They possess a massive head with a pronounced stop, heavy brow, and a square muzzle. Their dense, straight coat features feathering around the ears, belly, and legs, requiring regular grooming to maintain its condition. Temperamentally, Clumber Spaniels are gentle, loyal, and affectionate, often displaying a dignified and somewhat aloof attitude towards strangers. They are known for their calm disposition, making them excellent companions for families. Despite their sedate appearance, they have a playful side and enjoy carrying objects, a trait stemming from their retrieving heritage. Originally bred as gundogs, Clumber Spaniels excelled in hunting through thick cover, using their powerful build and keen sense of smell to locate and retrieve game. In contemporary times, while their role as hunting dogs has diminished, they have found a place as beloved family pets and participants in dog sports. Their unique combination of strength, gentleness, and distinctive appearance continues to endear them to dog enthusiasts worldwide.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "55-85 lbs",
+    "height": "17-20 inches",
+    "coat": "dense, straight, with feathering around ears, belly, and legs",
+    "activity": "moderate",
+    "trainability": "moderate; can be strong-willed and easily bored",
+    "grooming": "regular brushing; attention to ears and facial wrinkles",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "Clumber Spaniels are gentle, loyal, and affectionate dogs with a dignified demeanor. They are known for their calm disposition and can be somewhat reserved with strangers.",
+    "with_family": "They form strong bonds with family members, displaying affectionate and loyal behavior.",
+    "with_children": "Generally good with children, exhibiting patience and gentleness.",
+    "with_other_pets": "Can be reserved with other dogs until familiar; early socialization is beneficial.",
+    "with_strangers": "Tend to be aloof with strangers but are not aggressive.",
+    "special_traits": [
+      "Gentle and affectionate",
+      "Calm and dignified",
+      "Enjoys carrying objects",
+      "Can be strong-willed",
+      "Reserved with strangers"
+    ]
+  },
+  "health": {
+    "summary": "Clumber Spaniels are generally healthy but are predisposed to certain conditions due to their build and genetics. Regular veterinary care and preventive measures are essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Intervertebral disc disease (IVDD)",
+      "Entropion and ectropion (eyelid issues)",
+      "Ear infections",
+      "Hypothyroidism",
+      "Allergies"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight to reduce joint stress",
+      "Regular ear cleaning to prevent infections",
+      "Routine eye examinations",
+      "Avoid strenuous activities that may strain the spine",
+      "Provide a balanced diet to support overall health"
+    ],
+    "vet_checkups": "At least once a year; more frequent for puppies and senior dogs"
+  },
+  "care": {
+    "description": "Clumber Spaniels require moderate exercise, regular grooming, and attentive health care to maintain their well-being.",
+    "behavior": "They thrive on companionship and enjoy activities like walking and retrieving games.",
+    "health": "Regular veterinary check-ups and preventive care are crucial to monitor and manage potential health issues.",
+    "grooming": "Frequent brushing to manage shedding; regular ear cleaning and attention to facial wrinkles to prevent infections.",
+    "nutrition": "Balanced diet to maintain healthy weight; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Clumber Spaniels good family pets?",
+      "answer": "Yes, they are gentle and affectionate, making them excellent companions for families."
+    },
+    {
+      "question": "Do Clumber Spaniels require a lot of exercise?",
+      "answer": "They need moderate exercise, such as daily walks and play sessions, to stay healthy."
+    },
+    {
+      "question": "Are Clumber Spaniels easy to train?",
+      "answer": "They are trainable but can be strong-willed; consistent, positive reinforcement methods work best."
+    },
+    {
+      "question": "Do Clumber Spaniels shed a lot?",
+      "answer": "Yes, they shed moderately and require regular brushing to manage their coat."
+    },
+    {
+      "question": "Are Clumber Spaniels prone to health issues?",
+      "answer": "They can be susceptible to certain conditions like hip dysplasia and ear infections; regular vet care is important."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clumber_Spaniel",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-clumber-spaniels",
+    "https://www.petsradar.com/dogs/dog-breeds/clumber-spaniel-breed-profile",
+    "https://www.petmd.com/dog/breeds/clumber-spaniel",
+    "https://clumbers.org/clumber-101/general-health/",
+    "https://vcahospitals.com/know-your-pet/clumber-spaniel",
+    "https://www.clumberhealth.org/"
+  ]
+}

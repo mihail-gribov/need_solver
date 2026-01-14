@@ -1,0 +1,83 @@
+{
+  "id": "weimaraner",
+  "name": "Weimaraner",
+  "full_description": "<p>The Weimaraner, often referred to as the \"Gray Ghost\" due to its distinctive silver-gray coat, is a versatile hunting dog originating from Germany. Developed in the early 19th century by the noblemen of the Court of Weimar, these dogs were initially bred for hunting large game such as deer, boar, and bear. As large game hunting declined, the breed adapted to hunting smaller game and birds, showcasing its versatility. Physically, Weimaraners are medium to large-sized dogs with a sleek, short coat that lies close to the body. Their coat colors range from mouse-gray to silver-gray, and they possess striking light amber, gray, or blue-gray eyes. Males typically stand between 25 to 27 inches at the shoulder and weigh between 70 to 90 pounds, while females are slightly smaller, standing 23 to 25 inches tall and weighing 55 to 70 pounds. The breed is known for its athletic build, deep chest, and long, high-set ears. Temperamentally, Weimaraners are intelligent, energetic, and affectionate. They form strong bonds with their families and are known for their loyalty. However, their high energy levels and intelligence require regular mental and physical stimulation to prevent boredom and potential behavioral issues. Originally bred as all-purpose gun dogs, Weimaraners excel in various hunting tasks, including tracking, pointing, and retrieving. Their keen sense of smell and strong prey drive make them adept hunters. In modern times, they have transitioned into roles as family companions, assistance dogs, and even police dogs, particularly in Europe and the UK. Notable characteristics of the breed include their need for consistent exercise, their tendency to be protective of their families, and their suitability for active owners who can meet their exercise and mental stimulation needs.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "55-90 pounds",
+    "height": "23-27 inches",
+    "coat": "short, sleek, silver-gray",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "minimal; regular brushing",
+    "lifespan": "10-13 years"
+  },
+  "behavior": {
+    "summary": "Weimaraners are energetic, intelligent, and affectionate dogs that form strong bonds with their families. They require regular mental and physical stimulation to prevent boredom and potential behavioral issues.",
+    "with_family": "They are loyal and protective, often forming close attachments to family members and thriving on companionship.",
+    "with_children": "Generally good with children, especially when raised together, but their high energy levels may be overwhelming for very young kids.",
+    "with_other_pets": "With proper socialization, they can coexist with other pets, though their strong prey drive may pose challenges with smaller animals.",
+    "with_strangers": "They can be reserved or cautious around strangers, making early socialization important to develop well-rounded behavior.",
+    "special_traits": [
+      "High energy levels",
+      "Strong prey drive",
+      "Intelligent and trainable",
+      "Loyal and protective",
+      "Requires regular exercise"
+    ]
+  },
+  "health": {
+    "summary": "Weimaraners are generally healthy but are prone to certain conditions such as hip dysplasia, bloat, and entropion. Regular veterinary care and preventive measures are essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Bloat (gastric torsion)",
+      "Entropion",
+      "Hypothyroidism",
+      "Mast cell tumors"
+    ],
+    "prevention_tips": [
+      "Provide regular exercise to maintain healthy weight",
+      "Feed smaller, frequent meals to reduce bloat risk",
+      "Regular eye examinations to detect entropion early",
+      "Routine veterinary check-ups for early detection of health issues",
+      "Maintain a balanced diet to support overall health"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health concerns"
+  },
+  "care": {
+    "description": "Weimaraners require consistent exercise, mental stimulation, and companionship to thrive. They are best suited for active families or individuals who can meet their high energy needs.",
+    "behavior": "Due to their intelligence and energy, they benefit from structured training and activities like agility or obedience to keep them engaged.",
+    "health": "Regular veterinary visits and preventive care are crucial to monitor and maintain their health, especially concerning breed-specific issues.",
+    "grooming": "Their short coat requires minimal grooming; weekly brushing is sufficient to remove loose hair and maintain coat health.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential; consult a veterinarian for specific dietary recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are Weimaraners good family pets?",
+      "answer": "Yes, they are loyal and affectionate, making them excellent family companions for active households."
+    },
+    {
+      "question": "How much exercise does a Weimaraner need?",
+      "answer": "They require at least one to two hours of vigorous exercise daily to meet their high energy levels."
+    },
+    {
+      "question": "Do Weimaraners get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, though their prey drive may be a concern with smaller animals."
+    },
+    {
+      "question": "What are common health issues in Weimaraners?",
+      "answer": "They are prone to hip dysplasia, bloat, entropion, hypothyroidism, and mast cell tumors."
+    },
+    {
+      "question": "How long do Weimaraners typically live?",
+      "answer": "Their average lifespan is between 10 to 13 years."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Weimaraner",
+    "https://www.petmd.com/dog/breeds/weimaraner",
+    "https://www.purina.com/dogs/dog-breeds/weimaraner",
+    "https://www.westminsterkennelclub.org/breed/weimaraner/",
+    "https://www.petco.com/content/content-hub/home/breeds/dog-breeds/weimaraner.html"
+  ]
+}

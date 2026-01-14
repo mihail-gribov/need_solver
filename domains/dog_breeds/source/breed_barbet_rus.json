@@ -1,0 +1,155 @@
+{
+  "id": "barbet",
+  "name": "Barbet",
+  "name_rus": "Барбет",
+  "full_description": "<p>The Barbet is a historic French water dog, with origins tracing back to the 16th century. Its name derives from the French word 'barbe,' meaning 'beard,' highlighting its distinctive facial hair. Traditionally, the Barbet was bred for retrieving waterfowl, showcasing its exceptional swimming abilities and keen sense of smell. Physically, the Barbet is a medium-sized, slightly rectangular dog with a substantial head and a long, sweeping tail. Its most notable feature is its dense, curly coat that covers the entire body, including the head and tail. This coat comes in various colors, including black, gray, brown, and fawn, with or without white markings. The breed's eyes are medium-sized and expressive, ranging from dark hazel to dark brown, harmonizing with the coat color. Temperamentally, the Barbet is known for its friendly, intelligent, and obedient nature. It forms strong bonds with family members and is sociable with other pets and strangers. Its joyful disposition makes it an excellent companion for families. Historically utilized for waterfowl hunting, the Barbet's working abilities include locating, flushing, and retrieving birds. Its agility and endurance make it well-suited for various canine sports and activities. In modern times, the Barbet has gained popularity as a versatile companion, excelling in roles such as therapy and assistance work. Its hypoallergenic coat and affectionate nature contribute to its appeal among dog enthusiasts. Notable characteristics of the Barbet include its adaptability, intelligence, and eagerness to please, making it a cherished breed for those seeking a loyal and versatile canine companion.</p>",
+  "full_description_rus": "<p>Барбет — историческая французская водяная собака, чьи корни уходят в XVI век. Название породы происходит от французского слова «barbe», что означает «борода», подчёркивая её характерную внешность. Изначально барбеты были выведены для охоты на водоплавающую дичь, демонстрируя выдающиеся способности к плаванию и острый нюх. Физически барбет — собака среднего размера с несколько прямоугольным корпусом, массивной головой и длинным, изогнутым хвостом. Её наиболее заметной чертой является густая, кудрявая шерсть, покрывающая всё тело, включая голову и хвост. Окрас может быть чёрным, серым, коричневым или палевым, с белыми отметинами или без них. Глаза средние по размеру, выразительные, от тёмно-орехового до тёмно-коричневого цвета, гармонирующие с окрасом шерсти. По темпераменту барбет известен своей дружелюбностью, интеллектом и послушанием. Он формирует крепкие связи с членами семьи и хорошо ладит с другими животными и незнакомцами. Его жизнерадостный характер делает его отличным компаньоном для семей. Исторически использовавшийся для охоты на водоплавающую дичь, барбет обладает способностями к поиску, вспугиванию и подаче птицы. Его ловкость и выносливость делают его подходящим для различных собачьих видов спорта и активностей. В современное время барбет приобрёл популярность как универсальный компаньон, успешно выполняя роли в терапии и вспомогательной работе. Его гипоаллергенная шерсть и привязанность к людям способствуют его привлекательности среди любителей собак. Ключевые характеристики барбета включают адаптивность, интеллект и стремление угодить, что делает его ценным выбором для тех, кто ищет преданного и универсального собачьего друга.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "35-65 pounds",
+    "height": "19-24.5 inches",
+    "coat": "dense, curly, water-resistant",
+    "activity": "moderate to high",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming recommended",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "16-29 кг",
+    "рост": "48-62 см",
+    "шерсть": "густая, кудрявая, водоотталкивающая",
+    "активность": "умеренная до высокой",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчёсывание; рекомендуется профессиональный груминг",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "summary": "The Barbet is an affectionate and intelligent breed, known for its friendly and sociable nature. It forms strong bonds with family members and is eager to please, making it highly trainable.",
+    "with_family": "Barbets are loyal and loving companions, thriving on close interaction with their family. They enjoy participating in family activities and are known for their gentle demeanor.",
+    "with_children": "This breed is generally good with children, displaying patience and playfulness. Supervised interactions are recommended to ensure positive experiences for both the dog and the child.",
+    "with_other_pets": "Barbets typically get along well with other pets, especially when socialized from a young age. Their friendly nature allows them to coexist peacefully with other animals.",
+    "with_strangers": "While they may be reserved initially, Barbets are generally polite and friendly towards strangers, especially when properly socialized.",
+    "special_traits": [
+      "Highly adaptable to various living environments",
+      "Strong swimming abilities",
+      "Hypoallergenic coat",
+      "Eager to please",
+      "Versatile in various canine sports"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Барбет — ласковая и умная порода, известная своей дружелюбностью и общительностью. Он формирует крепкие связи с членами семьи и стремится угодить, что делает его легко обучаемым.",
+    "с семьёй": "Барбеты — преданные и любящие компаньоны, процветающие в тесном взаимодействии с семьёй. Они любят участвовать в семейных мероприятиях и известны своим мягким нравом.",
+    "с детьми": "Эта порода обычно хорошо ладит с детьми, проявляя терпение и игривость. Рекомендуется контролировать взаимодействия, чтобы обеспечить положительный опыт для собаки и ребёнка.",
+    "с другими животными": "Барбеты обычно хорошо уживаются с другими животными, особенно при социализации с раннего возраста. Их дружелюбный характер позволяет им мирно сосуществовать с другими питомцами.",
+    "с незнакомцами": "Хотя они могут быть изначально сдержанными, барбеты обычно вежливы и дружелюбны к незнакомцам, особенно при правильной социализации.",
+    "особые черты": [
+      "Высокая адаптивность к различным условиям проживания",
+      "Сильные способности к плаванию",
+      "Гипоаллергенная шерсть",
+      "Стремление угодить",
+      "Универсальность в различных собачьих видах спорта"
+    ]
+  },
+  "health": {
+    "summary": "The Barbet is generally a healthy breed with a lifespan of 12 to 15 years. Due to careful breeding practices, they have relatively few health issues.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Eye conditions",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintaining a healthy weight",
+      "Routine ear cleaning",
+      "Providing regular exercise",
+      "Feeding a balanced diet"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Барбет — в целом здоровая порода с продолжительностью жизни от 12 до 15 лет. Благодаря тщательным методам разведения, у них относительно мало проблем со здоровьем.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Заболевания глаз",
+      "Инфекции ушей"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здорового веса",
+      "Рутинная чистка ушей",
+      "Обеспечение регулярных физических нагрузок",
+      "Сбалансированное питание"
+    ],
+    "рекомендуемые осмотры": "Ежегодно, или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "The Barbet requires regular grooming and exercise to maintain its health and happiness. Its curly coat needs consistent care to prevent matting.",
+    "behavior": "This breed thrives on companionship and enjoys being involved in family activities. Providing mental stimulation through training and play is essential.",
+    "health": "Regular veterinary visits and preventive care are important to monitor and maintain the Barbet's health.",
+    "grooming": "Regular brushing and professional grooming are recommended to keep the coat in good condition and prevent matting.",
+    "nutrition": "A balanced diet appropriate for the dog's age, size, and activity level is essential for maintaining optimal health."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Барбету необходимы регулярный уход за шерстью и физические нагрузки для поддержания здоровья и счастья. Его кудрявая шерсть требует постоянного внимания, чтобы предотвратить образование колтунов.",
+    "поведение и характер": "Эта порода процветает в компании и любит участвовать в семейных мероприятиях. Обеспечение умственной стимуляции через тренировки и игры крайне важно.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход важны для мониторинга и поддержания здоровья барбета.",
+    "груминг и уход": "Рекомендуется регулярное расчёсывание и профессиональный груминг для поддержания шерсти в хорошем состоянии и предотвращения колтунов.",
+    "питание и активность": "Сбалансированное питание, соответствующее возрасту, размеру и уровню активности собаки, необходимо для поддержания оптимального здоровья."
+  },
+  "faq": [
+    {
+      "question": "Is the Barbet suitable for families with children?",
+      "answer": "Yes, Barbets are known for their gentle and patient nature, making them excellent companions for families with children."
+    },
+    {
+      "question": "Does the Barbet require a lot of grooming?",
+      "answer": "Yes, their dense, curly coat requires regular brushing and professional grooming to prevent matting."
+    },
+    {
+      "question": "Is the Barbet hypoallergenic?",
+      "answer": "Yes, the Barbet's coat is considered hypoallergenic, making it suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Barbet need?",
+      "answer": "Barbets have moderate to high energy levels and require regular exercise to stay healthy and happy."
+    },
+    {
+      "question": "Are Barbets easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходит ли барбет для семей с детьми?",
+      "ответ": "Да, барбеты известны своим мягким и терпеливым характером, что делает их отличными компаньонами для семей с детьми."
+    },
+    {
+      "вопрос": "Требует ли барбет много ухода за шерстью?",
+      "ответ": "Да, их густая, кудрявая шерсть требует регулярного расчёсывания и профессионального груминга для предотвращения колтунов."
+    },
+    {
+      "вопрос": "Является ли барбет гипоаллергенной породой?",
+      "ответ": "Да, шерсть барбета считается гипоаллергенной, что делает его подходящим для некоторых людей, страдающих аллергией."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется барбету?",
+      "ответ": "Барбеты обладают умеренным до высоким уровнем энергии и нуждаются в регулярных физических нагрузках для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Легко ли обучать барбетов?",
+      "ответ": "Да, они умны и стремятся угодить, что делает их легко обучаемыми."
+    }
+  ],
+  "sources": [
+    "https://www.barbetclubofamerica.com/barbet",
+    "https://www.akc.org/dog-breeds/barbet/",
+    "https://www.akc.org/expert-advice/lifestyle/barbet-fun-facts/",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-barbets",
+    "https://www.westminsterkennelclub.org/breed/barbet/",
+    "https://ru.wikipedia.org/wiki/Барбет_(порода_собак)",
+    "https://royalcanin.ru/dog-breed/barbet",
+    "https://zdorovet.ru/barbet/"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "wirehaired-vizsla",
+  "name": "Wirehaired Vizsla",
+  "full_description": "<p>The Wirehaired Vizsla is a distinguished and versatile hunting dog that originated in Hungary during the 1930s. Developed by hunters and falconers, the breed was created by crossing the smooth-coated Vizsla with the German Wirehaired Pointer to produce a dog capable of withstanding harsh winters and retrieving from icy waters. This crossbreeding resulted in a robust, medium-sized dog with a dense, wiry coat that provides protection against cold and rough terrains. The Wirehaired Vizsla stands between 21 to 25 inches tall and weighs approximately 40 to 66 pounds. Its coat is golden rust in varying shades, complemented by distinctive facial furnishings such as a beard and eyebrows. The breed's eyes, nose, and toenails harmonize with its coat color, presenting a unified and appealing appearance. Known for their affectionate and gentle nature, Wirehaired Vizslas form strong bonds with their families. They are intelligent, eager to please, and thrive on human companionship, making them excellent family pets. Their friendly disposition extends to children and other animals, though early socialization is beneficial. Originally bred for hunting, the Wirehaired Vizsla excels in pointing and retrieving both on land and in water. Their keen sense of smell and natural hunting instincts make them adept at tracking game. In modern times, they participate in various canine sports, including agility, obedience, and search and rescue operations. The breed's unique combination of a wiry coat, athletic build, and amiable temperament has contributed to its growing popularity among dog enthusiasts worldwide. Notable characteristics of the Wirehaired Vizsla include its weather-resistant coat, versatility in various terrains, and a balanced temperament that combines energy with a calm demeanor at home.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "40–66 lb",
+    "height": "21–25 in",
+    "coat": "dense, wiry, weather-resistant",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; occasional stripping",
+    "lifespan": "12–14 years"
+  },
+  "behavior": {
+    "summary": "Wirehaired Vizslas are affectionate, intelligent, and energetic dogs that form strong bonds with their families. They are eager to please and thrive on human companionship.",
+    "with_family": "They are loyal and affectionate, often seeking close contact with family members and enjoying participation in family activities.",
+    "with_children": "Generally gentle and patient, they get along well with children, especially when socialized from a young age.",
+    "with_other_pets": "With proper socialization, they coexist well with other pets, though their hunting instincts may lead to chasing smaller animals.",
+    "with_strangers": "Typically friendly and outgoing, they may be reserved around strangers initially but warm up quickly.",
+    "special_traits": [
+      "Affectionate and people-oriented",
+      "High energy and requires regular exercise",
+      "Intelligent and highly trainable",
+      "Natural hunting and retrieving instincts",
+      "Sensitive and responsive to training methods"
+    ]
+  },
+  "health": {
+    "summary": "Wirehaired Vizslas are generally healthy with a lifespan of 12–14 years but are prone to certain hereditary conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Hyperuricosuria (HUU)",
+      "Eye conditions (e.g., glaucoma, progressive retinal atrophy)",
+      "Allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide a balanced diet",
+      "Ensure regular exercise",
+      "Early screening for hereditary conditions"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Wirehaired Vizslas require regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "behavior": "They thrive on human interaction and should be included in daily activities to prevent boredom and destructive behaviors.",
+    "health": "Regular veterinary visits and preventive care are essential to monitor and maintain their overall health.",
+    "grooming": "Regular brushing and occasional stripping of the coat are necessary to maintain its texture and remove dead hair.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is crucial; consult a veterinarian for specific dietary recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are Wirehaired Vizslas good family pets?",
+      "answer": "Yes, they are affectionate and bond closely with family members, making them excellent companions."
+    },
+    {
+      "question": "How much exercise does a Wirehaired Vizsla need?",
+      "answer": "They require at least 30–60 minutes of vigorous exercise daily to stay healthy and happy."
+    },
+    {
+      "question": "Do Wirehaired Vizslas shed a lot?",
+      "answer": "They have a dense, wiry coat that sheds minimally but requires regular grooming to maintain its condition."
+    },
+    {
+      "question": "Are Wirehaired Vizslas easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, responding well to positive reinforcement training methods."
+    },
+    {
+      "question": "Can Wirehaired Vizslas live in apartments?",
+      "answer": "They can adapt to apartment living if provided with sufficient exercise and mental stimulation."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/wirehaired-vizsla",
+    "https://en.wikipedia.org/wiki/Wirehaired_Vizsla",
+    "https://www.purina.com/dogs/dog-breeds/wirehaired-vizsla",
+    "https://www.westminsterkennelclub.org/breed/wirehaired-vizsla/",
+    "https://www.gundogmag.com/editorial/breed-profile-wirehaired-vizsla/175421",
+    "https://www.gowirehaired.com/wirehaired-vizsla.html",
+    "https://www.pattepatte.co/blogs/pattepedia/common-health-issues-in-wirehaired-vizsla",
+    "https://www.wvca.club/breed-standard",
+    "https://www.k9rl.com/dog-breeds/sporting-dogs/wirehaired-vizsla/",
+    "https://www.wisdompanel.com/en-us/dog-breeds/wirehaired-vizsla",
+    "https://www.petfinder.com/dogs-and-puppies/breeds/wirehaired-vizsla/",
+    "https://www.akc.org/dog-breeds/wirehaired-vizsla/pictures/",
+    "https://www.greatdogsite.com/pure-dog-breeds/wirehaired-vizsla/"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "bluetick-coonhound",
+  "name": "Bluetick Coonhound",
+  "name_rus": "Крапчато-голубой кунхаунд",
+  "full_description": "<p>The Bluetick Coonhound is a breed with a rich heritage, tracing its origins to the United States. Developed primarily in Louisiana, this breed emerged from a blend of English Foxhounds and various French hounds, notably the Grand Bleu de Gascogne. These French hounds were renowned for their cold noses, enabling them to track old or faint scents, a trait highly valued in hunting. The Bluetick Coonhound was officially recognized as a distinct breed by the United Kennel Club (UKC) in 1946, separating it from the English Coonhound category. Physically, the Bluetick Coonhound presents a muscular and athletic build, designed for endurance and agility. Males typically stand between 22 to 27 inches at the shoulder, weighing 55 to 80 pounds, while females range from 21 to 25 inches in height and weigh between 45 to 65 pounds. Their coat is short, dense, and glossy, predominantly dark blue with a thickly mottled pattern, interspersed with black spots on the back, ears, and sides. Tan markings may appear over the eyes, on the cheeks, chest, and below the tail. The head and ears are predominantly black, contributing to their distinctive appearance. Temperamentally, Bluetick Coonhounds are intelligent, friendly, and energetic. They possess a strong prey drive, making them excellent hunters, yet they are also known for their loyalty and affectionate nature towards their families. Their keen sense of smell and determination make them adept at tracking and treeing game, particularly raccoons. In modern times, while they continue to excel in hunting roles, Bluetick Coonhounds have also become cherished companions in active households. Their unique coat pattern, combined with their expressive eyes and characteristic 'bawl' or 'bugle' voice, adds to their appeal. Notably, their ability to stay on intricate tracks and their endurance in the field set them apart as exceptional working dogs.</p>",
+  "full_description_rus": "<p>Крапчато-голубой кунхаунд — порода собак с богатой историей, происходящая из США. Разведённая преимущественно в Луизиане, эта порода возникла в результате скрещивания английских фоксхаундов и различных французских гончих, особенно Гранд Блю де Гасконь. Эти французские гончие были известны своим «холодным» чутьём, позволяющим отслеживать старые или слабые запахи, что высоко ценилось в охоте. Крапчато-голубой кунхаунд был официально признан отдельной породой Объединённым клубом собаководства (UKC) в 1946 году, отделившись от категории английских кунхаундов. Физически крапчато-голубой кунхаунд обладает мускулистым и атлетичным телосложением, приспособленным для выносливости и ловкости. Кобели обычно достигают высоты в холке от 56 до 69 см и весят от 25 до 36 кг, в то время как суки имеют рост от 53 до 64 см и вес от 20 до 29 кг. Их шерсть короткая, плотная и блестящая, преимущественно тёмно-голубого цвета с густым крапчатым рисунком, перемежающимся чёрными пятнами на спине, ушах и боках. Подпалые отметины могут появляться над глазами, на щеках, груди и под хвостом. Голова и уши преимущественно чёрные, что придаёт им характерный внешний вид. По темпераменту крапчато-голубые кунхаунды умны, дружелюбны и энергичны. Они обладают сильным охотничьим инстинктом, что делает их отличными охотниками, но также известны своей преданностью и ласковым отношением к семье. Их острое обоняние и настойчивость делают их искусными в выслеживании и загоне дичи, особенно енотов. В современное время, помимо охотничьих ролей, крапчато-голубые кунхаунды стали любимыми компаньонами в активных семьях. Их уникальный окрас, выразительные глаза и характерный «громкий» или «трубный» голос добавляют им привлекательности. Особенно выделяется их способность следовать сложным следам и выносливость в поле, что делает их исключительными рабочими собаками.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "Males: 55-80 pounds (25-36 kg); Females: 45-65 pounds (20-29 kg)",
+    "height": "Males: 22-27 inches (56-69 cm); Females: 21-25 inches (53-64 cm)",
+    "coat": "Short, dense, and glossy; predominantly dark blue with black spots and possible tan markings",
+    "activity": "High",
+    "trainability": "Moderate to high; intelligent but can be independent",
+    "grooming": "Low; regular ear checks recommended",
+    "lifespan": "11-12 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "Кобели: 25-36 кг; Суки: 20-29 кг",
+    "рост": "Кобели: 56-69 см; Суки: 53-64 см",
+    "шерсть": "Короткая, плотная и блестящая; преимущественно тёмно-голубая с чёрными пятнами и возможными подпалыми отметинами",
+    "активность": "Высокая",
+    "обучаемость": "Средняя; умны, но могут быть независимыми",
+    "уход": "Низкий; рекомендуется регулярная проверка ушей",
+    "продолжительность жизни": "11-12 лет"
+  },
+  "behavior": {
+    "summary": "Bluetick Coonhounds are intelligent, energetic, and friendly dogs with a strong prey drive and a distinctive 'bawl' or 'bugle' voice.",
+    "with_family": "Affectionate and loyal; enjoy spending time with family members and thrive on companionship.",
+    "with_children": "Generally good with children; their playful nature makes them suitable companions for active kids.",
+    "with_other_pets": "May exhibit a strong prey drive; early socialization is essential to ensure harmony with other pets.",
+    "with_strangers": "Friendly but may be reserved; proper socialization helps them become more accepting of new people.",
+    "special_traits": [
+      "Strong prey drive",
+      "Distinctive 'bawl' or 'bugle' voice",
+      "High energy levels",
+      "Intelligent and problem-solving abilities",
+      "Loyal and affectionate nature"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Крапчато-голубые кунхаунды — умные, энергичные и дружелюбные собаки с сильным охотничьим инстинктом и характерным 'громким' или 'трубным' голосом.",
+    "с семьёй": "Преданные и ласковые; любят проводить время с членами семьи и нуждаются в общении.",
+    "с детьми": "Обычно хорошо ладят с детьми; их игривый характер делает их подходящими компаньонами для активных детей.",
+    "с другими животными": "Могут проявлять сильный охотничий инстинкт; ранняя социализация необходима для обеспечения гармонии с другими животными.",
+    "с незнакомцами": "Дружелюбны, но могут быть сдержанными; правильная социализация помогает им становиться более открытыми к новым людям.",
+    "особые черты": [
+      "Сильный охотничий инстинкт",
+      "Характерный 'громкий' или 'трубный' голос",
+      "Высокий уровень энергии",
+      "Ум и способность к решению задач",
+      "Преданность и ласковый характер"
+    ]
+  },
+  "health": {
+    "summary": "Bluetick Coonhounds are generally healthy but can be prone to certain conditions; regular veterinary care is essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Cataracts",
+      "Ear infections",
+      "Bloat (gastric torsion)"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine ear cleaning to prevent infections",
+      "Balanced diet to support overall health",
+      "Regular eye check-ups to detect early signs of cataracts"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Крапчато-голубые кунхаунды в целом здоровы, но могут быть склонны к определённым заболеваниям; регулярный ветеринарный уход необходим.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Катаракта",
+      "Инфекции ушей",
+      "Вздутие живота (желудочный заворот)"
+    ],
+    "советы по профилактике": [
+      "Регулярные физические нагрузки для поддержания здорового веса",
+      "Периодическая чистка ушей для предотвращения инфекций",
+      "Сбалансированное питание для поддержания общего здоровья",
+      "Регулярные проверки зрения для раннего выявления катаракты"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты могут потребоваться для пожилых собак или при наличии проблем со здоровьем."
+  },
+  "care": {
+    "description": "Bluetick Coonhounds require regular exercise, mental stimulation, and routine health care to thrive.",
+    "behavior": "Provide ample physical activity and mental challenges to prevent boredom and destructive behaviors.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary check-ups.",
+    "grooming": "Minimal grooming required; focus on ear care to prevent infections.",
+    "nutrition": "Feed a balanced diet appropriate for their age, size, and activity level; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Крапчато-голубые кунхаунды нуждаются в регулярных физических нагрузках, умственной стимуляции и плановом медицинском уходе для полноценной жизни.",
+    "поведение и характер": "Обеспечьте достаточную физическую активность и умственные задачи, чтобы предотвратить скуку и разрушительное поведение.",
+    "здоровье и профилактика": "Следите за признаками распространённых заболеваний и регулярно посещайте ветеринара.",
+    "груминг и уход": "Минимальный уход за шерстью; особое внимание уделяйте чистоте ушей для предотвращения инфекций.",
+    "питание и активность": "Кормите сбалансированным рационом, соответствующим возрасту, размеру и уровню активности; контролируйте потребление пищи, чтобы избежать ожирения."
+  },
+  "faq": [
+    {
+      "question": "Are Bluetick Coonhounds good family pets?",
+      "answer": "Yes, they are affectionate and loyal, making them good companions for active families."
+    },
+    {
+      "question": "Do Bluetick Coonhounds require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and need regular physical activity to stay healthy and happy."
+    },
+    {
+      "question": "Are Bluetick Coonhounds easy to train?",
+      "answer": "They are intelligent but can be independent; consistent, positive reinforcement training is recommended."
+    },
+    {
+      "question": "Do Bluetick Coonhounds get along with other pets?",
+      "answer": "Early socialization is key; they may have a strong prey drive, so supervision is advised."
+    },
+    {
+      "question": "What is the lifespan of a Bluetick Coonhound?",
+      "answer": "They typically live between 11 to 12 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли крапчато-голубые кунхаунды хорошими семейными питомцами?",
+      "ответ": "Да, они преданны и ласковы, что делает их хорошими компаньонами для активных семей."
+    },
+    {
+      "вопрос": "Требуют ли крапчато-голубые кунхаунды много физических нагрузок?",
+      "ответ": "Да, они обладают высоким уровнем энергии и нуждаются в регулярной физической активности для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Легко ли обучать крапчато-голубых кунхаундов?",
+      "ответ": "Они умны, но могут быть независимыми; рекомендуется последовательное обучение с положительным подкреплением."
+    },
+    {
+      "вопрос": "Ладят ли крапчато-голубые кунхаунды с другими животными?",
+      "ответ": "Ранняя социализация важна; они могут иметь сильный охотничий инстинкт, поэтому рекомендуется наблюдение."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни крапчато-голубого кунхаунда?",
+      "ответ": "Они обычно живут от 11 до 12 лет при надлежащем уходе."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/bluetick-coonhound",
+    "https://www.akc.org/dog-breeds/bluetick-coonhound/",
+    "https://en.wikipedia.org/wiki/Bluetick_Coonhound",
+    "https://www.westminsterkennelclub.org/breed/bluetick-coonhound/",
+    "https://www.petguide.com/breeds/dog/bluetick-coonhound",
+    "https://www.caninejournal.com/bluetick-coonhound/",
+    "https://www.webmd.com/pets/dogs/what-to-know-bluetick-coonhounds"
+  ]
+}

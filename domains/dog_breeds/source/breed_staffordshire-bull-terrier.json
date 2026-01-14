@@ -1,0 +1,88 @@
+{
+  "id": "staffordshire-bull-terrier",
+  "name": "Staffordshire Bull Terrier",
+  "full_description": "<p>The Staffordshire Bull Terrier, affectionately known as the 'Staffy' or 'Staffie,' is a robust and muscular breed originating from the United Kingdom. Developed in the 19th century by crossing Bulldogs with various terriers, the breed was initially bred for bull-baiting and dog fighting. However, with the decline of these blood sports, the Staffordshire Bull Terrier transitioned into a loyal and affectionate companion dog. Physically, Staffies are compact and powerful, standing between 14 to 16 inches (35.5 to 40.5 cm) tall and weighing between 24 to 38 pounds (11 to 17 kg). They possess a broad head with pronounced cheek muscles, a short muzzle, and distinctive 'rose' or half-pricked ears. Their short, smooth coat comes in various colors, including red, fawn, white, black, blue, and brindle, with or without white markings. Temperamentally, Staffordshire Bull Terriers are known for their courage, intelligence, and affectionate nature. They form strong bonds with their families and are particularly gentle with children, earning them the nickname 'nanny dogs.' While they are generally friendly, early socialization is crucial to ensure they get along well with other animals and strangers. Originally bred for their tenacity and strength, modern Staffies have retained their energetic and playful demeanor. They excel in various canine sports and activities, showcasing their agility and determination. Today, the Staffordshire Bull Terrier is cherished as a devoted family pet, known for its loving nature and unwavering loyalty. Their notable characteristics include a strong desire to please, high energy levels, and a protective instinct towards their loved ones.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "24-38 pounds (11-17 kg)",
+    "height": "14-16 inches (35.5-40.5 cm)",
+    "coat": "short, smooth, and close-fitting",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "minimal; regular brushing and occasional baths",
+    "lifespan": "12-14 years"
+  },
+  "behavior": {
+    "summary": "Staffordshire Bull Terriers are affectionate, intelligent, and energetic dogs known for their loyalty and strong bonds with their families.",
+    "with_family": "They are deeply devoted to their families, often seeking close physical contact and enjoying interactive play.",
+    "with_children": "Known as 'nanny dogs,' they are gentle and patient with children, making them excellent family companions.",
+    "with_other_pets": "Early socialization is essential; while they can coexist peacefully with other pets, some may exhibit dog-aggressive tendencies.",
+    "with_strangers": "Generally friendly towards strangers, but their protective nature may lead to wariness without proper socialization.",
+    "special_traits": [
+      "Highly affectionate",
+      "Energetic and playful",
+      "Strong protective instincts",
+      "Intelligent and eager to please",
+      "Requires early socialization"
+    ]
+  },
+  "health": {
+    "summary": "Staffordshire Bull Terriers are generally healthy but are predisposed to certain genetic conditions.",
+    "common_issues": [
+      "Hip and elbow dysplasia",
+      "Juvenile hereditary cataracts",
+      "L-2-Hydroxyglutaric Aciduria (L-2-HGA)",
+      "Patellar luxation",
+      "Progressive retinal atrophy (PRA)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for hereditary conditions",
+      "Maintaining a healthy weight",
+      "Providing regular exercise",
+      "Ensuring a balanced diet"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues"
+  },
+  "care": {
+    "description": "Staffordshire Bull Terriers require consistent training, regular exercise, and minimal grooming to maintain their health and happiness.",
+    "behavior": "Early socialization and positive reinforcement training are crucial to manage their energetic and sometimes stubborn nature.",
+    "health": "Regular veterinary visits and preventive care are essential to monitor and address potential health concerns.",
+    "grooming": "Their short coat requires minimal grooming; regular brushing and occasional baths suffice.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is vital; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Staffordshire Bull Terriers good with children?",
+      "answer": "Yes, they are known for their gentle and patient nature with children, often referred to as 'nanny dogs.'"
+    },
+    {
+      "question": "Do they require a lot of exercise?",
+      "answer": "Yes, they have high energy levels and benefit from at least an hour of exercise daily."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable with consistent, positive methods."
+    },
+    {
+      "question": "Do they get along with other pets?",
+      "answer": "With proper socialization, they can coexist with other pets, though some may show dog-aggressive tendencies."
+    },
+    {
+      "question": "What is their average lifespan?",
+      "answer": "They typically live between 12 to 14 years."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Staffordshire_Bull_Terrier",
+    "https://www.petsradar.com/features/staffordshire-bull-terrier-breed-profile",
+    "https://www.petmd.com/dog/breeds/staffordshire-bull-terrier",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-staffordshire-bull-terriers",
+    "https://www.breedscout.com/breeds/staffordshire-bull-terrier",
+    "https://smithandshedd.com/client-resources/breed-info/staffordshire-bull-terrier/",
+    "https://sbtca.com/health/",
+    "https://www.dutch.com/blogs/dogs/staffordshire-bull-terrier",
+    "https://www.zoetispetcare.com/breed-explorer/breed/staffordshire-bull-terrier",
+    "https://www.wisdompanel.com/en-us/dog-breeds/staffordshire-bull-terrier"
+  ]
+}

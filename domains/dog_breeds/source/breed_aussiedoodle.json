@@ -1,0 +1,83 @@
+{
+  "id": "aussiedoodle",
+  "name": "Aussiedoodle",
+  "full_description": "<p>The Aussiedoodle, also known as the Aussiepoo, is a hybrid breed resulting from the cross between an Australian Shepherd and a Poodle. This intentional breeding began in the United States during the late 1990s, aiming to combine the Australian Shepherd's herding prowess and loyalty with the Poodle's intelligence and hypoallergenic coat. The outcome is a versatile, intelligent, and affectionate companion that has gained popularity among families and active individuals alike. Physically, Aussiedoodles exhibit a range of appearances influenced by their parentage. They typically stand between 14 to 23 inches tall and weigh anywhere from 25 to 70 pounds, depending on whether they are bred from Toy, Miniature, or Standard Poodles. Their coats can be wavy to curly, medium to long in length, and come in a variety of colors including black, blue merle, red merle, cream, white, and tri-color combinations. Their expressive eyes may be brown, blue, or even heterochromatic, adding to their unique charm. Temperamentally, Aussiedoodles are known for their friendly, energetic, and intelligent nature. They form strong bonds with their families and are particularly good with children and other pets when properly socialized. Their high intelligence makes them highly trainable, but it also means they require regular mental stimulation to prevent boredom-induced behaviors. Originally bred to harness the working abilities of both parent breeds, Aussiedoodles inherit the Australian Shepherd's herding instincts and the Poodle's aptitude for various tasks. While they may not be commonly used for herding today, their versatility makes them excellent candidates for therapy work, agility sports, and obedience competitions. In modern times, Aussiedoodles have become cherished family pets, valued for their affectionate nature and adaptability. Their popularity continues to rise, especially among those seeking an active and intelligent companion. Notable characteristics of the breed include their low-shedding coats, making them suitable for some allergy sufferers, and their eagerness to please, which facilitates training. However, potential owners should be prepared to meet their exercise and mental stimulation needs to ensure a happy and well-adjusted pet.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "25-70 lbs",
+    "height": "14-23 inches",
+    "coat": "wavy to curly, medium to long",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; professional grooming every 6-8 weeks",
+    "lifespan": "10-15 years"
+  },
+  "behavior": {
+    "summary": "Aussiedoodles are energetic, intelligent, and affectionate dogs that thrive on companionship and mental stimulation.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and a desire to be involved in daily activities.",
+    "with_children": "Generally excellent with children, they enjoy playtime and can be gentle companions when properly socialized.",
+    "with_other_pets": "With appropriate introductions, they coexist well with other pets, though their herding instincts may occasionally surface.",
+    "with_strangers": "Friendly and approachable, they typically warm up to strangers quickly, especially when socialized from a young age.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Energetic and playful",
+      "Affectionate and loyal",
+      "Requires regular mental stimulation",
+      "May exhibit herding behaviors"
+    ]
+  },
+  "health": {
+    "summary": "Aussiedoodles are generally healthy but can inherit certain conditions from their parent breeds.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy",
+      "Epilepsy",
+      "Cataracts",
+      "Sebaceous adenitis"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy diet and weight",
+      "Provide adequate exercise",
+      "Regular eye examinations",
+      "Genetic testing of breeding pairs"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "care": {
+    "description": "Aussiedoodles require consistent care, including regular exercise, mental stimulation, grooming, and a balanced diet to maintain their health and happiness.",
+    "behavior": "Engage them in daily activities and training sessions to satisfy their intelligence and energy levels.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits to ensure overall well-being.",
+    "grooming": "Brush their coat several times a week to prevent matting and schedule professional grooming every 6-8 weeks.",
+    "nutrition": "Provide a high-quality, balanced diet appropriate for their size, age, and activity level."
+  },
+  "faq": [
+    {
+      "question": "Are Aussiedoodles hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Aussiedoodles tend to shed less due to their Poodle ancestry, making them more suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does an Aussiedoodle need?",
+      "answer": "They require at least 60 minutes of daily exercise, including walks, playtime, and mental stimulation activities."
+    },
+    {
+      "question": "Are Aussiedoodles good with children?",
+      "answer": "Yes, they are generally excellent with children, being playful and gentle when properly socialized."
+    },
+    {
+      "question": "Do Aussiedoodles require a lot of grooming?",
+      "answer": "Yes, their wavy to curly coats require regular brushing and professional grooming every 6-8 weeks to prevent matting."
+    },
+    {
+      "question": "What is the lifespan of an Aussiedoodle?",
+      "answer": "Aussiedoodles typically live between 10 to 15 years."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/aussiedoodle",
+    "https://www.gooddog.com/breeds/aussiedoodle",
+    "https://www.chewy.com/education/dog-breeds/aussiedoodle",
+    "https://www.petsradar.com/dogs/dog-breeds/aussiedoodle-breed-profile",
+    "https://www.dailypaws.com/dogs-puppies/dog-breeds/aussiedoodle"
+  ]
+}

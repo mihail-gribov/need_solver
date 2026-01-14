@@ -1,0 +1,84 @@
+{
+  "need_id": "yard_independent",
+  "formula": "apartment_ok & ~exercise_need",
+  "formula_reasoning": "Собаки, которые не требуют постоянного доступа к двору, должны быть хорошо приспособлены к жизни в квартире (apartment_ok) и не нуждаться в большом объёме ежедневной физической активности (~exercise_need), которую обычно обеспечивает двор.",
+  "questions": [
+    {
+      "id": "yard_independent_q1",
+      "text": "У вас нет собственного двора или участка, где собака могла бы гулять самостоятельно?",
+      "weight": 0.95,
+      "style": "direct",
+      "verification": "Да = у пользователя нет двора, нужна собака, не зависящая от участка. Нет = двор есть, ограничение неактуально."
+    },
+    {
+      "id": "yard_independent_q2",
+      "text": "Собака будет жить в квартире без доступа к огороженному участку?",
+      "weight": 0.9,
+      "style": "situational",
+      "verification": "Да = собака не будет иметь постоянного выхода во двор. Нет = есть участок/двор."
+    },
+    {
+      "id": "yard_independent_q3",
+      "text": "Вы не планируете выгуливать собаку на своём участке, только на улице?",
+      "weight": 0.75,
+      "style": "situational",
+      "verification": "Да = нет участка для самостоятельных прогулок. Нет = участок есть, можно выпускать собаку."
+    },
+    {
+      "id": "yard_independent_q4",
+      "text": "Ваша собака будет проводить большую часть времени в помещении?",
+      "weight": 0.7,
+      "style": "direct",
+      "verification": "Да = доступ к двору не важен. Нет = собака часто на улице/во дворе."
+    },
+    {
+      "id": "yard_independent_q5",
+      "text": "Вам важно, чтобы собака могла спокойно жить без ежедневного выгула на участке?",
+      "weight": 0.8,
+      "style": "indirect",
+      "verification": "Да = нужен независимый от двора вариант. Нет = участок/двор важен."
+    }
+  ],
+  "need_name": "Yard Independent",
+  "need_description": "Does not require constant yard access",
+  "block": "housing_environment",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

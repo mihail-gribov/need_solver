@@ -1,0 +1,83 @@
+{
+  "id": "dogue-de-bordeaux",
+  "name": "Dogue de Bordeaux",
+  "full_description": "<p>The Dogue de Bordeaux, also known as the French Mastiff, is one of the oldest French breeds, with a history tracing back over 600 years. Its exact origins are somewhat obscure, but it is believed to have descended from ancient mastiff-type dogs that accompanied Roman armies through Europe. Historically, the Dogue de Bordeaux was utilized for various tasks, including guarding estates, hunting large game such as boar, and serving as a butcher's dog. The breed was officially named in 1863 during its first appearance at a canine exhibition in Paris. Despite facing near extinction during the two World Wars, the breed experienced a resurgence in the 1960s, thanks in part to the efforts of French professor Raymond Triquet, who played a pivotal role in revitalizing the breed and establishing its modern standard. Physically, the Dogue de Bordeaux is a massive, powerfully built dog with a muscular body and a short, fine coat that can range from light fawn to dark red. One of its most distinctive features is its large, broad head, which is furrowed with wrinkles and topped with small, pendant ears. The breed's serious expression, combined with its stocky and athletic build, gives it an imposing presence. Temperamentally, the Dogue de Bordeaux is known for its calm and affectionate nature. It is deeply devoted to its family, displaying a steady and docile demeanor. However, the breed can also exhibit a stubborn streak, necessitating early and consistent training. Its protective instincts make it an excellent guardian, though it is generally gentle and patient, especially with children. Originally bred for guarding and hunting, the Dogue de Bordeaux possesses significant strength and courage. In modern times, it has transitioned primarily into the role of a family companion and house guardian. The breed gained widespread recognition in the United States following its appearance in the 1989 movie \"Turner &amp; Hooch,\" where it was portrayed as a loyal and endearing companion. Notable characteristics of the Dogue de Bordeaux include its massive head, which is considered the largest in proportion to body size among dog breeds, and its tendency to drool profusely. Despite its formidable appearance, the breed is known for its gentle and affectionate nature, making it a beloved companion for those who appreciate its unique combination of strength and tenderness.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "99-110+ pounds (45-50+ kg)",
+    "height": "23-27 inches (58-69 cm)",
+    "coat": "short, fine, fawn-colored",
+    "activity": "moderate",
+    "trainability": "moderate",
+    "grooming": "low; regular brushing",
+    "lifespan": "5-8 years"
+  },
+  "behavior": {
+    "summary": "The Dogue de Bordeaux is a calm, affectionate, and devoted companion with a protective instinct, making it an excellent family guardian.",
+    "with_family": "Deeply loyal and affectionate, forming strong bonds with family members and often seeking their company.",
+    "with_children": "Generally gentle and patient, making it suitable for families with children; supervision is recommended due to its large size.",
+    "with_other_pets": "Can coexist with other pets if socialized early, but may display dominance; caution is advised with smaller animals due to prey drive.",
+    "with_strangers": "Naturally protective and wary of strangers, but not aggressive without cause; proper socialization is important.",
+    "special_traits": [
+      "Protective",
+      "Affectionate",
+      "Stubborn",
+      "Loyal",
+      "Gentle"
+    ]
+  },
+  "health": {
+    "summary": "The Dogue de Bordeaux is prone to certain health issues and has a relatively short lifespan; proactive care is essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Heart problems",
+      "Bloat (gastric torsion)",
+      "Skin infections"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide moderate exercise",
+      "Monitor for signs of bloat",
+      "Ensure proper nutrition"
+    ],
+    "vet_checkups": "At least twice a year"
+  },
+  "care": {
+    "description": "The Dogue de Bordeaux requires attentive care, including regular health monitoring, consistent training, and proper socialization.",
+    "behavior": "Early socialization and consistent, positive reinforcement training are crucial to manage its stubbornness and ensure well-rounded behavior.",
+    "health": "Regular veterinary visits and proactive health management are necessary to address breed-specific health concerns.",
+    "grooming": "Minimal grooming is needed; regular brushing and cleaning of facial wrinkles to prevent infections.",
+    "nutrition": "A balanced diet tailored to large breeds, with portion control to prevent obesity and related health issues."
+  },
+  "faq": [
+    {
+      "question": "Is the Dogue de Bordeaux suitable for first-time dog owners?",
+      "answer": "Due to its size and strength, it's better suited for experienced owners who can provide firm, consistent training."
+    },
+    {
+      "question": "How much exercise does a Dogue de Bordeaux need?",
+      "answer": "Moderate daily exercise, such as walks and playtime, is sufficient to keep them healthy and content."
+    },
+    {
+      "question": "Does the Dogue de Bordeaux drool a lot?",
+      "answer": "Yes, the breed is known for heavy drooling, especially after eating or drinking."
+    },
+    {
+      "question": "Is the Dogue de Bordeaux good with children?",
+      "answer": "Generally gentle and patient with children, but supervision is recommended due to its large size."
+    },
+    {
+      "question": "What is the average lifespan of a Dogue de Bordeaux?",
+      "answer": "The breed typically lives between 5 to 8 years."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/press-releases/akc-welcomes-dogue-de-bordeaux-to-working-group/",
+    "https://www.ukcdogs.com/breed-groups/dogue-de-bordeaux",
+    "https://www.vetstreet.com/dogs/dogue-de-bordeaux",
+    "https://www.akc.org/expert-advice/lifestyle/dogue-de-bordeaux-facts/",
+    "https://www.akc.org/expert-advice/dog-breeds/dogue-de-bordeaux-history-behind-the-breed/"
+  ]
+}

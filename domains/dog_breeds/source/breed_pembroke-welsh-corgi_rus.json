@@ -1,0 +1,156 @@
+{
+  "id": "pembroke-welsh-corgi",
+  "name": "Pembroke Welsh Corgi",
+  "name_rus": "Вельш-корги пемброк",
+  "full_description": "<p>The Pembroke Welsh Corgi is a small, sturdy herding dog originating from Pembrokeshire, Wales. Historically, they were bred to herd cattle, utilizing their low stature to nip at the heels of livestock while avoiding kicks. This breed is characterized by a foxy head, erect ears, and a medium-length, weather-resistant double coat that comes in colors such as red, sable, fawn, and black and tan, often with white markings. They typically stand 10 to 12 inches tall at the shoulder and weigh between 24 to 30 pounds. Pembrokes are known for their intelligent and affectionate nature, making them excellent companions. They are energetic and require regular exercise to maintain their health and happiness. Their herding instincts may manifest in behaviors like nipping at heels, especially in young dogs. In modern times, Pembroke Welsh Corgis have gained popularity as family pets and have been notably favored by British royalty, including Queen Elizabeth II. Their combination of intelligence, loyalty, and manageable size contributes to their enduring appeal.</p>",
+  "full_description_rus": "<p>Вельш-корги пемброк — небольшая, крепко сложенная пастушья собака, происходящая из Пембрукшира, Уэльс. Изначально они были выведены для выпаса скота, используя свой низкий рост, чтобы кусать скот за пятки, избегая при этом ударов копыт. Эта порода характеризуется лисьей мордочкой, стоячими ушами и средней длины, водоотталкивающей двойной шерстью, которая бывает рыжего, соболиного, палевого и черно-подпалого окраса, часто с белыми отметинами. Обычно их рост составляет 25–30 см в холке, а вес — от 10 до 14 кг. Пемброки известны своим умом и привязанностью, что делает их отличными компаньонами. Они энергичны и требуют регулярных физических нагрузок для поддержания здоровья и счастья. Их пастушьи инстинкты могут проявляться в поведении, таком как покусывание за пятки, особенно у молодых собак. В современное время вельш-корги пемброки приобрели популярность как семейные питомцы и были особенно любимы британской королевой Елизаветой II. Их сочетание интеллекта, преданности и удобного размера способствует их неизменной привлекательности.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "24-30 pounds",
+    "height": "10-12 inches",
+    "coat": "medium-length, weather-resistant double coat",
+    "activity": "moderate to high",
+    "trainability": "high",
+    "grooming": "regular brushing; increased during shedding seasons",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "10–14 кг",
+    "рост": "25–30 см",
+    "шерсть": "средней длины, водоотталкивающая двойная",
+    "активность": "умеренная до высокой",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчесывание; усиленный уход в периоды линьки",
+    "продолжительность жизни": "12–15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "strong herding instincts",
+      "high intelligence",
+      "affectionate nature",
+      "alertness",
+      "loyalty"
+    ],
+    "summary": "Pembroke Welsh Corgis are intelligent, affectionate, and energetic dogs with strong herding instincts.",
+    "with_children": "Generally good with children, though their herding instincts may lead to nipping behaviors that require training.",
+    "with_family": "They are loyal and form strong bonds with family members, often following them around the house.",
+    "with_other_pets": "Can coexist well with other pets if socialized early, but may attempt to herd them.",
+    "with_strangers": "Alert and may be reserved around strangers, often barking to announce newcomers."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Вельш-корги пемброки — умные, ласковые и энергичные собаки с выраженными пастушьими инстинктами.",
+    "с семьёй": "Они преданы и формируют крепкие связи с членами семьи, часто следуя за ними по дому.",
+    "с детьми": "Обычно хорошо ладят с детьми, хотя их пастушьи инстинкты могут приводить к покусыванию, что требует обучения.",
+    "с другими животными": "Могут хорошо уживаться с другими питомцами при ранней социализации, но могут пытаться пасти их.",
+    "с незнакомцами": "Бдительны и могут быть сдержанными с незнакомцами, часто лая, чтобы сообщить о новых людях.",
+    "особые черты": [
+      "сильные пастушьи инстинкты",
+      "высокий интеллект",
+      "ласковый характер",
+      "бдительность",
+      "преданность"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "hip dysplasia",
+      "intervertebral disc disease",
+      "progressive retinal atrophy",
+      "degenerative myelopathy",
+      "obesity"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "maintaining a healthy weight",
+      "providing appropriate exercise",
+      "monitoring for signs of joint or back issues",
+      "genetic testing for inherited conditions"
+    ],
+    "summary": "Pembroke Welsh Corgis are generally healthy but are prone to certain genetic and structural health issues.",
+    "vet_checkups": "at least once a year; more frequent for senior dogs or those with health concerns"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Вельш-корги пемброки в целом здоровы, но склонны к некоторым генетическим и структурным проблемам со здоровьем.",
+    "распространённые проблемы": [
+      "дисплазия тазобедренного сустава",
+      "заболевания межпозвоночных дисков",
+      "прогрессирующая атрофия сетчатки",
+      "дегенеративная миелопатия",
+      "ожирение"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "поддержание здорового веса",
+      "обеспечение соответствующих физических нагрузок",
+      "наблюдение за признаками проблем с суставами или спиной",
+      "генетическое тестирование на наследственные заболевания"
+    ],
+    "рекомендуемые осмотры": "не реже одного раза в год; чаще для пожилых собак или при наличии проблем со здоровьем"
+  },
+  "care": {
+    "behavior": "Engage in activities that challenge their intelligence and satisfy their herding instincts, such as agility training or herding games.",
+    "description": "Pembroke Welsh Corgis require regular exercise, mental stimulation, and consistent grooming to maintain their health and happiness.",
+    "grooming": "Brush their coat several times a week, increasing frequency during shedding seasons; regular nail trimming and dental care are also important.",
+    "health": "Monitor their weight closely to prevent obesity, which can exacerbate joint and back issues.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; avoid overfeeding to prevent weight gain."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Вельш-корги пемброки требуют регулярных физических нагрузок, умственной стимуляции и постоянного ухода за шерстью для поддержания здоровья и счастья.",
+    "поведение и характер": "Занимайтесь с ними деятельностью, которая бросает вызов их интеллекту и удовлетворяет пастушьи инстинкты, например, тренировки по аджилити или пастушьи игры.",
+    "здоровье и профилактика": "Внимательно следите за их весом, чтобы предотвратить ожирение, которое может усугубить проблемы с суставами и спиной.",
+    "груминг и уход": "Расчесывайте их шерсть несколько раз в неделю, увеличивая частоту во время сезонов линьки; регулярная стрижка когтей и уход за зубами также важны.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их возрасту, размеру и уровню активности; избегайте перекармливания, чтобы предотвратить набор веса."
+  },
+  "faq": [
+    {
+      "question": "Are Pembroke Welsh Corgis good apartment dogs?",
+      "answer": "Yes, with sufficient exercise and mental stimulation, they can adapt well to apartment living."
+    },
+    {
+      "question": "Do Pembroke Welsh Corgis get along with other dogs?",
+      "answer": "Yes, especially if socialized early, but they may try to herd other dogs due to their instincts."
+    },
+    {
+      "question": "How much exercise does a Pembroke Welsh Corgi need?",
+      "answer": "They require at least 30 to 60 minutes of exercise daily to stay healthy and happy."
+    },
+    {
+      "question": "Are Pembroke Welsh Corgis easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, making them highly trainable with positive reinforcement."
+    },
+    {
+      "question": "Do Pembroke Welsh Corgis shed a lot?",
+      "answer": "Yes, they shed year-round, with increased shedding during spring and fall; regular grooming helps manage this."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли вельш-корги пемброки для жизни в квартире?",
+      "ответ": "Да, при достаточных физических нагрузках и умственной стимуляции они хорошо адаптируются к жизни в квартире."
+    },
+    {
+      "вопрос": "Ладят ли вельш-корги пемброки с другими собаками?",
+      "ответ": "Да, особенно при ранней социализации, но из-за инстинктов могут пытаться пасти других собак."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется вельш-корги пемброку?",
+      "ответ": "Им необходимо не менее 30–60 минут физических нагрузок ежедневно для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Легко ли обучать вельш-корги пемброков?",
+      "ответ": "Да, они умны и стремятся угодить, что делает их легко обучаемыми при использовании положительного подкрепления."
+    },
+    {
+      "вопрос": "Сильно ли линяют вельш-корги пемброки?",
+      "ответ": "Да, они линяют круглый год, с усиленной линькой весной и осенью; регулярный уход помогает справляться с этим."
+    }
+  ],
+  "sources": [
+    "https://www.ukcdogs.com/pembroke-welsh-corgi",
+    "https://www.akc.org/dog-breeds/pembroke-welsh-corgi/",
+    "https://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi",
+    "https://www.petmd.com/dog/breeds/pembroke-welsh-corgi",
+    "https://www.webmd.com/pets/dogs/what-to-know-pembroke-welsh-corgis"
+  ]
+}

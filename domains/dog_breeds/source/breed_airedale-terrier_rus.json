@@ -1,0 +1,160 @@
+{
+  "id": "airedale-terrier",
+  "name": "Airedale Terrier",
+  "name_rus": "Эрдельтерьер",
+  "full_description": "<p>The Airedale Terrier, often referred to as the 'King of Terriers,' is the largest of the terrier breeds, originating from the Aire Valley in Yorkshire, England. Developed in the mid-19th century by crossing the Old English Black and Tan Terrier with the Otterhound, the breed was designed to create a versatile hunting and working dog capable of handling both land and water tasks. This combination resulted in a dog adept at hunting small game, such as rats and otters, while also serving as a reliable farm and guard dog. Physically, Airedales are medium to large-sized dogs, with males typically standing around 23 inches (58 cm) at the shoulder and weighing between 50 to 70 pounds (23 to 32 kg). Females are slightly smaller. They possess a dense, wiry coat that is predominantly tan with a black or grizzle saddle, and their expressive faces are framed by folded ears and a distinctive beard. Their tails are traditionally carried high and were historically docked, though this practice has become less common due to legal restrictions in many countries. Temperamentally, Airedales are known for their intelligence, confidence, and playful nature. They are loyal and protective of their families, making them excellent companions and watchdogs. Their energetic and curious disposition requires regular mental and physical stimulation to prevent boredom and potential behavioral issues. Originally bred for hunting and working purposes, Airedales have demonstrated versatility in various roles, including serving as war dogs, police dogs, and search and rescue animals. Their keen sense of smell and determination made them invaluable during World War I for delivering messages and locating wounded soldiers. In contemporary times, Airedales continue to be cherished as family pets, excelling in activities such as obedience, agility, and even therapy work. Their adaptability and engaging personalities have maintained their popularity among dog enthusiasts worldwide. Notable characteristics of the Airedale include their hypoallergenic coat, which sheds minimally but requires regular grooming to maintain its condition. They are also known for their problem-solving abilities and independent thinking, traits that can be both endearing and challenging for owners. With proper training and socialization, Airedales make affectionate and devoted companions, embodying a unique blend of tenacity and charm.</p>",
+  "full_description_rus": "<p>Эрдельтерьер, часто называемый 'королём терьеров', является крупнейшей породой среди терьеров, происходящей из долины реки Эр в Йоркшире, Англия. Порода была выведена в середине XIX века путём скрещивания староанглийского чёрно-подпалого терьера с оттерхаундом, чтобы создать универсальную охотничью и рабочую собаку, способную работать как на суше, так и в воде. В результате получилась собака, способная охотиться на мелкую дичь, такую как крысы и выдры, а также служить надёжной фермерской и сторожевой собакой. Физически эрдельтерьеры — это собаки среднего и крупного размера: кобели обычно достигают 58–61 см в холке и весят от 23 до 29 кг; суки немного меньше. Они обладают плотной, жёсткой шерстью, преимущественно рыжего цвета с чёрным или серым 'седлом'. Их выразительные лица обрамлены сложенными ушами и характерной бородой. Хвосты традиционно высоко посажены и ранее купировались, хотя эта практика стала менее распространённой из-за законодательных ограничений во многих странах. По темпераменту эрдельтерьеры известны своим интеллектом, уверенностью и игривым нравом. Они преданы и защищают свои семьи, что делает их отличными компаньонами и сторожевыми собаками. Их энергичный и любознательный характер требует регулярной умственной и физической стимуляции, чтобы предотвратить скуку и возможные поведенческие проблемы. Изначально выведенные для охоты и работы, эрдельтерьеры проявили универсальность в различных ролях, включая службу в армии, полиции и поисково-спасательных операциях. Их острое обоняние и решительность сделали их незаменимыми во время Первой мировой войны для доставки сообщений и поиска раненых солдат. В современное время эрдельтерьеры продолжают быть любимыми семейными питомцами, преуспевая в таких видах деятельности, как послушание, аджилити и даже терапия. Их адаптивность и обаятельные личности сохраняют их популярность среди любителей собак по всему миру. Примечательными характеристиками эрдельтерьеров являются их гипоаллергенная шерсть, которая минимально линяет, но требует регулярного ухода для поддержания её состояния. Они также известны своими способностями к решению проблем и независимым мышлением — чертами, которые могут быть как привлекательными, так и сложными для владельцев. При правильной дрессировке и социализации эрдельтерьеры становятся ласковыми и преданными компаньонами, воплощая уникальное сочетание настойчивости и обаяния.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "50-70 pounds (23-32 kg)",
+    "height": "23 inches (58 cm)",
+    "coat": "dense, wiry, tan with black or grizzle saddle",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming recommended",
+    "lifespan": "11-14 years"
+  },
+  "parameters_rus": {
+    "size": "средний / крупный",
+    "weight": "23–29 кг",
+    "height": "58–61 см",
+    "coat": "плотная, жёсткая, рыжая с чёрным или серым 'седлом'",
+    "activity": "высокая",
+    "trainability": "высокая",
+    "grooming": "регулярное расчёсывание; рекомендуется профессиональный уход",
+    "lifespan": "11–14 лет"
+  },
+  "behavior": {
+    "summary": "Airedale Terriers are intelligent, energetic, and confident dogs known for their loyalty and playful nature. They require regular mental and physical stimulation to prevent boredom and are generally good with families and children when properly trained.",
+    "with_family": "Airedales are affectionate and protective, forming strong bonds with family members. They thrive on companionship and enjoy participating in family activities.",
+    "with_children": "With proper socialization, Airedales are patient and playful with children, making them suitable family pets. Supervision is recommended to ensure positive interactions.",
+    "with_other_pets": "Airedales can coexist with other pets, especially when raised together. However, their strong prey drive may lead them to chase smaller animals.",
+    "with_strangers": "They are alert and may be reserved around strangers, making them effective watchdogs. Early socialization helps them become more accepting of unfamiliar people.",
+    "special_traits": [
+      "Intelligent and independent thinkers",
+      "Energetic and playful",
+      "Loyal and protective",
+      "Strong prey drive",
+      "Minimal shedding with regular grooming"
+    ]
+  },
+  "behavior_rus": {
+    "summary": "Эрдельтерьеры — умные, энергичные и уверенные в себе собаки, известные своей преданностью и игривым характером. Они требуют регулярной умственной и физической стимуляции, чтобы избежать скуки, и обычно хорошо ладят с семьями и детьми при правильной дрессировке.",
+    "with_family": "Эрдельтерьеры ласковы и защищают своих близких, формируя крепкие связи с членами семьи. Они процветают в компании и любят участвовать в семейных мероприятиях.",
+    "with_children": "При правильной социализации эрдельтерьеры терпеливы и игривы с детьми, что делает их подходящими семейными питомцами. Рекомендуется присмотр для обеспечения положительных взаимодействий.",
+    "with_other_pets": "Эрдельтерьеры могут сосуществовать с другими животными, особенно если они выросли вместе. Однако их сильный охотничий инстинкт может побуждать их преследовать мелких животных.",
+    "with_strangers": "Они бдительны и могут быть сдержанными с незнакомцами, что делает их эффективными сторожевыми собаками. Ранняя социализация помогает им становиться более открытыми к незнакомым людям.",
+    "special_traits": [
+      "Умные и независимые мыслители",
+      "Энергичные и игривые",
+      "Преданные и защитники",
+      "Сильный охотничий инстинкт",
+      "Минимальная линька при регулярном уходе"
+    ]
+  },
+  "health": {
+    "summary": "Airedale Terriers are generally healthy but are prone to certain conditions such as hip dysplasia, hypothyroidism, and skin infections. Regular veterinary check-ups and preventive care are essential to maintain their health.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Hypothyroidism",
+      "Skin infections",
+      "Bloating (Gastric Dilatation Volvulus)",
+      "Dental issues"
+    ],
+    "prevention_tips": [
+      "Provide a balanced diet and regular exercise",
+      "Maintain proper grooming to prevent skin issues",
+      "Schedule regular veterinary check-ups",
+      "Monitor for signs of bloating and seek immediate care if symptoms arise",
+      "Implement routine dental care"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "summary": "Эрдельтерьеры обычно здоровы, но склонны к некоторым заболеваниям, таким как дисплазия тазобедренного сустава, гипотиреоз и кожные инфекции. Регулярные визиты к ветеринару и профилактический уход необходимы для поддержания их здоровья.",
+    "common_issues": [
+      "Дисплазия тазобедренного сустава",
+      "Гипотиреоз",
+      "Кожные инфекции",
+      "Вздутие живота (желудочная дилатация-волвулюс)",
+      "Зубные проблемы"
+    ],
+    "prevention_tips": [
+      "Обеспечьте сбалансированное питание и регулярные физические нагрузки",
+      "Поддерживайте надлежащий уход за шерстью для предотвращения кожных проблем",
+      "Проводите регулярные ветеринарные осмотры",
+      "Следите за признаками вздутия живота и при появлении симптомов немедленно обращайтесь за медицинской помощью",
+      "Внедрите регулярный уход за зубами"
+    ],
+    "vet_checkups": "Ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "Airedale Terriers require consistent training, regular exercise, and proper grooming to maintain their health and happiness. They thrive in environments where they can engage both physically and mentally.",
+    "behavior": "Provide daily physical activities and mental challenges to prevent boredom and destructive behaviors. Early socialization and obedience training are crucial.",
+    "health": "Regular veterinary visits, a nutritious diet, and preventive measures are key to managing common health issues in Airedales.",
+    "grooming": "Brush their dense, wiry coat several times a week and schedule professional grooming every 6-8 weeks to maintain coat health and appearance.",
+    "nutrition": "Feed a high-quality diet appropriate for their age, size, and activity level. Monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "description": "Эрдельтерьеры требуют последовательной дрессировки, регулярных физических упражнений и надлежащего ухода для поддержания их здоровья и счастья. Они процветают в среде, где могут быть физически и умственно активными.",
+    "behavior": "Обеспечьте ежедневные физические нагрузки и умственные задачи, чтобы предотвратить скуку и разрушительное поведение. Ранняя социализация и обучение послушанию крайне важны.",
+    "health": "Регулярные визиты к ветеринару, питательная диета и профилактические меры являются ключевыми для управления распространёнными проблемами здоровья у эрдельтерьеров.",
+    "grooming": "Расчёсывайте их плотную, жёсткую шерсть несколько раз в неделю и планируйте профессиональный уход каждые 6–8 недель для поддержания здоровья и внешнего вида шерсти.",
+    "nutrition": "Кормите высококачественным кормом, соответствующим их возрасту, размеру и уровню активности. Контролируйте потребление пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Airedale Terriers good with children?",
+      "answer": "Yes, with proper socialization and training, Airedales are patient and playful with children, making them suitable family pets."
+    },
+    {
+      "question": "How much exercise does an Airedale Terrier need?",
+      "answer": "Airedales require daily physical activities and mental stimulation to stay healthy and prevent boredom."
+    },
+    {
+      "question": "Do Airedale Terriers shed a lot?",
+      "answer": "They have minimal shedding but require regular grooming to maintain their coat and prevent matting."
+    },
+    {
+      "question": "Are Airedale Terriers easy to train?",
+      "answer": "Yes, they are intelligent and respond well to consistent, positive reinforcement training methods."
+    },
+    {
+      "question": "What is the lifespan of an Airedale Terrier?",
+      "answer": "Airedale Terriers typically live between 11 to 14 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "question": "Хорошо ли эрдельтерьеры ладят с детьми?",
+      "answer": "Да, при правильной социализации и дрессировке эрдельтерьеры терпеливы и игривы с детьми, что делает их подходящими семейными питомцами."
+    },
+    {
+      "question": "Сколько упражнений требуется эрдельтерьеру?",
+      "answer": "Эрдельтерьеры требуют ежедневных физических нагрузок и умственной стимуляции, чтобы оставаться здоровыми и избежать скуки."
+    },
+    {
+      "question": "Сильно ли линяют эрдельтерьеры?",
+      "answer": "Они минимально линяют, но требуют регулярного ухода за шерстью, чтобы поддерживать её состояние и предотвращать образование колтунов."
+    },
+    {
+      "question": "Легко ли дрессировать эрдельтерьеров?",
+      "answer": "Да, они умны и хорошо реагируют на последовательные методы дрессировки с положительным подкреплением."
+    },
+    {
+      "question": "Какова продолжительность жизни эрдельтерьера?",
+      "answer": "Эрдельтерьеры обычно живут от 11 до 14 лет при надлежащем уходе."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Airedale_Terrier",
+    "https://www.purina.com/dogs/dog-breeds/airedale-terrier",
+    "https://www.petmd.com/dog/breeds/airedale-terrier",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-airedale-terriers",
+    "https://www.petco.com/content/content-hub/home/breeds/dog-breeds/airedale-terrier.html",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/airedale_terrier",
+    "https://www.pedigree.ru/porody/erdelterer",
+    "https://royalcanin.ru/dog-breed/airedale-terrier",
+    "https://ru.wikipedia.org/wiki/Эрдельтерьер"
+  ]
+}

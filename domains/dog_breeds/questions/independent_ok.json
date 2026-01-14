@@ -1,0 +1,84 @@
+{
+  "need_id": "independent_ok",
+  "formula": "independence | alone_tolerance",
+  "formula_reasoning": "If independence is acceptable for the user, breeds with higher independence or higher ability to stay alone are suitable. Either trait means the dog can handle more autonomy and doesn't require constant human interaction.",
+  "questions": [
+    {
+      "id": "independent_ok_q1",
+      "text": "Бывает ли, что вы уходите из дома на несколько часов и дома никого не остаётся?",
+      "weight": 0.9,
+      "style": "situational",
+      "verification": "Да = собака должна уметь спокойно оставаться одна, независимость уместна. Нет = собака почти всегда с людьми, зависимость не проблема."
+    },
+    {
+      "id": "independent_ok_q2",
+      "text": "Вы предпочитаете, чтобы собака могла спокойно заниматься своими делами и не требовала постоянного внимания?",
+      "weight": 0.8,
+      "style": "direct",
+      "verification": "Да = готовность к независимой собаке. Нет = хочется собаку, которая постоянно рядом и требует общения."
+    },
+    {
+      "id": "independent_ok_q3",
+      "text": "В вашей семье редко кто-то бывает дома днём?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = собака часто одна, независимость важна. Нет = почти всегда кто-то рядом, зависимость не мешает."
+    },
+    {
+      "id": "independent_ok_q4",
+      "text": "Вам комфортно, если собака не всегда стремится быть рядом и может проводить время отдельно от вас?",
+      "weight": 0.7,
+      "style": "direct",
+      "verification": "Да = независимость устраивает. Нет = хочется более ориентированного на человека питомца."
+    },
+    {
+      "id": "independent_ok_q5",
+      "text": "Часто ли у вас бывает насыщенный график, из-за которого не всегда удаётся много времени проводить с собакой?",
+      "weight": 0.6,
+      "style": "situational",
+      "verification": "Да = собака должна спокойно переносить одиночество и быть независимой. Нет = есть время для постоянного общения."
+    }
+  ],
+  "need_name": "Independent OK",
+  "need_description": "Independence is acceptable",
+  "block": "behavior_character",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "site": {
+    "name": "Doggypedia",
+    "url": "https://doggypedia.ru",
+    "language": "en",
+    "locale": "en_US",
+    "tagline": "Dog Encyclopedia",
+    "description": "Everything about dog breeds, health, care, training, and life with dogs. Short guides, expert tips, and honest explanations.",
+    "logo": {
+      "text": "Doggypedia",
+      "url": "https://doggypedia.ru/images/logo.jpg"
+    }
+  },
+  "seo": {
+    "defaults": {
+      "description": "Dog encyclopedia: breeds, health, care, training. Expert tips and practical advice.",
+      "keywords": "dogs, dog breeds, dog care, dog training, dog health, pet care"
+    },
+    "home": {
+      "title": "Doggypedia — Dog Encyclopedia: Breeds, Care, Health, Training",
+      "description": "Everything about dog breeds, health, care, training, and life with dogs. Short guides, expert tips, and honest explanations from practitioners.",
+      "keywords": "dog encyclopedia, dog breeds, dog care, dog training, dog health",
+      "structured_data": {
+        "type": "WebSite",
+        "name": "Doggypedia",
+        "description": "Dog Encyclopedia"
+      }
+    },
+    "breeds_list": {
+      "title": "Dog Breeds | Doggypedia",
+      "description": "List of popular dog breeds with brief descriptions and detailed breed profiles.",
+      "keywords": "dog breeds, popular dogs, breed profiles, dog encyclopedia",
+      "structured_data": {
+        "type": "CollectionPage",
+        "name": "Dog Breeds",
+        "description": "List of dog breeds with detailed profiles",
+        "list_name": "Dog Breeds"
+      }
+    }
+  },
+  "navigation": {
+    "items": [
+      {"slug": "breeds", "label": "Breeds", "url": "/breeds/"},
+      {"slug": "care", "label": "Care", "url": "/care/"},
+      {"slug": "training", "label": "Training", "url": "/training/"},
+      {"slug": "facts", "label": "Facts", "url": "/facts/"},
+      {"slug": "faq", "label": "FAQ", "url": "/faq/"}
+    ]
+  },
+  "footer": {
+    "copyright": "doggypedia.ru",
+    "description": "Dog encyclopedia: clear explanations, practical tips, and respect for our four-legged friends. We support responsible ownership."
+  },
+  "pages": {
+    "home": {
+      "hero": {
+        "title": {
+          "line1": "Dog Encyclopedia",
+          "line2": "in plain language"
+        },
+        "subtitle": "Everything about breeds, health, care, training, and life with dogs. Short guides, expert tips, and honest explanations from practitioners.",
+        "cta": {
+          "primary": {
+            "text": "Explore Breeds",
+            "url": "/breeds/"
+          },
+          "secondary": {
+            "text": "Quick Care Tips",
+            "url": "/care/"
+          }
+        },
+        "features": [
+          "Plain language",
+          "No spam",
+          "Practice-based",
+          "Free"
+        ],
+        "image": {
+          "src": "/images/dogs/in-play.jpg",
+          "alt": "Dog playing"
+        }
+      },
+      "popular_breeds_section": {
+        "title": "Popular Breeds",
+        "cta": {
+          "text": "View all breeds",
+          "url": "/breeds/"
+        }
+      },
+      "facts_section": {
+        "title": "Interesting Facts About Dogs",
+        "facts": [
+          "Dogs have a unique 'nose print' — the pattern on the nose is individual, like a human fingerprint.",
+          "A dog's hearing reaches ultrasound up to ~45 kHz — that's why we can't hear dog whistles.",
+          "Vibrissae work as sensors for distance and air flow — helping navigate in the dark."
+        ]
+      }
+    },
+    "breeds_list": {
+      "header": {
+        "title": "Dog Breeds",
+        "subtitle": "List of popular breeds with descriptions and detailed profiles"
+      }
+    },
+    "care": {
+      "seo": {
+        "title": "Dog Care | Doggypedia",
+        "description": "Care basics: vaccination, parasites, grooming, nutrition, and daily activity."
+      },
+      "header": {
+        "title": "Dog Care"
+      },
+      "sections": [
+        {
+          "title": "Health Calendar",
+          "content": "Annual vaccines, flea/tick/worm treatment, dental care. Check-up with vet every 6-12 months."
+        },
+        {
+          "title": "Grooming",
+          "content": "Brushing by coat type, bathing as needed, ear/nail/paw pad care."
+        },
+        {
+          "title": "Nutrition & Activity",
+          "content": "Diet by age and activity level; 2-3 walks per day, sniff games and search tasks."
+        }
+      ]
+    },
+    "training": {
+      "seo": {
+        "title": "Training & Education | Doggypedia",
+        "description": "Obedience basics: name, recall, place, come, heel. Positive training in short sessions."
+      },
+      "header": {
+        "title": "Training & Education"
+      },
+      "sections": [
+        {
+          "title": "Obedience Basics",
+          "content": "Short 5-10 minute sessions, food/toy motivation, gradual complexity, no yelling or punishment."
+        },
+        {
+          "title": "Socialization",
+          "content": "Safe encounters, different surfaces/sounds/people, excitement control, attention switching."
+        },
+        {
+          "title": "Mental Games",
+          "content": "Snuffle mats, dispensers, object search, trick training — mental fatigue, not just running."
+        }
+      ]
+    },
+    "facts": {
+      "seo": {
+        "title": "Dog Facts | Doggypedia",
+        "description": "Interesting and verified facts about our four-legged friends."
+      },
+      "header": {
+        "title": "Dog Facts"
+      },
+      "items": [
+        "Dogs have a unique 'nose print' — the pattern on the nose is individual.",
+        "Dogs hear up to ~45 kHz — above human hearing range.",
+        "Vibrissae help measure distance and sense air flow."
+      ]
+    },
+    "faq": {
+      "seo": {
+        "title": "FAQ | Doggypedia",
+        "description": "Answers to common questions about the project and basic care."
+      },
+      "header": {
+        "title": "FAQ"
+      },
+      "items": [
+        {
+          "question": "Can I trust the materials?",
+          "answer": "We compile information from verified sources and practice, but this is not a substitute for an in-person vet/trainer visit."
+        },
+        {
+          "question": "Can I suggest edits?",
+          "answer": "Yes, send suggestions — we continuously improve our materials."
+        },
+        {
+          "question": "Will there be new breeds?",
+          "answer": "Yes, we regularly add breed profiles — stay tuned for updates."
+        }
+      ]
+    },
+    "privacy": {
+      "seo": {
+        "title": "Privacy Policy | Doggypedia",
+        "description": "Privacy policy and data handling."
+      },
+      "header": {
+        "title": "Privacy Policy"
+      }
+    },
+    "terms": {
+      "seo": {
+        "title": "Terms of Use | Doggypedia",
+        "description": "Terms and conditions of site usage."
+      },
+      "header": {
+        "title": "Terms of Use"
+      }
+    }
+  },
+  "breeds": {
+    "popular": [
+      "shiba-inu",
+      "golden-retriever",
+      "german-shepherd",
+      "labrador",
+      "husky"
+    ],
+    "footer_links": [
+      "shiba-inu",
+      "labrador",
+      "husky",
+      "golden-retriever",
+      "german-shepherd"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-11-30T14:51:47.269299",
+  "stats": {
+    "breeds_total": 181,
+    "breeds_valid": 362,
+    "breeds_skipped": 0,
+    "duplicates_removed": 3,
+    "missing_images": 0
+  },
+  "errors": [],
+  "warnings": []
+}

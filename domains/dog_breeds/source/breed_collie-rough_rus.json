@@ -1,0 +1,157 @@
+{
+  "id": "collie-rough",
+  "name": "Collie (Rough)",
+  "name_rus": "Колли (длинношерстный)",
+  "full_description": "<p>The Rough Collie, also known as the Long-Haired Collie, is a distinguished herding breed originating from Scotland and Wales. Historically, the Scottish variety was a robust and aggressive dog adept at managing highland sheep, while the Welsh counterpart was smaller, nimble, and friendly, often herding goats. The interbreeding of these regional dogs with English sheepdogs led to the development of both short and long-haired varieties. The introduction of the Borzoi (Russian Wolfhound) into the gene pool in the 19th century refined the breed's head shape, resulting in the elongated muzzle characteristic of today's Rough Collie. Queen Victoria's acquisition of a Rough Collie during her stay at Balmoral Castle significantly boosted the breed's popularity, transforming it into a fashionable companion. Physically, the Rough Collie is a medium to large-sized dog, with males standing between 55.8 to 66 cm (22 to 26 inches) at the shoulder and females slightly shorter. They possess a long, dense double coat that forms a notable ruff around the neck, with recognized colors including sable and white, tricolor, blue merle, and color-headed white. The breed's head is light in relation to the body, resembling a blunted wedge tapering smoothly from ears to black nose, with medium-sized almond-shaped eyes and semi-prick ears. Temperamentally, Rough Collies are known for their loyalty, intelligence, and gentle nature. They are excellent with children and other animals, making them ideal family companions. However, they require proper socialization to prevent shyness and can be fairly vocal, though they are easily trained to manage barking tendencies. Historically bred for herding, Rough Collies are capable of covering significant distances and exhibit a strong herding instinct. While their primary role has shifted to companionship, they still participate in herding activities and excel in various dog sports. The breed's popularity was further cemented by the fictional character Lassie, a Rough Collie who became a cultural icon through books, films, and television series. Notable characteristics of the Rough Collie include their striking appearance, intelligence, and versatility, making them both a capable working dog and a beloved family member.</p>",
+  "full_description_rus": "<p>Длинношерстный колли, также известный как шотландская овчарка, — это пастушья порода собак, выведенная в Великобритании. Исторически шотландский вариант был крепким и агрессивным, способным управлять овцами в горной местности, тогда как валлийский был меньшего размера, проворным и дружелюбным, часто пас коз. Скрещивание этих региональных собак с английскими овчарками привело к появлению как короткошерстных, так и длинношерстных разновидностей. Введение в генетический фонд борзой (русской псовой) в XIX веке улучшило форму головы породы, придав ей удлиненную морду, характерную для современных длинношерстных колли. Приобретение королевой Викторией длинношерстного колли во время пребывания в замке Балморал значительно повысило популярность породы, превратив ее в модного компаньона. Физически длинношерстный колли — это собака среднего или крупного размера, с ростом кобелей от 56 до 61 см в холке и сук немного ниже. Они обладают длинной, густой двойной шерстью, образующей заметный воротник вокруг шеи, с признанными окрасами, включая соболиный с белым, триколор, мраморно-голубой и белый с цветными отметинами. Голова породы легкая по отношению к телу, напоминает притупленный клин, плавно сужающийся от ушей к черному носу, с миндалевидными глазами среднего размера и полустоячими ушами. По темпераменту длинношерстные колли известны своей преданностью, интеллектом и мягким характером. Они отлично ладят с детьми и другими животными, что делает их идеальными семейными компаньонами. Однако им требуется правильная социализация, чтобы избежать застенчивости, и они могут быть довольно голосистыми, хотя их легко обучить контролировать склонность к лаю. Исторически выведенные для пастьбы, длинношерстные колли способны преодолевать значительные расстояния и проявляют сильный пастуший инстинкт. Хотя их основная роль сместилась к компаньонству, они по-прежнему участвуют в пастушьих мероприятиях и преуспевают в различных собачьих видах спорта. Популярность породы была дополнительно укреплена вымышленным персонажем Лесси, длинношерстным колли, ставшим культурным символом через книги, фильмы и телесериалы. Отличительными чертами длинношерстного колли являются их яркая внешность, интеллект и универсальность, что делает их как способными рабочими собаками, так и любимыми членами семьи.</p>",
+  "parameters": {
+    "size": "medium to large",
+    "weight": "50-70 lbs (22.7-31.8 kg)",
+    "height": "22-26 inches (55.8-66 cm)",
+    "coat": "long, dense double coat",
+    "activity": "moderate to high",
+    "trainability": "high",
+    "grooming": "regular brushing; more frequent during shedding seasons",
+    "lifespan": "12-14 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "23-34 кг",
+    "рост": "56-61 см",
+    "шерсть": "длинная, густая двойная",
+    "активность": "умеренная / высокая",
+    "обучаемость": "высокая",
+    "уход": "регулярное вычесывание; более частое во время линьки",
+    "продолжительность жизни": "12-14 лет"
+  },
+  "behavior": {
+    "summary": "Rough Collies are loyal, intelligent, and gentle dogs, making them excellent family companions. They are known for their friendly disposition and adaptability.",
+    "with_family": "They form strong bonds with family members and thrive on companionship, often displaying affectionate and protective behaviors.",
+    "with_children": "Rough Collies are typically excellent with children, exhibiting patience and gentleness, making them ideal playmates.",
+    "with_other_pets": "Generally good with other pets, especially when raised together, though early socialization is recommended to ensure harmonious relationships.",
+    "with_strangers": "They are usually friendly towards strangers but may exhibit reserved behavior initially; proper socialization helps in developing a well-rounded temperament.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Strong herding instinct",
+      "Sensitive to their environment",
+      "Vocal tendencies",
+      "Strong attachment to owners"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Длинношерстные колли — преданные, умные и мягкие собаки, что делает их отличными семейными компаньонами. Они известны своим дружелюбным нравом и адаптивностью.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи и процветают в компании, часто проявляя привязанность и защитное поведение.",
+    "с детьми": "Длинношерстные колли обычно отлично ладят с детьми, проявляя терпение и мягкость, что делает их идеальными товарищами по играм.",
+    "с другими животными": "Обычно хорошо уживаются с другими животными, особенно если выросли вместе, хотя рекомендуется ранняя социализация для обеспечения гармоничных отношений.",
+    "с незнакомцами": "Они обычно дружелюбны к незнакомцам, но могут проявлять сдержанность вначале; правильная социализация помогает в развитии уравновешенного темперамента.",
+    "особые черты": [
+      "Высокий интеллект и обучаемость",
+      "Сильный пастуший инстинкт",
+      "Чувствительность к окружающей среде",
+      "Склонность к лаю",
+      "Сильная привязанность к владельцам"
+    ]
+  },
+  "health": {
+    "summary": "Rough Collies are generally healthy but are predisposed to certain genetic conditions. Regular veterinary care and preventive measures are essential to maintain their well-being.",
+    "common_issues": [
+      "Collie Eye Anomaly (CEA)",
+      "Progressive Retinal Atrophy (PRA)",
+      "Hip Dysplasia",
+      "Dermatomyositis",
+      "Bloat (Gastric Torsion)"
+    ],
+    "prevention_tips": [
+      "Regular eye examinations",
+      "Hip dysplasia screening",
+      "Genetic testing for known conditions",
+      "Maintaining a healthy weight",
+      "Providing a balanced diet"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits for senior dogs or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Длинношерстные колли в целом здоровы, но склонны к определённым генетическим заболеваниям. Регулярный ветеринарный уход и профилактические меры необходимы для поддержания их благополучия.",
+    "распространённые проблемы": [
+      "Аномалия глаза колли (CEA)",
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Дисплазия тазобедренного сустава",
+      "Дерматомиозит",
+      "Вздутие живота (желудочная торсия)"
+    ],
+    "советы по профилактике": [
+      "Регулярные осмотры глаз",
+      "Скрининг на дисплазию тазобедренного сустава",
+      "Генетическое тестирование на известные заболевания",
+      "Поддержание здорового веса",
+      "Обеспечение сбалансированного питания"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "description": "Rough Collies require attentive care, including regular grooming, exercise, and health monitoring to ensure a happy and healthy life.",
+    "behavior": "They thrive on companionship and mental stimulation; regular interaction and training sessions are beneficial.",
+    "health": "Routine veterinary check-ups and preventive care are crucial to detect and manage potential health issues early.",
+    "grooming": "Regular brushing is necessary to maintain their coat and prevent matting; more frequent grooming is needed during shedding seasons.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential; monitor food intake to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Длинношерстные колли требуют внимательного ухода, включая регулярный груминг, физические нагрузки и мониторинг здоровья для обеспечения счастливой и здоровой жизни.",
+    "поведение и характер": "Они процветают в компании и нуждаются в умственной стимуляции; регулярное взаимодействие и тренировки полезны.",
+    "здоровье и профилактика": "Рутинные ветеринарные осмотры и профилактический уход необходимы для раннего выявления и управления потенциальными проблемами со здоровьем.",
+    "груминг и уход": "Регулярное вычесывание необходимо для поддержания состояния шерсти и предотвращения спутывания; во время линьки требуется более частый уход.",
+    "питание и активность": "Сбалансированное питание, соответствующее возрасту, размеру и уровню активности, необходимо; следите за потреблением пищи, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Are Rough Collies good with children?",
+      "answer": "Yes, they are known for their gentle and patient nature, making them excellent companions for children."
+    },
+    {
+      "question": "How much exercise does a Rough Collie need?",
+      "answer": "They require moderate to high levels of exercise, including daily walks and playtime to keep them physically and mentally stimulated."
+    },
+    {
+      "question": "Do Rough Collies shed a lot?",
+      "answer": "Yes, they have a long double coat that sheds, especially during seasonal changes; regular grooming helps manage shedding."
+    },
+    {
+      "question": "Are Rough Collies easy to train?",
+      "answer": "Yes, they are highly intelligent and responsive, making them relatively easy to train with consistent, positive reinforcement methods."
+    },
+    {
+      "question": "Do Rough Collies have any common health issues?",
+      "answer": "They are prone to certain genetic conditions like Collie Eye Anomaly and hip dysplasia; regular veterinary care is important."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Длинношерстные колли хорошо ладят с детьми?",
+      "ответ": "Да, они известны своим мягким и терпеливым характером, что делает их отличными компаньонами для детей."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется длинношерстному колли?",
+      "ответ": "Им необходимы умеренные или высокие физические нагрузки, включая ежедневные прогулки и игры для поддержания физической и умственной активности."
+    },
+    {
+      "вопрос": "Длинношерстные колли сильно линяют?",
+      "ответ": "Да, у них длинная двойная шерсть, которая линяет, особенно во время сезонных изменений; регулярный груминг помогает контролировать линьку."
+    },
+    {
+      "вопрос": "Длинношерстные колли легко поддаются дрессировке?",
+      "ответ": "Да, они очень умны и отзывчивы, что делает их относительно легкими для дрессировки при использовании последовательных методов положительного подкрепления."
+    },
+    {
+      "вопрос": "У длинношерстных колли есть распространённые проблемы со здоровьем?",
+      "ответ": "Они склонны к определённым генетическим заболеваниям, таким как аномалия глаза колли и дисплазия тазобедренного сустава; регулярный ветеринарный уход важен."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rough_Collie",
+    "https://www.purina.ru/find-a-pet/dog-breeds/dlinnosherstnyy-kolli",
+    "https://www.pedigree.ru/porody/dlinnosherstnij-kolli",
+    "https://royalcanin.ru/dog-breed/collie-rough",
+    "https://petstory.ru/knowledge/dogs/dog-breeds/collie/",
+    "https://ru.wikipedia.org/wiki/Длинношёрстный_колли"
+  ]
+}

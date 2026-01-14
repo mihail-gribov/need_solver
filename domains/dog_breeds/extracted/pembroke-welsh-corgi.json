@@ -1,0 +1,183 @@
+{
+  "breed_id": "pembroke-welsh-corgi",
+  "features": {
+    "shedding": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "coat_type": {
+      "value": 0.6,
+      "confidence": 0.9
+    },
+    "dander_level": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "grooming": {
+      "value": 0.6,
+      "confidence": 0.9
+    },
+    "health_robustness": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "genetic_risk": {
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "apartment_ok": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "barking": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "energy": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "reactivity": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "noise_tolerance": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "exercise_need": {
+      "value": 0.7,
+      "confidence": 0.9
+    },
+    "alone_tolerance": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "separation_anxiety_risk": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "sitter_compatibility": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "adaptability": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "child_friendly": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "pet_friendly": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "stranger_friendly": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "territoriality": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "protectiveness": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "stress_sensitivity": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "affection_level": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "independence": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "playfulness": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "trainability": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "working_drive": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "behavior_management_need": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "mental_stimulation": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "prey_drive": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "hunting_instinct": {
+      "value": 0.5,
+      "confidence": 0.7
+    }
+  },
+  "parameters": {
+    "weight_kg": [
+      {
+        "value": 11.5,
+        "confidence": 0.9,
+        "source": "AKC"
+      },
+      {
+        "value": 11.0,
+        "confidence": 0.8,
+        "source": "Purina UK"
+      },
+      {
+        "value": 11.5,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ],
+    "height_cm": [
+      {
+        "value": 27.5,
+        "confidence": 0.9,
+        "source": "AKC"
+      },
+      {
+        "value": 27.5,
+        "confidence": 0.8,
+        "source": "Purina UK"
+      },
+      {
+        "value": 27.5,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ],
+    "lifespan_years": [
+      {
+        "value": 13.5,
+        "confidence": 0.9,
+        "source": "AKC"
+      },
+      {
+        "value": 13.5,
+        "confidence": 0.8,
+        "source": "Purina UK"
+      },
+      {
+        "value": 13.5,
+        "confidence": 0.7,
+        "source": "Wikipedia"
+      }
+    ]
+  },
+  "notes": "The Pembroke Welsh Corgi is a small, sturdy herding breed known for its intelligence, affectionate nature, and strong herding instincts. They have a weather-resistant double coat that sheds heavily, especially during seasonal changes, requiring regular grooming. While generally healthy, they are prone to certain genetic conditions such as hip dysplasia and intervertebral disc disease. Their energetic and playful demeanor makes them excellent companions, but they require regular exercise and mental stimulation to prevent boredom. They can adapt to various living situations, including apartments, provided their physical and mental needs are met. Early socialization and training are recommended to manage their herding behaviors and potential nipping tendencies."
+}

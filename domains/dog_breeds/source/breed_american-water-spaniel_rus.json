@@ -1,0 +1,160 @@
+{
+  "id": "american-water-spaniel",
+  "name": "American Water Spaniel",
+  "name_rus": "Американский водяной спаниель",
+  "full_description": "<p>The American Water Spaniel (AWS) is a versatile and energetic breed developed in the United States during the 19th century, primarily in the Midwest regions along the Fox and Wolf Rivers in Wisconsin. Hunters sought a compact, all-around hunting dog capable of retrieving game from both land and water, even in challenging conditions. The AWS was likely developed from a mix of breeds, including the Irish Water Spaniel, English Water Spaniel, Curly-Coated Retriever, and possibly native Indian dogs. Official recognition came from the United Kennel Club in 1920 and the American Kennel Club in 1940. Physically, the AWS is a medium-sized, muscular dog standing between 15 to 18 inches (38 to 45 cm) tall and weighing 25 to 45 pounds (11 to 20 kg). Its distinctive double coat is dense and water-resistant, featuring tight curls or a marcel pattern (uniform waves) in liver, brown, or dark chocolate colors. Some individuals may have small white markings on the chest and toes. The breed's broad skull, hanging ears covered with curls, and expressive eyes contribute to its alert and friendly appearance. Temperamentally, the AWS is intelligent, eager to please, and known for its friendly disposition. It forms strong bonds with family members and is generally good with children and other pets. While affectionate, the breed can be reserved around strangers and may exhibit a protective nature. Originally bred for hunting, the AWS excels in retrieving waterfowl and flushing game birds, demonstrating remarkable endurance and versatility in various terrains. Today, the breed continues to participate in hunting activities and has also found roles in agility, obedience, and as a loyal family companion. Despite its capabilities, the AWS remains relatively rare, with an estimated 3,000 individuals primarily located in the Midwestern United States. Notably, it was designated the state dog of Wisconsin in 1985. Distinctive characteristics of the AWS include its unique curly coat, exceptional swimming ability, and adaptability to both land and water environments. Its compact size and energetic nature make it suitable for active families and hunters seeking a versatile and devoted companion.</p>",
+  "full_description_rus": "<p>Американский водяной спаниель (AWS) — универсальная и энергичная порода, выведенная в США в XIX веке, преимущественно в районах вдоль рек Фокс и Вулф в штате Висконсин. Охотники стремились создать компактную собаку, способную добывать дичь как на суше, так и на воде, даже в сложных условиях. AWS, вероятно, произошёл от смеси пород, включая ирландского водяного спаниеля, английского водяного спаниеля, курчавошёрстного ретривера и, возможно, местных индейских собак. Официальное признание порода получила от Объединённого клуба собаководства в 1920 году и от Американского клуба собаководства в 1940 году. Физически AWS — это собака среднего размера с мускулистым телосложением, ростом от 38 до 45 см и весом от 11 до 20 кг. Её отличительная двойная шерсть плотная и водоотталкивающая, с плотными кудрями или волнами в ливерном, коричневом или тёмно-шоколадном цвете. У некоторых особей могут быть небольшие белые отметины на груди и пальцах. Широкий череп, висячие уши, покрытые кудрями, и выразительные глаза придают породе настороженный и дружелюбный вид. По темпераменту AWS умный, стремящийся угодить и известен своим дружелюбным нравом. Он формирует крепкие связи с членами семьи и обычно хорошо ладит с детьми и другими домашними животными. Хотя собака ласкова, она может быть сдержанной с незнакомцами и проявлять защитные качества. Изначально выведенный для охоты, AWS отлично справляется с добычей водоплавающей птицы и вспугиванием дичи, демонстрируя выдающуюся выносливость и универсальность в различных условиях. Сегодня порода продолжает участвовать в охотничьих мероприятиях, а также нашла применение в аджилити, послушании и в качестве преданного семейного компаньона. Несмотря на свои способности, AWS остаётся относительно редкой породой, с приблизительно 3 000 особей, преимущественно находящихся на Среднем Западе США. Примечательно, что в 1985 году она была объявлена официальной собакой штата Висконсин. Отличительные черты AWS включают её уникальную кудрявую шерсть, исключительные способности к плаванию и адаптивность к различным условиям на суше и воде. Компактный размер и энергичный характер делают её подходящей для активных семей и охотников, ищущих универсального и преданного спутника.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "25-45 pounds (11-20 kg)",
+    "height": "15-18 inches (38-45 cm)",
+    "coat": "double coat, curly or wavy, water-resistant",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; minimal shedding",
+    "lifespan": "10-13 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "11-20 кг",
+    "рост": "38-45 см",
+    "шерсть": "двойная, кудрявая или волнистая, водоотталкивающая",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчёсывание; минимальная линька",
+    "продолжительность жизни": "10-13 лет"
+  },
+  "behavior": {
+    "summary": "The American Water Spaniel is an intelligent, energetic, and affectionate breed known for its versatility and strong bond with family members.",
+    "with_family": "AWS dogs are loyal and form strong attachments to their family, often bonding closely with one particular individual.",
+    "with_children": "Generally good with children, they enjoy playtime and can be gentle companions when properly socialized.",
+    "with_other_pets": "They typically get along well with other dogs and pets, especially when raised together, but early socialization is beneficial.",
+    "with_strangers": "AWS can be reserved around strangers, displaying a protective nature without being aggressive.",
+    "special_traits": [
+      "Intelligent and eager to please",
+      "Versatile in various activities",
+      "Strong swimming ability",
+      "Affectionate with family",
+      "Protective yet friendly"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Американский водяной спаниель — умная, энергичная и ласковая порода, известная своей универсальностью и крепкой привязанностью к членам семьи.",
+    "с семьёй": "AWS преданны и формируют крепкие связи с семьёй, часто особенно привязываясь к одному человеку.",
+    "с детьми": "Обычно хорошо ладят с детьми, любят совместные игры и могут быть нежными компаньонами при правильной социализации.",
+    "с другими животными": "Обычно хорошо уживаются с другими собаками и питомцами, особенно если выросли вместе, но ранняя социализация полезна.",
+    "с незнакомцами": "AWS могут быть сдержанными с незнакомцами, проявляя защитные качества без агрессии.",
+    "особые черты": [
+      "Умны и стремятся угодить",
+      "Универсальны в различных видах деятельности",
+      "Обладают сильными способностями к плаванию",
+      "Ласковы с семьёй",
+      "Защитны, но дружелюбны"
+    ]
+  },
+  "health": {
+    "summary": "The American Water Spaniel is generally a healthy breed but may be prone to certain hereditary conditions.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy (PRA)",
+      "Degenerative myelopathy",
+      "Hypothyroidism",
+      "Allergies",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Routine eye examinations",
+      "Hip evaluations",
+      "Thyroid function tests",
+      "Ear cleaning, especially after swimming"
+    ],
+    "vet_checkups": "Annual check-ups recommended; more frequent visits if health issues arise."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Американский водяной спаниель в целом здоровая порода, но может быть склонен к некоторым наследственным заболеваниям.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Прогрессирующая атрофия сетчатки (PRA)",
+      "Дегенеративная миелопатия",
+      "Гипотиреоз",
+      "Аллергии",
+      "Инфекции ушей"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Плановые проверки зрения",
+      "Оценка состояния тазобедренных суставов",
+      "Тесты на функцию щитовидной железы",
+      "Чистка ушей, особенно после плавания"
+    ],
+    "рекомендуемые осмотры": "Рекомендуются ежегодные осмотры; более частые визиты при возникновении проблем со здоровьем."
+  },
+  "care": {
+    "description": "The American Water Spaniel requires regular exercise, mental stimulation, and consistent grooming to maintain its health and happiness.",
+    "behavior": "Engage in daily activities like walks, play sessions, and training exercises to satisfy their high energy levels and intelligence.",
+    "health": "Monitor for signs of common health issues and maintain a schedule of regular veterinary visits for preventive care.",
+    "grooming": "Brush the curly coat several times a week to prevent matting and manage the natural 'doggy smell' due to the oily coat.",
+    "nutrition": "Provide a balanced diet appropriate for their age, size, and activity level; monitor weight to prevent obesity."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Американскому водяному спаниелю необходимы регулярные физические нагрузки, умственная стимуляция и постоянный уход за шерстью для поддержания здоровья и счастья.",
+    "поведение и характер": "Занимайтесь ежедневными прогулками, играми и тренировками, чтобы удовлетворить их высокий уровень энергии и интеллект.",
+    "здоровье и профилактика": "Следите за признаками распространённых проблем со здоровьем и поддерживайте график регулярных визитов к ветеринару для профилактического ухода.",
+    "груминг и уход": "Расчёсывайте кудрявую шерсть несколько раз в неделю, чтобы предотвратить спутывание и управлять естественным 'собачьим запахом' из-за жирной шерсти.",
+    "питание и активность": "Обеспечьте сбалансированное питание, соответствующее их возрасту, размеру и уровню активности; контролируйте вес, чтобы предотвратить ожирение."
+  },
+  "faq": [
+    {
+      "question": "Is the American Water Spaniel suitable for apartment living?",
+      "answer": "Yes, with sufficient daily exercise and mental stimulation, they can adapt well to apartment living."
+    },
+    {
+      "question": "How often should I groom my American Water Spaniel?",
+      "answer": "Brush their coat several times a week to prevent matting and maintain coat health."
+    },
+    {
+      "question": "Are American Water Spaniels good with children?",
+      "answer": "Yes, they are generally good with children and enjoy playtime when properly socialized."
+    },
+    {
+      "question": "Do American Water Spaniels get along with other pets?",
+      "answer": "They typically get along well with other pets, especially when raised together."
+    },
+    {
+      "question": "What is the lifespan of an American Water Spaniel?",
+      "answer": "They typically live between 10 to 13 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходит ли американский водяной спаниель для жизни в квартире?",
+      "ответ": "Да, при достаточных ежедневных физических нагрузках и умственной стимуляции они могут хорошо адаптироваться к жизни в квартире."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за шерстью американского водяного спаниеля?",
+      "ответ": "Расчёсывайте их шерсть несколько раз в неделю, чтобы предотвратить спутывание и поддерживать здоровье шерсти."
+    },
+    {
+      "вопрос": "Ладят ли американские водяные спаниели с детьми?",
+      "ответ": "Да, они обычно хорошо ладят с детьми и любят совместные игры при правильной социализации."
+    },
+    {
+      "вопрос": "Уживаются ли американские водяные спаниели с другими питомцами?",
+      "ответ": "Они обычно хорошо уживаются с другими питомцами, особенно если выросли вместе."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни американского водяного спаниеля?",
+      "ответ": "Они обычно живут от 10 до 13 лет."
+    }
+  ],
+  "sources": [
+    "https://www.britannica.com/animal/American-water-spaniel",
+    "https://en.wikipedia.org/wiki/American_Water_Spaniel",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-american-water-spaniels",
+    "https://www.westminsterkennelclub.org/breed/american-water-spaniel/",
+    "https://www.purina.com/dogs/dog-breeds/american-water-spaniel",
+    "https://www.hillspet.com/dog-care/dog-breeds/american-water-spaniel",
+    "https://www.fci.be/Nomenclature/Standards/301g08-en.pdf"
+  ]
+}

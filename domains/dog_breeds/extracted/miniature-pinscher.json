@@ -1,0 +1,183 @@
+{
+  "breed_id": "miniature-pinscher",
+  "features": {
+    "shedding": {
+      "value": 0.2,
+      "confidence": 0.8
+    },
+    "coat_type": {
+      "value": 0.1,
+      "confidence": 0.9
+    },
+    "dander_level": {
+      "value": 0.3,
+      "confidence": 0.7
+    },
+    "grooming": {
+      "value": 0.2,
+      "confidence": 0.9
+    },
+    "health_robustness": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "genetic_risk": {
+      "value": 0.3,
+      "confidence": 0.8
+    },
+    "apartment_ok": {
+      "value": 0.8,
+      "confidence": 0.9
+    },
+    "barking": {
+      "value": 0.9,
+      "confidence": 0.9
+    },
+    "energy": {
+      "value": 0.9,
+      "confidence": 0.9
+    },
+    "reactivity": {
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "noise_tolerance": {
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "exercise_need": {
+      "value": 0.7,
+      "confidence": 0.9
+    },
+    "alone_tolerance": {
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "separation_anxiety_risk": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "sitter_compatibility": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "adaptability": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "child_friendly": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "pet_friendly": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "stranger_friendly": {
+      "value": 0.4,
+      "confidence": 0.7
+    },
+    "territoriality": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "protectiveness": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "stress_sensitivity": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "affection_level": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "independence": {
+      "value": 0.5,
+      "confidence": 0.7
+    },
+    "playfulness": {
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "trainability": {
+      "value": 0.6,
+      "confidence": 0.8
+    },
+    "working_drive": {
+      "value": 0.6,
+      "confidence": 0.7
+    },
+    "behavior_management_need": {
+      "value": 0.7,
+      "confidence": 0.7
+    },
+    "mental_stimulation": {
+      "value": 0.8,
+      "confidence": 0.8
+    },
+    "prey_drive": {
+      "value": 0.7,
+      "confidence": 0.8
+    },
+    "hunting_instinct": {
+      "value": 0.6,
+      "confidence": 0.7
+    }
+  },
+  "parameters": {
+    "weight_kg": [
+      {
+        "value": 4.5,
+        "confidence": 0.9,
+        "source": "AKC"
+      },
+      {
+        "value": 4.5,
+        "confidence": 0.8,
+        "source": "Hill's Pet"
+      },
+      {
+        "value": 4.5,
+        "confidence": 0.7,
+        "source": "Purina"
+      }
+    ],
+    "height_cm": [
+      {
+        "value": 28.5,
+        "confidence": 0.9,
+        "source": "AKC"
+      },
+      {
+        "value": 28,
+        "confidence": 0.8,
+        "source": "Hill's Pet"
+      },
+      {
+        "value": 27.5,
+        "confidence": 0.7,
+        "source": "Purina"
+      }
+    ],
+    "lifespan_years": [
+      {
+        "value": 14,
+        "confidence": 0.9,
+        "source": "AKC"
+      },
+      {
+        "value": 13,
+        "confidence": 0.8,
+        "source": "Hill's Pet"
+      },
+      {
+        "value": 13,
+        "confidence": 0.7,
+        "source": "Purina"
+      }
+    ]
+  },
+  "notes": "The Miniature Pinscher is a high-energy, intelligent breed with a strong personality. They require consistent training and mental stimulation to thrive. Their short coat is easy to maintain, but they can be prone to certain health issues common among small breeds."
+}

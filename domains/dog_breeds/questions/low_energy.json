@@ -1,0 +1,84 @@
+{
+  "need_id": "low_energy",
+  "formula": "~energy & ~exercise_need",
+  "formula_reasoning": "Low-energy breeds should have low inherent activity levels (~energy) and minimal daily exercise requirements (~exercise_need). Both features directly reflect the need for a calm, low-activity dog.",
+  "questions": [
+    {
+      "id": "low_energy_q1",
+      "text": "Вам удобнее проводить с собакой короткие прогулки, а не длительные и активные занятия?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = пользователь предпочитает малоактивный образ жизни, нужна спокойная собака. Нет = пользователь готов к активным прогулкам, низкая энергия не обязательна."
+    },
+    {
+      "id": "low_energy_q2",
+      "text": "В ваш график сложно вписать ежедневные продолжительные прогулки или пробежки с собакой?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = мало свободного времени, нужен малоподвижный питомец. Нет = есть время и готовность к активности."
+    },
+    {
+      "id": "low_energy_q3",
+      "text": "Вам хотелось бы, чтобы собака большую часть времени спокойно находилась дома?",
+      "weight": 0.75,
+      "style": "direct",
+      "verification": "Да = запрос на спокойную, неигривую собаку. Нет = пользователь не против активного питомца."
+    },
+    {
+      "id": "low_energy_q4",
+      "text": "Вы предпочитаете спокойный домашний ритм без частых игр и активности с питомцем?",
+      "weight": 0.7,
+      "style": "indirect",
+      "verification": "Да = пользователь не склонен к активному взаимодействию, нужна низкая энергия. Нет = активность приветствуется."
+    },
+    {
+      "id": "low_energy_q5",
+      "text": "Ваш образ жизни предполагает больше времени дома, чем на прогулках или занятиях спортом?",
+      "weight": 0.6,
+      "style": "situational",
+      "verification": "Да = мало уличной активности, низкая энергия собаки уместна. Нет = часто вне дома, активная собака допустима."
+    }
+  ],
+  "need_name": "Low Energy",
+  "need_description": "Low activity requirements",
+  "block": "activity_lifestyle",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

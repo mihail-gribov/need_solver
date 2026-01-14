@@ -1,0 +1,156 @@
+{
+  "id": "aussiedoodle",
+  "name": "Aussiedoodle",
+  "name_rus": "Ауссидудль",
+  "full_description": "<p>The Aussiedoodle, also known as the Aussiepoo, is a hybrid breed resulting from the cross between an Australian Shepherd and a Poodle. This intentional breeding began in the United States during the late 1990s, aiming to combine the Australian Shepherd's herding prowess and loyalty with the Poodle's intelligence and hypoallergenic coat. The outcome is a versatile, intelligent, and affectionate companion that has gained popularity among families and active individuals alike. Physically, Aussiedoodles exhibit a range of appearances influenced by their parentage. They typically stand between 14 to 23 inches tall and weigh anywhere from 25 to 70 pounds, depending on whether they are bred from Toy, Miniature, or Standard Poodles. Their coats can be wavy to curly, medium to long in length, and come in a variety of colors including black, blue merle, red merle, cream, white, and tri-color combinations. Their expressive eyes may be brown, blue, or even heterochromatic, adding to their unique charm. Temperamentally, Aussiedoodles are known for their friendly, energetic, and intelligent nature. They form strong bonds with their families and are particularly good with children and other pets when properly socialized. Their high intelligence makes them highly trainable, but it also means they require regular mental stimulation to prevent boredom-induced behaviors. Originally bred to harness the working abilities of both parent breeds, Aussiedoodles inherit the Australian Shepherd's herding instincts and the Poodle's aptitude for various tasks. While they may not be commonly used for herding today, their versatility makes them excellent candidates for therapy work, agility sports, and obedience competitions. In modern times, Aussiedoodles have become cherished family pets, valued for their affectionate nature and adaptability. Their popularity continues to rise, especially among those seeking an active and intelligent companion. Notable characteristics of the breed include their low-shedding coats, making them suitable for some allergy sufferers, and their eagerness to please, which facilitates training. However, potential owners should be prepared to meet their exercise and mental stimulation needs to ensure a happy and well-adjusted pet.</p>",
+  "full_description_rus": "<p>Ауссидудль, также известный как ауссипу, — это гибридная порода, полученная в результате скрещивания австралийской овчарки и пуделя. Целенаправленное разведение началось в США в конце 1990-х годов с целью объединить пастушьи способности и преданность австралийской овчарки с интеллектом и гипоаллергенной шерстью пуделя. Результатом стала универсальная, умная и ласковая собака, которая завоевала популярность среди семей и активных людей. Внешне ауссидудли демонстрируют разнообразие, обусловленное их происхождением. Обычно их рост составляет от 35 до 58 см, а вес варьируется от 11 до 32 кг, в зависимости от того, были ли они выведены от той-, миниатюрных или стандартных пуделей. Их шерсть может быть волнистой или кудрявой, средней или длинной, и представлена в различных цветах, включая черный, голубой мерль, красный мерль, кремовый, белый и триколорные комбинации. Выразительные глаза могут быть карими, голубыми или даже разного цвета, что придает им особое очарование. По темпераменту ауссидудли известны своей дружелюбностью, энергичностью и умом. Они формируют крепкие связи с семьей и особенно хорошо ладят с детьми и другими животными при правильной социализации. Высокий интеллект делает их легко обучаемыми, но также требует регулярной умственной стимуляции, чтобы предотвратить поведенческие проблемы, вызванные скукой. Изначально выведенные для использования рабочих качеств обеих родительских пород, ауссидудли наследуют пастушьи инстинкты австралийской овчарки и способность пуделя к выполнению различных задач. Хотя сегодня они редко используются для пастьбы, их универсальность делает их отличными кандидатами для терапевтической работы, спортивных соревнований по аджилити и послушанию. В современном мире ауссидудли стали любимыми семейными питомцами, ценимыми за их ласковый характер и адаптивность. Их популярность продолжает расти, особенно среди тех, кто ищет активного и умного компаньона. Ключевые особенности породы включают низкую линьку, что делает их подходящими для некоторых людей, страдающих аллергией, и стремление угодить, что облегчает процесс обучения. Однако потенциальные владельцы должны быть готовы удовлетворять их потребности в физических упражнениях и умственной стимуляции, чтобы обеспечить счастливую и уравновешенную жизнь питомца.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "25-70 lbs",
+    "height": "14-23 inches",
+    "coat": "wavy to curly, medium to long",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "regular brushing; professional grooming every 6-8 weeks",
+    "lifespan": "10-15 years"
+  },
+  "parameters_rus": {
+    "размер": "малый / средний",
+    "вес": "11-32 кг",
+    "рост": "35-58 см",
+    "шерсть": "волнистая или кудрявая, средней или длинной длины",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "регулярное расчесывание; профессиональный груминг каждые 6-8 недель",
+    "продолжительность жизни": "10-15 лет"
+  },
+  "behavior": {
+    "summary": "Aussiedoodles are energetic, intelligent, and affectionate dogs that thrive on companionship and mental stimulation.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and a desire to be involved in daily activities.",
+    "with_children": "Generally excellent with children, they enjoy playtime and can be gentle companions when properly socialized.",
+    "with_other_pets": "With appropriate introductions, they coexist well with other pets, though their herding instincts may occasionally surface.",
+    "with_strangers": "Friendly and approachable, they typically warm up to strangers quickly, especially when socialized from a young age.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Energetic and playful",
+      "Affectionate and loyal",
+      "Requires regular mental stimulation",
+      "May exhibit herding behaviors"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Ауссидудли — энергичные, умные и ласковые собаки, которые процветают в компании и при умственной стимуляции.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя преданность и желание участвовать в повседневной жизни.",
+    "с детьми": "Обычно отлично ладят с детьми, любят играть и могут быть нежными компаньонами при правильной социализации.",
+    "с другими животными": "При соответствующем знакомстве хорошо уживаются с другими питомцами, хотя их пастушьи инстинкты могут иногда проявляться.",
+    "с незнакомцами": "Дружелюбные и общительные, обычно быстро привыкают к незнакомцам, особенно при социализации с раннего возраста.",
+    "особые черты": [
+      "Высокий интеллект и обучаемость",
+      "Энергичность и игривость",
+      "Ласковость и преданность",
+      "Требуют регулярной умственной стимуляции",
+      "Могут проявлять пастушьи инстинкты"
+    ]
+  },
+  "health": {
+    "summary": "Aussiedoodles are generally healthy but can inherit certain conditions from their parent breeds.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Progressive retinal atrophy",
+      "Epilepsy",
+      "Cataracts",
+      "Sebaceous adenitis"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy diet and weight",
+      "Provide adequate exercise",
+      "Regular eye examinations",
+      "Genetic testing of breeding pairs"
+    ],
+    "vet_checkups": "Annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Ауссидудли в целом здоровы, но могут наследовать определенные заболевания от родительских пород.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Прогрессирующая атрофия сетчатки",
+      "Эпилепсия",
+      "Катаракта",
+      "Себацейный аденит"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Поддержание здоровой диеты и веса",
+      "Обеспечение достаточной физической активности",
+      "Регулярные осмотры глаз",
+      "Генетическое тестирование племенных пар"
+    ],
+    "рекомендуемые осмотры": "Ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "Aussiedoodles require consistent care, including regular exercise, mental stimulation, grooming, and a balanced diet to maintain their health and happiness.",
+    "behavior": "Engage them in daily activities and training sessions to satisfy their intelligence and energy levels.",
+    "health": "Monitor for signs of common health issues and maintain regular veterinary visits to ensure overall well-being.",
+    "grooming": "Brush their coat several times a week to prevent matting and schedule professional grooming every 6-8 weeks.",
+    "nutrition": "Provide a high-quality, balanced diet appropriate for their size, age, and activity level."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Ауссидудли требуют постоянного ухода, включая регулярные физические нагрузки, умственную стимуляцию, груминг и сбалансированное питание для поддержания их здоровья и счастья.",
+    "поведение и характер": "Вовлекайте их в ежедневные занятия и тренировки, чтобы удовлетворить их интеллект и уровень энергии.",
+    "здоровье и профилактика": "Следите за признаками распространенных заболеваний и регулярно посещайте ветеринара для обеспечения общего благополучия.",
+    "груминг и уход": "Расчесывайте их шерсть несколько раз в неделю, чтобы предотвратить спутывание, и планируйте профессиональный груминг каждые 6-8 недель.",
+    "питание и активность": "Обеспечьте высококачественное, сбалансированное питание, соответствующее их размеру, возрасту и уровню активности."
+  },
+  "faq": [
+    {
+      "question": "Are Aussiedoodles hypoallergenic?",
+      "answer": "While no dog is completely hypoallergenic, Aussiedoodles tend to shed less due to their Poodle ancestry, making them more suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does an Aussiedoodle need?",
+      "answer": "They require at least 60 minutes of daily exercise, including walks, playtime, and mental stimulation activities."
+    },
+    {
+      "question": "Are Aussiedoodles good with children?",
+      "answer": "Yes, they are generally excellent with children, being playful and gentle when properly socialized."
+    },
+    {
+      "question": "Do Aussiedoodles require a lot of grooming?",
+      "answer": "Yes, their wavy to curly coats require regular brushing and professional grooming every 6-8 weeks to prevent matting."
+    },
+    {
+      "question": "What is the lifespan of an Aussiedoodle?",
+      "answer": "Aussiedoodles typically live between 10 to 15 years."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли ауссидудли гипоаллергенными?",
+      "ответ": "Хотя полностью гипоаллергенных собак не существует, ауссидудли склонны меньше линять благодаря наследственности от пуделя, что делает их более подходящими для некоторых людей, страдающих аллергией."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется ауссидудлю?",
+      "ответ": "Им необходимо не менее 60 минут ежедневных физических нагрузок, включая прогулки, игры и умственные упражнения."
+    },
+    {
+      "вопрос": "Хорошо ли ауссидудли ладят с детьми?",
+      "ответ": "Да, они обычно отлично ладят с детьми, будучи игривыми и нежными при правильной социализации."
+    },
+    {
+      "вопрос": "Требуют ли ауссидудли много ухода за шерстью?",
+      "ответ": "Да, их волнистая или кудрявая шерсть требует регулярного расчесывания и профессионального груминга каждые 6-8 недель для предотвращения спутывания."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни ауссидудля?",
+      "ответ": "Ауссидудли обычно живут от 10 до 15 лет."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/aussiedoodle",
+    "https://www.gooddog.com/breeds/aussiedoodle",
+    "https://www.chewy.com/education/dog-breeds/aussiedoodle",
+    "https://www.petsradar.com/dogs/dog-breeds/aussiedoodle-breed-profile",
+    "https://www.dailypaws.com/dogs-puppies/dog-breeds/aussiedoodle"
+  ]
+}

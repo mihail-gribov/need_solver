@@ -1,0 +1,81 @@
+{
+  "id": "west-highland-white-terrier",
+  "name": "West Highland White Terrier",
+  "full_description": "<p>The West Highland White Terrier, affectionately known as the Westie, is a small, sturdy breed originating from Scotland's western Highlands. Developed in the 17th century, these terriers were bred to hunt rodents that threatened grain stores and spread disease. Their distinctive white coat was intentionally selected to distinguish them from prey during hunts. Physically, Westies are compact dogs standing about 10 to 11 inches tall and weighing between 13 to 22 pounds. They possess a double coat: a rough, hard outer layer and a soft, dense undercoat, both pure white. Their dark, almond-shaped eyes and erect ears give them an alert and lively expression. Temperamentally, Westies are known for their friendly, confident, and playful nature. They are intelligent and quick learners but can exhibit a stubborn streak, making consistent training essential. Originally bred for hunting, they retain a strong prey drive and require regular exercise to stay content. In modern times, Westies have transitioned from hunters to beloved companions, excelling in activities like agility and obedience. Their charming appearance and spirited personality have made them popular worldwide. Notable characteristics include their distinctive white coat, energetic disposition, and adaptability to various living environments.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "13-22 pounds",
+    "height": "10-11 inches",
+    "coat": "double; rough, hard outer coat and soft, dense undercoat; pure white",
+    "activity": "medium",
+    "trainability": "moderate; intelligent but can be stubborn",
+    "grooming": "regular brushing; coat trimming every 4-6 weeks",
+    "lifespan": "13-15 years"
+  },
+  "behavior": {
+    "summary": "Westies are friendly, confident, and playful dogs with a strong prey drive and independent nature.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and affection.",
+    "with_children": "Generally good with children, especially when socialized early, but may not tolerate rough handling.",
+    "with_other_pets": "May coexist with other pets if introduced properly, though their hunting instincts can pose challenges.",
+    "with_strangers": "Typically friendly but can be reserved; early socialization helps in developing good manners.",
+    "special_traits": [
+      "energetic and playful",
+      "independent and confident",
+      "strong prey drive",
+      "alert and good watchdog",
+      "intelligent but sometimes stubborn"
+    ]
+  },
+  "health": {
+    "summary": "Westies are generally healthy but can be prone to certain genetic and skin conditions.",
+    "common_issues": [
+      "allergies and skin conditions",
+      "craniomandibular osteopathy (Westie jaw)",
+      "patellar luxation",
+      "dry eye (keratoconjunctivitis sicca)"
+    ],
+    "prevention_tips": [
+      "regular grooming to monitor skin health",
+      "balanced diet to maintain overall health",
+      "routine exercise to prevent obesity",
+      "early socialization and training",
+      "regular dental care"
+    ],
+    "vet_checkups": "at least once a year; more frequent for senior dogs or those with health issues"
+  },
+  "care": {
+    "description": "Westies require regular grooming, consistent training, and daily exercise to maintain their health and happiness.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature and strong prey drive.",
+    "health": "Regular veterinary checkups and preventive care help in early detection and management of potential health issues.",
+    "grooming": "Daily brushing and coat trimming every 4-6 weeks are recommended to keep their coat in good condition.",
+    "nutrition": "A balanced diet appropriate for their size and activity level helps maintain optimal health."
+  },
+  "faq": [
+    {
+      "question": "Are Westies good for first-time dog owners?",
+      "answer": "Yes, with proper training and socialization, Westies can be suitable for first-time owners."
+    },
+    {
+      "question": "Do Westies shed a lot?",
+      "answer": "They shed seasonally and require regular grooming to manage their coat."
+    },
+    {
+      "question": "Are Westies hypoallergenic?",
+      "answer": "No dog is completely hypoallergenic, but Westies are considered to have a low-shedding coat."
+    },
+    {
+      "question": "How much exercise does a Westie need?",
+      "answer": "They require at least one hour of daily exercise to stay healthy and happy."
+    },
+    {
+      "question": "Can Westies live in apartments?",
+      "answer": "Yes, they adapt well to apartment living if they receive sufficient exercise and mental stimulation."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/West_Highland_White_Terrier",
+    "https://www.purina.com/dogs/dog-breeds/west-highland-white-terrier",
+    "https://www.westminsterkennelclub.org/breed/west-highland-white-terrier/",
+    "https://www.webmd.com/pets/dogs/what-to-know-west-highland-white-terriers"
+  ]
+}

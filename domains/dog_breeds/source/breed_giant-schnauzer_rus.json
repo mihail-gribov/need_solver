@@ -1,0 +1,163 @@
+{
+  "id": "giant-schnauzer",
+  "name": "Giant Schnauzer",
+  "name_rus": "Ризеншнауцер",
+  "full_description": "<p>The Giant Schnauzer, originating in 17th-century Germany, was developed to drive cattle and guard properties. Breeders combined Standard Schnauzers with larger breeds like Great Danes and rough-haired sheepdogs to create a robust, versatile working dog. This breed is characterized by a strong, square build, standing between 23.5 to 27.5 inches tall and weighing 55 to 95 pounds. They possess a dense, wiry double coat, typically in solid black or salt-and-pepper colors, complemented by distinctive bushy eyebrows and a beard. Known for their intelligence and loyalty, Giant Schnauzers are protective of their families and can be wary of strangers. Their high energy levels and working heritage necessitate regular physical and mental stimulation. Historically used for cattle driving and guarding, they have also served in police and military roles. Today, they excel in various canine sports and are valued as both working dogs and family companions. Notable traits include their alertness, versatility, and strong protective instincts.</p>",
+  "full_description_rus": "<p>Ризеншнауцер, происходящий из Германии XVII века, был выведен для перегонки скота и охраны имущества. Заводчики скрестили стандартных шнауцеров с более крупными породами, такими как доги и жесткошёрстные овчарки, чтобы создать крепкую и универсальную рабочую собаку. Эта порода характеризуется сильным, квадратным телосложением, ростом от 60 до 70 см и весом от 35 до 47 кг. Ризеншнауцеры обладают густой, жёсткой двойной шерстью, обычно чёрного цвета или окраса «перец с солью», с характерными густыми бровями и бородой. Известные своим интеллектом и преданностью, ризеншнауцеры защищают свою семью и могут быть настороженными к незнакомцам. Их высокий уровень энергии и рабочее наследие требуют регулярной физической и умственной стимуляции. Исторически использовались для перегонки скота и охраны, а также служили в полиции и армии. Сегодня они преуспевают в различных собачьих видах спорта и ценятся как рабочие собаки и семейные компаньоны. Отличительными чертами являются их бдительность, универсальность и сильные защитные инстинкты.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "55-95 pounds",
+    "height": "23.5-27.5 inches",
+    "coat": "dense, wiry double coat",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "regular brushing; professional grooming every 6-8 weeks",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "35-47 кг",
+    "рост": "60-70 см",
+    "шерсть": "густая, жёсткая двойная шерсть",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "регулярное расчёсывание; профессиональный груминг каждые 6-8 недель",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "summary": "Giant Schnauzers are intelligent, loyal, and protective dogs with high energy levels, requiring consistent training and socialization.",
+    "with_family": "They form strong bonds with family members and are affectionate and protective.",
+    "with_children": "Generally good with children, especially when raised together, but supervision is recommended due to their size and energy.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though their strong prey drive may pose challenges.",
+    "with_strangers": "Wary of strangers, making them excellent watchdogs; early socialization helps manage this trait.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Strong protective instincts",
+      "High energy and stamina",
+      "Requires regular mental stimulation",
+      "Loyal and affectionate with family"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Ризеншнауцеры — умные, преданные и защитные собаки с высоким уровнем энергии, требующие последовательной дрессировки и социализации.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя привязанность и защиту.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно если выросли вместе, но из-за их размера и энергии рекомендуется присмотр.",
+    "с другими животными": "Могут уживаться с другими животными при правильной социализации, хотя их сильный охотничий инстинкт может создавать сложности.",
+    "с незнакомцами": "Настороженно относятся к незнакомцам, что делает их отличными сторожевыми собаками; ранняя социализация помогает управлять этой чертой.",
+    "особые черты": [
+      "Высокий интеллект и обучаемость",
+      "Сильные защитные инстинкты",
+      "Высокая энергия и выносливость",
+      "Требуют регулярной умственной стимуляции",
+      "Преданны и ласковы с семьёй"
+    ]
+  },
+  "health": {
+    "summary": "Giant Schnauzers are generally healthy but prone to certain conditions; regular veterinary care is essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Progressive retinal atrophy",
+      "Hypothyroidism",
+      "Bloat (Gastric Dilatation-Volvulus)"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Routine eye examinations",
+      "Balanced diet to prevent bloat",
+      "Early socialization and training",
+      "Regular grooming to prevent skin issues"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Ризеншнауцеры в целом здоровы, но склонны к определённым заболеваниям; регулярный ветеринарный уход необходим.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Прогрессирующая атрофия сетчатки",
+      "Гипотиреоз",
+      "Вздутие желудка (Гастродилатация-волвулюс)"
+    ],
+    "советы по профилактике": [
+      "Регулярные физические нагрузки для поддержания здорового веса",
+      "Периодические осмотры глаз",
+      "Сбалансированное питание для предотвращения вздутия",
+      "Ранняя социализация и дрессировка",
+      "Регулярный груминг для предотвращения кожных проблем"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем"
+  },
+  "care": {
+    "description": "Giant Schnauzers require dedicated care, including regular exercise, grooming, and mental stimulation to thrive.",
+    "behavior": "Consistent training and early socialization are crucial to manage their protective nature and high energy.",
+    "health": "Monitor for common health issues and maintain regular veterinary checkups to ensure overall well-being.",
+    "grooming": "Brush their wiry coat weekly and schedule professional grooming every 6-8 weeks to maintain coat health.",
+    "nutrition": "Provide a balanced diet suitable for large, active breeds; consider multiple smaller meals to reduce bloat risk."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Ризеншнауцеры требуют тщательного ухода, включая регулярные физические нагрузки, груминг и умственную стимуляцию для полноценной жизни.",
+    "поведение и характер": "Последовательная дрессировка и ранняя социализация необходимы для управления их защитной натурой и высокой энергией.",
+    "здоровье и профилактика": "Следите за распространёнными проблемами со здоровьем и проводите регулярные ветеринарные осмотры для обеспечения общего благополучия.",
+    "груминг и уход": "Расчёсывайте их жёсткую шерсть еженедельно и планируйте профессиональный груминг каждые 6-8 недель для поддержания здоровья шерсти.",
+    "питание и активность": "Обеспечьте сбалансированное питание, подходящее для крупных, активных пород; рассмотрите возможность нескольких небольших приёмов пищи для снижения риска вздутия."
+  },
+  "faq": [
+    {
+      "question": "Are Giant Schnauzers good family pets?",
+      "answer": "Yes, they are loyal and protective, making them excellent family companions with proper training and socialization."
+    },
+    {
+      "question": "How much exercise does a Giant Schnauzer need?",
+      "answer": "They require at least two hours of daily exercise, including walks, play, and mental stimulation."
+    },
+    {
+      "question": "Do Giant Schnauzers shed a lot?",
+      "answer": "They are low-shedding but require regular grooming to maintain their coat and minimize loose hair."
+    },
+    {
+      "question": "Are Giant Schnauzers easy to train?",
+      "answer": "Yes, they are highly intelligent and respond well to consistent, positive reinforcement training methods."
+    },
+    {
+      "question": "What are common health issues in Giant Schnauzers?",
+      "answer": "They can be prone to hip and elbow dysplasia, eye conditions, hypothyroidism, and bloat."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли ризеншнауцеры хорошими семейными питомцами?",
+      "ответ": "Да, они преданны и защитны, что делает их отличными семейными компаньонами при правильной дрессировке и социализации."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется ризеншнауцеру?",
+      "ответ": "Им необходимо не менее двух часов ежедневных физических нагрузок, включая прогулки, игры и умственную стимуляцию."
+    },
+    {
+      "вопрос": "Сильно ли линяют ризеншнауцеры?",
+      "ответ": "Они мало линяют, но требуют регулярного груминга для поддержания состояния шерсти и минимизации выпадения волос."
+    },
+    {
+      "вопрос": "Легко ли дрессировать ризеншнауцеров?",
+      "ответ": "Да, они очень умны и хорошо реагируют на последовательные методы дрессировки с положительным подкреплением."
+    },
+    {
+      "вопрос": "Какие распространённые проблемы со здоровьем у ризеншнауцеров?",
+      "ответ": "Они могут быть склонны к дисплазии тазобедренного и локтевого суставов, заболеваниям глаз, гипотиреозу и вздутию желудка."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/giant-schnauzer",
+    "https://www.purina.com/dogs/dog-breeds/giant-schnauzer",
+    "https://www.webmd.com/pets/dogs/what-to-know-giant-schnauzer",
+    "https://www.westminsterkennelclub.org/breed/giant-schnauzer/",
+    "https://vcahospitals.com/know-your-pet/giant-schnauzer",
+    "https://www.chewy.com/education/dog-breeds/giant-schnauzer",
+    "https://www.ukcdogs.com/giant-schnauzer",
+    "https://www.akc.org/expert-advice/dog-breeds/giant-schnauzer-right-for-you/",
+    "https://ru.wikipedia.org/wiki/Ризеншнауцер",
+    "https://good-veterinar.ru/dogs/gigantskij-snaucer-opisanie-osobennosti-i-harakter-porody.html",
+    "https://mirsobak.net/porody/bolshie/riesenschnauzer.html",
+    "https://rkf.org.ru/wp-content/uploads/2019/06/rizenshnaucer-181.pdf"
+  ]
+}

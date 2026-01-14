@@ -1,0 +1,156 @@
+{
+  "id": "pyrenean-shepherd",
+  "name": "Pyrenean Shepherd",
+  "name_rus": "Пиренейская овчарка",
+  "full_description": "<p>The Pyrenean Shepherd, also known as the Berger des Pyrénées, is a small to medium-sized herding dog originating from the Pyrenees Mountains in southern France. This breed has been integral to sheep and goat herding in the region for centuries, with evidence suggesting their presence as early as 4000 B.C.. Traditionally, they worked alongside the larger Pyrenean Mountain Dog, with the Shepherds herding the flocks and the Mountain Dogs guarding them. Physically, the Pyrenean Shepherd exhibits a lean, athletic build, allowing for agility and endurance. There are two primary coat varieties: Rough-Faced and Smooth-Faced. Rough-Faced dogs have long or demi-long coats, while Smooth-Faced dogs possess shorter hair on the face and body. Coat colors include fawn, grey, blue merle, slate blue, brindle, black, or black and white. The breed's expressive triangular head and lively eyes reflect its intelligent and alert nature. Temperamentally, Pyrenean Shepherds are energetic, intelligent, and playful. They form strong bonds with their families and are known for their loyalty and protective instincts. Their high energy levels and quick-wittedness make them excellent working dogs, but they also require regular mental and physical stimulation. Historically, these dogs were bred for herding, capable of managing large flocks over challenging terrains. Their agility and stamina made them invaluable to shepherds. In modern times, while they continue to serve as herding dogs, they have also gained popularity in dog sports such as agility and obedience, showcasing their versatility. Notably, during World War I, Pyrenean Shepherds were utilized as couriers and search-and-rescue dogs, highlighting their bravery and intelligence. Today, they remain a cherished breed, appreciated for their working abilities and companionship.</p>",
+  "full_description_rus": "<p>Пиренейская овчарка, известная также как Berger des Pyrénées, — это небольшая или средняя пастушья собака, происходящая из Пиренейских гор на юге Франции. Эта порода на протяжении веков играла ключевую роль в выпасе овец и коз в регионе, с упоминаниями о ней, датируемыми еще 4000 годом до н.э. Традиционно они работали вместе с более крупными пиренейскими горными собаками: овчарки управляли стадами, а горные собаки их охраняли. Физически пиренейская овчарка обладает стройным, атлетичным телосложением, обеспечивающим ей ловкость и выносливость. Существуют две основные разновидности шерсти: длинношерстная и гладкомордая. Длинношерстные собаки имеют длинную или полудлинную шерсть, тогда как у гладкомордых шерсть короче на морде и теле. Окрасы включают палевый, серый, голубой мерль, сланцево-голубой, тигровый, черный или черно-белый. Выразительная треугольная голова и живые глаза отражают их ум и бдительность. По темпераменту пиренейские овчарки энергичны, умны и игривы. Они формируют крепкие связи со своими семьями и известны своей преданностью и защитными инстинктами. Высокий уровень энергии и сообразительность делают их отличными рабочими собаками, но они также требуют регулярной умственной и физической стимуляции. Исторически эти собаки были выведены для пастьбы, способные управлять большими стадами на сложных территориях. Их ловкость и выносливость делали их незаменимыми для пастухов. В современное время, помимо продолжения работы в качестве пастушьих собак, они также приобрели популярность в собачьих видах спорта, таких как аджилити и послушание, демонстрируя свою универсальность. Примечательно, что во время Первой мировой войны пиренейские овчарки использовались в качестве курьеров и поисково-спасательных собак, подчеркивая их храбрость и интеллект. Сегодня они остаются любимой породой, ценимой за свои рабочие качества и как компаньоны.</p>",
+  "parameters": {
+    "size": "small to medium",
+    "weight": "7-15 kg",
+    "height": "38-48 cm",
+    "coat": "long or semi-long; colors include fawn, grey, blue merle, slate blue, brindle, black, or black and white",
+    "activity": "high",
+    "trainability": "very high",
+    "grooming": "requires grooming every other day",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "небольшой или средний",
+    "вес": "7–15 кг",
+    "рост": "38–48 см",
+    "шерсть": "длинная или полудлинная; окрасы включают палевый, серый, голубой мерль, сланцево-голубой, тигровый, черный или черно-белый",
+    "активность": "высокая",
+    "обучаемость": "очень высокая",
+    "уход": "требует ухода через день",
+    "продолжительность жизни": "12–15 лет"
+  },
+  "behavior": {
+    "summary": "Pyrenean Shepherds are energetic, intelligent, and playful dogs that form strong bonds with their families. They are known for their loyalty and protective instincts, making them excellent companions and working dogs.",
+    "with_family": "They are affectionate and devoted to their family members, often forming strong attachments and displaying protective behaviors.",
+    "with_children": "Generally good with children, especially when socialized early, but their high energy levels may require supervision during interactions.",
+    "with_other_pets": "Can coexist with other pets if properly socialized, though their herding instincts may lead them to chase smaller animals.",
+    "with_strangers": "Typically wary of strangers, they may be reserved or cautious until properly introduced.",
+    "special_traits": [
+      "high energy levels",
+      "strong herding instincts",
+      "intelligent and quick-witted",
+      "loyal and protective",
+      "requires regular mental and physical stimulation"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Пиренейские овчарки — энергичные, умные и игривые собаки, которые формируют крепкие связи со своими семьями. Они известны своей преданностью и защитными инстинктами, что делает их отличными компаньонами и рабочими собаками.",
+    "с семьёй": "Они ласковы и преданы членам своей семьи, часто формируют сильные привязанности и проявляют защитное поведение.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно при ранней социализации, но их высокий уровень энергии может требовать присмотра во время взаимодействий.",
+    "с другими животными": "Могут сосуществовать с другими животными при правильной социализации, хотя их пастушьи инстинкты могут побуждать их преследовать мелких животных.",
+    "с незнакомцами": "Обычно настороженно относятся к незнакомцам, могут быть сдержанными или осторожными до надлежащего знакомства.",
+    "особые черты": [
+      "высокий уровень энергии",
+      "сильные пастушьи инстинкты",
+      "умные и сообразительные",
+      "преданные и защитные",
+      "требуют регулярной умственной и физической стимуляции"
+    ]
+  },
+  "health": {
+    "summary": "The Pyrenean Shepherd is generally a healthy and long-lived breed, with serious health issues being rare. Responsible breeding practices have helped maintain their overall health.",
+    "common_issues": [
+      "eye diseases",
+      "hip dysplasia",
+      "epilepsy",
+      "luxating patella",
+      "patent ductus arteriosus (PDA)"
+    ],
+    "prevention_tips": [
+      "regular veterinary check-ups",
+      "genetic testing for hereditary conditions",
+      "maintaining a healthy diet and weight",
+      "providing regular exercise",
+      "early socialization and training"
+    ],
+    "vet_checkups": "annually, or more frequently as recommended by a veterinarian"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Пиренейская овчарка в целом является здоровой и долгоживущей породой, серьезные проблемы со здоровьем встречаются редко. Ответственные методы разведения помогли сохранить их общее здоровье.",
+    "распространённые проблемы": [
+      "глазные заболевания",
+      "дисплазия тазобедренного сустава",
+      "эпилепсия",
+      "вывих надколенника",
+      "открытый артериальный проток (PDA)"
+    ],
+    "советы по профилактике": [
+      "регулярные ветеринарные осмотры",
+      "генетическое тестирование на наследственные заболевания",
+      "поддержание здоровой диеты и веса",
+      "обеспечение регулярных физических нагрузок",
+      "ранняя социализация и обучение"
+    ],
+    "рекомендуемые осмотры": "ежегодно или чаще по рекомендации ветеринара"
+  },
+  "care": {
+    "description": "Pyrenean Shepherds require attentive care, including regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "behavior": "Due to their high energy and intelligence, they thrive on engaging activities and tasks. Without sufficient stimulation, they may develop undesirable behaviors.",
+    "health": "Regular veterinary visits and preventive care are essential to monitor and maintain their overall health.",
+    "grooming": "Their coats require grooming every other day to prevent matting and maintain skin health.",
+    "nutrition": "A balanced diet appropriate for their size and activity level is crucial. Portion control and regular feeding schedules help maintain optimal weight."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Пиренейские овчарки требуют внимательного ухода, включая регулярные физические нагрузки, умственную стимуляцию и груминг для поддержания их здоровья и счастья.",
+    "поведение и характер": "Благодаря высокому уровню энергии и интеллекта, они преуспевают в активных занятиях и задачах. Без достаточной стимуляции могут развить нежелательное поведение.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход необходимы для мониторинга и поддержания их общего здоровья.",
+    "груминг и уход": "Их шерсть требует ухода через день для предотвращения спутывания и поддержания здоровья кожи.",
+    "питание и активность": "Сбалансированная диета, соответствующая их размеру и уровню активности, имеет решающее значение. Контроль порций и регулярный график кормления помогают поддерживать оптимальный вес."
+  },
+  "faq": [
+    {
+      "question": "Are Pyrenean Shepherds good for first-time dog owners?",
+      "answer": "Due to their high energy and intelligence, they may be challenging for first-time owners without prior experience in training and managing active breeds."
+    },
+    {
+      "question": "Do Pyrenean Shepherds get along with other dogs?",
+      "answer": "With proper socialization, they can get along with other dogs, though their herding instincts may influence interactions."
+    },
+    {
+      "question": "How much exercise does a Pyrenean Shepherd need?",
+      "answer": "They require vigorous daily exercise, including walks and playtime, to meet their high energy needs."
+    },
+    {
+      "question": "Are Pyrenean Shepherds hypoallergenic?",
+      "answer": "No, they are not considered hypoallergenic and may shed, which can affect individuals with allergies."
+    },
+    {
+      "question": "What is the lifespan of a Pyrenean Shepherd?",
+      "answer": "They typically live between 12 to 15 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли пиренейские овчарки для владельцев без опыта?",
+      "ответ": "Из-за их высокого уровня энергии и интеллекта они могут быть сложными для владельцев без опыта в обучении и управлении активными породами."
+    },
+    {
+      "вопрос": "Ладят ли пиренейские овчарки с другими собаками?",
+      "ответ": "При правильной социализации они могут ладить с другими собаками, хотя их пастушьи инстинкты могут влиять на взаимодействия."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется пиренейской овчарке?",
+      "ответ": "Им необходимы интенсивные ежедневные физические нагрузки, включая прогулки и игры, чтобы удовлетворить их высокие энергетические потребности."
+    },
+    {
+      "вопрос": "Являются ли пиренейские овчарки гипоаллергенными?",
+      "ответ": "Нет, они не считаются гипоаллергенными и могут линять, что может повлиять на людей с аллергией."
+    },
+    {
+      "вопрос": "Какова продолжительность жизни пиренейской овчарки?",
+      "ответ": "При надлежащем уходе они обычно живут от 12 до 15 лет."
+    }
+  ],
+  "sources": [
+    "https://www.purina.com/dogs/dog-breeds/pyrenean-shepherd",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-pyrenean-shepherds",
+    "https://en.wikipedia.org/wiki/Pyrenean_Sheepdog",
+    "https://www.westminsterkennelclub.org/breed/pyrenean-shepherd/",
+    "https://www.akc.org/expert-advice/lifestyle/6-fun-facts-about-the-pyrenean-shepherd/"
+  ]
+}

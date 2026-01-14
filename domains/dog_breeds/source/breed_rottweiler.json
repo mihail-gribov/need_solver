@@ -1,0 +1,83 @@
+{
+  "id": "rottweiler",
+  "name": "Rottweiler",
+  "full_description": "<p>The Rottweiler is a medium-large, robust, and powerful dog breed with a rich history dating back to ancient Rome. Originally developed from mastiff-type dogs used for herding and guarding livestock, Rottweilers accompanied Roman legions across the Alps, protecting and driving cattle. As the Romans established settlements, these dogs became integral to the town of Rottweil in Germany, where they were known as \"butcher dogs\" for their role in herding cattle to market and pulling carts laden with butchered meat. This historical background underscores the breed's strength, endurance, and versatility.</p>\n<p>Physically, Rottweilers are distinguished by their black coats with clearly defined rust to mahogany markings. Males typically stand between 24 to 27 inches at the shoulder, while females range from 22 to 25 inches. Their compact and substantial build conveys great strength, agility, and endurance. The breed's head is of medium length with a broad skull, and their ears are small and pendant-shaped. Their coat is of medium length, coarse, and flat, with a dense undercoat that is essential on the neck and thighs.</p>\n<p>Temperamentally, Rottweilers are known for their calm, confident, and courageous nature. They possess a strong protective instinct, making them excellent guard dogs. While they can be reserved with strangers, they are affectionate and loyal to their families. Their intelligence and adaptability make them suitable for various roles, including police work, therapy, and participation in dog sports such as Schutzhund training, agility, carting, herding, and obedience.</p>\n<p>Historically, Rottweilers were bred for herding and guarding livestock, as well as pulling carts for butchers. In the early 20th century, their versatility led to their use as police dogs, and they have since become popular as loyal household companions.</p>\n<p>In modern times, Rottweilers continue to serve as working dogs in various capacities, including search and rescue, police work, and as therapy dogs. Their popularity has remained strong, and they are recognized for their affectionate yet watchful nature.</p>\n<p>Notable characteristics of the Rottweiler include their strong protective instincts, intelligence, and versatility. They are known to be \"leaners,\" often leaning against their owners, a behavior thought to originate from their herding background.</p>",
+  "parameters": {
+    "size": "medium-large",
+    "weight": "80-135 pounds",
+    "height": "22-27 inches",
+    "coat": "short, dense, coarse, black with rust to mahogany markings",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "weekly brushing; regular bathing",
+    "lifespan": "9-10 years"
+  },
+  "behavior": {
+    "summary": "Rottweilers are calm, confident, and courageous dogs with strong protective instincts. They are affectionate and loyal to their families, making them excellent companions and guard dogs.",
+    "with_family": "Rottweilers are devoted to their families, displaying affection and loyalty. They thrive on companionship and are known to be gentle and loving with their loved ones.",
+    "with_children": "With proper training and socialization, Rottweilers can be patient and gentle with children. However, due to their size and strength, interactions should always be supervised to prevent accidental injuries.",
+    "with_other_pets": "Early socialization is key for Rottweilers to coexist peacefully with other pets. They can get along well with other animals if introduced properly, but their strong prey drive may pose challenges with smaller animals.",
+    "with_strangers": "Rottweilers tend to be reserved and cautious around strangers. Their protective nature means they may be wary of unfamiliar people, making early socialization important to ensure appropriate behavior.",
+    "special_traits": [
+      "Strong protective instincts",
+      "Intelligent and trainable",
+      "Affectionate with family",
+      "Reserved with strangers",
+      "Versatile working abilities"
+    ]
+  },
+  "health": {
+    "summary": "Rottweilers are generally healthy but are prone to certain genetic health issues. Regular veterinary care and a healthy lifestyle are essential to maintain their well-being.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Aortic stenosis",
+      "Osteosarcoma",
+      "Obesity"
+    ],
+    "prevention_tips": [
+      "Regular exercise to maintain healthy weight",
+      "Balanced diet appropriate for age and activity level",
+      "Routine health screenings for early detection of issues",
+      "Responsible breeding practices to reduce genetic disorders",
+      "Avoid overexertion during growth periods to protect joints"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits for senior dogs or those with health concerns"
+  },
+  "care": {
+    "description": "Rottweilers require consistent training, regular exercise, and proper grooming to ensure their physical and mental well-being.",
+    "behavior": "Early socialization and obedience training are crucial to manage their protective instincts and ensure they are well-behaved companions.",
+    "health": "Regular veterinary checkups, a balanced diet, and routine exercise are essential to prevent common health issues and maintain overall health.",
+    "grooming": "Weekly brushing and regular bathing help manage shedding and keep their coat healthy. Nail trimming and dental care should also be part of the routine.",
+    "nutrition": "Provide a balanced diet suitable for their age, size, and activity level. Monitor food intake to prevent obesity, and ensure access to fresh water at all times."
+  },
+  "faq": [
+    {
+      "question": "Are Rottweilers good family dogs?",
+      "answer": "Yes, with proper training and socialization, Rottweilers can be affectionate and loyal family companions."
+    },
+    {
+      "question": "Do Rottweilers require a lot of exercise?",
+      "answer": "Yes, they are an active breed that benefits from regular exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Are Rottweilers aggressive?",
+      "answer": "Rottweilers are protective and may be reserved with strangers, but with proper training, they are not inherently aggressive."
+    },
+    {
+      "question": "How much grooming do Rottweilers need?",
+      "answer": "They require weekly brushing and regular bathing to maintain their coat and manage shedding."
+    },
+    {
+      "question": "What is the average lifespan of a Rottweiler?",
+      "answer": "Rottweilers typically live between 9 to 10 years."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/lifestyle/7-fun-facts-about-the-rottweiler/",
+    "https://www.ukcdogs.com/rottweiler",
+    "https://www.akc.org/expert-advice/dog-breeds/rottweiler-right-for-you/",
+    "https://www.akc.org/expert-advice/dog-breeds/rottweiler-history/",
+    "https://www.akc.org/expert-advice/lifestyle/fun-facts-rottweiler/"
+  ]
+}

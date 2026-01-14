@@ -1,0 +1,159 @@
+{
+  "id": "tibetan-terrier",
+  "name": "Tibetan Terrier",
+  "name_rus": "Тибетский терьер",
+  "full_description": "<p>The Tibetan Terrier, often referred to as the \"Holy Dog of Tibet,\" is an ancient breed with a rich history spanning over 2,000 years. Originating in the Lost Valley of Tibet, these dogs were bred by Lamaist monks and local communities, serving as companions, herders, and watchdogs in monasteries. Despite their name, Tibetan Terriers are not true terriers; the designation was given by Westerners due to their size and appearance.</p>\n<p>Physically, Tibetan Terriers are medium-sized, standing between 14 to 17 inches tall and weighing 18 to 30 pounds. They possess a profuse double coat, with a long, fine outer layer and a soft, woolly undercoat, which can be wavy or straight. Their unique, large, flat feet act like snowshoes, providing traction on snowy terrains.</p>\n<p>Temperamentally, Tibetan Terriers are affectionate, sensitive, and intelligent. They form strong bonds with their families and are known for their loyalty. While they are friendly with those they know, they can be reserved around strangers, making them excellent watchdogs. Their adaptable nature allows them to thrive in various environments, from active households to more sedentary settings.</p>\n<p>Historically, these dogs were versatile workers. They herded livestock, guarded monasteries, and even retrieved items that had fallen down mountainsides. Their agility and keen senses made them invaluable in the rugged terrains of Tibet.</p>\n<p>In modern times, Tibetan Terriers have transitioned primarily into companion roles. Their affectionate nature and moderate exercise needs make them suitable for families, singles, and seniors alike. While not as common as some other breeds, they have a dedicated following and are recognized by major kennel clubs worldwide.</p>\n<p>Notable characteristics of the breed include their unique foot structure, which provides stability on uneven terrains, and their long, flowing coats that require regular grooming. Their history as \"Holy Dogs\" and symbols of good luck adds to their allure and mystique.</p>",
+  "full_description_rus": "<p>Тибетский терьер, известный как \"Священная собака Тибета\", — древняя порода с богатой историей, насчитывающей более 2000 лет. Эти собаки были выведены в Тибете и использовались монахами и местными жителями в качестве компаньонов, пастухов и сторожей в монастырях. Несмотря на название, тибетские терьеры не являются истинными терьерами; это название было дано западными исследователями из-за их размера и внешнего вида.</p>\n<p>Физически тибетские терьеры — собаки среднего размера, ростом от 36 до 41 см и весом от 8 до 14 кг. Они обладают густой двойной шерстью: длинный, тонкий внешний слой и мягкий, плотный подшерсток, который может быть прямым или волнистым. Их уникальные, большие, плоские лапы действуют как снегоступы, обеспечивая устойчивость на снежных поверхностях.</p>\n<p>По характеру тибетские терьеры ласковы, чувствительны и умны. Они формируют крепкие связи со своими семьями и известны своей преданностью. Хотя они дружелюбны с теми, кого знают, могут быть сдержанными с незнакомцами, что делает их отличными сторожевыми собаками. Их адаптивность позволяет им процветать в различных условиях, от активных семей до более спокойных обстановок.</p>\n<p>Исторически эти собаки были универсальными работниками. Они пасли скот, охраняли монастыри и даже доставали предметы, упавшие с горных склонов. Их ловкость и острые чувства делали их незаменимыми в суровых условиях Тибета.</p>\n<p>В современное время тибетские терьеры в основном стали компаньонами. Их ласковый характер и умеренные потребности в физической активности делают их подходящими для семей, одиноких людей и пожилых. Хотя они не так распространены, как некоторые другие породы, у них есть преданные поклонники, и они признаны основными кинологическими клубами по всему миру.</p>\n<p>Значимые характеристики породы включают их уникальное строение лап, обеспечивающее устойчивость на неровных поверхностях, и длинную, струящуюся шерсть, требующую регулярного ухода. Их история как \"Священных собак\" и символов удачи добавляет им привлекательности и загадочности.</p>",
+  "parameters": {
+    "size": "medium",
+    "weight": "18-30 pounds",
+    "height": "14-17 inches",
+    "coat": "long, fine outer coat with a soft, woolly undercoat; can be wavy or straight",
+    "activity": "moderate",
+    "trainability": "intelligent but can be independent; responds well to consistent, positive training",
+    "grooming": "requires regular brushing to prevent matting; minimal shedding",
+    "lifespan": "13-15 years"
+  },
+  "parameters_rus": {
+    "размер": "средний",
+    "вес": "8-14 кг",
+    "рост": "36-41 см",
+    "шерсть": "длинная, тонкая внешняя шерсть с мягким, плотным подшерстком; может быть прямой или волнистой",
+    "активность": "умеренная",
+    "обучаемость": "умны, но могут быть независимыми; хорошо реагируют на последовательное, позитивное обучение",
+    "уход": "требует регулярного расчесывания для предотвращения спутывания; минимальная линька",
+    "продолжительность жизни": "13-15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Affectionate and loyal",
+      "Intelligent and adaptable",
+      "Reserved with strangers",
+      "Moderate exercise needs",
+      "Requires regular grooming"
+    ],
+    "summary": "Tibetan Terriers are affectionate, intelligent, and loyal dogs that form strong bonds with their families. They are adaptable and can thrive in various living environments.",
+    "with_children": "Generally good with children, especially when raised together; supervision is recommended to ensure positive interactions.",
+    "with_family": "They are devoted to their families, often forming close attachments and enjoying companionship.",
+    "with_other_pets": "Typically get along well with other pets, especially when socialized from a young age.",
+    "with_strangers": "Can be reserved or cautious around strangers, making them effective watchdogs."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Тибетские терьеры ласковы, умны и преданы, формируют крепкие связи со своими семьями. Они адаптивны и могут процветать в различных условиях проживания.",
+    "с семьёй": "Они преданы своим семьям, часто формируют тесные привязанности и наслаждаются общением.",
+    "с детьми": "Обычно хорошо ладят с детьми, особенно если выросли вместе; рекомендуется наблюдение для обеспечения положительных взаимодействий.",
+    "с другими животными": "Обычно хорошо уживаются с другими животными, особенно при социализации с раннего возраста.",
+    "с незнакомцами": "Могут быть сдержанными или осторожными с незнакомцами, что делает их эффективными сторожевыми собаками.",
+    "особые черты": [
+      "Ласковые и преданные",
+      "Умные и адаптивные",
+      "Сдержанные с незнакомцами",
+      "Умеренные потребности в физической активности",
+      "Требуют регулярного ухода за шерстью"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Patellar luxation",
+      "Progressive retinal atrophy",
+      "Lens luxation",
+      "Cataracts",
+      "Hypothyroidism"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Genetic testing for breeding dogs",
+      "Maintaining a healthy weight",
+      "Providing a balanced diet",
+      "Ensuring regular exercise"
+    ],
+    "summary": "Tibetan Terriers are generally healthy but can be prone to certain genetic conditions. Regular veterinary care and preventive measures can help maintain their well-being.",
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Тибетские терьеры в целом здоровы, но могут быть склонны к определённым генетическим заболеваниям. Регулярный ветеринарный уход и профилактические меры помогут поддерживать их благополучие.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Вывих надколенника",
+      "Прогрессирующая атрофия сетчатки",
+      "Вывих хрусталика",
+      "Катаракта",
+      "Гипотиреоз"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Генетическое тестирование для племенных собак",
+      "Поддержание здорового веса",
+      "Обеспечение сбалансированного питания",
+      "Регулярные физические нагрузки"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты могут потребоваться для пожилых собак или тех, у кого есть проблемы со здоровьем."
+  },
+  "care": {
+    "behavior": "They thrive on human companionship and can develop separation anxiety if left alone for extended periods.",
+    "description": "Tibetan Terriers require regular grooming, moderate exercise, and consistent training to ensure they remain healthy and well-adjusted companions.",
+    "grooming": "Daily brushing is recommended to prevent matting; professional grooming may be needed periodically.",
+    "health": "Regular health screenings and preventive care are essential to detect and manage potential genetic conditions.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is crucial; consult a veterinarian for specific recommendations."
+  },
+  "care_rus": {
+    "поведение и характер": "Они процветают в обществе людей и могут развить тревогу разлуки, если остаются одни на длительное время.",
+    "краткое описание ухода": "Тибетские терьеры требуют регулярного ухода за шерстью, умеренных физических нагрузок и последовательного обучения, чтобы оставаться здоровыми и хорошо адаптированными компаньонами.",
+    "груминг и уход": "Рекомендуется ежедневное расчесывание для предотвращения спутывания; периодически может потребоваться профессиональный груминг.",
+    "здоровье и профилактика": "Регулярные медицинские осмотры и профилактический уход необходимы для выявления и управления потенциальными генетическими заболеваниями.",
+    "питание и активность": "Сбалансированное питание, соответствующее их возрасту, размеру и уровню активности, имеет решающее значение; проконсультируйтесь с ветеринаром для получения конкретных рекомендаций."
+  },
+  "faq": [
+    {
+      "question": "Are Tibetan Terriers hypoallergenic?",
+      "answer": "No dog is truly hypoallergenic, but Tibetan Terriers shed minimally, which may be suitable for some allergy sufferers."
+    },
+    {
+      "question": "How much exercise does a Tibetan Terrier need?",
+      "answer": "They require moderate exercise, such as daily walks and playtime, to maintain their health and happiness."
+    },
+    {
+      "question": "Are Tibetan Terriers good for first-time dog owners?",
+      "answer": "Yes, their adaptable nature and moderate exercise needs make them suitable for first-time owners who can provide consistent training and care."
+    },
+    {
+      "question": "Do Tibetan Terriers bark a lot?",
+      "answer": "They can be vocal, especially when alerting to strangers or unusual activities, but proper training can manage excessive barking."
+    },
+    {
+      "question": "How often should I groom my Tibetan Terrier?",
+      "answer": "Daily brushing is recommended to prevent matting, and professional grooming may be needed every few months."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Являются ли тибетские терьеры гипоаллергенными?",
+      "ответ": "Ни одна собака не является полностью гипоаллергенной, но тибетские терьеры мало линяют, что может быть подходящим для некоторых людей, страдающих аллергией."
+    },
+    {
+      "вопрос": "Сколько физической активности требуется тибетскому терьеру?",
+      "ответ": "Им необходимы умеренные физические нагрузки, такие как ежедневные прогулки и игры, для поддержания здоровья и счастья."
+    },
+    {
+      "вопрос": "Подходят ли тибетские терьеры для владельцев без опыта?",
+      "ответ": "Да, их адаптивный характер и умеренные потребности в физической активности делают их подходящими для владельцев без опыта, которые могут обеспечить последовательное обучение и уход."
+    },
+    {
+      "вопрос": "Много ли лают тибетские терьеры?",
+      "ответ": "Они могут быть голосистыми, особенно при оповещении о незнакомцах или необычных событиях, но правильное обучение может контролировать чрезмерный лай."
+    },
+    {
+      "вопрос": "Как часто следует ухаживать за шерстью тибетского терьера?",
+      "ответ": "Рекомендуется ежедневное расчесывание для предотвращения спутывания, а профессиональный груминг может потребоваться каждые несколько месяцев."
+    }
+  ],
+  "sources": [
+    "https://vcahospitals.com/know-your-pet/tibetan-terrier",
+    "https://www.ukcdogs.com/tibetan-terrier",
+    "https://www.akc.org/expert-advice/lifestyle/7-facts-tibetan-terrier/",
+    "https://www.pedigree.ru/porody/tibetskij-terier",
+    "https://www.purina.ru/find-a-pet/dog-breeds/tibetskiy-terer",
+    "https://help.rkf.online/ru/knowledge_base/art/1365/cat/22/tibetskij-terer-209"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "yorkipoo",
+  "name": "Yorkipoo",
+  "full_description": "<p>The Yorkipoo, also known as the Yorkie-Poo, is a designer dog breed resulting from the cross between a Yorkshire Terrier and a Poodle, typically a Toy or Miniature Poodle. This hybrid was developed in the United States during the late 20th century, aiming to combine the desirable traits of both parent breeds: the Yorkshire Terrier's spirited personality and the Poodle's intelligence and hypoallergenic coat. The result is a small, affectionate companion dog well-suited for various living environments. Physically, Yorkipoos are small dogs, standing between 7 to 15 inches (18 to 38 cm) tall and weighing approximately 4 to 15 pounds (2 to 7 kg). Their coat can vary from straight to curly, often inheriting the Poodle's low-shedding, hypoallergenic qualities. Common coat colors include black, white, tan, brown, apricot, and combinations thereof. Their expressive eyes and perky ears contribute to their endearing appearance. Temperamentally, Yorkipoos are known for their friendly, affectionate, and playful nature. They thrive on human interaction and enjoy being the center of attention. Their intelligence makes them relatively easy to train, though they can exhibit a degree of stubbornness inherited from their terrier lineage. Early socialization and positive reinforcement training methods are recommended to foster well-rounded behavior. Originally bred as companion animals, Yorkipoos do not have a history of working roles. Their primary purpose has always been to serve as loving and engaging pets. In modern times, they have gained popularity among families, singles, and seniors alike, particularly those seeking a small, low-shedding dog suitable for apartment living. Notable characteristics of the Yorkipoo include their adaptability to various living situations, their suitability for individuals with mild allergies due to their low-shedding coats, and their energetic yet manageable exercise needs. Their sociable nature makes them excellent companions, though they may develop separation anxiety if left alone for extended periods.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "4-15 pounds (2-7 kg)",
+    "height": "7-15 inches (18-38 cm)",
+    "coat": "varies from straight to curly; low-shedding; colors include black, white, tan, brown, apricot, and combinations",
+    "activity": "moderate",
+    "trainability": "high; intelligent and eager to please, though may exhibit some stubbornness",
+    "grooming": "regular brushing 2-3 times per week; professional grooming every 4-8 weeks",
+    "lifespan": "12-15 years"
+  },
+  "behavior": {
+    "summary": "Yorkipoos are affectionate, intelligent, and playful dogs that thrive on human companionship and adapt well to various living environments.",
+    "with_family": "They form strong bonds with family members and enjoy being involved in daily activities.",
+    "with_children": "Generally good with children, especially when socialized early; supervision is recommended due to their small size.",
+    "with_other_pets": "Typically friendly with other pets, especially when raised together; early socialization is beneficial.",
+    "with_strangers": "Friendly towards strangers, though they may bark to alert their owners of new arrivals.",
+    "special_traits": [
+      "Highly adaptable to different living situations",
+      "Low-shedding coat suitable for mild allergy sufferers",
+      "Intelligent and trainable with positive reinforcement",
+      "May develop separation anxiety if left alone for long periods",
+      "Energetic but content with moderate exercise"
+    ]
+  },
+  "health": {
+    "summary": "Yorkipoos are generally healthy dogs with a lifespan of 12-15 years, though they can be prone to certain health issues common in small breeds.",
+    "common_issues": [
+      "Dental problems",
+      "Patellar luxation",
+      "Hypoglycemia",
+      "Legg-Calvé-Perthes disease",
+      "Portosystemic shunt"
+    ],
+    "prevention_tips": [
+      "Regular dental care, including brushing and professional cleanings",
+      "Routine veterinary check-ups to monitor joint health",
+      "Feeding multiple small meals daily to maintain stable blood sugar levels",
+      "Providing appropriate exercise to maintain healthy weight and joint function",
+      "Ensuring vaccinations and parasite control are up to date"
+    ],
+    "vet_checkups": "Annual veterinary exams are recommended, with more frequent visits as needed based on individual health concerns."
+  },
+  "care": {
+    "description": "Yorkipoos require regular grooming, moderate exercise, and consistent training to maintain their health and happiness.",
+    "behavior": "Early socialization and positive reinforcement training are essential to manage their intelligent and sometimes stubborn nature.",
+    "health": "Regular veterinary care and preventive measures are important to address common health issues in small breeds.",
+    "grooming": "Brush their coat 2-3 times per week to prevent matting; professional grooming every 4-8 weeks is recommended.",
+    "nutrition": "Feed a balanced diet appropriate for small breeds; multiple small meals per day can help prevent hypoglycemia."
+  },
+  "faq": [
+    {
+      "question": "Are Yorkipoos hypoallergenic?",
+      "answer": "Yorkipoos have low-shedding coats that may be suitable for individuals with mild allergies, but no dog is completely hypoallergenic."
+    },
+    {
+      "question": "How much exercise does a Yorkipoo need?",
+      "answer": "They require moderate exercise, such as 20-30 minutes of daily walks and playtime."
+    },
+    {
+      "question": "Are Yorkipoos good with children?",
+      "answer": "Yes, they are generally good with children, especially when socialized early; supervision is recommended due to their small size."
+    },
+    {
+      "question": "How often should a Yorkipoo be groomed?",
+      "answer": "Regular brushing 2-3 times per week and professional grooming every 4-8 weeks are recommended."
+    },
+    {
+      "question": "Do Yorkipoos suffer from separation anxiety?",
+      "answer": "They can develop separation anxiety if left alone for extended periods; they thrive on human companionship."
+    }
+  ],
+  "sources": [
+    "https://www.breedscout.com/breeds/yorkipoo",
+    "https://www.rover.com/blog/breeds/yorkipoo/",
+    "https://www.betterpet.com/learn/yorkipoo",
+    "https://www.allthingsdogs.com/yorkipoo/",
+    "https://topdogtips.com/yorkipoo-dog-breed-profile/",
+    "https://www.purina.com.my/find-a-pet/dog-breeds/yorkipoo",
+    "https://critterculture.com/dogs/a-guide-to-the-adorable-yorkipoo/",
+    "https://askavet.com/blogs/pet-health-safety/yorkiepoo-guide-2025-vet-approved-tips-for-a-smart-loving-companion-%F0%9F%90%BE%E2%9C%A8",
+    "https://dogmixology.com/yorkipoo",
+    "https://petstime.com/dog-breeds/yorkipoo"
+  ]
+}

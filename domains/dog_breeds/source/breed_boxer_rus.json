@@ -1,0 +1,160 @@
+{
+  "id": "boxer",
+  "name": "Boxer",
+  "name_rus": "Боксер",
+  "full_description": "<p>The Boxer is a medium to large-sized breed that originated in Germany during the late 19th century. Developed from the now-extinct Bullenbeisser and the English Bulldog, Boxers were initially bred for hunting large game such as boar and bison. Their strong, muscular build and tenacious nature made them adept at holding prey until hunters arrived. Over time, their roles expanded to include guarding, military work, and companionship. Physically, Boxers are characterized by a square, well-proportioned body with a deep chest and strong limbs. They possess a distinctive head with a broad, blunt muzzle and a slightly upturned nose. Their expressive, dark eyes and naturally floppy ears contribute to their alert and intelligent expression. The breed's short, smooth coat comes in fawn or brindle, often with white markings. Boxers are renowned for their playful, energetic, and affectionate temperament. They form strong bonds with their families and are known for their protective instincts, making them excellent watchdogs. Their intelligence and eagerness to please facilitate training, though they can exhibit a stubborn streak. Historically, Boxers were utilized for various working roles, including hunting, guarding, and military service. Their strength, agility, and loyalty made them valuable assets in these capacities. In contemporary times, Boxers are popular family companions and excel in dog sports such as agility, obedience, and rally. Their friendly disposition and versatility contribute to their enduring popularity worldwide. Notable characteristics of the Boxer include their boundless energy, playful nature, and distinctive 'boxing' behavior, where they use their front paws in a manner reminiscent of a boxer's sparring. Their short coat requires minimal grooming, and they are known for their expressive faces and strong, athletic build.</p>",
+  "full_description_rus": "<p>Боксер — это порода собак среднего и крупного размера, возникшая в Германии в конце XIX века. Они были выведены путем скрещивания ныне вымершего булленбейзера и английского бульдога, первоначально предназначались для охоты на крупную дичь, такую как кабаны и бизоны. Их крепкое, мускулистое телосложение и настойчивый характер делали их способными удерживать добычу до прибытия охотников. Со временем их роль расширилась, включая охрану, военную службу и компаньонство. Физически боксеры характеризуются квадратным, пропорциональным телом с глубокой грудью и сильными конечностями. У них отличительная голова с широкой, тупой мордой и слегка вздернутым носом. Выразительные темные глаза и естественно висячие уши придают им бдительный и умный вид. Короткая, гладкая шерсть представлена в палевом или тигровом окрасе, часто с белыми отметинами. Боксеры известны своим игривым, энергичным и ласковым темпераментом. Они формируют крепкие связи со своими семьями и обладают защитными инстинктами, что делает их отличными сторожевыми собаками. Их интеллект и стремление угодить облегчают процесс обучения, хотя они могут проявлять упрямство. Исторически боксеры использовались в различных рабочих ролях, включая охоту, охрану и военную службу. Их сила, ловкость и преданность делали их ценными в этих сферах. В современное время боксеры популярны как семейные компаньоны и преуспевают в собачьих видах спорта, таких как аджилити, послушание и ралли. Их дружелюбный характер и универсальность способствуют их неизменной популярности во всем мире. Примечательные черты боксеров включают их неуёмную энергию, игривый нрав и характерное «боксирование», когда они используют передние лапы в манере, напоминающей спарринг боксера. Их короткая шерсть требует минимального ухода, и они известны своими выразительными лицами и сильным, атлетическим телосложением.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "25-36 kg",
+    "height": "54-62 cm",
+    "coat": "short, smooth, tight-fitting",
+    "activity": "high",
+    "trainability": "high",
+    "grooming": "minimal; regular brushing",
+    "lifespan": "10-12 years"
+  },
+  "parameters_rus": {
+    "размер": "средний / крупный",
+    "вес": "25-36 кг",
+    "рост": "54-62 см",
+    "шерсть": "короткая, гладкая, плотно прилегающая",
+    "активность": "высокая",
+    "обучаемость": "высокая",
+    "уход": "минимальный; регулярное расчесывание",
+    "продолжительность жизни": "10-12 лет"
+  },
+  "behavior": {
+    "summary": "Boxers are energetic, playful, and affectionate dogs known for their strong bonds with family members and protective instincts.",
+    "with_family": "They are loyal and form close attachments, often seeking attention and companionship from their human family.",
+    "with_children": "Boxers are generally patient and gentle with children, making them excellent family pets.",
+    "with_other_pets": "With proper socialization, they can coexist well with other pets, though their playful nature may be overwhelming for some animals.",
+    "with_strangers": "They tend to be wary of strangers, displaying protective behavior, but can be friendly once properly introduced.",
+    "special_traits": [
+      "Playful and energetic",
+      "Protective instincts",
+      "Strong family bonds",
+      "Intelligent and trainable",
+      "Expressive and alert"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Боксеры — энергичные, игривые и ласковые собаки, известные своими крепкими связями с членами семьи и защитными инстинктами.",
+    "с семьёй": "Они преданны и формируют тесные привязанности, часто ищут внимания и общения со своей человеческой семьёй.",
+    "с детьми": "Боксеры обычно терпеливы и нежны с детьми, что делает их отличными семейными питомцами.",
+    "с другими животными": "При правильной социализации они могут хорошо уживаться с другими животными, хотя их игривый характер может быть чрезмерным для некоторых.",
+    "с незнакомцами": "Они склонны настороженно относиться к незнакомцам, проявляя защитное поведение, но могут быть дружелюбными после надлежащего знакомства.",
+    "особые черты": [
+      "Игривые и энергичные",
+      "Защитные инстинкты",
+      "Крепкие семейные связи",
+      "Умные и обучаемые",
+      "Выразительные и бдительные"
+    ]
+  },
+  "health": {
+    "summary": "Boxers are generally healthy but are predisposed to certain conditions, including heart diseases, cancers, and joint issues.",
+    "common_issues": [
+      "Boxer cardiomyopathy (ARVC)",
+      "Aortic stenosis",
+      "Hip dysplasia",
+      "Mast cell tumors",
+      "Degenerative myelopathy",
+      "Gastric dilatation-volvulus (bloat)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Balanced diet and regular exercise",
+      "Early screening for heart conditions",
+      "Monitoring for signs of cancer",
+      "Preventive measures against bloat"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with known health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Боксеры в целом здоровы, но предрасположены к определённым заболеваниям, включая сердечные болезни, рак и проблемы с суставами.",
+    "распространённые проблемы": [
+      "Кардиомиопатия боксеров (ARVC)",
+      "Аортальный стеноз",
+      "Дисплазия тазобедренного сустава",
+      "Опухоли тучных клеток",
+      "Дегенеративная миелопатия",
+      "Синдром заворота желудка (вздутие)"
+    ],
+    "советы по профилактике": [
+      "Регулярные ветеринарные осмотры",
+      "Сбалансированное питание и регулярные физические нагрузки",
+      "Ранний скрининг на сердечные заболевания",
+      "Мониторинг признаков рака",
+      "Профилактические меры против вздутия"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих известные проблемы со здоровьем."
+  },
+  "care": {
+    "description": "Boxers require regular exercise, mental stimulation, and minimal grooming to maintain their health and happiness.",
+    "behavior": "Consistent training and socialization are essential to manage their energy and ensure well-mannered behavior.",
+    "health": "Regular health screenings and preventive care are crucial due to their predisposition to certain health conditions.",
+    "grooming": "Their short coat requires minimal grooming; regular brushing helps maintain coat health and reduce shedding.",
+    "nutrition": "A balanced diet tailored to their age, size, and activity level supports overall health and energy needs."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Боксерам необходимы регулярные физические нагрузки, умственная стимуляция и минимальный уход за шерстью для поддержания их здоровья и счастья.",
+    "поведение и характер": "Последовательная дрессировка и социализация необходимы для управления их энергией и обеспечения хорошего поведения.",
+    "здоровье и профилактика": "Регулярные медицинские осмотры и профилактический уход важны из-за их предрасположенности к определённым заболеваниям.",
+    "груминг и уход": "Их короткая шерсть требует минимального ухода; регулярное расчесывание помогает поддерживать здоровье шерсти и уменьшает линьку.",
+    "питание и активность": "Сбалансированное питание, соответствующее их возрасту, размеру и уровню активности, поддерживает общее здоровье и энергетические потребности."
+  },
+  "faq": [
+    {
+      "question": "Are Boxers good with children?",
+      "answer": "Yes, Boxers are known for their gentle and playful nature with children, making them excellent family pets."
+    },
+    {
+      "question": "How much exercise does a Boxer need?",
+      "answer": "Boxers require at least 30 minutes to 2 hours of daily exercise to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Boxers require a lot of grooming?",
+      "answer": "No, their short coat requires minimal grooming; regular brushing is sufficient to keep them clean and healthy."
+    },
+    {
+      "question": "Are Boxers prone to health issues?",
+      "answer": "Yes, they are predisposed to certain conditions like heart diseases and cancers; regular vet check-ups are important."
+    },
+    {
+      "question": "Can Boxers live in apartments?",
+      "answer": "Yes, with sufficient exercise and mental stimulation, Boxers can adapt well to apartment living."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Боксеры хорошо ладят с детьми?",
+      "ответ": "Да, боксеры известны своей нежной и игривой натурой с детьми, что делает их отличными семейными питомцами."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется боксеру?",
+      "ответ": "Боксерам необходимо от 30 минут до 2 часов ежедневных физических нагрузок для поддержания физического и психического здоровья."
+    },
+    {
+      "вопрос": "Требуют ли боксеры много ухода за шерстью?",
+      "ответ": "Нет, их короткая шерсть требует минимального ухода; регулярное расчесывание достаточно для поддержания чистоты и здоровья."
+    },
+    {
+      "вопрос": "Склонны ли боксеры к проблемам со здоровьем?",
+      "ответ": "Да, они предрасположены к определённым заболеваниям, таким как сердечные болезни и рак; регулярные визиты к ветеринару важны."
+    },
+    {
+      "вопрос": "Могут ли боксеры жить в квартирах?",
+      "ответ": "Да, при достаточных физических нагрузках и умственной стимуляции боксеры могут хорошо адаптироваться к жизни в квартире."
+    }
+  ],
+  "sources": [
+    "https://www.petmd.com/dog/breeds/boxer",
+    "https://en.wikipedia.org/wiki/Boxer_(dog_breed)",
+    "https://www.webmd.com/pets/dogs/what-to-know-boxers",
+    "https://www.adoptapet.com/dog-breeds/boxer",
+    "https://houndsy.zendesk.com/hc/en-us/articles/38948300955675-What-Are-the-Most-Common-Boxer-Health-Problems-and-How-Can-I-Keep-My-Boxer-Healthy",
+    "https://www.purina.kz/ru/dogs/dog-breeds/library/boxer",
+    "https://www.pedigree.ru/porody/nemetskij-bokser"
+  ]
+}

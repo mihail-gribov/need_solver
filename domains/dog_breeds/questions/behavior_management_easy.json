@@ -1,0 +1,84 @@
+{
+  "need_id": "behavior_management_easy",
+  "formula": "~behavior_management_need & trainability & ~dominance",
+  "formula_reasoning": "Breeds with low need for behavior correction (~behavior_management_need), high trainability (trainability), and low dominance (~dominance) are easiest to manage and suitable for owners who prefer simple behavior management. This combination minimizes the likelihood of complex training or correction needs.",
+  "questions": [
+    {
+      "id": "behavior_management_easy_q1",
+      "text": "Это будет ваша первая собака?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = новичок, нужен легкоуправляемый характер. Нет = опыт есть, сложные породы возможны."
+    },
+    {
+      "id": "behavior_management_easy_q2",
+      "text": "Хотите, чтобы собака легко поддавалась обучению даже без специального опыта?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = желает простое управление и обучение. Нет = готов к сложному воспитанию."
+    },
+    {
+      "id": "behavior_management_easy_q3",
+      "text": "Вам важна предсказуемость поведения собаки в быту?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = ценит простое управление без сюрпризов. Нет = допускает сложное поведение."
+    },
+    {
+      "id": "behavior_management_easy_q4",
+      "text": "У вас нет времени или желания заниматься длительным воспитанием и коррекцией поведения собаки?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = предпочитает собаку, не требующую сложного воспитания. Нет = готов к работе над поведением."
+    },
+    {
+      "id": "behavior_management_easy_q5",
+      "text": "В вашей семье есть дети или пожилые люди, которым важно, чтобы собака была легко управляемой?",
+      "weight": 0.7,
+      "style": "situational",
+      "verification": "Да = нужен предсказуемый, легко управляемый питомец. Нет = допускает собаку с более сложным характером."
+    }
+  ],
+  "need_name": "Behavior Management Easy",
+  "need_description": "Does not require complex behavior correction",
+  "block": "training_management",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

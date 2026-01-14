@@ -1,0 +1,84 @@
+{
+  "need_id": "needs_long_walks_ok",
+  "formula": "energy & exercise_need",
+  "formula_reasoning": "Для собак, которым подходят длительные прогулки, необходимы одновременно высокий уровень энергии (energy) и значительная потребность в ежедневной физической нагрузке (exercise_need). Оба признака вместе отражают тягу к активности и способность сопровождать владельца на долгих прогулках.",
+  "questions": [
+    {
+      "id": "needs_long_walks_ok_q1",
+      "text": "Вам нравится гулять пешком по несколько километров или совершать длительные прогулки на свежем воздухе?",
+      "weight": 0.9,
+      "style": "direct",
+      "verification": "Да = пользователь готов к долгим прогулкам, подходит активная собака. Нет = не любит длительные прогулки."
+    },
+    {
+      "id": "needs_long_walks_ok_q2",
+      "text": "Часто ли вы бываете на природе, ходите в походы или выбираетесь за город для активного отдыха?",
+      "weight": 0.8,
+      "style": "situational",
+      "verification": "Да = образ жизни предполагает долгие прогулки, подходит активная порода. Нет = не бывает, малоподвижен."
+    },
+    {
+      "id": "needs_long_walks_ok_q3",
+      "text": "Планируете ли вы гулять с собакой не менее часа подряд в любой день недели?",
+      "weight": 0.85,
+      "style": "direct",
+      "verification": "Да = пользователь готов к длительным ежедневным прогулкам. Нет = не планирует, не готов."
+    },
+    {
+      "id": "needs_long_walks_ok_q4",
+      "text": "Ваш рабочий график позволяет вам ежедневно выделять время на продолжительные прогулки с собакой?",
+      "weight": 0.75,
+      "style": "situational",
+      "verification": "Да = есть время для долгих прогулок. Нет = мало времени, не подходит."
+    },
+    {
+      "id": "needs_long_walks_ok_q5",
+      "text": "Вы предпочитаете проводить выходные активно на улице, а не дома?",
+      "weight": 0.6,
+      "style": "indirect",
+      "verification": "Да = склонность к активному отдыху, вероятно, подходит активная собака. Нет = пассивный досуг, не склонен к долгим прогулкам."
+    }
+  ],
+  "need_name": "Long Walks OK",
+  "need_description": "Suitable if long walks are needed",
+  "block": "activity_lifestyle",
+  "answer_options": {
+    "true": {
+      "id": "true",
+      "label_ru": "Да",
+      "label_en": "Yes",
+      "description": "User confirms this need",
+      "fuzzy_mapping": {
+        "t": 1.0,
+        "f": 0.0
+      }
+    },
+    "false": {
+      "id": "false",
+      "label_ru": "Нет",
+      "label_en": "No",
+      "description": "User denies this need",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    },
+    "unknown": {
+      "id": "unknown",
+      "label_ru": "Не знаю",
+      "label_en": "Don't know",
+      "description": "User is uncertain",
+      "fuzzy_mapping": {
+        "t": 0.0,
+        "f": 0.0
+      }
+    },
+    "independent": {
+      "id": "independent",
+      "label_ru": "Мне всё равно",
+      "label_en": "Don't care",
+      "description": "Need is not relevant to user",
+      "fuzzy_mapping": null
+    }
+  }
+}

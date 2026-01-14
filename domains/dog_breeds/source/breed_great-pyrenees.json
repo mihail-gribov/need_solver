@@ -1,0 +1,83 @@
+{
+  "id": "great-pyrenees",
+  "name": "Great Pyrenees",
+  "full_description": "<p>The Great Pyrenees, also known as the Pyrenean Mountain Dog, is a majestic breed with a rich history and distinctive characteristics. Originating from the Pyrenees Mountains between France and Spain, these dogs were developed centuries ago to guard livestock against predators. Their lineage traces back to ancient times, with evidence suggesting their presence as early as 1800 B.C. in the region. Physically, Great Pyrenees are large, powerful dogs with a well-balanced build. Males typically stand between 27 to 32 inches tall at the shoulder, while females range from 25 to 29 inches. Their weight varies from 85 to 115 pounds, depending on gender and individual genetics. They possess a thick double coat that is predominantly white, sometimes with markings of gray, badger, reddish-brown, or tan. This dense fur provides insulation against harsh weather conditions. The breed's temperament is characterized by calmness, patience, and a strong protective instinct. They are known for their gentle demeanor, especially towards children, making them excellent family companions. However, their independent nature can sometimes be mistaken for stubbornness, necessitating consistent training from an early age. Originally bred as livestock guardians, Great Pyrenees have a natural inclination to protect their home and family. Their keen sense of hearing and alertness make them effective watchdogs. In modern times, while some still serve in their traditional roles, many have transitioned into beloved household pets, therapy dogs, and participants in canine sports. Notable characteristics of the breed include their nocturnal vigilance, a trait developed from guarding flocks at night, and their distinctive double dewclaws on the hind legs, which are a breed hallmark. Their serene presence combined with a formidable protective instinct makes them both a gentle companion and a reliable guardian.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "85-115 pounds",
+    "height": "25-32 inches",
+    "coat": "thick double coat, predominantly white with possible markings",
+    "activity": "moderate",
+    "trainability": "moderate; requires consistent training",
+    "grooming": "weekly brushing; more frequent during shedding seasons",
+    "lifespan": "10-12 years"
+  },
+  "behavior": {
+    "summary": "Great Pyrenees are gentle, patient, and protective dogs, known for their calm demeanor and strong guarding instincts.",
+    "with_family": "They form strong bonds with family members, displaying loyalty and affection.",
+    "with_children": "Generally excellent with children, exhibiting patience and gentleness.",
+    "with_other_pets": "With proper socialization, they can coexist peacefully with other pets.",
+    "with_strangers": "Wary of strangers, they may be reserved but are not typically aggressive.",
+    "special_traits": [
+      "Strong protective instincts",
+      "Independent nature",
+      "Nocturnal vigilance",
+      "Gentle with family",
+      "Requires consistent training"
+    ]
+  },
+  "health": {
+    "summary": "Great Pyrenees are generally healthy but are prone to certain genetic and size-related health issues.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Bloat (Gastric Dilatation-Volvulus)",
+      "Patellar luxation",
+      "Eye disorders (e.g., cataracts, entropion)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide a balanced diet",
+      "Regular exercise",
+      "Monitor for signs of bloat"
+    ],
+    "vet_checkups": "Annually; more frequent as they age or if health issues arise"
+  },
+  "care": {
+    "description": "Caring for a Great Pyrenees involves regular grooming, consistent training, and attention to their health needs.",
+    "behavior": "Early socialization and consistent training are essential to manage their independent nature.",
+    "health": "Regular vet visits and preventive care help maintain their well-being.",
+    "grooming": "Weekly brushing is necessary; more frequent during shedding seasons.",
+    "nutrition": "Provide a balanced diet suitable for large breeds; monitor food intake to prevent obesity."
+  },
+  "faq": [
+    {
+      "question": "Are Great Pyrenees good with children?",
+      "answer": "Yes, they are known for their gentle and patient nature with children."
+    },
+    {
+      "question": "Do Great Pyrenees require a lot of exercise?",
+      "answer": "They have moderate exercise needs; daily walks and playtime suffice."
+    },
+    {
+      "question": "Are they easy to train?",
+      "answer": "Their independent nature can make training challenging; consistency is key."
+    },
+    {
+      "question": "Do they shed a lot?",
+      "answer": "Yes, especially during seasonal changes; regular grooming helps manage shedding."
+    },
+    {
+      "question": "Can they live in apartments?",
+      "answer": "Due to their size, they are better suited to homes with ample space."
+    }
+  ],
+  "sources": [
+    "https://www.webmd.com/pets/dogs/what-to-know-about-great-pyrenees",
+    "https://www.petmd.com/dog/breeds/great-pyrenees",
+    "https://www.nahf.org/article/great-pyrenees",
+    "https://www.fitpetgo.com/breeds/great_pyrenees",
+    "https://www.dialavet.com/blog/facts-about-great-pyrenees-vet-reviewed"
+  ]
+}

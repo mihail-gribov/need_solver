@@ -1,0 +1,159 @@
+{
+  "id": "goldendoodle",
+  "name": "Goldendoodle",
+  "name_rus": "Голдендудль",
+  "full_description": "<p>The Goldendoodle is a hybrid breed resulting from the cross between a Golden Retriever and a Poodle. This intentional breeding began in the 1990s, aiming to combine the friendly and loyal nature of the Golden Retriever with the intelligence and hypoallergenic coat of the Poodle. The breed has since gained popularity for its versatility and suitability as a family companion. Physically, Goldendoodles exhibit a balanced mix of their parent breeds. They come in various sizes: Petite Mini (under 14 inches, up to 25 pounds), Mini (14-17 inches, 26-35 pounds), Medium (17-21 inches, 36-50 pounds), and Standard (over 21 inches, 51 pounds or more). Their coats can be curly, wavy, or straight, with colors ranging from cream, apricot, and red to black, chocolate, and silver. The texture is typically soft, and many Goldendoodles possess hypoallergenic and low to non-shedding qualities. Temperamentally, Goldendoodles are known for their friendly, intelligent, and confident demeanor. They are loyal and eager to please, making them excellent companions. Their stable and sound temperament makes them suitable for service and therapy work. Originally bred as companion dogs, Goldendoodles have proven their versatility in various roles, including therapy and service work. Their intelligence and trainability make them adept at tasks requiring agility and obedience. In modern times, their popularity has surged, especially among families seeking a friendly and low-shedding pet. Notable characteristics of the Goldendoodle include their diverse coat types and colors, hypoallergenic qualities, and suitability for various roles beyond companionship.</p>",
+  "full_description_rus": "<p>Голдендудль — это гибридная порода, полученная в результате скрещивания золотистого ретривера и пуделя. Целью такого разведения, начатого в 1990-х годах, было объединение дружелюбного и преданного характера золотистого ретривера с интеллектом и гипоаллергенной шерстью пуделя. С тех пор порода приобрела популярность благодаря своей универсальности и пригодности в качестве семейного компаньона. Физически голдендудли сочетают в себе черты обеих родительских пород. Они бывают различных размеров: миниатюрные (рост 33–50 см, вес 8–16 кг) и стандартные (рост 50–60 см, вес 20–45 кг). Их шерсть может быть кудрявой, волнистой или прямой, с окраской от золотистого, кремового и абрикосового до коричневого, черного и белого. Текстура шерсти обычно мягкая, и многие голдендудли обладают гипоаллергенными свойствами и слабо линяют. По темпераменту голдендудли известны своим дружелюбным, умным и уверенным поведением. Они преданы и стремятся угодить, что делает их отличными компаньонами. Их стабильный и уравновешенный характер делает их подходящими для работы в качестве служебных и терапевтических собак. Изначально выведенные как компаньоны, голдендудли доказали свою универсальность в различных ролях, включая терапию и служебную работу. Их интеллект и обучаемость делают их способными к задачам, требующим ловкости и послушания. В настоящее время их популярность значительно возросла, особенно среди семей, ищущих дружелюбного и слабо линяющего питомца. Отличительными чертами голдендудля являются разнообразие типов и окрасов шерсти, гипоаллергенные свойства и пригодность для различных ролей помимо компаньонства.</p>",
+  "parameters": {
+    "size": "varies from petite mini to standard",
+    "weight": "up to 25 pounds (petite mini) to 51 pounds or more (standard)",
+    "height": "under 14 inches (petite mini) to over 21 inches (standard)",
+    "coat": "curly, wavy, or straight; soft texture; hypoallergenic and low to non-shedding qualities",
+    "activity": "active; enjoys exercise and outdoor activities",
+    "trainability": "highly trainable; intelligent and eager to please",
+    "grooming": "regular brushing; coat maintenance varies with coat type",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "миниатюрный или стандартный",
+    "вес": "8–16 кг (миниатюрный), 20–45 кг (стандартный)",
+    "рост": "33–50 см (миниатюрный), 50–60 см (стандартный)",
+    "шерсть": "кудрявая, волнистая или прямая; мягкая текстура; гипоаллергенная и слабо линяющая",
+    "активность": "активная; любит физические упражнения и прогулки на свежем воздухе",
+    "обучаемость": "очень высокая; умный и стремится угодить",
+    "уход": "регулярное расчесывание; уход за шерстью зависит от ее типа",
+    "продолжительность жизни": "12–15 лет"
+  },
+  "behavior": {
+    "summary": "Goldendoodles are friendly, intelligent, and confident dogs known for their loyalty and eagerness to please. Their stable temperament makes them suitable for various roles, including companionship and service work.",
+    "with_family": "They form strong bonds with family members, displaying affectionate and loyal behavior.",
+    "with_children": "Known for their gentle nature, Goldendoodles are typically good with children, making them suitable for families.",
+    "with_other_pets": "Generally sociable, they tend to get along well with other pets when properly socialized.",
+    "with_strangers": "Their friendly disposition makes them welcoming to strangers, though they can be vigilant when necessary.",
+    "special_traits": [
+      "Friendly and gentle nature",
+      "Highly trainable and intelligent",
+      "Active and enjoys outdoor activities",
+      "Affectionate and forms strong bonds",
+      "Versatile in various roles, including therapy and service work"
+    ]
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Голдендудли — дружелюбные, умные и уверенные в себе собаки, известные своей преданностью и стремлением угодить. Их стабильный темперамент делает их подходящими для различных ролей, включая компаньонство и служебную работу.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи, проявляя привязанность и преданность.",
+    "с детьми": "Известные своей мягкой натурой, голдендудли обычно хорошо ладят с детьми, что делает их подходящими для семей.",
+    "с другими животными": "Обычно общительны, они склонны хорошо ладить с другими животными при правильной социализации.",
+    "с незнакомцами": "Их дружелюбный характер делает их приветливыми к незнакомцам, хотя при необходимости они могут быть бдительными.",
+    "особые черты": [
+      "Дружелюбный и мягкий характер",
+      "Высокая обучаемость и интеллект",
+      "Активность и любовь к прогулкам на свежем воздухе",
+      "Привязанность и формирование крепких связей",
+      "Универсальность в различных ролях, включая терапию и служебную работу"
+    ]
+  },
+  "health": {
+    "summary": "Goldendoodles are generally healthy dogs, but like all breeds, they can be prone to certain health issues. Responsible breeding practices and regular veterinary care are essential to maintain their health.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Progressive retinal atrophy",
+      "Von Willebrand's disease",
+      "Allergies",
+      "Ear infections"
+    ],
+    "prevention_tips": [
+      "Regular health screenings and genetic testing",
+      "Maintaining a healthy weight through diet and exercise",
+      "Routine ear cleaning to prevent infections",
+      "Regular dental care",
+      "Monitoring for signs of allergies and seeking veterinary advice"
+    ],
+    "vet_checkups": "At least once a year; more frequent visits may be necessary for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Голдендудли в целом здоровые собаки, но, как и все породы, они могут быть склонны к определенным заболеваниям. Ответственное разведение и регулярный ветеринарный уход необходимы для поддержания их здоровья.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Прогрессирующая атрофия сетчатки",
+      "Болезнь фон Виллебранда",
+      "Аллергии",
+      "Инфекции ушей"
+    ],
+    "советы по профилактике": [
+      "Регулярные медицинские обследования и генетическое тестирование",
+      "Поддержание здорового веса через диету и физические упражнения",
+      "Рутинная чистка ушей для предотвращения инфекций",
+      "Регулярный уход за зубами",
+      "Мониторинг признаков аллергий и консультация с ветеринаром"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; более частые визиты могут потребоваться для пожилых собак или тех, у кого есть проблемы со здоровьем."
+  },
+  "care": {
+    "description": "Goldendoodles require regular exercise, mental stimulation, and grooming to maintain their health and happiness.",
+    "behavior": "They thrive on interaction and mental challenges; regular training sessions and playtime are beneficial.",
+    "health": "Routine veterinary care, a balanced diet, and regular exercise are key to their well-being.",
+    "grooming": "Depending on coat type, they may require regular brushing and professional grooming to prevent matting.",
+    "nutrition": "A balanced diet appropriate for their size, age, and activity level is essential; consult a veterinarian for specific recommendations."
+  },
+  "care_rus": {
+    "краткое описание ухода": "Голдендудли требуют регулярных физических упражнений, умственной стимуляции и ухода за шерстью для поддержания их здоровья и счастья.",
+    "поведение и характер": "Они процветают при взаимодействии и умственных задачах; регулярные тренировки и игры приносят им пользу.",
+    "здоровье и профилактика": "Регулярный ветеринарный уход, сбалансированное питание и физические упражнения являются ключевыми для их благополучия.",
+    "груминг и уход": "В зависимости от типа шерсти, им может требоваться регулярное расчесывание и профессиональный груминг для предотвращения спутывания.",
+    "питание и активность": "Сбалансированное питание, соответствующее их размеру, возрасту и уровню активности, необходимо; проконсультируйтесь с ветеринаром для получения конкретных рекомендаций."
+  },
+  "faq": [
+    {
+      "question": "Are Goldendoodles hypoallergenic?",
+      "answer": "Many Goldendoodles have hypoallergenic and low to non-shedding coats, but individual reactions can vary."
+    },
+    {
+      "question": "What sizes do Goldendoodles come in?",
+      "answer": "They range from Petite Mini (under 14 inches) to Standard (over 21 inches) in height."
+    },
+    {
+      "question": "Are Goldendoodles good with children?",
+      "answer": "Yes, they are known for their gentle nature and typically get along well with children."
+    },
+    {
+      "question": "How much exercise do Goldendoodles need?",
+      "answer": "They are active dogs that enjoy regular exercise and outdoor activities."
+    },
+    {
+      "question": "Do Goldendoodles require a lot of grooming?",
+      "answer": "Grooming needs vary with coat type; regular brushing and occasional professional grooming are recommended."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Гипоаллергенны ли голдендудли?",
+      "ответ": "Многие голдендудли имеют гипоаллергенную и слабо линяющую шерсть, но индивидуальные реакции могут различаться."
+    },
+    {
+      "вопрос": "Какие размеры бывают у голдендудлей?",
+      "ответ": "Они варьируются от миниатюрных (33–50 см) до стандартных (50–60 см) в высоту."
+    },
+    {
+      "вопрос": "Хорошо ли голдендудли ладят с детьми?",
+      "ответ": "Да, они известны своей мягкой натурой и обычно хорошо ладят с детьми."
+    },
+    {
+      "вопрос": "Сколько упражнений требуется голдендудлю?",
+      "ответ": "Они активные собаки, которым нравятся регулярные физические упражнения и прогулки на свежем воздухе."
+    },
+    {
+      "вопрос": "Требуют ли голдендудли много ухода за шерстью?",
+      "ответ": "Потребности в уходе зависят от типа шерсти; рекомендуется регулярное расчесывание и периодический профессиональный груминг."
+    }
+  ],
+  "sources": [
+    "https://www.goldendoodleassociation.com/about-the-breed/goldendoodle-breed-standard/",
+    "https://www.goldendoodleassociation.com/why-own-a-goldendoodle/",
+    "https://www.goldendoodleassociation.com/about-the-breed/coat-types-and-colors/",
+    "https://www.goldendoodleassociation.com/about-the-breed/goldendoodle-generations/",
+    "https://www.hillspet.ru/dog-care/dog-breeds/goldendoodle.html",
+    "https://www.purina.ua/find-a-pet/dog-breeds/goldendoodle"
+  ]
+}

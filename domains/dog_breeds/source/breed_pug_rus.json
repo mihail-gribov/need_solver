@@ -1,0 +1,161 @@
+{
+  "id": "pug",
+  "name": "Pug",
+  "name_rus": "Мопс",
+  "full_description": "<p>The Pug is an ancient breed with origins tracing back to China around 400 B.C., where they were cherished as companions for emperors and Buddhist monks. Their distinctive facial wrinkles were intentionally bred to resemble the Chinese character for 'prince.' Dutch traders introduced Pugs to Europe in the 16th century, where they became the official dog of the House of Orange after a Pug named 'Pompey' saved Prince William of Orange from an assassination attempt. Pugs are compact and sturdy, typically weighing between 14 to 18 pounds (6.3 to 8.1 kg) and standing about 10 to 13 inches (25 to 33 cm) tall. They have a short, smooth coat that comes in colors such as fawn, black, silver, and apricot, often accompanied by a black mask and a distinctive 'trace' line along their back. Their large, round eyes and wrinkled forehead contribute to their expressive appearance. Known for their affectionate and playful nature, Pugs are eager to please and thrive on human companionship. They are well-suited for families, getting along well with children and other pets when properly socialized. Originally bred as lap dogs, Pugs have always served as companions rather than working dogs. Today, they continue to be popular pets worldwide, ranking among the top breeds in various countries. Notable characteristics include their charming personality, adaptability to various living environments, and a tendency to form strong bonds with their owners.</p>",
+  "full_description_rus": "<p>Мопс — древняя порода собак, чьи корни уходят в Китай около 400 года до н.э., где они ценились как компаньоны императоров и буддийских монахов. Их характерные морщины на лбу специально выводились, чтобы напоминать китайский иероглиф 'принц'. В XVI веке голландские торговцы привезли мопсов в Европу, где они стали официальными собаками дома Оранских после того, как мопс по имени 'Помпей' спас принца Вильгельма Оранского от покушения. Мопсы — компактные и крепкие собаки, обычно весят от 6 до 8 кг и имеют рост от 25 до 33 см в холке. У них короткая, гладкая шерсть, которая бывает палевого, черного, серебристого и абрикосового окраса, часто с черной маской и характерной 'полосой' вдоль спины. Их большие, круглые глаза и морщинистый лоб придают им выразительный вид. Известные своей привязанностью и игривостью, мопсы стремятся угодить и процветают в компании людей. Они хорошо подходят для семей, ладят с детьми и другими животными при правильной социализации. Изначально выведенные как собаки-компаньоны, мопсы всегда служили именно этой цели, а не рабочими собаками. Сегодня они продолжают быть популярными питомцами во всем мире, занимая высокие позиции среди различных пород. Их отличительные черты включают очаровательную личность, адаптивность к различным условиям проживания и склонность к сильной привязанности к своим владельцам.</p>",
+  "parameters": {
+    "size": "small",
+    "weight": "14-18 lbs (6.3-8.1 kg)",
+    "height": "10-13 inches (25-33 cm)",
+    "coat": "short, smooth, and glossy; colors include fawn, black, silver, and apricot",
+    "activity": "moderate",
+    "trainability": "moderate; eager to please but can be stubborn",
+    "grooming": "weekly brushing; regular cleaning of facial wrinkles",
+    "lifespan": "12-15 years"
+  },
+  "parameters_rus": {
+    "размер": "маленький",
+    "вес": "6-8 кг",
+    "рост": "25-33 см",
+    "шерсть": "короткая, гладкая и блестящая; окрасы: палевый, черный, серебристый, абрикосовый",
+    "активность": "умеренная",
+    "обучаемость": "умеренная; стремятся угодить, но могут быть упрямыми",
+    "уход": "еженедельное расчесывание; регулярная чистка складок на лице",
+    "продолжительность жизни": "12-15 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "affectionate",
+      "playful",
+      "sociable",
+      "adaptable",
+      "eager to please"
+    ],
+    "summary": "Pugs are affectionate, playful, and sociable dogs that thrive on human companionship and adapt well to various living environments.",
+    "with_children": "Pugs are gentle and playful with children, making them excellent family pets.",
+    "with_family": "They form strong bonds with family members and enjoy being involved in daily activities.",
+    "with_other_pets": "Generally good with other dogs and pets, especially when socialized from a young age.",
+    "with_strangers": "Reserved but friendly; they may be cautious initially but warm up quickly."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Мопсы — ласковые, игривые и общительные собаки, которые процветают в компании людей и хорошо адаптируются к различным условиям проживания.",
+    "с семьёй": "Они формируют крепкие связи с членами семьи и любят участвовать в повседневных делах.",
+    "с детьми": "Мопсы нежны и игривы с детьми, что делает их отличными семейными питомцами.",
+    "с другими животными": "Обычно хорошо ладят с другими собаками и животными, особенно при ранней социализации.",
+    "с незнакомцами": "Сдержанные, но дружелюбные; могут быть осторожны сначала, но быстро привыкают.",
+    "особые черты": [
+      "ласковые",
+      "игривые",
+      "общительные",
+      "адаптивные",
+      "стремятся угодить"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "brachycephalic syndrome",
+      "obesity",
+      "eye problems (e.g., corneal ulcers, dry eye)",
+      "hip dysplasia",
+      "skin infections in facial wrinkles"
+    ],
+    "prevention_tips": [
+      "maintain a healthy weight through proper diet and exercise",
+      "regularly clean facial wrinkles to prevent infections",
+      "avoid strenuous exercise, especially in hot or humid weather",
+      "monitor for signs of respiratory distress",
+      "schedule regular veterinary check-ups"
+    ],
+    "summary": "Pugs are generally healthy but are prone to certain breed-specific health issues due to their unique physical characteristics.",
+    "vet_checkups": "at least once a year; more frequent visits may be necessary for senior Pugs or those with health issues"
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Мопсы в целом здоровы, но склонны к определённым породным заболеваниям из-за своих уникальных физических характеристик.",
+    "распространённые проблемы": [
+      "брахицефалический синдром",
+      "ожирение",
+      "проблемы с глазами (например, язвы роговицы, сухой кератоконъюнктивит)",
+      "дисплазия тазобедренного сустава",
+      "кожные инфекции в складках на лице"
+    ],
+    "советы по профилактике": [
+      "поддерживайте здоровый вес с помощью правильного питания и упражнений",
+      "регулярно очищайте складки на лице, чтобы предотвратить инфекции",
+      "избегайте интенсивных физических нагрузок, особенно в жаркую или влажную погоду",
+      "следите за признаками респираторных проблем",
+      "проводите регулярные ветеринарные осмотры"
+    ],
+    "рекомендуемые осмотры": "не реже одного раза в год; более частые визиты могут потребоваться для пожилых мопсов или тех, у кого есть проблемы со здоровьем"
+  },
+  "care": {
+    "behavior": "They thrive on human interaction and should not be left alone for extended periods to prevent separation anxiety.",
+    "description": "Pugs require attentive care to maintain their health and happiness, including regular grooming, exercise, and monitoring for breed-specific health concerns.",
+    "grooming": "Weekly brushing and regular cleaning of facial wrinkles are essential to prevent skin infections.",
+    "health": "Due to their brachycephalic nature, avoid exposing them to extreme temperatures and ensure they do not overexert themselves.",
+    "nutrition": "Provide a balanced diet and monitor food intake to prevent obesity, a common issue in the breed."
+  },
+  "care_rus": {
+    "поведение и характер": "Мопсы нуждаются в постоянном общении с людьми и не должны оставаться одни на длительное время, чтобы избежать тревоги разлуки.",
+    "краткое описание ухода": "Мопсы требуют внимательного ухода для поддержания их здоровья и счастья, включая регулярный груминг, физические упражнения и мониторинг породных проблем со здоровьем.",
+    "груминг и уход": "Еженедельное расчесывание и регулярная чистка складок на лице необходимы для предотвращения кожных инфекций.",
+    "здоровье и профилактика": "Из-за своей брахицефалии избегайте воздействия экстремальных температур и не допускайте чрезмерных физических нагрузок.",
+    "питание и активность": "Обеспечьте сбалансированное питание и контролируйте потребление пищи, чтобы предотвратить ожирение, распространённую проблему у этой породы."
+  },
+  "faq": [
+    {
+      "question": "Are Pugs good apartment dogs?",
+      "answer": "Yes, their small size and moderate activity level make them well-suited for apartment living."
+    },
+    {
+      "question": "Do Pugs shed a lot?",
+      "answer": "Yes, Pugs shed more than some other breeds; regular brushing can help manage shedding."
+    },
+    {
+      "question": "Are Pugs easy to train?",
+      "answer": "They are eager to please but can be stubborn; consistent, positive reinforcement training works best."
+    },
+    {
+      "question": "Do Pugs get along with other pets?",
+      "answer": "Generally, yes; they are sociable and can coexist well with other pets when properly socialized."
+    },
+    {
+      "question": "What is the average lifespan of a Pug?",
+      "answer": "Pugs typically live between 12 to 15 years with proper care."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходят ли мопсы для жизни в квартире?",
+      "ответ": "Да, их небольшой размер и умеренный уровень активности делают их хорошо подходящими для жизни в квартире."
+    },
+    {
+      "вопрос": "Сильно ли линяют мопсы?",
+      "ответ": "Да, мопсы линяют больше, чем некоторые другие породы; регулярное расчесывание помогает контролировать линьку."
+    },
+    {
+      "вопрос": "Легко ли дрессировать мопсов?",
+      "ответ": "Они стремятся угодить, но могут быть упрямыми; лучше всего работает последовательная дрессировка с положительным подкреплением."
+    },
+    {
+      "вопрос": "Ладят ли мопсы с другими животными?",
+      "ответ": "В целом, да; они общительны и могут хорошо уживаться с другими животными при правильной социализации."
+    },
+    {
+      "вопрос": "Какова средняя продолжительность жизни мопса?",
+      "ответ": "При надлежащем уходе мопсы обычно живут от 12 до 15 лет."
+    }
+  ],
+  "sources": [
+    "https://www.akc.org/expert-advice/dog-breeds/is-the-pug-right-for-you/",
+    "https://www.akc.org/content/entertainment/articles/what-was-the-pug-bred-to-do/",
+    "https://vcahospitals.com/know-your-pet/pug",
+    "https://www.thekennelclub.org.uk/breed-standards/toy/pug/",
+    "https://www.hillspet.ru/dog-care/dog-breeds/pug",
+    "https://www.rbc.ru/life/news/64099fce9a7947027f96cf36",
+    "https://www.perfectfit.ru/advice-detail/mops/",
+    "https://www.purinaone.ru/dog/articles/breeds/mops",
+    "https://lenta.ru/articles/2024/05/31/poroda-mops/",
+    "https://life.ru/p/1766716"
+  ]
+}

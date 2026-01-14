@@ -1,0 +1,86 @@
+{
+  "id": "spinone-italiano",
+  "name": "Spinone Italiano",
+  "full_description": "<p>The Spinone Italiano is an ancient and versatile hunting breed originating from Italy, particularly the Piedmont region. Historical references to rough-coated pointing dogs in Italy date back to at least 500 B.C., with depictions in Renaissance art, such as Andrea Mantegna's frescoes from the 15th century, showcasing dogs resembling the modern Spinone. The breed's name is derived from 'bracco spinoso,' meaning 'prickly pointer,' possibly referring to their coarse coat or the thorny underbrush they navigate while hunting. Traditionally, the Spinone was developed for tracking, pointing, and retrieving game across diverse terrains, including dense forests and marshlands. Their robust build and keen sense of smell made them invaluable to hunters. During World War II, the breed's numbers declined significantly, but dedicated efforts in the mid-20th century led to its revival. The Spinone Italiano is a large, muscular dog with a distinctive rough, wiry coat that provides protection against harsh weather and rough vegetation. Males typically stand between 60 to 70 cm (23.5 to 27.5 inches) at the withers and weigh between 32 to 37 kg (70 to 82 pounds), while females are slightly smaller, standing 58 to 65 cm (23 to 25.5 inches) tall and weighing 28 to 30 kg (62 to 71 pounds). Their expressive faces are characterized by bushy eyebrows, a pronounced beard, and a mustache, giving them a gentle and somewhat comical appearance. Coat colors include solid white, white with orange or brown markings, and various roan patterns. Known for their gentle and affectionate nature, Spinoni are sociable dogs that form strong bonds with their families. They are patient and tolerant, making them excellent companions for children and other pets. While they possess a calm demeanor, they are also intelligent and eager to please, which facilitates training. However, they can exhibit a stubborn streak, so consistent, positive reinforcement methods are recommended. Originally bred as versatile hunting dogs, Spinoni excel in pointing and retrieving game on both land and water. Their endurance and determination make them well-suited for various hunting environments. In modern times, while they continue to be used in hunting, they have also gained popularity as family companions due to their friendly disposition. Additionally, they participate in various dog sports, including obedience, agility, and therapy work. Notable characteristics of the Spinone Italiano include their distinctive rough coat, expressive facial features, and webbed feet, which enhance their swimming abilities. Their adaptability, combined with a friendly and patient temperament, makes them well-suited for both active outdoor activities and relaxed family life.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "Males: 32–37 kg; Females: 28–30 kg",
+    "height": "Males: 60–70 cm; Females: 58–65 cm",
+    "coat": "rough, thick, and flat; about 4–6 cm long",
+    "activity": "moderate to high",
+    "trainability": "intelligent and eager to please, but can be stubborn; responds well to positive reinforcement",
+    "grooming": "regular brushing; occasional hand-stripping; minimal bathing",
+    "lifespan": "10–12 years"
+  },
+  "behavior": {
+    "summary": "The Spinone Italiano is a gentle, affectionate, and sociable breed known for its patience and strong bonds with family members. They are intelligent and eager to please, making them relatively easy to train, though they can exhibit a stubborn streak.",
+    "with_family": "Spinoni are devoted and affectionate, forming strong bonds with their family members. They thrive on companionship and prefer to be involved in family activities.",
+    "with_children": "Known for their patience and gentle nature, Spinoni are excellent companions for children, tolerating their antics and often forming close bonds.",
+    "with_other_pets": "Generally sociable with other dogs and pets, especially when raised together. Their hunting background may lead to a prey drive, so supervision is recommended with smaller animals.",
+    "with_strangers": "Typically friendly and approachable with strangers, making them poor guard dogs but excellent companions in social settings.",
+    "special_traits": [
+      "Affectionate and loyal",
+      "Patient and gentle with children",
+      "Sociable with other animals",
+      "Intelligent but can be stubborn",
+      "Prefers companionship and dislikes being left alone"
+    ]
+  },
+  "health": {
+    "summary": "The Spinone Italiano is generally a healthy breed with a lifespan of 10 to 12 years. However, they are prone to certain hereditary conditions, so regular veterinary care and health screenings are important.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Bloat (Gastric Dilatation and Volvulus)",
+      "Cerebellar ataxia",
+      "Hypothyroidism",
+      "Eye conditions (e.g., entropion)"
+    ],
+    "prevention_tips": [
+      "Maintain a healthy weight through proper diet and exercise",
+      "Provide regular, low-impact exercise to support joint health",
+      "Feed smaller, frequent meals to reduce the risk of bloat",
+      "Regular veterinary check-ups to monitor for hereditary conditions",
+      "Genetic testing for cerebellar ataxia in breeding programs"
+    ],
+    "vet_checkups": "Annual check-ups are recommended, with more frequent visits as the dog ages or if health issues arise."
+  },
+  "care": {
+    "description": "The Spinone Italiano requires regular grooming, consistent training, and ample companionship to thrive as a family companion.",
+    "behavior": "Due to their sociable nature, Spinoni should not be left alone for extended periods. They thrive on interaction and can develop separation anxiety if isolated.",
+    "health": "Regular veterinary check-ups and a balanced diet are essential to maintain the Spinone's health. Monitoring for signs of common health issues is important.",
+    "grooming": "Their rough coat requires regular brushing to prevent matting and occasional hand-stripping to maintain its texture. Minimal bathing is needed, as over-bathing can strip natural oils.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is crucial. Feeding smaller, frequent meals can help prevent bloat."
+  },
+  "faq": [
+    {
+      "question": "Is the Spinone Italiano good with children?",
+      "answer": "Yes, Spinoni are known for their gentle and patient nature, making them excellent companions for children."
+    },
+    {
+      "question": "How much exercise does a Spinone Italiano need?",
+      "answer": "They require moderate to high levels of exercise, including daily walks and playtime, to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Spinoni shed a lot?",
+      "answer": "They are moderate shedders. Regular brushing helps manage shedding and keeps their coat healthy."
+    },
+    {
+      "question": "Are Spinoni easy to train?",
+      "answer": "Yes, they are intelligent and eager to please, but can be stubborn. Consistent, positive reinforcement training methods work best."
+    },
+    {
+      "question": "Can Spinoni live in apartments?",
+      "answer": "While they can adapt to apartment living, they do best in homes with space to move around and access to outdoor areas for exercise."
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Spinone_Italiano",
+    "https://www.purina.com/dogs/dog-breeds/spinone-italiano",
+    "https://www.spinoneclubofamerica.com/about-spinoni-1",
+    "https://www.westminsterkennelclub.org/breed/spinone-italiano/",
+    "https://www.webmd.com/pets/dogs/what-to-know-about-a-spinone-italiano",
+    "https://www.akc.org/expert-advice/dog-breeds/spinone-italiano-history/",
+    "https://www.petmd.com/dog/breeds/c_dg_spinone_italiano"
+  ]
+}

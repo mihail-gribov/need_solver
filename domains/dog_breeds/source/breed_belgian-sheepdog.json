@@ -1,0 +1,83 @@
+{
+  "id": "belgian-sheepdog",
+  "name": "Belgian Sheepdog",
+  "full_description": "<p>The Belgian Sheepdog, also known as the Groenendael, is one of four varieties of Belgian herding dogs. Originating in Belgium, this breed was developed in the late 19th century by Nicolas Rose at his Château de Groenendael. Initially bred for herding and guarding livestock, the Belgian Sheepdog's versatility led to roles in police work and military service, notably during World War I as messengers and ambulance dogs. Physically, the Belgian Sheepdog is a medium to large-sized, square-proportioned dog with a proud carriage. Males typically stand between 24 to 26 inches tall and weigh 55 to 75 pounds, while females are slightly smaller, standing 22 to 24 inches tall and weighing 40 to 60 pounds. The breed is distinguished by its long, straight, black coat with a dense undercoat, providing protection against harsh weather. The head is elongated with almond-shaped eyes and erect, triangular ears, contributing to an alert and intelligent expression. Temperamentally, Belgian Sheepdogs are intelligent, alert, and protective. They form strong bonds with their families and are known for their loyalty and affection. Their high energy levels and eagerness to work make them well-suited for various tasks, including herding, obedience, and agility competitions. Their original purpose as herders and guardians has evolved; today, they excel in roles such as search and rescue, police work, and as service dogs. Their intelligence and trainability also make them popular in dog sports and as companions for active families. Notable characteristics of the Belgian Sheepdog include their unwavering loyalty, high intelligence, and versatility. They require regular mental and physical stimulation to prevent boredom and are best suited for owners who can provide consistent training and ample exercise.</p>",
+  "parameters": {
+    "size": "medium / large",
+    "weight": "40-75 lbs (18-34 kg)",
+    "height": "22-26 inches (56-66 cm)",
+    "coat": "long, straight, black with dense undercoat",
+    "activity": "very high",
+    "trainability": "very high",
+    "grooming": "regular brushing; increased during shedding seasons",
+    "lifespan": "12-14 years"
+  },
+  "behavior": {
+    "summary": "Belgian Sheepdogs are intelligent, alert, and protective, forming strong bonds with their families and excelling in various working roles.",
+    "with_family": "They are affectionate and loyal, often forming strong attachments to family members and thriving on companionship.",
+    "with_children": "Generally good with children, though their herding instincts may lead them to gently herd or nudge during play.",
+    "with_other_pets": "Can coexist well with other pets if socialized early, but may display dominance tendencies.",
+    "with_strangers": "Naturally wary of strangers, they are watchful and protective, making them excellent watchdogs.",
+    "special_traits": [
+      "Highly intelligent and trainable",
+      "Strong protective instincts",
+      "Energetic and requires ample exercise",
+      "Loyal and affectionate with family",
+      "Versatile in various working roles"
+    ]
+  },
+  "health": {
+    "summary": "Belgian Sheepdogs are generally healthy but can be prone to certain genetic conditions; regular veterinary care is essential.",
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Progressive retinal atrophy",
+      "Epilepsy",
+      "Allergies"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy diet and weight",
+      "Provide adequate exercise",
+      "Early screening for genetic conditions",
+      "Responsible breeding practices"
+    ],
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues."
+  },
+  "care": {
+    "description": "Belgian Sheepdogs require consistent training, ample exercise, and regular grooming to maintain their health and well-being.",
+    "behavior": "Early socialization and obedience training are crucial to manage their intelligence and energy levels effectively.",
+    "health": "Regular veterinary visits and preventive care help in early detection and management of potential health issues.",
+    "grooming": "Weekly brushing is recommended, increasing during shedding seasons to manage their dense coat.",
+    "nutrition": "A balanced diet appropriate for their age, size, and activity level is essential; consult a veterinarian for specific recommendations."
+  },
+  "faq": [
+    {
+      "question": "Are Belgian Sheepdogs good family pets?",
+      "answer": "Yes, they are loyal and affectionate, making them excellent companions for active families."
+    },
+    {
+      "question": "How much exercise does a Belgian Sheepdog need?",
+      "answer": "They require at least 40 minutes of vigorous exercise daily to maintain their physical and mental health."
+    },
+    {
+      "question": "Do Belgian Sheepdogs get along with other pets?",
+      "answer": "With proper socialization, they can coexist well with other pets, though they may display dominance tendencies."
+    },
+    {
+      "question": "What is the grooming requirement for a Belgian Sheepdog?",
+      "answer": "Regular brushing, at least weekly, is needed to maintain their coat, with increased frequency during shedding seasons."
+    },
+    {
+      "question": "Are Belgian Sheepdogs easy to train?",
+      "answer": "Yes, their high intelligence and eagerness to please make them highly trainable, though consistent training is essential."
+    }
+  ],
+  "sources": [
+    "https://www.hillspet.com/dog-care/dog-breeds/belgian-sheepdog",
+    "https://www.akc.org/expert-advice/dog-breeds/belgian-sheepdog-right-for-you/",
+    "https://bsca.info/judges-education/temperment/",
+    "https://vcahospitals.com/know-your-pet/belgian-sheepdog",
+    "https://www.westminsterkennelclub.org/breed/belgian-sheepdog/"
+  ]
+}

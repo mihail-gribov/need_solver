@@ -1,0 +1,154 @@
+{
+  "id": "maremma-sheepdog",
+  "name": "Maremma Sheepdog",
+  "name_rus": "Мареммо-абруццкая овчарка",
+  "full_description": "<p>The Maremma Sheepdog, also known as the Maremmano-Abruzzese Sheepdog, is an ancient Italian breed renowned for its role as a livestock guardian. Originating from the central regions of Italy, particularly the Maremma and Abruzzo areas, this breed has been protecting flocks from predators like wolves for over 2,000 years. The merging of regional varieties in the 19th century led to the standardized breed recognized today. Physically, the Maremma Sheepdog is a large, robust canine with a majestic and rustic appearance. Males typically stand between 60 to 73 cm (23.5 to 28.75 inches) at the shoulder, while females range from 60 to 68 cm (23.5 to 26.5 inches). Their weight varies from 30 to 45 kg (66 to 100 pounds). The breed boasts a dense, harsh, and straight white coat, which may have slight shades of ivory or pale yellow. This double coat provides protection against harsh weather conditions. The head is large and flat, resembling that of a polar bear, with small, high-set triangular ears and dark, almond-shaped eyes that convey a lively and attentive expression. Temperamentally, Maremma Sheepdogs are independent, intelligent, and devoted. They exhibit a strong protective instinct, making them excellent guardians. While they are loyal to their families, they can be wary of strangers, necessitating early socialization to ensure balanced behavior. Their working abilities are deeply ingrained; traditionally, they have been used to guard sheep from predators, working in groups to deter threats. This role has expanded in modern times, with Maremmas being employed to protect various livestock and even endangered species, such as the little penguins on Middle Island, Australia. Their popularity remains strong in rural areas where livestock protection is essential. Notable characteristics of the breed include their exceptional eyesight, allowing them to detect predators from a distance, and their thick double coat, which provides insulation in various climates. Their independent nature means they require consistent, firm training from an early age to ensure they become well-mannered companions.</p>",
+  "full_description_rus": "<p>Мареммо-абруццкая овчарка, также известная как мареммано-абруццкая пастушья собака, — древняя итальянская порода, прославившаяся в качестве охранника скота. Происходя из центральных регионов Италии, особенно Мареммы и Абруццо, эта порода более 2000 лет защищает стада от хищников, таких как волки. В XIX веке слияние региональных разновидностей привело к стандартизации породы, известной сегодня. Физически мареммо-абруццкая овчарка — крупная, крепкая собака с величественным и деревенским обликом. Рост кобелей обычно составляет от 65 до 73 см в холке, сук — от 60 до 68 см. Вес варьируется от 35 до 45 кг у кобелей и от 30 до 40 кг у сук. Порода обладает густой, жесткой и прямой белой шерстью, которая может иметь легкие оттенки слоновой кости или бледно-желтого цвета. Этот двойной шерстный покров обеспечивает защиту от суровых погодных условий. Голова крупная и плоская, напоминающая голову белого медведя, с небольшими, высоко посаженными треугольными ушами и темными, миндалевидными глазами, выражающими живость и внимательность. По темпераменту мареммо-абруццкие овчарки независимы, умны и преданы. Они проявляют сильный охранный инстинкт, что делает их отличными сторожами. Хотя они лояльны к своим семьям, могут быть настороженными к незнакомцам, поэтому ранняя социализация необходима для формирования сбалансированного поведения. Их рабочие способности глубоко укоренены; традиционно они использовались для охраны овец от хищников, работая в группах для отпугивания угроз. В современное время роль маремм расширилась: их привлекают для защиты различного скота и даже исчезающих видов, таких как малые пингвины на острове Миддл в Австралии. Их популярность остается высокой в сельских районах, где защита скота жизненно важна. Примечательные характеристики породы включают исключительное зрение, позволяющее обнаруживать хищников на расстоянии, и густой двойной шерстный покров, обеспечивающий изоляцию в различных климатических условиях. Их независимый характер требует последовательной и твердой дрессировки с раннего возраста, чтобы они стали хорошо воспитанными компаньонами.</p>",
+  "parameters": {
+    "size": "large",
+    "weight": "30-45 kg (66-100 lbs)",
+    "height": "60-73 cm (23.5-28.75 inches)",
+    "coat": "long, harsh, straight, white",
+    "activity": "moderate to high",
+    "trainability": "moderate; intelligent but independent",
+    "grooming": "regular brushing; more frequent during shedding seasons",
+    "lifespan": "11-13 years"
+  },
+  "parameters_rus": {
+    "размер": "крупный",
+    "вес": "30-45 кг",
+    "рост": "60-73 см",
+    "шерсть": "длинная, жесткая, прямая, белая",
+    "активность": "умеренная до высокой",
+    "обучаемость": "средняя; умная, но независимая",
+    "уход": "регулярное расчесывание; более частое во время линьки",
+    "продолжительность жизни": "11-13 лет"
+  },
+  "behavior": {
+    "special_traits": [
+      "Strong protective instincts",
+      "Independent nature",
+      "Loyal to family",
+      "Wary of strangers",
+      "Requires early socialization"
+    ],
+    "summary": "The Maremma Sheepdog is an independent and intelligent breed, known for its strong protective instincts and loyalty to its family.",
+    "with_children": "Generally good with children, especially when raised together; supervision is recommended due to their large size.",
+    "with_family": "Devoted and loyal, forming strong bonds with family members; thrives in environments where it has a clear role.",
+    "with_other_pets": "Can coexist with other pets if socialized early; their guardian instincts may lead to protective behavior.",
+    "with_strangers": "Naturally wary of strangers; early socialization helps in developing balanced interactions."
+  },
+  "behavior_rus": {
+    "краткое описание поведения": "Мареммо-абруццкая овчарка — независимая и умная порода, известная своими сильными охранными инстинктами и преданностью семье.",
+    "с семьёй": "Преданная и лояльная, формирует крепкие связи с членами семьи; процветает в среде, где у неё есть четкая роль.",
+    "с детьми": "В целом хорошо ладит с детьми, особенно если выросла с ними; рекомендуется присмотр из-за крупных размеров.",
+    "с другими животными": "Может сосуществовать с другими животными при ранней социализации; охранные инстинкты могут привести к защитному поведению.",
+    "с незнакомцами": "Естественно насторожена к незнакомцам; ранняя социализация помогает в развитии сбалансированных взаимодействий.",
+    "особые черты": [
+      "Сильные охранные инстинкты",
+      "Независимый характер",
+      "Преданность семье",
+      "Настороженность к незнакомцам",
+      "Требует ранней социализации"
+    ]
+  },
+  "health": {
+    "common_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia",
+      "Bloat (gastric torsion)",
+      "Eye problems (e.g., cataracts, entropion)"
+    ],
+    "prevention_tips": [
+      "Regular veterinary check-ups",
+      "Maintain a healthy weight",
+      "Provide a balanced diet",
+      "Avoid vigorous exercise after meals",
+      "Early screening for hereditary conditions"
+    ],
+    "summary": "Maremma Sheepdogs are generally healthy but can be prone to certain hereditary conditions common in large breeds.",
+    "vet_checkups": "At least once a year; more frequent for senior dogs or those with health issues."
+  },
+  "health_rus": {
+    "общий профиль здоровья": "Мареммо-абруццкие овчарки в целом здоровы, но могут быть склонны к некоторым наследственным заболеваниям, характерным для крупных пород.",
+    "распространённые проблемы": [
+      "Дисплазия тазобедренного сустава",
+      "Дисплазия локтевого сустава",
+      "Вздутие живота (желудочный заворот)",
+      "Проблемы с глазами (например, катаракта, энтропион)"
+    ],
+    "советы по профилактике": [
+      "Регулярные визиты к ветеринару",
+      "Поддержание здорового веса",
+      "Обеспечение сбалансированного питания",
+      "Избегание интенсивных нагрузок после еды",
+      "Ранний скрининг на наследственные заболевания"
+    ],
+    "рекомендуемые осмотры": "Не реже одного раза в год; чаще для пожилых собак или имеющих проблемы со здоровьем."
+  },
+  "care": {
+    "behavior": "Early socialization and consistent training are essential to manage their independent and protective nature.",
+    "description": "Maremma Sheepdogs require dedicated care, including regular exercise, grooming, and early socialization to ensure they develop into well-balanced companions.",
+    "grooming": "Regular brushing is necessary to manage their thick coat, especially during seasonal shedding periods.",
+    "health": "Regular veterinary visits and preventive care help maintain their overall health and address potential hereditary issues.",
+    "nutrition": "A balanced diet appropriate for large breeds supports their energy needs and overall health."
+  },
+  "care_rus": {
+    "поведение и характер": "Ранняя социализация и последовательная дрессировка необходимы для управления их независимым и охранным характером.",
+    "краткое описание ухода": "Мареммо-абруццкие овчарки требуют тщательного ухода, включая регулярные физические нагрузки, груминг и раннюю социализацию, чтобы они выросли уравновешенными компаньонами.",
+    "груминг и уход": "Регулярное расчесывание необходимо для ухода за густой шерстью, особенно в периоды сезонной линьки.",
+    "здоровье и профилактика": "Регулярные визиты к ветеринару и профилактический уход помогают поддерживать общее здоровье и решать потенциальные наследственные проблемы.",
+    "питание и активность": "Сбалансированное питание, соответствующее крупным породам, поддерживает их энергетические потребности и общее здоровье."
+  },
+  "faq": [
+    {
+      "question": "Are Maremma Sheepdogs suitable for first-time dog owners?",
+      "answer": "Due to their independent nature and size, they are better suited for experienced owners familiar with large, working breeds."
+    },
+    {
+      "question": "Do Maremma Sheepdogs get along with other dogs?",
+      "answer": "With proper socialization, they can coexist with other dogs, but their protective instincts may lead to dominance behaviors."
+    },
+    {
+      "question": "How much exercise does a Maremma Sheepdog need?",
+      "answer": "They require moderate to high levels of exercise, including daily walks and space to roam."
+    },
+    {
+      "question": "Is the Maremma Sheepdog good with children?",
+      "answer": "Generally good with children, especially when raised together; supervision is recommended due to their large size."
+    },
+    {
+      "question": "What is the grooming requirement for a Maremma Sheepdog?",
+      "answer": "Regular brushing is needed to maintain their coat, with increased frequency during shedding seasons."
+    }
+  ],
+  "faq_rus": [
+    {
+      "вопрос": "Подходит ли мареммо-абруццкая овчарка для неопытных владельцев?",
+      "ответ": "Из-за их независимого характера и крупных размеров они больше подходят для опытных владельцев, знакомых с крупными рабочими породами."
+    },
+    {
+      "вопрос": "Ладят ли мареммо-абруццкие овчарки с другими собаками?",
+      "ответ": "При правильной социализации они могут сосуществовать с другими собаками, но их охранные инстинкты могут привести к доминирующему поведению."
+    },
+    {
+      "вопрос": "Сколько физической активности требуется мареммо-абруццкой овчарке?",
+      "ответ": "Им необходимы умеренные до высоких уровни физической активности, включая ежедневные прогулки и пространство для свободного передвижения."
+    },
+    {
+      "вопрос": "Хорошо ли мареммо-абруццкая овчарка ладит с детьми?",
+      "ответ": "В целом хорошо ладит с детьми, особенно если выросла с ними; рекомендуется присмотр из-за крупных размеров."
+    },
+    {
+      "вопрос": "Каков уход за шерстью мареммо-абруццкой овчарки?",
+      "ответ": "Регулярное расчесывание необходимо для поддержания состояния шерсти, с увеличением частоты во время сезонов линьки."
+    }
+  ],
+  "sources": [
+    "https://www.purina.ru/find-a-pet/dog-breeds/maremmo-abrucckaya-ovcharka",
+    "https://ru.wikipedia.org/wiki/Мареммо-абруццкая_овчарка",
+    "https://www.pedigree.ru/porody/maremmo-abrutstsele",
+    "https://royalcanin.ru/dog-breed/maremma-and-the-abruzzes-sheepdog",
+    "https://www.5-tv.ru/video/1025151/"
+  ]
+}
