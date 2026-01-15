@@ -1,183 +1,255 @@
 {
   "breed_id": "beagle",
   "features": {
-    "shedding": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.2,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.3,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.8
-    },
-    "apartment_ok": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "barking": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "energy": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "reactivity": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "child_friendly": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "pet_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "stranger_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "territoriality": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "trainability": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "working_drive": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "hunting_instinct": {
-      "value": 0.8,
-      "confidence": 0.9
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.3,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.3,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.9,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.9,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.9,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.9,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.5,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 9.5,
-        "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 10.5,
-        "confidence": 0.8,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 11.5,
-        "confidence": 0.7,
-        "source": "Rover"
+        "value": [
+          null,
+          null
+        ],
+        "confidence": 0.0,
+        "source": "No explicit information found"
       }
     ],
     "height_cm": [
       {
-        "value": 35,
+        "value": [
+          33,
+          40
+        ],
         "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 36,
-        "confidence": 0.8,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 37,
-        "confidence": 0.7,
-        "source": "Rover"
+        "source": "The Kennel Club"
       }
     ],
     "lifespan_years": [
       {
-        "value": 12.5,
+        "value": [
+          12,
+          null
+        ],
         "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 12,
-        "confidence": 0.8,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 13,
-        "confidence": 0.7,
-        "source": "Rover"
+        "source": "The Kennel Club"
       }
     ]
   },
-  "notes": "Beagles are friendly, energetic dogs with a strong scent drive. They require regular exercise and mental stimulation. Their moderate shedding and grooming needs make them relatively low-maintenance. Beagles are generally healthy but can be prone to certain conditions like ear infections and obesity. They are sociable and thrive on companionship, making them excellent family pets."
+  "notes": "Several features lack explicit information in the provided sources, resulting in null values. Mappings from textual descriptions to numerical values are explicitly noted. No conflicting data was found among the sources."
 }

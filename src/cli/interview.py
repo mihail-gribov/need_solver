@@ -11,6 +11,8 @@ import sys
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).parent
+PROJECT_ROOT = SCRIPT_DIR.parent.parent  # src/cli -> src -> project root
+DOMAIN_DIR = PROJECT_ROOT / "domains" / "dog_breeds"
 
 # For interactive input when stdin is not a TTY
 _tty_file = None
@@ -44,18 +46,21 @@ def get_input(prompt: str = "") -> str:
         raise EOFError()
     return line.rstrip("\n")
 
-from matcher import BreedMatcher
-from user_profile import UserProfile
+# Add src to path for imports
+sys.path.insert(0, str(PROJECT_ROOT / "src"))
+
+from core.engine.matcher import BreedMatcher
+from core.models.user_profile import UserProfile
 
 # Load config
-CONFIG_FILE = SCRIPT_DIR / "config.json"
+CONFIG_FILE = DOMAIN_DIR / "config.json"
 with open(CONFIG_FILE, "r", encoding="utf-8") as f:
     CONFIG = json.load(f)
 
 
 def load_questions() -> dict[str, dict]:
     """Load all question files."""
-    questions_dir = SCRIPT_DIR / "questions"
+    questions_dir = DOMAIN_DIR / "questions"
     questions = {}
     for fpath in questions_dir.glob("*.json"):
         with open(fpath, "r", encoding="utf-8") as f:
@@ -66,7 +71,7 @@ def load_questions() -> dict[str, dict]:
 
 def load_breeds_names() -> dict[str, str]:
     """Load breed display names."""
-    breeds_file = SCRIPT_DIR / "content" / "breeds.json"
+    breeds_file = DOMAIN_DIR / "content" / "breeds.json"
     with open(breeds_file, "r", encoding="utf-8") as f:
         data = json.load(f)
     return {b["id"]: b.get("name_ru") or b["name_en"] for b in data["breeds"]}
@@ -74,7 +79,7 @@ def load_breeds_names() -> dict[str, str]:
 
 def load_needs_names() -> dict[str, str]:
     """Load need display names."""
-    needs_file = SCRIPT_DIR / "content" / "user_needs.json"
+    needs_file = DOMAIN_DIR / "content" / "user_needs.json"
     with open(needs_file, "r", encoding="utf-8") as f:
         data = json.load(f)
     return {n["id"]: n["name"] for n in data["needs"]}
@@ -273,7 +278,7 @@ def save_profile(profile: UserProfile) -> Path:
     """Save interview results to JSON file."""
     from datetime import datetime
 
-    data_dir = SCRIPT_DIR / "data"
+    data_dir = PROJECT_ROOT / "data"
     data_dir.mkdir(exist_ok=True)
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")

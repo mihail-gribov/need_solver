@@ -1,183 +1,255 @@
 {
   "breed_id": "brittany",
   "features": {
-    "shedding": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "dander_level": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.4,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.8
-    },
-    "apartment_ok": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "barking": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "reactivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "alone_tolerance": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "working_drive": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "behavior_management_need": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "hunting_instinct": {
-      "value": 0.9,
-      "confidence": 0.9
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 15.9,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 15.9,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 15.9,
-        "confidence": 0.7,
-        "source": "Hill's Pet"
+        "value": [
+          13.6,
+          18.1
+        ],
+        "confidence": 0.5,
+        "source": "Hill's Pet US"
       }
     ],
     "height_cm": [
       {
-        "value": 48.3,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 48.3,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 48.3,
-        "confidence": 0.7,
-        "source": "Hill's Pet"
+        "value": [
+          43.2,
+          50.8
+        ],
+        "confidence": 0.5,
+        "source": "Hill's Pet US"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 13,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 13,
-        "confidence": 0.7,
-        "source": "Hill's Pet"
+        "value": [
+          12,
+          13
+        ],
+        "confidence": 0.5,
+        "source": "Hill's Pet US"
       }
     ]
   },
-  "notes": "The Brittany is a high-energy, intelligent breed requiring regular exercise and mental stimulation. They are affectionate and trainable, making them suitable for active families. Regular grooming is necessary to maintain their coat, and they may be prone to certain genetic health issues."
+  "notes": "All feature values are derived from textual descriptions mapped to numerical scales, as per the provided guidelines. Confidence levels are set at 0.5 due to the nature of the source material. No direct numerical data was available; all information is based on qualitative descriptions."
 }

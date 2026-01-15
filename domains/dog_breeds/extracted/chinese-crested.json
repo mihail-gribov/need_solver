@@ -1,183 +1,255 @@
 {
   "breed_id": "chinese-crested",
   "features": {
-    "shedding": {
-      "value": 0.1,
-      "confidence": 0.9
-    },
-    "coat_type": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "dander_level": {
-      "value": 0.2,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "barking": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.4,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "child_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "pet_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.3,
-      "confidence": 0.6
-    },
-    "protectiveness": {
-      "value": 0.3,
-      "confidence": 0.6
-    },
-    "stress_sensitivity": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "working_drive": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "behavior_management_need": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "mental_stimulation": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "prey_drive": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.3,
-      "confidence": 0.7
-    }
+    "shedding": [
+      {
+        "value": 0.1,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.5,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.5,
+        "confidence": 0.4,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.4,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.5,
+        "confidence": 0.7,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.7,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.7,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.7,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.5,
+        "confidence": 0.7,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.5,
+        "confidence": 0.7,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 4.5,
-        "confidence": 0.9,
-        "source": "CKC"
-      },
-      {
-        "value": 4.5,
-        "confidence": 0.8,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 4.5,
-        "confidence": 0.7,
-        "source": "PetMD"
+        "value": [
+          3.18,
+          5.44
+        ],
+        "confidence": 0.5,
+        "source": "Purina US"
       }
     ],
     "height_cm": [
       {
-        "value": 30,
-        "confidence": 0.9,
-        "source": "CKC"
-      },
-      {
-        "value": 30,
-        "confidence": 0.8,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 30,
-        "confidence": 0.7,
-        "source": "PetMD"
+        "value": [
+          27.94,
+          33.02
+        ],
+        "confidence": 0.5,
+        "source": "Purina US"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13.4,
-        "confidence": 0.9,
+        "value": [
+          13.4,
+          13.4
+        ],
+        "confidence": 0.4,
         "source": "Wikipedia"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.7,
-        "source": "Hill's Pet"
       }
     ]
   },
-  "notes": "The Chinese Crested comes in two varieties: Hairless and Powderpuff. Grooming needs and shedding levels differ between the two, with the Hairless requiring more skin care and the Powderpuff needing regular brushing. Health concerns include dental issues and skin sensitivities, particularly in the Hairless variety."
+  "notes": "Several features lack explicit data from the provided sources, resulting in null values. Mappings from textual descriptions to numerical values are explicitly noted. Confidence levels are assigned based on the source reliability scale."
 }

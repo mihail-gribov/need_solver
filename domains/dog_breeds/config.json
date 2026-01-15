@@ -59,6 +59,13 @@
       "low": 0.3
     }
   },
+  "explanation": {
+    "language": "Russian",
+    "top_breeds": 3,
+    "max_constraints": 3,
+    "max_preferences": 4,
+    "min_need_score": 3
+  },
   "paths": {
     "content": "content",
     "source": "source",

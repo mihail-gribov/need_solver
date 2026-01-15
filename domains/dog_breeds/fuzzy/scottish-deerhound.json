@@ -2,468 +2,456 @@
   "breed_id": "scottish-deerhound",
   "features": {
     "shedding": {
-      "t": 0.4,
-      "f": 0.4,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.24,
-        "falsity": 0.24,
-        "unknown": 0.36,
-        "conflict": 0.16
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "coat_type": {
-      "t": 0.56,
-      "f": 0.24,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "UKC Breed Standard (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "dander_level": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
+      "note": "all values null"
     },
     "grooming": {
-      "t": 0.32,
-      "f": 0.48,
+      "t": 0.15,
+      "f": 0.35,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.166,
-        "falsity": 0.326,
-        "unknown": 0.354,
-        "conflict": 0.154
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
       }
     },
     "health_robustness": {
-      "t": 0.42,
-      "f": 0.28,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "genetic_risk": {
-      "t": 0.28,
-      "f": 0.42,
+      "t": 0.35,
+      "f": 0.15,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "apartment_ok": {
-      "t": 0.21,
-      "f": 0.49,
+      "t": 0.15,
+      "f": 0.35,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.107,
-        "falsity": 0.387,
-        "unknown": 0.403,
-        "conflict": 0.103
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
       }
     },
     "barking": {
-      "t": 0.16,
-      "f": 0.64,
-      "state": "false",
+      "t": 0.05,
+      "f": 0.45,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.058,
-        "falsity": 0.538,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.028,
+        "falsity": 0.427,
+        "unknown": 0.522,
+        "conflict": 0.023
       }
     },
     "energy": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "reactivity": {
-      "t": 0.3,
-      "f": 0.3,
+      "t": 0.15,
+      "f": 0.35,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
       }
     },
     "noise_tolerance": {
-      "t": 0.36,
-      "f": 0.24,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.274,
-        "falsity": 0.154,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
+      "note": "all values null"
     },
     "exercise_need": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "alone_tolerance": {
-      "t": 0.28,
-      "f": 0.42,
+      "t": 0.15,
+      "f": 0.35,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
       }
     },
     "separation_anxiety_risk": {
-      "t": 0.42,
-      "f": 0.28,
+      "t": 0.35,
+      "f": 0.15,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "sitter_compatibility": {
-      "t": 0.42,
-      "f": 0.18,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.344,
-        "falsity": 0.104,
-        "unknown": 0.476,
-        "conflict": 0.076
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "adaptability": {
-      "t": 0.3,
-      "f": 0.3,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "child_friendly": {
-      "t": 0.49,
-      "f": 0.21,
+      "t": 0.35,
+      "f": 0.15,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "pet_friendly": {
-      "t": 0.42,
-      "f": 0.28,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "stranger_friendly": {
-      "t": 0.35,
-      "f": 0.35,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "territoriality": {
-      "t": 0.18,
-      "f": 0.42,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.104,
-        "falsity": 0.344,
-        "unknown": 0.476,
-        "conflict": 0.076
-      }
-    },
-    "protectiveness": {
-      "t": 0.24,
-      "f": 0.36,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.154,
-        "falsity": 0.274,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
-    },
-    "stress_sensitivity": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
-    },
-    "affection_level": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "independence": {
-      "t": 0.36,
-      "f": 0.24,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.274,
-        "falsity": 0.154,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
-    },
-    "playfulness": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
-    },
-    "trainability": {
-      "t": 0.35,
+      "t": 0.15,
       "f": 0.35,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
+      }
+    },
+    "protectiveness": {
+      "t": 0.15,
+      "f": 0.35,
+      "state": "unknown",
+      "sources": [
+        "PetMD (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
+      }
+    },
+    "stress_sensitivity": {
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
+      "sources": [
+        "PetMD (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
+      }
+    },
+    "affection_level": {
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
+      "sources": [
+        "PetMD (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
+      }
+    },
+    "independence": {
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
+      "sources": [
+        "PetMD (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
+      }
+    },
+    "playfulness": {
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
+      "sources": [
+        "PetMD (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
+      }
+    },
+    "trainability": {
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
+      "sources": [
+        "PetMD (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "working_drive": {
-      "t": 0.36,
-      "f": 0.24,
+      "t": 0.35,
+      "f": 0.15,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.274,
-        "falsity": 0.154,
-        "unknown": 0.486,
-        "conflict": 0.086
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "behavior_management_need": {
-      "t": 0.3,
-      "f": 0.3,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "mental_stimulation": {
-      "t": 0.36,
-      "f": 0.24,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.274,
-        "falsity": 0.154,
-        "unknown": 0.486,
-        "conflict": 0.086
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "prey_drive": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "hunting_instinct": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     }
   },
@@ -473,42 +461,42 @@
       "values": {
         "size_toy": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_small": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_medium": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
-        },
-        "size_large": {
-          "t": 0.5,
-          "f": 0.3,
-          "state": "true",
-          "votes_for": 2,
           "votes_against": 1
         },
-        "size_giant": {
-          "t": 0.3,
-          "f": 0.5,
-          "state": "false",
+        "size_large": {
+          "t": 0.9,
+          "f": 0.0,
+          "state": "true",
           "votes_for": 1,
-          "votes_against": 2
+          "votes_against": 0
+        },
+        "size_giant": {
+          "t": 0.9,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 1,
+          "votes_against": 0
         },
         "size_small_or_less": {
           "t": 0.0,
-          "f": 0.64,
+          "f": 0.81,
           "state": "false",
           "derived_from": [
             "size_toy",
@@ -517,7 +505,7 @@
         },
         "size_medium_or_less": {
           "t": 0.0,
-          "f": 0.512,
+          "f": 0.729,
           "state": "false",
           "derived_from": [
             "size_toy",
@@ -526,8 +514,8 @@
           ]
         },
         "size_large_or_more": {
-          "t": 0.65,
-          "f": 0.15,
+          "t": 0.99,
+          "f": 0.0,
           "state": "true",
           "derived_from": [
             "size_large",
@@ -541,42 +529,42 @@
       "values": {
         "height_tiny": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 2
+          "votes_against": 1
         },
         "height_small": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 2
+          "votes_against": 1
         },
         "height_medium": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 2
+          "votes_against": 1
         },
         "height_large": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 2
+          "votes_against": 1
         },
         "height_giant": {
-          "t": 0.85,
+          "t": 0.9,
           "f": 0.0,
           "state": "true",
-          "votes_for": 2,
+          "votes_for": 1,
           "votes_against": 0
         },
         "height_small_or_less": {
           "t": 0.0,
-          "f": 0.722,
+          "f": 0.81,
           "state": "false",
           "derived_from": [
             "height_tiny",
@@ -585,7 +573,7 @@
         },
         "height_medium_or_less": {
           "t": 0.0,
-          "f": 0.614,
+          "f": 0.729,
           "state": "false",
           "derived_from": [
             "height_tiny",
@@ -594,7 +582,7 @@
           ]
         },
         "height_large_or_more": {
-          "t": 0.85,
+          "t": 0.9,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -608,35 +596,35 @@
       "source_param": "lifespan_years",
       "values": {
         "lifespan_short": {
-          "t": 0.0,
-          "f": 0.85,
-          "state": "false",
-          "votes_for": 0,
-          "votes_against": 2
-        },
-        "lifespan_medium": {
-          "t": 0.85,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
-          "votes_for": 2,
+          "votes_for": 1,
+          "votes_against": 0
+        },
+        "lifespan_medium": {
+          "t": 0.5,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 1,
           "votes_against": 0
         },
         "lifespan_long": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 2
+          "votes_against": 1
         },
         "lifespan_very_long": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 2
+          "votes_against": 1
         },
         "lifespan_medium_or_more": {
-          "t": 0.85,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -647,8 +635,8 @@
         },
         "lifespan_long_or_more": {
           "t": 0.0,
-          "f": 0.722,
-          "state": "false",
+          "f": 0.25,
+          "state": "unknown",
           "derived_from": [
             "lifespan_long",
             "lifespan_very_long"
@@ -660,46 +648,35 @@
   "parameters_raw": {
     "weight_kg": [
       {
-        "value": 45,
+        "value": [
+          34,
+          50
+        ],
         "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 42,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 40,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "UKC Breed Standard"
       }
     ],
     "height_cm": [
       {
-        "value": 76,
+        "value": [
+          71,
+          81
+        ],
         "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 74,
-        "confidence": 0.8,
-        "source": "PetMD"
+        "source": "UKC Breed Standard"
       }
     ],
     "lifespan_years": [
       {
-        "value": 9.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 9,
-        "confidence": 0.8,
-        "source": "Purina"
+        "value": [
+          8,
+          11
+        ],
+        "confidence": 0.5,
+        "source": "PetMD"
       }
     ]
   },
-  "notes": "Data compiled from multiple reputable sources, including breed standards and veterinary references. Variations exist due to individual differences and source discrepancies.",
+  "notes": "Some features lack explicit data from high-confidence sources, leading to reliance on medium-confidence sources with mapped textual descriptions. No information was found regarding dander levels or noise tolerance.",
   "sources": []
 }

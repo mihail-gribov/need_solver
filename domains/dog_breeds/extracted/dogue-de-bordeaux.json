@@ -1,193 +1,286 @@
 {
   "breed_id": "dogue-de-bordeaux",
   "features": {
-    "shedding": {
-      "value": 0.4,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.2,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.3,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.3,
-      "confidence": 0.8
-    },
-    "genetic_risk": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "apartment_ok": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "barking": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.4,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.4,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "adaptability": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "protectiveness": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "stress_sensitivity": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "affection_level": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "trainability": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "working_drive": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "prey_drive": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "hunting_instinct": {
-      "value": 0.4,
-      "confidence": 0.6
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      },
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "DogZone.com (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      },
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "DogZone.com (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      },
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "DogZone.com (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Dogster (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dogster (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "iDog (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "iDog (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "iDog (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "iDog (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "iDog (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "iDog (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 50,
+        "value": [
+          49.9,
+          null
+        ],
+        "confidence": 0.5,
+        "source": "iDog"
+      },
+      {
+        "value": [
+          45,
+          null
+        ],
         "confidence": 0.9,
         "source": "The Kennel Club"
-      },
-      {
-        "value": 45,
-        "confidence": 0.9,
-        "source": "The Kennel Club"
-      },
-      {
-        "value": 68,
-        "confidence": 0.8,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 54,
-        "confidence": 0.8,
-        "source": "Wikipedia"
       }
     ],
     "height_cm": [
       {
-        "value": 64,
+        "value": [
+          59.1,
+          null
+        ],
+        "confidence": 0.5,
+        "source": "iDog"
+      },
+      {
+        "value": [
+          58,
+          68
+        ],
         "confidence": 0.9,
         "source": "The Kennel Club"
-      },
-      {
-        "value": 62,
-        "confidence": 0.9,
-        "source": "The Kennel Club"
-      },
-      {
-        "value": 61,
-        "confidence": 0.8,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 58,
-        "confidence": 0.8,
-        "source": "Wikipedia"
       }
     ],
     "lifespan_years": [
       {
-        "value": 6.5,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 6.5,
-        "confidence": 0.8,
+        "value": [
+          5,
+          8
+        ],
+        "confidence": 0.5,
         "source": "Dogster"
-      },
-      {
-        "value": 11.1,
-        "confidence": 0.7,
-        "source": "Wikipedia"
       }
     ]
   },
-  "notes": "The Dogue de Bordeaux is a large, muscular breed with a short coat that sheds moderately. They are known for their affectionate and protective nature but can be stubborn, requiring consistent training. Health concerns include hip dysplasia and heart problems, contributing to a relatively short lifespan. Regular grooming, including cleaning facial wrinkles, is essential to prevent infections."
+  "notes": "Several features lack explicit data from the provided sources, resulting in null values. Mapped textual descriptions are noted accordingly. Weight and height parameters show slight variations between sources."
 }

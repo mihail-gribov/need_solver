@@ -1,183 +1,255 @@
 {
   "breed_id": "miniature-schnauzer",
   "features": {
-    "shedding": {
-      "value": 0.1,
-      "confidence": 0.9
-    },
-    "coat_type": {
-      "value": 0.7,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "grooming": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.8
-    },
-    "apartment_ok": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "barking": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "energy": {
-      "value": 0.7,
-      "confidence": 0.9
-    },
-    "reactivity": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.6,
-      "confidence": 0.9
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "adaptability": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "child_friendly": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "pet_friendly": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "stranger_friendly": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "territoriality": {
-      "value": 0.7,
-      "confidence": 0.9
-    },
-    "protectiveness": {
-      "value": 0.7,
-      "confidence": 0.9
-    },
-    "stress_sensitivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "trainability": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "working_drive": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "behavior_management_need": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "prey_drive": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "hunting_instinct": {
-      "value": 0.6,
-      "confidence": 0.8
-    }
+    "shedding": [
+      {
+        "value": 0.1,
+        "confidence": 0.9,
+        "source": "AKC: 'This breed does not shed.'"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC: 'The Miniature Schnauzer has a hard double coat.'"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": 0.3,
+        "confidence": 0.9,
+        "source": "AKC: 'These breeds may be just what the doctor ordered for people with allergies.'"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC: 'To keep Miniature Schnauzers looking their best, incorporate weekly brushing and regular grooming into their schedule.'"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "AMSC: 'We expect the Miniature Schnauzer to be a happy, healthy dog, energetic, with a great appetite for life and for dinner!'"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.5,
+        "confidence": 0.7,
+        "source": "AMSC: 'Good breeders work to avoid potential health issues by using health histories, health screening, or even genetic testing.'"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC: 'Their adaptability makes them at home in the city or the country, as long as their people are close by.'"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "AMSC: 'Their alertness and sometimes vocal nature makes them an excellent watch/alert dog.'"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC: 'The Miniature Schnauzer is a robust, active dog of terrier type.'"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC: 'The typical Miniature Schnauzer is alert and spirited.'"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found."
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC: 'They are athletic dogs that need daily exercise.'"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.3,
+        "confidence": 0.7,
+        "source": "AMSC: 'They need to live as a part of their family, going where they go, doing what they do.'"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "AMSC: 'They need to live as a part of their family, going where they go, doing what they do.'"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found."
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC: 'Their adaptability makes them at home in the city or the country, as long as their people are close by.'"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "AMSC: 'Miniature Schnauzers are generally good with children if raised with them from a young age.'"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found."
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.9,
+        "source": "AKC: 'He is friendly, intelligent and willing to please.'"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "AMSC: 'Their alertness and sometimes vocal nature makes them an excellent watch/alert dog.'"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC: 'The Miniature Schnauzer has a natural protective nature that makes it a great watchdog.'"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found."
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "AMSC: 'They are obedient and quick to learn, extremely devoted, very playful and very affectionate.'"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.3,
+        "confidence": 0.7,
+        "source": "AMSC: 'They need to live as a part of their family, going where they go, doing what they do.'"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "AMSC: 'They are obedient and quick to learn, extremely devoted, very playful and very affectionate.'"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC: 'The Miniature Schnauzer is a smart, trainable, and cheerful little dog.'"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC: 'They are an inquisitive and competitive breed that can be quite athletic.'"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.7,
+        "source": "AMSC: 'They delight in chasing (and sometimes catching) small prey; therefore a fenced yard or on-leash walks are recommended.'"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC: 'Behind those dark, deep-set eyes is a highly intelligent dog who craves novelty.'"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "AMSC: 'They delight in chasing (and sometimes catching) small prey; therefore a fenced yard or on-leash walks are recommended.'"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC: 'True to their Terrier nature, Mini Schnauzers participate in Earthdog trials.'"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 6.8,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 6.4,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 6.5,
+        "value": [
+          5,
+          9
+        ],
         "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "AMSC: 'A dog measuring 12\" to 14\" will usually weigh 11 to 20 lbs.'"
       }
     ],
     "height_cm": [
       {
-        "value": 33,
+        "value": [
+          30,
+          36
+        ],
         "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 32.5,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 32,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "AKC: 'Both males and females can stand anywhere from 12 to 14 inches at the withers.'"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13,
-        "confidence": 0.9,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.8,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 13,
-        "confidence": 0.7,
-        "source": "Petolog"
+        "value": [
+          null,
+          null
+        ],
+        "confidence": 0.0,
+        "source": "No explicit information found."
       }
     ]
   },
-  "notes": "The Miniature Schnauzer is a small, robust, and energetic breed known for its intelligence and affectionate nature. They have a low-shedding, wiry coat that requires regular grooming. While generally healthy, they can be prone to certain hereditary conditions. Their adaptable nature makes them suitable for apartment living, but they do require regular exercise and mental stimulation. They are known to be good with children and can coexist with other pets if properly socialized. Their strong territorial instincts make them excellent watchdogs, though they may be initially aloof with strangers."
+  "notes": "Some features lack explicit information in the provided sources, resulting in null values. For instance, 'noise_tolerance,' 'sitter_compatibility,' 'stress_sensitivity,' 'pet_friendly,' and 'lifespan_years' do not have direct data available. Additionally, while 'health_robustness' and 'genetic_risk' have associated information, the confidence is moderate due to the general nature of the statements."
 }

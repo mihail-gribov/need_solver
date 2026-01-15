@@ -1,183 +1,255 @@
 {
   "breed_id": "cavapoo",
   "features": {
-    "shedding": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "dander_level": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "barking": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "child_friendly": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "pet_friendly": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "stranger_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "territoriality": {
-      "value": 0.2,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "independence": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "working_drive": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "behavior_management_need": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.2,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.2,
-      "confidence": 0.7
-    }
+    "shedding": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 5.5,
-        "confidence": 0.7,
-        "source": "PetCareStores"
-      },
-      {
-        "value": 5.5,
-        "confidence": 0.7,
-        "source": "MetLife Pet Insurance"
-      },
-      {
-        "value": 5.5,
-        "confidence": 0.7,
-        "source": "PetsRadar"
+        "value": [
+          3.6,
+          11.3
+        ],
+        "confidence": 0.5,
+        "source": "PetMD"
       }
     ],
     "height_cm": [
       {
-        "value": 28.5,
-        "confidence": 0.7,
-        "source": "PetCareStores"
-      },
-      {
-        "value": 28.5,
-        "confidence": 0.7,
-        "source": "MetLife Pet Insurance"
-      },
-      {
-        "value": 28.5,
-        "confidence": 0.7,
-        "source": "PetsRadar"
+        "value": [
+          22.9,
+          35.6
+        ],
+        "confidence": 0.5,
+        "source": "PetMD"
       }
     ],
     "lifespan_years": [
       {
-        "value": 12.5,
-        "confidence": 0.7,
-        "source": "PetCareStores"
-      },
-      {
-        "value": 12.5,
-        "confidence": 0.7,
-        "source": "MetLife Pet Insurance"
-      },
-      {
-        "value": 12.5,
-        "confidence": 0.7,
-        "source": "PetsRadar"
+        "value": [
+          12,
+          15
+        ],
+        "confidence": 0.5,
+        "source": "PetMD"
       }
     ]
   },
-  "notes": "Cavapoos are affectionate and intelligent dogs with low-shedding coats, making them suitable for families and individuals alike. Regular grooming is essential to maintain their coat health. They thrive on human companionship and may experience separation anxiety if left alone for extended periods. Early socialization and consistent training can help them adapt well to various living environments."
+  "notes": "All feature values are derived from textual descriptions in PetMD and mapped accordingly. Confidence levels are set at 0.5 due to the general nature of the source. No additional sources were found to provide further data."
 }

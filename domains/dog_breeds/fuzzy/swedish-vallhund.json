@@ -2,469 +2,343 @@
   "breed_id": "swedish-vallhund",
   "features": {
     "shedding": {
-      "t": 0.56,
-      "f": 0.24,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "The Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "coat_type": {
-      "t": 0.4,
-      "f": 0.4,
+      "t": 0.45,
+      "f": 0.45,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "The Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.24,
-        "falsity": 0.24,
-        "unknown": 0.36,
-        "conflict": 0.16
+        "truth": 0.248,
+        "falsity": 0.248,
+        "unknown": 0.303,
+        "conflict": 0.203
       }
     },
     "dander_level": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "grooming": {
-      "t": 0.4,
-      "f": 0.4,
-      "state": "unknown",
+      "t": 0.27,
+      "f": 0.63,
+      "state": "false",
       "sources": [
-        "unknown"
+        "The Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.24,
-        "falsity": 0.24,
-        "unknown": 0.36,
-        "conflict": 0.16
+        "truth": 0.1,
+        "falsity": 0.46,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "health_robustness": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
-      }
+      "note": "all values null"
     },
     "genetic_risk": {
-      "t": 0.21,
-      "f": 0.49,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.107,
-        "falsity": 0.387,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "apartment_ok": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
       "sources": [
-        "unknown"
+        "The Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "barking": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
-      }
+      "note": "all values null"
     },
     "energy": {
-      "t": 0.64,
-      "f": 0.16,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "The Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "reactivity": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "noise_tolerance": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "exercise_need": {
-      "t": 0.64,
-      "f": 0.16,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "The Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "alone_tolerance": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
+      "note": "all values null"
     },
     "separation_anxiety_risk": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "sitter_compatibility": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "adaptability": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
       "sources": [
-        "unknown"
+        "The Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "child_friendly": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
-      }
+      "note": "all values null"
     },
     "pet_friendly": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "stranger_friendly": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "territoriality": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "protectiveness": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "stress_sensitivity": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "affection_level": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
-      }
+      "note": "all values null"
     },
     "independence": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
+      "note": "all values null"
     },
     "playfulness": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
-      }
+      "note": "all values null"
     },
     "trainability": {
-      "t": 0.64,
-      "f": 0.16,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "The Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "working_drive": {
-      "t": 0.64,
-      "f": 0.16,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "The Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "behavior_management_need": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
+      "note": "all values null"
     },
     "mental_stimulation": {
-      "t": 0.64,
-      "f": 0.16,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "The Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "prey_drive": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "hunting_instinct": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     }
   },
   "categories": {
@@ -473,42 +347,42 @@
       "values": {
         "size_toy": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_small": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_medium": {
-          "t": 0.8,
+          "t": 0.9,
           "f": 0.0,
           "state": "true",
-          "votes_for": 3,
+          "votes_for": 1,
           "votes_against": 0
         },
         "size_large": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_giant": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_small_or_less": {
           "t": 0.0,
-          "f": 0.64,
+          "f": 0.81,
           "state": "false",
           "derived_from": [
             "size_toy",
@@ -516,7 +390,7 @@
           ]
         },
         "size_medium_or_less": {
-          "t": 0.8,
+          "t": 0.9,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -527,7 +401,7 @@
         },
         "size_large_or_more": {
           "t": 0.0,
-          "f": 0.64,
+          "f": 0.81,
           "state": "false",
           "derived_from": [
             "size_large",
@@ -541,41 +415,41 @@
       "values": {
         "height_tiny": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_small": {
-          "t": 0.8,
+          "t": 0.9,
           "f": 0.0,
           "state": "true",
-          "votes_for": 3,
+          "votes_for": 1,
           "votes_against": 0
         },
         "height_medium": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_large": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_giant": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_small_or_less": {
-          "t": 0.8,
+          "t": 0.9,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -584,7 +458,7 @@
           ]
         },
         "height_medium_or_less": {
-          "t": 0.8,
+          "t": 0.9,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -595,7 +469,7 @@
         },
         "height_large_or_more": {
           "t": 0.0,
-          "f": 0.64,
+          "f": 0.81,
           "state": "false",
           "derived_from": [
             "height_large",
@@ -609,34 +483,34 @@
       "values": {
         "lifespan_short": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "lifespan_medium": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
-          "votes_for": 0,
-          "votes_against": 3
-        },
-        "lifespan_long": {
-          "t": 0.8,
+          "t": 0.9,
           "f": 0.0,
           "state": "true",
-          "votes_for": 3,
+          "votes_for": 1,
           "votes_against": 0
+        },
+        "lifespan_long": {
+          "t": 0.0,
+          "f": 0.9,
+          "state": "false",
+          "votes_for": 0,
+          "votes_against": 1
         },
         "lifespan_very_long": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "lifespan_medium_or_more": {
-          "t": 0.8,
+          "t": 0.9,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -646,9 +520,9 @@
           ]
         },
         "lifespan_long_or_more": {
-          "t": 0.8,
-          "f": 0.0,
-          "state": "true",
+          "t": 0.0,
+          "f": 0.81,
+          "state": "false",
           "derived_from": [
             "lifespan_long",
             "lifespan_very_long"
@@ -660,56 +534,35 @@
   "parameters_raw": {
     "weight_kg": [
       {
-        "value": 11.5,
+        "value": [
+          11.5,
+          16
+        ],
         "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 11.5,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 11.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "The Kennel Club"
       }
     ],
     "height_cm": [
       {
-        "value": 32,
+        "value": [
+          31,
+          35
+        ],
         "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 32,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 32,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "The Kennel Club"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13.5,
+        "value": [
+          10,
+          null
+        ],
         "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "The Kennel Club"
       }
     ]
   },
-  "notes": "The Swedish Vallhund is a versatile and energetic breed, known for its herding abilities and friendly nature. They require regular exercise and mental stimulation to thrive. While generally healthy, they can be prone to certain genetic conditions, so regular veterinary check-ups are recommended.",
+  "notes": "Several features lack explicit information in the provided sources, resulting in null values. Mappings from textual descriptions to numerical values are explicitly noted. The lifespan is indicated as 'over 10 years' without a specified upper limit.",
   "sources": []
 }

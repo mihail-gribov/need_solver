@@ -1,183 +1,249 @@
 {
   "breed_id": "japanese-spitz",
   "features": {
-    "shedding": {
-      "value": 0.7,
-      "confidence": 0.9
-    },
-    "coat_type": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.6,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "genetic_risk": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "apartment_ok": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "barking": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "child_friendly": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "pet_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "stranger_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "working_drive": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "behavior_management_need": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "prey_drive": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.3,
-      "confidence": 0.7
-    }
+    "shedding": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.3,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 5.5,
+        "value": null,
         "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 7.5,
-        "confidence": 0.8,
-        "source": "DogFlux"
-      },
-      {
-        "value": 8.5,
-        "confidence": 0.7,
-        "source": "BreedScout"
+        "source": "UKC Breed Standard"
       }
     ],
     "height_cm": [
       {
-        "value": 34.5,
+        "value": [
+          30.48,
+          38.1
+        ],
         "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 34,
-        "confidence": 0.8,
-        "source": "DogFlux"
-      },
-      {
-        "value": 33,
-        "confidence": 0.7,
-        "source": "BreedScout"
+        "source": "UKC Breed Standard"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13,
+        "value": null,
         "confidence": 0.9,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 13,
-        "confidence": 0.8,
-        "source": "DogFlux"
-      },
-      {
-        "value": 14,
-        "confidence": 0.7,
-        "source": "BreedScout"
+        "source": "UKC Breed Standard"
       }
     ]
   },
-  "notes": "The Japanese Spitz is a small to medium-sized breed known for its friendly and affectionate nature. They have a thick, white double coat that requires regular grooming, especially during seasonal shedding periods. Generally healthy, they can be prone to patellar luxation and runny eyes. Their adaptable nature makes them suitable for various living environments, including apartments, provided they receive adequate exercise and companionship."
+  "notes": "The UKC Breed Standard provides detailed descriptions of the Japanese Spitz's physical characteristics and temperament. However, specific quantitative data on shedding, dander levels, health robustness, genetic risks, and other behavioral traits are not explicitly stated. Therefore, these features are marked as null to maintain accuracy and traceability. The height parameter is provided in inches and has been converted to centimeters for consistency."
 }

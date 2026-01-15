@@ -1,183 +1,255 @@
 {
   "breed_id": "puli",
   "features": {
-    "shedding": {
-      "value": 0.1,
-      "confidence": 0.9
-    },
-    "coat_type": {
-      "value": 1.0,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "grooming": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "barking": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.6
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "pet_friendly": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "stranger_friendly": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "territoriality": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "affection_level": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "independence": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "working_drive": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "mental_stimulation": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "hunting_instinct": {
-      "value": 0.5,
-      "confidence": 0.6
-    }
+    "shedding": [
+      {
+        "value": 0.2,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.9,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Hill's Pet US (textual description mapped)"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina US (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 11.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 12.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          11.3,
+          18.1
+        ],
+        "confidence": 0.5,
+        "source": "Purina US"
       }
     ],
     "height_cm": [
       {
-        "value": 42.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 43.0,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 40.0,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          40.6,
+          45.7
+        ],
+        "confidence": 0.5,
+        "source": "Purina US"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13.0,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 12.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          10,
+          15
+        ],
+        "confidence": 0.5,
+        "source": "Purina US"
       }
     ]
   },
-  "notes": "The Puli's unique corded coat requires extensive grooming to prevent matting. While they are affectionate and intelligent, their herding instincts may lead them to try to herd children and other pets. Early socialization and consistent training are recommended to manage their protective and territorial behaviors."
+  "notes": "The extracted data relies heavily on Purina US as the primary source, which provides textual descriptions that have been mapped to numerical values. This approach introduces a degree of subjectivity, and the confidence levels are adjusted accordingly. Additionally, some features lack direct quantitative data from the available sources, resulting in null values or inferred estimates."
 }

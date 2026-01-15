@@ -1,183 +1,279 @@
 {
   "breed_id": "coton-de-tulear",
   "features": {
-    "shedding": {
-      "value": 0.1,
-      "confidence": 0.9
-    },
-    "coat_type": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.1,
-      "confidence": 0.9
-    },
-    "grooming": {
-      "value": 0.7,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "genetic_risk": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "apartment_ok": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "barking": {
-      "value": 0.3,
-      "confidence": 0.8
-    },
-    "energy": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "child_friendly": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "pet_friendly": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "stranger_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "territoriality": {
-      "value": 0.2,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "independence": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "working_drive": {
-      "value": 0.3,
-      "confidence": 0.6
-    },
-    "behavior_management_need": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "prey_drive": {
-      "value": 0.2,
-      "confidence": 0.6
-    },
-    "hunting_instinct": {
-      "value": 0.2,
-      "confidence": 0.6
-    }
+    "shedding": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Animal Media Foundation (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "FCI Standard No. 283"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Animal Media Foundation (textual description mapped)"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Animal Media Foundation (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 4.5,
+        "value": [
+          4,
+          6
+        ],
         "confidence": 0.9,
-        "source": "AKC"
+        "source": "FCI Standard No. 283"
       },
       {
-        "value": 5.5,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 5.0,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          3.5,
+          5
+        ],
+        "confidence": 0.9,
+        "source": "FCI Standard No. 283"
       }
     ],
     "height_cm": [
       {
-        "value": 25.5,
+        "value": [
+          25,
+          30
+        ],
         "confidence": 0.9,
-        "source": "AKC"
+        "source": "FCI Standard No. 283"
       },
       {
-        "value": 27.5,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 26.0,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          22,
+          27
+        ],
+        "confidence": 0.9,
+        "source": "FCI Standard No. 283"
       }
     ],
     "lifespan_years": [
       {
-        "value": 15.0,
-        "confidence": 0.9,
-        "source": "AKC"
+        "value": [
+          14,
+          16
+        ],
+        "confidence": 0.5,
+        "source": "Animal Media Foundation"
       },
       {
-        "value": 16.0,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 14.2,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          15,
+          19
+        ],
+        "confidence": 0.5,
+        "source": "PetMD"
       }
     ]
   },
-  "notes": "The Coton de Tulear is a small, affectionate breed known for its hypoallergenic, low-shedding coat and friendly demeanor. They are well-suited for families and adapt well to various living environments, including apartments. Regular grooming is necessary to maintain their coat, and they thrive on companionship, making them less tolerant of being left alone for extended periods."
+  "notes": "Some features are based on textual descriptions mapped to numerical values, which may introduce variability. Lifespan estimates vary between sources, indicating a range of 14 to 19 years. Grooming requirements are noted as significant due to the breed's coat texture."
 }

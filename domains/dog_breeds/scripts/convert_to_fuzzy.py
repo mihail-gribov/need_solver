@@ -133,8 +133,13 @@ def aggregate_feature_entries(entries: list[dict]) -> dict:
     }
 
 
-def value_in_range(value: float, min_val: float | None, max_val: float | None) -> bool:
-    """Check if value falls within [min_val, max_val] range."""
+def value_in_range(value: float | None, min_val: float | None, max_val: float | None) -> bool | None:
+    """Check if value falls within [min_val, max_val] range.
+
+    Returns None if value is None (unknown).
+    """
+    if value is None:
+        return None  # Unknown
     if min_val is not None and value < min_val:
         return False
     if max_val is not None and value >= max_val:
@@ -177,6 +182,17 @@ def convert_parameter_to_categories(
             # Handle range values [min, max]
             if isinstance(value, list) and len(value) == 2:
                 val_min, val_max = value
+
+                # Skip if both range bounds are None
+                if val_min is None and val_max is None:
+                    continue
+
+                # Use available value if one is None
+                if val_min is None:
+                    val_min = val_max
+                if val_max is None:
+                    val_max = val_min
+
                 # Check if ranges overlap
                 range_overlaps = not (val_max < cat_min if cat_min else False) and \
                                  not (val_min >= cat_max if cat_max else False)
@@ -189,7 +205,10 @@ def convert_parameter_to_categories(
                     votes_against.append(confidence)
             else:
                 # Single value
-                if value_in_range(value, cat_min, cat_max):
+                in_range = value_in_range(value, cat_min, cat_max)
+                if in_range is None:
+                    continue  # Unknown value, skip
+                elif in_range:
                     votes_for.append(confidence)
                 else:
                     votes_against.append(confidence)

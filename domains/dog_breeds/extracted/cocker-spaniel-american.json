@@ -1,183 +1,255 @@
 {
   "breed_id": "cocker-spaniel-american",
   "features": {
-    "shedding": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "barking": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "child_friendly": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "pet_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "stranger_friendly": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "territoriality": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "protectiveness": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "stress_sensitivity": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "working_drive": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "behavior_management_need": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.6,
-      "confidence": 0.7
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 11.34,
-        "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 11.34,
-        "confidence": 0.8,
+        "value": [
+          9.1,
+          11.3
+        ],
+        "confidence": 0.5,
         "source": "WebMD"
-      },
-      {
-        "value": 11.34,
-        "confidence": 0.7,
-        "source": "Wikipedia"
       }
     ],
     "height_cm": [
       {
-        "value": 37.5,
-        "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 37.5,
-        "confidence": 0.8,
+        "value": [
+          34.3,
+          39.4
+        ],
+        "confidence": 0.5,
         "source": "WebMD"
-      },
-      {
-        "value": 37.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
       }
     ],
     "lifespan_years": [
       {
-        "value": 12.5,
-        "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 12.5,
-        "confidence": 0.8,
+        "value": [
+          10,
+          15
+        ],
+        "confidence": 0.5,
         "source": "WebMD"
-      },
-      {
-        "value": 12.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
       }
     ]
   },
-  "notes": "The American Cocker Spaniel is a friendly and affectionate breed, well-suited for families and adaptable to various living environments. Regular grooming and attention to health are essential due to their coat and predisposition to certain health issues."
+  "notes": "Many features lack specific information from the provided sources, resulting in null values. The available data primarily comes from WebMD, with confidence levels reflecting the source type. No conflicting information was found among the sources."
 }

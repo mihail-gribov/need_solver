@@ -2,469 +2,391 @@
   "breed_id": "cardigan-welsh-corgi",
   "features": {
     "shedding": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetGOV (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "coat_type": {
-      "t": 0.48,
-      "f": 0.32,
+      "t": 0.45,
+      "f": 0.45,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "The Kennel Club"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.326,
-        "falsity": 0.166,
-        "unknown": 0.354,
-        "conflict": 0.154
+        "truth": 0.248,
+        "falsity": 0.248,
+        "unknown": 0.303,
+        "conflict": 0.203
       }
     },
     "dander_level": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "grooming": {
-      "t": 0.4,
-      "f": 0.4,
+      "t": 0.15,
+      "f": 0.35,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetGOV (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.24,
-        "falsity": 0.24,
-        "unknown": 0.36,
-        "conflict": 0.16
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
       }
     },
     "health_robustness": {
-      "t": 0.49,
-      "f": 0.21,
+      "t": 0.35,
+      "f": 0.15,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetGOV (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "genetic_risk": {
-      "t": 0.21,
-      "f": 0.49,
+      "t": 0.15,
+      "f": 0.35,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetGOV (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.107,
-        "falsity": 0.387,
-        "unknown": 0.403,
-        "conflict": 0.103
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
       }
     },
     "apartment_ok": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "barking": {
-      "t": 0.42,
-      "f": 0.28,
+      "t": 0.35,
+      "f": 0.15,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Good Dog (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "energy": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "reactivity": {
-      "t": 0.35,
-      "f": 0.35,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "noise_tolerance": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "exercise_need": {
-      "t": 0.48,
-      "f": 0.32,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.326,
-        "falsity": 0.166,
-        "unknown": 0.354,
-        "conflict": 0.154
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "alone_tolerance": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "separation_anxiety_risk": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "sitter_compatibility": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "adaptability": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "child_friendly": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "pet_friendly": {
-      "t": 0.49,
-      "f": 0.21,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "stranger_friendly": {
-      "t": 0.35,
-      "f": 0.35,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "territoriality": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "protectiveness": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "stress_sensitivity": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
+      "note": "all values null"
     },
     "affection_level": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "independence": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "playfulness": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "Good Dog (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "trainability": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "Good Dog (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "working_drive": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
-      }
+      "note": "all values null"
     },
     "behavior_management_need": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
+      "note": "all values null"
     },
     "mental_stimulation": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "Good Dog (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "prey_drive": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "hunting_instinct": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     }
   },
   "categories": {
@@ -473,50 +395,50 @@
       "values": {
         "size_toy": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_small": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_medium": {
-          "t": 0.8,
+          "t": 0.7,
           "f": 0.0,
           "state": "true",
-          "votes_for": 3,
+          "votes_for": 1,
           "votes_against": 0
         },
         "size_large": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_giant": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_small_or_less": {
           "t": 0.0,
-          "f": 0.64,
-          "state": "false",
+          "f": 0.49,
+          "state": "unknown",
           "derived_from": [
             "size_toy",
             "size_small"
           ]
         },
         "size_medium_or_less": {
-          "t": 0.8,
+          "t": 0.7,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -527,8 +449,8 @@
         },
         "size_large_or_more": {
           "t": 0.0,
-          "f": 0.64,
-          "state": "false",
+          "f": 0.49,
+          "state": "unknown",
           "derived_from": [
             "size_large",
             "size_giant"
@@ -541,41 +463,41 @@
       "values": {
         "height_tiny": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_small": {
-          "t": 0.8,
+          "t": 0.7,
           "f": 0.0,
           "state": "true",
-          "votes_for": 3,
+          "votes_for": 1,
           "votes_against": 0
         },
         "height_medium": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_large": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_giant": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_small_or_less": {
-          "t": 0.8,
+          "t": 0.7,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -584,7 +506,7 @@
           ]
         },
         "height_medium_or_less": {
-          "t": 0.8,
+          "t": 0.7,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -595,8 +517,8 @@
         },
         "height_large_or_more": {
           "t": 0.0,
-          "f": 0.64,
-          "state": "false",
+          "f": 0.49,
+          "state": "unknown",
           "derived_from": [
             "height_large",
             "height_giant"
@@ -609,31 +531,31 @@
       "values": {
         "lifespan_short": {
           "t": 0.0,
-          "f": 0.75,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 2
+          "votes_against": 1
         },
         "lifespan_medium": {
           "t": 0.0,
-          "f": 0.75,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 2
+          "votes_against": 1
         },
         "lifespan_long": {
-          "t": 0.75,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
-          "votes_for": 2,
+          "votes_for": 1,
           "votes_against": 0
         },
         "lifespan_very_long": {
-          "t": 0.0,
-          "f": 0.75,
-          "state": "false",
-          "votes_for": 0,
-          "votes_against": 2
+          "t": 0.5,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 1,
+          "votes_against": 0
         },
         "lifespan_medium_or_more": {
           "t": 0.75,
@@ -660,51 +582,35 @@
   "parameters_raw": {
     "weight_kg": [
       {
-        "value": 15.9,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 15.9,
-        "confidence": 0.8,
-        "source": "National Kennel Club"
-      },
-      {
-        "value": 15.9,
+        "value": [
+          11.3,
+          15.4
+        ],
         "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "National Kennel Club"
       }
     ],
     "height_cm": [
       {
-        "value": 28.6,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 28.6,
-        "confidence": 0.8,
-        "source": "National Kennel Club"
-      },
-      {
-        "value": 28.6,
+        "value": [
+          26.7,
+          31.8
+        ],
         "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "National Kennel Club"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13.5,
-        "confidence": 0.8,
-        "source": "Good Dog"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.7,
-        "source": "Snuffalo"
+        "value": [
+          12,
+          15
+        ],
+        "confidence": 0.5,
+        "source": "PetGOV"
       }
     ]
   },
-  "notes": "The Cardigan Welsh Corgi is a versatile and adaptable breed, suitable for various living environments. They are affectionate and loyal, making them excellent family companions. Regular exercise and mental stimulation are essential to keep them healthy and happy. While generally healthy, they are prone to certain hereditary conditions, so regular veterinary care is recommended.",
+  "notes": "Several features lack explicit information in the provided sources, resulting in null values. Mapped textual descriptions are noted accordingly.",
   "sources": []
 }

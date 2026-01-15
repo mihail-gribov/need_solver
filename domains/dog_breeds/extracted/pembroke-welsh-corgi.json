@@ -1,183 +1,255 @@
 {
   "breed_id": "pembroke-welsh-corgi",
   "features": {
-    "shedding": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "coat_type": {
-      "value": 0.6,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.6,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "genetic_risk": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "apartment_ok": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "barking": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "energy": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "reactivity": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "noise_tolerance": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.7,
-      "confidence": 0.9
-    },
-    "alone_tolerance": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "child_friendly": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "territoriality": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "independence": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "working_drive": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "prey_drive": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.5,
-      "confidence": 0.7
-    }
+    "shedding": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "coat_type": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "grooming": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.5,
+        "confidence": 0.6,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.6,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "barking": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "energy": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "adaptability": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "affection_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "playfulness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "trainability": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found in the provided sources."
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 11.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 11.0,
-        "confidence": 0.8,
-        "source": "Purina UK"
-      },
-      {
-        "value": 11.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          10.9,
+          13.6
+        ],
+        "confidence": 0.6,
+        "source": "PetMD"
       }
     ],
     "height_cm": [
       {
-        "value": 27.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 27.5,
-        "confidence": 0.8,
-        "source": "Purina UK"
-      },
-      {
-        "value": 27.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          25.4,
+          30.5
+        ],
+        "confidence": 0.6,
+        "source": "PetMD"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.8,
-        "source": "Purina UK"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          12,
+          13
+        ],
+        "confidence": 0.6,
+        "source": "PetMD"
       }
     ]
   },
-  "notes": "The Pembroke Welsh Corgi is a small, sturdy herding breed known for its intelligence, affectionate nature, and strong herding instincts. They have a weather-resistant double coat that sheds heavily, especially during seasonal changes, requiring regular grooming. While generally healthy, they are prone to certain genetic conditions such as hip dysplasia and intervertebral disc disease. Their energetic and playful demeanor makes them excellent companions, but they require regular exercise and mental stimulation to prevent boredom. They can adapt to various living situations, including apartments, provided their physical and mental needs are met. Early socialization and training are recommended to manage their herding behaviors and potential nipping tendencies."
+  "notes": "The provided sources offer limited explicit information on many characteristics of the Pembroke Welsh Corgi. Health robustness and genetic risk values are inferred from textual descriptions and mapped accordingly. Weight, height, and lifespan parameters are based on data from PetMD. Other features lack explicit data in the available sources, resulting in null values."
 }

@@ -29,7 +29,12 @@ class Matcher:
     Domain-agnostic: requires domain_dir with config.json.
     """
 
-    def __init__(self, domain_dir: Path | str):
+    # Default domain path (relative to this file)
+    DEFAULT_DOMAIN = Path(__file__).parent.parent.parent.parent / "domains" / "dog_breeds"
+
+    def __init__(self, domain_dir: Path | str | None = None):
+        if domain_dir is None:
+            domain_dir = self.DEFAULT_DOMAIN
         self.domain_dir = Path(domain_dir)
 
         # Load config
@@ -56,9 +61,33 @@ class Matcher:
             # Pre-compile formula for fast eval
             self.compiled_formulas[need_id] = compile(need["formula"], f"<{need_id}>", "eval")
 
+    def _load_features(self) -> list[str]:
+        """Load list of all feature IDs from object_features.json."""
+        features_file = self.domain_dir / self.config["paths"]["content"] / "object_features.json"
+        with open(features_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        feature_ids = []
+        for feat in data.get("features", []):
+            feature_ids.append(feat["id"])
+
+        # Also collect category IDs
+        for group_name in ["size_group", "height_group", "lifespan_group"]:
+            if group_name in data:
+                for cat in data[group_name].get("values", []):
+                    feature_ids.append(cat["id"])
+                for derived in data[group_name].get("derived", []):
+                    feature_ids.append(derived["id"])
+
+        return feature_ids
+
     def _load_breeds(self):
         """Load all breed fuzzy data."""
         fuzzy_dir = self.domain_dir / self.config["paths"]["fuzzy"]
+
+        # Get all known feature IDs for default UNKNOWN values
+        all_feature_ids = self._load_features()
+        UNKNOWN = FuzzyBool(0, 0)
 
         self.breeds: dict[str, dict] = {}
         self.breed_contexts: dict[str, dict[str, FuzzyBool]] = {}
@@ -71,9 +100,10 @@ class Matcher:
             self.breeds[breed_id] = data
 
             # Build evaluation context (all variables as FuzzyBool)
-            context = {}
+            # Start with UNKNOWN for all features
+            context = {feat_id: UNKNOWN for feat_id in all_feature_ids}
 
-            # Add features
+            # Add features from data (overwrites UNKNOWN)
             for feat_id, feat_data in data.get("features", {}).items():
                 context[feat_id] = FuzzyBool(feat_data["t"], feat_data["f"])
 
@@ -425,6 +455,10 @@ class Matcher:
     def get_need_ids(self) -> list[str]:
         """Get list of all available need IDs."""
         return list(self.needs.keys())
+
+
+# Backward compatibility alias
+BreedMatcher = Matcher
 
 
 # Convenience functions for quick usage

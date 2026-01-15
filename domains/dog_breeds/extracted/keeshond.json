@@ -1,183 +1,255 @@
 {
   "breed_id": "keeshond",
   "features": {
-    "shedding": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "coat_type": {
-      "value": 1.0,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.7,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.8
-    },
-    "apartment_ok": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "barking": {
-      "value": 0.7,
-      "confidence": 0.9
-    },
-    "energy": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.3,
-      "confidence": 0.8
-    },
-    "separation_anxiety_risk": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "sitter_compatibility": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "child_friendly": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "pet_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "stranger_friendly": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "territoriality": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "independence": {
-      "value": 0.3,
-      "confidence": 0.8
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "working_drive": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "behavior_management_need": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.3,
-      "confidence": 0.7
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 1.0,
+        "confidence": 0.9,
+        "source": "Keeshond Club of America"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 15,
-        "confidence": 0.9,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 16,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 17,
-        "confidence": 0.7,
-        "source": "PetMD"
+        "value": [
+          13.6,
+          18.1
+        ],
+        "confidence": 0.5,
+        "source": "Purina"
       }
     ],
     "height_cm": [
       {
-        "value": 44,
+        "value": [
+          43,
+          46
+        ],
         "confidence": 0.9,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 45,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 46,
-        "confidence": 0.7,
-        "source": "PetMD"
+        "source": "Keeshond Club of America"
       }
     ],
     "lifespan_years": [
       {
-        "value": 12.3,
-        "confidence": 0.9,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 12.5,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 13,
-        "confidence": 0.7,
-        "source": "PetMD"
+        "value": [
+          12,
+          15
+        ],
+        "confidence": 0.5,
+        "source": "Purina"
       }
     ]
   },
-  "notes": "The Keeshond is a friendly and affectionate breed, known for its thick double coat that requires regular grooming. They are generally healthy but can be prone to certain genetic conditions. They adapt well to various living environments, including apartments, but thrive on human companionship and may experience separation anxiety if left alone for extended periods."
+  "notes": "Some features have been mapped from textual descriptions to numerical values, as explicitly noted. Certain features lack explicit information in the provided sources, resulting in null values."
 }

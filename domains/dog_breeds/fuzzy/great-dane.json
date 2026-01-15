@@ -2,221 +2,74 @@
   "breed_id": "great-dane",
   "features": {
     "shedding": {
-      "t": 0.32,
-      "f": 0.48,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.166,
-        "falsity": 0.326,
-        "unknown": 0.354,
-        "conflict": 0.154
-      }
+      "note": "all values null"
     },
     "coat_type": {
-      "t": 0.18,
-      "f": 0.72,
+      "t": 0.09,
+      "f": 0.81,
       "state": "false",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.05,
-        "falsity": 0.59,
-        "unknown": 0.23,
-        "conflict": 0.13
+        "truth": 0.017,
+        "falsity": 0.737,
+        "unknown": 0.173,
+        "conflict": 0.073
       }
     },
     "dander_level": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
+      "note": "all values null"
     },
     "grooming": {
-      "t": 0.18,
-      "f": 0.72,
+      "t": 0.09,
+      "f": 0.81,
       "state": "false",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.05,
-        "falsity": 0.59,
-        "unknown": 0.23,
-        "conflict": 0.13
+        "truth": 0.017,
+        "falsity": 0.737,
+        "unknown": 0.173,
+        "conflict": 0.073
       }
     },
     "health_robustness": {
-      "t": 0.24,
-      "f": 0.56,
-      "state": "false",
+      "t": 0.21,
+      "f": 0.49,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "AKC Health Article"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.106,
-        "falsity": 0.426,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.107,
+        "falsity": 0.387,
+        "unknown": 0.403,
+        "conflict": 0.103
       }
     },
     "genetic_risk": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
-      }
-    },
-    "apartment_ok": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
-    "barking": {
-      "t": 0.21,
-      "f": 0.49,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.107,
-        "falsity": 0.387,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "energy": {
-      "t": 0.4,
-      "f": 0.4,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.24,
-        "falsity": 0.24,
-        "unknown": 0.36,
-        "conflict": 0.16
-      }
-    },
-    "reactivity": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
-    "noise_tolerance": {
-      "t": 0.36,
-      "f": 0.24,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.274,
-        "falsity": 0.154,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
-    },
-    "exercise_need": {
-      "t": 0.4,
-      "f": 0.4,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.24,
-        "falsity": 0.24,
-        "unknown": 0.36,
-        "conflict": 0.16
-      }
-    },
-    "alone_tolerance": {
-      "t": 0.21,
-      "f": 0.49,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.107,
-        "falsity": 0.387,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "separation_anxiety_risk": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
-    "sitter_compatibility": {
       "t": 0.49,
       "f": 0.21,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "AKC Health Article"
       ],
       "n_sources": 1,
       "components": {
@@ -226,245 +79,230 @@
         "conflict": 0.103
       }
     },
-    "adaptability": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
+    "apartment_ok": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
+      "note": "all values null"
+    },
+    "barking": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "UKC Breed Standard"
+      ],
+      "note": "all values null"
+    },
+    "energy": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "UKC Breed Standard"
+      ],
+      "note": "all values null"
+    },
+    "reactivity": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "UKC Breed Standard"
+      ],
+      "note": "all values null"
+    },
+    "noise_tolerance": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "UKC Breed Standard"
+      ],
+      "note": "all values null"
+    },
+    "exercise_need": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "UKC Breed Standard"
+      ],
+      "note": "all values null"
+    },
+    "alone_tolerance": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "UKC Breed Standard"
+      ],
+      "note": "all values null"
+    },
+    "separation_anxiety_risk": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "UKC Breed Standard"
+      ],
+      "note": "all values null"
+    },
+    "sitter_compatibility": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "UKC Breed Standard"
+      ],
+      "note": "all values null"
+    },
+    "adaptability": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "UKC Breed Standard"
+      ],
+      "note": "all values null"
     },
     "child_friendly": {
-      "t": 0.72,
-      "f": 0.18,
-      "state": "true",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.59,
-        "falsity": 0.05,
-        "unknown": 0.23,
-        "conflict": 0.13
-      }
+      "note": "all values null"
     },
     "pet_friendly": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
-      }
+      "note": "all values null"
     },
     "stranger_friendly": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
-      }
+      "note": "all values null"
     },
     "territoriality": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
+      "note": "all values null"
     },
     "protectiveness": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
-      }
+      "note": "all values null"
     },
     "stress_sensitivity": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
+      "note": "all values null"
     },
     "affection_level": {
-      "t": 0.72,
-      "f": 0.18,
-      "state": "true",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.59,
-        "falsity": 0.05,
-        "unknown": 0.23,
-        "conflict": 0.13
-      }
+      "note": "all values null"
     },
     "independence": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "playfulness": {
-      "t": 0.48,
-      "f": 0.32,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.326,
-        "falsity": 0.166,
-        "unknown": 0.354,
-        "conflict": 0.154
-      }
+      "note": "all values null"
     },
     "trainability": {
-      "t": 0.48,
-      "f": 0.32,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.326,
-        "falsity": 0.166,
-        "unknown": 0.354,
-        "conflict": 0.154
-      }
+      "note": "all values null"
     },
     "working_drive": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
+      "note": "all values null"
     },
     "behavior_management_need": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
+      "note": "all values null"
     },
     "mental_stimulation": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
+      "note": "all values null"
     },
     "prey_drive": {
-      "t": 0.24,
-      "f": 0.36,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.154,
-        "falsity": 0.274,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
+      "note": "all values null"
     },
     "hunting_instinct": {
-      "t": 0.24,
-      "f": 0.36,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "UKC Breed Standard"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.154,
-        "falsity": 0.274,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
+      "note": "all values null"
     }
   },
   "categories": {
@@ -472,44 +310,44 @@
       "source_param": "weight_kg",
       "values": {
         "size_toy": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 0
         },
         "size_small": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 0
         },
         "size_medium": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 0
         },
         "size_large": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 0
         },
         "size_giant": {
-          "t": 0.8,
-          "f": 0.0,
-          "state": "true",
-          "votes_for": 3,
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
+          "votes_for": 0,
           "votes_against": 0
         },
         "size_small_or_less": {
           "t": 0.0,
-          "f": 0.64,
-          "state": "false",
+          "f": 0.0,
+          "state": "unknown",
           "derived_from": [
             "size_toy",
             "size_small"
@@ -517,8 +355,8 @@
         },
         "size_medium_or_less": {
           "t": 0.0,
-          "f": 0.512,
-          "state": "false",
+          "f": 0.0,
+          "state": "unknown",
           "derived_from": [
             "size_toy",
             "size_small",
@@ -526,9 +364,9 @@
           ]
         },
         "size_large_or_more": {
-          "t": 0.8,
+          "t": 0.0,
           "f": 0.0,
-          "state": "true",
+          "state": "unknown",
           "derived_from": [
             "size_large",
             "size_giant"
@@ -540,44 +378,44 @@
       "source_param": "height_cm",
       "values": {
         "height_tiny": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 0
         },
         "height_small": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 0
         },
         "height_medium": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 0
         },
         "height_large": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 0
         },
         "height_giant": {
-          "t": 0.8,
-          "f": 0.0,
-          "state": "true",
-          "votes_for": 3,
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
+          "votes_for": 0,
           "votes_against": 0
         },
         "height_small_or_less": {
           "t": 0.0,
-          "f": 0.64,
-          "state": "false",
+          "f": 0.0,
+          "state": "unknown",
           "derived_from": [
             "height_tiny",
             "height_small"
@@ -585,8 +423,8 @@
         },
         "height_medium_or_less": {
           "t": 0.0,
-          "f": 0.512,
-          "state": "false",
+          "f": 0.0,
+          "state": "unknown",
           "derived_from": [
             "height_tiny",
             "height_small",
@@ -594,9 +432,9 @@
           ]
         },
         "height_large_or_more": {
-          "t": 0.8,
+          "t": 0.0,
           "f": 0.0,
-          "state": "true",
+          "state": "unknown",
           "derived_from": [
             "height_large",
             "height_giant"
@@ -608,37 +446,37 @@
       "source_param": "lifespan_years",
       "values": {
         "lifespan_short": {
-          "t": 0.533,
-          "f": 0.267,
+          "t": 0.7,
+          "f": 0.0,
           "state": "true",
-          "votes_for": 2,
-          "votes_against": 1
+          "votes_for": 1,
+          "votes_against": 0
         },
         "lifespan_medium": {
-          "t": 0.267,
-          "f": 0.533,
-          "state": "false",
+          "t": 0.7,
+          "f": 0.0,
+          "state": "true",
           "votes_for": 1,
-          "votes_against": 2
+          "votes_against": 0
         },
         "lifespan_long": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "lifespan_very_long": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "lifespan_medium_or_more": {
-          "t": 0.267,
-          "f": 0.341,
-          "state": "unknown",
+          "t": 0.7,
+          "f": 0.0,
+          "state": "true",
           "derived_from": [
             "lifespan_medium",
             "lifespan_long",
@@ -647,8 +485,8 @@
         },
         "lifespan_long_or_more": {
           "t": 0.0,
-          "f": 0.64,
-          "state": "false",
+          "f": 0.49,
+          "state": "unknown",
           "derived_from": [
             "lifespan_long",
             "lifespan_very_long"
@@ -660,56 +498,35 @@
   "parameters_raw": {
     "weight_kg": [
       {
-        "value": 68,
+        "value": [
+          null,
+          null
+        ],
         "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 70,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 65,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "UKC Breed Standard"
       }
     ],
     "height_cm": [
       {
-        "value": 76,
+        "value": [
+          null,
+          null
+        ],
         "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 78,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 74,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "UKC Breed Standard"
       }
     ],
     "lifespan_years": [
       {
-        "value": 8.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 9,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 8,
+        "value": [
+          8,
+          10
+        ],
         "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "AKC Health Article"
       }
     ]
   },
-  "notes": "Great Danes are gentle giants known for their affectionate nature and moderate exercise needs. Due to their large size, they are prone to certain health issues, including bloat and joint problems. Early socialization and consistent training are essential to manage their size and strength.",
+  "notes": "Many features lack explicit data in the provided sources, resulting in null values. The UKC Breed Standard describes the coat as 'short, close, and thick with a smooth, glossy appearance,' which is interpreted as low grooming effort. Health robustness and genetic risk are inferred from the AKC Health Article discussing the breed's relatively short lifespan and susceptibility to health issues.",
   "sources": []
 }

@@ -1,178 +1,271 @@
 {
   "breed_id": "kangal-shepherd-dog",
   "features": {
-    "shedding": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.3,
-      "confidence": 0.8
-    },
-    "dander_level": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "grooming": {
-      "value": 0.3,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.2,
-      "confidence": 0.9
-    },
-    "barking": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "separation_anxiety_risk": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "sitter_compatibility": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "adaptability": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "child_friendly": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "pet_friendly": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "stranger_friendly": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "protectiveness": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "stress_sensitivity": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "affection_level": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "independence": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "playfulness": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "trainability": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "working_drive": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.7,
-      "confidence": 0.7
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "50dogs.com (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit source found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit source found"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit source found"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.1,
+        "confidence": 0.5,
+        "source": "50dogs.com (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit source found"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit source found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit source found"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit source found"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit source found"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit source found"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit source found"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit source found"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit source found"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Hill's Pet (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit source found"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit source found"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 52.5,
-        "confidence": 0.9,
-        "source": "UKC"
+        "value": [
+          50,
+          60
+        ],
+        "confidence": 0.5,
+        "source": "Hill's Pet"
       },
       {
-        "value": 52.5,
-        "confidence": 0.8,
-        "source": "Dog Breeds Org"
-      },
-      {
-        "value": 52.5,
-        "confidence": 0.7,
-        "source": "Dogmal"
+        "value": [
+          36,
+          54
+        ],
+        "confidence": 0.5,
+        "source": "Hill's Pet"
       }
     ],
     "height_cm": [
       {
-        "value": 76,
-        "confidence": 0.9,
-        "source": "UKC"
+        "value": [
+          65,
+          73
+        ],
+        "confidence": 0.5,
+        "source": "Hill's Pet"
       },
       {
-        "value": 76,
-        "confidence": 0.8,
-        "source": "Dog Breeds Org"
-      },
-      {
-        "value": 76,
-        "confidence": 0.7,
-        "source": "Dogmal"
+        "value": [
+          59,
+          68
+        ],
+        "confidence": 0.5,
+        "source": "Hill's Pet"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13.5,
-        "confidence": 0.8,
-        "source": "Dog Breeds Org"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.7,
-        "source": "Dogmal"
+        "value": [
+          null,
+          null
+        ],
+        "confidence": null,
+        "source": "No explicit source found"
       }
     ]
   },
-  "notes": "The Kangal Shepherd Dog is a large, powerful breed known for its exceptional guarding instincts and loyalty. While they are generally healthy, they can be prone to certain genetic conditions common in large breeds. Their independent nature and protective instincts require early socialization and consistent training. Due to their size and energy levels, they are best suited to homes with ample space and are not ideal for apartment living."
+  "notes": "Several features lack explicit data from the provided sources, resulting in null values. The confidence levels are set based on the source reliability scale, with Hill's Pet categorized as a reputable pet site (confidence 0.5). No explicit lifespan data was found in the provided sources."
 }

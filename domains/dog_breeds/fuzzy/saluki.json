@@ -2,468 +2,360 @@
   "breed_id": "saluki",
   "features": {
     "shedding": {
-      "t": 0.16,
-      "f": 0.64,
-      "state": "false",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.058,
-        "falsity": 0.538,
-        "unknown": 0.302,
-        "conflict": 0.102
-      }
-    },
-    "coat_type": {
-      "t": 0.24,
-      "f": 0.56,
-      "state": "false",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.106,
-        "falsity": 0.426,
-        "unknown": 0.334,
-        "conflict": 0.134
-      }
-    },
-    "dander_level": {
-      "t": 0.21,
-      "f": 0.49,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.107,
-        "falsity": 0.387,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "grooming": {
-      "t": 0.24,
-      "f": 0.56,
-      "state": "false",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.106,
-        "falsity": 0.426,
-        "unknown": 0.334,
-        "conflict": 0.134
-      }
-    },
-    "health_robustness": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "genetic_risk": {
-      "t": 0.21,
-      "f": 0.49,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.107,
-        "falsity": 0.387,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "apartment_ok": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
-    },
-    "barking": {
-      "t": 0.21,
-      "f": 0.49,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.107,
-        "falsity": 0.387,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "energy": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
-      }
-    },
-    "reactivity": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
-    "noise_tolerance": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
-    },
-    "exercise_need": {
-      "t": 0.72,
-      "f": 0.08,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.662,
-        "falsity": 0.022,
-        "unknown": 0.258,
-        "conflict": 0.058
-      }
-    },
-    "alone_tolerance": {
-      "t": 0.21,
-      "f": 0.49,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.107,
-        "falsity": 0.387,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "separation_anxiety_risk": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "sitter_compatibility": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
-    },
-    "adaptability": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
-    },
-    "child_friendly": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
-    "pet_friendly": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
-    },
-    "stranger_friendly": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
-    "territoriality": {
-      "t": 0.18,
-      "f": 0.42,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.104,
-        "falsity": 0.344,
-        "unknown": 0.476,
-        "conflict": 0.076
-      }
-    },
-    "protectiveness": {
-      "t": 0.18,
-      "f": 0.42,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.104,
-        "falsity": 0.344,
-        "unknown": 0.476,
-        "conflict": 0.076
-      }
-    },
-    "stress_sensitivity": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "affection_level": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
-    "independence": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "playfulness": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
-    },
-    "trainability": {
-      "t": 0.35,
+      "t": 0.15,
       "f": 0.35,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "iDog Breed Database (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
+      }
+    },
+    "coat_type": {
+      "t": 0.27,
+      "f": 0.63,
+      "state": "false",
+      "sources": [
+        "UKC Breed Standard"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.1,
+        "falsity": 0.46,
+        "unknown": 0.27,
+        "conflict": 0.17
+      }
+    },
+    "dander_level": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "grooming": {
+      "t": 0.15,
+      "f": 0.35,
+      "state": "unknown",
+      "sources": [
+        "iDog Breed Database (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
+      }
+    },
+    "health_robustness": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "genetic_risk": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "apartment_ok": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "barking": {
+      "t": 0.15,
+      "f": 0.35,
+      "state": "unknown",
+      "sources": [
+        "iDog Breed Database (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
+      }
+    },
+    "energy": {
+      "t": 0.45,
+      "f": 0.05,
+      "state": "unknown",
+      "sources": [
+        "iDog Breed Database (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.427,
+        "falsity": 0.027,
+        "unknown": 0.522,
+        "conflict": 0.022
+      }
+    },
+    "reactivity": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "noise_tolerance": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "exercise_need": {
+      "t": 0.45,
+      "f": 0.05,
+      "state": "unknown",
+      "sources": [
+        "iDog Breed Database (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.427,
+        "falsity": 0.027,
+        "unknown": 0.522,
+        "conflict": 0.022
+      }
+    },
+    "alone_tolerance": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "separation_anxiety_risk": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "sitter_compatibility": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "adaptability": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "child_friendly": {
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
+      "sources": [
+        "iDog Breed Database (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
+      }
+    },
+    "pet_friendly": {
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
+      "sources": [
+        "iDog Breed Database (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
+      }
+    },
+    "stranger_friendly": {
+      "t": 0.27,
+      "f": 0.63,
+      "state": "false",
+      "sources": [
+        "UKC Breed Standard (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.1,
+        "falsity": 0.46,
+        "unknown": 0.27,
+        "conflict": 0.17
+      }
+    },
+    "territoriality": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "protectiveness": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "stress_sensitivity": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "affection_level": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "independence": {
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
+      "sources": [
+        "UKC Breed Standard (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
+      }
+    },
+    "playfulness": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "trainability": {
+      "t": 0.15,
+      "f": 0.35,
+      "state": "unknown",
+      "sources": [
+        "iDog Breed Database (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
       }
     },
     "working_drive": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "behavior_management_need": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
+      "note": "all values null"
     },
     "mental_stimulation": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "prey_drive": {
-      "t": 0.72,
-      "f": 0.08,
-      "state": "true",
+      "t": 0.45,
+      "f": 0.05,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "iDog Breed Database (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.662,
-        "falsity": 0.022,
-        "unknown": 0.258,
-        "conflict": 0.058
+        "truth": 0.427,
+        "falsity": 0.027,
+        "unknown": 0.522,
+        "conflict": 0.022
       }
     },
     "hunting_instinct": {
-      "t": 0.72,
-      "f": 0.08,
+      "t": 0.81,
+      "f": 0.09,
       "state": "true",
       "sources": [
-        "unknown"
+        "UKC Breed Standard (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.662,
-        "falsity": 0.022,
-        "unknown": 0.258,
-        "conflict": 0.058
+        "truth": 0.737,
+        "falsity": 0.017,
+        "unknown": 0.173,
+        "conflict": 0.073
       }
     }
   },
@@ -473,50 +365,50 @@
       "values": {
         "size_toy": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_small": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_medium": {
-          "t": 0.8,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
-          "votes_for": 3,
+          "votes_for": 1,
           "votes_against": 0
         },
         "size_large": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
-          "votes_for": 0,
-          "votes_against": 3
+          "t": 0.5,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 1,
+          "votes_against": 0
         },
         "size_giant": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_small_or_less": {
           "t": 0.0,
-          "f": 0.64,
-          "state": "false",
+          "f": 0.25,
+          "state": "unknown",
           "derived_from": [
             "size_toy",
             "size_small"
           ]
         },
         "size_medium_or_less": {
-          "t": 0.8,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -526,9 +418,9 @@
           ]
         },
         "size_large_or_more": {
-          "t": 0.0,
-          "f": 0.64,
-          "state": "false",
+          "t": 0.5,
+          "f": 0.0,
+          "state": "true",
           "derived_from": [
             "size_large",
             "size_giant"
@@ -541,43 +433,43 @@
       "values": {
         "height_tiny": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_small": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_medium": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_large": {
-          "t": 0.8,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
-          "votes_for": 3,
+          "votes_for": 1,
           "votes_against": 0
         },
         "height_giant": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
-          "votes_for": 0,
-          "votes_against": 3
+          "t": 0.5,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 1,
+          "votes_against": 0
         },
         "height_small_or_less": {
           "t": 0.0,
-          "f": 0.64,
-          "state": "false",
+          "f": 0.25,
+          "state": "unknown",
           "derived_from": [
             "height_tiny",
             "height_small"
@@ -585,8 +477,8 @@
         },
         "height_medium_or_less": {
           "t": 0.0,
-          "f": 0.512,
-          "state": "false",
+          "f": 0.125,
+          "state": "unknown",
           "derived_from": [
             "height_tiny",
             "height_small",
@@ -594,7 +486,7 @@
           ]
         },
         "height_large_or_more": {
-          "t": 0.8,
+          "t": 0.75,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -609,34 +501,34 @@
       "values": {
         "lifespan_short": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "lifespan_medium": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
-          "votes_for": 0,
-          "votes_against": 3
-        },
-        "lifespan_long": {
-          "t": 0.8,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
-          "votes_for": 3,
+          "votes_for": 1,
+          "votes_against": 0
+        },
+        "lifespan_long": {
+          "t": 0.5,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 1,
           "votes_against": 0
         },
         "lifespan_very_long": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
-          "votes_for": 0,
-          "votes_against": 3
+          "t": 0.5,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 1,
+          "votes_against": 0
         },
         "lifespan_medium_or_more": {
-          "t": 0.8,
+          "t": 0.875,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -646,7 +538,7 @@
           ]
         },
         "lifespan_long_or_more": {
-          "t": 0.8,
+          "t": 0.75,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -660,56 +552,35 @@
   "parameters_raw": {
     "weight_kg": [
       {
-        "value": 22.5,
-        "confidence": 0.9,
-        "source": "Purina UK"
-      },
-      {
-        "value": 20.5,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 22.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          18.1,
+          29.5
+        ],
+        "confidence": 0.5,
+        "source": "iDog Breed Database"
       }
     ],
     "height_cm": [
       {
-        "value": 64.5,
-        "confidence": 0.9,
-        "source": "Purina UK"
-      },
-      {
-        "value": 64.5,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 64.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          58.4,
+          71.1
+        ],
+        "confidence": 0.5,
+        "source": "iDog Breed Database"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13,
-        "confidence": 0.9,
-        "source": "Purina UK"
-      },
-      {
-        "value": 12.5,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 13.3,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          10,
+          17
+        ],
+        "confidence": 0.5,
+        "source": "iDog Breed Database"
       }
     ]
   },
-  "notes": "Salukis are ancient sighthounds known for their speed and endurance. They have a strong prey drive and require regular, vigorous exercise. Their independent nature can make training challenging, and they may be reserved with strangers. Regular grooming is needed, especially for feathered varieties. They are generally healthy but can be sensitive to anesthesia due to low body fat.",
+  "notes": "Several features lack explicit information in the provided sources, resulting in null values. Mappings from textual descriptions to numerical values are noted where applicable.",
   "sources": []
 }

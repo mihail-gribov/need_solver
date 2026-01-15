@@ -1,183 +1,255 @@
 {
   "breed_id": "american-pit-bull-terrier",
   "features": {
-    "shedding": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "coat_type": {
-      "value": 0.0,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "grooming": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "barking": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.6
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "protectiveness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "affection_level": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "working_drive": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "prey_drive": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.6,
-      "confidence": 0.6
-    }
+    "shedding": [
+      {
+        "value": 0.3,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.1,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.1,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.7,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.5,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "barking": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.7,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.5,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.7,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.7,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.7,
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 22.5,
-        "confidence": 0.9,
-        "source": "UKC"
-      },
-      {
-        "value": 25,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 27,
-        "confidence": 0.7,
-        "source": "PetMD"
+        "value": [
+          15.8,
+          27.0
+        ],
+        "confidence": 0.3,
+        "source": "Wikipedia"
       }
     ],
     "height_cm": [
       {
-        "value": 48,
-        "confidence": 0.9,
-        "source": "UKC"
-      },
-      {
-        "value": 47,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 46,
-        "confidence": 0.7,
-        "source": "PetMD"
+        "value": [
+          45,
+          53
+        ],
+        "confidence": 0.3,
+        "source": "Wikipedia"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13,
-        "confidence": 0.9,
-        "source": "UKC"
-      },
-      {
-        "value": 12,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 14,
-        "confidence": 0.7,
-        "source": "PetMD"
+        "value": [
+          12,
+          14
+        ],
+        "confidence": 0.3,
+        "source": "Wikipedia"
       }
     ]
   },
-  "notes": "Data compiled from multiple reputable sources, including breed standards and veterinary guidelines."
+  "notes": "Many features lack explicit data from the provided sources, resulting in null values. Mapped textual descriptions from Wikipedia have been used where applicable, with confidence adjusted accordingly."
 }

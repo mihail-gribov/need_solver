@@ -1,183 +1,255 @@
 {
   "breed_id": "shar-pei",
   "features": {
-    "shedding": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "coat_type": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "dander_level": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "grooming": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "health_robustness": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "genetic_risk": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "apartment_ok": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "barking": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "reactivity": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "alone_tolerance": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "separation_anxiety_risk": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "sitter_compatibility": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "adaptability": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "child_friendly": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "pet_friendly": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "stranger_friendly": {
-      "value": 0.3,
-      "confidence": 0.6
-    },
-    "territoriality": {
-      "value": 0.7,
-      "confidence": 0.6
-    },
-    "protectiveness": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "affection_level": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "independence": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "trainability": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "working_drive": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "mental_stimulation": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "prey_drive": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "hunting_instinct": {
-      "value": 0.5,
-      "confidence": 0.6
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.3,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.3,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "barking": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.5,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "The Kennel Club (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "trainability": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit information found"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 22.5,
-        "confidence": 0.9,
-        "source": "Canadian Kennel Club"
-      },
-      {
-        "value": 22.5,
-        "confidence": 0.8,
-        "source": "Vetstreet"
-      },
-      {
-        "value": 22.5,
-        "confidence": 0.7,
-        "source": "Adoptapet"
+        "value": [
+          null,
+          null
+        ],
+        "confidence": null,
+        "source": "No explicit information found"
       }
     ],
     "height_cm": [
       {
-        "value": 48,
-        "confidence": 0.9,
-        "source": "Canadian Kennel Club"
-      },
-      {
-        "value": 48,
-        "confidence": 0.8,
-        "source": "Vetstreet"
-      },
-      {
-        "value": 48,
-        "confidence": 0.7,
-        "source": "Adoptapet"
+        "value": [
+          null,
+          null
+        ],
+        "confidence": null,
+        "source": "No explicit information found"
       }
     ],
     "lifespan_years": [
       {
-        "value": 10,
+        "value": [
+          10,
+          null
+        ],
         "confidence": 0.9,
-        "source": "Canadian Kennel Club"
-      },
-      {
-        "value": 10,
-        "confidence": 0.8,
-        "source": "Vetstreet"
-      },
-      {
-        "value": 10,
-        "confidence": 0.7,
-        "source": "Adoptapet"
+        "source": "The Kennel Club"
       }
     ]
   },
-  "notes": "The Chinese Shar-Pei is a medium-sized breed known for its distinctive wrinkled skin and blue-black tongue. They are loyal and protective, making them excellent guard dogs. However, their independent and sometimes stubborn nature requires consistent, positive reinforcement training. Regular grooming, especially cleaning of skin folds, is essential to prevent infections. They are generally good with older children but may be reserved around strangers and other pets. Early socialization is recommended to ensure well-rounded behavior."
+  "notes": "Several features lack explicit information in the provided sources, resulting in null values. Mappings from textual descriptions to numerical values are explicitly noted. The lifespan is noted as 'over 10 years' without an upper limit."
 }

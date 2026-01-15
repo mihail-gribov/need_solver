@@ -6,7 +6,7 @@
       "f": 0.81,
       "state": "false",
       "sources": [
-        "unknown"
+        "AKC: 'This breed does not shed.'"
       ],
       "n_sources": 1,
       "components": {
@@ -21,7 +21,7 @@
       "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC: 'The Miniature Schnauzer has a hard double coat.'"
       ],
       "n_sources": 1,
       "components": {
@@ -32,93 +32,93 @@
       }
     },
     "dander_level": {
-      "t": 0.16,
-      "f": 0.64,
+      "t": 0.27,
+      "f": 0.63,
       "state": "false",
       "sources": [
-        "unknown"
+        "AKC: 'These breeds may be just what the doctor ordered for people with allergies.'"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.058,
-        "falsity": 0.538,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.1,
+        "falsity": 0.46,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "grooming": {
-      "t": 0.72,
-      "f": 0.18,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC: 'To keep Miniature Schnauzers looking their best, incorporate weekly brushing and regular grooming into their schedule.'"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.59,
-        "falsity": 0.05,
-        "unknown": 0.23,
-        "conflict": 0.13
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "health_robustness": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "AMSC: 'We expect the Miniature Schnauzer to be a happy, healthy dog, energetic, with a great appetite for life and for dinner!'"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
       }
     },
     "genetic_risk": {
-      "t": 0.24,
-      "f": 0.56,
-      "state": "false",
+      "t": 0.35,
+      "f": 0.35,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "AMSC: 'Good breeders work to avoid potential health issues by using health histories, health screening, or even genetic testing.'"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.106,
-        "falsity": 0.426,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.227,
+        "falsity": 0.227,
+        "unknown": 0.423,
+        "conflict": 0.122
       }
     },
     "apartment_ok": {
-      "t": 0.81,
-      "f": 0.09,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC: 'Their adaptability makes them at home in the city or the country, as long as their people are close by.'"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.737,
-        "falsity": 0.017,
-        "unknown": 0.173,
-        "conflict": 0.073
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "barking": {
-      "t": 0.72,
-      "f": 0.18,
-      "state": "true",
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "AMSC: 'Their alertness and sometimes vocal nature makes them an excellent watch/alert dog.'"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.59,
-        "falsity": 0.05,
-        "unknown": 0.23,
-        "conflict": 0.13
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
       }
     },
     "energy": {
@@ -126,7 +126,7 @@
       "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC: 'The Miniature Schnauzer is a robust, active dog of terrier type.'"
       ],
       "n_sources": 1,
       "components": {
@@ -137,161 +137,11 @@
       }
     },
     "reactivity": {
-      "t": 0.48,
-      "f": 0.32,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.326,
-        "falsity": 0.166,
-        "unknown": 0.354,
-        "conflict": 0.154
-      }
-    },
-    "noise_tolerance": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
-    },
-    "exercise_need": {
-      "t": 0.54,
-      "f": 0.36,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.346,
-        "falsity": 0.166,
-        "unknown": 0.294,
-        "conflict": 0.194
-      }
-    },
-    "alone_tolerance": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
-    "separation_anxiety_risk": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
-    "sitter_compatibility": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
-      }
-    },
-    "adaptability": {
-      "t": 0.72,
-      "f": 0.18,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.59,
-        "falsity": 0.05,
-        "unknown": 0.23,
-        "conflict": 0.13
-      }
-    },
-    "child_friendly": {
-      "t": 0.81,
-      "f": 0.09,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.737,
-        "falsity": 0.017,
-        "unknown": 0.173,
-        "conflict": 0.073
-      }
-    },
-    "pet_friendly": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
-      }
-    },
-    "stranger_friendly": {
-      "t": 0.48,
-      "f": 0.32,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.326,
-        "falsity": 0.166,
-        "unknown": 0.354,
-        "conflict": 0.154
-      }
-    },
-    "territoriality": {
       "t": 0.63,
       "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC: 'The typical Miniature Schnauzer is alert and spirited.'"
       ],
       "n_sources": 1,
       "components": {
@@ -301,12 +151,144 @@
         "conflict": 0.17
       }
     },
+    "noise_tolerance": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found."
+      ],
+      "note": "all values null"
+    },
+    "exercise_need": {
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
+      "sources": [
+        "AKC: 'They are athletic dogs that need daily exercise.'"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
+      }
+    },
+    "alone_tolerance": {
+      "t": 0.21,
+      "f": 0.49,
+      "state": "unknown",
+      "sources": [
+        "AMSC: 'They need to live as a part of their family, going where they go, doing what they do.'"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.107,
+        "falsity": 0.387,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "separation_anxiety_risk": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "sources": [
+        "AMSC: 'They need to live as a part of their family, going where they go, doing what they do.'"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "sitter_compatibility": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found."
+      ],
+      "note": "all values null"
+    },
+    "adaptability": {
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
+      "sources": [
+        "AKC: 'Their adaptability makes them at home in the city or the country, as long as their people are close by.'"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
+      }
+    },
+    "child_friendly": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "sources": [
+        "AMSC: 'Miniature Schnauzers are generally good with children if raised with them from a young age.'"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "pet_friendly": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found."
+      ],
+      "note": "all values null"
+    },
+    "stranger_friendly": {
+      "t": 0.45,
+      "f": 0.45,
+      "state": "unknown",
+      "sources": [
+        "AKC: 'He is friendly, intelligent and willing to please.'"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.248,
+        "falsity": 0.248,
+        "unknown": 0.303,
+        "conflict": 0.203
+      }
+    },
+    "territoriality": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "sources": [
+        "AMSC: 'Their alertness and sometimes vocal nature makes them an excellent watch/alert dog.'"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
     "protectiveness": {
       "t": 0.63,
       "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC: 'The Miniature Schnauzer has a natural protective nature that makes it a great watchdog.'"
       ],
       "n_sources": 1,
       "components": {
@@ -317,11 +299,95 @@
       }
     },
     "stress_sensitivity": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found."
+      ],
+      "note": "all values null"
+    },
+    "affection_level": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "sources": [
+        "AMSC: 'They are obedient and quick to learn, extremely devoted, very playful and very affectionate.'"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "independence": {
+      "t": 0.21,
+      "f": 0.49,
+      "state": "unknown",
+      "sources": [
+        "AMSC: 'They need to live as a part of their family, going where they go, doing what they do.'"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.107,
+        "falsity": 0.387,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "playfulness": {
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
+      "sources": [
+        "AMSC: 'They are obedient and quick to learn, extremely devoted, very playful and very affectionate.'"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
+      }
+    },
+    "trainability": {
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
+      "sources": [
+        "AKC: 'The Miniature Schnauzer is a smart, trainable, and cheerful little dog.'"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
+      }
+    },
+    "working_drive": {
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
+      "sources": [
+        "AKC: 'They are an inquisitive and competitive breed that can be quite athletic.'"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
+      }
+    },
+    "behavior_management_need": {
       "t": 0.35,
       "f": 0.35,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "AMSC: 'They delight in chasing (and sometimes catching) small prey; therefore a fenced yard or on-leash walks are recommended.'"
       ],
       "n_sources": 1,
       "components": {
@@ -331,139 +397,49 @@
         "conflict": 0.122
       }
     },
-    "affection_level": {
-      "t": 0.81,
-      "f": 0.09,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.737,
-        "falsity": 0.017,
-        "unknown": 0.173,
-        "conflict": 0.073
-      }
-    },
-    "independence": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
-    "playfulness": {
-      "t": 0.72,
-      "f": 0.18,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.59,
-        "falsity": 0.05,
-        "unknown": 0.23,
-        "conflict": 0.13
-      }
-    },
-    "trainability": {
-      "t": 0.81,
-      "f": 0.09,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.737,
-        "falsity": 0.017,
-        "unknown": 0.173,
-        "conflict": 0.073
-      }
-    },
-    "working_drive": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
-      }
-    },
-    "behavior_management_need": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
     "mental_stimulation": {
-      "t": 0.72,
-      "f": 0.18,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC: 'Behind those dark, deep-set eyes is a highly intelligent dog who craves novelty.'"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.59,
-        "falsity": 0.05,
-        "unknown": 0.23,
-        "conflict": 0.13
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "prey_drive": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0.49,
+      "f": 0.21,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "AMSC: 'They delight in chasing (and sometimes catching) small prey; therefore a fenced yard or on-leash walks are recommended.'"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.387,
+        "falsity": 0.107,
+        "unknown": 0.403,
+        "conflict": 0.103
       }
     },
     "hunting_instinct": {
-      "t": 0.48,
-      "f": 0.32,
-      "state": "unknown",
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
       "sources": [
-        "unknown"
+        "AKC: 'True to their Terrier nature, Mini Schnauzers participate in Earthdog trials.'"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.326,
-        "falsity": 0.166,
-        "unknown": 0.354,
-        "conflict": 0.154
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     }
   },
@@ -473,41 +449,41 @@
       "values": {
         "size_toy": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_small": {
-          "t": 0.8,
+          "t": 0.7,
           "f": 0.0,
           "state": "true",
-          "votes_for": 3,
+          "votes_for": 1,
           "votes_against": 0
         },
         "size_medium": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_large": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_giant": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_small_or_less": {
-          "t": 0.8,
+          "t": 0.7,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -516,7 +492,7 @@
           ]
         },
         "size_medium_or_less": {
-          "t": 0.8,
+          "t": 0.7,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -527,8 +503,8 @@
         },
         "size_large_or_more": {
           "t": 0.0,
-          "f": 0.64,
-          "state": "false",
+          "f": 0.49,
+          "state": "unknown",
           "derived_from": [
             "size_large",
             "size_giant"
@@ -541,41 +517,41 @@
       "values": {
         "height_tiny": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_small": {
-          "t": 0.8,
+          "t": 0.9,
           "f": 0.0,
           "state": "true",
-          "votes_for": 3,
+          "votes_for": 1,
           "votes_against": 0
         },
         "height_medium": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_large": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_giant": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_small_or_less": {
-          "t": 0.8,
+          "t": 0.9,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -584,7 +560,7 @@
           ]
         },
         "height_medium_or_less": {
-          "t": 0.8,
+          "t": 0.9,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -595,7 +571,7 @@
         },
         "height_large_or_more": {
           "t": 0.0,
-          "f": 0.64,
+          "f": 0.81,
           "state": "false",
           "derived_from": [
             "height_large",
@@ -608,37 +584,37 @@
       "source_param": "lifespan_years",
       "values": {
         "lifespan_short": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 0
         },
         "lifespan_medium": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 0
         },
         "lifespan_long": {
-          "t": 0.8,
-          "f": 0.0,
-          "state": "true",
-          "votes_for": 3,
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
+          "votes_for": 0,
           "votes_against": 0
         },
         "lifespan_very_long": {
-          "t": 0.0,
-          "f": 0.8,
-          "state": "false",
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 0
         },
         "lifespan_medium_or_more": {
-          "t": 0.8,
+          "t": 0.0,
           "f": 0.0,
-          "state": "true",
+          "state": "unknown",
           "derived_from": [
             "lifespan_medium",
             "lifespan_long",
@@ -646,9 +622,9 @@
           ]
         },
         "lifespan_long_or_more": {
-          "t": 0.8,
+          "t": 0.0,
           "f": 0.0,
-          "state": "true",
+          "state": "unknown",
           "derived_from": [
             "lifespan_long",
             "lifespan_very_long"
@@ -660,56 +636,35 @@
   "parameters_raw": {
     "weight_kg": [
       {
-        "value": 6.8,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 6.4,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 6.5,
+        "value": [
+          5,
+          9
+        ],
         "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "AMSC: 'A dog measuring 12\" to 14\" will usually weigh 11 to 20 lbs.'"
       }
     ],
     "height_cm": [
       {
-        "value": 33,
+        "value": [
+          30,
+          36
+        ],
         "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 32.5,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 32,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "AKC: 'Both males and females can stand anywhere from 12 to 14 inches at the withers.'"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13,
-        "confidence": 0.9,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.8,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 13,
-        "confidence": 0.7,
-        "source": "Petolog"
+        "value": [
+          null,
+          null
+        ],
+        "confidence": 0.0,
+        "source": "No explicit information found."
       }
     ]
   },
-  "notes": "The Miniature Schnauzer is a small, robust, and energetic breed known for its intelligence and affectionate nature. They have a low-shedding, wiry coat that requires regular grooming. While generally healthy, they can be prone to certain hereditary conditions. Their adaptable nature makes them suitable for apartment living, but they do require regular exercise and mental stimulation. They are known to be good with children and can coexist with other pets if properly socialized. Their strong territorial instincts make them excellent watchdogs, though they may be initially aloof with strangers.",
+  "notes": "Some features lack explicit information in the provided sources, resulting in null values. For instance, 'noise_tolerance,' 'sitter_compatibility,' 'stress_sensitivity,' 'pet_friendly,' and 'lifespan_years' do not have direct data available. Additionally, while 'health_robustness' and 'genetic_risk' have associated information, the confidence is moderate due to the general nature of the statements.",
   "sources": []
 }

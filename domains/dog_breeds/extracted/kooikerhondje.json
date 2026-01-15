@@ -1,183 +1,265 @@
 {
   "breed_id": "kooikerhondje",
   "features": {
-    "shedding": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "dander_level": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "grooming": {
-      "value": 0.4,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "barking": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.6
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "pet_friendly": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "protectiveness": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "playfulness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "working_drive": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "behavior_management_need": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "mental_stimulation": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "prey_drive": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "hunting_instinct": {
-      "value": 0.7,
-      "confidence": 0.8
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      },
+      {
+        "value": 0.5,
+        "confidence": 0.3,
+        "source": "DogMatchUp (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.5,
+        "confidence": 0.9,
+        "source": "UKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.4,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      },
+      {
+        "value": 0.4,
+        "confidence": 0.3,
+        "source": "DogMatchUp (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.5,
+        "confidence": 0.3,
+        "source": "DogMatchUp (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.5,
+        "confidence": 0.3,
+        "source": "DogMatchUp (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 11.3,
+        "value": [
+          9.1,
+          13.6
+        ],
         "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 11.3,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 11.3,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "AKC Breed Standard"
       }
     ],
     "height_cm": [
       {
-        "value": 40.6,
+        "value": [
+          38.1,
+          40.6
+        ],
         "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 40.6,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 40.6,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "AKC Breed Standard"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.8,
+        "value": [
+          12,
+          15
+        ],
+        "confidence": 0.5,
         "source": "PetMD"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
       }
     ]
   },
-  "notes": "The Nederlandse Kooikerhondje is a lively and intelligent breed with moderate grooming needs and a strong prey drive. They are generally healthy but can be prone to certain hereditary conditions. Early socialization and training are recommended to manage their sensitivity and reactivity."
+  "notes": "Some features lack explicit data and are marked as null. Mapped values are based on textual descriptions from sources, with confidence reflecting source reliability."
 }

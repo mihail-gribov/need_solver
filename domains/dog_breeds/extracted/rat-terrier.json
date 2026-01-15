@@ -1,183 +1,260 @@
 {
   "breed_id": "rat-terrier",
   "features": {
-    "shedding": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.2,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.2,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.8
-    },
-    "apartment_ok": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "barking": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "reactivity": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "child_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "working_drive": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "hunting_instinct": {
-      "value": 0.9,
-      "confidence": 0.9
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Animal Answers (textual description mapped)"
+      },
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Animal Answers (textual description mapped)"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Vetstreet (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Vetstreet (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Vetstreet (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Vetstreet (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Vetstreet (textual description mapped)"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Vetstreet (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Vetstreet (textual description mapped)"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Vetstreet (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Vetstreet (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Vetstreet (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Vetstreet (textual description mapped)"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Vetstreet (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Vetstreet (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Petful (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 7.94,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 8.16,
-        "confidence": 0.8,
+        "value": [
+          4.5,
+          11.3
+        ],
+        "confidence": 0.5,
         "source": "Purina"
-      },
-      {
-        "value": 7.71,
-        "confidence": 0.7,
-        "source": "Wikipedia"
       }
     ],
     "height_cm": [
       {
-        "value": 35.56,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 35.56,
-        "confidence": 0.8,
+        "value": [
+          25,
+          46
+        ],
+        "confidence": 0.5,
         "source": "Purina"
-      },
-      {
-        "value": 35.56,
-        "confidence": 0.7,
-        "source": "Wikipedia"
       }
     ],
     "lifespan_years": [
       {
-        "value": 16.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 15,
-        "confidence": 0.8,
+        "value": [
+          12,
+          18
+        ],
+        "confidence": 0.5,
         "source": "Purina"
-      },
-      {
-        "value": 16.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
       }
     ]
   },
-  "notes": "Rat Terriers are energetic and intelligent dogs with a strong prey drive. They require regular exercise and mental stimulation to prevent boredom and destructive behaviors. Their short coat is low-maintenance, but they do shed seasonally. Early socialization is important to ensure they get along well with children and other pets."
+  "notes": "Some features have been mapped from textual descriptions to numerical values, as indicated in the source field. Confidence levels are assigned based on the source reliability scale provided. No aggregation or averaging has been performed; each source entry remains independent."
 }

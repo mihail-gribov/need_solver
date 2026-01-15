@@ -1,183 +1,255 @@
 {
   "breed_id": "skye-terrier",
   "features": {
-    "shedding": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "coat_type": {
-      "value": 1.0,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "grooming": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "barking": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "reactivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "sitter_compatibility": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "adaptability": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "child_friendly": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "pet_friendly": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "stranger_friendly": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "territoriality": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "protectiveness": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "affection_level": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "independence": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "playfulness": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "trainability": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "working_drive": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "mental_stimulation": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "prey_drive": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.7,
-      "confidence": 0.7
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "Skye Terrier Club of America"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 16,
+        "value": [
+          8.2,
+          9.1
+        ],
         "confidence": 0.9,
-        "source": "UKC"
-      },
-      {
-        "value": 15,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 14,
-        "confidence": 0.7,
-        "source": "WebMD"
+        "source": "Skye Terrier Club of America"
       }
     ],
     "height_cm": [
       {
-        "value": 25,
+        "value": [
+          23,
+          25
+        ],
         "confidence": 0.9,
-        "source": "UKC"
-      },
-      {
-        "value": 24,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 23,
-        "confidence": 0.7,
-        "source": "WebMD"
+        "source": "Skye Terrier Club of America"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13,
-        "confidence": 0.9,
+        "value": [
+          12,
+          14
+        ],
+        "confidence": 0.5,
         "source": "PetMD"
-      },
-      {
-        "value": 13,
-        "confidence": 0.8,
-        "source": "WebMD"
-      },
-      {
-        "value": 13,
-        "confidence": 0.7,
-        "source": "Vetstreet"
       }
     ]
   },
-  "notes": "The Skye Terrier is a loyal and affectionate breed with a distinctive long, low body and a profuse double coat. Regular grooming is essential to maintain coat health and minimize shedding. They are generally healthy but can be prone to certain conditions like intervertebral disc disease and hip dysplasia. Early socialization and consistent training are important due to their independent nature. They adapt well to apartment living but require moderate daily exercise. Their reserved nature around strangers and strong prey drive necessitate careful introductions to new people and animals."
+  "notes": "Several features lack explicit data from the provided sources, resulting in null values. Mapped textual descriptions are noted accordingly."
 }

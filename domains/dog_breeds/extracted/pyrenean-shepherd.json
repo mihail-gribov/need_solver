@@ -1,183 +1,255 @@
 {
   "breed_id": "pyrenean-shepherd",
   "features": {
-    "shedding": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "coat_type": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "grooming": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.2,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "barking": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "reactivity": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "alone_tolerance": {
-      "value": 0.3,
-      "confidence": 0.6
-    },
-    "separation_anxiety_risk": {
-      "value": 0.7,
-      "confidence": 0.6
-    },
-    "sitter_compatibility": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "adaptability": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "child_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "pet_friendly": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "stranger_friendly": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "territoriality": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "protectiveness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "affection_level": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "trainability": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "working_drive": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "behavior_management_need": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "prey_drive": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "hunting_instinct": {
-      "value": 0.5,
-      "confidence": 0.6
-    }
+    "shedding": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "DogTime (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "DogTime (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "barking": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.9,
+        "confidence": 0.9,
+        "source": "AKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.9,
+        "confidence": 0.9,
+        "source": "AKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.3,
+        "confidence": 0.9,
+        "source": "AKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.9,
+        "confidence": 0.9,
+        "source": "AKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.9,
+        "confidence": 0.9,
+        "source": "AKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.9,
+        "confidence": 0.9,
+        "source": "AKC Breed Standard (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data available"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 11.34,
+        "value": [
+          6.8,
+          13.6
+        ],
         "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 11.34,
-        "confidence": 0.7,
-        "source": "BreedScout"
-      },
-      {
-        "value": 11.34,
-        "confidence": 0.6,
-        "source": "PetGuide"
+        "source": "AKC Breed Standard"
       }
     ],
     "height_cm": [
       {
-        "value": 45.72,
+        "value": [
+          39.4,
+          47.0
+        ],
         "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 45.72,
-        "confidence": 0.7,
-        "source": "BreedScout"
-      },
-      {
-        "value": 45.72,
-        "confidence": 0.6,
-        "source": "PetGuide"
+        "source": "AKC Breed Standard"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13.5,
-        "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.7,
-        "source": "BreedScout"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.6,
-        "source": "PetGuide"
+        "value": [
+          17,
+          19
+        ],
+        "confidence": 0.5,
+        "source": "WebMD"
       }
     ]
   },
-  "notes": "The Pyrenean Shepherd is a high-energy, intelligent breed requiring regular mental and physical stimulation. They are moderately affectionate and form strong bonds with their families. Due to their herding instincts, they may exhibit behaviors such as nipping or chasing, which require proper training and socialization. Their coats require regular grooming to prevent matting, and they are moderate shedders. They are generally healthy but can be prone to certain genetic conditions, so regular veterinary check-ups are recommended."
+  "notes": "Several features lack explicit data in the provided sources, resulting in null values. Mappings from textual descriptions to numerical values are noted where applicable."
 }

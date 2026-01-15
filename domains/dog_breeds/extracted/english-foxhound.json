@@ -1,183 +1,255 @@
 {
   "breed_id": "english-foxhound",
   "features": {
-    "shedding": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.2,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "grooming": {
-      "value": 0.2,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "barking": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "energy": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "reactivity": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "alone_tolerance": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "pet_friendly": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "stranger_friendly": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "territoriality": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "protectiveness": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "stress_sensitivity": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "affection_level": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "independence": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "working_drive": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "hunting_instinct": {
-      "value": 0.9,
-      "confidence": 0.9
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.2,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit data available"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.2,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.2,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "PetGuide (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit data available"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit data available"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.2,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit data available"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit data available"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit data available"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetGuide (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": "No explicit data available"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 27.5,
-        "confidence": 0.9,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 30,
-        "confidence": 0.8,
-        "source": "UKC"
-      },
-      {
-        "value": 31.75,
-        "confidence": 0.7,
-        "source": "PetGuide"
+        "value": [
+          25,
+          34
+        ],
+        "confidence": 0.5,
+        "source": "WebMD"
       }
     ],
     "height_cm": [
       {
-        "value": 60,
-        "confidence": 0.9,
-        "source": "UKC"
-      },
-      {
-        "value": 61,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 62,
-        "confidence": 0.7,
-        "source": "PetGuide"
+        "value": [
+          58,
+          64
+        ],
+        "confidence": 0.5,
+        "source": "WebMD"
       }
     ],
     "lifespan_years": [
       {
-        "value": 11,
-        "confidence": 0.9,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 11.5,
-        "confidence": 0.8,
-        "source": "PetGuide"
-      },
-      {
-        "value": 12,
-        "confidence": 0.7,
-        "source": "Basepaws"
+        "value": [
+          10,
+          13
+        ],
+        "confidence": 0.5,
+        "source": "WebMD"
       }
     ]
   },
-  "notes": "The English Foxhound is a high-energy breed with strong hunting instincts, requiring ample exercise and mental stimulation. They are sociable and friendly, making them good companions for active families. Their short, dense coat requires minimal grooming."
+  "notes": "Some features lack explicit data in the provided sources, resulting in null values. Mapped textual descriptions to numeric values where applicable, with source annotations."
 }

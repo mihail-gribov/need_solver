@@ -1,183 +1,255 @@
 {
   "breed_id": "nova-scotia-duck-tolling-retriever",
   "features": {
-    "shedding": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "dander_level": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "barking": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "reactivity": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "alone_tolerance": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "working_drive": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "prey_drive": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "hunting_instinct": {
-      "value": 0.9,
-      "confidence": 0.9
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.5,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.5,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.9,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.9,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.9,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.7,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.9,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.9,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.9,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.9,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.9,
+        "confidence": 0.6,
+        "source": "AKC (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 20.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 20.5,
-        "confidence": 0.8,
-        "source": "UKC"
-      },
-      {
-        "value": 20.5,
-        "confidence": 0.7,
-        "source": "PetMD"
+        "value": [
+          null,
+          null
+        ],
+        "confidence": 0.0,
+        "source": "No explicit information available"
       }
     ],
     "height_cm": [
       {
-        "value": 48.5,
+        "value": [
+          45.72,
+          53.34
+        ],
         "confidence": 0.9,
         "source": "AKC"
-      },
-      {
-        "value": 48.5,
-        "confidence": 0.8,
-        "source": "UKC"
-      },
-      {
-        "value": 48.5,
-        "confidence": 0.7,
-        "source": "PetMD"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13,
-        "confidence": 0.9,
-        "source": "PetMD"
-      },
-      {
-        "value": 13,
-        "confidence": 0.8,
-        "source": "WebMD"
-      },
-      {
-        "value": 13,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          null,
+          null
+        ],
+        "confidence": 0.0,
+        "source": "No explicit information available"
       }
     ]
   },
-  "notes": "The Nova Scotia Duck Tolling Retriever is a high-energy breed requiring significant physical and mental stimulation. They are generally healthy but have predispositions to certain genetic conditions. Their double coat necessitates regular grooming, especially during shedding seasons. Early socialization is important to manage their prey drive and ensure compatibility with children and other pets."
+  "notes": "Several features lack explicit information in the provided sources, resulting in null values. Mapped values are based on textual descriptions from the AKC, with confidence adjusted accordingly."
 }

@@ -1,183 +1,255 @@
 {
   "breed_id": "borzoi",
   "features": {
-    "shedding": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "grooming": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "barking": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "energy": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "separation_anxiety_risk": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "sitter_compatibility": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "adaptability": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "pet_friendly": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.3,
-      "confidence": 0.6
-    },
-    "protectiveness": {
-      "value": 0.3,
-      "confidence": 0.6
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "independence": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "trainability": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "working_drive": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "behavior_management_need": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "mental_stimulation": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "prey_drive": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "hunting_instinct": {
-      "value": 0.9,
-      "confidence": 0.9
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "Borzoi Club of America Breed Standard (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "Borzoi Club of America - Ownership and Care of the Borzoi (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.3,
+        "confidence": 0.7,
+        "source": "Borzoi Club of America - Ownership and Care of the Borzoi (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "VCA Animal Hospitals (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 34,
+        "value": [
+          34,
+          48
+        ],
         "confidence": 0.9,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 32,
-        "confidence": 0.8,
-        "source": "World Dog Finder"
-      },
-      {
-        "value": 30,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "Borzoi Club of America Breed Standard"
       }
     ],
     "height_cm": [
       {
-        "value": 76,
+        "value": [
+          66,
+          71
+        ],
         "confidence": 0.9,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 71,
-        "confidence": 0.8,
-        "source": "World Dog Finder"
-      },
-      {
-        "value": 74,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "Borzoi Club of America Breed Standard"
       }
     ],
     "lifespan_years": [
       {
-        "value": 11,
-        "confidence": 0.9,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 12,
-        "confidence": 0.8,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 10,
-        "confidence": 0.7,
-        "source": "World Dog Finder"
+        "value": [
+          9,
+          14
+        ],
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
       }
     ]
   },
-  "notes": "Data compiled from multiple reputable sources; slight variations exist due to differing breed standards and individual dog differences."
+  "notes": "Some features lack explicit data from high-confidence sources, leading to reliance on moderate-confidence sources with textual descriptions mapped to numerical values. Notably, 'dander_level' has no explicit information available."
 }

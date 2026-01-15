@@ -1,173 +1,263 @@
 {
   "breed_id": "shih-tzu",
   "features": {
-    "shedding": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 1.0,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 1.0,
-      "confidence": 0.9
-    },
-    "barking": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "reactivity": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "noise_tolerance": {
-      "value": 0.7,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "alone_tolerance": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "stranger_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.3,
-      "confidence": 0.6
-    },
-    "protectiveness": {
-      "value": 0.3,
-      "confidence": 0.6
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "affection_level": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "trainability": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "working_drive": {
-      "value": 0.2,
-      "confidence": 0.6
-    },
-    "behavior_management_need": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "mental_stimulation": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "prey_drive": {
-      "value": 0.2,
-      "confidence": 0.6
-    },
-    "hunting_instinct": {
-      "value": 0.2,
-      "confidence": 0.6
-    }
+    "shedding": [
+      {
+        "value": 0.2,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.8,
+        "confidence": 0.9,
+        "source": "AKC Breed Standard"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.9,
+        "confidence": 0.9,
+        "source": "AKC Breed Standard"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.4,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.4,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.4,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.4,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 5.5,
+        "value": [
+          4.5,
+          8.0
+        ],
         "confidence": 0.9,
-        "source": "AKC"
+        "source": "The Kennel Club Breed Standard"
       },
       {
-        "value": 6.0,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 5.0,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          4.0,
+          7.5
+        ],
+        "confidence": 0.9,
+        "source": "AKC Breed Standard"
       }
     ],
     "height_cm": [
       {
-        "value": 24.0,
+        "value": [
+          20.3,
+          26.7
+        ],
         "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 25.0,
-        "confidence": 0.8,
-        "source": "PetMD"
+        "source": "AKC Breed Standard"
       }
     ],
     "lifespan_years": [
       {
-        "value": 14.0,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 15.0,
-        "confidence": 0.8,
-        "source": "Purina"
+        "value": [
+          10,
+          18
+        ],
+        "confidence": 0.5,
+        "source": "PetMD"
       }
     ]
   },
-  "notes": "Shih Tzus are affectionate and adaptable companions, well-suited for apartment living. They require regular grooming due to their long coats and may be prone to certain health issues common in brachycephalic breeds."
+  "notes": "Some features have been mapped from textual descriptions to numerical values, as explicitly noted. Confidence levels are assigned based on the source reliability scale provided. Certain features lack explicit data and are marked as null with explanations."
 }

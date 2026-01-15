@@ -2,468 +2,390 @@
   "breed_id": "american-bully",
   "features": {
     "shedding": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
-    "coat_type": {
-      "t": 0.16,
-      "f": 0.64,
-      "state": "false",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.058,
-        "falsity": 0.538,
-        "unknown": 0.302,
-        "conflict": 0.102
-      }
-    },
-    "dander_level": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
-    },
-    "grooming": {
-      "t": 0.24,
-      "f": 0.56,
-      "state": "false",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.106,
-        "falsity": 0.426,
-        "unknown": 0.334,
-        "conflict": 0.134
-      }
-    },
-    "health_robustness": {
-      "t": 0.35,
+      "t": 0.15,
       "f": 0.35,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Lancaster Puppies (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
+      }
+    },
+    "coat_type": {
+      "t": 0.05,
+      "f": 0.45,
+      "state": "unknown",
+      "sources": [
+        "Lancaster Puppies (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.028,
+        "falsity": 0.427,
+        "unknown": 0.522,
+        "conflict": 0.023
+      }
+    },
+    "dander_level": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information available"
+      ],
+      "note": "all values null"
+    },
+    "grooming": {
+      "t": 0.05,
+      "f": 0.45,
+      "state": "unknown",
+      "sources": [
+        "Lancaster Puppies (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.028,
+        "falsity": 0.427,
+        "unknown": 0.522,
+        "conflict": 0.023
+      }
+    },
+    "health_robustness": {
+      "t": 0.27,
+      "f": 0.63,
+      "state": "false",
+      "sources": [
+        "Britannica (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.1,
+        "falsity": 0.46,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "genetic_risk": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
       "sources": [
-        "unknown"
+        "Britannica (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "apartment_ok": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "barking": {
-      "t": 0.18,
-      "f": 0.42,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.104,
-        "falsity": 0.344,
-        "unknown": 0.476,
-        "conflict": 0.076
-      }
+      "note": "all values null"
     },
     "energy": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
       "sources": [
-        "unknown"
+        "Britannica (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "reactivity": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
       "sources": [
-        "unknown"
+        "Britannica (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "noise_tolerance": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
+      "note": "all values null"
     },
     "exercise_need": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
       "sources": [
-        "unknown"
+        "Britannica (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "alone_tolerance": {
-      "t": 0.24,
-      "f": 0.36,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.154,
-        "falsity": 0.274,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
+      "note": "all values null"
     },
     "separation_anxiety_risk": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
+      "note": "all values null"
     },
     "sitter_compatibility": {
-      "t": 0.42,
-      "f": 0.18,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.344,
-        "falsity": 0.104,
-        "unknown": 0.476,
-        "conflict": 0.076
-      }
+      "note": "all values null"
     },
     "adaptability": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "child_friendly": {
-      "t": 0.49,
-      "f": 0.21,
+      "t": 0.45,
+      "f": 0.45,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Britannica (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
+        "truth": 0.248,
+        "falsity": 0.248,
+        "unknown": 0.303,
+        "conflict": 0.203
       }
     },
     "pet_friendly": {
-      "t": 0.3,
-      "f": 0.3,
+      "t": 0.45,
+      "f": 0.45,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Britannica (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
+        "truth": 0.248,
+        "falsity": 0.248,
+        "unknown": 0.303,
+        "conflict": 0.203
       }
     },
     "stranger_friendly": {
-      "t": 0.36,
-      "f": 0.24,
+      "t": 0.45,
+      "f": 0.45,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Britannica (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.274,
-        "falsity": 0.154,
-        "unknown": 0.486,
-        "conflict": 0.086
+        "truth": 0.248,
+        "falsity": 0.248,
+        "unknown": 0.303,
+        "conflict": 0.203
       }
     },
     "territoriality": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
+      "note": "all values null"
     },
     "protectiveness": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "stress_sensitivity": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
+      "note": "all values null"
     },
     "affection_level": {
-      "t": 0.56,
-      "f": 0.14,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "Britannica (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.482,
-        "falsity": 0.062,
-        "unknown": 0.378,
-        "conflict": 0.078
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "independence": {
-      "t": 0.24,
-      "f": 0.36,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.154,
-        "falsity": 0.274,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
+      "note": "all values null"
     },
     "playfulness": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
       "sources": [
-        "unknown"
+        "Britannica (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "trainability": {
-      "t": 0.49,
-      "f": 0.21,
+      "t": 0.45,
+      "f": 0.45,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Britannica (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
+        "truth": 0.248,
+        "falsity": 0.248,
+        "unknown": 0.303,
+        "conflict": 0.203
       }
     },
     "working_drive": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
+      "note": "all values null"
     },
     "behavior_management_need": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
       "sources": [
-        "unknown"
+        "Britannica (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "mental_stimulation": {
-      "t": 0.36,
-      "f": 0.24,
-      "state": "unknown",
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
       "sources": [
-        "unknown"
+        "Britannica (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.274,
-        "falsity": 0.154,
-        "unknown": 0.486,
-        "conflict": 0.086
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "prey_drive": {
-      "t": 0.24,
-      "f": 0.36,
-      "state": "unknown",
+      "t": 0.27,
+      "f": 0.63,
+      "state": "false",
       "sources": [
-        "unknown"
+        "Britannica (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.154,
-        "falsity": 0.274,
-        "unknown": 0.486,
-        "conflict": 0.086
+        "truth": 0.1,
+        "falsity": 0.46,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "hunting_instinct": {
-      "t": 0.18,
-      "f": 0.42,
-      "state": "unknown",
+      "t": 0.27,
+      "f": 0.63,
+      "state": "false",
       "sources": [
-        "unknown"
+        "Britannica (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.104,
-        "falsity": 0.344,
-        "unknown": 0.476,
-        "conflict": 0.076
+        "truth": 0.1,
+        "falsity": 0.46,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     }
   },
@@ -473,42 +395,42 @@
       "values": {
         "size_toy": {
           "t": 0.0,
-          "f": 0.6,
-          "state": "false",
+          "f": 0.3,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_small": {
           "t": 0.0,
-          "f": 0.6,
-          "state": "false",
+          "f": 0.3,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_medium": {
-          "t": 0.0,
-          "f": 0.6,
-          "state": "false",
-          "votes_for": 0,
-          "votes_against": 3
+          "t": 0.3,
+          "f": 0.0,
+          "state": "unknown",
+          "votes_for": 1,
+          "votes_against": 0
         },
         "size_large": {
-          "t": 0.367,
-          "f": 0.233,
+          "t": 0.0,
+          "f": 0.3,
           "state": "unknown",
-          "votes_for": 2,
+          "votes_for": 0,
           "votes_against": 1
         },
         "size_giant": {
-          "t": 0.233,
-          "f": 0.367,
+          "t": 0.0,
+          "f": 0.3,
           "state": "unknown",
-          "votes_for": 1,
-          "votes_against": 2
+          "votes_for": 0,
+          "votes_against": 1
         },
         "size_small_or_less": {
           "t": 0.0,
-          "f": 0.36,
+          "f": 0.09,
           "state": "unknown",
           "derived_from": [
             "size_toy",
@@ -516,8 +438,8 @@
           ]
         },
         "size_medium_or_less": {
-          "t": 0.0,
-          "f": 0.216,
+          "t": 0.3,
+          "f": 0.0,
           "state": "unknown",
           "derived_from": [
             "size_toy",
@@ -526,9 +448,9 @@
           ]
         },
         "size_large_or_more": {
-          "t": 0.514,
-          "f": 0.086,
-          "state": "true",
+          "t": 0.0,
+          "f": 0.09,
+          "state": "unknown",
           "derived_from": [
             "size_large",
             "size_giant"
@@ -541,42 +463,42 @@
       "values": {
         "height_tiny": {
           "t": 0.0,
-          "f": 0.6,
-          "state": "false",
+          "f": 0.3,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_small": {
           "t": 0.0,
-          "f": 0.6,
-          "state": "false",
+          "f": 0.3,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_medium": {
-          "t": 0.6,
+          "t": 0.3,
           "f": 0.0,
-          "state": "true",
-          "votes_for": 3,
+          "state": "unknown",
+          "votes_for": 1,
           "votes_against": 0
         },
         "height_large": {
-          "t": 0.0,
-          "f": 0.6,
-          "state": "false",
-          "votes_for": 0,
-          "votes_against": 3
+          "t": 0.3,
+          "f": 0.0,
+          "state": "unknown",
+          "votes_for": 1,
+          "votes_against": 0
         },
         "height_giant": {
           "t": 0.0,
-          "f": 0.6,
-          "state": "false",
+          "f": 0.3,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_small_or_less": {
           "t": 0.0,
-          "f": 0.36,
+          "f": 0.09,
           "state": "unknown",
           "derived_from": [
             "height_tiny",
@@ -584,9 +506,9 @@
           ]
         },
         "height_medium_or_less": {
-          "t": 0.6,
+          "t": 0.3,
           "f": 0.0,
-          "state": "true",
+          "state": "unknown",
           "derived_from": [
             "height_tiny",
             "height_small",
@@ -594,8 +516,8 @@
           ]
         },
         "height_large_or_more": {
-          "t": 0.0,
-          "f": 0.36,
+          "t": 0.3,
+          "f": 0.0,
           "state": "unknown",
           "derived_from": [
             "height_large",
@@ -608,37 +530,37 @@
       "source_param": "lifespan_years",
       "values": {
         "lifespan_short": {
-          "t": 0.0,
-          "f": 0.6,
-          "state": "false",
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 0
         },
         "lifespan_medium": {
-          "t": 0.4,
-          "f": 0.2,
+          "t": 0,
+          "f": 0,
           "state": "unknown",
-          "votes_for": 2,
-          "votes_against": 1
+          "votes_for": 0,
+          "votes_against": 0
         },
         "lifespan_long": {
-          "t": 0.2,
-          "f": 0.4,
+          "t": 0,
+          "f": 0,
           "state": "unknown",
-          "votes_for": 1,
-          "votes_against": 2
+          "votes_for": 0,
+          "votes_against": 0
         },
         "lifespan_very_long": {
-          "t": 0.0,
-          "f": 0.6,
-          "state": "false",
+          "t": 0,
+          "f": 0,
+          "state": "unknown",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 0
         },
         "lifespan_medium_or_more": {
-          "t": 0.52,
-          "f": 0.048,
-          "state": "true",
+          "t": 0.0,
+          "f": 0.0,
+          "state": "unknown",
           "derived_from": [
             "lifespan_medium",
             "lifespan_long",
@@ -646,8 +568,8 @@
           ]
         },
         "lifespan_long_or_more": {
-          "t": 0.2,
-          "f": 0.24,
+          "t": 0.0,
+          "f": 0.0,
           "state": "unknown",
           "derived_from": [
             "lifespan_long",
@@ -660,56 +582,32 @@
   "parameters_raw": {
     "weight_kg": [
       {
-        "value": 45,
-        "confidence": 0.7,
-        "source": "Animalia Pet Insurance"
-      },
-      {
-        "value": 40,
-        "confidence": 0.6,
-        "source": "DogFlux"
-      },
-      {
-        "value": 35,
-        "confidence": 0.5,
-        "source": "UKPets"
+        "value": [
+          22,
+          null
+        ],
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
       }
     ],
     "height_cm": [
       {
-        "value": 48,
-        "confidence": 0.7,
-        "source": "Animalia Pet Insurance"
-      },
-      {
-        "value": 45,
-        "confidence": 0.6,
-        "source": "DogFlux"
-      },
-      {
-        "value": 44,
-        "confidence": 0.5,
-        "source": "UKPets"
+        "value": [
+          43,
+          58
+        ],
+        "confidence": 0.3,
+        "source": "Wikipedia (textual description mapped)"
       }
     ],
     "lifespan_years": [
       {
-        "value": 11.5,
-        "confidence": 0.7,
-        "source": "Animalia Pet Insurance"
-      },
-      {
-        "value": 12,
-        "confidence": 0.6,
-        "source": "DogFlux"
-      },
-      {
-        "value": 11,
-        "confidence": 0.5,
-        "source": "UKPets"
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information available"
       }
     ]
   },
-  "notes": "Data varies across sources; values represent averages. Confidence levels reflect the reliability of each source.",
+  "notes": "Several features lack explicit information in the provided sources, resulting in null values. The weight parameter has an undefined upper limit due to incomplete data. Confidence levels are assigned based on the reliability of the sources, with official standards receiving higher confidence.",
   "sources": []
 }

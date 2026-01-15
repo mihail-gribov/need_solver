@@ -13,12 +13,23 @@ from pathlib import Path
 from openai import OpenAI
 
 from .matcher import BreedMatcher
-from .user_profile import UserProfile
+from ..models.user_profile import UserProfile
 
 
 # Blocks that represent hard constraints (facts about user's situation)
 # vs soft preferences (what user would like)
 CONSTRAINT_BLOCKS = {"size_constraints", "housing_environment"}
+
+# Paths (relative to this file)
+PROJECT_ROOT = Path(__file__).parent.parent.parent.parent
+DOMAIN_DIR = PROJECT_ROOT / "domains" / "dog_breeds"
+DATA_DIR = PROJECT_ROOT / "data"
+
+
+def load_config() -> dict:
+    """Load domain config."""
+    with open(DOMAIN_DIR / "config.json", encoding="utf-8") as f:
+        return json.load(f)
 
 
 @dataclass
@@ -28,6 +39,7 @@ class UserNeed:
     need_name: str
     user_wants: bool  # True = user wants this, False = user doesn't need this
     is_constraint: bool  # True = constraint (size, housing), False = preference
+    score_0_9: int = 0  # Normalized importance score (0-9)
 
 
 @dataclass
@@ -36,9 +48,10 @@ class BreedRecommendation:
     breed_id: str
     breed_name: str
     score: float
+    score_0_9: int = 0  # Normalized match score (0-9)
     # How breed matches EACH user need (same order as ExplanationData.user_needs)
-    # [{"need_name": str, "is_match": bool}, ...]
-    need_matches: list[dict]
+    # [{"need_name": str, "is_match": bool, "score_0_9": int, "components": {...}}, ...]
+    need_matches: list[dict] = None
 
 
 @dataclass
@@ -50,7 +63,21 @@ class ExplanationData:
     breeds: list[BreedRecommendation]
 
 
-DOMAIN_DIR = Path(__file__).parent
+def normalize_to_0_9(value: float, min_val: float, max_val: float) -> int:
+    """Normalize a value to 0-9 scale."""
+    if max_val == min_val:
+        return 5  # Neutral if no range
+    normalized = (value - min_val) / (max_val - min_val)
+    return max(0, min(9, int(normalized * 9 + 0.5)))
+
+
+def normalize_scores_0_9(scores: list[float]) -> list[int]:
+    """Normalize a list of scores to 0-9 scale."""
+    if not scores:
+        return []
+    min_val = min(scores)
+    max_val = max(scores)
+    return [normalize_to_0_9(s, min_val, max_val) for s in scores]
 
 
 def load_breed_names() -> dict[str, str]:
@@ -99,7 +126,7 @@ def load_profile(filepath: str | Path | None = None) -> UserProfile:
         UserProfile instance
     """
     if filepath is None:
-        filepath = DOMAIN_DIR / "data" / "interview_latest.json"
+        filepath = DATA_DIR / "interview_latest.json"
     else:
         filepath = Path(filepath)
 
@@ -117,7 +144,8 @@ def collect_explanation_data(
     matcher: BreedMatcher,
     top_k: int = 3,
     max_constraints: int = 3,
-    max_preferences: int = 4
+    max_preferences: int = 4,
+    min_need_score: int = 3
 ) -> ExplanationData:
     """
     Collect data for explanation from user profile and matcher results.
@@ -141,7 +169,7 @@ def collect_explanation_data(
     if not results:
         raise ValueError("No matching breeds found")
 
-    # Analyze user's answers: find clear needs (high certainty, low contradiction)
+    # Analyze ALL user's answers (for proper normalization)
     user_analysis = []
     for need_id, user_val in user_needs_raw.items():
         info = needs_info.get(need_id, {"name": need_id, "block": "unknown"})
@@ -161,10 +189,18 @@ def collect_explanation_data(
             "clarity": certainty * consistency
         })
 
-    # Filter to clear needs only (high certainty, low contradiction)
+    # Normalize clarity scores across ALL user needs (not just filtered)
+    all_clarities = [n["clarity"] for n in user_analysis]
+    all_scores_0_9 = normalize_scores_0_9(all_clarities)
+
+    # Add normalized scores to analysis
+    for i, n in enumerate(user_analysis):
+        n["score_0_9"] = all_scores_0_9[i] if i < len(all_scores_0_9) else 5
+
+    # Filter to clear needs only (high certainty, low contradiction, high score)
     clear_needs = [
         n for n in user_analysis
-        if n["consistency"] > 0.7 and n["certainty"] > 0.5
+        if n["consistency"] > 0.7 and n["certainty"] > 0.5 and n["score_0_9"] >= min_need_score
     ]
     clear_needs.sort(key=lambda x: x["clarity"], reverse=True)
 
@@ -175,25 +211,63 @@ def collect_explanation_data(
     # Combine into single list of needs to explain (constraints first, then preferences)
     needs_to_explain = clear_constraints + clear_preferences
 
-    # Create UserNeed objects
+    # Create UserNeed objects with normalized scores
     user_needs = [
         UserNeed(
             need_id=n["need_id"],
             need_name=n["need_name"],
             user_wants=n["user_wants"],
-            is_constraint=n["is_constraint"]
+            is_constraint=n["is_constraint"],
+            score_0_9=n["score_0_9"]
         )
         for n in needs_to_explain
     ]
 
-    # Build recommendation for each top breed
-    breeds = []
+    # Get ALL breed scores for proper normalization (not just top_k)
+    all_results = matcher.match_fast(user_needs_raw, top_k=None)
+    all_breed_scores = [score for _, score in all_results]
+
+    # Create mapping from breed_id to normalized score
+    all_breed_scores_0_9 = normalize_scores_0_9(all_breed_scores)
+    breed_score_map = {
+        breed_id: all_breed_scores_0_9[i]
+        for i, (breed_id, _) in enumerate(all_results)
+    }
+
+    # Collect all component values across ALL breeds for proper normalization
+    # component_id -> list of all values across all breeds
+    all_component_values: dict[str, list[float]] = {}
+
+    for breed_id in matcher.breed_contexts:
+        breed_context = matcher.breed_contexts[breed_id]
+        for comp_id, comp_val in breed_context.items():
+            score = comp_val.t - comp_val.f
+            if comp_id not in all_component_values:
+                all_component_values[comp_id] = []
+            all_component_values[comp_id].append(score)
+
+    # Pre-compute normalized scores for each component
+    component_score_maps: dict[str, dict[float, int]] = {}
+    for comp_id, values in all_component_values.items():
+        if not values:
+            continue
+        min_val = min(values)
+        max_val = max(values)
+        # Create mapping from raw score to 0-9
+        component_score_maps[comp_id] = {
+            v: normalize_to_0_9(v, min_val, max_val)
+            for v in set(values)
+        }
+
+    # First pass: collect ALL raw match scores across all breeds for normalization
+    all_raw_matches = []
+    breed_match_data = {}  # breed_id -> list of match data
+
     for breed_id, total_score in results:
         breed_row = matcher.eval_matrix[breed_id]
         breed_context = matcher.breed_contexts.get(breed_id, {})
 
-        # Evaluate breed against EACH need in user_needs (same order)
-        need_matches = []
+        need_match_data = []
         for need_data in needs_to_explain:
             need_id = need_data["need_id"]
             info = needs_info.get(need_id, {})
@@ -205,33 +279,58 @@ def collect_explanation_data(
                 match = need_data["user_score"] * breed_score
                 is_match = match > 0
             else:
+                breed_score = 0.0
+                match = 0.0
                 is_match = False
 
-            # Extract component values from breed context
+            # Extract component values with proper normalization across all breeds
             components = {}
             for var in extract_formula_variables(formula):
                 var_val = breed_context.get(var)
                 if var_val:
                     score = var_val.t - var_val.f
-                    # Describe as positive/negative/neutral
-                    if score > 0.3:
-                        components[var] = "высокий"
-                    elif score < -0.3:
-                        components[var] = "низкий"
+                    # Get normalized score from pre-computed map
+                    if var in component_score_maps and score in component_score_maps[var]:
+                        comp_0_9 = component_score_maps[var][score]
                     else:
-                        components[var] = "средний"
+                        # Fallback to fixed range normalization
+                        comp_0_9 = normalize_to_0_9(score, -1.0, 1.0)
+                    components[var] = comp_0_9
 
-            need_matches.append({
+            all_raw_matches.append(match)
+            need_match_data.append({
                 "need_name": need_data["need_name"],
-                "formula": formula,
                 "components": components,
-                "is_match": is_match
+                "is_match": is_match,
+                "raw_match": match
             })
+
+        breed_match_data[breed_id] = need_match_data
+
+    # Normalize ALL match scores together (across all breeds and needs)
+    all_match_scores_0_9 = normalize_scores_0_9(all_raw_matches)
+
+    # Second pass: build breed recommendations with normalized scores
+    breeds = []
+    match_idx = 0
+    for breed_id, total_score in results:
+        need_match_data = breed_match_data[breed_id]
+
+        need_matches = []
+        for data in need_match_data:
+            need_matches.append({
+                "need_name": data["need_name"],
+                "components": data["components"],
+                "is_match": data["is_match"],
+                "score_0_9": all_match_scores_0_9[match_idx] if match_idx < len(all_match_scores_0_9) else 5
+            })
+            match_idx += 1
 
         breeds.append(BreedRecommendation(
             breed_id=breed_id,
             breed_name=breed_names.get(breed_id, breed_id),
             score=round(total_score, 2),
+            score_0_9=breed_score_map.get(breed_id, 5),
             need_matches=need_matches
         ))
 
@@ -241,68 +340,72 @@ def collect_explanation_data(
     )
 
 
-def build_prompt(data: ExplanationData) -> str:
+def build_prompt(data: ExplanationData, language: str = "Russian") -> str:
     """
     Build LLM prompt for explanation generation.
 
     Args:
         data: Explanation data collected from profile and matcher
+        language: Language for the response (from config)
 
     Returns:
         Prompt string for LLM
     """
-    # Format user needs with type marker
+    # Format user needs with type marker and scores
     constraints = [n for n in data.user_needs if n.is_constraint]
     preferences = [n for n in data.user_needs if not n.is_constraint]
 
     user_needs_text = ""
     if constraints:
-        user_needs_text += "Ограничения (условия жизни):\n"
+        user_needs_text += "Constraints (living conditions):\n"
         user_needs_text += "\n".join(
-            f"  - {n.need_name}: {'важно' if n.user_wants else 'не требуется'}"
+            f"  - {n.need_name}:{n.score_0_9} {'important' if n.user_wants else 'not required'}"
             for n in constraints
         )
         user_needs_text += "\n"
     if preferences:
-        user_needs_text += "Предпочтения (характер, поведение):\n"
+        user_needs_text += "Preferences (character, behavior):\n"
         user_needs_text += "\n".join(
-            f"  - {n.need_name}: {'важно' if n.user_wants else 'не требуется'}"
+            f"  - {n.need_name}:{n.score_0_9} {'important' if n.user_wants else 'not required'}"
             for n in preferences
         )
 
     # Format each breed with matches for ALL user needs
     breeds_text = ""
     for i, breed in enumerate(data.breeds, 1):
-        breeds_text += f"\n{i}. {breed.breed_name}\n"
+        breeds_text += f"\n{i}. {breed.breed_name}:{breed.score_0_9}\n"
         for match in breed.need_matches:
             status = "✓" if match["is_match"] else "✗"
-            # Show formula and component values
-            components_str = ", ".join(f"{k}={v}" for k, v in match["components"].items())
-            breeds_text += f"  [{status}] {match['need_name']}"
+            # Show component values with scores
+            components_str = ", ".join(f"{k}:{v}" for k, v in match["components"].items())
+            breeds_text += f"  [{status}] {match['need_name']}:{match['score_0_9']}"
             if components_str:
                 breeds_text += f" ({components_str})"
             breeds_text += "\n"
 
-    prompt = f'''Ты — кинолог-консультант. Объясни пользователю, почему эти три породы могут ему подойти.
+    prompt = f'''You are a canine consultant. Explain to the user why these three breeds may suit them.
 
-Что выяснилось о пользователе:
+DATA FORMAT:
+The number after the colon (0–9) is a service score.
+Use them for: comparisons, setting priorities, final conclusions.
+DO NOT mention the numbers themselves, DO NOT use words like "score", "points", "out of 9".
+
+User requirements:
 {user_needs_text}
-(«важно» = пользователь этого хочет, «не требуется» = для пользователя это не критерий)
+("important" = user wants this, "not required" = not a criterion for the user)
 
-Рекомендуемые породы (✓ = соответствует, ✗ = не соответствует):
-В скобках указаны фактические характеристики породы, влияющие на результат.
+Recommended breeds (✓ = matches, ✗ = does not match):
 {breeds_text}
-Инструкции:
-- Форматируй ответ в HTML (используй <p>, <strong>, <ul>, <li> и т.д.)
-- Пиши на русском языке, грамотно. "Low Drooling" = "минимальное слюноотделение" (не "слюнет" — такого слова нет)
-- Основывайся ТОЛЬКО на фактах из контекста выше — не додумывай информацию
-- Объясняй через фактические характеристики породы (указаны в скобках), а не абстрактно
-  Пример: вместо "не подходит для квартиры" → "подходит по размеру (apartment_ok=высокий), но много лает (barking=высокий)"
-- Вступление: 2-3 предложения — ключевые требования пользователя
-- По каждой породе: 3-5 предложений, объясняя через конкретные характеристики
-- Характеристики «не требуется» — НЕ упоминай
-- Тон: спокойный, информативный, без восторженных оценок
-- В конце: 2-3 предложения — что учесть при выборе (без заголовка)'''
+Instructions:
+- Format the response in HTML (use <p>, <strong>, <ul>, <li>, etc.)
+- Write in {language}, grammatically correct
+- Base your response ONLY on facts from the context above — do not invent information
+- Use scores to set priorities: high scores — emphasize, low scores — mention as drawbacks
+- Introduction: 2-3 sentences — user's key requirements (based on high need scores)
+- For each breed: 3-5 sentences, prioritizing by characteristic scores
+- Do NOT mention characteristics marked "not required"
+- Tone: calm, informative, without enthusiastic evaluations
+- At the end: 2-3 sentences — what to consider when choosing (no heading)'''
 
     return prompt
 
@@ -323,11 +426,16 @@ def generate_explanation(
     Returns:
         Generated explanation text
     """
+    # Load config
+    config = load_config()
+    explanation_config = config.get("explanation", {})
+    language = explanation_config.get("language", "Russian")
+
     # Collect data
     data = collect_explanation_data(profile, matcher)
 
-    # Build prompt
-    prompt = build_prompt(data)
+    # Build prompt with language from config
+    prompt = build_prompt(data, language=language)
 
     # Call LLM
     client = OpenAI(
@@ -339,17 +447,19 @@ def generate_explanation(
         model="openai/gpt-oss-120b",
         messages=[{"role": "user", "content": prompt}],
         temperature=0.7,
-        max_tokens=1200
+        max_tokens=4000
     )
 
-    return response.choices[0].message.content
+    message = response.choices[0].message
+    # gpt-oss-120b is a reasoning model: content may be None, use reasoning_content as fallback
+    return message.content or getattr(message, 'reasoning_content', None)
 
 
 # For testing
 if __name__ == "__main__":
     import sys
     from dotenv import load_dotenv
-    load_dotenv()
+    load_dotenv(str(PROJECT_ROOT / ".env"))
 
     # Load profile from file or use default
     profile_path = sys.argv[1] if len(sys.argv) > 1 else None
@@ -401,8 +511,12 @@ if __name__ == "__main__":
             print(line)
     print()
 
+    # Load language from config
+    config = load_config()
+    language = config.get("explanation", {}).get("language", "Russian")
+
     # Show prompt
-    prompt = build_prompt(data)
+    prompt = build_prompt(data, language=language)
     print("=== PROMPT ===")
     print(prompt)
     print()

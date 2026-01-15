@@ -1,183 +1,255 @@
 {
   "breed_id": "miniature-american-shepherd",
   "features": {
-    "shedding": {
-      "value": 0.6,
-      "confidence": 0.9
-    },
-    "coat_type": {
-      "value": 0.5,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.5,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.8
-    },
-    "apartment_ok": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "barking": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "reactivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "child_friendly": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "working_drive": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "behavior_management_need": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "prey_drive": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.4,
-      "confidence": 0.7
-    }
+    "shedding": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.4,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 13.6,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 13.6,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 13.6,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          9,
+          18
+        ],
+        "confidence": 0.5,
+        "source": "PetMD"
       }
     ],
     "height_cm": [
       {
-        "value": 40.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 40.5,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 40.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          33,
+          46
+        ],
+        "confidence": 0.5,
+        "source": "PetMD"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          12,
+          13
+        ],
+        "confidence": 0.5,
+        "source": "PetMD"
       }
     ]
   },
-  "notes": "The Miniature American Shepherd is a highly intelligent and energetic breed with strong herding instincts. They require regular mental and physical stimulation to prevent boredom and potential behavioral issues. While they can adapt to various living situations, including apartments, they thrive best in environments where they have ample space to exercise and engage in activities. Regular grooming is necessary to manage their moderate shedding and maintain coat health. Potential owners should be aware of certain genetic health risks and ensure regular veterinary check-ups."
+  "notes": "The extracted data is based on available sources, primarily PetMD, which provides textual descriptions that have been mapped to numerical values. Some features lack specific information, resulting in null values. Confidence levels are set at 0.5 due to the reliance on a single source and the nature of the data mapping."
 }

@@ -1,183 +1,255 @@
 {
   "breed_id": "american-eskimo-dog",
   "features": {
-    "shedding": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "barking": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "protectiveness": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "affection_level": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "playfulness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "working_drive": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "behavior_management_need": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "mental_stimulation": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "hunting_instinct": {
-      "value": 0.3,
-      "confidence": 0.5
-    }
+    "shedding": [
+      {
+        "value": 1.0,
+        "confidence": 0.9,
+        "source": "AKC: 'Eskies shed constantly but with frequent brushing two to three times a week, shedding can be prevented.' (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC: 'Though Eskies have a white double coat, it’s known for easy maintenance.' (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding dander production."
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.5,
+        "confidence": 0.9,
+        "source": "AKC: 'Eskies shed constantly but with frequent brushing two to three times a week, shedding can be prevented.' (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding general health stability."
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding risk of inherited issues."
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding suitability for apartment living."
+      }
+    ],
+    "barking": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding barking tendencies."
+      }
+    ],
+    "energy": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding energy levels."
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding reactivity."
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding noise tolerance."
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding exercise requirements."
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding tolerance for being alone."
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding risk of separation anxiety."
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding compatibility with pet sitters."
+      }
+    ],
+    "adaptability": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding adaptability."
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding friendliness towards children."
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding friendliness towards other pets."
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding friendliness towards strangers."
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding territorial behavior."
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding protectiveness."
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding sensitivity to stress."
+      }
+    ],
+    "affection_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding affection levels."
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding independence."
+      }
+    ],
+    "playfulness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding playfulness."
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.9,
+        "confidence": 0.9,
+        "source": "AKC: 'They were easily trainable and capable of performing entertaining agility stunts.' (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding working drive."
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding behavior management needs."
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding mental stimulation requirements."
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding prey drive."
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found regarding hunting instincts."
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 3.5,
-        "confidence": 0.9,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 7.5,
-        "confidence": 0.9,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.9,
-        "source": "Hill's Pet"
+        "value": [
+          null,
+          null
+        ],
+        "confidence": 0.0,
+        "source": "No explicit information found regarding weight range."
       }
     ],
     "height_cm": [
       {
-        "value": 27.5,
-        "confidence": 0.9,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 33.5,
-        "confidence": 0.9,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 43.5,
-        "confidence": 0.9,
-        "source": "Hill's Pet"
+        "value": [
+          null,
+          null
+        ],
+        "confidence": 0.0,
+        "source": "No explicit information found regarding height range."
       }
     ],
     "lifespan_years": [
       {
-        "value": 13,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 14,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 15,
-        "confidence": 0.7,
-        "source": "Petful"
+        "value": [
+          null,
+          null
+        ],
+        "confidence": 0.0,
+        "source": "No explicit information found regarding lifespan."
       }
     ]
   },
-  "notes": "The American Eskimo Dog is a versatile and intelligent breed, known for its friendly demeanor and striking white coat. They require regular grooming and exercise to maintain their health and happiness. While they can adapt to apartment living, they thrive in environments where they receive ample attention and mental stimulation."
+  "notes": "The available sources provide limited explicit information on many characteristics of the American Eskimo Dog. Notably, details on health robustness, genetic risks, living conditions, social compatibility, temperament, and specific numerical parameters are absent. The provided data primarily focuses on coat maintenance and trainability. Further research from authoritative sources is necessary to comprehensively profile this breed."
 }

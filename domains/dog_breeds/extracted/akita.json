@@ -3,219 +3,219 @@
   "features": {
     "shedding": [
       {
-        "value": 0.9,
+        "value": 0.7,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "coat_type": [
       {
         "value": 0.7,
-        "confidence": 0.9,
-        "source": "AKC Breed Standard (textual description mapped)"
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
       }
     ],
     "dander_level": [
       {
         "value": null,
-        "confidence": null,
-        "source": null
+        "confidence": 0.0,
+        "source": "No explicit information found"
       }
     ],
     "grooming": [
       {
-        "value": 0.7,
+        "value": 0.5,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "health_robustness": [
       {
         "value": 0.5,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "genetic_risk": [
       {
         "value": 0.7,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "apartment_ok": [
       {
-        "value": 0.3,
+        "value": 0.5,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "barking": [
       {
         "value": 0.3,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "energy": [
       {
         "value": 0.5,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "reactivity": [
       {
         "value": 0.7,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "noise_tolerance": [
       {
         "value": 0.5,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "exercise_need": [
       {
         "value": 0.5,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "alone_tolerance": [
       {
         "value": 0.5,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "separation_anxiety_risk": [
       {
         "value": 0.3,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "sitter_compatibility": [
       {
-        "value": 0.3,
+        "value": 0.5,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "adaptability": [
       {
         "value": 0.5,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "child_friendly": [
       {
         "value": 0.5,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "pet_friendly": [
       {
         "value": 0.3,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "stranger_friendly": [
       {
         "value": 0.3,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "territoriality": [
       {
         "value": 0.7,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "protectiveness": [
       {
         "value": 0.7,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "stress_sensitivity": [
       {
         "value": 0.5,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "affection_level": [
       {
-        "value": 0.5,
+        "value": 0.7,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "independence": [
       {
         "value": 0.7,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "playfulness": [
       {
         "value": 0.5,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "trainability": [
       {
         "value": 0.5,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "working_drive": [
       {
         "value": 0.7,
-        "confidence": 0.9,
-        "source": "AKC Breed Standard (textual description mapped)"
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
       }
     ],
     "behavior_management_need": [
       {
         "value": 0.7,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "mental_stimulation": [
       {
         "value": 0.5,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "prey_drive": [
       {
         "value": 0.7,
         "confidence": 0.5,
-        "source": "PetMD (textual description mapped)"
+        "source": "Purina (textual description mapped)"
       }
     ],
     "hunting_instinct": [
       {
         "value": 0.7,
-        "confidence": 0.9,
-        "source": "AKC Breed Standard (textual description mapped)"
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
       }
     ]
   },
@@ -223,33 +223,33 @@
     "weight_kg": [
       {
         "value": [
-          45,
-          59
+          31.75,
+          59.0
         ],
-        "confidence": 0.9,
-        "source": "AKC Breed Standard"
+        "confidence": 0.5,
+        "source": "Purina"
       }
     ],
     "height_cm": [
       {
         "value": [
-          61,
-          71
+          61.0,
+          71.0
         ],
-        "confidence": 0.9,
-        "source": "AKC Breed Standard"
+        "confidence": 0.5,
+        "source": "Purina"
       }
     ],
     "lifespan_years": [
       {
         "value": [
           10,
-          14
+          13
         ],
         "confidence": 0.5,
-        "source": "PetMD"
+        "source": "Purina"
       }
     ]
   },
-  "notes": "Some features have been mapped from textual descriptions to numerical values as per the provided guidelines. For example, 'heavy shedding' was mapped to 0.9 for 'shedding'. Additionally, certain features lack explicit data in the sources and are marked as null."
+  "notes": "The provided data is sourced from Purina, a reputable pet care company. While Purina offers comprehensive information, some features lack explicit numerical values and are based on textual descriptions. These descriptions have been mapped to numerical values using the default projection scale. For features where no explicit information was found, 'null' values have been assigned. Confidence levels are set at 0.5 to reflect the source type and the nature of the information provided."
 }

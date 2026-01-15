@@ -1,183 +1,255 @@
 {
   "breed_id": "doberman-pinscher",
   "features": {
-    "shedding": {
-      "value": 0.4,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.0,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.2,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "barking": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "reactivity": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "noise_tolerance": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "pet_friendly": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "stranger_friendly": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "protectiveness": {
-      "value": 1.0,
-      "confidence": 0.9
-    },
-    "stress_sensitivity": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "trainability": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "working_drive": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "behavior_management_need": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "prey_drive": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.6,
-      "confidence": 0.6
-    }
+    "shedding": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.2,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.2,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "WebMD (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.2,
+        "confidence": 0.5,
+        "source": "Good Dog (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data found"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "Good Dog (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data found"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data found"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data found"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "Good Dog (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 1.0,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.4,
+        "confidence": 0.5,
+        "source": "Good Dog (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data found"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 1.0,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data found"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "Good Dog (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data found"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 1.0,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data found"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data found"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 1.0,
+        "confidence": 0.5,
+        "source": "Good Dog (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data found"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit data found"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 42.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 40,
-        "confidence": 0.8,
-        "source": "UKC"
-      },
-      {
-        "value": 41,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          32,
+          45
+        ],
+        "confidence": 0.5,
+        "source": "Petco"
       }
     ],
     "height_cm": [
       {
-        "value": 69,
+        "value": [
+          61,
+          71
+        ],
         "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 68,
-        "confidence": 0.8,
-        "source": "UKC"
-      },
-      {
-        "value": 70,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "AKC Standard"
       }
     ],
     "lifespan_years": [
       {
-        "value": 11,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 10,
-        "confidence": 0.8,
-        "source": "UKC"
-      },
-      {
-        "value": 11,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          10,
+          12
+        ],
+        "confidence": 0.5,
+        "source": "WebMD"
       }
     ]
   },
-  "notes": "Doberman Pinschers are intelligent, energetic, and loyal dogs known for their protective nature and strong bond with their families. They require consistent training, regular exercise, and routine health care to thrive as companions."
+  "notes": "Several features lack explicit data in the provided sources, resulting in null values. Mapped textual descriptions are noted where applicable."
 }

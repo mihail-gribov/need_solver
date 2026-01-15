@@ -1,183 +1,255 @@
 {
   "breed_id": "dachshund",
   "features": {
-    "shedding": {
-      "value": 0.4,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "dander_level": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.4,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "barking": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "energy": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "child_friendly": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "working_drive": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "hunting_instinct": {
-      "value": 0.9,
-      "confidence": 0.9
-    }
+    "shedding": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.5,
+        "confidence": 0.9,
+        "source": "AKC Official Standard"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Dog Food Advisor (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 7.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 8.0,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 7.0,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          7.3,
+          14.5
+        ],
+        "confidence": 0.5,
+        "source": "Dog Food Advisor"
       }
     ],
     "height_cm": [
       {
-        "value": 21.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 22.0,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 21.0,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          20.3,
+          22.9
+        ],
+        "confidence": 0.5,
+        "source": "Dog Food Advisor"
       }
     ],
     "lifespan_years": [
       {
-        "value": 14.0,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 14.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          12,
+          16
+        ],
+        "confidence": 0.5,
+        "source": "Dog Food Advisor"
       }
     ]
   },
-  "notes": "Dachshunds have three coat types (smooth, long-haired, wire-haired) with varying grooming needs. They are prone to spinal issues like IVDD; maintaining a healthy weight and avoiding high-impact activities can help mitigate risks."
+  "notes": "The extracted data relies heavily on a single source, Dog Food Advisor, which provides textual descriptions that have been mapped to numerical values. This may introduce bias or inaccuracies. Additionally, some features lack explicit data, resulting in null values. Further corroboration from diverse and authoritative sources is recommended to enhance the reliability of this profile."
 }

@@ -1,0 +1,528 @@
+{
+  "needs": {
+    "medium_size": {
+      "t": 0.7,
+      "f": 0.0
+    },
+    "large_size_ok": {
+      "t": 0.0,
+      "f": 0.9
+    },
+    "small_space_ok": {
+      "t": 0.75,
+      "f": 0.0
+    },
+    "small_size": {
+      "t": 0.7,
+      "f": 0.0
+    },
+    "long_lifespan": {
+      "t": 0.9,
+      "f": 0.0
+    },
+    "low_vet_costs": {
+      "t": 0.8,
+      "f": 0.0
+    },
+    "apartment_compatible": {
+      "t": 0.8,
+      "f": 0.0
+    },
+    "hypoallergenic": {
+      "t": 0.8,
+      "f": 0.0
+    },
+    "low_grooming": {
+      "t": 0.9799999999999999,
+      "f": 0.0
+    },
+    "affectionate": {
+      "t": 0.0,
+      "f": 0.75
+    },
+    "companion_role": {
+      "t": 0.8,
+      "f": 0.0
+    },
+    "low_shedding": {
+      "t": 0.7,
+      "f": 0.0
+    },
+    "low_energy": {
+      "t": 0.8,
+      "f": 0.0
+    },
+    "high_energy": {
+      "t": 0.0,
+      "f": 0.95
+    },
+    "travel_flexible": {
+      "t": 0.0,
+      "f": 0.7
+    },
+    "complex_training_ok": {
+      "t": 0.0,
+      "f": 0.9
+    },
+    "yard_independent": {
+      "t": 0.95,
+      "f": 0.0
+    },
+    "needs_long_walks_ok": {
+      "t": 0.0,
+      "f": 0.75
+    },
+    "easy_to_train": {
+      "t": 0.7,
+      "f": 0.0
+    },
+    "first_time_friendly": {
+      "t": 0.8,
+      "f": 0.0
+    },
+    "child_friendly": {
+      "t": 0.0,
+      "f": 0.9199999999999999
+    },
+    "hunting_role": {
+      "t": 0.0,
+      "f": 0.9
+    },
+    "urban_tolerant": {
+      "t": 0.7,
+      "f": 0.0
+    },
+    "playful": {
+      "t": 0.0,
+      "f": 0.8
+    },
+    "mental_stimulation_ok": {
+      "t": 0.8,
+      "f": 0.0
+    },
+    "sport_work_role": {
+      "t": 0.0,
+      "f": 0.8
+    },
+    "stranger_friendly": {
+      "t": 0.0,
+      "f": 0.9
+    },
+    "not_overprotective": {
+      "t": 0.7,
+      "f": 0.0
+    },
+    "guard_role": {
+      "t": 0.0,
+      "f": 1.0
+    }
+  },
+  "need_weights": {
+    "medium_size": 0.7,
+    "large_size_ok": 0.9,
+    "small_space_ok": 0.75,
+    "small_size": 0.7,
+    "long_lifespan": 0.9,
+    "low_vet_costs": 0.8,
+    "apartment_compatible": 0.8,
+    "hypoallergenic": 0.8,
+    "low_grooming": 1.5499999999999998,
+    "affectionate": 0.75,
+    "companion_role": 0.8,
+    "low_shedding": 0.7,
+    "low_energy": 0.8,
+    "high_energy": 0.95,
+    "travel_flexible": 0.7,
+    "complex_training_ok": 0.9,
+    "yard_independent": 0.95,
+    "needs_long_walks_ok": 0.75,
+    "easy_to_train": 0.7,
+    "first_time_friendly": 0.8,
+    "child_friendly": 1.4,
+    "hunting_role": 0.9,
+    "urban_tolerant": 0.7,
+    "playful": 0.8,
+    "mental_stimulation_ok": 0.8,
+    "sport_work_role": 0.8,
+    "stranger_friendly": 0.9,
+    "not_overprotective": 0.7,
+    "guard_role": 1.0
+  },
+  "independent": [],
+  "asked_questions": [
+    "long_lifespan_q3",
+    "apartment_compatible_q4",
+    "complex_training_ok_q1",
+    "affectionate_q4",
+    "mental_stimulation_ok_q5",
+    "high_energy_q2",
+    "medium_size_q2",
+    "not_overprotective_q2",
+    "low_shedding_q3",
+    "sport_work_role_q5",
+    "low_energy_q2",
+    "small_size_q2",
+    "playful_q2",
+    "large_size_ok_q1",
+    "small_space_ok_q5",
+    "low_grooming_q4",
+    "yard_independent_q1",
+    "needs_long_walks_ok_q4",
+    "easy_to_train_q3",
+    "child_friendly_q3",
+    "urban_tolerant_q4",
+    "hunting_role_q5",
+    "companion_role_q5",
+    "hypoallergenic_q4",
+    "stranger_friendly_q1",
+    "low_vet_costs_q2",
+    "travel_flexible_q4",
+    "guard_role_q1",
+    "first_time_friendly_q5",
+    "low_grooming_q1",
+    "child_friendly_q5"
+  ],
+  "answers": [
+    {
+      "need_id": "medium_size",
+      "question_id": "medium_size_q2",
+      "question_text": "Планируете ли вы гулять с собакой в городе, где удобнее средний размер?",
+      "answer_type": "true",
+      "weight": 0.7,
+      "fuzzy_value": {
+        "t": 0.7,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "large_size_ok",
+      "question_id": "large_size_ok_q1",
+      "question_text": "У вас достаточно места дома для крупной собаки?",
+      "answer_type": "false",
+      "weight": 0.9,
+      "fuzzy_value": {
+        "t": 0.0,
+        "f": 0.9
+      }
+    },
+    {
+      "need_id": "small_space_ok",
+      "question_id": "small_space_ok_q5",
+      "question_text": "Вам важно, чтобы собака могла спокойно жить в условиях города или плотной застройки?",
+      "answer_type": "true",
+      "weight": 0.75,
+      "fuzzy_value": {
+        "t": 0.75,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "small_size",
+      "question_id": "small_size_q2",
+      "question_text": "Вам удобнее, если собака занимает мало места дома?",
+      "answer_type": "true",
+      "weight": 0.7,
+      "fuzzy_value": {
+        "t": 0.7,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "long_lifespan",
+      "question_id": "long_lifespan_q3",
+      "question_text": "Для вас важно, чтобы собака прожила больше 12 лет?",
+      "answer_type": "true",
+      "weight": 0.9,
+      "fuzzy_value": {
+        "t": 0.9,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "low_vet_costs",
+      "question_id": "low_vet_costs_q2",
+      "question_text": "Планируете ли вы посещать ветеринара только для обязательных прививок и профилактики?",
+      "answer_type": "true",
+      "weight": 0.8,
+      "fuzzy_value": {
+        "t": 0.8,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "apartment_compatible",
+      "question_id": "apartment_compatible_q4",
+      "question_text": "Вы живёте в доме с соседями за стеной?",
+      "answer_type": "true",
+      "weight": 0.8,
+      "fuzzy_value": {
+        "t": 0.8,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "hypoallergenic",
+      "question_id": "hypoallergenic_q4",
+      "question_text": "Вам важно, чтобы в доме было как можно меньше шерсти и пыли от животных?",
+      "answer_type": "true",
+      "weight": 0.8,
+      "fuzzy_value": {
+        "t": 0.8,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "low_grooming",
+      "question_id": "low_grooming_q4",
+      "question_text": "Хотели бы вы собаку, которую можно просто помыть и высушить без сложных процедур?",
+      "answer_type": "true",
+      "weight": 0.6,
+      "fuzzy_value": {
+        "t": 0.6,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "low_grooming",
+      "question_id": "low_grooming_q1",
+      "question_text": "У вас нет времени или желания регулярно ухаживать за шерстью собаки — расчёсывать, купать, водить к грумеру?",
+      "answer_type": "true",
+      "weight": 0.95,
+      "fuzzy_value": {
+        "t": 0.95,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "affectionate",
+      "question_id": "affectionate_q4",
+      "question_text": "Вам комфортно, если питомец нуждается во внимании и часто хочет быть на руках или рядом?",
+      "answer_type": "false",
+      "weight": 0.75,
+      "fuzzy_value": {
+        "t": 0.0,
+        "f": 0.75
+      }
+    },
+    {
+      "need_id": "companion_role",
+      "question_id": "companion_role_q5",
+      "question_text": "Вы ищете собаку, которая будет главным образом членом семьи, а не охотником или служебным помощником?",
+      "answer_type": "true",
+      "weight": 0.8,
+      "fuzzy_value": {
+        "t": 0.8,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "low_shedding",
+      "question_id": "low_shedding_q3",
+      "question_text": "Частая уборка шерсти дома для вас нежелательна?",
+      "answer_type": "true",
+      "weight": 0.7,
+      "fuzzy_value": {
+        "t": 0.7,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "low_energy",
+      "question_id": "low_energy_q2",
+      "question_text": "В ваш график сложно вписать ежедневные продолжительные прогулки или пробежки с собакой?",
+      "answer_type": "true",
+      "weight": 0.8,
+      "fuzzy_value": {
+        "t": 0.8,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "high_energy",
+      "question_id": "high_energy_q2",
+      "question_text": "Готовы ли вы ежедневно выделять время на длительные и активные прогулки с собакой?",
+      "answer_type": "false",
+      "weight": 0.95,
+      "fuzzy_value": {
+        "t": 0.0,
+        "f": 0.95
+      }
+    },
+    {
+      "need_id": "travel_flexible",
+      "question_id": "travel_flexible_q4",
+      "question_text": "Часто ли дома никого не бывает в течение дня?",
+      "answer_type": "false",
+      "weight": 0.7,
+      "fuzzy_value": {
+        "t": 0.0,
+        "f": 0.7
+      }
+    },
+    {
+      "need_id": "complex_training_ok",
+      "question_id": "complex_training_ok_q1",
+      "question_text": "У вас уже был опыт дрессировки собак с непростым характером?",
+      "answer_type": "false",
+      "weight": 0.9,
+      "fuzzy_value": {
+        "t": 0.0,
+        "f": 0.9
+      }
+    },
+    {
+      "need_id": "yard_independent",
+      "question_id": "yard_independent_q1",
+      "question_text": "У вас нет собственного двора или участка, где собака могла бы гулять самостоятельно?",
+      "answer_type": "true",
+      "weight": 0.95,
+      "fuzzy_value": {
+        "t": 0.95,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "needs_long_walks_ok",
+      "question_id": "needs_long_walks_ok_q4",
+      "question_text": "Ваш рабочий график позволяет вам ежедневно выделять время на продолжительные прогулки с собакой?",
+      "answer_type": "false",
+      "weight": 0.75,
+      "fuzzy_value": {
+        "t": 0.0,
+        "f": 0.75
+      }
+    },
+    {
+      "need_id": "easy_to_train",
+      "question_id": "easy_to_train_q3",
+      "question_text": "В вашей семье есть дети или пожилые люди, которые будут общаться с собакой?",
+      "answer_type": "true",
+      "weight": 0.7,
+      "fuzzy_value": {
+        "t": 0.7,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "first_time_friendly",
+      "question_id": "first_time_friendly_q5",
+      "question_text": "В вашей семье нет взрослых с опытом содержания собак?",
+      "answer_type": "true",
+      "weight": 0.8,
+      "fuzzy_value": {
+        "t": 0.8,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "child_friendly",
+      "question_id": "child_friendly_q5",
+      "question_text": "Планируете ли вы завести собаку в семью, где возможно появление детей в ближайшие годы?",
+      "answer_type": "false",
+      "weight": 0.6,
+      "fuzzy_value": {
+        "t": 0.0,
+        "f": 0.6
+      }
+    },
+    {
+      "need_id": "child_friendly",
+      "question_id": "child_friendly_q3",
+      "question_text": "У ваших близких друзей или родственников есть маленькие дети, которые могут приходить к вам домой?",
+      "answer_type": "false",
+      "weight": 0.8,
+      "fuzzy_value": {
+        "t": 0.0,
+        "f": 0.8
+      }
+    },
+    {
+      "need_id": "hunting_role",
+      "question_id": "hunting_role_q5",
+      "question_text": "Вам важно, чтобы собака могла сопровождать вас на охоте за дичью или птицей?",
+      "answer_type": "false",
+      "weight": 0.9,
+      "fuzzy_value": {
+        "t": 0.0,
+        "f": 0.9
+      }
+    },
+    {
+      "need_id": "urban_tolerant",
+      "question_id": "urban_tolerant_q4",
+      "question_text": "Вы часто перемещаетесь по городу вместе с собакой — на транспорте, по людным улицам, в парках?",
+      "answer_type": "true",
+      "weight": 0.7,
+      "fuzzy_value": {
+        "t": 0.7,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "playful",
+      "question_id": "playful_q2",
+      "question_text": "Часто ли вы играете в подвижные игры дома или на прогулках с детьми или друзьями?",
+      "answer_type": "false",
+      "weight": 0.8,
+      "fuzzy_value": {
+        "t": 0.0,
+        "f": 0.8
+      }
+    },
+    {
+      "need_id": "mental_stimulation_ok",
+      "question_id": "mental_stimulation_ok_q5",
+      "question_text": "Получаете ли вы удовольствие от совместных занятий или дрессировки животных?",
+      "answer_type": "true",
+      "weight": 0.8,
+      "fuzzy_value": {
+        "t": 0.8,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "sport_work_role",
+      "question_id": "sport_work_role_q5",
+      "question_text": "Планируете ли вы обучать собаку специальным командам или навыкам для выполнения определённых задач?",
+      "answer_type": "false",
+      "weight": 0.8,
+      "fuzzy_value": {
+        "t": 0.0,
+        "f": 0.8
+      }
+    },
+    {
+      "need_id": "stranger_friendly",
+      "question_id": "stranger_friendly_q1",
+      "question_text": "К вам часто приходят гости или новые люди в дом?",
+      "answer_type": "false",
+      "weight": 0.9,
+      "fuzzy_value": {
+        "t": 0.0,
+        "f": 0.9
+      }
+    },
+    {
+      "need_id": "not_overprotective",
+      "question_id": "not_overprotective_q2",
+      "question_text": "Планируете ли вы брать собаку с собой в общественные места, где будет много людей?",
+      "answer_type": "true",
+      "weight": 0.7,
+      "fuzzy_value": {
+        "t": 0.7,
+        "f": 0.0
+      }
+    },
+    {
+      "need_id": "guard_role",
+      "question_id": "guard_role_q1",
+      "question_text": "Вам нужна собака, которая будет охранять дом или участок?",
+      "answer_type": "false",
+      "weight": 1.0,
+      "fuzzy_value": {
+        "t": 0.0,
+        "f": 1.0
+      }
+    }
+  ]
+}

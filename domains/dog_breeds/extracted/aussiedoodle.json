@@ -1,183 +1,255 @@
 {
   "breed_id": "aussiedoodle",
   "features": {
-    "shedding": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "coat_type": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "dander_level": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "grooming": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "barking": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "energy": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "separation_anxiety_risk": {
-      "value": 0.7,
-      "confidence": 0.6
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.6
-    },
-    "adaptability": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "protectiveness": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "stress_sensitivity": {
-      "value": 0.7,
-      "confidence": 0.6
-    },
-    "affection_level": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "playfulness": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "working_drive": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "mental_stimulation": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "hunting_instinct": {
-      "value": 0.5,
-      "confidence": 0.6
-    }
+    "shedding": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 22.5,
-        "confidence": 0.7,
-        "source": "Great Pet Care"
-      },
-      {
-        "value": 27.5,
-        "confidence": 0.7,
-        "source": "PuppySpot"
-      },
-      {
-        "value": 22.5,
-        "confidence": 0.7,
+        "value": [
+          11.3,
+          31.8
+        ],
+        "confidence": 0.5,
         "source": "PetMD"
       }
     ],
     "height_cm": [
       {
-        "value": 31.75,
-        "confidence": 0.7,
-        "source": "Great Pet Care"
-      },
-      {
-        "value": 45.72,
-        "confidence": 0.7,
-        "source": "PuppySpot"
-      },
-      {
-        "value": 38.1,
-        "confidence": 0.7,
+        "value": [
+          35.6,
+          58.4
+        ],
+        "confidence": 0.5,
         "source": "PetMD"
       }
     ],
     "lifespan_years": [
       {
-        "value": 11,
-        "confidence": 0.7,
-        "source": "Great Pet Care"
-      },
-      {
-        "value": 11.5,
-        "confidence": 0.7,
-        "source": "PuppySpot"
-      },
-      {
-        "value": 11,
-        "confidence": 0.7,
+        "value": [
+          12,
+          15
+        ],
+        "confidence": 0.5,
         "source": "PetMD"
       }
     ]
   },
-  "notes": "Aussiedoodles are a hybrid breed with varying characteristics depending on their lineage. Their coat type and shedding levels can vary, influencing grooming needs and allergen levels. They are highly intelligent and energetic, requiring regular mental and physical stimulation. Health robustness is generally good, but they can inherit conditions from parent breeds. Their suitability for apartment living depends on meeting their exercise needs. They are affectionate and bond closely with families, but may experience separation anxiety if left alone for extended periods."
+  "notes": "All feature values are derived from textual descriptions provided by PetMD and mapped to numerical scales as per the defined guidelines. Confidence levels are set at 0.5 due to the general nature of the source. No conflicting information was found across the sources consulted."
 }

@@ -1,183 +1,255 @@
 {
   "breed_id": "beauceron",
   "features": {
-    "shedding": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.3,
-      "confidence": 0.8
-    },
-    "dander_level": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.4,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "barking": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "reactivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "adaptability": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "child_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "pet_friendly": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "stranger_friendly": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "stress_sensitivity": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "affection_level": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "independence": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "playfulness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "working_drive": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.6,
-      "confidence": 0.7
-    }
+    "shedding": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "iDog Breed Database (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.3,
+        "confidence": 0.9,
+        "source": "FCI Breed Standard"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "iDog Breed Database (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "iDog Breed Database (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "iDog Breed Database (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "iDog Breed Database (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "iDog Breed Database (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "iDog Breed Database (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "iDog Breed Database (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 34,
-        "confidence": 0.9,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 36,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 38,
-        "confidence": 0.7,
+        "value": [
+          30,
+          50
+        ],
+        "confidence": 0.3,
         "source": "Wikipedia"
       }
     ],
     "height_cm": [
       {
-        "value": 66,
+        "value": [
+          61,
+          70
+        ],
         "confidence": 0.9,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 65,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 64,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "FCI Breed Standard"
       }
     ],
     "lifespan_years": [
       {
-        "value": 11.5,
-        "confidence": 0.9,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 11,
-        "confidence": 0.8,
-        "source": "PetMD"
-      },
-      {
-        "value": 10.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          10,
+          12
+        ],
+        "confidence": 0.5,
+        "source": "iDog Breed Database"
       }
     ]
   },
-  "notes": "The Beauceron is a high-energy, intelligent breed requiring substantial exercise and mental stimulation. They are loyal and protective, making them excellent guard dogs. Early socialization and consistent training are essential to manage their strong will and protective instincts. They are not well-suited for apartment living due to their size and energy levels."
+  "notes": "Several features lack explicit data from the provided sources, resulting in null values. The iDog Breed Database offers textual descriptions that have been mapped to numerical values where applicable. Confidence levels are assigned based on the source reliability scale, with official standards receiving higher confidence."
 }

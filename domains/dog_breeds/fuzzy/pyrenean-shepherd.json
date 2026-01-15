@@ -2,131 +2,107 @@
   "breed_id": "pyrenean-shepherd",
   "features": {
     "shedding": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
+      "note": "all values null"
     },
     "coat_type": {
-      "t": 0.72,
-      "f": 0.18,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC Breed Standard (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.59,
-        "falsity": 0.05,
-        "unknown": 0.23,
-        "conflict": 0.13
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "dander_level": {
-      "t": 0.36,
-      "f": 0.24,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.274,
-        "falsity": 0.154,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
+      "note": "all values null"
     },
     "grooming": {
-      "t": 0.56,
-      "f": 0.24,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC Breed Standard (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "health_robustness": {
-      "t": 0.56,
-      "f": 0.14,
-      "state": "true",
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "DogTime (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.482,
-        "falsity": 0.062,
-        "unknown": 0.378,
-        "conflict": 0.078
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "genetic_risk": {
-      "t": 0.14,
-      "f": 0.56,
-      "state": "false",
+      "t": 0.15,
+      "f": 0.35,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "DogTime (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.062,
-        "falsity": 0.482,
-        "unknown": 0.378,
-        "conflict": 0.078
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
       }
     },
     "apartment_ok": {
-      "t": 0.24,
-      "f": 0.36,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.154,
-        "falsity": 0.274,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
+      "note": "all values null"
     },
     "barking": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "energy": {
       "t": 0.81,
       "f": 0.09,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC Breed Standard (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
@@ -137,41 +113,35 @@
       }
     },
     "reactivity": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
       "sources": [
-        "unknown"
+        "AKC Breed Standard (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "noise_tolerance": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
+      "note": "all values null"
     },
     "exercise_need": {
       "t": 0.81,
       "f": 0.09,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC Breed Standard (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
@@ -182,198 +152,138 @@
       }
     },
     "alone_tolerance": {
-      "t": 0.18,
-      "f": 0.42,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.104,
-        "falsity": 0.344,
-        "unknown": 0.476,
-        "conflict": 0.076
-      }
+      "note": "all values null"
     },
     "separation_anxiety_risk": {
-      "t": 0.42,
-      "f": 0.18,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.344,
-        "falsity": 0.104,
-        "unknown": 0.476,
-        "conflict": 0.076
-      }
+      "note": "all values null"
     },
     "sitter_compatibility": {
-      "t": 0.36,
-      "f": 0.24,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.274,
-        "falsity": 0.154,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
+      "note": "all values null"
     },
     "adaptability": {
-      "t": 0.36,
-      "f": 0.24,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.274,
-        "falsity": 0.154,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
+      "note": "all values null"
     },
     "child_friendly": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "pet_friendly": {
-      "t": 0.36,
-      "f": 0.24,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.274,
-        "falsity": 0.154,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
+      "note": "all values null"
     },
     "stranger_friendly": {
-      "t": 0.24,
-      "f": 0.36,
-      "state": "unknown",
+      "t": 0.27,
+      "f": 0.63,
+      "state": "false",
       "sources": [
-        "unknown"
+        "AKC Breed Standard (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.154,
-        "falsity": 0.274,
-        "unknown": 0.486,
-        "conflict": 0.086
+        "truth": 0.1,
+        "falsity": 0.46,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "territoriality": {
-      "t": 0.36,
-      "f": 0.24,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.274,
-        "falsity": 0.154,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
+      "note": "all values null"
     },
     "protectiveness": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "stress_sensitivity": {
-      "t": 0.36,
-      "f": 0.24,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.274,
-        "falsity": 0.154,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
+      "note": "all values null"
     },
     "affection_level": {
-      "t": 0.56,
-      "f": 0.14,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC Breed Standard (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.482,
-        "falsity": 0.062,
-        "unknown": 0.378,
-        "conflict": 0.078
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "independence": {
-      "t": 0.24,
-      "f": 0.36,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.154,
-        "falsity": 0.274,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
+      "note": "all values null"
     },
     "playfulness": {
-      "t": 0.56,
-      "f": 0.14,
+      "t": 0.63,
+      "f": 0.27,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC Breed Standard (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.482,
-        "falsity": 0.062,
-        "unknown": 0.378,
-        "conflict": 0.078
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "trainability": {
@@ -381,7 +291,7 @@
       "f": 0.09,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC Breed Standard (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
@@ -396,7 +306,7 @@
       "f": 0.09,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC Breed Standard (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
@@ -407,18 +317,18 @@
       }
     },
     "behavior_management_need": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
+      "t": 0.63,
+      "f": 0.27,
+      "state": "true",
       "sources": [
-        "unknown"
+        "AKC Breed Standard (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
+        "truth": 0.46,
+        "falsity": 0.1,
+        "unknown": 0.27,
+        "conflict": 0.17
       }
     },
     "mental_stimulation": {
@@ -426,7 +336,7 @@
       "f": 0.09,
       "state": "true",
       "sources": [
-        "unknown"
+        "AKC Breed Standard (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
@@ -437,34 +347,22 @@
       }
     },
     "prey_drive": {
-      "t": 0.36,
-      "f": 0.24,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.274,
-        "falsity": 0.154,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
+      "note": "all values null"
     },
     "hunting_instinct": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit data available"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
+      "note": "all values null"
     }
   },
   "categories": {
@@ -473,50 +371,50 @@
       "values": {
         "size_toy": {
           "t": 0.0,
-          "f": 0.733,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_small": {
-          "t": 0.0,
-          "f": 0.733,
-          "state": "false",
-          "votes_for": 0,
-          "votes_against": 3
-        },
-        "size_medium": {
-          "t": 0.733,
+          "t": 0.9,
           "f": 0.0,
           "state": "true",
-          "votes_for": 3,
+          "votes_for": 1,
+          "votes_against": 0
+        },
+        "size_medium": {
+          "t": 0.9,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 1,
           "votes_against": 0
         },
         "size_large": {
           "t": 0.0,
-          "f": 0.733,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_giant": {
           "t": 0.0,
-          "f": 0.733,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_small_or_less": {
-          "t": 0.0,
-          "f": 0.537,
-          "state": "false",
+          "t": 0.9,
+          "f": 0.0,
+          "state": "true",
           "derived_from": [
             "size_toy",
             "size_small"
           ]
         },
         "size_medium_or_less": {
-          "t": 0.733,
+          "t": 0.99,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -527,7 +425,7 @@
         },
         "size_large_or_more": {
           "t": 0.0,
-          "f": 0.537,
+          "f": 0.81,
           "state": "false",
           "derived_from": [
             "size_large",
@@ -541,50 +439,50 @@
       "values": {
         "height_tiny": {
           "t": 0.0,
-          "f": 0.733,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_small": {
-          "t": 0.0,
-          "f": 0.733,
-          "state": "false",
-          "votes_for": 0,
-          "votes_against": 3
-        },
-        "height_medium": {
-          "t": 0.733,
+          "t": 0.9,
           "f": 0.0,
           "state": "true",
-          "votes_for": 3,
+          "votes_for": 1,
+          "votes_against": 0
+        },
+        "height_medium": {
+          "t": 0.9,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 1,
           "votes_against": 0
         },
         "height_large": {
           "t": 0.0,
-          "f": 0.733,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_giant": {
           "t": 0.0,
-          "f": 0.733,
+          "f": 0.9,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "height_small_or_less": {
-          "t": 0.0,
-          "f": 0.537,
-          "state": "false",
+          "t": 0.9,
+          "f": 0.0,
+          "state": "true",
           "derived_from": [
             "height_tiny",
             "height_small"
           ]
         },
         "height_medium_or_less": {
-          "t": 0.733,
+          "t": 0.99,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -595,7 +493,7 @@
         },
         "height_large_or_more": {
           "t": 0.0,
-          "f": 0.537,
+          "f": 0.81,
           "state": "false",
           "derived_from": [
             "height_large",
@@ -609,34 +507,34 @@
       "values": {
         "lifespan_short": {
           "t": 0.0,
-          "f": 0.733,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "lifespan_medium": {
           "t": 0.0,
-          "f": 0.733,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "lifespan_long": {
-          "t": 0.733,
-          "f": 0.0,
-          "state": "true",
-          "votes_for": 3,
-          "votes_against": 0
-        },
-        "lifespan_very_long": {
           "t": 0.0,
-          "f": 0.733,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
+        },
+        "lifespan_very_long": {
+          "t": 0.5,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 1,
+          "votes_against": 0
         },
         "lifespan_medium_or_more": {
-          "t": 0.733,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -646,7 +544,7 @@
           ]
         },
         "lifespan_long_or_more": {
-          "t": 0.733,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -660,56 +558,35 @@
   "parameters_raw": {
     "weight_kg": [
       {
-        "value": 11.34,
+        "value": [
+          6.8,
+          13.6
+        ],
         "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 11.34,
-        "confidence": 0.7,
-        "source": "BreedScout"
-      },
-      {
-        "value": 11.34,
-        "confidence": 0.6,
-        "source": "PetGuide"
+        "source": "AKC Breed Standard"
       }
     ],
     "height_cm": [
       {
-        "value": 45.72,
+        "value": [
+          39.4,
+          47.0
+        ],
         "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 45.72,
-        "confidence": 0.7,
-        "source": "BreedScout"
-      },
-      {
-        "value": 45.72,
-        "confidence": 0.6,
-        "source": "PetGuide"
+        "source": "AKC Breed Standard"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13.5,
-        "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.7,
-        "source": "BreedScout"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.6,
-        "source": "PetGuide"
+        "value": [
+          17,
+          19
+        ],
+        "confidence": 0.5,
+        "source": "WebMD"
       }
     ]
   },
-  "notes": "The Pyrenean Shepherd is a high-energy, intelligent breed requiring regular mental and physical stimulation. They are moderately affectionate and form strong bonds with their families. Due to their herding instincts, they may exhibit behaviors such as nipping or chasing, which require proper training and socialization. Their coats require regular grooming to prevent matting, and they are moderate shedders. They are generally healthy but can be prone to certain genetic conditions, so regular veterinary check-ups are recommended.",
+  "notes": "Several features lack explicit data in the provided sources, resulting in null values. Mappings from textual descriptions to numerical values are noted where applicable.",
   "sources": []
 }

@@ -1,183 +1,252 @@
 {
   "breed_id": "goldendoodle",
   "features": {
-    "shedding": {
-      "value": 0.2,
-      "confidence": 0.9
-    },
-    "coat_type": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "dander_level": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "barking": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "child_friendly": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "pet_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "stranger_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "territoriality": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "working_drive": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "behavior_management_need": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.3,
-      "confidence": 0.7
-    }
+    "shedding": [
+      {
+        "value": 0.0,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": 0.0,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Health Testing Standards"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Health Testing Standards"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "barking": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "energy": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.9,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.9,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.9,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.9,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": 0.7,
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 27.5,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 30,
+        "value": [
+          11.34,
+          22.68
+        ],
         "confidence": 0.7,
-        "source": "PetMD"
-      },
-      {
-        "value": 25,
-        "confidence": 0.7,
-        "source": "Wagwise"
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
       }
     ],
     "height_cm": [
       {
-        "value": 55,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 58,
+        "value": [
+          35.56,
+          53.34
+        ],
         "confidence": 0.7,
-        "source": "PetMD"
-      },
-      {
-        "value": 53,
-        "confidence": 0.7,
-        "source": "Wagwise"
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
       }
     ],
     "lifespan_years": [
       {
-        "value": 12.5,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 12.5,
+        "value": null,
         "confidence": 0.7,
-        "source": "PetMD"
-      },
-      {
-        "value": 12.5,
-        "confidence": 0.7,
-        "source": "Wagwise"
+        "source": "Goldendoodle Association of North America (GANA) Breed Standard"
       }
     ]
   },
-  "notes": "Goldendoodles are a hybrid breed, resulting in variability in size, coat type, and temperament. The provided values represent averages, but individual dogs may differ."
+  "notes": "Several features and parameters lack explicit data in the provided sources, resulting in null values. The confidence level is set at 0.7, reflecting the reliance on breed club information. Further research is needed to provide comprehensive data for all features."
 }

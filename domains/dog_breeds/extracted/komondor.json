@@ -1,183 +1,268 @@
 {
   "breed_id": "komondor",
   "features": {
-    "shedding": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 1.0,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 1.0,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "barking": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "reactivity": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "alone_tolerance": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "sitter_compatibility": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "adaptability": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "child_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "pet_friendly": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "stranger_friendly": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "protectiveness": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "stress_sensitivity": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "affection_level": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "independence": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "trainability": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "working_drive": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "prey_drive": {
-      "value": 0.3,
-      "confidence": 0.6
-    },
-    "hunting_instinct": {
-      "value": 0.3,
-      "confidence": 0.6
-    }
+    "shedding": [
+      {
+        "value": 0.1,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 1.0,
+        "confidence": 0.9,
+        "source": "American Kennel Club"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.3,
+        "confidence": 0.4,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.4,
+        "confidence": 0.4,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 1.0,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.7,
+        "confidence": 0.4,
+        "source": "Wikipedia (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.8,
+        "confidence": 0.5,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 55,
+        "value": [
+          50,
+          60
+        ],
         "confidence": 0.9,
-        "source": "AKC"
+        "source": "American Kennel Club"
       },
       {
-        "value": 50,
-        "confidence": 0.8,
-        "source": "FCI"
-      },
-      {
-        "value": 52.5,
+        "value": [
+          45,
+          55
+        ],
         "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "Dog Show School"
       }
     ],
     "height_cm": [
       {
-        "value": 72.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 70,
-        "confidence": 0.8,
-        "source": "FCI"
-      },
-      {
-        "value": 71.25,
+        "value": [
+          70,
+          78
+        ],
         "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "Dog Show School"
+      },
+      {
+        "value": [
+          65,
+          73
+        ],
+        "confidence": 0.7,
+        "source": "Dog Show School"
       }
     ],
     "lifespan_years": [
       {
-        "value": 11,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 12,
-        "confidence": 0.8,
-        "source": "FCI"
-      },
-      {
-        "value": 11.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
       }
     ]
   },
-  "notes": "The Komondor is a large, muscular dog with a distinctive corded coat requiring extensive grooming. They are known for their strong protective instincts and loyalty to their family. Early socialization and consistent training are essential to manage their independent nature and guarding tendencies. While they can adapt to family life, they are better suited to homes with ample space and experienced owners."
+  "notes": "Several features lack explicit information in the provided sources, resulting in null values. Mappings from textual descriptions to numerical values are explicitly noted. Confidence levels are assigned based on the source reliability scale."
 }

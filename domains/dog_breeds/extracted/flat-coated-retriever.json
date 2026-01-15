@@ -1,183 +1,255 @@
 {
   "breed_id": "flat-coated-retriever",
   "features": {
-    "shedding": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "dander_level": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.4,
-      "confidence": 0.8
-    },
-    "genetic_risk": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "apartment_ok": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "barking": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "reactivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "alone_tolerance": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "pet_friendly": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "stranger_friendly": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "territoriality": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "independence": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "trainability": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "working_drive": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "behavior_management_need": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.8,
-      "confidence": 0.8
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Orvis (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.5,
+        "confidence": 0.9,
+        "source": "The Kennel Club"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Orvis (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Orvis (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Orvis (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "barking": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Orvis (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Orvis (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Orvis (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Orvis (textual description mapped)"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "adaptability": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "affection_level": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "playfulness": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "trainability": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": null,
+        "source": null
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 30,
+        "value": [
+          27,
+          36
+        ],
         "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 31,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 32,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "The Kennel Club"
       }
     ],
     "height_cm": [
       {
-        "value": 60,
+        "value": [
+          58,
+          61
+        ],
         "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 61,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 59,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "The Kennel Club"
       }
     ],
     "lifespan_years": [
       {
-        "value": 10,
-        "confidence": 0.9,
-        "source": "Purina"
-      },
-      {
-        "value": 11,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
-      },
-      {
-        "value": 10.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          8,
+          10
+        ],
+        "confidence": 0.5,
+        "source": "Orvis"
       }
     ]
   },
-  "notes": "Flat-Coated Retrievers are known for their friendly and energetic nature, requiring ample exercise and mental stimulation. They have a higher predisposition to certain cancers, which affects their overall health robustness."
+  "notes": "Several features lack specific data from the provided sources, resulting in null values. The available information primarily addresses coat characteristics, health concerns, and basic physical parameters. Notably, the breed's high energy levels and exercise needs are emphasized, correlating with their working dog heritage. However, detailed behavioral traits, social compatibility, and other temperament-related features are not explicitly covered in the sources, leading to gaps in the dataset."
 }

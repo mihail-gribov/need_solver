@@ -1,183 +1,252 @@
 {
   "breed_id": "tibetan-mastiff",
   "features": {
-    "shedding": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "coat_type": {
-      "value": 1.0,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "grooming": {
-      "value": 0.7,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "genetic_risk": {
-      "value": 0.4,
-      "confidence": 0.8
-    },
-    "apartment_ok": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "barking": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "energy": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "noise_tolerance": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.3,
-      "confidence": 0.8
-    },
-    "territoriality": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "protectiveness": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "stress_sensitivity": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "independence": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "playfulness": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "trainability": {
-      "value": 0.4,
-      "confidence": 0.8
-    },
-    "working_drive": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "behavior_management_need": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "mental_stimulation": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "prey_drive": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.3,
-      "confidence": 0.7
-    }
+    "shedding": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "American Tibetan Mastiff Association (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "United Kennel Club (UKC)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.7,
+        "confidence": 0.7,
+        "source": "American Tibetan Mastiff Association (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "barking": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "energy": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.3,
+        "confidence": 0.9,
+        "source": "United Kennel Club (UKC) (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "United Kennel Club (UKC) (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "United Kennel Club (UKC) (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "trainability": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 45,
+        "value": [
+          31.75,
+          68.04
+        ],
         "confidence": 0.9,
-        "source": "UKC"
-      },
-      {
-        "value": 50,
-        "confidence": 0.8,
-        "source": "VCA Animal Hospitals"
-      },
-      {
-        "value": 48,
-        "confidence": 0.7,
-        "source": "DogZone"
+        "source": "United Kennel Club (UKC)"
       }
     ],
     "height_cm": [
       {
-        "value": 66,
+        "value": [
+          61,
+          76
+        ],
         "confidence": 0.9,
-        "source": "UKC"
-      },
-      {
-        "value": 68,
-        "confidence": 0.8,
-        "source": "VCA Animal Hospitals"
-      },
-      {
-        "value": 67,
-        "confidence": 0.7,
-        "source": "DogZone"
+        "source": "United Kennel Club (UKC)"
       }
     ],
     "lifespan_years": [
       {
-        "value": 11,
-        "confidence": 0.9,
-        "source": "VCA Animal Hospitals"
-      },
-      {
-        "value": 12,
-        "confidence": 0.8,
-        "source": "DogZone"
-      },
-      {
-        "value": 11.5,
-        "confidence": 0.7,
-        "source": "Daily Paws"
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit source found"
       }
     ]
   },
-  "notes": "The Tibetan Mastiff is a large, independent, and protective breed with specific care requirements. They are known for their heavy seasonal shedding and require regular grooming. Their strong territorial instincts make them excellent guardians but may pose challenges in socialization and training. Potential owners should be prepared for their unique temperament and care needs."
+  "notes": "Several features lack explicit data from the provided sources, resulting in null values. The shedding and grooming levels are inferred from textual descriptions and mapped accordingly. Weight and height parameters are sourced from the United Kennel Club (UKC)."
 }

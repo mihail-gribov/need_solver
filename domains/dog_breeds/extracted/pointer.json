@@ -1,183 +1,255 @@
 {
   "breed_id": "pointer",
   "features": {
-    "shedding": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.2,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.2,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "genetic_risk": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "apartment_ok": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "barking": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "reactivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "child_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "territoriality": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "working_drive": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "behavior_management_need": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "prey_drive": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "hunting_instinct": {
-      "value": 0.9,
-      "confidence": 0.9
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.3,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.3,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "barking": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.9,
+        "source": "AKC (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No specific information available"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 27.5,
+        "value": [
+          20.4,
+          34.0
+        ],
         "confidence": 0.9,
         "source": "AKC"
-      },
-      {
-        "value": 27.5,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 27.5,
-        "confidence": 0.7,
-        "source": "Wikipedia"
       }
     ],
     "height_cm": [
       {
-        "value": 66,
+        "value": [
+          61.0,
+          71.0
+        ],
         "confidence": 0.9,
         "source": "AKC"
-      },
-      {
-        "value": 66,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 66,
-        "confidence": 0.7,
-        "source": "Wikipedia"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13,
+        "value": [
+          12,
+          14
+        ],
         "confidence": 0.9,
         "source": "AKC"
-      },
-      {
-        "value": 13,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 13,
-        "confidence": 0.7,
-        "source": "Wikipedia"
       }
     ]
   },
-  "notes": "The Pointer is an energetic and affectionate breed, requiring substantial exercise and mental stimulation. They are generally healthy with a lifespan of 12-15 years. Their short coat requires minimal grooming, but they are average shedders. Pointers are friendly with children and other pets when properly socialized, though their high energy levels may be overwhelming for very young children. They are intelligent and highly trainable, making them excellent companions for active families."
+  "notes": "Some features lack specific information in the provided sources, resulting in null values. Mapped textual descriptions are explicitly noted."
 }

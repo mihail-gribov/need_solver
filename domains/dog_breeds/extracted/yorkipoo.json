@@ -1,183 +1,275 @@
 {
   "breed_id": "yorkipoo",
   "features": {
-    "shedding": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "dander_level": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.9,
-      "confidence": 0.9
-    },
-    "barking": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "child_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "stranger_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "protectiveness": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "stress_sensitivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.9,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "working_drive": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "behavior_management_need": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "prey_drive": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "hunting_instinct": {
-      "value": 0.4,
-      "confidence": 0.6
-    }
+    "shedding": [
+      {
+        "value": 0.1,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      },
+      {
+        "value": 0.1,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      },
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Betterpet (textual description mapped)"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Betterpet (textual description mapped)"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      },
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Betterpet (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.9,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      },
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Rover.com (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 2.5,
-        "confidence": 0.7,
-        "source": "MetLife Pet Insurance"
-      },
-      {
-        "value": 4.5,
-        "confidence": 0.7,
-        "source": "Daily Paws"
-      },
-      {
-        "value": 5.5,
-        "confidence": 0.7,
-        "source": "Adopt a Pet"
+        "value": [
+          2,
+          7
+        ],
+        "confidence": 0.5,
+        "source": "AllThingsDogs"
       }
     ],
     "height_cm": [
       {
-        "value": 20,
-        "confidence": 0.7,
-        "source": "MetLife Pet Insurance"
-      },
-      {
-        "value": 25,
-        "confidence": 0.7,
-        "source": "Daily Paws"
-      },
-      {
-        "value": 30,
-        "confidence": 0.7,
-        "source": "Adopt a Pet"
+        "value": [
+          18,
+          38
+        ],
+        "confidence": 0.5,
+        "source": "AllThingsDogs"
       }
     ],
     "lifespan_years": [
       {
-        "value": 12.5,
-        "confidence": 0.7,
-        "source": "MetLife Pet Insurance"
-      },
-      {
-        "value": 12.5,
-        "confidence": 0.7,
-        "source": "Daily Paws"
-      },
-      {
-        "value": 12.5,
-        "confidence": 0.7,
-        "source": "Adopt a Pet"
+        "value": [
+          12,
+          15
+        ],
+        "confidence": 0.5,
+        "source": "PetMD"
       }
     ]
   },
-  "notes": "The Yorkipoo is a small, affectionate, and intelligent hybrid breed resulting from the cross between a Yorkshire Terrier and a Poodle. They are known for their low-shedding coats, making them suitable for individuals with mild allergies. Regular grooming is essential to maintain their coat health. Yorkipoos are highly adaptable to various living environments, including apartments, and thrive on human companionship. They may develop separation anxiety if left alone for extended periods. Early socialization and positive reinforcement training are recommended to manage their intelligent and sometimes stubborn nature. Common health issues include dental problems, patellar luxation, and hypoglycemia. Regular veterinary care and preventive measures are important to address these concerns."
+  "notes": "Some features are inferred from textual descriptions and mapped to numerical values. Confidence levels are set at 0.5 due to the reliance on general pet information sources. Specific quantitative data for certain features are limited, leading to potential uncertainties."
 }

@@ -2,206 +2,144 @@
   "breed_id": "irish-wolfhound",
   "features": {
     "shedding": {
-      "t": 0.4,
-      "f": 0.4,
-      "state": "unknown",
+      "t": 0.565,
+      "f": 0.46,
+      "state": "true",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)",
+        "Westminster Kennel Club (textual description mapped)"
       ],
-      "n_sources": 1,
+      "n_sources": 2,
       "components": {
-        "truth": 0.24,
-        "falsity": 0.24,
-        "unknown": 0.36,
-        "conflict": 0.16
+        "truth": 0.305,
+        "falsity": 0.2,
+        "unknown": 0.235,
+        "conflict": 0.26
       }
     },
     "coat_type": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "dander_level": {
-      "t": 0.3,
-      "f": 0.3,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
-      }
+      "note": "all values null"
     },
     "grooming": {
-      "t": 0.4,
-      "f": 0.4,
-      "state": "unknown",
+      "t": 0.46,
+      "f": 0.565,
+      "state": "false",
       "sources": [
-        "unknown"
+        "Westminster Kennel Club (textual description mapped)",
+        "PetMD (textual description mapped)"
       ],
-      "n_sources": 1,
+      "n_sources": 2,
       "components": {
-        "truth": 0.24,
-        "falsity": 0.24,
-        "unknown": 0.36,
-        "conflict": 0.16
+        "truth": 0.2,
+        "falsity": 0.305,
+        "unknown": 0.235,
+        "conflict": 0.26
       }
     },
     "health_robustness": {
-      "t": 0.27,
-      "f": 0.63,
-      "state": "false",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.1,
-        "falsity": 0.46,
-        "unknown": 0.27,
-        "conflict": 0.17
-      }
+      "note": "all values null"
     },
     "genetic_risk": {
-      "t": 0.63,
-      "f": 0.27,
-      "state": "true",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.46,
-        "falsity": 0.1,
-        "unknown": 0.27,
-        "conflict": 0.17
-      }
+      "note": "all values null"
     },
     "apartment_ok": {
-      "t": 0.21,
-      "f": 0.49,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.107,
-        "falsity": 0.387,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
+      "note": "all values null"
     },
     "barking": {
-      "t": 0.16,
-      "f": 0.64,
+      "t": 0.226,
+      "f": 0.736,
       "state": "false",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)",
+        "Westminster Kennel Club (textual description mapped)"
       ],
-      "n_sources": 1,
+      "n_sources": 2,
       "components": {
-        "truth": 0.058,
-        "falsity": 0.538,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.06,
+        "falsity": 0.57,
+        "unknown": 0.204,
+        "conflict": 0.166
       }
     },
     "energy": {
-      "t": 0.4,
-      "f": 0.4,
-      "state": "unknown",
+      "t": 0.565,
+      "f": 0.46,
+      "state": "true",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)",
+        "Westminster Kennel Club (textual description mapped)"
       ],
-      "n_sources": 1,
+      "n_sources": 2,
       "components": {
-        "truth": 0.24,
-        "falsity": 0.24,
-        "unknown": 0.36,
-        "conflict": 0.16
+        "truth": 0.305,
+        "falsity": 0.2,
+        "unknown": 0.235,
+        "conflict": 0.26
       }
     },
     "reactivity": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "noise_tolerance": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
     },
     "exercise_need": {
-      "t": 0.4,
-      "f": 0.4,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.24,
-        "falsity": 0.24,
-        "unknown": 0.36,
-        "conflict": 0.16
-      }
-    },
-    "alone_tolerance": {
-      "t": 0.21,
-      "f": 0.49,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.107,
-        "falsity": 0.387,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "separation_anxiety_risk": {
       "t": 0.49,
       "f": 0.21,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "The Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
@@ -211,12 +149,60 @@
         "conflict": 0.103
       }
     },
+    "alone_tolerance": {
+      "t": 0.15,
+      "f": 0.35,
+      "state": "unknown",
+      "sources": [
+        "PetMD (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.098,
+        "falsity": 0.297,
+        "unknown": 0.552,
+        "conflict": 0.052
+      }
+    },
+    "separation_anxiety_risk": {
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
+      "sources": [
+        "PetMD (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
+      }
+    },
     "sitter_compatibility": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "adaptability": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "child_friendly": {
       "t": 0.42,
       "f": 0.28,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Westminster Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
@@ -224,89 +210,29 @@
         "falsity": 0.162,
         "unknown": 0.418,
         "conflict": 0.118
-      }
-    },
-    "adaptability": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
-    },
-    "child_friendly": {
-      "t": 0.81,
-      "f": 0.09,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.737,
-        "falsity": 0.017,
-        "unknown": 0.173,
-        "conflict": 0.073
       }
     },
     "pet_friendly": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "stranger_friendly": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
-      }
-    },
-    "territoriality": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
-    "protectiveness": {
       "t": 0.42,
       "f": 0.28,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Westminster Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
@@ -316,57 +242,63 @@
         "conflict": 0.118
       }
     },
-    "stress_sensitivity": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
+    "territoriality": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
+      "note": "all values null"
     },
-    "affection_level": {
-      "t": 0.81,
-      "f": 0.09,
+    "protectiveness": {
+      "t": 0.63,
+      "f": 0.07,
       "state": "true",
       "sources": [
-        "unknown"
+        "Westminster Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.737,
-        "falsity": 0.017,
-        "unknown": 0.173,
-        "conflict": 0.073
+        "truth": 0.586,
+        "falsity": 0.026,
+        "unknown": 0.344,
+        "conflict": 0.044
       }
     },
-    "independence": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
+    "stress_sensitivity": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
+      "note": "all values null"
+    },
+    "affection_level": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "independence": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
     },
     "playfulness": {
       "t": 0.42,
       "f": 0.28,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Westminster Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
@@ -377,93 +309,75 @@
       }
     },
     "trainability": {
-      "t": 0.48,
-      "f": 0.32,
+      "t": 0.42,
+      "f": 0.28,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Westminster Kennel Club (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.326,
-        "falsity": 0.166,
-        "unknown": 0.354,
-        "conflict": 0.154
-      }
-    },
-    "working_drive": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
-    },
-    "behavior_management_need": {
-      "t": 0.28,
-      "f": 0.42,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.162,
-        "falsity": 0.302,
+        "truth": 0.302,
+        "falsity": 0.162,
         "unknown": 0.418,
         "conflict": 0.118
       }
     },
-    "mental_stimulation": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
+    "working_drive": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
       "sources": [
-        "unknown"
+        "No explicit information found"
       ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
+      "note": "all values null"
+    },
+    "behavior_management_need": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
+    },
+    "mental_stimulation": {
+      "t": 0,
+      "f": 0,
+      "state": "U",
+      "sources": [
+        "No explicit information found"
+      ],
+      "note": "all values null"
     },
     "prey_drive": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "hunting_instinct": {
-      "t": 0.56,
-      "f": 0.24,
-      "state": "true",
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "PetMD (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.426,
-        "falsity": 0.106,
-        "unknown": 0.334,
-        "conflict": 0.134
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     }
   },
@@ -473,34 +387,34 @@
       "values": {
         "size_toy": {
           "t": 0.0,
-          "f": 0.9,
+          "f": 0.767,
           "state": "false",
           "votes_for": 0,
           "votes_against": 3
         },
         "size_small": {
           "t": 0.0,
-          "f": 0.9,
+          "f": 0.767,
           "state": "false",
           "votes_for": 0,
           "votes_against": 3
         },
         "size_medium": {
           "t": 0.0,
-          "f": 0.9,
+          "f": 0.767,
           "state": "false",
           "votes_for": 0,
           "votes_against": 3
         },
         "size_large": {
           "t": 0.0,
-          "f": 0.9,
+          "f": 0.767,
           "state": "false",
           "votes_for": 0,
           "votes_against": 3
         },
         "size_giant": {
-          "t": 0.9,
+          "t": 0.767,
           "f": 0.0,
           "state": "true",
           "votes_for": 3,
@@ -508,7 +422,7 @@
         },
         "size_small_or_less": {
           "t": 0.0,
-          "f": 0.81,
+          "f": 0.588,
           "state": "false",
           "derived_from": [
             "size_toy",
@@ -517,8 +431,8 @@
         },
         "size_medium_or_less": {
           "t": 0.0,
-          "f": 0.729,
-          "state": "false",
+          "f": 0.451,
+          "state": "unknown",
           "derived_from": [
             "size_toy",
             "size_small",
@@ -526,7 +440,7 @@
           ]
         },
         "size_large_or_more": {
-          "t": 0.9,
+          "t": 0.767,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -541,34 +455,34 @@
       "values": {
         "height_tiny": {
           "t": 0.0,
-          "f": 0.9,
+          "f": 0.767,
           "state": "false",
           "votes_for": 0,
           "votes_against": 3
         },
         "height_small": {
           "t": 0.0,
-          "f": 0.9,
+          "f": 0.767,
           "state": "false",
           "votes_for": 0,
           "votes_against": 3
         },
         "height_medium": {
           "t": 0.0,
-          "f": 0.9,
+          "f": 0.767,
           "state": "false",
           "votes_for": 0,
           "votes_against": 3
         },
         "height_large": {
           "t": 0.0,
-          "f": 0.9,
+          "f": 0.767,
           "state": "false",
           "votes_for": 0,
           "votes_against": 3
         },
         "height_giant": {
-          "t": 0.9,
+          "t": 0.767,
           "f": 0.0,
           "state": "true",
           "votes_for": 3,
@@ -576,7 +490,7 @@
         },
         "height_small_or_less": {
           "t": 0.0,
-          "f": 0.81,
+          "f": 0.588,
           "state": "false",
           "derived_from": [
             "height_tiny",
@@ -585,8 +499,8 @@
         },
         "height_medium_or_less": {
           "t": 0.0,
-          "f": 0.729,
-          "state": "false",
+          "f": 0.451,
+          "state": "unknown",
           "derived_from": [
             "height_tiny",
             "height_small",
@@ -594,7 +508,7 @@
           ]
         },
         "height_large_or_more": {
-          "t": 0.9,
+          "t": 0.767,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -608,37 +522,37 @@
       "source_param": "lifespan_years",
       "values": {
         "lifespan_short": {
-          "t": 0.85,
-          "f": 0.0,
-          "state": "true",
-          "votes_for": 3,
-          "votes_against": 0
-        },
-        "lifespan_medium": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
+        },
+        "lifespan_medium": {
+          "t": 0.7,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 1,
+          "votes_against": 0
         },
         "lifespan_long": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "lifespan_very_long": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.7,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "lifespan_medium_or_more": {
-          "t": 0.0,
-          "f": 0.614,
-          "state": "false",
+          "t": 0.7,
+          "f": 0.0,
+          "state": "true",
           "derived_from": [
             "lifespan_medium",
             "lifespan_long",
@@ -647,8 +561,8 @@
         },
         "lifespan_long_or_more": {
           "t": 0.0,
-          "f": 0.722,
-          "state": "false",
+          "f": 0.49,
+          "state": "unknown",
           "derived_from": [
             "lifespan_long",
             "lifespan_very_long"
@@ -660,56 +574,67 @@
   "parameters_raw": {
     "weight_kg": [
       {
-        "value": 54.5,
-        "confidence": 0.95,
-        "source": "AKC"
-      },
-      {
-        "value": 54,
+        "value": [
+          54.5,
+          null
+        ],
         "confidence": 0.9,
-        "source": "CKC"
+        "source": "The Kennel Club"
       },
       {
-        "value": 54,
-        "confidence": 0.85,
-        "source": "Wikipedia"
+        "value": [
+          54.5,
+          null
+        ],
+        "confidence": 0.9,
+        "source": "AKC Breed Standard"
+      },
+      {
+        "value": [
+          54.5,
+          null
+        ],
+        "confidence": 0.5,
+        "source": "Purina"
       }
     ],
     "height_cm": [
       {
-        "value": 81,
-        "confidence": 0.95,
-        "source": "AKC"
-      },
-      {
-        "value": 81.25,
+        "value": [
+          79,
+          null
+        ],
         "confidence": 0.9,
-        "source": "CKC"
+        "source": "The Kennel Club"
       },
       {
-        "value": 81,
-        "confidence": 0.85,
-        "source": "Wikipedia"
+        "value": [
+          81,
+          null
+        ],
+        "confidence": 0.9,
+        "source": "AKC Breed Standard"
+      },
+      {
+        "value": [
+          76,
+          null
+        ],
+        "confidence": 0.5,
+        "source": "Purina"
       }
     ],
     "lifespan_years": [
       {
-        "value": 7,
-        "confidence": 0.9,
-        "source": "Wikipedia"
-      },
-      {
-        "value": 7,
-        "confidence": 0.85,
-        "source": "PetMD"
-      },
-      {
-        "value": 7,
-        "confidence": 0.8,
-        "source": "Hill's Pet"
+        "value": [
+          null,
+          10
+        ],
+        "confidence": 0.7,
+        "source": "The Kennel Club"
       }
     ]
   },
-  "notes": "The Irish Wolfhound is a gentle giant known for its affectionate nature and imposing size. While they are friendly and good with children, their large size and exercise needs make them less suitable for apartment living. They have a relatively short lifespan and are prone to certain health issues common in large breeds.",
+  "notes": "Several features lack explicit data from the provided sources, resulting in null values. Mapped textual descriptions are noted where applicable. Weight and height parameters show slight variations across sources.",
   "sources": []
 }

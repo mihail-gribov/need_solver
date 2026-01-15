@@ -1,178 +1,255 @@
 {
   "breed_id": "cardigan-welsh-corgi",
   "features": {
-    "shedding": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "dander_level": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "grooming": {
-      "value": 0.5,
-      "confidence": 0.8
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "barking": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "exercise_need": {
-      "value": 0.6,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "adaptability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "child_friendly": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "pet_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "stranger_friendly": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "territoriality": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "stress_sensitivity": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "affection_level": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "independence": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "playfulness": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "trainability": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "working_drive": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "behavior_management_need": {
-      "value": 0.5,
-      "confidence": 0.7
-    },
-    "mental_stimulation": {
-      "value": 0.7,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.4,
-      "confidence": 0.7
-    },
-    "hunting_instinct": {
-      "value": 0.4,
-      "confidence": 0.7
-    }
+    "shedding": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetGOV (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.5,
+        "confidence": 0.9,
+        "source": "The Kennel Club"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetGOV (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "PetGOV (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "PetGOV (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Good Dog (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "PetMD (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Good Dog (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Good Dog (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Good Dog (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 15.9,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 15.9,
-        "confidence": 0.8,
-        "source": "National Kennel Club"
-      },
-      {
-        "value": 15.9,
+        "value": [
+          11.3,
+          15.4
+        ],
         "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "National Kennel Club"
       }
     ],
     "height_cm": [
       {
-        "value": 28.6,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 28.6,
-        "confidence": 0.8,
-        "source": "National Kennel Club"
-      },
-      {
-        "value": 28.6,
+        "value": [
+          26.7,
+          31.8
+        ],
         "confidence": 0.7,
-        "source": "Wikipedia"
+        "source": "National Kennel Club"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13.5,
-        "confidence": 0.8,
-        "source": "Good Dog"
-      },
-      {
-        "value": 13.5,
-        "confidence": 0.7,
-        "source": "Snuffalo"
+        "value": [
+          12,
+          15
+        ],
+        "confidence": 0.5,
+        "source": "PetGOV"
       }
     ]
   },
-  "notes": "The Cardigan Welsh Corgi is a versatile and adaptable breed, suitable for various living environments. They are affectionate and loyal, making them excellent family companions. Regular exercise and mental stimulation are essential to keep them healthy and happy. While generally healthy, they are prone to certain hereditary conditions, so regular veterinary care is recommended."
+  "notes": "Several features lack explicit information in the provided sources, resulting in null values. Mapped textual descriptions are noted accordingly."
 }

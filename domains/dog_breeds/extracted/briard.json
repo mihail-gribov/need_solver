@@ -1,173 +1,255 @@
 {
   "breed_id": "briard",
   "features": {
-    "shedding": {
-      "value": 0.2,
-      "confidence": 0.8
-    },
-    "coat_type": {
-      "value": 1.0,
-      "confidence": 0.9
-    },
-    "dander_level": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "grooming": {
-      "value": 0.8,
-      "confidence": 0.9
-    },
-    "health_robustness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "genetic_risk": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "apartment_ok": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "barking": {
-      "value": 0.3,
-      "confidence": 0.7
-    },
-    "energy": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "reactivity": {
-      "value": 0.6,
-      "confidence": 0.7
-    },
-    "noise_tolerance": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "exercise_need": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "alone_tolerance": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "separation_anxiety_risk": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "sitter_compatibility": {
-      "value": 0.7,
-      "confidence": 0.6
-    },
-    "adaptability": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "child_friendly": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "pet_friendly": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "stranger_friendly": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "territoriality": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "protectiveness": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "stress_sensitivity": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "affection_level": {
-      "value": 0.8,
-      "confidence": 0.7
-    },
-    "independence": {
-      "value": 0.5,
-      "confidence": 0.6
-    },
-    "playfulness": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "trainability": {
-      "value": 0.7,
-      "confidence": 0.7
-    },
-    "working_drive": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "behavior_management_need": {
-      "value": 0.6,
-      "confidence": 0.6
-    },
-    "mental_stimulation": {
-      "value": 0.8,
-      "confidence": 0.8
-    },
-    "prey_drive": {
-      "value": 0.4,
-      "confidence": 0.6
-    },
-    "hunting_instinct": {
-      "value": 0.4,
-      "confidence": 0.6
-    }
+    "shedding": [
+      {
+        "value": 0.2,
+        "confidence": 0.6,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "coat_type": [
+      {
+        "value": 0.8,
+        "confidence": 0.9,
+        "source": "The Kennel Club"
+      }
+    ],
+    "dander_level": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "grooming": [
+      {
+        "value": 0.8,
+        "confidence": 0.6,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "health_robustness": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "genetic_risk": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "apartment_ok": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "barking": [
+      {
+        "value": 0.2,
+        "confidence": 0.6,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "energy": [
+      {
+        "value": 0.6,
+        "confidence": 0.6,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "reactivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "noise_tolerance": [
+      {
+        "value": null,
+        "confidence": 0.0,
+        "source": "No explicit information found"
+      }
+    ],
+    "exercise_need": [
+      {
+        "value": 0.6,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "alone_tolerance": [
+      {
+        "value": 0.3,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "separation_anxiety_risk": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "sitter_compatibility": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "adaptability": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "child_friendly": [
+      {
+        "value": 0.6,
+        "confidence": 0.6,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "pet_friendly": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "stranger_friendly": [
+      {
+        "value": 0.6,
+        "confidence": 0.6,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "territoriality": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "protectiveness": [
+      {
+        "value": 0.8,
+        "confidence": 0.6,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "stress_sensitivity": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "affection_level": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "independence": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "playfulness": [
+      {
+        "value": 0.6,
+        "confidence": 0.6,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "trainability": [
+      {
+        "value": 0.6,
+        "confidence": 0.6,
+        "source": "Westminster Kennel Club (textual description mapped)"
+      }
+    ],
+    "working_drive": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "behavior_management_need": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "mental_stimulation": [
+      {
+        "value": 0.7,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "prey_drive": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ],
+    "hunting_instinct": [
+      {
+        "value": 0.5,
+        "confidence": 0.5,
+        "source": "Purina (textual description mapped)"
+      }
+    ]
   },
   "parameters": {
     "weight_kg": [
       {
-        "value": 36,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 34,
-        "confidence": 0.8,
+        "value": [
+          25,
+          35
+        ],
+        "confidence": 0.5,
         "source": "Purina"
-      },
-      {
-        "value": 38,
-        "confidence": 0.7,
-        "source": "Wikipedia"
       }
     ],
     "height_cm": [
       {
-        "value": 63,
+        "value": [
+          58,
+          69
+        ],
         "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 61,
-        "confidence": 0.8,
-        "source": "PetMD"
+        "source": "The Kennel Club"
       }
     ],
     "lifespan_years": [
       {
-        "value": 11,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 12,
-        "confidence": 0.8,
+        "value": [
+          10,
+          12
+        ],
+        "confidence": 0.5,
         "source": "Purina"
       }
     ]
   },
-  "notes": "The Briard is a loyal and intelligent breed with a strong herding instinct. They require regular grooming due to their long coat and benefit from consistent training and socialization. While generally healthy, they can be prone to certain genetic conditions, so regular veterinary check-ups are recommended."
+  "notes": "Some features have been mapped from textual descriptions to numerical values, as indicated in the source notes. Certain features lack explicit information in the provided sources and are marked as null."
 }

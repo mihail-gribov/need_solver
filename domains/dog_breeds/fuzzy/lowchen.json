@@ -2,468 +2,468 @@
   "breed_id": "lowchen",
   "features": {
     "shedding": {
-      "t": 0.18,
-      "f": 0.72,
-      "state": "false",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.05,
-        "falsity": 0.59,
-        "unknown": 0.23,
-        "conflict": 0.13
-      }
-    },
-    "coat_type": {
-      "t": 0.72,
-      "f": 0.18,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.59,
-        "falsity": 0.05,
-        "unknown": 0.23,
-        "conflict": 0.13
-      }
-    },
-    "dander_level": {
-      "t": 0.16,
-      "f": 0.64,
-      "state": "false",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.058,
-        "falsity": 0.538,
-        "unknown": 0.302,
-        "conflict": 0.102
-      }
-    },
-    "grooming": {
-      "t": 0.72,
-      "f": 0.18,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.59,
-        "falsity": 0.05,
-        "unknown": 0.23,
-        "conflict": 0.13
-      }
-    },
-    "health_robustness": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "genetic_risk": {
-      "t": 0.21,
-      "f": 0.49,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.107,
-        "falsity": 0.387,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "apartment_ok": {
-      "t": 0.81,
-      "f": 0.09,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.737,
-        "falsity": 0.017,
-        "unknown": 0.173,
-        "conflict": 0.073
-      }
-    },
-    "barking": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
-    "energy": {
-      "t": 0.48,
-      "f": 0.32,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.326,
-        "falsity": 0.166,
-        "unknown": 0.354,
-        "conflict": 0.154
-      }
-    },
-    "reactivity": {
-      "t": 0.35,
-      "f": 0.35,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.227,
-        "falsity": 0.227,
-        "unknown": 0.423,
-        "conflict": 0.122
-      }
-    },
-    "noise_tolerance": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
-      }
-    },
-    "exercise_need": {
-      "t": 0.4,
+      "t": 0.1,
       "f": 0.4,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.06,
+        "falsity": 0.36,
+        "unknown": 0.54,
+        "conflict": 0.04
+      }
+    },
+    "coat_type": {
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
+      }
+    },
+    "dander_level": {
+      "t": 0.12,
+      "f": 0.28,
+      "state": "unknown",
+      "sources": [
+        "Wikipedia (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.086,
+        "falsity": 0.246,
+        "unknown": 0.634,
+        "conflict": 0.034
+      }
+    },
+    "grooming": {
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
+      }
+    },
+    "health_robustness": {
+      "t": 0.28,
+      "f": 0.12,
+      "state": "unknown",
+      "sources": [
+        "Wikipedia (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.246,
+        "falsity": 0.086,
+        "unknown": 0.634,
+        "conflict": 0.034
+      }
+    },
+    "genetic_risk": {
+      "t": 0.12,
+      "f": 0.28,
+      "state": "unknown",
+      "sources": [
+        "Wikipedia (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.086,
+        "falsity": 0.246,
+        "unknown": 0.634,
+        "conflict": 0.034
+      }
+    },
+    "apartment_ok": {
+      "t": 0.4,
+      "f": 0.1,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.36,
+        "falsity": 0.06,
+        "unknown": 0.54,
+        "conflict": 0.04
+      }
+    },
+    "barking": {
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
+      }
+    },
+    "energy": {
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
+      }
+    },
+    "reactivity": {
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
+      }
+    },
+    "noise_tolerance": {
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
+      }
+    },
+    "exercise_need": {
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
+      }
+    },
+    "alone_tolerance": {
+      "t": 0.12,
+      "f": 0.28,
+      "state": "unknown",
+      "sources": [
+        "Wikipedia (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.086,
+        "falsity": 0.246,
+        "unknown": 0.634,
+        "conflict": 0.034
+      }
+    },
+    "separation_anxiety_risk": {
+      "t": 0.28,
+      "f": 0.12,
+      "state": "unknown",
+      "sources": [
+        "Wikipedia (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.246,
+        "falsity": 0.086,
+        "unknown": 0.634,
+        "conflict": 0.034
+      }
+    },
+    "sitter_compatibility": {
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
+      }
+    },
+    "adaptability": {
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
+      }
+    },
+    "child_friendly": {
+      "t": 0.4,
+      "f": 0.1,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.36,
+        "falsity": 0.06,
+        "unknown": 0.54,
+        "conflict": 0.04
+      }
+    },
+    "pet_friendly": {
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
+      }
+    },
+    "stranger_friendly": {
+      "t": 0.3,
+      "f": 0.2,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
         "truth": 0.24,
-        "falsity": 0.24,
-        "unknown": 0.36,
-        "conflict": 0.16
-      }
-    },
-    "alone_tolerance": {
-      "t": 0.21,
-      "f": 0.49,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.107,
-        "falsity": 0.387,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "separation_anxiety_risk": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "sitter_compatibility": {
-      "t": 0.56,
-      "f": 0.14,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.482,
-        "falsity": 0.062,
-        "unknown": 0.378,
-        "conflict": 0.078
-      }
-    },
-    "adaptability": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
-      }
-    },
-    "child_friendly": {
-      "t": 0.81,
-      "f": 0.09,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.737,
-        "falsity": 0.017,
-        "unknown": 0.173,
-        "conflict": 0.073
-      }
-    },
-    "pet_friendly": {
-      "t": 0.49,
-      "f": 0.21,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.387,
-        "falsity": 0.107,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "stranger_friendly": {
-      "t": 0.42,
-      "f": 0.28,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
+        "falsity": 0.14,
+        "unknown": 0.56,
+        "conflict": 0.06
       }
     },
     "territoriality": {
-      "t": 0.24,
-      "f": 0.36,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Purina US (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.154,
-        "falsity": 0.274,
-        "unknown": 0.486,
-        "conflict": 0.086
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "protectiveness": {
-      "t": 0.3,
-      "f": 0.3,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Purina US (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "stress_sensitivity": {
-      "t": 0.3,
-      "f": 0.3,
+      "t": 0.25,
+      "f": 0.25,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Purina US (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.21,
-        "falsity": 0.21,
-        "unknown": 0.49,
-        "conflict": 0.09
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
       }
     },
     "affection_level": {
-      "t": 0.81,
-      "f": 0.09,
-      "state": "true",
+      "t": 0.4,
+      "f": 0.1,
+      "state": "unknown",
       "sources": [
-        "unknown"
+        "Purina US (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.737,
-        "falsity": 0.017,
-        "unknown": 0.173,
-        "conflict": 0.073
+        "truth": 0.36,
+        "falsity": 0.06,
+        "unknown": 0.54,
+        "conflict": 0.04
       }
     },
     "independence": {
-      "t": 0.21,
-      "f": 0.49,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.107,
-        "falsity": 0.387,
-        "unknown": 0.403,
-        "conflict": 0.103
-      }
-    },
-    "playfulness": {
-      "t": 0.64,
-      "f": 0.16,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.538,
-        "falsity": 0.058,
-        "unknown": 0.302,
-        "conflict": 0.102
-      }
-    },
-    "trainability": {
-      "t": 0.72,
-      "f": 0.18,
-      "state": "true",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.59,
-        "falsity": 0.05,
-        "unknown": 0.23,
-        "conflict": 0.13
-      }
-    },
-    "working_drive": {
-      "t": 0.24,
-      "f": 0.36,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.154,
-        "falsity": 0.274,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
-    },
-    "behavior_management_need": {
-      "t": 0.24,
-      "f": 0.36,
-      "state": "unknown",
-      "sources": [
-        "unknown"
-      ],
-      "n_sources": 1,
-      "components": {
-        "truth": 0.154,
-        "falsity": 0.274,
-        "unknown": 0.486,
-        "conflict": 0.086
-      }
-    },
-    "mental_stimulation": {
-      "t": 0.42,
+      "t": 0.12,
       "f": 0.28,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Wikipedia (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.302,
-        "falsity": 0.162,
-        "unknown": 0.418,
-        "conflict": 0.118
+        "truth": 0.086,
+        "falsity": 0.246,
+        "unknown": 0.634,
+        "conflict": 0.034
+      }
+    },
+    "playfulness": {
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
+      }
+    },
+    "trainability": {
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
+      }
+    },
+    "working_drive": {
+      "t": 0.12,
+      "f": 0.28,
+      "state": "unknown",
+      "sources": [
+        "Wikipedia (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.086,
+        "falsity": 0.246,
+        "unknown": 0.634,
+        "conflict": 0.034
+      }
+    },
+    "behavior_management_need": {
+      "t": 0.25,
+      "f": 0.25,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.188,
+        "falsity": 0.188,
+        "unknown": 0.562,
+        "conflict": 0.062
+      }
+    },
+    "mental_stimulation": {
+      "t": 0.35,
+      "f": 0.15,
+      "state": "unknown",
+      "sources": [
+        "Purina US (textual description mapped)"
+      ],
+      "n_sources": 1,
+      "components": {
+        "truth": 0.297,
+        "falsity": 0.098,
+        "unknown": 0.552,
+        "conflict": 0.053
       }
     },
     "prey_drive": {
-      "t": 0.18,
-      "f": 0.42,
+      "t": 0.2,
+      "f": 0.2,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Wikipedia (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.104,
-        "falsity": 0.344,
-        "unknown": 0.476,
-        "conflict": 0.076
+        "truth": 0.16,
+        "falsity": 0.16,
+        "unknown": 0.64,
+        "conflict": 0.04
       }
     },
     "hunting_instinct": {
-      "t": 0.18,
-      "f": 0.42,
+      "t": 0.12,
+      "f": 0.28,
       "state": "unknown",
       "sources": [
-        "unknown"
+        "Wikipedia (textual description mapped)"
       ],
       "n_sources": 1,
       "components": {
-        "truth": 0.104,
-        "falsity": 0.344,
-        "unknown": 0.476,
-        "conflict": 0.076
+        "truth": 0.086,
+        "falsity": 0.246,
+        "unknown": 0.634,
+        "conflict": 0.034
       }
     }
   },
@@ -473,41 +473,41 @@
       "values": {
         "size_toy": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_small": {
-          "t": 0.8,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
-          "votes_for": 3,
+          "votes_for": 1,
           "votes_against": 0
         },
         "size_medium": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_large": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_giant": {
           "t": 0.0,
-          "f": 0.8,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 3
+          "votes_against": 1
         },
         "size_small_or_less": {
-          "t": 0.8,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -516,7 +516,7 @@
           ]
         },
         "size_medium_or_less": {
-          "t": 0.8,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -527,8 +527,8 @@
         },
         "size_large_or_more": {
           "t": 0.0,
-          "f": 0.64,
-          "state": "false",
+          "f": 0.25,
+          "state": "unknown",
           "derived_from": [
             "size_large",
             "size_giant"
@@ -541,41 +541,41 @@
       "values": {
         "height_tiny": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 2
+          "votes_against": 1
         },
         "height_small": {
-          "t": 0.85,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
-          "votes_for": 2,
+          "votes_for": 1,
           "votes_against": 0
         },
         "height_medium": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 2
+          "votes_against": 1
         },
         "height_large": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 2
+          "votes_against": 1
         },
         "height_giant": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 2
+          "votes_against": 1
         },
         "height_small_or_less": {
-          "t": 0.85,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -584,7 +584,7 @@
           ]
         },
         "height_medium_or_less": {
-          "t": 0.85,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -595,8 +595,8 @@
         },
         "height_large_or_more": {
           "t": 0.0,
-          "f": 0.722,
-          "state": "false",
+          "f": 0.25,
+          "state": "unknown",
           "derived_from": [
             "height_large",
             "height_giant"
@@ -609,34 +609,34 @@
       "values": {
         "lifespan_short": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 2
+          "votes_against": 1
         },
         "lifespan_medium": {
           "t": 0.0,
-          "f": 0.85,
+          "f": 0.5,
           "state": "false",
           "votes_for": 0,
-          "votes_against": 2
+          "votes_against": 1
         },
         "lifespan_long": {
-          "t": 0.85,
+          "t": 0.5,
           "f": 0.0,
           "state": "true",
-          "votes_for": 2,
+          "votes_for": 1,
           "votes_against": 0
         },
         "lifespan_very_long": {
-          "t": 0.0,
-          "f": 0.85,
-          "state": "false",
-          "votes_for": 0,
-          "votes_against": 2
+          "t": 0.5,
+          "f": 0.0,
+          "state": "true",
+          "votes_for": 1,
+          "votes_against": 0
         },
         "lifespan_medium_or_more": {
-          "t": 0.85,
+          "t": 0.75,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -646,7 +646,7 @@
           ]
         },
         "lifespan_long_or_more": {
-          "t": 0.85,
+          "t": 0.75,
           "f": 0.0,
           "state": "true",
           "derived_from": [
@@ -660,46 +660,35 @@
   "parameters_raw": {
     "weight_kg": [
       {
-        "value": 5.9,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 6.8,
-        "confidence": 0.8,
-        "source": "Purina"
-      },
-      {
-        "value": 6.4,
-        "confidence": 0.7,
-        "source": "Wikipedia"
+        "value": [
+          5.4,
+          8.2
+        ],
+        "confidence": 0.5,
+        "source": "Purina US"
       }
     ],
     "height_cm": [
       {
-        "value": 30.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 33,
-        "confidence": 0.8,
-        "source": "PetMD"
+        "value": [
+          30,
+          33
+        ],
+        "confidence": 0.5,
+        "source": "Purina US"
       }
     ],
     "lifespan_years": [
       {
-        "value": 13.5,
-        "confidence": 0.9,
-        "source": "AKC"
-      },
-      {
-        "value": 14,
-        "confidence": 0.8,
-        "source": "Purina"
+        "value": [
+          12,
+          16
+        ],
+        "confidence": 0.5,
+        "source": "Purina US"
       }
     ]
   },
-  "notes": "The Löwchen is a small, affectionate breed known for its low-shedding coat and suitability for families. Regular grooming is essential to maintain their coat, and they thrive on human companionship. While generally healthy, they can be prone to certain genetic conditions such as patellar luxation and progressive retinal atrophy.",
+  "notes": "The extracted data is based on available sources, with confidence levels assigned according to the source reliability scale. Some features have been mapped from textual descriptions to numerical values, as indicated in the source notes. Certain features lack direct data and are inferred with lower confidence.",
   "sources": []
 }
